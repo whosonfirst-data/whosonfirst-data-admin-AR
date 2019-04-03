@@ -1,0 +1,246 @@
+{
+  "id": 421178989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68333,-39.26667,-65.68333,-39.26667",
+    "geom:latitude":-39.26667,
+    "geom:longitude":-65.68333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0644 \u0634\u0648\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:ceb_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:chi_x_preferred":[
+        "\u55ac\u57c3\u840a\u55ac\u57c3\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:dut_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:eng_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:fra_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:fre_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:ger_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:ita_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30a8\u30fc\u30ec\u30fb\u30c1\u30e7\u30a8\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "\u010coele \u010coelis"
+    ],
+    "name:nld_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:oci_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:por_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:spa_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:swe_x_preferred":[
+        "Choele Choel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0435\u043b\u0435-\u0427\u043e\u0435\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "C. Choel"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u57c3\u840a\u55ac\u57c3\u723e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"RRo Negro",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-39.26661,
+    "ne:LONGITUDE":-65.683314,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Choele Choel",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Choele Choel",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Choele Choel",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":10000,
+    "ne:POP_MIN":9791,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861329,
+    "qs:gn_pop":9791,
+    "qs:name":"Choele Choel",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150538,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467179,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"quattroshapes",
+    "wd:elevation":118.0,
+    "wd:latitude":-39.285833,
+    "wd:longitude":-65.654167,
+    "wd:wordcount":607,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861329,
+        "gp:id":467179,
+        "qs:id":150538,
+        "wd:id":"Q52522",
+        "wk:page":"Choele Choel"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009200,
+    "wof:geomhash":"d33726714afff494ce2e3655e57b170b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718387,
+            "locality_id":421178989,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421178989,
+    "wof:lastmodified":1534379080,
+    "wof:name":"Choele Choel",
+    "wof:parent_id":1108718387,
+    "wof:placetype":"locality",
+    "wof:population":9791,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141906747
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68333,
+    -39.26667,
+    -65.68333,
+    -39.26667
+],
+  "geometry": {"coordinates":[-65.68333,-39.26667],"type":"Point"}
+}

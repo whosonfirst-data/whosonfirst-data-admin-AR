@@ -1,0 +1,92 @@
+{
+  "id": 421183149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.98218,-26.45221,-65.98218,-26.45221",
+    "geom:latitude":-26.45221,
+    "geom:longitude":-65.98218,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Ba\u00f1ado"
+    ],
+    "name:deu_x_preferred":[
+        "El Ba\u00f1ado"
+    ],
+    "name:spa_x_preferred":[
+        "El Ba\u00f1ado"
+    ],
+    "name:swe_x_preferred":[
+        "El Ba\u00f1ado"
+    ],
+    "name:unk_x_variant":[
+        "Ba\u00f1ado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3858813,
+    "qs:gn_pop":0,
+    "qs:name":"El Ba\u00f1ado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":963783,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468840,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421186297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858813,
+        "gp:id":468840,
+        "qs:id":963783
+    },
+    "wof:country":"AR",
+    "wof:created":1459009359,
+    "wof:geomhash":"2d642cd77e991c3abd5c814124c5bf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186297,
+            "locality_id":421183149,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421183149,
+    "wof:lastmodified":1527717701,
+    "wof:name":"El Ba\u00f1ado",
+    "wof:parent_id":421186297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.98218,
+    -26.45221,
+    -65.98218,
+    -26.45221
+],
+  "geometry": {"coordinates":[-65.98218,-26.45221],"type":"Point"}
+}

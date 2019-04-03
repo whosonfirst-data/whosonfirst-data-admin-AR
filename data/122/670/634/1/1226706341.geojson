@@ -1,0 +1,73 @@
+{
+  "id": 1226706341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.44769,-52.88293,-68.44769,-52.88293",
+    "geom:latitude":-52.88293,
+    "geom:longitude":-68.44769,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"94007.0",
+    "gn:asciiname":"Cullen",
+    "gn:country_code":"AR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859649,
+    "gn:latitude":-52.88293,
+    "gn:longitude":-68.44769,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cullen",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Ushuaia",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cullen",
+        "Estancia R\u00edo Cullen",
+        "Cullen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995,
+        421175153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859649
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d5f2ed1786a749eef543a8d43d412255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175153,
+            "locality_id":1226706341,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":1226706341,
+    "wof:lastmodified":1537584886,
+    "wof:name":"Cullen",
+    "wof:parent_id":421175153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.44769000000001,
+    -52.88293,
+    -68.44769000000001,
+    -52.88293
+],
+  "geometry": {"coordinates":[-68.44769000000001,-52.88293],"type":"Point"}
+}

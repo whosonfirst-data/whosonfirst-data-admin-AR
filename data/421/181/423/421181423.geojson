@@ -1,0 +1,75 @@
+{
+  "id": 421181423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.420738,-32.181496,-64.420738,-32.181496",
+    "geom:latitude":-32.181496,
+    "geom:longitude":-64.420738,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ministro Pistarini",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":493901,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040617,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56040617,
+        "qs:id":493901
+    },
+    "wof:country":"AR",
+    "wof:created":1459009296,
+    "wof:geomhash":"3aae40ffc3e4651d69cd88abad7cf758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186303,
+            "locality_id":421181423,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421181423,
+    "wof:lastmodified":1499925205,
+    "wof:name":"Ministro Pistarini",
+    "wof:parent_id":421186303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.420738,
+    -32.181496,
+    -64.420738,
+    -32.181496
+],
+  "geometry": {"coordinates":[-64.420738,-32.181496],"type":"Point"}
+}

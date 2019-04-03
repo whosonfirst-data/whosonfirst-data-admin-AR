@@ -1,0 +1,99 @@
+{
+  "id": 421173689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.40297,-33.24104,-62.40297,-33.24104",
+    "geom:latitude":-33.24104,
+    "geom:longitude":-62.40297,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Isla Verde"
+    ],
+    "name:dut_x_preferred":[
+        "Isla Verde"
+    ],
+    "name:eng_x_preferred":[
+        "Isla Verde"
+    ],
+    "name:por_x_preferred":[
+        "Isla Verde"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Verde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u043b\u0430-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853643,
+    "qs:gn_pop":4245,
+    "qs:name":"Isla Verde",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":296516,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467722,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853643,
+        "gp:id":467722,
+        "qs:id":296516,
+        "wd:id":"Q9009713"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008999,
+    "wof:geomhash":"c0caa9dceb1489aa772dffa6c3347e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":421173689,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421173689,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Isla Verde",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:population":4245,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.40297,
+    -33.24104,
+    -62.40297,
+    -33.24104
+],
+  "geometry": {"coordinates":[-62.40297,-33.24104],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310569631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01373,-26.89125,-65.01373,-26.89125",
+    "geom:latitude":-26.89125,
+    "geom:longitude":-65.01373,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"Villa Rescate",
+    "gn:country_code":"AR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832645,
+    "gn:latitude":-26.89125,
+    "gn:longitude":-65.01373,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Rescate",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rescate",
+        "Villa Rescate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832645
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"76a60075519e2b2d18c2c70f3ad03035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":1310569631,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1310569631,
+    "wof:lastmodified":1537584831,
+    "wof:name":"Villa Rescate",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01373000000001,
+    -26.89125,
+    -65.01373000000001,
+    -26.89125
+],
+  "geometry": {"coordinates":[-65.01373000000001,-26.89125],"type":"Point"}
+}

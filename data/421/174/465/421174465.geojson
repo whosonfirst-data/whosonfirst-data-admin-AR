@@ -1,0 +1,111 @@
+{
+  "id": 421174465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.56285,-25.96879,-54.56285,-25.96879",
+    "geom:latitude":-25.96879,
+    "geom:longitude":-54.56285,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Wanda"
+    ],
+    "name:dut_x_preferred":[
+        "Wanda"
+    ],
+    "name:eng_x_preferred":[
+        "Wanda"
+    ],
+    "name:epo_x_preferred":[
+        "Wanda"
+    ],
+    "name:fra_x_preferred":[
+        "Wanda"
+    ],
+    "name:fre_x_preferred":[
+        "Wanda"
+    ],
+    "name:por_x_preferred":[
+        "Colonia Wanda"
+    ],
+    "name:spa_x_preferred":[
+        "Wanda"
+    ],
+    "name:swe_x_preferred":[
+        "Wanda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427327,
+    "qs:gn_pop":0,
+    "qs:name":"Wanda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":85,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":338477,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332458,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-25.972,
+    "wd:longitude":-54.566,
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421198471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427327,
+        "gp:id":332458,
+        "qs:id":338477,
+        "wd:id":"Q3115808",
+        "wk:page":"Wanda, Argentina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009033,
+    "wof:geomhash":"50ed46c02676ef2854b999487c8c023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198471,
+            "locality_id":421174465,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421174465,
+    "wof:lastmodified":1527716226,
+    "wof:name":"Wanda",
+    "wof:parent_id":421198471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.56285,
+    -25.96879,
+    -54.56285,
+    -25.96879
+],
+  "geometry": {"coordinates":[-54.56285,-25.96879],"type":"Point"}
+}

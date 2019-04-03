@@ -1,0 +1,224 @@
+{
+  "id": 1141909093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6989952038,-53.7914455169,-67.6989952038,-53.7914455169",
+    "geom:latitude":-53.791446,
+    "geom:longitude":-67.698995,
+    "iso:country":"AR",
+    "lbl:latitude":-53.791446,
+    "lbl:longitude":-67.698995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a\u060c \u062a\u064a\u064a\u0631\u0627 \u062f\u064a\u0644 \u0641\u0648\u064a\u063a\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "name:cze_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fry_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05d0\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30b0\u30e9\u30f3\u30c7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\uadf8\ub780\ub370"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Grand\u0117"
+    ],
+    "name:nno_x_preferred":[
+        "Rio Grande p\u00e5 Eldlandet"
+    ],
+    "name:nob_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647\u060c \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:por_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Tierra del Fuego",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Location adjusted. Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-53.791446,
+    "ne:LONGITUDE":-67.698995,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Rio Grande2",
+    "ne:MAX_AREAKM":19.0,
+    "ne:MAX_AREAMI":7.0,
+    "ne:MAX_BBXMAX":-67.683333,
+    "ne:MAX_BBXMIN":-67.783333,
+    "ne:MAX_BBYMAX":-53.758333,
+    "ne:MAX_BBYMIN":-53.808333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":29.0,
+    "ne:MAX_PERMI":18.0,
+    "ne:MAX_POP10":31095,
+    "ne:MAX_POP20":31095,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-67.729167,
+    "ne:MEAN_BBYC":-53.784347,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":19.0,
+    "ne:MIN_AREAMI":7.0,
+    "ne:MIN_BBXMAX":-67.683333,
+    "ne:MIN_BBXMIN":-67.783333,
+    "ne:MIN_BBYMAX":-53.758333,
+    "ne:MIN_BBYMIN":-53.808333,
+    "ne:MIN_PERKM":29.0,
+    "ne:MIN_PERMI":18.0,
+    "ne:NAME":"Rio Grande",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Rio Grande",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":31095,
+    "ne:POP_MIN":31095,
+    "ne:POP_OTHER":30938,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
+    "reversegeo:latitude":-53.791446,
+    "reversegeo:longitude":-67.698995,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995,
+        421175153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1005221"
+    },
+    "wof:country":"AR",
+    "wof:created":1499131024,
+    "wof:geomhash":"3df88a84618f40b879882ffb9a053a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175153,
+            "locality_id":1141909093,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":1141909093,
+    "wof:lastmodified":1513889371,
+    "wof:name":"Rio Grande",
+    "wof:parent_id":421175153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.69899520382046,
+    -53.79144551687307,
+    -67.69899520382046,
+    -53.79144551687307
+],
+  "geometry": {"coordinates":[-67.69899520382046,-53.79144551687307],"type":"Point"}
+}

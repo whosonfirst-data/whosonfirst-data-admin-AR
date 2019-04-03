@@ -1,0 +1,127 @@
+{
+  "id": 421193035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06667,-39.1,-67.06667,-39.1",
+    "geom:latitude":-39.1,
+    "geom:longitude":-67.06667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:fre_x_preferred":[
+        "villa Regina"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30ec\u30d2\u30fc\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Regina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0420\u0435\u0445\u0456\u043d\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832647,
+    "qs:gn_pop":31209,
+    "qs:name":"Villa Regina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046734,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467087,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":184.0,
+    "wd:latitude":-39.1,
+    "wd:longitude":-67.066667,
+    "wd:wordcount":4369,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832647,
+        "gp:id":467087,
+        "qs:id":1046734,
+        "wd:id":"Q1017096",
+        "wk:page":"Villa Regina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009758,
+    "wof:geomhash":"80c2f3ab62f46dc1db01495b8855566e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421193035,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421193035,
+    "wof:lastmodified":1527716150,
+    "wof:name":"Villa Regina",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":31209,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06667,
+    -39.1,
+    -67.06667,
+    -39.1
+],
+  "geometry": {"coordinates":[-67.06667,-39.1],"type":"Point"}
+}

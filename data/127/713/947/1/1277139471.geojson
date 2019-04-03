@@ -1,0 +1,68 @@
+{
+  "id": 1277139471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87357,-32.21668,-65.87357,-32.21668",
+    "geom:latitude":-32.21668,
+    "geom:longitude":-65.87357,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"La Brea",
+    "gn:country_code":"AR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852448,
+    "gn:latitude":-32.21668,
+    "gn:longitude":-65.87357,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Brea",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852448
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"be21bb7f3abeb01c1ba5ef2a3ce058e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":1277139471,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1277139471,
+    "wof:lastmodified":1536685991,
+    "wof:name":"La Brea",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87357,
+    -32.21668,
+    -65.87357,
+    -32.21668
+],
+  "geometry": {"coordinates":[-65.87357,-32.21668],"type":"Point"}
+}

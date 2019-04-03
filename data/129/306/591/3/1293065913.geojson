@@ -1,0 +1,82 @@
+{
+  "id": 1293065913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55955,-52.32337,-68.55955,-52.32337",
+    "geom:latitude":-52.32337,
+    "geom:longitude":-68.55955,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Monte Dinero",
+    "gn:country_code":"AR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843857,
+    "gn:latitude":-52.32337,
+    "gn:longitude":-68.55955,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monte Dinero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Monte Dinero",
+        "Monte Dinero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655,
+        85633057,
+        85682211,
+        102063075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843857
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"752ffb72e22b85ec5594832bed2496fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1293065913,
+            "region_id":85667991
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063075,
+            "locality_id":1293065913,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":1293065913,
+    "wof:lastmodified":1537584855,
+    "wof:name":"Monte Dinero",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55955,
+    -52.32337,
+    -68.55955,
+    -52.32337
+],
+  "geometry": {"coordinates":[-68.55955,-52.32337],"type":"Point"}
+}

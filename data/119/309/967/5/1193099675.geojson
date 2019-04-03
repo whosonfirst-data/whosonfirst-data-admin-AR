@@ -1,0 +1,72 @@
+{
+  "id": 1193099675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.31022,-32.85041,-65.31022,-32.85041",
+    "geom:latitude":-32.85041,
+    "geom:longitude":-65.31022,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74028.0",
+    "gn:asciiname":"Piedras Chatas",
+    "gn:country_code":"AR",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841174,
+    "gn:latitude":-32.85041,
+    "gn:longitude":-65.31022,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Piedras Chatas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canteras Piedras Chatas",
+        "Piedras Chatas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841174
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d76f4793f81e88a3254cb38402bf1bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718441,
+            "locality_id":1193099675,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1193099675,
+    "wof:lastmodified":1537584849,
+    "wof:name":"Piedras Chatas",
+    "wof:parent_id":1108718441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.31022,
+    -32.85041,
+    -65.31022,
+    -32.85041
+],
+  "geometry": {"coordinates":[-65.31022,-32.85041],"type":"Point"}
+}

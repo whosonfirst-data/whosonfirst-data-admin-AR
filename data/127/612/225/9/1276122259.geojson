@@ -1,0 +1,68 @@
+{
+  "id": 1276122259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.73671,-38.80684,-59.73671,-38.80684",
+    "geom:latitude":-38.80684,
+    "geom:longitude":-59.73671,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6833.0",
+    "gn:asciiname":"Balneario Orense",
+    "gn:country_code":"AR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436167,
+    "gn:latitude":-38.80684,
+    "gn:longitude":-59.73671,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balneario Orense",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436167
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"af63654ace0ae71dd5acf7b0853a3104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718125,
+            "locality_id":1276122259,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276122259,
+    "wof:lastmodified":1537058822,
+    "wof:name":"Balneario Orense",
+    "wof:parent_id":1108718125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.73671,
+    -38.80684,
+    -59.73671,
+    -38.80684
+],
+  "geometry": {"coordinates":[-59.73671,-38.80684],"type":"Point"}
+}

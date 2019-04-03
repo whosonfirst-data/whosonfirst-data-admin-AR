@@ -1,0 +1,68 @@
+{
+  "id": 1259340891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36541,-27.56182,-65.36541,-27.56182",
+    "geom:latitude":-27.56182,
+    "geom:longitude":-65.36541,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90035.0",
+    "gn:asciiname":"Toro Muerto",
+    "gn:country_code":"AR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834137,
+    "gn:latitude":-27.56182,
+    "gn:longitude":-65.36541,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Toro Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834137
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0437c9a3c905a3524274c27c367a8a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718521,
+            "locality_id":1259340891,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1259340891,
+    "wof:lastmodified":1537060983,
+    "wof:name":"Toro Muerto",
+    "wof:parent_id":1108718521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36541,
+    -27.56182,
+    -65.36541,
+    -27.56182
+],
+  "geometry": {"coordinates":[-65.36541,-27.56182],"type":"Point"}
+}

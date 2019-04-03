@@ -1,0 +1,99 @@
+{
+  "id": 421171157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.44333,-34.44972,-59.44333,-34.44972",
+    "geom:latitude":-34.44972,
+    "geom:longitude":-59.44333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:deu_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:nld_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s de Giles"
+    ],
+    "name:unk_x_variant":[
+        "San A. de Giles"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429309,
+    "qs:gn_pop":0,
+    "qs:name":"San Andr\u00e9s de Giles",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1210415,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331831,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429309,
+        "gp:id":331831,
+        "qs:id":1210415,
+        "wd:id":"Q4383470",
+        "wk:page":"San Andr\u00e9s de Giles"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008883,
+    "wof:geomhash":"0026dbc4930d7c6f18473725db4cd347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718089,
+            "locality_id":421171157,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421171157,
+    "wof:lastmodified":1501266399,
+    "wof:name":"San Andr\u00e9s de Giles",
+    "wof:parent_id":1108718089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.44333,
+    -34.44972,
+    -59.44333,
+    -34.44972
+],
+  "geometry": {"coordinates":[-59.44333,-34.44972],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327492351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66811,-31.32472,-61.66811,-31.32472",
+    "geom:latitude":-31.32472,
+    "geom:longitude":-61.66811,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82021.0",
+    "gn:asciiname":"Saguier",
+    "gn:country_code":"AR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838449,
+    "gn:latitude":-31.32472,
+    "gn:longitude":-61.66811,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Saguier",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421166875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838449
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"287fdc0ce5597277f8ecf700f27fcd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166875,
+            "locality_id":1327492351,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1327492351,
+    "wof:lastmodified":1537088869,
+    "wof:name":"Saguier",
+    "wof:parent_id":421166875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66811,
+    -31.32472000000001,
+    -61.66811,
+    -31.32472000000001
+],
+  "geometry": {"coordinates":[-61.66811,-31.32472000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260144705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.84611,-28.67173,-59.84611,-28.67173",
+    "geom:latitude":-28.67173,
+    "geom:longitude":-59.84611,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82133.0",
+    "gn:asciiname":"Tartagal",
+    "gn:country_code":"AR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427809,
+    "gn:latitude":-28.67173,
+    "gn:longitude":-59.84611,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tartagal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427809
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"df74ae22cf25fd8b558f9eaac71a6f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718463,
+            "locality_id":1260144705,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1260144705,
+    "wof:lastmodified":1536901250,
+    "wof:name":"Tartagal",
+    "wof:parent_id":1108718463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.84611,
+    -28.67173,
+    -59.84611,
+    -28.67173
+],
+  "geometry": {"coordinates":[-59.84611,-28.67173],"type":"Point"}
+}

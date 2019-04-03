@@ -1,0 +1,62 @@
+{
+  "id": 1209081349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26667,-33.25,-66.26667,-33.25",
+    "geom:latitude":-33.25,
+    "geom:longitude":-66.26667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74056.0",
+    "gn:asciiname":"Quebrada de los Codores",
+    "gn:country_code":"AR",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839762,
+    "gn:latitude":-33.25,
+    "gn:longitude":-66.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Quebrada de los C\u00f3dores",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839762
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ad333959e9aaacd8ba86fa6b98f9ccda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209081349
+        }
+    ],
+    "wof:id":1209081349,
+    "wof:lastmodified":1536298326,
+    "wof:name":"Quebrada de los Codores",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26666999999999,
+    -33.25,
+    -66.26666999999999,
+    -33.25
+],
+  "geometry": {"coordinates":[-66.26666999999999,-33.25],"type":"Point"}
+}

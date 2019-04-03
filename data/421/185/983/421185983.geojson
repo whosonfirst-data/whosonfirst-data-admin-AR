@@ -1,0 +1,105 @@
+{
+  "id": 421185983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.61735,-33.05873,-60.61735,-33.05873",
+    "geom:latitude":-33.05873,
+    "geom:longitude":-60.61735,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Alvear"
+    ],
+    "name:deu_x_preferred":[
+        "Alvear"
+    ],
+    "name:dut_x_preferred":[
+        "Alvear"
+    ],
+    "name:eng_x_preferred":[
+        "Alvear"
+    ],
+    "name:fra_x_preferred":[
+        "Alvear"
+    ],
+    "name:por_x_preferred":[
+        "Alvear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0435\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Alvear"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0435\u0430\u0440"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865981,
+    "qs:gn_pop":0,
+    "qs:name":"Alvear",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":203,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":203,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1056369,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464613,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865981,
+        "gp:id":464613,
+        "qs:id":1056369,
+        "wd:id":"Q8196822"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009461,
+    "wof:geomhash":"6726384140f82ddd764e0b493f081fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":421185983,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421185983,
+    "wof:lastmodified":1553816375,
+    "wof:name":"Alvear",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61735,
+    -33.05873,
+    -60.61735,
+    -33.05873
+],
+  "geometry": {"coordinates":[-60.61735,-33.05873],"type":"Point"}
+}

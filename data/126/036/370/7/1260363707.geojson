@@ -1,0 +1,72 @@
+{
+  "id": 1260363707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.79597,-33.10996,-60.79597,-33.10996",
+    "geom:latitude":-33.10996,
+    "geom:longitude":-60.79597,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82084.0",
+    "gn:asciiname":"Pinero",
+    "gn:country_code":"AR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841095,
+    "gn:latitude":-33.10996,
+    "gn:longitude":-60.79597,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pi\u00f1ero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi\u00f1ero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841095,
+        "wk:page":"Pi%C3%B1ero_%28Santa_Fe%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0f691e4c1b3804970b6c161c181073d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":1260363707,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1260363707,
+    "wof:lastmodified":1537584849,
+    "wof:name":"Pinero",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.79597,
+    -33.10996,
+    -60.79597,
+    -33.10996
+],
+  "geometry": {"coordinates":[-60.79597,-33.10996],"type":"Point"}
+}

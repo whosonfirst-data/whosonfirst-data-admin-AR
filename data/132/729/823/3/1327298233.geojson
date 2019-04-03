@@ -1,0 +1,68 @@
+{
+  "id": 1327298233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26667,-33.0,-61.26667,-33.0",
+    "geom:latitude":-33.0,
+    "geom:longitude":-61.26667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82014.0",
+    "gn:asciiname":"Desmochado Afuera",
+    "gn:country_code":"AR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859435,
+    "gn:latitude":-33.0,
+    "gn:longitude":-61.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desmochado Afuera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859435
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4501767d32de87efec863be846440e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171507,
+            "locality_id":1327298233,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1327298233,
+    "wof:lastmodified":1536873717,
+    "wof:name":"Desmochado Afuera",
+    "wof:parent_id":421171507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26667,
+    -33.0,
+    -61.26667,
+    -33.0
+],
+  "geometry": {"coordinates":[-61.26667,-33.0],"type":"Point"}
+}

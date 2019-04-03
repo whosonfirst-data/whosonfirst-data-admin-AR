@@ -1,0 +1,94 @@
+{
+  "id": 1126037343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.426395,-37.744159,-57.426395,-37.744159",
+    "geom:latitude":-37.744159,
+    "geom:longitude":-57.426395,
+    "gn:gn_country":"AR",
+    "iso:country":"AR",
+    "lbl:latitude":-37.744159,
+    "lbl:longitude":-57.426395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:eng_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:fre_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:ger_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:spa_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:name":"Mar Chiquita",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Buenos Aires",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":966616,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":464747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Buenos Aires",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":464747,
+        "qs_pg:id":966616,
+        "wd:id":"Q380016"
+    },
+    "wof:country":"AR",
+    "wof:created":1497301879,
+    "wof:geomhash":"81bb95540d3359c9a796fb634a867ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1126037343,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126037343,
+    "wof:lastmodified":1513889254,
+    "wof:name":"Mar Chiquita",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.426395,
+    -37.744159,
+    -57.426395,
+    -37.744159
+],
+  "geometry": {"coordinates":[-57.426395,-37.744159],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 421193959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.37489,-34.788,-58.37489,-34.788",
+    "geom:latitude":-34.788,
+    "geom:longitude":-58.37489,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u0645\u0648\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:dut_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:fra_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:glg_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:ita_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:pol_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:ron_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043c\u043e\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e1rmol"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433321,
+    "qs:gn_pop":0,
+    "qs:name":"Jos\u00e9 M\u00e1rmol",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":313538,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465621,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":609,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433321,
+        "gp:id":465621,
+        "qs:id":313538,
+        "wd:id":"Q9293211"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009788,
+    "wof:geomhash":"ea48a10305bb8dd5ccb69f746ca469e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717855,
+            "locality_id":421193959,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421193959,
+    "wof:lastmodified":1527716147,
+    "wof:name":"Jos\u00e9 M\u00e1rmol",
+    "wof:parent_id":1108717855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.37489,
+    -34.788,
+    -58.37489,
+    -34.788
+],
+  "geometry": {"coordinates":[-58.37489,-34.788],"type":"Point"}
+}

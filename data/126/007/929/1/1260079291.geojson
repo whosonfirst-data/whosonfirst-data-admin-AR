@@ -1,0 +1,68 @@
+{
+  "id": 1260079291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.22467,-33.63418,-63.22467,-33.63418",
+    "geom:latitude":-33.63418,
+    "geom:longitude":-63.22467,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14056.0",
+    "gn:asciiname":"Assunta",
+    "gn:country_code":"AR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865303,
+    "gn:latitude":-33.63418,
+    "gn:longitude":-63.22467,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Assunta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421166595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865303
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"243e5e8eb3e9df0c660e60b390b358b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166595,
+            "locality_id":1260079291,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1260079291,
+    "wof:lastmodified":1536993237,
+    "wof:name":"Assunta",
+    "wof:parent_id":421166595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.22467,
+    -33.63418,
+    -63.22467,
+    -33.63418
+],
+  "geometry": {"coordinates":[-63.22467,-33.63418],"type":"Point"}
+}

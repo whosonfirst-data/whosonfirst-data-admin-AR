@@ -1,0 +1,68 @@
+{
+  "id": 1344219501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22006,-32.43216,-66.22006,-32.43216",
+    "geom:latitude":-32.43216,
+    "geom:longitude":-66.22006,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74014.0",
+    "gn:asciiname":"Balde de Puertas",
+    "gn:country_code":"AR",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864922,
+    "gn:latitude":-32.43216,
+    "gn:longitude":-66.22006,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balde de Puertas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864922
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"03dff85b3e2ad7f8619b3eb445954321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171231,
+            "locality_id":1344219501,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1344219501,
+    "wof:lastmodified":1536645738,
+    "wof:name":"Balde de Puertas",
+    "wof:parent_id":421171231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22006,
+    -32.43216,
+    -66.22006,
+    -32.43216
+],
+  "geometry": {"coordinates":[-66.22006,-32.43216],"type":"Point"}
+}

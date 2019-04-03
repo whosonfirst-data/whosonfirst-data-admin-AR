@@ -1,0 +1,68 @@
+{
+  "id": 1310175659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18333,-38.61667,-69.18333,-38.61667",
+    "geom:latitude":-38.61667,
+    "geom:longitude":-69.18333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58035.0",
+    "gn:asciiname":"Buena Esperanza",
+    "gn:country_code":"AR",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863813,
+    "gn:latitude":-38.61667,
+    "gn:longitude":-69.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Buena Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863813
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"983dede11f4ad5a17e8e53f9eaf79112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169777,
+            "locality_id":1310175659,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1310175659,
+    "wof:lastmodified":1536895274,
+    "wof:name":"Buena Esperanza",
+    "wof:parent_id":421169777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18333,
+    -38.61667,
+    -69.18333,
+    -38.61667
+],
+  "geometry": {"coordinates":[-69.18333,-38.61667],"type":"Point"}
+}

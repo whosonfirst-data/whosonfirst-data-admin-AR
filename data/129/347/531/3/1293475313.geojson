@@ -1,0 +1,68 @@
+{
+  "id": 1293475313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.13333,-30.5,-59.13333,-30.5",
+    "geom:latitude":-30.5,
+    "geom:longitude":-59.13333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30070.0",
+    "gn:asciiname":"Montiel",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430573,
+    "gn:latitude":-30.5,
+    "gn:longitude":-59.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Montiel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421181879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430573
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ec8d44dd7d0558687508ec4d5f48eae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181879,
+            "locality_id":1293475313,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1293475313,
+    "wof:lastmodified":1536804541,
+    "wof:name":"Montiel",
+    "wof:parent_id":421181879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.13333000000001,
+    -30.5,
+    -59.13333000000001,
+    -30.5
+],
+  "geometry": {"coordinates":[-59.13333000000001,-30.5],"type":"Point"}
+}

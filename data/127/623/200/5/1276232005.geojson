@@ -1,0 +1,68 @@
+{
+  "id": 1276232005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07641,-36.20316,-63.07641,-36.20316",
+    "geom:latitude":-36.20316,
+    "geom:longitude":-63.07641,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6616.0",
+    "gn:asciiname":"Bocayuva",
+    "gn:country_code":"AR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864037,
+    "gn:latitude":-36.20316,
+    "gn:longitude":-63.07641,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bocayuva",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864037
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5447e80f10d9fcd72446d2a26d1a2596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718049,
+            "locality_id":1276232005,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276232005,
+    "wof:lastmodified":1536915012,
+    "wof:name":"Bocayuva",
+    "wof:parent_id":1108718049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07641,
+    -36.20316,
+    -63.07641,
+    -36.20316
+],
+  "geometry": {"coordinates":[-63.07641,-36.20316],"type":"Point"}
+}

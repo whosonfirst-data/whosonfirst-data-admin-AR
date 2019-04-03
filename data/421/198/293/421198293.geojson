@@ -1,0 +1,95 @@
+{
+  "id": 421198293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18468,-33.3728,-61.18468,-33.3728",
+    "geom:latitude":-33.3728,
+    "geom:longitude":-61.18468,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bigand"
+    ],
+    "name:eng_x_preferred":[
+        "Bigand"
+    ],
+    "name:por_x_preferred":[
+        "Bigand"
+    ],
+    "name:spa_x_preferred":[
+        "Bigand"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0433\u0430\u043d\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Bigano"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3864251,
+    "qs:gn_pop":0,
+    "qs:name":"Bigand",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181819,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464818,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864251,
+        "gp:id":464818,
+        "qs:id":181819,
+        "wd:id":"Q2286166"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009943,
+    "wof:geomhash":"e125c31535999c717f10c68519ee83e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171507,
+            "locality_id":421198293,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421198293,
+    "wof:lastmodified":1513888945,
+    "wof:name":"Bigand",
+    "wof:parent_id":421171507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18468,
+    -33.3728,
+    -61.18468,
+    -33.3728
+],
+  "geometry": {"coordinates":[-61.18468,-33.3728],"type":"Point"}
+}

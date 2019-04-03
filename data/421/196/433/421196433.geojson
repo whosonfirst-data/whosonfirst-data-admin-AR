@@ -1,0 +1,93 @@
+{
+  "id": 421196433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.12621,-32.26233,-61.12621,-32.26233",
+    "geom:latitude":-32.26233,
+    "geom:longitude":-61.12621,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Casalegno"
+    ],
+    "name:dut_x_preferred":[
+        "Casalegno"
+    ],
+    "name:eng_x_preferred":[
+        "Casalegno"
+    ],
+    "name:ger_x_preferred":[
+        "Casalegno"
+    ],
+    "name:spa_x_preferred":[
+        "Casalegno"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3862395,
+    "qs:gn_pop":0,
+    "qs:name":"Casalegno",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1200231,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467559,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421188015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862395,
+        "gp:id":467559,
+        "qs:id":1200231,
+        "wd:id":"Q5755710"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009881,
+    "wof:geomhash":"ebb842add01fbb9d302c67d11c62015e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188015,
+            "locality_id":421196433,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421196433,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Casalegno",
+    "wof:parent_id":421188015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.12621,
+    -32.26233,
+    -61.12621,
+    -32.26233
+],
+  "geometry": {"coordinates":[-61.12621,-32.26233],"type":"Point"}
+}

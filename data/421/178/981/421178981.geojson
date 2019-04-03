@@ -1,0 +1,154 @@
+{
+  "id": 421178981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3,-51.65,-72.3,-51.65",
+    "geom:latitude":-51.65,
+    "geom:longitude":-72.3,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "28 de Noviembre"
+    ],
+    "name:cze_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:deu_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:dut_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:eng_x_preferred":[
+        "28 de Noviembre"
+    ],
+    "name:fra_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:fre_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:ger_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:ita_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:lit_x_preferred":[
+        "Veintio\u010do de Novjembr\u0117"
+    ],
+    "name:sco_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:slo_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:slv_x_preferred":[
+        "28 de Noviembre"
+    ],
+    "name:spa_x_preferred":[
+        "Veintiocho de Noviembre"
+    ],
+    "name:swe_x_preferred":[
+        "28 de Noviembre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0439\u043d\u0442\u0456\u043e\u0447\u043e-\u0434\u0435-\u041d\u043e\u0432'\u0454\u043c\u0431\u0440\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833094,
+    "qs:gn_pop":4686,
+    "qs:name":"Veintiocho de Noviembre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":332932,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466699,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682183,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833094,
+        "gp:id":466699,
+        "qs:id":332932,
+        "wd:id":"Q1533589",
+        "wk:page":"Veintiocho de Noviembre"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009200,
+    "wof:geomhash":"61cc314ade16a5d542fe08ebc0947722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":421178981,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":421178981,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":421178981,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":421178981,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":421178981,
+    "wof:lastmodified":1527726422,
+    "wof:name":"Veintiocho de Noviembre",
+    "wof:parent_id":102063081,
+    "wof:placetype":"locality",
+    "wof:population":4686,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3,
+    -51.65,
+    -72.3,
+    -51.65
+],
+  "geometry": {"coordinates":[-72.3,-51.65],"type":"Point"}
+}

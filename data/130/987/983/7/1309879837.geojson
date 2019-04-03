@@ -1,0 +1,68 @@
+{
+  "id": 1309879837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52343,-33.82738,-61.52343,-33.82738",
+    "geom:latitude":-33.82738,
+    "geom:longitude":-61.52343,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82042.0",
+    "gn:asciiname":"Santa Emilia",
+    "gn:country_code":"AR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836288,
+    "gn:latitude":-33.82738,
+    "gn:longitude":-61.52343,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santa Emilia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836288
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"406078360b821cf2a0a14eb679f4ebf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":1309879837,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1309879837,
+    "wof:lastmodified":1536823608,
+    "wof:name":"Santa Emilia",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52343000000001,
+    -33.82738,
+    -61.52343000000001,
+    -33.82738
+],
+  "geometry": {"coordinates":[-61.52343000000001,-33.82738],"type":"Point"}
+}

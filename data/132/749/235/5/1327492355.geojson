@@ -1,0 +1,68 @@
+{
+  "id": 1327492355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.58058,-31.11331,-60.58058,-31.11331",
+    "geom:latitude":-31.11331,
+    "geom:longitude":-60.58058,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82112.0",
+    "gn:asciiname":"Cayastacito",
+    "gn:country_code":"AR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862214,
+    "gn:latitude":-31.11331,
+    "gn:longitude":-60.58058,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cayastacito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862214
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6b6bb20629555c569bc2b6e8d91d4249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":1327492355,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1327492355,
+    "wof:lastmodified":1537088862,
+    "wof:name":"Cayastacito",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.58058000000001,
+    -31.11331,
+    -60.58058000000001,
+    -31.11331
+],
+  "geometry": {"coordinates":[-60.58058000000001,-31.11331],"type":"Point"}
+}

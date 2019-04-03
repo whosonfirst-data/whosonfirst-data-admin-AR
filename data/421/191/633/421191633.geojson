@@ -1,0 +1,98 @@
+{
+  "id": 421191633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.09383,-25.24769,-58.09383,-25.24769",
+    "geom:latitude":-25.24769,
+    "geom:longitude":-58.09383,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Laguna Naick Neck"
+    ],
+    "name:eng_x_preferred":[
+        "Laguna Naick Neck"
+    ],
+    "name:por_x_preferred":[
+        "Laguna Naick Neck"
+    ],
+    "name:spa_x_preferred":[
+        "Laguna Naick Neck"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u043d\u0430-\u041d\u0430\u0439\u043a-\u041d\u0435\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Laguna Naineck"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3432463,
+    "qs:gn_pop":2115,
+    "qs:name":"Laguna Naick-Neck",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Formosa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1149700,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465654,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432463,
+        "gp:id":465654,
+        "qs:id":1149700,
+        "wd:id":"Q5573129"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009699,
+    "wof:geomhash":"95a063802c708dbac9f7d4308a24d7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718273,
+            "locality_id":421191633,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":421191633,
+    "wof:lastmodified":1513889244,
+    "wof:name":"Laguna Naick-Neck",
+    "wof:parent_id":1108718273,
+    "wof:placetype":"locality",
+    "wof:population":2115,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.09383,
+    -25.24769,
+    -58.09383,
+    -25.24769
+],
+  "geometry": {"coordinates":[-58.09383,-25.24769],"type":"Point"}
+}

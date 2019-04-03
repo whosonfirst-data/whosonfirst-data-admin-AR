@@ -1,0 +1,72 @@
+{
+  "id": 1226547237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01723,-27.42957,-61.01723,-27.42957",
+    "geom:latitude":-27.42957,
+    "geom:longitude":-61.01723,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22036.0",
+    "gn:asciiname":"Meson de Fierro",
+    "gn:country_code":"AR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844305,
+    "gn:latitude":-27.42957,
+    "gn:longitude":-61.01723,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mes\u00f3n de Fierro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mes\u00f3n de Fierro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844305,
+        "wk:page":"Mes%C3%B3n_de_Fierro"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0aeec71c16505676fd6c180446796b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718195,
+            "locality_id":1226547237,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1226547237,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Meson de Fierro",
+    "wof:parent_id":1108718195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01723000000001,
+    -27.42957,
+    -61.01723000000001,
+    -27.42957
+],
+  "geometry": {"coordinates":[-61.01723000000001,-27.42957],"type":"Point"}
+}

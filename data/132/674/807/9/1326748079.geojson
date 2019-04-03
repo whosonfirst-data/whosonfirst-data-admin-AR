@@ -1,0 +1,72 @@
+{
+  "id": 1326748079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.35185,-33.84123,-60.35185,-33.84123",
+    "geom:latitude":-33.84123,
+    "geom:longitude":-60.35185,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6623.0",
+    "gn:asciiname":"Manantiales Grandes",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845014,
+    "gn:latitude":-33.84123,
+    "gn:longitude":-60.35185,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Manantiales Grandes",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manantiales",
+        "Manantiales Grandes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845014
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ba7cd66de2a64391f54f36ac306a25b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718051,
+            "locality_id":1326748079,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1326748079,
+    "wof:lastmodified":1537584858,
+    "wof:name":"Manantiales Grandes",
+    "wof:parent_id":1108718051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.35185,
+    -33.84123,
+    -60.35185,
+    -33.84123
+],
+  "geometry": {"coordinates":[-60.35185,-33.84123],"type":"Point"}
+}

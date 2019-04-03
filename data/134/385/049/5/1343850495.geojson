@@ -1,0 +1,68 @@
+{
+  "id": 1343850495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.5854,-29.05254,-56.5854,-29.05254",
+    "geom:latitude":-29.05254,
+    "geom:longitude":-56.5854,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18147.0",
+    "gn:asciiname":"Paso Itu",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430097,
+    "gn:latitude":-29.05254,
+    "gn:longitude":-56.5854,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso It\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421189963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430097
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a4c67f62bf7bb3cd7e8b40643a4364e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189963,
+            "locality_id":1343850495,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1343850495,
+    "wof:lastmodified":1536680975,
+    "wof:name":"Paso Itu",
+    "wof:parent_id":421189963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.5854,
+    -29.05254,
+    -56.5854,
+    -29.05254
+],
+  "geometry": {"coordinates":[-56.5854,-29.05254],"type":"Point"}
+}

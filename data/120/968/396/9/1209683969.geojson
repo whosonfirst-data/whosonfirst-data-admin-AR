@@ -1,0 +1,63 @@
+{
+  "id": 1209683969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11753,-26.6606,-65.11753,-26.6606",
+    "geom:latitude":-26.6606,
+    "geom:longitude":-65.11753,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90007.0",
+    "gn:asciiname":"Tranquitas",
+    "gn:country_code":"AR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833938,
+    "gn:latitude":-26.6606,
+    "gn:longitude":-65.11753,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tranquitas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833938,
+        "wk:page":"Tranquitas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"692f3a20a9a7cf58abe60bc1b918ad69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209683969
+        }
+    ],
+    "wof:id":1209683969,
+    "wof:lastmodified":1537486305,
+    "wof:name":"Tranquitas",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11753,
+    -26.6606,
+    -65.11753,
+    -26.6606
+],
+  "geometry": {"coordinates":[-65.11753,-26.6606],"type":"Point"}
+}

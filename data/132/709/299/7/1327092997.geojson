@@ -1,0 +1,75 @@
+{
+  "id": 1327092997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.71667,-26.76667,-62.71667,-26.76667",
+    "geom:latitude":-26.76667,
+    "geom:longitude":-62.71667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86014.0",
+    "gn:asciiname":"Agustina Libarona",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866485,
+    "gn:latitude":-26.76667,
+    "gn:longitude":-62.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agustina Libarona",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 701",
+        "Agust\u00edn Livarona",
+        "Agust\u00edn Libarona",
+        "Agustina Libarona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866485
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ca410b9f2d0c74a149c79a46b2cc7612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718465,
+            "locality_id":1327092997,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1327092997,
+    "wof:lastmodified":1537584904,
+    "wof:name":"Agustina Libarona",
+    "wof:parent_id":1108718465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.71666999999999,
+    -26.76667,
+    -62.71666999999999,
+    -26.76667
+],
+  "geometry": {"coordinates":[-62.71666999999999,-26.76667],"type":"Point"}
+}

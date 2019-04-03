@@ -1,0 +1,68 @@
+{
+  "id": 1225809611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.55,-32.55,-61.55,-32.55",
+    "geom:latitude":-32.55,
+    "geom:longitude":-61.55,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82007.0",
+    "gn:asciiname":"La California",
+    "gn:country_code":"AR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852372,
+    "gn:latitude":-32.55,
+    "gn:longitude":-61.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La California",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852372
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"51a99af47d50fe756b2a4077831473d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718449,
+            "locality_id":1225809611,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1225809611,
+    "wof:lastmodified":1537063147,
+    "wof:name":"La California",
+    "wof:parent_id":1108718449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.55,
+    -32.55,
+    -61.55,
+    -32.55
+],
+  "geometry": {"coordinates":[-61.55,-32.55],"type":"Point"}
+}

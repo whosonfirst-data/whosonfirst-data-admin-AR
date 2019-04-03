@@ -1,0 +1,62 @@
+{
+  "id": 1209074487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.63333,-26.65,-64.63333,-26.65",
+    "geom:latitude":-26.65,
+    "geom:longitude":-64.63333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90007.0",
+    "gn:asciiname":"Monte Cristo",
+    "gn:country_code":"AR",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843872,
+    "gn:latitude":-26.65,
+    "gn:longitude":-64.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monte Cristo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843872
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"83147c82f805600d8a57e136d360e648",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209074487
+        }
+    ],
+    "wof:id":1209074487,
+    "wof:lastmodified":1536298539,
+    "wof:name":"Monte Cristo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.63333,
+    -26.65,
+    -64.63333,
+    -26.65
+],
+  "geometry": {"coordinates":[-64.63333,-26.65],"type":"Point"}
+}

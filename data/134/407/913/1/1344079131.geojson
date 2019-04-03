@@ -1,0 +1,70 @@
+{
+  "id": 1344079131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20322,-30.21221,-58.20322,-30.21221",
+    "geom:latitude":-30.21221,
+    "geom:longitude":-58.20322,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"V. Fernandez",
+    "gn:country_code":"AR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8055815,
+    "gn:latitude":-30.21221,
+    "gn:longitude":-58.20322,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"V. Fern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "V. Fern\u00e1ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8055815
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c67c095edb3ad4701519ea46b1ce9b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718175,
+            "locality_id":1344079131,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1344079131,
+    "wof:lastmodified":1537584906,
+    "wof:name":"V. Fernandez",
+    "wof:parent_id":1108718175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20322,
+    -30.21221,
+    -58.20322,
+    -30.21221
+],
+  "geometry": {"coordinates":[-58.20322,-30.21221],"type":"Point"}
+}

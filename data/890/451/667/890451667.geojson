@@ -1,0 +1,81 @@
+{
+  "id": 890451667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86226,-36.50682,-63.86226,-36.50682",
+    "geom:latitude":-36.50682,
+    "geom:longitude":-63.86226,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1200,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Uriburu"
+    ],
+    "name:por_x_preferred":[
+        "Uriburu"
+    ],
+    "name:spa_x_preferred":[
+        "Uriburu"
+    ],
+    "name:swe_x_preferred":[
+        "Uriburu"
+    ],
+    "qs:name":"Uriburu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833391,
+        "gp:id":91815246,
+        "qs:id":1120500,
+        "wd:id":"Q7900572",
+        "wk:page":"Uriburu"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052789,
+    "wof:geomhash":"18be0e722ed0beb26345de424213cba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718293,
+            "locality_id":890451667,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890451667,
+    "wof:lastmodified":1553816402,
+    "wof:name":"Uriburu",
+    "wof:parent_id":1108718293,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86226,
+    -36.50682,
+    -63.86226,
+    -36.50682
+],
+  "geometry": {"coordinates":[-63.86226,-36.50682],"type":"Point"}
+}

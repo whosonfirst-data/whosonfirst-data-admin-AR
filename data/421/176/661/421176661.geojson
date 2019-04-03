@@ -1,0 +1,75 @@
+{
+  "id": 421176661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.75695,-25.175271,-65.75695,-25.175271",
+    "geom:latitude":-25.175271,
+    "geom:longitude":-65.75695,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"S. Fernando de Escoipe",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1063085,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795830,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421204067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26795830,
+        "qs:id":1063085
+    },
+    "wof:country":"AR",
+    "wof:created":1459009115,
+    "wof:geomhash":"c1e84bbd965c850fa22931f738395533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204067,
+            "locality_id":421176661,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421176661,
+    "wof:lastmodified":1499925336,
+    "wof:name":"S. Fernando de Escoipe",
+    "wof:parent_id":421204067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.75695,
+    -25.175271,
+    -65.75695,
+    -25.175271
+],
+  "geometry": {"coordinates":[-65.75695,-25.175271],"type":"Point"}
+}

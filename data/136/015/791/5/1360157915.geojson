@@ -1,0 +1,68 @@
+{
+  "id": 1360157915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.28333,-37.26667,-70.28333,-37.26667",
+    "geom:latitude":-37.26667,
+    "geom:longitude":-70.28333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58042.0",
+    "gn:asciiname":"Arroyo Blanco",
+    "gn:country_code":"AR",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865414,
+    "gn:latitude":-37.26667,
+    "gn:longitude":-70.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arroyo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421199899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865414
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e4a06e79ba3ceea0f7ded327600aaa9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199899,
+            "locality_id":1360157915,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1360157915,
+    "wof:lastmodified":1536839680,
+    "wof:name":"Arroyo Blanco",
+    "wof:parent_id":421199899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.28333,
+    -37.26667,
+    -70.28333,
+    -37.26667
+],
+  "geometry": {"coordinates":[-70.28333000000001,-37.26667],"type":"Point"}
+}

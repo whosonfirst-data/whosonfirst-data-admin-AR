@@ -1,0 +1,72 @@
+{
+  "id": 1310658595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.13496,-27.22899,-65.13496,-27.22899",
+    "geom:latitude":-27.22899,
+    "geom:longitude":-65.13496,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"Mixta",
+    "gn:country_code":"AR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844104,
+    "gn:latitude":-27.22899,
+    "gn:longitude":-65.13496,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mixta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mixto",
+        "Mixta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844104
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7061607aae196d9ef68cb8a2241ce268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":1310658595,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1310658595,
+    "wof:lastmodified":1537584855,
+    "wof:name":"Mixta",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.13495999999999,
+    -27.22899,
+    -65.13495999999999,
+    -27.22899
+],
+  "geometry": {"coordinates":[-65.13495999999999,-27.22899],"type":"Point"}
+}

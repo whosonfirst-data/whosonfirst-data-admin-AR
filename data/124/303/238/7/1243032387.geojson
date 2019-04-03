@@ -1,0 +1,68 @@
+{
+  "id": 1243032387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.37999,-29.583,-60.37999,-29.583",
+    "geom:latitude":-29.583,
+    "geom:longitude":-60.37999,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82133.0",
+    "gn:asciiname":"La Gallareta",
+    "gn:country_code":"AR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851162,
+    "gn:latitude":-29.583,
+    "gn:longitude":-60.37999,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Gallareta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851162
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1fb7f7b7da599b4b1cb75009617ece58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718463,
+            "locality_id":1243032387,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243032387,
+    "wof:lastmodified":1536905733,
+    "wof:name":"La Gallareta",
+    "wof:parent_id":1108718463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.37999,
+    -29.583,
+    -60.37999,
+    -29.583
+],
+  "geometry": {"coordinates":[-60.37999,-29.583],"type":"Point"}
+}

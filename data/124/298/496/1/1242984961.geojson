@@ -1,0 +1,72 @@
+{
+  "id": 1242984961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.64906,-35.12991,-57.64906,-35.12991",
+    "geom:latitude":-35.12991,
+    "geom:longitude":-57.64906,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6505.0",
+    "gn:asciiname":"Julio Arditi",
+    "gn:country_code":"AR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433280,
+    "gn:latitude":-35.12991,
+    "gn:longitude":-57.64906,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Julio Arditi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J. Arditi",
+        "Julio Arditi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433280
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ce22fe8daccd73162ffda211470332e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718011,
+            "locality_id":1242984961,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1242984961,
+    "wof:lastmodified":1537584823,
+    "wof:name":"Julio Arditi",
+    "wof:parent_id":1108718011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.64906,
+    -35.12991,
+    -57.64906,
+    -35.12991
+],
+  "geometry": {"coordinates":[-57.64906,-35.12991],"type":"Point"}
+}

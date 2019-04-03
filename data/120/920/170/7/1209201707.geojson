@@ -1,0 +1,66 @@
+{
+  "id": 1209201707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18084,-28.57264,-67.18084,-28.57264",
+    "geom:latitude":-28.57264,
+    "geom:longitude":-67.18084,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46119.0",
+    "gn:asciiname":"Andalucas",
+    "gn:country_code":"AR",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865796,
+    "gn:latitude":-28.57264,
+    "gn:longitude":-67.18084,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Andalucas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amoschina",
+        "Andalucas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865796
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"101e8481bedfbed21d72498da363cc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209201707
+        }
+    ],
+    "wof:id":1209201707,
+    "wof:lastmodified":1537584902,
+    "wof:name":"Andalucas",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18084,
+    -28.57264,
+    -67.18084,
+    -28.57264
+],
+  "geometry": {"coordinates":[-67.18084,-28.57264],"type":"Point"}
+}

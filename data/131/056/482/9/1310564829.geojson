@@ -1,0 +1,72 @@
+{
+  "id": 1310564829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.07548,-23.78985,-66.07548,-23.78985",
+    "geom:latitude":-23.78985,
+    "geom:longitude":-66.07548,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66091.0",
+    "gn:asciiname":"Cangrejillos",
+    "gn:country_code":"AR",
+    "gn:dem":3424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862814,
+    "gn:latitude":-23.78985,
+    "gn:longitude":-66.07548,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cangrejillos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Receptor\u00eda",
+        "Cangrejillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421186299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862814
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c0b3691fd8c203e9daf798877f8f6545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186299,
+            "locality_id":1310564829,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1310564829,
+    "wof:lastmodified":1537584897,
+    "wof:name":"Cangrejillos",
+    "wof:parent_id":421186299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.07548,
+    -23.78985,
+    -66.07548,
+    -23.78985
+],
+  "geometry": {"coordinates":[-66.07548,-23.78985],"type":"Point"}
+}

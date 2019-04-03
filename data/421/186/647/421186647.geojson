@@ -1,0 +1,272 @@
+{
+  "id": 421186647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.336307,-33.296027,-66.336307,-33.296027",
+    "geom:latitude":-33.296027,
+    "geom:longitude":-66.336307,
+    "gn:country":"AR",
+    "gn:fcode":"PPLA",
+    "gn:pop":183982,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u064a\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "San Luis"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8 \u09b2\u09c1\u0987\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u0443\u0438\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "San Luis"
+    ],
+    "name:dan_x_preferred":[
+        "San Luis"
+    ],
+    "name:deu_x_preferred":[
+        "San Luis"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis"
+    ],
+    "name:epo_x_preferred":[
+        "San Luis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "San Luis"
+    ],
+    "name:fra_x_preferred":[
+        "San Luis"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Luis"
+    ],
+    "name:glg_x_preferred":[
+        "San Luis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c5\u03af\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0ab2\u0ac1\u0a88\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05dc\u05d5\u05d0\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0932\u0941\u0907\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "San Luis"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30eb\u30a4\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cb2\u0cc2\u0caf\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub8e8\uc774\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Sanctus Ludovicus"
+    ],
+    "name:lav_x_preferred":[
+        "Sanluisa"
+    ],
+    "name:lit_x_preferred":[
+        "San Luisas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0932\u0941\u0908\u0938"
+    ],
+    "name:may_x_preferred":[
+        "San Luis"
+    ],
+    "name:nah_x_preferred":[
+        "San Luis"
+    ],
+    "name:nob_x_preferred":[
+        "San Luis"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "San Luis"
+    ],
+    "name:por_x_preferred":[
+        "San Luis"
+    ],
+    "name:que_x_preferred":[
+        "San Luis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dbd\u0dd4\u0dba\u0dd2\u0dc3\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "San Luis"
+    ],
+    "name:slv_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_variant":[
+        "San Luis"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u0443\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "San Luis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0bb2\u0bc1\u0baf\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c32\u0c42\u0c2f\u0c3f\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e2b\u0e25\u0e38\u0e22\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "San Luis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633\u060c \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis"
+    ],
+    "name:war_x_preferred":[
+        "San Luis"
+    ],
+    "name:wel_x_preferred":[
+        "San Luis"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u65af"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Luis",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":860,
+    "qs:photos_1k":174,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":860,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075060,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332480,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837056,
+        "gp:id":332480,
+        "qs:id":1075060,
+        "wd:id":"Q44243",
+        "wk:page":"San Luis"
+    },
+    "wof:concordances_alt":{
+        "qs:id":150385
+    },
+    "wof:country":"AR",
+    "wof:created":1459009487,
+    "wof:geomhash":"47915d74198b64fe70698f6eab644a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":421186647,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421186647,
+    "wof:lastmodified":1534379080,
+    "wof:name":"San Luis",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:population":183982,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890451749
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.336307,
+    -33.296027,
+    -66.336307,
+    -33.296027
+],
+  "geometry": {"coordinates":[-66.33630700000001,-33.296027],"type":"Point"}
+}

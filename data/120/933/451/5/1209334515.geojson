@@ -1,0 +1,62 @@
+{
+  "id": 1209334515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.28456,-31.70785,-58.28456,-31.70785",
+    "geom:latitude":-31.70785,
+    "geom:longitude":-58.28456,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30008.0",
+    "gn:asciiname":"Aldea San Gregorio",
+    "gn:country_code":"AR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436432,
+    "gn:latitude":-31.70785,
+    "gn:longitude":-58.28456,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Aldea San Gregorio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436432
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8e0e47368fedaaad73ff3228e4a9ab75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209334515
+        }
+    ],
+    "wof:id":1209334515,
+    "wof:lastmodified":1536290268,
+    "wof:name":"Aldea San Gregorio",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.28456,
+    -31.70785,
+    -58.28456,
+    -31.70785
+],
+  "geometry": {"coordinates":[-58.28456,-31.70785],"type":"Point"}
+}

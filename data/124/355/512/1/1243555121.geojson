@@ -1,0 +1,74 @@
+{
+  "id": 1243555121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84685,-44.67957,-70.84685,-44.67957",
+    "geom:latitude":-44.67957,
+    "geom:longitude":-70.84685,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26084.0",
+    "gn:asciiname":"Aldea Apeleg",
+    "gn:country_code":"AR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866397,
+    "gn:latitude":-44.67957,
+    "gn:longitude":-70.84685,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aldea Apeleg",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aldea Appeleg",
+        "Apeleg",
+        "Aldea Apeleg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866397,
+        "wk:page":"Aldea_Apeleg"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"09258444dc836f7b2bf61b09d335fb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "locality_id":1243555121,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1243555121,
+    "wof:lastmodified":1537584904,
+    "wof:name":"Aldea Apeleg",
+    "wof:parent_id":421171527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84685,
+    -44.67957,
+    -70.84685,
+    -44.67957
+],
+  "geometry": {"coordinates":[-70.84685,-44.67957],"type":"Point"}
+}

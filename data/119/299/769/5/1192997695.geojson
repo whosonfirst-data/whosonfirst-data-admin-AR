@@ -1,0 +1,68 @@
+{
+  "id": 1192997695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62013,-33.04814,-68.62013,-33.04814",
+    "geom:latitude":-33.04814,
+    "geom:longitude":-68.62013,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50070.0",
+    "gn:asciiname":"San Roque",
+    "gn:country_code":"AR",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836586,
+    "gn:latitude":-33.04814,
+    "gn:longitude":-68.62013,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836586
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"85d32d338a1e68f80a4c1f52b0a0b259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187689,
+            "locality_id":1192997695,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1192997695,
+    "wof:lastmodified":1536374062,
+    "wof:name":"San Roque",
+    "wof:parent_id":421187689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62013,
+    -33.04814,
+    -68.62013,
+    -33.04814
+],
+  "geometry": {"coordinates":[-68.62013,-33.04814],"type":"Point"}
+}

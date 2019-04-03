@@ -1,0 +1,68 @@
+{
+  "id": 1343357011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.55851,-29.75363,-57.55851,-29.75363",
+    "geom:latitude":-29.75363,
+    "geom:longitude":-57.55851,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18119.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429299,
+    "gn:latitude":-29.75363,
+    "gn:longitude":-57.55851,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421171499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429299
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"31eb520b0e58c87e200475691e3cad4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171499,
+            "locality_id":1343357011,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1343357011,
+    "wof:lastmodified":1536895317,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421171499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.55851,
+    -29.75363,
+    -57.55851,
+    -29.75363
+],
+  "geometry": {"coordinates":[-57.55851,-29.75363],"type":"Point"}
+}

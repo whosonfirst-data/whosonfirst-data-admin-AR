@@ -1,0 +1,82 @@
+{
+  "id": 421199737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43569,-32.44654,-58.43569,-32.44654",
+    "geom:latitude":-32.44654,
+    "geom:longitude":-58.43569,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Villa San Justo"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428776,
+    "qs:gn_pop":1473,
+    "qs:name":"San Justo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":195516,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468987,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428776,
+        "gp:id":468987,
+        "qs:id":195516
+    },
+    "wof:country":"AR",
+    "wof:created":1459009999,
+    "wof:geomhash":"dec63c41af4a712b2124916ec37b23aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":421199737,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421199737,
+    "wof:lastmodified":1505340764,
+    "wof:name":"San Justo",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:population":1473,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43569,
+    -32.44654,
+    -58.43569,
+    -32.44654
+],
+  "geometry": {"coordinates":[-58.43569,-32.44654],"type":"Point"}
+}

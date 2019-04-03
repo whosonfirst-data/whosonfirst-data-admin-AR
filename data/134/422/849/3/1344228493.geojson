@@ -1,0 +1,68 @@
+{
+  "id": 1344228493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.34173,-25.29534,-66.34173,-25.29534",
+    "geom:latitude":-25.29534,
+    "geom:longitude":-66.34173,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66119.0",
+    "gn:asciiname":"Brealito",
+    "gn:country_code":"AR",
+    "gn:dem":2376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863846,
+    "gn:latitude":-25.29534,
+    "gn:longitude":-66.34173,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Brealito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421197593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863846
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9639139d0475d19cd88c9c28c2004bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197593,
+            "locality_id":1344228493,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1344228493,
+    "wof:lastmodified":1536631712,
+    "wof:name":"Brealito",
+    "wof:parent_id":421197593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.34173,
+    -25.29534,
+    -66.34173,
+    -25.29534
+],
+  "geometry": {"coordinates":[-66.34173,-25.29534],"type":"Point"}
+}

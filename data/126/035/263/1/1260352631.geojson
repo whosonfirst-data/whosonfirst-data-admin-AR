@@ -1,0 +1,72 @@
+{
+  "id": 1260352631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.8,-25.43333,-63.8,-25.43333",
+    "geom:latitude":-25.43333,
+    "geom:longitude":-63.8,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66007.0",
+    "gn:asciiname":"Nuestra Senora de Talavera",
+    "gn:country_code":"AR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842934,
+    "gn:latitude":-25.43333,
+    "gn:longitude":-63.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nuestra Se\u00f1ora de Talavera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuestra Se\u00f1ora de Talavera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842934,
+        "wk:page":"Nuestra_Se%C3%B1ora_de_Talavera"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a0a2b829b2aa1e258ed9c92d60a8502a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1260352631,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1260352631,
+    "wof:lastmodified":1537584853,
+    "wof:name":"Nuestra Senora de Talavera",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.8,
+    -25.43333,
+    -63.8,
+    -25.43333
+],
+  "geometry": {"coordinates":[-63.8,-25.43333],"type":"Point"}
+}

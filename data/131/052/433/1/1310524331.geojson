@@ -1,0 +1,68 @@
+{
+  "id": 1310524331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.46667,-30.15,-63.46667,-30.15",
+    "geom:latitude":-30.15,
+    "geom:longitude":-63.46667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14112.0",
+    "gn:asciiname":"El Recreo",
+    "gn:country_code":"AR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856921,
+    "gn:latitude":-30.15,
+    "gn:longitude":-63.46667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Recreo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        1108718165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856921
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a383001852d277dc9b1ce0bc53d618c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718165,
+            "locality_id":1310524331,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310524331,
+    "wof:lastmodified":1536889346,
+    "wof:name":"El Recreo",
+    "wof:parent_id":1108718165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.46666999999999,
+    -30.15,
+    -63.46666999999999,
+    -30.15
+],
+  "geometry": {"coordinates":[-63.46666999999999,-30.15],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 421198351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.34395,-22.74671,-64.34395,-22.74671",
+    "geom:latitude":-22.74671,
+    "geom:longitude":-64.34395,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ceb_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:deu_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:dut_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:eng_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0644\u0627\u0646\u06a9\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:fre_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ger_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ita_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:nld_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:oci_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0644\u0627\u0646\u06a9\u0627\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:swe_x_preferred":[
+        "Aguas Blancas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u0441-\u0411\u043b\u0430\u043d\u043a\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Agua Blanca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0633 \u0628\u0644\u0627\u0646\u06a9\u0627\u0633"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866561,
+    "qs:gn_pop":0,
+    "qs:name":"Aguas Blancas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181938,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467096,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866561,
+        "gp:id":467096,
+        "qs:id":181938,
+        "wd:id":"Q121952",
+        "wk:page":"Aguas Blancas (Salta)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009945,
+    "wof:geomhash":"8a6d1fa37b7e92f3594c5a32e0884483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "locality_id":421198351,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":421198351,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Aguas Blancas",
+    "wof:parent_id":85669431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.34395,
+    -22.74671,
+    -64.34395,
+    -22.74671
+],
+  "geometry": {"coordinates":[-64.34395000000001,-22.74671],"type":"Point"}
+}

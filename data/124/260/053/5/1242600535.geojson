@@ -1,0 +1,68 @@
+{
+  "id": 1242600535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.8,-32.06667,-62.8,-32.06667",
+    "geom:latitude":-32.06667,
+    "geom:longitude":-62.8,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14182.0",
+    "gn:asciiname":"Corral del Bajo",
+    "gn:country_code":"AR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860120,
+    "gn:latitude":-32.06667,
+    "gn:longitude":-62.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Corral del Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860120
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ae6dcf0ed40431c624e9498f34a13d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":1242600535,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1242600535,
+    "wof:lastmodified":1537029373,
+    "wof:name":"Corral del Bajo",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.8,
+    -32.06667,
+    -62.8,
+    -32.06667
+],
+  "geometry": {"coordinates":[-62.8,-32.06667],"type":"Point"}
+}

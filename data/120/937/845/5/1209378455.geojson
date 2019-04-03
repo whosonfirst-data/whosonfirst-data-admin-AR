@@ -1,0 +1,67 @@
+{
+  "id": 1209378455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68957,-22.14186,-63.68957,-22.14186",
+    "geom:latitude":-22.14186,
+    "geom:longitude":-63.68957,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66056.0",
+    "gn:asciiname":"Tobantirenda",
+    "gn:country_code":"AR",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834302,
+    "gn:latitude":-22.14186,
+    "gn:longitude":-63.68957,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tobantirenda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tobatirenda",
+        "Tobantirenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834302,
+        "wk:page":"Tobantirenda"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"649bd2834e7128e74bb154c94432a36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209378455
+        }
+    ],
+    "wof:id":1209378455,
+    "wof:lastmodified":1537584835,
+    "wof:name":"Tobantirenda",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68957,
+    -22.14186,
+    -63.68957,
+    -22.14186
+],
+  "geometry": {"coordinates":[-63.68957,-22.14186],"type":"Point"}
+}

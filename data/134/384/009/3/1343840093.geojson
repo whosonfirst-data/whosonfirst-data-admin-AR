@@ -1,0 +1,73 @@
+{
+  "id": 1343840093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43402,-40.52846,-70.43402,-40.52846",
+    "geom:latitude":-40.52846,
+    "geom:longitude":-70.43402,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62070.0",
+    "gn:asciiname":"Paso Limay",
+    "gn:country_code":"AR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841857,
+    "gn:latitude":-40.52846,
+    "gn:longitude":-70.43402,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Limay",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Paso Limay",
+        "Paso del Limay",
+        "Paso Limay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841857
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b4fa11cd2d059a8a4328df160b33c38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188063,
+            "locality_id":1343840093,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1343840093,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paso Limay",
+    "wof:parent_id":421188063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43401999999998,
+    -40.52846,
+    -70.43401999999998,
+    -40.52846
+],
+  "geometry": {"coordinates":[-70.43401999999998,-40.52846],"type":"Point"}
+}

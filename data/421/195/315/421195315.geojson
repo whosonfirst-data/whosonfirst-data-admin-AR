@@ -1,0 +1,81 @@
+{
+  "id": 421195315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03,-32.0679,-65.03,-32.0679",
+    "geom:latitude":-32.0679,
+    "geom:longitude":-65.03,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3849381,
+    "qs:gn_pop":0,
+    "qs:name":"La Poblaci\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150460,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332805,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421177961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849381,
+        "gp:id":332805,
+        "qs:id":150460,
+        "wd:id":"Q6464505"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009839,
+    "wof:geomhash":"4f4e885db2de01285fbfd4e6efebcf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421177961,
+            "locality_id":421195315,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195315,
+    "wof:lastmodified":1527716121,
+    "wof:name":"La Poblaci\u00f3n",
+    "wof:parent_id":421177961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03,
+    -32.0679,
+    -65.03,
+    -32.0679
+],
+  "geometry": {"coordinates":[-65.03,-32.0679],"type":"Point"}
+}

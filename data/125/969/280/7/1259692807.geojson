@@ -1,0 +1,68 @@
+{
+  "id": 1259692807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.19314,-27.87269,-66.19314,-27.87269",
+    "geom:latitude":-27.87269,
+    "geom:longitude":-66.19314,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10084.0",
+    "gn:asciiname":"Vallecito",
+    "gn:country_code":"AR",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9883046,
+    "gn:latitude":-27.87269,
+    "gn:longitude":-66.19314,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Vallecito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9883046
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c265e0671332039b25948866a17b3d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718155,
+            "locality_id":1259692807,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1259692807,
+    "wof:lastmodified":1537051339,
+    "wof:name":"Vallecito",
+    "wof:parent_id":1108718155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.19314,
+    -27.87269,
+    -66.19314,
+    -27.87269
+],
+  "geometry": {"coordinates":[-66.19314,-27.87269],"type":"Point"}
+}

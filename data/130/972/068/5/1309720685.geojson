@@ -1,0 +1,68 @@
+{
+  "id": 1309720685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.1806,-28.74292,-66.1806,-28.74292",
+    "geom:latitude":-28.74292,
+    "geom:longitude":-66.1806,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10042.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"AR",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847958,
+    "gn:latitude":-28.74292,
+    "gn:longitude":-66.1806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847958
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9a0e6e22e51ab89a9725339eea062b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718147,
+            "locality_id":1309720685,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1309720685,
+    "wof:lastmodified":1537051543,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":1108718147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.1806,
+    -28.74292,
+    -66.1806,
+    -28.74292
+],
+  "geometry": {"coordinates":[-66.1806,-28.74292],"type":"Point"}
+}

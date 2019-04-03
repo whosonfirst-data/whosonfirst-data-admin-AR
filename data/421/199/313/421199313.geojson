@@ -1,0 +1,106 @@
+{
+  "id": 421199313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48727,-24.73623,-65.48727,-24.73623",
+    "geom:latitude":-24.73623,
+    "geom:longitude":-65.48727,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:dut_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:eng_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:ita_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:por_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:spa_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:spa_x_variant":[
+        "San Lorenzo"
+    ],
+    "name:swe_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837102,
+    "qs:gn_pop":0,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":283,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":283,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":192923,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040071,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837102,
+        "gp:id":56040071,
+        "qs:id":192923,
+        "wd:id":"Q1981480",
+        "wk:page":"Villa San Lorenzo"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009985,
+    "wof:geomhash":"c3d152653393014c2a4a7fb19b5e200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718405,
+            "locality_id":421199313,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421199313,
+    "wof:lastmodified":1527716414,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":1108718405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48727,
+    -24.73623,
+    -65.48727,
+    -24.73623
+],
+  "geometry": {"coordinates":[-65.48727,-24.73623],"type":"Point"}
+}

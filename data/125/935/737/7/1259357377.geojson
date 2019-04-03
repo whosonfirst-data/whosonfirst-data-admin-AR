@@ -1,0 +1,73 @@
+{
+  "id": 1259357377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.23307,-51.57542,-69.23307,-51.57542",
+    "geom:latitude":-51.57542,
+    "geom:longitude":-69.23307,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Hill Station",
+    "gn:country_code":"AR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854293,
+    "gn:latitude":-51.57542,
+    "gn:longitude":-69.23307,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hill Station",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Hill Station",
+        "Estancia H. Felton",
+        "Hill Station"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854293
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3a7bc0bd15d324c02c702c010e88fcbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1259357377,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1259357377,
+    "wof:lastmodified":1537584873,
+    "wof:name":"Hill Station",
+    "wof:parent_id":421200655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.23307,
+    -51.57542,
+    -69.23307,
+    -51.57542
+],
+  "geometry": {"coordinates":[-69.23307,-51.57542],"type":"Point"}
+}

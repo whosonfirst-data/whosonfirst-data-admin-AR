@@ -1,0 +1,104 @@
+{
+  "id": 421198349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.02097,-33.63152,-64.02097,-33.63152",
+    "geom:latitude":-33.63152,
+    "geom:longitude":-64.02097,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:dut_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:glg_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0435\u043b\u0456\u044f-\u041c\u0430\u0440\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866935,
+    "qs:gn_pop":6434,
+    "qs:name":"Adelia Mar\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":181937,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467092,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866935,
+        "gp:id":467092,
+        "qs:id":181937,
+        "wd:id":"Q5682817"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009945,
+    "wof:geomhash":"417a6095b04185a448e4335a54baedf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":421198349,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421198349,
+    "wof:lastmodified":1513888930,
+    "wof:name":"Adelia Mar\u00eda",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:population":6434,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.02097,
+    -33.63152,
+    -64.02097,
+    -33.63152
+],
+  "geometry": {"coordinates":[-64.02097000000001,-33.63152],"type":"Point"}
+}

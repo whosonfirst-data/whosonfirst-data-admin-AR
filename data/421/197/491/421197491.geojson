@@ -1,0 +1,79 @@
+{
+  "id": 421197491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.56727,-34.5835,-58.56727,-34.5835",
+    "geom:latitude":-34.5835,
+    "geom:longitude":-58.56727,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Villa Libertad"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427411,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Libertad",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":287617,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332391,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427411,
+        "gp:id":332391,
+        "qs:id":287617
+    },
+    "wof:country":"AR",
+    "wof:created":1459009915,
+    "wof:geomhash":"536d636c18ab9afc3fb11298152dffc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "locality_id":421197491,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421197491,
+    "wof:lastmodified":1501266399,
+    "wof:name":"Villa Libertad",
+    "wof:parent_id":1108717969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.56727,
+    -34.5835,
+    -58.56727,
+    -34.5835
+],
+  "geometry": {"coordinates":[-58.56727,-34.5835],"type":"Point"}
+}

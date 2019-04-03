@@ -1,0 +1,68 @@
+{
+  "id": 1243076591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.07787,-27.77656,-68.07787,-27.77656",
+    "geom:latitude":-27.77656,
+    "geom:longitude":-68.07787,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Chaschuil",
+    "gn:country_code":"AR",
+    "gn:dem":3125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861661,
+    "gn:latitude":-27.77656,
+    "gn:longitude":-68.07787,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chaschuil",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861661
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"192a7d4f7df1b8ad9780de4ca2ae6d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1243076591,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1243076591,
+    "wof:lastmodified":1536840556,
+    "wof:name":"Chaschuil",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.07786999999999,
+    -27.77656,
+    -68.07786999999999,
+    -27.77656
+],
+  "geometry": {"coordinates":[-68.07786999999999,-27.77656],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 890443119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.02402,-26.79598,-55.02402,-26.79598",
+    "geom:latitude":-26.79598,
+    "geom:longitude":-55.02402,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":17491,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u91cc\u79d1\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0456\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Libertador General San Mart\u00edn"
+    ],
+    "qs:name":"Puerto Rico",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":27239,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429732,
+        "gp:id":91862995,
+        "qs:id":375416,
+        "wd:id":"Q2530831",
+        "wk:page":"Puerto Rico"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052401,
+    "wof:geomhash":"a2968200376872a6ff7615b9cdd3136c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718373,
+            "locality_id":890443119,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":890443119,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Puerto Rico",
+    "wof:parent_id":1108718373,
+    "wof:placetype":"locality",
+    "wof:population":17491,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.02402,
+    -26.79598,
+    -55.02402,
+    -26.79598
+],
+  "geometry": {"coordinates":[-55.02402,-26.79598],"type":"Point"}
+}

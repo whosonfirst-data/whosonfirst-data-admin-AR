@@ -1,0 +1,72 @@
+{
+  "id": 1226201381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35234,-31.37413,-61.35234,-31.37413",
+    "geom:latitude":-31.37413,
+    "geom:longitude":-61.35234,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Aurelia Norte",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865226,
+    "gn:latitude":-31.37413,
+    "gn:longitude":-61.35234,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aurelia Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aurelia",
+        "Aurelia Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865226
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c6974823010301279c8a5b91487d3f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1226201381,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226201381,
+    "wof:lastmodified":1537584901,
+    "wof:name":"Aurelia Norte",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35234000000001,
+    -31.37413,
+    -61.35234000000001,
+    -31.37413
+],
+  "geometry": {"coordinates":[-61.35234000000001,-31.37413],"type":"Point"}
+}

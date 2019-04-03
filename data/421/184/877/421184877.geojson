@@ -1,0 +1,83 @@
+{
+  "id": 421184877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.35334,-34.65104,-59.35334,-34.65104",
+    "geom:latitude":-34.65104,
+    "geom:longitude":-59.35334,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Gowland"
+    ],
+    "name:unk_x_variant":[
+        "Gowlan"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433716,
+    "qs:gn_pop":0,
+    "qs:name":"Gowland",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1014205,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465485,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433716,
+        "gp:id":465485,
+        "qs:id":1014205
+    },
+    "wof:country":"AR",
+    "wof:created":1459009425,
+    "wof:geomhash":"e6488072889a0fae8974bd6ae643b252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718023,
+            "locality_id":421184877,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421184877,
+    "wof:lastmodified":1527716452,
+    "wof:name":"Gowland",
+    "wof:parent_id":1108718023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.35334,
+    -34.65104,
+    -59.35334,
+    -34.65104
+],
+  "geometry": {"coordinates":[-59.35334,-34.65104],"type":"Point"}
+}

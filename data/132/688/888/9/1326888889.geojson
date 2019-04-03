@@ -1,0 +1,72 @@
+{
+  "id": 1326888889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45495,-27.8752,-63.45495,-27.8752",
+    "geom:latitude":-27.8752,
+    "geom:longitude":-63.45495,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86098.0",
+    "gn:asciiname":"Lojloj",
+    "gn:country_code":"AR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846734,
+    "gn:latitude":-27.8752,
+    "gn:longitude":-63.45495,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lojloj",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lojlo",
+        "Lojloj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846734
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"66712b27b2eb56cce6515e19858f5cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718491,
+            "locality_id":1326888889,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1326888889,
+    "wof:lastmodified":1537584861,
+    "wof:name":"Lojloj",
+    "wof:parent_id":1108718491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45495,
+    -27.8752,
+    -63.45495,
+    -27.8752
+],
+  "geometry": {"coordinates":[-63.45495,-27.8752],"type":"Point"}
+}

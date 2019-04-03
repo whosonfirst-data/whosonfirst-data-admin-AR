@@ -1,0 +1,68 @@
+{
+  "id": 1276122211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.41667,-34.66667,-58.41667,-34.66667",
+    "geom:latitude":-34.66667,
+    "geom:longitude":-58.41667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6434.0",
+    "gn:asciiname":"Diamante",
+    "gn:country_code":"AR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435073,
+    "gn:latitude":-34.66667,
+    "gn:longitude":-58.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diamante",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421179647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435073
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4bc950695ac5cc743572aa9acaaaf8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421179647,
+            "locality_id":1276122211,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276122211,
+    "wof:lastmodified":1537058880,
+    "wof:name":"Diamante",
+    "wof:parent_id":421179647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.41667,
+    -34.66667,
+    -58.41667,
+    -34.66667
+],
+  "geometry": {"coordinates":[-58.41667,-34.66667],"type":"Point"}
+}

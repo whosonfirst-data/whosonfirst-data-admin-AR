@@ -1,0 +1,89 @@
+{
+  "id": 421197549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.87617,-33.87863,-59.87617,-33.87863",
+    "geom:latitude":-33.87863,
+    "geom:longitude":-59.87617,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0441\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428286,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Luc\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":147779,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332911,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428286,
+        "gp:id":332911,
+        "qs:id":147779,
+        "wd:id":"Q6120466"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009917,
+    "wof:geomhash":"4c32ff589cf5d27a9578035a4f6a183f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718105,
+            "locality_id":421197549,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421197549,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Santa Luc\u00eda",
+    "wof:parent_id":1108718105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.87617,
+    -33.87863,
+    -59.87617,
+    -33.87863
+],
+  "geometry": {"coordinates":[-59.87617,-33.87863],"type":"Point"}
+}

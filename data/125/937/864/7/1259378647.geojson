@@ -1,0 +1,74 @@
+{
+  "id": 1259378647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.63517,-31.96124,-60.63517,-31.96124",
+    "geom:latitude":-31.96124,
+    "geom:longitude":-60.63517,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30021.0",
+    "gn:asciiname":"Aldea San Francisco",
+    "gn:country_code":"AR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866375,
+    "gn:latitude":-31.96124,
+    "gn:longitude":-60.63517,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aldea San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco",
+        "Aldea de las Ara\u00f1as",
+        "Aldea San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866375,
+        "wk:page":"Aldea_San_Francisco"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"13c7d603e7ed3e621f6328eecbfc61cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":1259378647,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1259378647,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Aldea San Francisco",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.63517,
+    -31.96124,
+    -60.63517,
+    -31.96124
+],
+  "geometry": {"coordinates":[-60.63517,-31.96124],"type":"Point"}
+}

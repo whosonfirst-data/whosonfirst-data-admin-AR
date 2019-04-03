@@ -1,0 +1,73 @@
+{
+  "id": 1243540185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.09675,-33.08872,-59.09675,-33.08872",
+    "geom:latitude":-33.08872,
+    "geom:longitude":-59.09675,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30056.0",
+    "gn:asciiname":"Cuchilla Redonda",
+    "gn:country_code":"AR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435154,
+    "gn:latitude":-33.08872,
+    "gn:longitude":-59.09675,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cuchilla Redonda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuchilla",
+        "C. Redonda",
+        "Cuchilla Redonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435154
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"90243c4aea91e4fe23e5c792366a66f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718251,
+            "locality_id":1243540185,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1243540185,
+    "wof:lastmodified":1537584826,
+    "wof:name":"Cuchilla Redonda",
+    "wof:parent_id":1108718251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.09675,
+    -33.08872,
+    -59.09675,
+    -33.08872
+],
+  "geometry": {"coordinates":[-59.09675,-33.08872],"type":"Point"}
+}

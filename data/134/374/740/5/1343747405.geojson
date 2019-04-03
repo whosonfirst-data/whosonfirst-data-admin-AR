@@ -1,0 +1,68 @@
+{
+  "id": 1343747405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.18533,-32.96207,-58.18533,-32.96207",
+    "geom:latitude":-32.96207,
+    "geom:longitude":-58.18533,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30098.0",
+    "gn:asciiname":"La Barraca",
+    "gn:country_code":"AR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3432987,
+    "gn:latitude":-32.96207,
+    "gn:longitude":-58.18533,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Barraca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432987
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8b46e5046c7acd8e48458cdde3fdb6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":1343747405,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1343747405,
+    "wof:lastmodified":1536828805,
+    "wof:name":"La Barraca",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.18533000000001,
+    -32.96207,
+    -58.18533000000001,
+    -32.96207
+],
+  "geometry": {"coordinates":[-58.18533000000001,-32.96207],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1125870745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.29448,-35.91501,-64.29448,-35.91501",
+    "geom:latitude":-35.91501,
+    "geom:longitude":-64.29448,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9861,
+    "gn:population":9861,
+    "iso:country":"AR",
+    "lbl:latitude":-35.91501,
+    "lbl:longitude":-64.29448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u57c3\u675c\u963f\u591a\u5361\u65af\u7279\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:eng_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:fre_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:ita_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:lit_x_preferred":[
+        "Eduardo Kasteksas"
+    ],
+    "name:por_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:spa_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:swe_x_preferred":[
+        "Eduardo Castex"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434\u0443\u0430\u0440\u0434\u043e-\u041a\u0430\u0441\u0442\u0435\u043a\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Castex"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3859036,
+    "qs_pg:gn_pop":9861,
+    "qs_pg:name":"Eduardo Castex",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":96649,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859036,
+        "qs_pg:id":96649,
+        "wd:id":"Q1919552"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294284,
+    "wof:geomhash":"3024b7920763c0ddb1bf0e492164c24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718295,
+            "locality_id":1125870745,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1125870745,
+    "wof:lastmodified":1513889158,
+    "wof:name":"Eduardo Castex",
+    "wof:parent_id":1108718295,
+    "wof:placetype":"locality",
+    "wof:population":9861,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.29448,
+    -35.91501,
+    -64.29448,
+    -35.91501
+],
+  "geometry": {"coordinates":[-64.29447999999999,-35.91501],"type":"Point"}
+}

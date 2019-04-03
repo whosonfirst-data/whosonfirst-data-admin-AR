@@ -1,0 +1,68 @@
+{
+  "id": 1293361843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.90049,-22.15872,-63.90049,-22.15872",
+    "geom:latitude":-22.15872,
+    "geom:longitude":-63.90049,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66056.0",
+    "gn:asciiname":"Acambuco",
+    "gn:country_code":"AR",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866998,
+    "gn:latitude":-22.15872,
+    "gn:longitude":-63.90049,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Acambuco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866998
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8ae4e25886a762c4702c57cd4e2887e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":1293361843,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293361843,
+    "wof:lastmodified":1536967980,
+    "wof:name":"Acambuco",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.90049000000001,
+    -22.15872,
+    -63.90049000000001,
+    -22.15872
+],
+  "geometry": {"coordinates":[-63.90049000000001,-22.15872],"type":"Point"}
+}

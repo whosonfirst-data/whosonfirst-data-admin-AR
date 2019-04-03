@@ -1,0 +1,121 @@
+{
+  "id": 421196963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43092,-34.78956,-58.43092,-34.78956",
+    "geom:latitude":-34.78956,
+    "geom:longitude":-58.43092,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u064a\u0627\u0641\u0627\u0644\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u0648\u0627\u06cc\u0648\u0644"
+    ],
+    "name:chi_x_preferred":[
+        "\u5229\u4e9e\u74e6\u7565\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Llavallol"
+    ],
+    "name:eng_x_preferred":[
+        "Llavallol"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0648\u0627\u06cc\u0648\u0644"
+    ],
+    "name:fre_x_preferred":[
+        "Llavallol"
+    ],
+    "name:nld_x_preferred":[
+        "Llavallol"
+    ],
+    "name:per_x_preferred":[
+        "\u06cc\u0627\u0648\u0627\u06cc\u0648\u0644"
+    ],
+    "name:sco_x_preferred":[
+        "Llavallol"
+    ],
+    "name:spa_x_preferred":[
+        "Llavallol"
+    ],
+    "name:unk_x_variant":[
+        "Llevallol"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u74e6\u7565\u723e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431325,
+    "qs:gn_pop":0,
+    "qs:name":"Llavallol",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":110,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":110,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262970,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465691,
+    "src:geom":"quattroshapes",
+    "wd:elevation":16.0,
+    "wd:latitude":-34.766667,
+    "wd:longitude":-58.383333,
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421204047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431325,
+        "gp:id":465691,
+        "qs:id":1262970,
+        "wd:id":"Q3721987",
+        "wk:page":"Llavallol"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009898,
+    "wof:geomhash":"f067d25c5c3dd1a8576c92dee60513d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204047,
+            "locality_id":421196963,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421196963,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Llavallol",
+    "wof:parent_id":421204047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43092,
+    -34.78956,
+    -58.43092,
+    -34.78956
+],
+  "geometry": {"coordinates":[-58.43092,-34.78956],"type":"Point"}
+}

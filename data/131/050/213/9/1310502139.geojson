@@ -1,0 +1,68 @@
+{
+  "id": 1310502139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93333,-45.71667,-68.93333,-45.71667",
+    "geom:latitude":-45.71667,
+    "geom:longitude":-68.93333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26091.0",
+    "gn:asciiname":"Colhue Huapi",
+    "gn:country_code":"AR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860874,
+    "gn:latitude":-45.71667,
+    "gn:longitude":-68.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colhu\u00e9 Huap\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860874
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2f18344c83330efe77ddc03fd14db573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171529,
+            "locality_id":1310502139,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1310502139,
+    "wof:lastmodified":1536922447,
+    "wof:name":"Colhue Huapi",
+    "wof:parent_id":421171529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93333,
+    -45.71667,
+    -68.93333,
+    -45.71667
+],
+  "geometry": {"coordinates":[-68.93333,-45.71667],"type":"Point"}
+}

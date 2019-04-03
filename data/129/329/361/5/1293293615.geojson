@@ -1,0 +1,74 @@
+{
+  "id": 1293293615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.97373,-45.30942,-69.97373,-45.30942",
+    "geom:latitude":-45.30942,
+    "geom:longitude":-69.97373,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"26084.0",
+    "gn:asciiname":"Facundo",
+    "gn:country_code":"AR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855690,
+    "gn:latitude":-45.30942,
+    "gn:longitude":-69.97373,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Facundo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ensanche Colonia Sarmiento",
+        "Ensanche Sarmiento",
+        "Ensanche de la Colonia Sarmiento",
+        "Facundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855690
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aa17164acdba97fd02ade3daba9a1e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "locality_id":1293293615,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1293293615,
+    "wof:lastmodified":1537584878,
+    "wof:name":"Facundo",
+    "wof:parent_id":421171527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.97373,
+    -45.30942,
+    -69.97373,
+    -45.30942
+],
+  "geometry": {"coordinates":[-69.97373,-45.30942],"type":"Point"}
+}

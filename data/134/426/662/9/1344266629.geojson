@@ -1,0 +1,74 @@
+{
+  "id": 1344266629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.25945,-34.43506,-59.25945,-34.43506",
+    "geom:latitude":-34.43506,
+    "geom:longitude":-59.25945,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6728.0",
+    "gn:asciiname":"Villa Ruiz",
+    "gn:country_code":"AR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429427,
+    "gn:latitude":-34.43506,
+    "gn:longitude":-59.25945,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Villa Ruiz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Ruiz"
+    ],
+    "name:und_x_variant":[
+        "Ruiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429427
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c7c8dff3c8e49b9594bdb8e78e66b051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718089,
+            "locality_id":1344266629,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1344266629,
+    "wof:lastmodified":1537584816,
+    "wof:name":"Villa Ruiz",
+    "wof:parent_id":1108718089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.25945,
+    -34.43506,
+    -59.25945,
+    -34.43506
+],
+  "geometry": {"coordinates":[-59.25945,-34.43506],"type":"Point"}
+}

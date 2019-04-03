@@ -1,0 +1,68 @@
+{
+  "id": 1327128767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.44458,-25.498,-59.44458,-25.498",
+    "geom:latitude":-25.498,
+    "geom:longitude":-59.44458,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34056.0",
+    "gn:asciiname":"Los Matacos",
+    "gn:country_code":"AR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3431129,
+    "gn:latitude":-25.498,
+    "gn:longitude":-59.44458,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Matacos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        421200145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431129
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8628f100e7d56cba2ada72256f9c5c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200145,
+            "locality_id":1327128767,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1327128767,
+    "wof:lastmodified":1536619234,
+    "wof:name":"Los Matacos",
+    "wof:parent_id":421200145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.44458,
+    -25.498,
+    -59.44458,
+    -25.498
+],
+  "geometry": {"coordinates":[-59.44458,-25.498],"type":"Point"}
+}

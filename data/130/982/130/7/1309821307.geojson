@@ -1,0 +1,68 @@
+{
+  "id": 1309821307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.09515,-35.44972,-58.09515,-35.44972",
+    "geom:latitude":-35.44972,
+    "geom:longitude":-58.09515,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6218.0",
+    "gn:asciiname":"Gandara",
+    "gn:country_code":"AR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433857,
+    "gn:latitude":-35.44972,
+    "gn:longitude":-58.09515,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"G\u00e1ndara",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433857
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bb56d6a7d990ca5a0e7b21a92613376a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717915,
+            "locality_id":1309821307,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1309821307,
+    "wof:lastmodified":1536909034,
+    "wof:name":"Gandara",
+    "wof:parent_id":1108717915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.09515,
+    -35.44972,
+    -58.09515,
+    -35.44972
+],
+  "geometry": {"coordinates":[-58.09515,-35.44972],"type":"Point"}
+}

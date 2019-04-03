@@ -1,0 +1,135 @@
+{
+  "id": 421191305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18958,-31.94585,-65.18958,-31.94585",
+    "geom:latitude":-31.94585,
+    "geom:longitude":-65.18958,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u062f\u0648\u0644\u0648\u0631\u064a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:chi_x_preferred":[
+        "\u591a\u6d1b\u96f7\u65af\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:fre_x_preferred":[
+        "villa Dolores"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30c9\u30ed\u30ec\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:por_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0414\u043e\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Dolores"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0414\u043e\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Dolores"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u6d1b\u96f7\u65af\u93ae"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832756,
+    "qs:gn_pop":28009,
+    "qs:name":"Villa Dolores",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1134933,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466735,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-31.933333,
+    "wd:longitude":-65.2,
+    "wd:wordcount":270,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421177961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832756,
+        "gp:id":466735,
+        "qs:id":1134933,
+        "wd:id":"Q374013",
+        "wk:page":"Villa Dolores"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009687,
+    "wof:geomhash":"e8401910035ffd45b10af8a055ef1f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421177961,
+            "locality_id":421191305,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421191305,
+    "wof:lastmodified":1553816379,
+    "wof:name":"Villa Dolores",
+    "wof:parent_id":421177961,
+    "wof:placetype":"locality",
+    "wof:population":28009,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18958,
+    -31.94585,
+    -65.18958,
+    -31.94585
+],
+  "geometry": {"coordinates":[-65.18958000000001,-31.94585],"type":"Point"}
+}

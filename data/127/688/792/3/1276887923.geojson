@@ -1,0 +1,72 @@
+{
+  "id": 1276887923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.8389,-38.27161,-57.8389,-38.27161",
+    "geom:latitude":-38.27161,
+    "geom:longitude":-57.8389,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6280.0",
+    "gn:asciiname":"Miramar",
+    "gn:country_code":"AR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3430668,
+    "gn:latitude":-38.27161,
+    "gn:longitude":-57.8389,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Miramar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Miramar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430668,
+        "wk:page":"Miramar%2C_Buenos_Aires"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"75b318892c8ad0669bacdc048595a4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717939,
+            "locality_id":1276887923,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276887923,
+    "wof:lastmodified":1537584821,
+    "wof:name":"Miramar",
+    "wof:parent_id":1108717939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.8389,
+    -38.27161,
+    -57.8389,
+    -38.27161
+],
+  "geometry": {"coordinates":[-57.8389,-38.27161],"type":"Point"}
+}

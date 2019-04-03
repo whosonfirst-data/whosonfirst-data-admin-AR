@@ -1,0 +1,72 @@
+{
+  "id": 1276858333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.77502,-29.47279,-67.77502,-29.47279",
+    "geom:latitude":-29.47279,
+    "geom:longitude":-67.77502,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46028.0",
+    "gn:asciiname":"Aicuna",
+    "gn:country_code":"AR",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866470,
+    "gn:latitude":-29.47279,
+    "gn:longitude":-67.77502,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aicu\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aicu\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421197043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866470,
+        "wk:page":"Aicu%C3%B1a"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"96cb1832b98b58b3b3860c80974d6078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197043,
+            "locality_id":1276858333,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1276858333,
+    "wof:lastmodified":1537584904,
+    "wof:name":"Aicuna",
+    "wof:parent_id":421197043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.77502,
+    -29.47279,
+    -67.77502,
+    -29.47279
+],
+  "geometry": {"coordinates":[-67.77502,-29.47279],"type":"Point"}
+}

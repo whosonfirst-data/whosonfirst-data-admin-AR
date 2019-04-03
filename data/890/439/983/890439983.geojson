@@ -1,0 +1,96 @@
+{
+  "id": 890439983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.44889,-28.98479,-63.44889,-28.98479",
+    "geom:latitude":-28.98479,
+    "geom:longitude":-63.44889,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2032,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u7279\u62c9\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Los Telares"
+    ],
+    "name:eng_x_preferred":[
+        "Los Telares"
+    ],
+    "name:fre_x_preferred":[
+        "Los Telares"
+    ],
+    "name:ger_x_preferred":[
+        "Los Telares"
+    ],
+    "name:ita_x_preferred":[
+        "Los Telares"
+    ],
+    "name:spa_x_preferred":[
+        "Los Telares"
+    ],
+    "name:swe_x_preferred":[
+        "Los Telares"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0422\u0435\u043b\u0430\u0440\u0435\u0441"
+    ],
+    "qs:name":"Los Telares",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845549,
+        "gp:id":332852,
+        "qs:id":585595,
+        "wd:id":"Q1015224",
+        "wk:page":"Los Telares"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052257,
+    "wof:geomhash":"1ced021ff6864d58c9f385c70fb834df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718511,
+            "locality_id":890439983,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":890439983,
+    "wof:lastmodified":1527729731,
+    "wof:name":"Los Telares",
+    "wof:parent_id":1108718511,
+    "wof:placetype":"locality",
+    "wof:population":2032,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.44889,
+    -28.98479,
+    -63.44889,
+    -28.98479
+],
+  "geometry": {"coordinates":[-63.44889,-28.98479],"type":"Point"}
+}

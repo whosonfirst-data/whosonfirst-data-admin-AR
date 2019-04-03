@@ -1,0 +1,107 @@
+{
+  "id": 421166375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73333,-31.55,-68.73333,-31.55",
+    "geom:latitude":-31.55,
+    "geom:longitude":-68.73333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5df4\u897f\u5229\u5967\u6d85\u5df4\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Basilio Nievas"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Basilio Nievas"
+    ],
+    "name:fre_x_preferred":[
+        "villa Basilio Nievas"
+    ],
+    "name:por_x_preferred":[
+        "Villa Basilio Nievas"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Basilio Nievas"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Basilio Nievas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0411\u0430\u0441\u0456\u043b\u0456\u043e-\u041d\u044c\u0454\u0432\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Villa Basilio Nievas"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832080,
+    "qs:gn_pop":4038,
+    "qs:name":"Zonda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":266383,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466859,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421194777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832080,
+        "gp:id":466859,
+        "qs:id":266383,
+        "wd:id":"Q2052395"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008687,
+    "wof:geomhash":"c5f905ab4efaba59c42eea1d76feafba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194777,
+            "locality_id":421166375,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":421166375,
+    "wof:lastmodified":1513889595,
+    "wof:name":"Zonda",
+    "wof:parent_id":421194777,
+    "wof:placetype":"locality",
+    "wof:population":4038,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73333,
+    -31.55,
+    -68.73333,
+    -31.55
+],
+  "geometry": {"coordinates":[-68.73333,-31.55],"type":"Point"}
+}

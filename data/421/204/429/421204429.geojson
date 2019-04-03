@@ -1,0 +1,98 @@
+{
+  "id": 421204429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35756,-33.24458,-61.35756,-33.24458",
+    "geom:latitude":-33.24458,
+    "geom:longitude":-61.35756,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Chab\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Chab\u00e1s"
+    ],
+    "name:fre_x_preferred":[
+        "Chab\u00e1s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d1\u05d0\u05e1"
+    ],
+    "name:por_x_preferred":[
+        "Chab\u00e1s"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Chab\u00e1s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0431\u0430\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861956,
+    "qs:gn_pop":0,
+    "qs:name":"Chab\u00e1s",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":240857,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467168,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861956,
+        "gp:id":467168,
+        "qs:id":240857,
+        "wd:id":"Q2191024"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010186,
+    "wof:geomhash":"22059d2062e696c81fc56db267d2848b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171507,
+            "locality_id":421204429,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421204429,
+    "wof:lastmodified":1513889001,
+    "wof:name":"Chab\u00e1s",
+    "wof:parent_id":421171507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35756,
+    -33.24458,
+    -61.35756,
+    -33.24458
+],
+  "geometry": {"coordinates":[-61.35756,-33.24458],"type":"Point"}
+}

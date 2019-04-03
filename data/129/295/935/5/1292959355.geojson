@@ -1,0 +1,68 @@
+{
+  "id": 1292959355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.38333,-28.36667,-64.38333,-28.36667",
+    "geom:latitude":-28.36667,
+    "geom:longitude":-64.38333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86105.0",
+    "gn:asciiname":"Tusca Pozo",
+    "gn:country_code":"AR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833480,
+    "gn:latitude":-28.36667,
+    "gn:longitude":-64.38333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Tusca Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833480
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b2f1bf6e9e3af106212e459ee134689f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718493,
+            "locality_id":1292959355,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1292959355,
+    "wof:lastmodified":1537049430,
+    "wof:name":"Tusca Pozo",
+    "wof:parent_id":1108718493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.38333,
+    -28.36667000000001,
+    -64.38333,
+    -28.36667000000001
+],
+  "geometry": {"coordinates":[-64.38333,-28.36667000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260192509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.06375,-38.88723,-62.06375,-38.88723",
+    "geom:latitude":-38.88723,
+    "geom:longitude":-62.06375,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6182.0",
+    "gn:asciiname":"Barrio Cuidad Atlantida",
+    "gn:country_code":"AR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864638,
+    "gn:latitude":-38.88723,
+    "gn:longitude":-62.06375,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barrio Cuidad Atl\u00e1ntida",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864638
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f46b170706122557fcfc953cae90f62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717903,
+            "locality_id":1260192509,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1260192509,
+    "wof:lastmodified":1536834460,
+    "wof:name":"Barrio Cuidad Atlantida",
+    "wof:parent_id":1108717903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.06375,
+    -38.88723,
+    -62.06375,
+    -38.88723
+],
+  "geometry": {"coordinates":[-62.06375,-38.88723],"type":"Point"}
+}

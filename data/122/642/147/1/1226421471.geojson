@@ -1,0 +1,68 @@
+{
+  "id": 1226421471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.2913,-26.95982,-55.2913,-26.95982",
+    "geom:latitude":-26.95982,
+    "geom:longitude":-55.2913,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54098.0",
+    "gn:asciiname":"Puerto Naranjito",
+    "gn:country_code":"AR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429753,
+    "gn:latitude":-26.95982,
+    "gn:longitude":-55.2913,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Naranjito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421180297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429753
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5a5911c7e9df6003ba5dcb6fb9da0f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180297,
+            "locality_id":1226421471,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1226421471,
+    "wof:lastmodified":1536680472,
+    "wof:name":"Puerto Naranjito",
+    "wof:parent_id":421180297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.2913,
+    -26.95982,
+    -55.2913,
+    -26.95982
+],
+  "geometry": {"coordinates":[-55.2913,-26.95982],"type":"Point"}
+}

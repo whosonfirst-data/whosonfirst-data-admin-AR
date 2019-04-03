@@ -1,0 +1,105 @@
+{
+  "id": 421186643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.512321,-34.70301,-58.512321,-34.70301",
+    "geom:latitude":-34.70301,
+    "geom:longitude":-58.512321,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tapiales"
+    ],
+    "name:dut_x_preferred":[
+        "Tapiales"
+    ],
+    "name:eng_x_preferred":[
+        "Tapiales"
+    ],
+    "name:fre_x_preferred":[
+        "Tapiales"
+    ],
+    "name:ger_x_preferred":[
+        "Tapiales"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d4\u30a2\u30ec\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Tapiales"
+    ],
+    "name:sco_x_preferred":[
+        "Tapiales"
+    ],
+    "name:spa_x_preferred":[
+        "Tapiales"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tapiales",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075041,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332241,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":268,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427818,
+        "gp:id":332241,
+        "qs:id":1075041,
+        "wd:id":"Q7684607"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009487,
+    "wof:geomhash":"fc26aee5908cf90ea01427eabcfb59f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717991,
+            "locality_id":421186643,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186643,
+    "wof:lastmodified":1527716312,
+    "wof:name":"Tapiales",
+    "wof:parent_id":1108717991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.512321,
+    -34.70301,
+    -58.512321,
+    -34.70301
+],
+  "geometry": {"coordinates":[-58.512321,-34.70301],"type":"Point"}
+}

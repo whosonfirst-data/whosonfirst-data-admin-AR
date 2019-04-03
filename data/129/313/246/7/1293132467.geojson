@@ -1,0 +1,72 @@
+{
+  "id": 1293132467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.10297,-31.01322,-65.10297,-31.01322",
+    "geom:latitude":-31.01322,
+    "geom:longitude":-65.10297,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14028.0",
+    "gn:asciiname":"La Higuera",
+    "gn:country_code":"AR",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3850810,
+    "gn:latitude":-31.01322,
+    "gn:longitude":-65.10297,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"La Higuera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Higuera",
+        "La Higuera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421191183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3850810
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0edc857e6f6fb3e2c4e2d37eb08bb0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191183,
+            "locality_id":1293132467,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1293132467,
+    "wof:lastmodified":1537584867,
+    "wof:name":"La Higuera",
+    "wof:parent_id":421191183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.10297,
+    -31.01322,
+    -65.10297,
+    -31.01322
+],
+  "geometry": {"coordinates":[-65.10297,-31.01322],"type":"Point"}
+}

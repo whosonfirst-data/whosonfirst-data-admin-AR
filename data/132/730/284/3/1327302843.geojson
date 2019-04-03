@@ -1,0 +1,68 @@
+{
+  "id": 1327302843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.90674,-29.17089,-62.90674,-29.17089",
+    "geom:latitude":-29.17089,
+    "geom:longitude":-62.90674,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86168.0",
+    "gn:asciiname":"Santa Paula",
+    "gn:country_code":"AR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836072,
+    "gn:latitude":-29.17089,
+    "gn:longitude":-62.90674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santa Paula",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836072
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"838e8752c9bd8008677625e8a1ee2b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718511,
+            "locality_id":1327302843,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1327302843,
+    "wof:lastmodified":1536866721,
+    "wof:name":"Santa Paula",
+    "wof:parent_id":1108718511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.90674,
+    -29.17089,
+    -62.90674,
+    -29.17089
+],
+  "geometry": {"coordinates":[-62.90674,-29.17089],"type":"Point"}
+}

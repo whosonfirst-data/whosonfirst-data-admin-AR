@@ -1,0 +1,141 @@
+{
+  "id": 421186539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.95731,-46.7949,-67.95731,-46.7949",
+    "geom:latitude":-46.7949,
+    "geom:longitude":-67.95731,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u054a\u056b\u056f\u0578 \u054f\u0580\u0578\u0582\u0576\u056f\u0561\u0564\u0578"
+    ],
+    "name:cat_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:ceb_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:deu_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:dut_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:eng_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:fre_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:ger_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e7\u05d5 \u05d8\u05e8\u05d5\u05e0\u05e7\u05d3\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u056f\u0578 \u054f\u0580\u0578\u0582\u0576\u056f\u0561\u0564\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:lit_x_preferred":[
+        "Piko Trunkadas"
+    ],
+    "name:nld_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:oci_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u043e \u0422\u0440\u0443\u043d\u043a\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:swe_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043a\u043e-\u0422\u0440\u0443\u043d\u043a\u0430\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Pico Troncado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841309,
+    "qs:gn_pop":14985,
+    "qs:name":"Pico Truncado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1072737,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466108,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-46.8,
+    "wd:longitude":-67.966667,
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841309,
+        "gp:id":466108,
+        "qs:id":1072737,
+        "wd:id":"Q81562",
+        "wk:page":"Pico Truncado"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009484,
+    "wof:geomhash":"1b7b2cea70f9795e65114f1c4d7de3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":421186539,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":421186539,
+    "wof:lastmodified":1527716315,
+    "wof:name":"Pico Truncado",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:population":14985,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.95731,
+    -46.7949,
+    -67.95731,
+    -46.7949
+],
+  "geometry": {"coordinates":[-67.95731000000001,-46.7949],"type":"Point"}
+}

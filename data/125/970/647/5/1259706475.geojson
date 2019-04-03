@@ -1,0 +1,72 @@
+{
+  "id": 1259706475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26046,-31.64573,-64.26046,-31.64573",
+    "geom:latitude":-31.64573,
+    "geom:longitude":-64.26046,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14147.0",
+    "gn:asciiname":"Rafael Garcia",
+    "gn:country_code":"AR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839475,
+    "gn:latitude":-31.64573,
+    "gn:longitude":-64.26046,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rafael Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Destino",
+        "Rafael Garc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839475
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2abaf408dea85805c37a1c1f86551c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":1259706475,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1259706475,
+    "wof:lastmodified":1537584845,
+    "wof:name":"Rafael Garcia",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26046,
+    -31.64573,
+    -64.26046,
+    -31.64573
+],
+  "geometry": {"coordinates":[-64.26045999999999,-31.64573],"type":"Point"}
+}

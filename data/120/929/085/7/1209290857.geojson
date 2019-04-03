@@ -1,0 +1,66 @@
+{
+  "id": 1209290857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.85961,-22.93392,-63.85961,-22.93392",
+    "geom:latitude":-22.93392,
+    "geom:longitude":-63.85961,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66056.0",
+    "gn:asciiname":"General Ballivian",
+    "gn:country_code":"AR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855130,
+    "gn:latitude":-22.93392,
+    "gn:longitude":-63.85961,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"General Ballivi\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "General Ballivi\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855130,
+        "wk:page":"General_Ballivi%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8543a364a455da8a1a5faa5a74ce4ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209290857
+        }
+    ],
+    "wof:id":1209290857,
+    "wof:lastmodified":1537584875,
+    "wof:name":"General Ballivian",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.85961,
+    -22.93392,
+    -63.85961,
+    -22.93392
+],
+  "geometry": {"coordinates":[-63.85961,-22.93392],"type":"Point"}
+}

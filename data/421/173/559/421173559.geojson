@@ -1,0 +1,113 @@
+{
+  "id": 421173559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.83896,-24.22554,-64.83896,-24.22554",
+    "geom:latitude":-24.22554,
+    "geom:longitude":-64.83896,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:dut_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ger_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:oci_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "La Esperanza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u067e\u06cc\u0631\u0627\u0646\u0632\u0627\u060c \u062c\u0648\u062c\u0648\u06cc"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853767,
+    "qs:gn_pop":5002,
+    "qs:name":"Ingenio la Esperanza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Jujuy",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":290965,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465577,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421171259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853767,
+        "gp:id":465577,
+        "qs:id":290965,
+        "wd:id":"Q55387"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008990,
+    "wof:geomhash":"eeaec539bd1120b2bb2426fa4b88bbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171259,
+            "locality_id":421173559,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":421173559,
+    "wof:lastmodified":1513889206,
+    "wof:name":"Ingenio la Esperanza",
+    "wof:parent_id":421171259,
+    "wof:placetype":"locality",
+    "wof:population":5002,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.83896,
+    -24.22554,
+    -64.83896,
+    -24.22554
+],
+  "geometry": {"coordinates":[-64.83896,-24.22554],"type":"Point"}
+}

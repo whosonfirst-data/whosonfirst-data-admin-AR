@@ -1,0 +1,112 @@
+{
+  "id": 421178973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22103,-32.02927,-61.22103,-32.02927",
+    "geom:latitude":-32.02927,
+    "geom:longitude":-61.22103,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:ceb_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:dut_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:glg_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30d9\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:spa_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e1lvez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u044c\u0432\u0435\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855244,
+    "qs:gn_pop":18374,
+    "qs:name":"G\u00e1lvez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150503,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466964,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421188015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855244,
+        "gp:id":466964,
+        "qs:id":150503,
+        "wd:id":"Q2407577",
+        "wk:page":"G\u00e1lvez, Santa Fe"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009199,
+    "wof:geomhash":"85a694bb89576f1929fff3fc2ea2be17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188015,
+            "locality_id":421178973,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421178973,
+    "wof:lastmodified":1527717728,
+    "wof:name":"G\u00e1lvez",
+    "wof:parent_id":421188015,
+    "wof:placetype":"locality",
+    "wof:population":18374,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22103,
+    -32.02927,
+    -61.22103,
+    -32.02927
+],
+  "geometry": {"coordinates":[-61.22103,-32.02927],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421191851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16036,-27.91853,-65.16036,-27.91853",
+    "geom:latitude":-27.91853,
+    "geom:longitude":-65.16036,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3847781,
+    "qs:gn_pop":0,
+    "qs:name":"Las Talitas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santiago del Estero",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1158858,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331241,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847781,
+        "gp:id":331241,
+        "qs:id":1158858
+    },
+    "wof:country":"AR",
+    "wof:created":1459009712,
+    "wof:geomhash":"43c8fb05409a8152469f001bb51aac1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718485,
+            "locality_id":421191851,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":421191851,
+    "wof:lastmodified":1499925349,
+    "wof:name":"Las Talitas",
+    "wof:parent_id":1108718485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16036,
+    -27.91853,
+    -65.16036,
+    -27.91853
+],
+  "geometry": {"coordinates":[-65.16036,-27.91853],"type":"Point"}
+}

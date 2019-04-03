@@ -1,0 +1,72 @@
+{
+  "id": 1293798101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.77505,-35.0918,-59.77505,-35.0918",
+    "geom:latitude":-35.0918,
+    "geom:longitude":-59.77505,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6224.0",
+    "gn:asciiname":"Moquehua",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430568,
+    "gn:latitude":-35.0918,
+    "gn:longitude":-59.77505,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Moquehu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moguehua",
+        "Moquehu\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430568
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"51c452d98bdb1dbcba39c455399d7d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717917,
+            "locality_id":1293798101,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293798101,
+    "wof:lastmodified":1537584820,
+    "wof:name":"Moquehua",
+    "wof:parent_id":1108717917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.77505,
+    -35.0918,
+    -59.77505,
+    -35.0918
+],
+  "geometry": {"coordinates":[-59.77505,-35.0918],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 421198341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.63626,-30.25359,-57.63626,-30.25359",
+    "geom:latitude":-30.25359,
+    "geom:longitude":-57.63626,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8499\u7279\u5361\u585e\u7f85\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:fre_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:ger_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30fb\u30ab\u30bb\u30ed\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Kaserosas"
+    ],
+    "name:por_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0441\u0435\u0440\u043e\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5361\u585e\u7f85\u65af"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430598,
+    "qs:gn_pop":24671,
+    "qs:name":"Monte Caseros",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":181915,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467009,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-30.25,
+    "wd:longitude":-57.65,
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421191013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430598,
+        "gp:id":467009,
+        "qs:id":181915,
+        "wd:id":"Q765820",
+        "wk:page":"Monte Caseros, Corrientes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009945,
+    "wof:geomhash":"e9a27ca7a88a114ca32fc3c973714a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191013,
+            "locality_id":421198341,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421198341,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Monte Caseros",
+    "wof:parent_id":421191013,
+    "wof:placetype":"locality",
+    "wof:population":24671,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.63626,
+    -30.25359,
+    -57.63626,
+    -30.25359
+],
+  "geometry": {"coordinates":[-57.63626,-30.25359],"type":"Point"}
+}

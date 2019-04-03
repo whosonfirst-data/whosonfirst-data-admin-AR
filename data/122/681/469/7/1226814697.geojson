@@ -1,0 +1,68 @@
+{
+  "id": 1226814697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01343,-33.38997,-66.01343,-33.38997",
+    "geom:latitude":-33.38997,
+    "geom:longitude":-66.01343,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74021.0",
+    "gn:asciiname":"Eleodoro Lobos",
+    "gn:country_code":"AR",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858079,
+    "gn:latitude":-33.38997,
+    "gn:longitude":-66.01343,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eleodoro Lobos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858079
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6934931c5d2332940346867c428b06e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171477,
+            "locality_id":1226814697,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1226814697,
+    "wof:lastmodified":1536613976,
+    "wof:name":"Eleodoro Lobos",
+    "wof:parent_id":421171477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01343,
+    -33.38997,
+    -66.01343,
+    -33.38997
+],
+  "geometry": {"coordinates":[-66.01343,-33.38997],"type":"Point"}
+}

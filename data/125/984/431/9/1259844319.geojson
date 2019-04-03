@@ -1,0 +1,73 @@
+{
+  "id": 1259844319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.7,-47.08333,-66.7,-47.08333",
+    "geom:latitude":-47.08333,
+    "geom:longitude":-66.7,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78014.0",
+    "gn:asciiname":"Mazarredo",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844625,
+    "gn:latitude":-47.08333,
+    "gn:longitude":-66.7,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mazarredo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazaredo",
+        "Mazarredo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844625
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"57cfa8630658cc168ceb83cf11b6aa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":1259844319,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1259844319,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Mazarredo",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.7,
+    -47.08333,
+    -66.7,
+    -47.08333
+],
+  "geometry": {"coordinates":[-66.7,-47.08333],"type":"Point"}
+}

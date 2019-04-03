@@ -1,0 +1,104 @@
+{
+  "id": 421200551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.85984,-31.89618,-61.85984,-31.89618",
+    "geom:latitude":-31.89618,
+    "geom:longitude":-61.85984,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Jorge"
+    ],
+    "name:eng_x_preferred":[
+        "San Jorge"
+    ],
+    "name:fre_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ger_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ita_x_preferred":[
+        "San Jorge"
+    ],
+    "name:por_x_preferred":[
+        "San Jorge"
+    ],
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0440\u0445\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837441,
+    "qs:gn_pop":16873,
+    "qs:name":"San Jorge",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1313430,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332513,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837441,
+        "gp:id":332513,
+        "qs:id":1313430,
+        "wd:id":"Q1449543"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010029,
+    "wof:geomhash":"c61a8daefb9a91d192f3a0f0fd6902ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718461,
+            "locality_id":421200551,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421200551,
+    "wof:lastmodified":1513889426,
+    "wof:name":"San Jorge",
+    "wof:parent_id":1108718461,
+    "wof:placetype":"locality",
+    "wof:population":16873,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.85984,
+    -31.89618,
+    -61.85984,
+    -31.89618
+],
+  "geometry": {"coordinates":[-61.85984,-31.89618],"type":"Point"}
+}

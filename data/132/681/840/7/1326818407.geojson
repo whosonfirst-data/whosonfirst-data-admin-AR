@@ -1,0 +1,68 @@
+{
+  "id": 1326818407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.37245,-37.83528,-65.37245,-37.83528",
+    "geom:latitude":-37.83528,
+    "geom:longitude":-65.37245,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42084.0",
+    "gn:asciiname":"La Asturiana",
+    "gn:country_code":"AR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852702,
+    "gn:latitude":-37.83528,
+    "gn:longitude":-65.37245,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Asturiana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421188213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852702
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8e33e2c9cff259900c4d905701bf0659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188213,
+            "locality_id":1326818407,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1326818407,
+    "wof:lastmodified":1537065839,
+    "wof:name":"La Asturiana",
+    "wof:parent_id":421188213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.37245,
+    -37.83528,
+    -65.37245,
+    -37.83528
+],
+  "geometry": {"coordinates":[-65.37245,-37.83528],"type":"Point"}
+}

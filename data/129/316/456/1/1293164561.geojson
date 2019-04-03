@@ -1,0 +1,68 @@
+{
+  "id": 1293164561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.91667,-24.18333,-62.91667,-24.18333",
+    "geom:latitude":-24.18333,
+    "geom:longitude":-62.91667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"San Joaquin",
+    "gn:country_code":"AR",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837453,
+    "gn:latitude":-24.18333,
+    "gn:longitude":-62.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837453
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dcdde047fbdc537d6ad98157a43f8b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1293164561,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293164561,
+    "wof:lastmodified":1536755819,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.91667,
+    -24.18333,
+    -62.91667,
+    -24.18333
+],
+  "geometry": {"coordinates":[-62.91667,-24.18333],"type":"Point"}
+}

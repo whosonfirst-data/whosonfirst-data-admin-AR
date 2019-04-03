@@ -1,0 +1,101 @@
+{
+  "id": 421169575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.07734,-31.55097,-61.07734,-31.55097",
+    "geom:latitude":-31.55097,
+    "geom:longitude":-61.07734,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:eng_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:fre_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:ger_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:por_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:spa_x_preferred":[
+        "San Jer\u00f3nimo Norte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0435\u0440\u043e\u043d\u0456\u043c\u043e-\u041d\u043e\u0440\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "San Ger\u00f3nimo Norte"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837456,
+    "qs:gn_pop":0,
+    "qs:name":"San Jer\u00f3nimo Norte",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":87,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":87,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262891,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331947,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837456,
+        "gp:id":331947,
+        "qs:id":1262891,
+        "wd:id":"Q2519528"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008815,
+    "wof:geomhash":"9c28a9d3488c1296e61471055a249957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":421169575,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421169575,
+    "wof:lastmodified":1513889426,
+    "wof:name":"San Jer\u00f3nimo Norte",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.07734,
+    -31.55097,
+    -61.07734,
+    -31.55097
+],
+  "geometry": {"coordinates":[-61.07734,-31.55097],"type":"Point"}
+}

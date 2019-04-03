@@ -1,0 +1,87 @@
+{
+  "id": 890422937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43606,-32.6935,-63.43606,-32.6935",
+    "geom:latitude":-32.6935,
+    "geom:longitude":-63.43606,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1895,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ticino"
+    ],
+    "name:dut_x_preferred":[
+        "Ticino"
+    ],
+    "name:eng_x_preferred":[
+        "Ticino"
+    ],
+    "name:por_x_preferred":[
+        "Ticino"
+    ],
+    "name:spa_x_preferred":[
+        "Ticino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0441\u0456\u043d\u043e"
+    ],
+    "qs:name":"Ticino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":3939,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834459,
+        "gp:id":91815661,
+        "qs:id":585467,
+        "wd:id":"Q6146439",
+        "wk:page":"Ticino"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051473,
+    "wof:geomhash":"37b545228f1687be9ff9b3b1eb128b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":890422937,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890422937,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Ticino",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:population":1895,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43606,
+    -32.6935,
+    -63.43606,
+    -32.6935
+],
+  "geometry": {"coordinates":[-63.43606,-32.6935],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276304915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,-41.63333,-70.01667,-41.63333",
+    "geom:latitude":-41.63333,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62056.0",
+    "gn:asciiname":"Futa Ruin",
+    "gn:country_code":"AR",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855296,
+    "gn:latitude":-41.63333,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Futa Ru\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421199903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855296
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"76305385ccd9de38ef25fc8192329026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199903,
+            "locality_id":1276304915,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1276304915,
+    "wof:lastmodified":1536816102,
+    "wof:name":"Futa Ruin",
+    "wof:parent_id":421199903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    -41.63333,
+    -70.01666999999999,
+    -41.63333
+],
+  "geometry": {"coordinates":[-70.01666999999999,-41.63333],"type":"Point"}
+}

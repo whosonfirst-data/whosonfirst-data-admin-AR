@@ -1,0 +1,68 @@
+{
+  "id": 1293310409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.65341,-34.37121,-60.65341,-34.37121",
+    "geom:latitude":-34.37121,
+    "geom:longitude":-60.65341,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6686.0",
+    "gn:asciiname":"Los Indios",
+    "gn:country_code":"AR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846106,
+    "gn:latitude":-34.37121,
+    "gn:longitude":-60.65341,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Indios",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846106
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"45b445149402fb06d21a667529b585d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718077,
+            "locality_id":1293310409,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293310409,
+    "wof:lastmodified":1537040619,
+    "wof:name":"Los Indios",
+    "wof:parent_id":1108718077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.65341,
+    -34.37121,
+    -60.65341,
+    -34.37121
+],
+  "geometry": {"coordinates":[-60.65341,-34.37121],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209624017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86779,-27.92237,-65.86779,-27.92237",
+    "geom:latitude":-27.92237,
+    "geom:longitude":-65.86779,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10007.0",
+    "gn:asciiname":"El Bolson",
+    "gn:country_code":"AR",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858766,
+    "gn:latitude":-27.92237,
+    "gn:longitude":-65.86779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Bols\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bols\u00f3n",
+        "El Bols\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858766,
+        "wk:page":"El_Bols%C3%B3n%2C_Catamarca"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f19d0299cada295dad745e0db3d8f7c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209624017
+        }
+    ],
+    "wof:id":1209624017,
+    "wof:lastmodified":1537584884,
+    "wof:name":"El Bolson",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86779,
+    -27.92237,
+    -65.86779,
+    -27.92237
+],
+  "geometry": {"coordinates":[-65.86779,-27.92237],"type":"Point"}
+}

@@ -1,0 +1,160 @@
+{
+  "id": 421166635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.84473,-34.453239,-58.84473,-34.453239",
+    "geom:latitude":-34.453239,
+    "geom:longitude":-58.84473,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u062d\u0631\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:ces_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:dan_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:deu_x_preferred":[
+        "Lonja de la Seda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03ae\u03c1\u03b9\u03bf \u039c\u03b5\u03c4\u03b1\u03be\u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u0392\u03b1\u03bb\u03ad\u03bd\u03b8\u03b9\u03b1\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Varborso de la Silko"
+    ],
+    "name:eus_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:fin_x_preferred":[
+        "Lonja de la Seda"
+    ],
+    "name:fra_x_preferred":[
+        "Loge de la soie"
+    ],
+    "name:glg_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:hbs_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094d\u0932\u094b\u0924\u094d\u091c\u093c\u093e \u0926\u0947 \u0932\u093e \u0938\u0940\u0926\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:hun_x_preferred":[
+        "Selyemb\u00f6rze"
+    ],
+    "name:ita_x_preferred":[
+        "Lonja de la Seda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30ed\u30f3\u30cf\u30fb\u30c7\u30fb\u30e9\u30fb\u30bb\u30c0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10dc\u10ee\u10d0-\u10d3\u10d4-\u10da\u10d0-\u10e1\u10d4\u10d3\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "La Lonja de la Seda"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2f\u0a4c\u0a21\u0a1c\u0a3e \u0a26\u0a47 \u0a32\u0a3e \u0a38\u0a47\u0a26\u0a3e"
+    ],
+    "name:por_x_preferred":[
+        "Lonja de la Seda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0445\u0430-\u0434\u0435-\u043b\u0430-\u0421\u0435\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "La Llotja de la Seda"
+    ],
+    "name:spa_x_preferred":[
+        "Lonja de la Seda"
+    ],
+    "name:sun_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:swe_x_preferred":[
+        "La Lonja de la Seda"
+    ],
+    "name:vie_x_preferred":[
+        "Llotja de la Seda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u502b\u897f\u4e9e\u7d72\u7da2\u4ea4\u6613\u6240"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Lonja",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268687,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":22528582,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":712,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22528582,
+        "qs:id":268687
+    },
+    "wof:country":"AR",
+    "wof:created":1459008697,
+    "wof:geomhash":"0ae9d026a957601b5ce05be96838dbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718057,
+            "locality_id":421166635,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421166635,
+    "wof:lastmodified":1527716103,
+    "wof:name":"La Lonja",
+    "wof:parent_id":1108718057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.84473,
+    -34.453239,
+    -58.84473,
+    -34.453239
+],
+  "geometry": {"coordinates":[-58.84473,-34.453239],"type":"Point"}
+}

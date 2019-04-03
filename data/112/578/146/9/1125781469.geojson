@@ -1,0 +1,112 @@
+{
+  "id": 1125781469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01796,-31.70578,-65.01796,-31.70578",
+    "geom:latitude":-31.70578,
+    "geom:longitude":-65.01796,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4707,
+    "gn:population":4707,
+    "iso:country":"AR",
+    "lbl:latitude":-31.70578,
+    "lbl:longitude":-65.01796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5eab\u62c9\u5e03\u7f85\u5207\u7f85\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:fre_x_preferred":[
+        "villa Cura Brochero"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:por_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041a\u0443\u0440\u0430-\u0411\u0440\u043e\u0447\u0435\u0440\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Transito"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3832773,
+    "qs_pg:gn_pop":4707,
+    "qs_pg:name":"Villa Cura Brochero",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1046746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421198475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832773,
+        "qs_pg:id":1046746,
+        "wd:id":"Q1818180"
+    },
+    "wof:country":"AR",
+    "wof:created":1497290499,
+    "wof:geomhash":"f14a038c531181e20df79e4697075d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198475,
+            "locality_id":1125781469,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1125781469,
+    "wof:lastmodified":1513889586,
+    "wof:name":"Villa Cura Brochero",
+    "wof:parent_id":421198475,
+    "wof:placetype":"locality",
+    "wof:population":4707,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01796,
+    -31.70578,
+    -65.01796,
+    -31.70578
+],
+  "geometry": {"coordinates":[-65.01796,-31.70578],"type":"Point"}
+}

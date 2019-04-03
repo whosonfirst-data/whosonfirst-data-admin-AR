@@ -1,0 +1,92 @@
+{
+  "id": 421177483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.48193,-31.66966,-69.48193,-31.66966",
+    "geom:latitude":-31.66966,
+    "geom:longitude":-69.48193,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Villa Pituil"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Pituil"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Pituil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041f\u0456\u0442\u0443\u0457\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Pituil"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832652,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Pituil",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Juan",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1199946,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332931,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421171513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832652,
+        "gp:id":332931,
+        "qs:id":1199946,
+        "wd:id":"Q6162340"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009146,
+    "wof:geomhash":"49de250de9255a3ae6c9d8a91138011a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171513,
+            "locality_id":421177483,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":421177483,
+    "wof:lastmodified":1513889590,
+    "wof:name":"Villa Pituil",
+    "wof:parent_id":421171513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48193,
+    -31.66966,
+    -69.48193,
+    -31.66966
+],
+  "geometry": {"coordinates":[-69.48193000000001,-31.66966],"type":"Point"}
+}

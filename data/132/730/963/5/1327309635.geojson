@@ -1,0 +1,72 @@
+{
+  "id": 1327309635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65194,-31.95123,-68.65194,-31.95123",
+    "geom:latitude":-31.95123,
+    "geom:longitude":-68.65194,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70105.0",
+    "gn:asciiname":"Los Berros",
+    "gn:country_code":"AR",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846414,
+    "gn:latitude":-31.95123,
+    "gn:longitude":-68.65194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Berros",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berros",
+        "Los Berros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        1108718435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846414
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c2956edbd6d01fb2b6dcc980234db963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718435,
+            "locality_id":1327309635,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1327309635,
+    "wof:lastmodified":1537584860,
+    "wof:name":"Los Berros",
+    "wof:parent_id":1108718435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65194,
+    -31.95123,
+    -68.65194,
+    -31.95123
+],
+  "geometry": {"coordinates":[-68.65194,-31.95123],"type":"Point"}
+}

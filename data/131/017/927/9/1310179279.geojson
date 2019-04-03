@@ -1,0 +1,72 @@
+{
+  "id": 1310179279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59372,-29.6841,-61.59372,-29.6841",
+    "geom:latitude":-29.6841,
+    "geom:longitude":-61.59372,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82077.0",
+    "gn:asciiname":"Campo Garay",
+    "gn:country_code":"AR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863135,
+    "gn:latitude":-29.6841,
+    "gn:longitude":-61.59372,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Campo Garay",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo de Garay",
+        "Campo Garay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863135
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0e57f358db02e9d690e3891aca2fb2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718455,
+            "locality_id":1310179279,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1310179279,
+    "wof:lastmodified":1537584898,
+    "wof:name":"Campo Garay",
+    "wof:parent_id":1108718455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59372,
+    -29.6841,
+    -61.59372,
+    -29.6841
+],
+  "geometry": {"coordinates":[-61.59372,-29.6841],"type":"Point"}
+}

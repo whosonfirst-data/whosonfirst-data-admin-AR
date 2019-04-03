@@ -1,0 +1,68 @@
+{
+  "id": 1327197305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48731,-31.40046,-68.48731,-31.40046",
+    "geom:latitude":-31.40046,
+    "geom:longitude":-68.48731,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70007.0",
+    "gn:asciiname":"Las Lomitas",
+    "gn:country_code":"AR",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848163,
+    "gn:latitude":-31.40046,
+    "gn:longitude":-68.48731,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Lomitas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421198377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848163
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"51ed0acd8bf45fd4b8dc8c149b19de5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198377,
+            "locality_id":1327197305,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1327197305,
+    "wof:lastmodified":1537019540,
+    "wof:name":"Las Lomitas",
+    "wof:parent_id":421198377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48731,
+    -31.40046,
+    -68.48731,
+    -31.40046
+],
+  "geometry": {"coordinates":[-68.48730999999999,-31.40046],"type":"Point"}
+}

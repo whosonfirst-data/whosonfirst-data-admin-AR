@@ -1,0 +1,68 @@
+{
+  "id": 1209720455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70367,-32.34409,-64.70367,-32.34409",
+    "geom:latitude":-32.34409,
+    "geom:longitude":-64.70367,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14007.0",
+    "gn:asciiname":"Tala Cruz",
+    "gn:country_code":"AR",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834776,
+    "gn:latitude":-32.34409,
+    "gn:longitude":-64.70367,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tala Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834776
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3752ef0a51169455aadc3e325aff7bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186303,
+            "locality_id":1209720455,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1209720455,
+    "wof:lastmodified":1536386614,
+    "wof:name":"Tala Cruz",
+    "wof:parent_id":421186303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70366999999999,
+    -32.34409,
+    -64.70366999999999,
+    -32.34409
+],
+  "geometry": {"coordinates":[-64.70366999999999,-32.34409],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890440005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.41368,-26.4077,-61.41368,-26.4077",
+    "geom:latitude":-26.4077,
+    "geom:longitude":-61.41368,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":6610,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:eng_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:fre_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:ita_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:por_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:spa_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:swe_x_preferred":[
+        "Los Frentones"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0424\u0440\u0435\u043d\u0442\u043e\u043d\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Los Frontones"
+    ],
+    "qs:name":"Los Frentones",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846175,
+        "gp:id":331335,
+        "qs:id":585629,
+        "wd:id":"Q925007",
+        "wk:page":"Los Frentones"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052259,
+    "wof:geomhash":"fd4a240736c36e0c64049dc76bbaa34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185419,
+            "locality_id":890440005,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890440005,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Los Frentones",
+    "wof:parent_id":421185419,
+    "wof:placetype":"locality",
+    "wof:population":6610,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.41368,
+    -26.4077,
+    -61.41368,
+    -26.4077
+],
+  "geometry": {"coordinates":[-61.41368,-26.4077],"type":"Point"}
+}

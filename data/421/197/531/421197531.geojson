@@ -1,0 +1,240 @@
+{
+  "id": 421197531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.52814,-46.43929,-67.52814,-46.43929",
+    "geom:latitude":-46.43929,
+    "geom:longitude":-67.52814,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u064a\u062a\u0627 \u0623\u0648\u0644\u064a\u0641\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u056c\u0565\u057f\u0561 \u0555\u056c\u056b\u057e\u056b\u0561"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0644\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09b2\u09c7\u099f\u09be \u0985\u09b2\u09bf\u09ad\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:ces_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u840a\u5854\u5967\u5229\u7dad\u4e9e"
+    ],
+    "name:cym_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:cze_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:dan_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:deu_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:dut_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:eng_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:epo_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:fra_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:fre_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:ger_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ad\u03c4\u03b1 \u039f\u03bb\u03af\u03b2\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0ab2\u0ac7\u0a9f\u0abe \u0a93\u0ab2\u0ac0\u0ab5\u0abf\u0a86"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d8\u05d4 \u05d0\u05d5\u05dc\u05d9\u05d1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0932\u0947\u0924\u093e \u0913\u0932\u093f\u0935\u093f\u092f\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u056c\u0565\u057f\u0561 \u0555\u056c\u056b\u057e\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:ita_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30c6\u30ca\u30fb\u30aa\u30ea\u30d3\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c9f\u0cbe \u0c92\u0cb2\u0cbf\u0cb5\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub9ac\ud0c0 \uc62c\ub9ac\ube44\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Kaletaol\u012bvija"
+    ],
+    "name:lit_x_preferred":[
+        "Kaleta Olivija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0945\u0932\u094d\u091f\u093e \u0913\u0932\u093f\u0935\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:nob_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0644\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:por_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u0442\u0430-\u041e\u043b\u0438\u0432\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0dbd\u0dda\u0da7\u0dcf \u0d94\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:slo_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:spa_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:swe_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb2\u0bc6\u0b9f\u0bbe \u0b92\u0bb2\u0bbf\u0bb5\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c32\u0c4d\u0c1f \u0c12\u0c32\u0c3f\u0c35\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e40\u0e25\u0e15\u0e32 \u0e42\u0e2d\u0e25\u0e34\u0e40\u0e1a\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Valeta Olivia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u0442\u0430-\u041e\u043b\u0456\u0432\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:wel_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u840a\u5854\u5967\u5229\u7dad\u4e9e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3863379,
+    "qs:gn_pop":36077,
+    "qs:name":"Caleta Olivia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150545,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466912,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-46.433333,
+    "wd:longitude":-67.533333,
+    "wd:wordcount":269,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863379,
+        "gp:id":466912,
+        "qs:id":150545,
+        "wd:id":"Q1026633",
+        "wk:page":"Caleta Olivia"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009916,
+    "wof:geomhash":"be94bdac1032ea54287e5437456d4c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":421197531,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":421197531,
+    "wof:lastmodified":1527716404,
+    "wof:name":"Caleta Olivia",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:population":36077,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.52814,
+    -46.43929,
+    -67.52814,
+    -46.43929
+],
+  "geometry": {"coordinates":[-67.52813999999999,-46.43929],"type":"Point"}
+}

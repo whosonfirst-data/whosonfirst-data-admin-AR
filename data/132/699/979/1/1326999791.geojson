@@ -1,0 +1,68 @@
+{
+  "id": 1326999791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82066,-41.02477,-71.82066,-41.02477",
+    "geom:latitude":-41.02477,
+    "geom:longitude":-71.82066,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Puerto Blest",
+    "gn:country_code":"AR",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840110,
+    "gn:latitude":-41.02477,
+    "gn:longitude":-71.82066,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Blest",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840110,
+        "wk:page":"Puerto_Blest"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7c40ec540b4cb4f351d8c01dbdcf15b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "locality_id":1326999791,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1326999791,
+    "wof:lastmodified":1537486313,
+    "wof:name":"Puerto Blest",
+    "wof:parent_id":421188061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82066,
+    -41.02477,
+    -71.82066,
+    -41.02477
+],
+  "geometry": {"coordinates":[-71.82066,-41.02477],"type":"Point"}
+}

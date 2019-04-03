@@ -1,0 +1,68 @@
+{
+  "id": 1192976965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06048,-28.45058,-65.06048,-28.45058",
+    "geom:latitude":-28.45058,
+    "geom:longitude":-65.06048,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86063.0",
+    "gn:asciiname":"Rumi Esquina",
+    "gn:country_code":"AR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838490,
+    "gn:latitude":-28.45058,
+    "gn:longitude":-65.06048,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rumi Esquina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838490
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"31de4d942a20bee0f012516c8eee1eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718479,
+            "locality_id":1192976965,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1192976965,
+    "wof:lastmodified":1536372237,
+    "wof:name":"Rumi Esquina",
+    "wof:parent_id":1108718479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06048,
+    -28.45058,
+    -65.06048,
+    -28.45058
+],
+  "geometry": {"coordinates":[-65.06048,-28.45058],"type":"Point"}
+}

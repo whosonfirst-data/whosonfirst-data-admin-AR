@@ -1,0 +1,93 @@
+{
+  "id": 421202247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-63.021697,-40.805493,-63.021697,-40.805493",
+    "geom:latitude":-40.805493,
+    "geom:longitude":-63.021697,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "name:fra_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "name:ita_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "name:pol_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "name:sco_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "name:spa_x_preferred":[
+        "Adolfo Alsina"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Adolfo Alsina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":596,
+    "qs:photos_1k":121,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":994,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":220141,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070729,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":384,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070729,
+        "qs:id":220141,
+        "wd:id":"Q2011940"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010110,
+    "wof:geomhash":"a9b569e4bbd8a4c4c2a372219b659dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202247,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421202247,
+    "wof:lastmodified":1527716211,
+    "wof:name":"Adolfo Alsina",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.021697,
+    -40.805493,
+    -63.021697,
+    -40.805493
+],
+  "geometry": {"coordinates":[-63.021697,-40.805493],"type":"Point"}
+}

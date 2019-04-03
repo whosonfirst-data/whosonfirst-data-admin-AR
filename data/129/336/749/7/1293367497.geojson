@@ -1,0 +1,69 @@
+{
+  "id": 1293367497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.94367,-28.80663,-66.94367,-28.80663",
+    "geom:latitude":-28.80663,
+    "geom:longitude":-66.94367,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46021.0",
+    "gn:asciiname":"Anillaco",
+    "gn:country_code":"AR",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865734,
+    "gn:latitude":-28.80663,
+    "gn:longitude":-66.94367,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anillaco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865734,
+        "wk:page":"Anillaco"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"06ee3cc6b571e8449894e355e0e5c29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718323,
+            "locality_id":1293367497,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1293367497,
+    "wof:lastmodified":1537486350,
+    "wof:name":"Anillaco",
+    "wof:parent_id":1108718323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.94367,
+    -28.80663,
+    -66.94367,
+    -28.80663
+],
+  "geometry": {"coordinates":[-66.94367,-28.80663],"type":"Point"}
+}

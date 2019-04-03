@@ -1,0 +1,62 @@
+{
+  "id": 1209095203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-24.21667,-65.28333,-24.21667",
+    "geom:latitude":-24.21667,
+    "geom:longitude":-65.28333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38021.0",
+    "gn:asciiname":"San Pedrito",
+    "gn:country_code":"AR",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836807,
+    "gn:latitude":-24.21667,
+    "gn:longitude":-65.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Pedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836807
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"062ebe645f4124ab15f6b227afa735d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209095203
+        }
+    ],
+    "wof:id":1209095203,
+    "wof:lastmodified":1536297909,
+    "wof:name":"San Pedrito",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -24.21667,
+    -65.28333,
+    -24.21667
+],
+  "geometry": {"coordinates":[-65.28333000000001,-24.21667],"type":"Point"}
+}

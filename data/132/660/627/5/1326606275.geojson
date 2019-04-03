@@ -1,0 +1,68 @@
+{
+  "id": 1326606275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94419,-25.59382,-64.94419,-25.59382",
+    "geom:latitude":-25.59382,
+    "geom:longitude":-64.94419,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66112.0",
+    "gn:asciiname":"Yatasto",
+    "gn:country_code":"AR",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832293,
+    "gn:latitude":-25.59382,
+    "gn:longitude":-64.94419,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yatasto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421183903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832293
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"52b15fd5ad8ec4c21208d68689b85346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183903,
+            "locality_id":1326606275,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1326606275,
+    "wof:lastmodified":1536876506,
+    "wof:name":"Yatasto",
+    "wof:parent_id":421183903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94419,
+    -25.59382,
+    -64.94419,
+    -25.59382
+],
+  "geometry": {"coordinates":[-64.94419000000001,-25.59382],"type":"Point"}
+}

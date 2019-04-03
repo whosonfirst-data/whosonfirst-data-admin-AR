@@ -1,0 +1,218 @@
+{
+  "id": 890429471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92975,-46.58994,-70.92975,-46.58994",
+    "geom:latitude":-46.58994,
+    "geom:longitude":-70.92975,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3588,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:chi_x_preferred":[
+        "\u4f69\u91cc\u6258\u83ab\u96f7\u8afe"
+    ],
+    "name:cze_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:dut_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:eng_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:fre_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:ger_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:ita_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30fc\u30c8\u30fb\u30e2\u30ec\u30fc\u30ce"
+    ],
+    "name:lit_x_preferred":[
+        "Perito Morenas"
+    ],
+    "name:pol_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:por_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0442\u043e \u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:slo_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:spa_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0456\u0442\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Lago Buenos Aires"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-46.600012,
+    "ne:LONGITUDE":-70.933355,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Perito Moreno",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-70.916667,
+    "ne:MAX_BBXMIN":-70.95,
+    "ne:MAX_BBYMAX":-46.575,
+    "ne:MAX_BBYMIN":-46.6,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":11.0,
+    "ne:MAX_PERMI":7.0,
+    "ne:MAX_POP10":3766,
+    "ne:MAX_POP20":3766,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-70.931667,
+    "ne:MEAN_BBYC":-46.585833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-70.916667,
+    "ne:MIN_BBXMIN":-70.95,
+    "ne:MIN_BBYMAX":-46.575,
+    "ne:MIN_BBYMIN":-46.6,
+    "ne:MIN_PERKM":11.0,
+    "ne:MIN_PERMI":7.0,
+    "ne:NAME":"Perito Moreno",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Perito Moreno",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":3766,
+    "ne:POP_MIN":3766,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Perito Moreno",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421170133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841475,
+        "gp:id":91815445,
+        "qs:id":150421,
+        "wd:id":"Q2061265",
+        "wk:page":"Perito Moreno"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051815,
+    "wof:geomhash":"da9e37c3f35df8072ec7309f1d232d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170133,
+            "locality_id":890429471,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":890429471,
+    "wof:lastmodified":1534379081,
+    "wof:name":"Perito Moreno",
+    "wof:parent_id":421170133,
+    "wof:placetype":"locality",
+    "wof:population":3588,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141909091
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92975,
+    -46.58994,
+    -70.92975,
+    -46.58994
+],
+  "geometry": {"coordinates":[-70.92975,-46.58994],"type":"Point"}
+}

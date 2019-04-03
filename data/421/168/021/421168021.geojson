@@ -1,0 +1,238 @@
+{
+  "id": 421168021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31877,-24.21804,-66.31877,-24.21804",
+    "geom:latitude":-24.21804,
+    "geom:longitude":-66.31877,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:ceb_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u6d1b\u65af\u79d1\u5e03\u96f7\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:fra_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:ger_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5 \u05d3\u05d4 \u05dc\u05d5\u05e1 \u05e7\u05d5\u05d1\u05e8\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30b3\u30d6\u30ec\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "San Antonio de los Kobresas"
+    ],
+    "name:nld_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio de los Cobres"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0456\u043e-\u0434\u0435-\u043b\u043e\u0441-\u041a\u043e\u0431\u0440\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "San Antonio de los Cobres"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u6d1b\u65af\u79d1\u5e03\u96f7\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Salta",
+    "ne:ADMIN1_COD":17,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3837985,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Antonio de los Cobres",
+    "ne:GN_POP":4000,
+    "ne:GTOPO30":3932.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-24.182931,
+    "ne:LONGITUDE":-66.350018,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"San Antonio de los Cobres",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"San Antonio de los Cobres",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Antonio de los Cobres",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4000,
+    "ne:POP_MIN":4000,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Salta",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837985,
+    "qs:gn_pop":4000,
+    "qs:name":"San Antonio de Los Cobres",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":372,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":372,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":553114,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332505,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":3775.0,
+    "wd:latitude":-24.225556,
+    "wd:longitude":-66.319167,
+    "wd:wordcount":441,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837985,
+        "gp:id":332505,
+        "qs:id":553114,
+        "wd:id":"Q1563449",
+        "wk:page":"San Antonio de los Cobres"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008751,
+    "wof:geomhash":"1e2614a8c13a7eecf8149d1d492f7473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718411,
+            "locality_id":421168021,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421168021,
+    "wof:lastmodified":1527716098,
+    "wof:name":"San Antonio de Los Cobres",
+    "wof:parent_id":1108718411,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31877,
+    -24.21804,
+    -66.31877,
+    -24.21804
+],
+  "geometry": {"coordinates":[-66.31877,-24.21804],"type":"Point"}
+}

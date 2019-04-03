@@ -1,0 +1,72 @@
+{
+  "id": 1243064833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36404,-33.22122,-59.36404,-33.22122",
+    "geom:latitude":-33.22122,
+    "geom:longitude":-59.36404,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30063.0",
+    "gn:asciiname":"Puerto Ruiz",
+    "gn:country_code":"AR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429730,
+    "gn:latitude":-33.22122,
+    "gn:longitude":-59.36404,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Ruiz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punta Ruiz",
+        "Puerto Ruiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429730
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6f676470acb8b25ca8cabad337087eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171503,
+            "locality_id":1243064833,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1243064833,
+    "wof:lastmodified":1537584817,
+    "wof:name":"Puerto Ruiz",
+    "wof:parent_id":421171503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36404,
+    -33.22122,
+    -59.36404,
+    -33.22122
+],
+  "geometry": {"coordinates":[-59.36404,-33.22122],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276155033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53006,-33.71511,-64.53006,-33.71511",
+    "geom:latitude":-33.71511,
+    "geom:longitude":-64.53006,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Fragueyro",
+    "gn:country_code":"AR",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855400,
+    "gn:latitude":-33.71511,
+    "gn:longitude":-64.53006,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fragueyro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fragueiro",
+        "Fragueyro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855400
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"742dc0845beee4f1919ee68fce929a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1276155033,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1276155033,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Fragueyro",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53005999999999,
+    -33.71511,
+    -64.53005999999999,
+    -33.71511
+],
+  "geometry": {"coordinates":[-64.53005999999999,-33.71511],"type":"Point"}
+}

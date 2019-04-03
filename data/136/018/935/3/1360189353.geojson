@@ -1,0 +1,72 @@
+{
+  "id": 1360189353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35065,-31.59143,-64.35065,-31.59143",
+    "geom:latitude":-31.59143,
+    "geom:longitude":-64.35065,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14147.0",
+    "gn:asciiname":"Alto de la Piedra",
+    "gn:country_code":"AR",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866082,
+    "gn:latitude":-31.59143,
+    "gn:longitude":-64.35065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alto de la Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alta de la Piedra",
+        "Alto de la Piedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866082
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e1a8602ca5a03d821f868f5998a2229d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":1360189353,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1360189353,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Alto de la Piedra",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35065,
+    -31.59143,
+    -64.35065,
+    -31.59143
+],
+  "geometry": {"coordinates":[-64.35065,-31.59143],"type":"Point"}
+}

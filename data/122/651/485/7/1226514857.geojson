@@ -1,0 +1,72 @@
+{
+  "id": 1226514857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.03077,-39.62614,-68.03077,-39.62614",
+    "geom:latitude":-39.62614,
+    "geom:longitude":-68.03077,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62035.0",
+    "gn:asciiname":"Trica Co",
+    "gn:country_code":"AR",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833673,
+    "gn:latitude":-39.62614,
+    "gn:longitude":-68.03077,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Trica C\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Trica-C\u00f3",
+        "Trica C\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421199895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833673
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"86bdb3704fc0faf483397a60e5f3e58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199895,
+            "locality_id":1226514857,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1226514857,
+    "wof:lastmodified":1537584834,
+    "wof:name":"Trica Co",
+    "wof:parent_id":421199895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.03076999999999,
+    -39.62614,
+    -68.03076999999999,
+    -39.62614
+],
+  "geometry": {"coordinates":[-68.03076999999999,-39.62614],"type":"Point"}
+}

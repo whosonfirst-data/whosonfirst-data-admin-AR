@@ -1,0 +1,130 @@
+{
+  "id": 421185271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.58006,-37.64522,-70.58006,-37.64522",
+    "geom:latitude":-37.64522,
+    "geom:longitude":-70.58006,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0537\u056c \u0548\u0582\u0565\u056f\u0578\u0582"
+    ],
+    "name:ceb_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u97cb\u5eab"
+    ],
+    "name:deu_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:dut_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:fra_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:ger_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0548\u0582\u0565\u056f\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:lit_x_preferred":[
+        "El Hueku"
+    ],
+    "name:por_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "El Huec\u00fa"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3857879,
+    "qs:gn_pop":1399,
+    "qs:name":"El Huec\u00fa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1020259,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330420,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":470,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857879,
+        "gp:id":330420,
+        "qs:id":1020259,
+        "wd:id":"Q1017560",
+        "wk:page":"El Huec\u00fa"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009437,
+    "wof:geomhash":"415094aba95acaf1b0afee077e08d597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":421185271,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421185271,
+    "wof:lastmodified":1527726510,
+    "wof:name":"El Huec\u00fa",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:population":1399,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.58006,
+    -37.64522,
+    -70.58006,
+    -37.64522
+],
+  "geometry": {"coordinates":[-70.58006,-37.64522],"type":"Point"}
+}

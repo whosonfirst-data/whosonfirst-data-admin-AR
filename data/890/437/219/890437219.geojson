@@ -1,0 +1,102 @@
+{
+  "id": 890437219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.43207,-26.34066,-60.43207,-26.34066",
+    "geom:latitude":-26.34066,
+    "geom:longitude":-60.43207,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":24747,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7279\u96f7\u65af\u4f0a\u65af\u840a\u5854\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:eng_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:fre_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:ger_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:ita_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30b9\u30fb\u30a4\u30b9\u30ec\u30bf\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Tr\u00eas Isletas"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:swe_x_preferred":[
+        "Tres Isletas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u0441-\u0406\u0441\u043b\u0435\u0442\u0430\u0441"
+    ],
+    "qs:name":"Tres Isletas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833794,
+        "gp:id":467927,
+        "qs:id":1046774,
+        "wd:id":"Q169222",
+        "wk:page":"Tres Isletas"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052143,
+    "wof:geomhash":"e59a49123f5be7447745d0f8b85dbe3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718209,
+            "locality_id":890437219,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890437219,
+    "wof:lastmodified":1527729748,
+    "wof:name":"Tres Isletas",
+    "wof:parent_id":1108718209,
+    "wof:placetype":"locality",
+    "wof:population":24747,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.43207,
+    -26.34066,
+    -60.43207,
+    -26.34066
+],
+  "geometry": {"coordinates":[-60.43207,-26.34066],"type":"Point"}
+}

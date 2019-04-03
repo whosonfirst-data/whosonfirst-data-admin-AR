@@ -1,0 +1,75 @@
+{
+  "id": 1226021215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.04765,-24.67034,-65.04765,-24.67034",
+    "geom:latitude":-24.67034,
+    "geom:longitude":-65.04765,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66049.0",
+    "gn:asciiname":"General Martin Miguel de Gueemes",
+    "gn:country_code":"AR",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3855090,
+    "gn:latitude":-24.67034,
+    "gn:longitude":-65.04765,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"General Mart\u00edn Miguel de G\u00fcemes",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcemes",
+        "General G\u00fcemes",
+        "General Mart\u00edn M. de G\u00fcemes",
+        "General Mart\u00edn Miguel de G\u00fcemes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421191593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855090,
+        "wk:page":"General_G%C3%BCemes%2C_Salta"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"27cf675b200d46d0c8804011f1742076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191593,
+            "locality_id":1226021215,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226021215,
+    "wof:lastmodified":1537584875,
+    "wof:name":"General Martin Miguel de Gueemes",
+    "wof:parent_id":421191593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.04765,
+    -24.67034,
+    -65.04765,
+    -24.67034
+],
+  "geometry": {"coordinates":[-65.04765,-24.67034],"type":"Point"}
+}

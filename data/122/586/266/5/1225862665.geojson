@@ -1,0 +1,74 @@
+{
+  "id": 1225862665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.80982,-34.4401,-61.80982,-34.4401",
+    "geom:latitude":-34.4401,
+    "geom:longitude":-61.80982,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6462.0",
+    "gn:asciiname":"Juan Bautista Alberdi",
+    "gn:country_code":"AR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853447,
+    "gn:latitude":-34.4401,
+    "gn:longitude":-61.80982,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan Bautista Alberdi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alberdi",
+        "Juan B. Alberdi",
+        "J.B. Alberdi",
+        "Juan Bautista Alberdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853447
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"12a8bcfadf002da205494c6c21c4a777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717999,
+            "locality_id":1225862665,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1225862665,
+    "wof:lastmodified":1537584870,
+    "wof:name":"Juan Bautista Alberdi",
+    "wof:parent_id":1108717999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.80982,
+    -34.4401,
+    -61.80982,
+    -34.4401
+],
+  "geometry": {"coordinates":[-61.80982,-34.4401],"type":"Point"}
+}

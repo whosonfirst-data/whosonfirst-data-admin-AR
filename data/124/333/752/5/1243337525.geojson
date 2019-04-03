@@ -1,0 +1,72 @@
+{
+  "id": 1243337525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.64365,-31.0407,-60.64365,-31.0407",
+    "geom:latitude":-31.0407,
+    "geom:longitude":-60.64365,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82112.0",
+    "gn:asciiname":"Esther",
+    "gn:country_code":"AR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855731,
+    "gn:latitude":-31.0407,
+    "gn:longitude":-60.64365,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Esther",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Esther",
+        "Esther"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855731
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"08ee8e55db673b28ae7312b480560e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":1243337525,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243337525,
+    "wof:lastmodified":1537584878,
+    "wof:name":"Esther",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.64365,
+    -31.0407,
+    -60.64365,
+    -31.0407
+],
+  "geometry": {"coordinates":[-60.64365,-31.0407],"type":"Point"}
+}

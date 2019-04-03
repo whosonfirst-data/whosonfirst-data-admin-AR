@@ -1,0 +1,68 @@
+{
+  "id": 1242854669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.82735,-31.87928,-65.82735,-31.87928",
+    "geom:latitude":-31.87928,
+    "geom:longitude":-65.82735,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46091.0",
+    "gn:asciiname":"Baldecito",
+    "gn:country_code":"AR",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864942,
+    "gn:latitude":-31.87928,
+    "gn:longitude":-65.82735,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baldecito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864942
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8d4cb98a5eae14f31293065b270e5b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718341,
+            "locality_id":1242854669,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1242854669,
+    "wof:lastmodified":1536664619,
+    "wof:name":"Baldecito",
+    "wof:parent_id":1108718341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.82735,
+    -31.87928,
+    -65.82735,
+    -31.87928
+],
+  "geometry": {"coordinates":[-65.82735,-31.87928],"type":"Point"}
+}

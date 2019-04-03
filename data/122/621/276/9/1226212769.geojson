@@ -1,0 +1,72 @@
+{
+  "id": 1226212769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0886,-37.83745,-71.0886,-37.83745",
+    "geom:latitude":-37.83745,
+    "geom:longitude":-71.0886,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Banos de Copahue",
+    "gn:country_code":"AR",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864800,
+    "gn:latitude":-37.83745,
+    "gn:longitude":-71.0886,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ba\u00f1os de Copahue",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Copahues",
+        "Ba\u00f1os de Copahue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864800
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f3b07f2100ef7d84ef158e07615cd5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1226212769,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1226212769,
+    "wof:lastmodified":1537584900,
+    "wof:name":"Banos de Copahue",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0886,
+    -37.83745,
+    -71.0886,
+    -37.83745
+],
+  "geometry": {"coordinates":[-71.0886,-37.83745],"type":"Point"}
+}

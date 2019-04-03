@@ -1,0 +1,68 @@
+{
+  "id": 1343562035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1,-44.6,-71.1,-44.6",
+    "geom:latitude":-44.6,
+    "geom:longitude":-71.1,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26098.0",
+    "gn:asciiname":"Apeleg",
+    "gn:country_code":"AR",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865614,
+    "gn:latitude":-44.6,
+    "gn:longitude":-71.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Apeleg",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421166645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865614
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9904fedd3d0d6c3fd6e0a26c724dc63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166645,
+            "locality_id":1343562035,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1343562035,
+    "wof:lastmodified":1537094000,
+    "wof:name":"Apeleg",
+    "wof:parent_id":421166645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1,
+    -44.6,
+    -71.1,
+    -44.6
+],
+  "geometry": {"coordinates":[-71.09999999999999,-44.6],"type":"Point"}
+}

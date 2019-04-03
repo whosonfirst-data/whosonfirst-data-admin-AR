@@ -1,0 +1,112 @@
+{
+  "id": 421196025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.82886,-31.76762,-61.82886,-31.76762",
+    "geom:latitude":-31.76762,
+    "geom:longitude":-61.82886,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sastre"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u65af\u7279\u96f7"
+    ],
+    "name:dut_x_preferred":[
+        "Sastre"
+    ],
+    "name:eng_x_preferred":[
+        "Sastre"
+    ],
+    "name:fra_x_preferred":[
+        "Sastre"
+    ],
+    "name:fre_x_preferred":[
+        "Sastre"
+    ],
+    "name:spa_x_preferred":[
+        "Sastre y Ortiz"
+    ],
+    "name:swe_x_preferred":[
+        "Sastre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0441\u0442\u0440\u0435-\u0456-\u041e\u0440\u0442\u0456\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u65af\u7279\u96f7"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3835695,
+    "qs:gn_pop":5521,
+    "qs:name":"Sastre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046790,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467417,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835695,
+        "gp:id":467417,
+        "qs:id":1046790,
+        "wd:id":"Q3473836",
+        "wk:page":"Sastre, Santa Fe"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009867,
+    "wof:geomhash":"c7641234c59e0fb673fdd882630ff39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718461,
+            "locality_id":421196025,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421196025,
+    "wof:lastmodified":1527716362,
+    "wof:name":"Sastre",
+    "wof:parent_id":1108718461,
+    "wof:placetype":"locality",
+    "wof:population":5521,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.82886,
+    -31.76762,
+    -61.82886,
+    -31.76762
+],
+  "geometry": {"coordinates":[-61.82886,-31.76762],"type":"Point"}
+}

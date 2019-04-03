@@ -1,0 +1,68 @@
+{
+  "id": 1226142075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81718,-31.05469,-64.81718,-31.05469",
+    "geom:latitude":-31.05469,
+    "geom:longitude":-64.81718,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14028.0",
+    "gn:asciiname":"Oro Grueso",
+    "gn:country_code":"AR",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842568,
+    "gn:latitude":-31.05469,
+    "gn:longitude":-64.81718,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oro Grueso",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421191183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842568
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"849429c2723419bdeece966fd3ddee19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191183,
+            "locality_id":1226142075,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1226142075,
+    "wof:lastmodified":1537079879,
+    "wof:name":"Oro Grueso",
+    "wof:parent_id":421191183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81718000000001,
+    -31.05469,
+    -64.81718000000001,
+    -31.05469
+],
+  "geometry": {"coordinates":[-64.81718000000001,-31.05469],"type":"Point"}
+}

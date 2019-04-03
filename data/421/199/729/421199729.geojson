@@ -1,0 +1,115 @@
+{
+  "id": 421199729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.96197,-31.9871,-58.96197,-31.9871",
+    "geom:latitude":-31.9871,
+    "geom:longitude":-58.96197,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dom\u00ednguez"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Dom\u00ednguez"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Dom\u00ednguez"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Dom\u00ednguez"
+    ],
+    "name:fre_x_preferred":[
+        "villa Dominguez"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05d3\u05d5\u05de\u05d9\u05e0\u05d2\u05e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30c9\u30df\u30f3\u30b2\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Villa Dom\u00ednguez"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Dom\u00ednguez"
+    ],
+    "name:swe_x_preferred":[
+        "Dom\u00ednguez"
+    ],
+    "name:unk_x_variant":[
+        "Villa Dom\u00ednguez"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435030,
+    "qs:gn_pop":1925,
+    "qs:name":"Dom\u00ednguez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":195486,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468729,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435030,
+        "gp:id":468729,
+        "qs:id":195486,
+        "wd:id":"Q922694",
+        "wk:page":"Villa Dom\u00ednguez"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009999,
+    "wof:geomhash":"d92f8d2a1f40f0e5dae8c8fdc282ced8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718259,
+            "locality_id":421199729,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421199729,
+    "wof:lastmodified":1527716420,
+    "wof:name":"Dom\u00ednguez",
+    "wof:parent_id":1108718259,
+    "wof:placetype":"locality",
+    "wof:population":1925,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.96197,
+    -31.9871,
+    -58.96197,
+    -31.9871
+],
+  "geometry": {"coordinates":[-58.96197,-31.9871],"type":"Point"}
+}

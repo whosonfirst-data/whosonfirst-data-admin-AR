@@ -1,0 +1,67 @@
+{
+  "id": 1209288559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42373,-31.42188,-61.42373,-31.42188",
+    "geom:latitude":-31.42188,
+    "geom:longitude":-61.42373,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82021.0",
+    "gn:asciiname":"Aurelia Sur",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865225,
+    "gn:latitude":-31.42188,
+    "gn:longitude":-61.42373,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aurelia Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aurelia Sud",
+        "Aurelia",
+        "Aurelia Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865225
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fe205892143787b638d02aff6b982855",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209288559
+        }
+    ],
+    "wof:id":1209288559,
+    "wof:lastmodified":1537584901,
+    "wof:name":"Aurelia Sur",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42373000000001,
+    -31.42188,
+    -61.42373000000001,
+    -31.42188
+],
+  "geometry": {"coordinates":[-61.42373000000001,-31.42188],"type":"Point"}
+}

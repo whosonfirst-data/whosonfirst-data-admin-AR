@@ -1,0 +1,68 @@
+{
+  "id": 1259687353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.70076,-28.23418,-67.70076,-28.23418",
+    "geom:latitude":-28.23418,
+    "geom:longitude":-67.70076,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Rio Colorado",
+    "gn:country_code":"AR",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838882,
+    "gn:latitude":-28.23418,
+    "gn:longitude":-67.70076,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"R\u00edo Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838882
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c54acf44d2db7c3a41f25580f4ae1e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1259687353,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1259687353,
+    "wof:lastmodified":1537058833,
+    "wof:name":"Rio Colorado",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.70076,
+    -28.23418,
+    -67.70076,
+    -28.23418
+],
+  "geometry": {"coordinates":[-67.70076,-28.23418],"type":"Point"}
+}

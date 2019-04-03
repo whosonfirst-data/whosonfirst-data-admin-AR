@@ -1,0 +1,69 @@
+{
+  "id": 1327136083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.26556,-25.63722,-60.26556,-25.63722",
+    "geom:latitude":-25.63722,
+    "geom:longitude":-60.26556,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"22063.0",
+    "gn:asciiname":"Villa Rio Bermejito",
+    "gn:country_code":"AR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7733019,
+    "gn:latitude":-25.63722,
+    "gn:longitude":-60.26556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa R\u00edo Bermejito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7733019,
+        "wk:page":"Villa_R%C3%ADo_Bermejito"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c5dba31c43d381f57214b96bfcb74a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1327136083,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1327136083,
+    "wof:lastmodified":1537486353,
+    "wof:name":"Villa Rio Bermejito",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.26556,
+    -25.63722000000001,
+    -60.26556,
+    -25.63722000000001
+],
+  "geometry": {"coordinates":[-60.26556,-25.63722000000001],"type":"Point"}
+}

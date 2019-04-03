@@ -1,0 +1,203 @@
+{
+  "id": 1141906773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.7166663021,-27.5832918103,-60.7166663021,-27.5832918103",
+    "geom:latitude":-27.583292,
+    "geom:longitude":-60.716666,
+    "iso:country":"AR",
+    "lbl:latitude":-27.583292,
+    "lbl:longitude":-60.716666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0622\u0646\u062e\u0644\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u5409\u62c9\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:eng_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:fre_x_preferred":[
+        "villa \u00c1ngela"
+    ],
+    "name:ger_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05d0\u05e0\u05d7\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:ita_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e4\u30fb\u30a2\u30f3\u30d8\u30e9"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Anchela"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u0622\u0646\u062e\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:por_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:spa_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:swe_x_preferred":[
+        "Villa \u00c1ngela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0410\u043d\u0445\u0435\u043b\u0430"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Chaco",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-27.583292,
+    "ne:LONGITUDE":-60.716666,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Villa Angela",
+    "ne:MAX_AREAKM":19.0,
+    "ne:MAX_AREAMI":7.0,
+    "ne:MAX_BBXMAX":-60.691667,
+    "ne:MAX_BBXMIN":-60.75,
+    "ne:MAX_BBYMAX":-27.55,
+    "ne:MAX_BBYMIN":-27.608333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":28.0,
+    "ne:MAX_PERMI":17.0,
+    "ne:MAX_POP10":30051,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.717833,
+    "ne:MEAN_BBYC":-27.5785,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":19.0,
+    "ne:MIN_AREAMI":7.0,
+    "ne:MIN_BBXMAX":-60.691667,
+    "ne:MIN_BBXMIN":-60.75,
+    "ne:MIN_BBYMAX":-27.55,
+    "ne:MIN_BBYMIN":-27.608333,
+    "ne:MIN_PERKM":28.0,
+    "ne:MIN_PERMI":17.0,
+    "ne:NAME":"Villa Angela",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa Angela",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":30051,
+    "ne:POP_MIN":30051,
+    "ne:POP_OTHER":29715,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-27.583292,
+    "reversegeo:longitude":-60.716666,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1657303"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130637,
+    "wof:geomhash":"e68f3c1a7352d2efc75ad874039d37aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718211,
+            "locality_id":1141906773,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1141906773,
+    "wof:lastmodified":1513889584,
+    "wof:name":"Villa Angela",
+    "wof:parent_id":1108718211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.71666630211325,
+    -27.5832918103153,
+    -60.71666630211325,
+    -27.5832918103153
+],
+  "geometry": {"coordinates":[-60.71666630211325,-27.5832918103153],"type":"Point"}
+}

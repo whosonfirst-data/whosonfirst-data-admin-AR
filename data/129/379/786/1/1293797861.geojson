@@ -1,0 +1,72 @@
+{
+  "id": 1293797861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.16893,-38.17658,-60.16893,-38.17658",
+    "geom:latitude":-38.17658,
+    "geom:longitude":-60.16893,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6014.0",
+    "gn:asciiname":"Vasquez",
+    "gn:country_code":"AR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833149,
+    "gn:latitude":-38.17658,
+    "gn:longitude":-60.16893,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"V\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1zques",
+        "V\u00e1squez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833149
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2c59ec0687ab6e44b36116d81bbbc655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717851,
+            "locality_id":1293797861,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293797861,
+    "wof:lastmodified":1537584833,
+    "wof:name":"Vasquez",
+    "wof:parent_id":1108717851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.16893,
+    -38.17658,
+    -60.16893,
+    -38.17658
+],
+  "geometry": {"coordinates":[-60.16893,-38.17658],"type":"Point"}
+}

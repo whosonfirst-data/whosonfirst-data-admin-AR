@@ -1,0 +1,79 @@
+{
+  "id": 421174457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05432,-31.63315,-65.05432,-31.63315",
+    "geom:latitude":-31.63315,
+    "geom:longitude":-65.05432,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Panaolma"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3842073,
+    "qs:gn_pop":0,
+    "qs:name":"Panaholma",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":337357,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331593,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421198475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842073,
+        "gp:id":331593,
+        "qs:id":337357
+    },
+    "wof:country":"AR",
+    "wof:created":1459009033,
+    "wof:geomhash":"cb40a8aa19f30e8c19f231903f57f750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198475,
+            "locality_id":421174457,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421174457,
+    "wof:lastmodified":1501268865,
+    "wof:name":"Panaholma",
+    "wof:parent_id":421198475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05432,
+    -31.63315,
+    -65.05432,
+    -31.63315
+],
+  "geometry": {"coordinates":[-65.05432,-31.63315],"type":"Point"}
+}

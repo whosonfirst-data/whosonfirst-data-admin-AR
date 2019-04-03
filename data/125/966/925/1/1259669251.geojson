@@ -1,0 +1,68 @@
+{
+  "id": 1259669251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.39248,-32.43635,-60.39248,-32.43635",
+    "geom:latitude":-32.43635,
+    "geom:longitude":-60.39248,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30105.0",
+    "gn:asciiname":"Rincon del Doll",
+    "gn:country_code":"AR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838981,
+    "gn:latitude":-32.43635,
+    "gn:longitude":-60.39248,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rinc\u00f3n del Doll",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421189009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838981
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"44da30600b4920e1c7ac2475a5ec56bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189009,
+            "locality_id":1259669251,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1259669251,
+    "wof:lastmodified":1537084377,
+    "wof:name":"Rincon del Doll",
+    "wof:parent_id":421189009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.39248000000001,
+    -32.43635,
+    -60.39248000000001,
+    -32.43635
+],
+  "geometry": {"coordinates":[-60.39248000000001,-32.43635],"type":"Point"}
+}

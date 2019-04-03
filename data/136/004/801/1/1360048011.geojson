@@ -1,0 +1,72 @@
+{
+  "id": 1360048011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01121,-32.40702,-65.01121,-32.40702",
+    "geom:latitude":-32.40702,
+    "geom:longitude":-65.01121,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74049.0",
+    "gn:asciiname":"Carpinteria",
+    "gn:country_code":"AR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862547,
+    "gn:latitude":-32.40702,
+    "gn:longitude":-65.01121,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Carpinter\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carpinter\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421189001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862547,
+        "wk:page":"Carpinter%C3%ADa%2C_San_Luis"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8dc262b8ca2b551973fa9f9e055da74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189001,
+            "locality_id":1360048011,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1360048011,
+    "wof:lastmodified":1537584895,
+    "wof:name":"Carpinteria",
+    "wof:parent_id":421189001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01120999999999,
+    -32.40702,
+    -65.01120999999999,
+    -32.40702
+],
+  "geometry": {"coordinates":[-65.01120999999999,-32.40702],"type":"Point"}
+}

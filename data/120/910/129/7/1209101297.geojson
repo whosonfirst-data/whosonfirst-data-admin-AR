@@ -1,0 +1,62 @@
+{
+  "id": 1209101297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.91667,-23.31667,-65.91667,-23.31667",
+    "geom:latitude":-23.31667,
+    "geom:longitude":-65.91667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38007.0",
+    "gn:asciiname":"Piedra Quemada",
+    "gn:country_code":"AR",
+    "gn:dem":3414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841204,
+    "gn:latitude":-23.31667,
+    "gn:longitude":-65.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Piedra Quemada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841204
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e1832726bde3ceca9df2a970daedfdbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209101297
+        }
+    ],
+    "wof:id":1209101297,
+    "wof:lastmodified":1536297724,
+    "wof:name":"Piedra Quemada",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.91667,
+    -23.31667,
+    -65.91667,
+    -23.31667
+],
+  "geometry": {"coordinates":[-65.91667,-23.31667],"type":"Point"}
+}

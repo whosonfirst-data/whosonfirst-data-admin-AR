@@ -1,0 +1,68 @@
+{
+  "id": 1344070097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.34731,-28.99542,-65.34731,-28.99542",
+    "geom:latitude":-28.99542,
+    "geom:longitude":-65.34731,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10070.0",
+    "gn:asciiname":"Caballa",
+    "gn:country_code":"AR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863657,
+    "gn:latitude":-28.99542,
+    "gn:longitude":-65.34731,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Caballa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863657
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"21eee1a5dfc41fb209402a0a803ea370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718153,
+            "locality_id":1344070097,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1344070097,
+    "wof:lastmodified":1536860216,
+    "wof:name":"Caballa",
+    "wof:parent_id":1108718153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.34731,
+    -28.99542000000001,
+    -65.34731,
+    -28.99542000000001
+],
+  "geometry": {"coordinates":[-65.34730999999999,-28.99542000000001],"type":"Point"}
+}

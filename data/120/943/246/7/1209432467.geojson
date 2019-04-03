@@ -1,0 +1,65 @@
+{
+  "id": 1209432467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.9315,-34.13013,-59.9315,-34.13013",
+    "geom:latitude":-34.13013,
+    "geom:longitude":-59.9315,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6140.0",
+    "gn:asciiname":"La Luisa",
+    "gn:country_code":"AR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3432302,
+    "gn:latitude":-34.13013,
+    "gn:longitude":-59.9315,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"La Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Luisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432302
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"35d74acaa9839fa3a0c80ba9d55d697a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209432467
+        }
+    ],
+    "wof:id":1209432467,
+    "wof:lastmodified":1537584822,
+    "wof:name":"La Luisa",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.9315,
+    -34.13013,
+    -59.9315,
+    -34.13013
+],
+  "geometry": {"coordinates":[-59.9315,-34.13013],"type":"Point"}
+}

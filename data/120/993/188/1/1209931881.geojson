@@ -1,0 +1,72 @@
+{
+  "id": 1209931881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.98779,-38.1388,-57.98779,-38.1388",
+    "geom:latitude":-38.1388,
+    "geom:longitude":-57.98779,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6280.0",
+    "gn:asciiname":"Yraizoz",
+    "gn:country_code":"AR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427243,
+    "gn:latitude":-38.1388,
+    "gn:longitude":-57.98779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yr\u00e1izoz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iraizoz",
+        "Yr\u00e1izoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427243
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cf2a8a3bc7fc35cf7a4d90bb657224d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717939,
+            "locality_id":1209931881,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1209931881,
+    "wof:lastmodified":1537584813,
+    "wof:name":"Yraizoz",
+    "wof:parent_id":1108717939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.98779,
+    -38.1388,
+    -57.98779,
+    -38.1388
+],
+  "geometry": {"coordinates":[-57.98779,-38.1388],"type":"Point"}
+}

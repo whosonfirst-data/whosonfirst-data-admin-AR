@@ -1,0 +1,114 @@
+{
+  "id": 421175467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01396,-32.34288,-65.01396,-32.34288",
+    "geom:latitude":-32.34288,
+    "geom:longitude":-65.01396,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Merlo"
+    ],
+    "name:eng_x_preferred":[
+        "Merlo"
+    ],
+    "name:eng_x_variant":[
+        "Villa de Merlo"
+    ],
+    "name:fre_x_preferred":[
+        "Merlo"
+    ],
+    "name:ger_x_preferred":[
+        "Merlo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30c7\u30fb\u30e1\u30eb\u30ed"
+    ],
+    "name:lit_x_preferred":[
+        "Merlas"
+    ],
+    "name:por_x_preferred":[
+        "Merlo"
+    ],
+    "name:spa_x_preferred":[
+        "Merlo"
+    ],
+    "name:spa_x_variant":[
+        "Villa de Merlo"
+    ],
+    "name:swe_x_preferred":[
+        "Merlo"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844377,
+    "qs:gn_pop":11159,
+    "qs:name":"Merlo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":434,
+    "qs:photos_1k":88,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":434,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":967992,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467781,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421189001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844377,
+        "gp:id":467781,
+        "qs:id":967992,
+        "wd:id":"Q106139",
+        "wk:page":"Villa de Merlo"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009068,
+    "wof:geomhash":"345ee44f8f79db170d6d09fb6670a098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189001,
+            "locality_id":421175467,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421175467,
+    "wof:lastmodified":1553816365,
+    "wof:name":"Merlo",
+    "wof:parent_id":421189001,
+    "wof:placetype":"locality",
+    "wof:population":11159,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01396,
+    -32.34288,
+    -65.01396,
+    -32.34288
+],
+  "geometry": {"coordinates":[-65.01396,-32.34288],"type":"Point"}
+}

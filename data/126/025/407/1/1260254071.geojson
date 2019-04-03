@@ -1,0 +1,73 @@
+{
+  "id": 1260254071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.20106,-24.72196,-66.20106,-24.72196",
+    "geom:latitude":-24.72196,
+    "geom:longitude":-66.20106,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66091.0",
+    "gn:asciiname":"La Poma",
+    "gn:country_code":"AR",
+    "gn:dem":3016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3849375,
+    "gn:latitude":-24.72196,
+    "gn:longitude":-66.20106,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Poma",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poma",
+        "La Poma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421186299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849375,
+        "wk:page":"La_Poma"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d5ae599198015fb242201dc5d032f1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186299,
+            "locality_id":1260254071,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1260254071,
+    "wof:lastmodified":1537584865,
+    "wof:name":"La Poma",
+    "wof:parent_id":421186299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.20106,
+    -24.72196,
+    -66.20106,
+    -24.72196
+],
+  "geometry": {"coordinates":[-66.20106,-24.72196],"type":"Point"}
+}

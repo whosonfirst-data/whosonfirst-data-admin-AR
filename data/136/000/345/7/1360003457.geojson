@@ -1,0 +1,72 @@
+{
+  "id": 1360003457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.48258,-37.82091,-60.48258,-37.82091",
+    "geom:latitude":-37.82091,
+    "geom:longitude":-60.48258,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6014.0",
+    "gn:asciiname":"Juan E. Barra",
+    "gn:country_code":"AR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853438,
+    "gn:latitude":-37.82091,
+    "gn:longitude":-60.48258,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan E. Barra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J.E. Barra",
+        "Juan E. Barra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853438
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d10184fc281aee9ba139547428ec3480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717851,
+            "locality_id":1360003457,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1360003457,
+    "wof:lastmodified":1537584869,
+    "wof:name":"Juan E. Barra",
+    "wof:parent_id":1108717851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.48258000000001,
+    -37.82091,
+    -60.48258000000001,
+    -37.82091
+],
+  "geometry": {"coordinates":[-60.48258000000001,-37.82091],"type":"Point"}
+}

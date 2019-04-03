@@ -1,0 +1,68 @@
+{
+  "id": 1310081927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68333,-22.53333,-64.68333,-22.53333",
+    "geom:latitude":-22.53333,
+    "geom:longitude":-64.68333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66161.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"AR",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836997,
+    "gn:latitude":-22.53333,
+    "gn:longitude":-64.68333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836997
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dfb5de431f5ed47ce2fbb46478965bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1310081927,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1310081927,
+    "wof:lastmodified":1537029304,
+    "wof:name":"San Martin",
+    "wof:parent_id":421181251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68333,
+    -22.53333,
+    -64.68333,
+    -22.53333
+],
+  "geometry": {"coordinates":[-64.68333,-22.53333],"type":"Point"}
+}

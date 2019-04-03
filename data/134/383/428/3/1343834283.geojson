@@ -1,0 +1,68 @@
+{
+  "id": 1343834283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93333,-22.28333,-64.93333,-22.28333",
+    "geom:latitude":-22.28333,
+    "geom:longitude":-64.93333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66161.0",
+    "gn:asciiname":"Chorro",
+    "gn:country_code":"AR",
+    "gn:dem":3113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861274,
+    "gn:latitude":-22.28333,
+    "gn:longitude":-64.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861274
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"495ba9a1b35233e2f0a987e1399f96b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1343834283,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1343834283,
+    "wof:lastmodified":1536704707,
+    "wof:name":"Chorro",
+    "wof:parent_id":421181251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93333,
+    -22.28333,
+    -64.93333,
+    -22.28333
+],
+  "geometry": {"coordinates":[-64.93333,-22.28333],"type":"Point"}
+}

@@ -1,0 +1,169 @@
+{
+  "id": 421196135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.70946,-53.78769,-67.70946,-53.78769",
+    "geom:latitude":-53.78769,
+    "geom:longitude":-67.70946,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a\u060c \u062a\u064a\u064a\u0631\u0627 \u062f\u064a\u0644 \u0641\u0648\u064a\u063a\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ces_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "name:cze_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647\u060c \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:fry_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05d0\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30b0\u30e9\u30f3\u30c7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\uadf8\ub780\ub370"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Grand\u0117"
+    ],
+    "name:nno_x_preferred":[
+        "Rio Grande p\u00e5 Eldlandet"
+    ],
+    "name:nob_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647\u060c \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:por_x_preferred":[
+        "Rio Grande"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Grande"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838854,
+    "qs:gn_pop":0,
+    "qs:name":"R\u00edo Grande",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tierra del Fuego Antartida e Islas Del Atlantico Sur",
+    "qs:photos":337,
+    "qs:photos_1k":68,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":337,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150415,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467043,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":690,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995,
+        421175153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838854,
+        "gp:id":467043,
+        "qs:id":150415,
+        "wd:id":"Q1005221",
+        "wk:page":"R\u00edo Grande, Tierra del Fuego"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009870,
+    "wof:geomhash":"479b68359f60e6fd8b815c47fc3764a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175153,
+            "locality_id":421196135,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":421196135,
+    "wof:lastmodified":1527716359,
+    "wof:name":"R\u00edo Grande",
+    "wof:parent_id":421175153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.70946,
+    -53.78769,
+    -67.70946,
+    -53.78769
+],
+  "geometry": {"coordinates":[-67.70946000000001,-53.78769],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242885827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68333,-26.3,-61.68333,-26.3",
+    "geom:latitude":-26.3,
+    "geom:longitude":-61.68333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22007.0",
+    "gn:asciiname":"Rio Muerto",
+    "gn:country_code":"AR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838837,
+    "gn:latitude":-26.3,
+    "gn:longitude":-61.68333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"R\u00edo Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Muerto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838837,
+        "wk:page":"R%C3%ADo_Muerto"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1608bd98ef372df918bbeafa48cc0d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185419,
+            "locality_id":1242885827,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1242885827,
+    "wof:lastmodified":1537584844,
+    "wof:name":"Rio Muerto",
+    "wof:parent_id":421185419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68333000000001,
+    -26.3,
+    -61.68333000000001,
+    -26.3
+],
+  "geometry": {"coordinates":[-61.68333000000001,-26.3],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226122751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5829,-28.60512,-67.5829,-28.60512",
+    "geom:latitude":-28.60512,
+    "geom:longitude":-67.5829,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46049.0",
+    "gn:asciiname":"Chanarmuyo",
+    "gn:country_code":"AR",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861769,
+    "gn:latitude":-28.60512,
+    "gn:longitude":-67.5829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cha\u00f1armuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cha\u00f1armyo",
+        "Cha\u00f1armullo",
+        "Cha\u00f1armuyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861769,
+        "wk:page":"Cha%C3%B1armuyo"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"feae31b8caeb23c758abb9187fa533e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718329,
+            "locality_id":1226122751,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1226122751,
+    "wof:lastmodified":1537584894,
+    "wof:name":"Chanarmuyo",
+    "wof:parent_id":1108718329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5829,
+    -28.60512,
+    -67.5829,
+    -28.60512
+],
+  "geometry": {"coordinates":[-67.5829,-28.60512],"type":"Point"}
+}

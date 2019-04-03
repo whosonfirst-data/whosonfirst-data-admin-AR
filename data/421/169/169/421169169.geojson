@@ -1,0 +1,345 @@
+{
+  "id": 421169169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27682,-50.34075,-72.27682,-50.34075",
+    "geom:latitude":-50.34075,
+    "geom:longitude":-72.27682,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0627\u0644\u0627\u0641\u0627\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0995\u09cd\u09af\u09be\u09b2\u09be\u09ab\u09c7\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "El Calafate"
+    ],
+    "name:ceb_x_preferred":[
+        "El Calafate"
+    ],
+    "name:ces_x_preferred":[
+        "El Calafate"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u5c14\u5361\u62c9\u6cd5\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "El Calafate"
+    ],
+    "name:dan_x_preferred":[
+        "El Calafate"
+    ],
+    "name:deu_x_preferred":[
+        "El Calafate"
+    ],
+    "name:dut_x_preferred":[
+        "El Calafate"
+    ],
+    "name:eng_x_preferred":[
+        "El Calafate"
+    ],
+    "name:fin_x_preferred":[
+        "El Calafate"
+    ],
+    "name:fra_x_preferred":[
+        "El Calafate"
+    ],
+    "name:fre_x_preferred":[
+        "El Calafate"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10d0\u10da\u10d0\u10e4\u10d0\u10e2\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "El Calafate"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039a\u03b1\u03bb\u03b1\u03c6\u03ac\u03c4\u03b5"
+    ],
+    "name:grn_x_preferred":[
+        "El Calafate"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab2 \u0a95\u0ac7\u0ab2\u0ac7\u0aab\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e7\u05dc\u05e4\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0915\u0947\u0932\u092b\u091f\u092f"
+    ],
+    "name:ind_x_preferred":[
+        "El Calafate"
+    ],
+    "name:ita_x_preferred":[
+        "El Calafate"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30ab\u30e9\u30d5\u30a1\u30c6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30e9\u30d5\u30a1\u30c6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cab\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uce7c\ub77c\ud30c\ud14c"
+    ],
+    "name:lav_x_preferred":[
+        "Elkalafate"
+    ],
+    "name:lit_x_preferred":[
+        "El Kalafat\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u0915\u0932\u094d\u0932\u093e\u092b\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "El Calafate"
+    ],
+    "name:nld_x_preferred":[
+        "El Calafate"
+    ],
+    "name:nob_x_preferred":[
+        "El Calafate"
+    ],
+    "name:nor_x_preferred":[
+        "El Calafate"
+    ],
+    "name:oci_x_preferred":[
+        "El Calafate"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644 \u06a9\u0627\u0644\u0627\u0641\u0627\u062a\u0647"
+    ],
+    "name:pms_x_preferred":[
+        "El Calafate"
+    ],
+    "name:pol_x_preferred":[
+        "El Calafate"
+    ],
+    "name:por_x_preferred":[
+        "El Calafate"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c \u041a\u0430\u043b\u0430\u0444\u0430\u0442\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0d9a\u0dbd\u0dc6\u0dcf\u0da7\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "El Calafate"
+    ],
+    "name:slo_x_preferred":[
+        "El Calafate"
+    ],
+    "name:slv_x_preferred":[
+        "El Calafate"
+    ],
+    "name:spa_x_preferred":[
+        "El Calafate"
+    ],
+    "name:spa_x_variant":[
+        "Calafate"
+    ],
+    "name:swe_x_preferred":[
+        "El Calafate"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0baa\u0bbe\u0b9f\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c15\u0c32\u0c47\u0c2b\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25 \u0e04\u0e32\u0e25\u0e32\u0e1f\u0e32\u0e40\u0e15\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "El Calafate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0430\u043b\u0430\u0444\u0430\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Calafate"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u06a9\u0627\u0644\u0627\u0641\u0627\u062a\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "El Calafate"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u5361\u62c9\u6cd5\u7279"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":20,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3858677,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"El Calafate",
+    "ne:GN_POP":8000,
+    "ne:GTOPO30":200.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-50.333324,
+    "ne:LONGITUDE":-72.300016,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Calafate",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-72.241667,
+    "ne:MAX_BBXMIN":-72.283333,
+    "ne:MAX_BBYMAX":-50.325,
+    "ne:MAX_BBYMIN":-50.35,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":13.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":4658,
+    "ne:MAX_POP20":4658,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":4658,
+    "ne:MEAN_BBXC":-72.263258,
+    "ne:MEAN_BBYC":-50.339015,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-72.241667,
+    "ne:MIN_BBXMIN":-72.283333,
+    "ne:MIN_BBYMAX":-50.325,
+    "ne:MIN_BBYMIN":-50.35,
+    "ne:MIN_PERKM":13.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"El Calafate",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Calafate",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":8000,
+    "ne:POP_MIN":4658,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Rio_Gallegos",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3858677,
+    "qs:gn_pop":8000,
+    "qs:name":"El Calafate",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":4935,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4935,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":274529,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468753,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-50.339549,
+    "wd:longitude":-72.264926,
+    "wd:wordcount":674,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421183349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858677,
+        "gp:id":468753,
+        "qs:id":274529,
+        "wd:id":"Q81561",
+        "wk:page":"El Calafate"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008797,
+    "wof:geomhash":"2902bd6bd6a73c094aafaec4ec8bb758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183349,
+            "locality_id":421169169,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":421169169,
+    "wof:lastmodified":1527716164,
+    "wof:name":"El Calafate",
+    "wof:parent_id":421183349,
+    "wof:placetype":"locality",
+    "wof:population":8000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27682,
+    -50.34075,
+    -72.27682,
+    -50.34075
+],
+  "geometry": {"coordinates":[-72.27682,-50.34075],"type":"Point"}
+}

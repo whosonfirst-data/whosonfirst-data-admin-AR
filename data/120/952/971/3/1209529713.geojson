@@ -1,0 +1,62 @@
+{
+  "id": 1209529713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35,-36.86667,-57.35,-36.86667",
+    "geom:latitude":-36.86667,
+    "geom:longitude":-57.35,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6511.0",
+    "gn:asciiname":"Monsalvo",
+    "gn:country_code":"AR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430613,
+    "gn:latitude":-36.86667,
+    "gn:longitude":-57.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monsalvo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430613
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"39d46009c92db7a05ca3d266ad9c2276",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209529713
+        }
+    ],
+    "wof:id":1209529713,
+    "wof:lastmodified":1536284318,
+    "wof:name":"Monsalvo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35,
+    -36.86667,
+    -57.35,
+    -36.86667
+],
+  "geometry": {"coordinates":[-57.35,-36.86667],"type":"Point"}
+}

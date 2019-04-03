@@ -1,0 +1,143 @@
+{
+  "id": 85764039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":39590165.396476,
+    "geom:bbox":"-64.189957,-31.404104,-64.189957,-31.404104",
+    "geom:latitude":-31.404104,
+    "geom:longitude":-64.189957,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-31.38945,
+    "gn:longitude":-64.17566,
+    "iso:country":"AR",
+    "lbl:latitude":-31.404104,
+    "lbl:longitude":-64.189957,
+    "mps:latitude":-31.391586,
+    "mps:longitude":-64.191112,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_colloquial":[
+        "Alta Cordoba"
+    ],
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n Alta C\u00f3rdoba",
+        "Alta C\u00f3rdoba"
+    ],
+    "name:spa_x_variant":[
+        "17 de Octubre",
+        "Alto Cordoba"
+    ],
+    "name:unk_x_variant":[
+        "17 de Octubre",
+        "Alta C\u00f3rdoba"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3860259,
+    "qs:gn_nam_loc":"C\u00f3rdoba, C\u00f3rdoba, C\u00f3rdoba, AR",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Alta C\u00f3rdoba",
+    "qs:local_max":5056,
+    "qs:local_sum":5851,
+    "qs:localhoods":2,
+    "qs:name":"Alta C\u00f3rdoba",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:name_adm2":"C\u00f3rdoba",
+    "qs:name_local":"C\u00f3rdoba",
+    "qs:photo_max":3272,
+    "qs:photo_sum":5056,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":87,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344679,
+    "qs:woe_adm2":20070936,
+    "qs:woe_lau":0,
+    "qs:woe_local":466861,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3866169,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alta C\u00f3rdoba",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"C\u00f3rdoba",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900029,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":329897,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85668031,
+        102191577,
+        85632505,
+        421180887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866169,
+        "gp:id":329897,
+        "qs:id":900029,
+        "qs_pg:id":900029
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a745589fefdb4d9280e23150d2c212ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180887,
+            "locality_id":-1,
+            "neighbourhood_id":85764039,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":85764039,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379082,
+    "wof:name":"Alta C\u00f3rdoba",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126089401
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.189957,
+    -31.404104,
+    -64.189957,
+    -31.404104
+],
+  "geometry": {"coordinates":[-64.18995700000001,-31.404104],"type":"Point"}
+}

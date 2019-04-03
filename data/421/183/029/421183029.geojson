@@ -1,0 +1,82 @@
+{
+  "id": 421183029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03797,-31.91788,-65.03797,-31.91788",
+    "geom:latitude":-31.91788,
+    "geom:longitude":-65.03797,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Quebrada de los Pozos"
+    ],
+    "name:unk_x_variant":[
+        "Quebrada de los Pozos"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3839760,
+    "qs:gn_pop":0,
+    "qs:name":"Quebrada de Los Pozos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":78,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":78,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":959457,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466308,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421177961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839760,
+        "gp:id":466308,
+        "qs:id":959457
+    },
+    "wof:country":"AR",
+    "wof:created":1459009356,
+    "wof:geomhash":"106317aa167175678c244de74d8e9f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421177961,
+            "locality_id":421183029,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421183029,
+    "wof:lastmodified":1501268864,
+    "wof:name":"Quebrada de Los Pozos",
+    "wof:parent_id":421177961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03797,
+    -31.91788,
+    -65.03797,
+    -31.91788
+],
+  "geometry": {"coordinates":[-65.03797,-31.91788],"type":"Point"}
+}

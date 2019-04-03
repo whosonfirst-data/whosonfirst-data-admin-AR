@@ -1,0 +1,93 @@
+{
+  "id": 890441823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93997,-35.6736,-64.93997,-35.6736",
+    "geom:latitude":-35.6736,
+    "geom:longitude":-64.93997,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1389,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "La Maruja"
+    ],
+    "name:eng_x_preferred":[
+        "La Maruja"
+    ],
+    "name:fre_x_preferred":[
+        "La Maruja"
+    ],
+    "name:ger_x_preferred":[
+        "La Maruja"
+    ],
+    "name:por_x_preferred":[
+        "La Maruja"
+    ],
+    "name:spa_x_preferred":[
+        "La Maruja"
+    ],
+    "name:swe_x_preferred":[
+        "La Maruja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0645\u0627\u0631\u0648\u062c\u0627"
+    ],
+    "qs:name":"La Maruja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849980,
+        "gp:id":91816398,
+        "qs:id":150462,
+        "wd:id":"Q6463765",
+        "wk:page":"La Maruja"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052338,
+    "wof:geomhash":"ca61fe6fd093ce2136c8bf7caf091fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718315,
+            "locality_id":890441823,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890441823,
+    "wof:lastmodified":1527727232,
+    "wof:name":"La Maruja",
+    "wof:parent_id":1108718315,
+    "wof:placetype":"locality",
+    "wof:population":1389,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93997,
+    -35.6736,
+    -64.93997,
+    -35.6736
+],
+  "geometry": {"coordinates":[-64.93997,-35.6736],"type":"Point"}
+}

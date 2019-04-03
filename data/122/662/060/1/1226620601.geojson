@@ -1,0 +1,68 @@
+{
+  "id": 1226620601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58333,-47.8,-66.58333,-47.8",
+    "geom:latitude":-47.8,
+    "geom:longitude":-66.58333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78014.0",
+    "gn:asciiname":"Paso Gregores",
+    "gn:country_code":"AR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841861,
+    "gn:latitude":-47.8,
+    "gn:longitude":-66.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Gregores",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841861
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c1b6b9e9d4c1226d9b3a215e5226fa1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":1226620601,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1226620601,
+    "wof:lastmodified":1536895590,
+    "wof:name":"Paso Gregores",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58333,
+    -47.8,
+    -66.58333,
+    -47.8
+],
+  "geometry": {"coordinates":[-66.58333,-47.8],"type":"Point"}
+}

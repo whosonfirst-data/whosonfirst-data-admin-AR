@@ -1,0 +1,73 @@
+{
+  "id": 1259578493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.93333,-27.65,-55.93333,-27.65",
+    "geom:latitude":-27.65,
+    "geom:longitude":-55.93333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18084.0",
+    "gn:asciiname":"San Antonio",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429300,
+    "gn:latitude":-27.65,
+    "gn:longitude":-55.93333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Antonio",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421171495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429300
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"02edd2cad671a174f214837c4c8179b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171495,
+            "locality_id":1259578493,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1259578493,
+    "wof:lastmodified":1537584816,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421171495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.93333000000001,
+    -27.65,
+    -55.93333000000001,
+    -27.65
+],
+  "geometry": {"coordinates":[-55.93333000000001,-27.65],"type":"Point"}
+}

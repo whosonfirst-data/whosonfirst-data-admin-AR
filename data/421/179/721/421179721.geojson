@@ -1,0 +1,99 @@
+{
+  "id": 421179721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.75461,-34.90314,-60.75461,-34.90314",
+    "geom:latitude":-34.90314,
+    "geom:longitude":-60.75461,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "O'Brien"
+    ],
+    "name:eng_x_preferred":[
+        "O'Brien"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d6\u30e9\u30a4\u30a8\u30f3"
+    ],
+    "name:spa_x_preferred":[
+        "General O'Brien"
+    ],
+    "name:swe_x_preferred":[
+        "General O'Brien"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434\u0443\u0430\u0440\u0434\u043e-\u041e'\u0411\u0440\u0430\u0454\u043d"
+    ],
+    "name:unk_x_variant":[
+        "O\u2019Brien"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855083,
+    "qs:gn_pop":0,
+    "qs:name":"General O'Brien",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1222505,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467663,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855083,
+        "gp:id":467663,
+        "qs:id":1222505,
+        "wd:id":"Q8963745",
+        "wk:page":"O'Brien, Argentina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009231,
+    "wof:geomhash":"853076052f2e73b6cc9fb91c4c96cccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717881,
+            "locality_id":421179721,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421179721,
+    "wof:lastmodified":1553816369,
+    "wof:name":"General O'Brien",
+    "wof:parent_id":1108717881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.75461,
+    -34.90314,
+    -60.75461,
+    -34.90314
+],
+  "geometry": {"coordinates":[-60.75461,-34.90314],"type":"Point"}
+}

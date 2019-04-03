@@ -1,0 +1,68 @@
+{
+  "id": 1276749057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.29419,-32.06162,-60.29419,-32.06162",
+    "geom:latitude":-32.06162,
+    "geom:longitude":-60.29419,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30021.0",
+    "gn:asciiname":"Aldea Jacobi",
+    "gn:country_code":"AR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866389,
+    "gn:latitude":-32.06162,
+    "gn:longitude":-60.29419,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aldea Jacobi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866389
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"86ff55045a420983ba94cb4aa0417086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":1276749057,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1276749057,
+    "wof:lastmodified":1536719245,
+    "wof:name":"Aldea Jacobi",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.29419,
+    -32.06162,
+    -60.29419,
+    -32.06162
+],
+  "geometry": {"coordinates":[-60.29419,-32.06162],"type":"Point"}
+}

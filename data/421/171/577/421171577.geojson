@@ -1,0 +1,76 @@
+{
+  "id": 421171577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53491,-30.85695,-64.53491,-30.85695",
+    "geom:latitude":-30.85695,
+    "geom:longitude":-64.53491,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3856256,
+    "qs:gn_pop":0,
+    "qs:name":"El Zapato",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262708,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330596,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856256,
+        "gp:id":330596,
+        "qs:id":1262708
+    },
+    "wof:country":"AR",
+    "wof:created":1459008899,
+    "wof:geomhash":"7a96f72854c03f5dfb9223f0e9b8d144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421171577,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421171577,
+    "wof:lastmodified":1499925200,
+    "wof:name":"El Zapato",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53491,
+    -30.85695,
+    -64.53491,
+    -30.85695
+],
+  "geometry": {"coordinates":[-64.53491,-30.85695],"type":"Point"}
+}

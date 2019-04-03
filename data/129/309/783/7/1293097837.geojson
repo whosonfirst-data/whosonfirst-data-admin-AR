@@ -1,0 +1,72 @@
+{
+  "id": 1293097837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.65572,-32.24745,-63.65572,-32.24745",
+    "geom:latitude":-32.24745,
+    "geom:longitude":-63.65572,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14161.0",
+    "gn:asciiname":"Pampayasta Sur",
+    "gn:country_code":"AR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842084,
+    "gn:latitude":-32.24745,
+    "gn:longitude":-63.65572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pampayasta Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampayasta",
+        "Pampayasta Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842084
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d00068943af8f9da9869c99cc31b74aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":1293097837,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1293097837,
+    "wof:lastmodified":1537584851,
+    "wof:name":"Pampayasta Sur",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.65572,
+    -32.24745,
+    -63.65572,
+    -32.24745
+],
+  "geometry": {"coordinates":[-63.65572,-32.24745],"type":"Point"}
+}

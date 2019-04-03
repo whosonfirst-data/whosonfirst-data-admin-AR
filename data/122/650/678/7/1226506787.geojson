@@ -1,0 +1,73 @@
+{
+  "id": 1226506787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.12859,-34.37256,-62.12859,-34.37256",
+    "geom:latitude":-34.37256,
+    "geom:longitude":-62.12859,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82042.0",
+    "gn:asciiname":"Diego de Alvear",
+    "gn:country_code":"AR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859354,
+    "gn:latitude":-34.37256,
+    "gn:longitude":-62.12859,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diego de Alvear",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayor Jos\u00e9 Orellanos",
+        "D. de Alvear",
+        "Diego de Alvear"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859354
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b08fc892c35e2dec6bdf6aff20ca2698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":1226506787,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226506787,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Diego de Alvear",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.12859,
+    -34.37256,
+    -62.12859,
+    -34.37256
+],
+  "geometry": {"coordinates":[-62.12859,-34.37256],"type":"Point"}
+}

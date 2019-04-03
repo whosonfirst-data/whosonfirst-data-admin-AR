@@ -1,0 +1,67 @@
+{
+  "id": 1226118749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.9,-22.11667,-64.9,-22.11667",
+    "geom:latitude":-22.11667,
+    "geom:longitude":-64.9,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mecoyita",
+    "gn:country_code":"AR",
+    "gn:dem":2437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844608,
+    "gn:latitude":-22.11667,
+    "gn:longitude":-64.9,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Mecoyita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844608
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"522e3b0db1f9289287711ebcdc5b48d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1226118749,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1226118749,
+    "wof:lastmodified":1536617597,
+    "wof:name":"Mecoyita",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.9,
+    -22.11667000000001,
+    -64.9,
+    -22.11667000000001
+],
+  "geometry": {"coordinates":[-64.90000000000001,-22.11667000000001],"type":"Point"}
+}

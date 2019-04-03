@@ -1,0 +1,68 @@
+{
+  "id": 1277158459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56857,-37.28255,-64.56857,-37.28255",
+    "geom:latitude":-37.28255,
+    "geom:longitude":-64.56857,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42154.0",
+    "gn:asciiname":"Utracan",
+    "gn:country_code":"AR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833348,
+    "gn:latitude":-37.28255,
+    "gn:longitude":-64.56857,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Utrac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833348
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"80f16cc55f115e126c8d1dd7735984ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718319,
+            "locality_id":1277158459,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1277158459,
+    "wof:lastmodified":1536658672,
+    "wof:name":"Utracan",
+    "wof:parent_id":1108718319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56857,
+    -37.28255,
+    -64.56857,
+    -37.28255
+],
+  "geometry": {"coordinates":[-64.56856999999999,-37.28255],"type":"Point"}
+}

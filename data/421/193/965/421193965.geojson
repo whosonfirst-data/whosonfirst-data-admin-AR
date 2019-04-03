@@ -1,0 +1,235 @@
+{
+  "id": 421193965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.07359,-38.87588,-62.07359,-38.87588",
+    "geom:latitude":-38.87588,
+    "geom:longitude":-62.07359,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0627 \u0623\u0644\u062a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:chi_x_preferred":[
+        "\u84ec\u5854\u963f\u5c14\u5854"
+    ],
+    "name:deu_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:dut_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:eng_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:fre_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:ger_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d4 \u05d0\u05dc\u05d8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30bf\u30fb\u30a2\u30eb\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud47c\ud0c0\uc54c\ud0c0"
+    ],
+    "name:nld_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:pol_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:por_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u043b\u044c\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:swe_x_preferred":[
+        "Punta Alta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u043b\u044c\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u963f\u5c14\u5854"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3839982,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Punta Alta",
+    "ne:GN_POP":57209,
+    "ne:GTOPO30":3.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-38.879967,
+    "ne:LONGITUDE":-62.079968,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Punta Alta",
+    "ne:MAX_AREAKM":25.0,
+    "ne:MAX_AREAMI":10.0,
+    "ne:MAX_BBXMAX":-62.041667,
+    "ne:MAX_BBXMIN":-62.108333,
+    "ne:MAX_BBYMAX":-38.841667,
+    "ne:MAX_BBYMIN":-38.9,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":27.0,
+    "ne:MAX_PERMI":17.0,
+    "ne:MAX_POP10":54730,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-62.077365,
+    "ne:MEAN_BBYC":-38.876464,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":25.0,
+    "ne:MIN_AREAMI":10.0,
+    "ne:MIN_BBXMAX":-62.041667,
+    "ne:MIN_BBXMIN":-62.108333,
+    "ne:MIN_BBYMAX":-38.841667,
+    "ne:MIN_BBYMIN":-38.9,
+    "ne:MIN_PERKM":27.0,
+    "ne:MIN_PERMI":17.0,
+    "ne:NAME":"Punta Alta",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Punta Alta",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":57209,
+    "ne:POP_MIN":54730,
+    "ne:POP_OTHER":54590,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3839982,
+    "qs:gn_pop":57209,
+    "qs:name":"Punta Alta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":369,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":369,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":672371,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466884,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":2603,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839982,
+        "gp:id":466884,
+        "qs:id":672371,
+        "wd:id":"Q603592",
+        "wk:page":"Punta Alta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009789,
+    "wof:geomhash":"22d3faac1fdd994cc32a282214ff0746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717903,
+            "locality_id":421193965,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421193965,
+    "wof:lastmodified":1527716139,
+    "wof:name":"Punta Alta",
+    "wof:parent_id":1108717903,
+    "wof:placetype":"locality",
+    "wof:population":57209,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.07359,
+    -38.87588,
+    -62.07359,
+    -38.87588
+],
+  "geometry": {"coordinates":[-62.07359,-38.87588],"type":"Point"}
+}

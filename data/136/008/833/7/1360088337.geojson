@@ -1,0 +1,72 @@
+{
+  "id": 1360088337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.66505,-27.01186,-66.66505,-27.01186",
+    "geom:latitude":-27.01186,
+    "geom:longitude":-66.66505,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10035.0",
+    "gn:asciiname":"Las Cuevas",
+    "gn:country_code":"AR",
+    "gn:dem":2794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848494,
+    "gn:latitude":-27.01186,
+    "gn:longitude":-66.66505,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Cuevas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuevas",
+        "Las Cuevas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421204045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848494
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"604aa08c6b1a0d5952a41e3299f4bc8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204045,
+            "locality_id":1360088337,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1360088337,
+    "wof:lastmodified":1537584864,
+    "wof:name":"Las Cuevas",
+    "wof:parent_id":421204045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.66505,
+    -27.01186,
+    -66.66505,
+    -27.01186
+],
+  "geometry": {"coordinates":[-66.66504999999999,-27.01186],"type":"Point"}
+}

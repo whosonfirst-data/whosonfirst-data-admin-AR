@@ -1,0 +1,103 @@
+{
+  "id": 421182169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.7826,-27.76979,-55.7826,-27.76979",
+    "geom:latitude":-27.76979,
+    "geom:longitude":-55.7826,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428928,
+    "qs:gn_pop":6452,
+    "qs:name":"San Jos\u00e9",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1255625,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332661,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428928,
+        "gp:id":332661,
+        "qs:id":1255625,
+        "wd:id":"Q7414513",
+        "wk:page":"San Jos\u00e9, Misiones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009321,
+    "wof:geomhash":"64c0957b6249b7577044878aae181c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718365,
+            "locality_id":421182169,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421182169,
+    "wof:lastmodified":1527726428,
+    "wof:name":"San Jos\u00e9",
+    "wof:parent_id":1108718365,
+    "wof:placetype":"locality",
+    "wof:population":6452,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.7826,
+    -27.76979,
+    -55.7826,
+    -27.76979
+],
+  "geometry": {"coordinates":[-55.7826,-27.76979],"type":"Point"}
+}

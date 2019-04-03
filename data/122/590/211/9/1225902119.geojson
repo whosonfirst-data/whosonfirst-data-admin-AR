@@ -1,0 +1,69 @@
+{
+  "id": 1225902119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.57599,-27.30568,-65.57599,-27.30568",
+    "geom:latitude":-27.30568,
+    "geom:longitude":-65.57599,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90021.0",
+    "gn:asciiname":"Arcadia",
+    "gn:country_code":"AR",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865535,
+    "gn:latitude":-27.30568,
+    "gn:longitude":-65.57599,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arcadia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421178317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865535,
+        "wk:page":"Arcadia%2C_Tucum%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6e101c1d57e1e88742efb65f3470900e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421178317,
+            "locality_id":1225902119,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1225902119,
+    "wof:lastmodified":1537486349,
+    "wof:name":"Arcadia",
+    "wof:parent_id":421178317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.57599,
+    -27.30568,
+    -65.57599,
+    -27.30568
+],
+  "geometry": {"coordinates":[-65.57599,-27.30568],"type":"Point"}
+}

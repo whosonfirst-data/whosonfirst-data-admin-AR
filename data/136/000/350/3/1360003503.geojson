@@ -1,0 +1,73 @@
+{
+  "id": 1360003503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.83481,-34.84932,-58.83481,-34.84932",
+    "geom:latitude":-34.84932,
+    "geom:longitude":-58.83481,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6525.0",
+    "gn:asciiname":"Colonia Hogar Ricardo Gutierrez",
+    "gn:country_code":"AR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435321,
+    "gn:latitude":-34.84932,
+    "gn:longitude":-58.83481,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Colonia Hogar Ricardo Guti\u00e9rrez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Hogar R. Guti\u00e9rrez",
+        "Colonia Nacional de Menores",
+        "Colonia Hogar Ricardo Guti\u00e9rrez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435321
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e6bffca6d63afbe8ca631152a9103664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718021,
+            "locality_id":1360003503,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1360003503,
+    "wof:lastmodified":1537584827,
+    "wof:name":"Colonia Hogar Ricardo Gutierrez",
+    "wof:parent_id":1108718021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.83481,
+    -34.84932,
+    -58.83481,
+    -34.84932
+],
+  "geometry": {"coordinates":[-58.83481,-34.84932],"type":"Point"}
+}

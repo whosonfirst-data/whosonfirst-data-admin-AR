@@ -1,0 +1,69 @@
+{
+  "id": 1327017873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.81811,-35.54829,-63.81811,-35.54829",
+    "geom:latitude":-35.54829,
+    "geom:longitude":-63.81811,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42105.0",
+    "gn:asciiname":"Speluzzi",
+    "gn:country_code":"AR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835046,
+    "gn:latitude":-35.54829,
+    "gn:longitude":-63.81811,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Speluzzi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421175285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835046,
+        "wk:page":"Speluzzi"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"54eb0e3410d78a320ea7acdda5a4ab38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175285,
+            "locality_id":1327017873,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1327017873,
+    "wof:lastmodified":1537486306,
+    "wof:name":"Speluzzi",
+    "wof:parent_id":421175285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.81811,
+    -35.54829,
+    -63.81811,
+    -35.54829
+],
+  "geometry": {"coordinates":[-63.81811,-35.54829],"type":"Point"}
+}

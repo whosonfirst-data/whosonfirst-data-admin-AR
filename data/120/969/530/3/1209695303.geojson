@@ -1,0 +1,67 @@
+{
+  "id": 1209695303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78405,-34.90187,-67.78405,-34.90187",
+    "geom:latitude":-34.90187,
+    "geom:longitude":-67.78405,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50105.0",
+    "gn:asciiname":"Jaime Prats",
+    "gn:country_code":"AR",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853567,
+    "gn:latitude":-34.90187,
+    "gn:longitude":-67.78405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jaime Prats",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingeniero Balloffet",
+        "J. Prats",
+        "Jaime Prats"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853567
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5300435e11a20dfb143311552d374d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209695303
+        }
+    ],
+    "wof:id":1209695303,
+    "wof:lastmodified":1537584870,
+    "wof:name":"Jaime Prats",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78405,
+    -34.90187,
+    -67.78405,
+    -34.90187
+],
+  "geometry": {"coordinates":[-67.78404999999999,-34.90187],"type":"Point"}
+}

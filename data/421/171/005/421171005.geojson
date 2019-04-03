@@ -1,0 +1,100 @@
+{
+  "id": 421171005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.18333,-38.75,-68.18333,-38.75",
+    "geom:latitude":-38.75,
+    "geom:longitude":-68.18333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vista Alegre"
+    ],
+    "name:dut_x_preferred":[
+        "Vista Alegre"
+    ],
+    "name:eng_x_preferred":[
+        "Vista Alegre"
+    ],
+    "name:spa_x_preferred":[
+        "Vista Alegre"
+    ],
+    "name:swe_x_preferred":[
+        "Vista Alegre"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Vista Alegre"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832518,
+    "qs:gn_pop":2857,
+    "qs:name":"Vista Alegre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1205272,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832518,
+        "gp:id":332454,
+        "qs:id":1205272,
+        "wd:id":"Q7936429",
+        "wk:page":"Vista Alegre (Neuqu\u00e9n)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008878,
+    "wof:geomhash":"5d8336e6f97ab916f28b2ac288db7c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169777,
+            "locality_id":421171005,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421171005,
+    "wof:lastmodified":1527726497,
+    "wof:name":"Vista Alegre",
+    "wof:parent_id":421169777,
+    "wof:placetype":"locality",
+    "wof:population":2857,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.18333,
+    -38.75,
+    -68.18333,
+    -38.75
+],
+  "geometry": {"coordinates":[-68.18333,-38.75],"type":"Point"}
+}

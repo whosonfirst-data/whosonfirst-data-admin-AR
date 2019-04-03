@@ -1,0 +1,109 @@
+{
+  "id": 421196221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.6604,-26.93382,-58.6604,-26.93382",
+    "geom:latitude":-26.93382,
+    "geom:longitude":-58.6604,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Vedia"
+    ],
+    "name:dut_x_preferred":[
+        "General Vedia"
+    ],
+    "name:eng_x_preferred":[
+        "General Vedia"
+    ],
+    "name:fre_x_preferred":[
+        "General Vedia"
+    ],
+    "name:ita_x_preferred":[
+        "General Vedia"
+    ],
+    "name:por_x_preferred":[
+        "General Vedia"
+    ],
+    "name:spa_x_preferred":[
+        "General Vedia"
+    ],
+    "name:swe_x_preferred":[
+        "General Vedia"
+    ],
+    "name:unk_x_variant":[
+        "General Verde"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433773,
+    "qs:gn_pop":3513,
+    "qs:name":"General Vedia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212369,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467671,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433773,
+        "gp:id":467671,
+        "qs:id":1212369,
+        "wd:id":"Q1656049",
+        "wk:page":"General Vedia"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009873,
+    "wof:geomhash":"0e1a5806520f06d70971dfdbd6f4a68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185063,
+            "locality_id":421196221,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421196221,
+    "wof:lastmodified":1527716362,
+    "wof:name":"General Vedia",
+    "wof:parent_id":421185063,
+    "wof:placetype":"locality",
+    "wof:population":3513,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.6604,
+    -26.93382,
+    -58.6604,
+    -26.93382
+],
+  "geometry": {"coordinates":[-58.6604,-26.93382],"type":"Point"}
+}

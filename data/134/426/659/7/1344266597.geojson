@@ -1,0 +1,71 @@
+{
+  "id": 1344266597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.53289,-34.2332,-58.53289,-34.2332",
+    "geom:latitude":-34.2332,
+    "geom:longitude":-58.53289,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6749.0",
+    "gn:asciiname":"Forestal Entre Rios",
+    "gn:country_code":"AR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149666,
+    "gn:latitude":-34.2332,
+    "gn:longitude":-58.53289,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Forestal Entre R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Forestal Entre R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149666
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b438289584ff35e3c591ad58b4a06414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718097,
+            "locality_id":1344266597,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1344266597,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Forestal Entre Rios",
+    "wof:parent_id":1108718097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.53289,
+    -34.2332,
+    -58.53289,
+    -34.2332
+],
+  "geometry": {"coordinates":[-58.53289,-34.2332],"type":"Point"}
+}

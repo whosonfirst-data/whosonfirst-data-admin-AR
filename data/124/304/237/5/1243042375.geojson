@@ -1,0 +1,68 @@
+{
+  "id": 1243042375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06667,-49.15,-72.06667,-49.15",
+    "geom:latitude":-49.15,
+    "geom:longitude":-72.06667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78028.0",
+    "gn:asciiname":"Lago San Martin",
+    "gn:country_code":"AR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851095,
+    "gn:latitude":-49.15,
+    "gn:longitude":-72.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lago San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421183349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851095
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3ce2e1a9504e5cd7d8bb45eb719bc9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183349,
+            "locality_id":1243042375,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1243042375,
+    "wof:lastmodified":1536890745,
+    "wof:name":"Lago San Martin",
+    "wof:parent_id":421183349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06667,
+    -49.15,
+    -72.06667,
+    -49.15
+],
+  "geometry": {"coordinates":[-72.06667,-49.15],"type":"Point"}
+}

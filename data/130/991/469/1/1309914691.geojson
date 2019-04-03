@@ -1,0 +1,74 @@
+{
+  "id": 1309914691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.18333,-27.96667,-68.18333,-27.96667",
+    "geom:latitude":-27.96667,
+    "geom:longitude":-68.18333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"La Tamberia",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":3489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847549,
+    "gn:latitude":-27.96667,
+    "gn:longitude":-68.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Tamber\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamberia",
+        "Tambo",
+        "La Tamber\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847549
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0fd80a517078bdd5866b2a9e0eb7d4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1309914691,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1309914691,
+    "wof:lastmodified":1537584862,
+    "wof:name":"La Tamberia",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.18333,
+    -27.96667,
+    -68.18333,
+    -27.96667
+],
+  "geometry": {"coordinates":[-68.18333,-27.96667],"type":"Point"}
+}

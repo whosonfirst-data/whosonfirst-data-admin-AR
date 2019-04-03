@@ -1,0 +1,75 @@
+{
+  "id": 421186913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.103489,-34.063878,-60.103489,-34.063878",
+    "geom:latitude":-34.063878,
+    "geom:longitude":-60.103489,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bartolom\u00e9 Mitre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077391,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466895,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":466895,
+        "qs:id":1077391
+    },
+    "wof:country":"AR",
+    "wof:created":1459009496,
+    "wof:geomhash":"53367baf1aa3899e190d631d74ce4769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717869,
+            "locality_id":421186913,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186913,
+    "wof:lastmodified":1499925097,
+    "wof:name":"Bartolom\u00e9 Mitre",
+    "wof:parent_id":1108717869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.103489,
+    -34.063878,
+    -60.103489,
+    -34.063878
+],
+  "geometry": {"coordinates":[-60.103489,-34.063878],"type":"Point"}
+}

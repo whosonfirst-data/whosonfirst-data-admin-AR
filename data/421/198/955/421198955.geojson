@@ -1,0 +1,104 @@
+{
+  "id": 421198955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28732,-38.71867,-61.28732,-38.71867",
+    "geom:latitude":-38.71867,
+    "geom:longitude":-61.28732,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:eng_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:fre_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:ita_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0414\u043e\u0440\u0440\u0435\u0433\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Dorrego"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860199,
+    "qs:gn_pop":11644,
+    "qs:name":"Cnel Dorrego",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212302,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466938,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860199,
+        "gp:id":466938,
+        "qs:id":1212302,
+        "wd:id":"Q2481568"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009967,
+    "wof:geomhash":"42a9a23d7071db5dff5e634877fed764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717905,
+            "locality_id":421198955,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421198955,
+    "wof:lastmodified":1553816386,
+    "wof:name":"Cnel Dorrego",
+    "wof:parent_id":1108717905,
+    "wof:placetype":"locality",
+    "wof:population":11644,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28732,
+    -38.71867,
+    -61.28732,
+    -38.71867
+],
+  "geometry": {"coordinates":[-61.28732,-38.71867],"type":"Point"}
+}

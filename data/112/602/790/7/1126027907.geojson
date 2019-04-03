@@ -1,0 +1,109 @@
+{
+  "id": 1126027907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.63039,-26.24262,-58.63039,-26.24262",
+    "geom:latitude":-26.24262,
+    "geom:longitude":-58.63039,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4384,
+    "gn:population":4384,
+    "iso:country":"AR",
+    "lbl:latitude":-26.24262,
+    "lbl:longitude":-58.63039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco de Laishi"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco de Laishi"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco de Laishi"
+    ],
+    "name:ger_x_preferred":[
+        "Misi\u00f3n San Francisco de Laish\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco de Laishi"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco de Laishi"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco de Laish\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e-\u0434\u0435-\u041b\u0430\u0439\u0441\u0456"
+    ],
+    "name:unk_x_variant":[
+        "La Misi\u00f3n San Francisco de Laishi"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3429054,
+    "qs_pg:gn_pop":4384,
+    "qs_pg:name":"San Francisco de Laish\u00ed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":583238,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429054,
+        "qs_pg:id":583238,
+        "wd:id":"Q994886"
+    },
+    "wof:country":"AR",
+    "wof:created":1497301255,
+    "wof:geomhash":"6f390bfc1c0ae458e396c69d2374f322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718263,
+            "locality_id":1126027907,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1126027907,
+    "wof:lastmodified":1513889425,
+    "wof:name":"San Francisco de Laish\u00ed",
+    "wof:parent_id":1108718263,
+    "wof:placetype":"locality",
+    "wof:population":4384,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.63039,
+    -26.24262,
+    -58.63039,
+    -26.24262
+],
+  "geometry": {"coordinates":[-58.63039,-26.24262],"type":"Point"}
+}

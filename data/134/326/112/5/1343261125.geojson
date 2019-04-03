@@ -1,0 +1,68 @@
+{
+  "id": 1343261125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.70936,-34.51059,-63.70936,-34.51059",
+    "geom:latitude":-34.51059,
+    "geom:longitude":-63.70936,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14084.0",
+    "gn:asciiname":"San Joaquin",
+    "gn:country_code":"AR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837452,
+    "gn:latitude":-34.51059,
+    "gn:longitude":-63.70936,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421199897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837452
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4211336f8396ac96ca98022b1597cb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199897,
+            "locality_id":1343261125,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1343261125,
+    "wof:lastmodified":1537032520,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":421199897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.70936,
+    -34.51059,
+    -63.70936,
+    -34.51059
+],
+  "geometry": {"coordinates":[-63.70936,-34.51059],"type":"Point"}
+}

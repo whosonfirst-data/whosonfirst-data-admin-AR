@@ -1,0 +1,72 @@
+{
+  "id": 1192981789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58449,-31.71636,-68.58449,-31.71636",
+    "geom:latitude":-31.71636,
+    "geom:longitude":-68.58449,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70070.0",
+    "gn:asciiname":"La Rinconada",
+    "gn:country_code":"AR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848965,
+    "gn:latitude":-31.71636,
+    "gn:longitude":-68.58449,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Rinconada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinconada",
+        "La Rinconada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421203709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848965
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"47e67c8554ae1bd0ec46b13a5800eec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203709,
+            "locality_id":1192981789,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1192981789,
+    "wof:lastmodified":1537584865,
+    "wof:name":"La Rinconada",
+    "wof:parent_id":421203709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58449,
+    -31.71636,
+    -68.58449,
+    -31.71636
+],
+  "geometry": {"coordinates":[-68.58449,-31.71636],"type":"Point"}
+}

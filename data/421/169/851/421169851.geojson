@@ -1,0 +1,96 @@
+{
+  "id": 421169851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.40062,-33.67344,-60.40062,-33.67344",
+    "geom:latitude":-33.67344,
+    "geom:longitude":-60.40062,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Guerrico"
+    ],
+    "name:deu_x_preferred":[
+        "Guerrico"
+    ],
+    "name:eng_x_preferred":[
+        "Guerrico"
+    ],
+    "name:ger_x_preferred":[
+        "Guerrico"
+    ],
+    "name:hun_x_preferred":[
+        "Guerrico"
+    ],
+    "name:spa_x_preferred":[
+        "Guerrico"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854438,
+    "qs:gn_pop":0,
+    "qs:name":"Guerrico",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181838,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465508,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854438,
+        "gp:id":465508,
+        "qs:id":181838,
+        "wd:id":"Q1423252"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008826,
+    "wof:geomhash":"b39676dea9c06aee26ea53b7643df6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718051,
+            "locality_id":421169851,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421169851,
+    "wof:lastmodified":1527716168,
+    "wof:name":"Guerrico",
+    "wof:parent_id":1108718051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.40062,
+    -33.67344,
+    -60.40062,
+    -33.67344
+],
+  "geometry": {"coordinates":[-60.40062,-33.67344],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343233571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23803,-25.40654,-66.23803,-25.40654",
+    "geom:latitude":-25.40654,
+    "geom:longitude":-66.23803,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66119.0",
+    "gn:asciiname":"El Churcal",
+    "gn:country_code":"AR",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858386,
+    "gn:latitude":-25.40654,
+    "gn:longitude":-66.23803,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Churcal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Churcal",
+        "El Churcal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421197593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858386
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4fa4298c3b86cca1df10c17ba48747d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197593,
+            "locality_id":1343233571,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1343233571,
+    "wof:lastmodified":1537584882,
+    "wof:name":"El Churcal",
+    "wof:parent_id":421197593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23803000000001,
+    -25.40654,
+    -66.23803000000001,
+    -25.40654
+],
+  "geometry": {"coordinates":[-66.23803000000001,-25.40654],"type":"Point"}
+}

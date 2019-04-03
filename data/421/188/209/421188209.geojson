@@ -1,0 +1,150 @@
+{
+  "id": 421188209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-63.067016,-38.638863,-63.067016,-38.638863",
+    "geom:latitude":-38.638863,
+    "geom:longitude":-63.067016,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:ast_x_preferred":[
+        "Villarinu"
+    ],
+    "name:cat_x_preferred":[
+        "Villarino dels Aires"
+    ],
+    "name:ceb_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:deu_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:eus_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:fra_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:hun_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:ina_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:ita_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0440\u0438\u043d\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:nld_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:oci_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:pol_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:por_x_preferred":[
+        "Villarino dos Ares"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0440\u0438\u043d\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:swe_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f\u0440\u0456\u043d\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:vie_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:war_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Villarino de los Aires"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5229\u4e9a\u91cc\u8bfa\u5fb7\u6d1b\u8d5b\u96f7\u65af"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villari\u00f1o",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":129,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":13444,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20071003,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20071003,
+        "qs:id":13444,
+        "wd:id":"Q1640111"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009538,
+    "wof:geomhash":"0a42d8b3c04a53779801f46188af2b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188209,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421188209,
+    "wof:lastmodified":1527716293,
+    "wof:name":"Villari\u00f1o",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.067016,
+    -38.638863,
+    -63.067016,
+    -38.638863
+],
+  "geometry": {"coordinates":[-63.067016,-38.638863],"type":"Point"}
+}

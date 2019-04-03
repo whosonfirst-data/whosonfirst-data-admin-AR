@@ -1,0 +1,89 @@
+{
+  "id": 421166845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.4687,-33.19494,-60.4687,-33.19494",
+    "geom:latitude":-33.19494,
+    "geom:longitude":-60.4687,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Fighiera"
+    ],
+    "name:eng_x_preferred":[
+        "Fighiera"
+    ],
+    "name:spa_x_preferred":[
+        "Fighiera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0433\u0435\u0440\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855570,
+    "qs:gn_pop":0,
+    "qs:name":"Fighiera",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":454,
+    "qs:photos_1k":92,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":454,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262924,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465396,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855570,
+        "gp:id":465396,
+        "qs:id":1262924,
+        "wd:id":"Q5861895"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008704,
+    "wof:geomhash":"c61aa0dde4cc63f25cbf89f40824ea32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":421166845,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421166845,
+    "wof:lastmodified":1513889175,
+    "wof:name":"Fighiera",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.4687,
+    -33.19494,
+    -60.4687,
+    -33.19494
+],
+  "geometry": {"coordinates":[-60.4687,-33.19494],"type":"Point"}
+}

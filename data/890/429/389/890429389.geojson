@@ -1,0 +1,105 @@
+{
+  "id": 890429389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.61947,-25.94679,-60.61947,-25.94679",
+    "geom:latitude":-25.94679,
+    "geom:longitude":-60.61947,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":36588,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u0643\u0627\u0633\u062a\u064a\u0644\u064a\u060c \u062a\u0634\u0627\u0643\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u80e1\u5b89\u4f55\u585e\u5361\u65af\u7279\u5229"
+    ],
+    "name:dut_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:fre_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:ger_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05df \u05d7\u05d5\u05e1\u05d4 \u05e7\u05e1\u05d8\u05dc\u05d9"
+    ],
+    "name:por_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:swe_x_preferred":[
+        "Castelli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u0425\u043e\u0441\u0435-\u041a\u0430\u0441\u0442\u0435\u043b\u043b\u0456"
+    ],
+    "name:unk_x_variant":[
+        "J.J. Castelli"
+    ],
+    "qs:name":"Castelli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862320,
+        "gp:id":468750,
+        "qs:id":96656,
+        "wd:id":"Q568624",
+        "wk:page":"Castelli"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051812,
+    "wof:geomhash":"b5b4631d9a88553b2e33254ab7accd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":890429389,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890429389,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Castelli",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:population":36588,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61947,
+    -25.94679,
+    -60.61947,
+    -25.94679
+],
+  "geometry": {"coordinates":[-60.61947,-25.94679],"type":"Point"}
+}

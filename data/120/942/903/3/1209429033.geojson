@@ -1,0 +1,62 @@
+{
+  "id": 1209429033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.26794,-35.45395,-58.26794,-35.45395",
+    "geom:latitude":-35.45395,
+    "geom:longitude":-58.26794,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6343.0",
+    "gn:asciiname":"Alegre",
+    "gn:country_code":"AR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436425,
+    "gn:latitude":-35.45395,
+    "gn:longitude":-58.26794,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436425
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9c94d5c5333100d202cf9441a6abfd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209429033
+        }
+    ],
+    "wof:id":1209429033,
+    "wof:lastmodified":1536287291,
+    "wof:name":"Alegre",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.26794,
+    -35.45395,
+    -58.26794,
+    -35.45395
+],
+  "geometry": {"coordinates":[-58.26794,-35.45395],"type":"Point"}
+}

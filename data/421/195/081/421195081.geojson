@@ -1,0 +1,118 @@
+{
+  "id": 421195081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43169,-38.08606,-63.43169,-38.08606",
+    "geom:latitude":-38.08606,
+    "geom:longitude":-63.43169,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jacinto Arauz"
+    ],
+    "name:dut_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:eng_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:fra_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:fre_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:ita_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:por_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:spa_x_preferred":[
+        "Jacinto Ar\u00e1uz"
+    ],
+    "name:swe_x_preferred":[
+        "Jacinto Arauz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0441\u0456\u043d\u0442\u043e-\u0410\u0440\u0430\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "J. Arauz"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0646\u0679\u0648 \u0627\u0631\u0627\u0627\u0632"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853592,
+    "qs:gn_pop":2773,
+    "qs:name":"Jacinto Arauz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":15,
+    "qs:photos_9r":11,
+    "qs:photos_all":3369,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":703980,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467724,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421181665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853592,
+        "gp:id":467724,
+        "qs:id":703980,
+        "wd:id":"Q3157094",
+        "wk:page":"Jacinto Ar\u00e1uz"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009831,
+    "wof:geomhash":"162ad472f0f9ac9f30ae551cfec2ed41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181665,
+            "locality_id":421195081,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421195081,
+    "wof:lastmodified":1527716123,
+    "wof:name":"Jacinto Arauz",
+    "wof:parent_id":421181665,
+    "wof:placetype":"locality",
+    "wof:population":2773,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43169,
+    -38.08606,
+    -63.43169,
+    -38.08606
+],
+  "geometry": {"coordinates":[-63.43169,-38.08606],"type":"Point"}
+}

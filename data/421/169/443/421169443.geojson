@@ -1,0 +1,75 @@
+{
+  "id": 421169443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.952636,-34.3586105,-58.952636,-34.3586105",
+    "geom:latitude":-34.35861,
+    "geom:longitude":-58.952636,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pilar",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1085,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":237440,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070754,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":372,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070754,
+        "qs:id":237440,
+        "wd:id":"Q386327"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008810,
+    "wof:geomhash":"7f19785a2c9f3c6f87725398f5f3f1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169443,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421169443,
+    "wof:lastmodified":1527716172,
+    "wof:name":"Pilar",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.952636,
+    -34.3586105,
+    -58.952636,
+    -34.3586105
+],
+  "geometry": {"coordinates":[-58.952636,-34.3586105],"type":"Point"}
+}

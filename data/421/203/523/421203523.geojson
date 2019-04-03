@@ -1,0 +1,228 @@
+{
+  "id": 421203523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.22523,-33.33578,-60.22523,-33.33578",
+    "geom:latitude":-33.33578,
+    "geom:longitude":-60.22523,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0646\u064a\u0643\u0648\u0644\u0627\u0633 \u062f\u064a \u0644\u0648\u0633 \u0622\u0631\u0648\u064a\u0648\u0633"
+    ],
+    "name:bre_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041d\u0438\u043a\u043e\u043b\u0430\u0441 \u0434\u0435 \u043b\u043e\u0441 \u0410\u0440\u043e\u0439\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:ceb_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:deu_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:eng_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:epo_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0646\u06cc\u06a9\u0648\u0644\u0627\u0633 \u062f\u0647 \u0644\u0648\u0633 \u0622\u0631\u0648\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e0\u05d9\u05e7\u05d5\u05dc\u05d0\u05e1 \u05d3\u05d4 \u05dc\u05d5\u05e1 \u05d0\u05e8\u05d5\u05d6\u05d5\u05e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10dc\u10d8\u10d9\u10dd\u10da\u10d0\u10e1-\u10d3\u10d4-\u10da\u10dd\u10e1-\u10d0\u10e0\u10dd\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "San Nikolas de los Arojosas"
+    ],
+    "name:pol_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:spa_x_preferred":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e19\u0e35\u0e42\u0e01\u0e25\u0e32\u0e2a\u0e40\u0e14\u0e42\u0e25\u0e2a\u0e2d\u0e32\u0e23\u0e4c\u0e42\u0e23\u0e42\u0e22\u0e2a"
+    ],
+    "name:unk_x_variant":[
+        "San Nicol\u00e1s de los Arroyos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5c3c\u53e4\u62c9\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":2,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3836846,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"San Nicolas de los Arroyos",
+    "ne:GN_POP":127742,
+    "ne:GTOPO30":6.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-33.330021,
+    "ne:LONGITUDE":-60.240003,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Nicolas",
+    "ne:MAX_AREAKM":54.0,
+    "ne:MAX_AREAMI":21.0,
+    "ne:MAX_BBXMAX":-60.166667,
+    "ne:MAX_BBXMIN":-60.266667,
+    "ne:MAX_BBYMAX":-33.3,
+    "ne:MAX_BBYMIN":-33.408333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":69.0,
+    "ne:MAX_PERMI":43.0,
+    "ne:MAX_POP10":106505,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.215351,
+    "ne:MEAN_BBYC":-33.35614,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":54.0,
+    "ne:MIN_AREAMI":21.0,
+    "ne:MIN_BBXMAX":-60.166667,
+    "ne:MIN_BBXMIN":-60.266667,
+    "ne:MIN_BBYMAX":-33.3,
+    "ne:MIN_BBYMIN":-33.408333,
+    "ne:MIN_PERKM":69.0,
+    "ne:MIN_PERMI":43.0,
+    "ne:NAME":"San Nicolas",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Nicolas",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":127742,
+    "ne:POP_MIN":106505,
+    "ne:POP_OTHER":96065,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3836846,
+    "qs:gn_pop":127742,
+    "qs:name":"San Nicol\u00e1s",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":459,
+    "qs:photos_1k":93,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":459,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":232786,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332026,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836846,
+        "gp:id":332026,
+        "qs:id":232786,
+        "wd:id":"Q377965",
+        "wk:page":"San Nicol\u00e1s de los Arroyos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010155,
+    "wof:geomhash":"1994220dab7266d786d7c84378a705be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718103,
+            "locality_id":421203523,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421203523,
+    "wof:lastmodified":1505340784,
+    "wof:name":"San Nicol\u00e1s",
+    "wof:parent_id":1108718103,
+    "wof:placetype":"locality",
+    "wof:population":127742,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.22523,
+    -33.33578,
+    -60.22523,
+    -33.33578
+],
+  "geometry": {"coordinates":[-60.22523,-33.33578],"type":"Point"}
+}

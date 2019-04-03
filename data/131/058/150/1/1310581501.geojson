@@ -1,0 +1,73 @@
+{
+  "id": 1310581501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.65698,-28.65535,-67.65698,-28.65535",
+    "geom:latitude":-28.65535,
+    "geom:longitude":-67.65698,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46049.0",
+    "gn:asciiname":"Angulos",
+    "gn:country_code":"AR",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865737,
+    "gn:latitude":-28.65535,
+    "gn:longitude":-67.65698,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"\u00c1ngulos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angulas",
+        "\u00c1ngulos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865737,
+        "wk:page":"%C3%81ngulos"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"13055ab801548baddded95afedb7fe5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718329,
+            "locality_id":1310581501,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1310581501,
+    "wof:lastmodified":1537584902,
+    "wof:name":"Angulos",
+    "wof:parent_id":1108718329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.65698,
+    -28.65535,
+    -67.65698,
+    -28.65535
+],
+  "geometry": {"coordinates":[-67.65698,-28.65535],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209432445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28728,-37.53354,-61.28728,-37.53354",
+    "geom:latitude":-37.53354,
+    "geom:longitude":-61.28728,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6322.0",
+    "gn:asciiname":"Libano",
+    "gn:country_code":"AR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846919,
+    "gn:latitude":-37.53354,
+    "gn:longitude":-61.28728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"L\u00edbano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00edbano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846919,
+        "wk:page":"L%C3%ADbano%2C_Argentina"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cc907a3895f00ee31540b7e3d06d5638",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209432445
+        }
+    ],
+    "wof:id":1209432445,
+    "wof:lastmodified":1537584861,
+    "wof:name":"Libano",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28728,
+    -37.53354,
+    -61.28728,
+    -37.53354
+],
+  "geometry": {"coordinates":[-61.28728,-37.53354],"type":"Point"}
+}

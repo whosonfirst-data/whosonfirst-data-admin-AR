@@ -1,0 +1,79 @@
+{
+  "id": 421201797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.289,-33.09231,-64.289,-33.09231",
+    "geom:latitude":-33.09231,
+    "geom:longitude":-64.289,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3848343,
+    "qs:gn_pop":5282,
+    "qs:name":"Las Higueras",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":214618,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331183,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848343,
+        "gp:id":331183,
+        "qs:id":214618
+    },
+    "wof:country":"AR",
+    "wof:created":1459010087,
+    "wof:geomhash":"db73c6637d4ed4909175f0867491e488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":421201797,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421201797,
+    "wof:lastmodified":1505340774,
+    "wof:name":"Las Higueras",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:population":5282,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.289,
+    -33.09231,
+    -64.289,
+    -33.09231
+],
+  "geometry": {"coordinates":[-64.289,-33.09231],"type":"Point"}
+}

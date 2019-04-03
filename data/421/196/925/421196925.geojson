@@ -1,0 +1,102 @@
+{
+  "id": 421196925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6138,-33.17962,-68.6138,-33.17962",
+    "geom:latitude":-33.17962,
+    "geom:longitude":-68.6138,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Medrano"
+    ],
+    "name:deu_x_preferred":[
+        "Medrano"
+    ],
+    "name:dut_x_preferred":[
+        "Medrano"
+    ],
+    "name:eng_x_preferred":[
+        "Medrano"
+    ],
+    "name:ita_x_preferred":[
+        "Medrano"
+    ],
+    "name:por_x_preferred":[
+        "Medrano"
+    ],
+    "name:spa_x_preferred":[
+        "Medrano"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0440\u0430\u043d\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844473,
+    "qs:gn_pop":0,
+    "qs:name":"Medrano",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":832432,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465825,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421173921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844473,
+        "gp:id":465825,
+        "qs:id":832432,
+        "wd:id":"Q6008945"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009897,
+    "wof:geomhash":"d252cc814aaafe212b126b81adab2895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421173921,
+            "locality_id":421196925,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421196925,
+    "wof:lastmodified":1553816384,
+    "wof:name":"Medrano",
+    "wof:parent_id":421173921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6138,
+    -33.17962,
+    -68.6138,
+    -33.17962
+],
+  "geometry": {"coordinates":[-68.6138,-33.17962],"type":"Point"}
+}

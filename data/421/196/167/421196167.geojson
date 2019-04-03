@@ -1,0 +1,133 @@
+{
+  "id": 421196167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.79309,-34.71987,-58.79309,-34.71987",
+    "geom:latitude":-34.71987,
+    "geom:longitude":-58.79309,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627\u0646\u0648 \u0623\u0643\u0648\u0633\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u91cc\u4e9e\u8afe\u963f\u79d1\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:eng_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
+    "name:fre_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:ita_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:nld_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:spa_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:swe_x_preferred":[
+        "Mariano Acosta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440'\u044f\u043d\u043e-\u0410\u043a\u043e\u0441\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mariana Acosta"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u4e9e\u8afe\u963f\u79d1\u65af\u5854"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430838,
+    "qs:gn_pop":0,
+    "qs:name":"Mariano Acosta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1044617,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467312,
+    "src:geom":"quattroshapes",
+    "wd:elevation":22.0,
+    "wd:latitude":-34.716667,
+    "wd:longitude":-58.783333,
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430838,
+        "gp:id":467312,
+        "qs:id":1044617,
+        "wd:id":"Q2179474",
+        "wk:page":"Mariano Acosta, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009871,
+    "wof:geomhash":"fc4be251583970b1659e7efd2a155e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718025,
+            "locality_id":421196167,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421196167,
+    "wof:lastmodified":1527716361,
+    "wof:name":"Mariano Acosta",
+    "wof:parent_id":1108718025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.79309,
+    -34.71987,
+    -58.79309,
+    -34.71987
+],
+  "geometry": {"coordinates":[-58.79309,-34.71987],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1125809365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.18333,-25.08333,-64.18333,-25.08333",
+    "geom:latitude":-25.08333,
+    "geom:longitude":-64.18333,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19185,
+    "gn:population":19185,
+    "iso:country":"AR",
+    "lbl:latitude":-25.08333,
+    "lbl:longitude":-64.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0643\u064a\u0646 \u063a\u0648\u0646\u0632\u0627\u0644\u064a\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u5091\u6606\u5ca1\u85a9\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
+    "name:eng_x_preferred":[
+        "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
+    "name:fre_x_preferred":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
+    "name:ger_x_preferred":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
+    "name:por_x_preferred":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
+    "name:spa_x_preferred":[
+        "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
+    "name:swe_x_preferred":[
+        "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0430\u043a\u0456\u043d-\u0412\u0456\u043a\u0442\u043e\u0440-\u0413\u043e\u043d\u0441\u0430\u043b\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "J.V. Gonz\u00e1lez"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3853491,
+    "qs_pg:gn_pop":19185,
+    "qs_pg:name":"Joaqu\u00edn V. Gonz\u00e1lez",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":150474,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421183903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853491,
+        "qs_pg:id":150474,
+        "wd:id":"Q1014965"
+    },
+    "wof:country":"AR",
+    "wof:created":1497291593,
+    "wof:geomhash":"648631bf06d30c40679f3f82770cc58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183903,
+            "locality_id":1125809365,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1125809365,
+    "wof:lastmodified":1513889208,
+    "wof:name":"Joaqu\u00edn V. Gonz\u00e1lez",
+    "wof:parent_id":421183903,
+    "wof:placetype":"locality",
+    "wof:population":19185,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.18333,
+    -25.08333,
+    -64.18333,
+    -25.08333
+],
+  "geometry": {"coordinates":[-64.18333,-25.08333],"type":"Point"}
+}

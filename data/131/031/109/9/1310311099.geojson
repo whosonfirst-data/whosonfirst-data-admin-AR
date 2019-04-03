@@ -1,0 +1,72 @@
+{
+  "id": 1310311099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59887,-45.96098,-70.59887,-45.96098",
+    "geom:latitude":-45.96098,
+    "geom:longitude":-70.59887,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"26084.0",
+    "gn:asciiname":"Paso Guenguel",
+    "gn:country_code":"AR",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841860,
+    "gn:latitude":-45.96098,
+    "gn:longitude":-70.59887,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Guenguel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D. Casanova",
+        "Paso Guenguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841860
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"30c657aeb9b7dfdc7febeeddb9871288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "locality_id":1310311099,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1310311099,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paso Guenguel",
+    "wof:parent_id":421171527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59886999999998,
+    -45.96098,
+    -70.59886999999998,
+    -45.96098
+],
+  "geometry": {"coordinates":[-70.59886999999998,-45.96098],"type":"Point"}
+}

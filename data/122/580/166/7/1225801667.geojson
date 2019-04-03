@@ -1,0 +1,73 @@
+{
+  "id": 1225801667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.98136,-28.40382,-63.98136,-28.40382",
+    "geom:latitude":-28.40382,
+    "geom:longitude":-63.98136,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86105.0",
+    "gn:asciiname":"Tio Pozo",
+    "gn:country_code":"AR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834340,
+    "gn:latitude":-28.40382,
+    "gn:longitude":-63.98136,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"T\u00edo Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiu Pozo",
+        "T\u00edo Pozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834340,
+        "wk:page":"T%C3%ADo_Pozo"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a567672135708984220b993c1cdf9895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718493,
+            "locality_id":1225801667,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1225801667,
+    "wof:lastmodified":1537584835,
+    "wof:name":"Tio Pozo",
+    "wof:parent_id":1108718493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.98136,
+    -28.40382,
+    -63.98136,
+    -28.40382
+],
+  "geometry": {"coordinates":[-63.98136,-28.40382],"type":"Point"}
+}

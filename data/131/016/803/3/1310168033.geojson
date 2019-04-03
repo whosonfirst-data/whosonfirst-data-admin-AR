@@ -1,0 +1,73 @@
+{
+  "id": 1310168033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.88443,-33.46019,-65.88443,-33.46019",
+    "geom:latitude":-33.46019,
+    "geom:longitude":-65.88443,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74021.0",
+    "gn:asciiname":"Comandante Granville",
+    "gn:country_code":"AR",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860468,
+    "gn:latitude":-33.46019,
+    "gn:longitude":-65.88443,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Comandante Granville",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granville",
+        "Comte Granville",
+        "Comandante Granville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421203353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860468
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"86db1e51802d71f580224c2070e23dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203353,
+            "locality_id":1310168033,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1310168033,
+    "wof:lastmodified":1537584889,
+    "wof:name":"Comandante Granville",
+    "wof:parent_id":421203353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.88443000000001,
+    -33.46019,
+    -65.88443000000001,
+    -33.46019
+],
+  "geometry": {"coordinates":[-65.88443000000001,-33.46019],"type":"Point"}
+}

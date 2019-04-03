@@ -1,0 +1,95 @@
+{
+  "id": 421195735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.27699,-35.00559,-59.27699,-35.00559",
+    "geom:latitude":-35.00559,
+    "geom:longitude":-59.27699,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Navarro"
+    ],
+    "name:eng_x_preferred":[
+        "Navarro"
+    ],
+    "name:ita_x_preferred":[
+        "Navarro"
+    ],
+    "name:por_x_preferred":[
+        "Navarro"
+    ],
+    "name:spa_x_preferred":[
+        "Navarro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u0440\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430457,
+    "qs:gn_pop":0,
+    "qs:name":"Navarro",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":210,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":210,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1230056,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467329,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430457,
+        "gp:id":467329,
+        "qs:id":1230056,
+        "wd:id":"Q2065753"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009857,
+    "wof:geomhash":"50c4faa668fb259c5edc1a8789cd0d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718035,
+            "locality_id":421195735,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195735,
+    "wof:lastmodified":1513889307,
+    "wof:name":"Navarro",
+    "wof:parent_id":1108718035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.27699,
+    -35.00559,
+    -59.27699,
+    -35.00559
+],
+  "geometry": {"coordinates":[-59.27699,-35.00559],"type":"Point"}
+}

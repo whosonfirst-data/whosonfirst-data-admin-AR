@@ -1,0 +1,79 @@
+{
+  "id": 421196321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.07333,-38.8568,-60.07333,-38.8568",
+    "geom:latitude":-38.8568,
+    "geom:longitude":-60.07333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Claromeco"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3864887,
+    "qs:gn_pop":0,
+    "qs:name":"Balneario Claromec\u00f3",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":257,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":257,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":967993,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467131,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864887,
+        "gp:id":467131,
+        "qs:id":967993
+    },
+    "wof:country":"AR",
+    "wof:created":1459009877,
+    "wof:geomhash":"8449fbe07de0837076e4ac4bdc34b92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718125,
+            "locality_id":421196321,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421196321,
+    "wof:lastmodified":1501268883,
+    "wof:name":"Balneario Claromec\u00f3",
+    "wof:parent_id":1108718125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.07333,
+    -38.8568,
+    -60.07333,
+    -38.8568
+],
+  "geometry": {"coordinates":[-60.07333,-38.8568],"type":"Point"}
+}

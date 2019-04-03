@@ -1,0 +1,95 @@
+{
+  "id": 421173913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61693,-33.70029,-61.61693,-33.70029",
+    "geom:latitude":-33.70029,
+    "geom:longitude":-61.61693,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Elortondo"
+    ],
+    "name:eng_x_preferred":[
+        "Elortondo"
+    ],
+    "name:por_x_preferred":[
+        "Anexo:Lista de munic\u00edpios de Santa F\u00e9#Comunas"
+    ],
+    "name:spa_x_preferred":[
+        "Elortondo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u043e\u0440\u0442\u043e\u043d\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Elertondo"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3857431,
+    "qs:gn_pop":0,
+    "qs:name":"Elortondo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":304408,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467217,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857431,
+        "gp:id":467217,
+        "qs:id":304408,
+        "wd:id":"Q10751520"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009010,
+    "wof:geomhash":"7896f287550e4978caf4d543c3150739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421173913,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421173913,
+    "wof:lastmodified":1513889161,
+    "wof:name":"Elortondo",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61693,
+    -33.70029,
+    -61.61693,
+    -33.70029
+],
+  "geometry": {"coordinates":[-61.61693,-33.70029],"type":"Point"}
+}

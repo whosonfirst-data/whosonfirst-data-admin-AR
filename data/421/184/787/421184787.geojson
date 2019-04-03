@@ -1,0 +1,103 @@
+{
+  "id": 421184787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43287,-32.34617,-58.43287,-32.34617",
+    "geom:latitude":-32.34617,
+    "geom:longitude":-58.43287,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "name:dut_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "name:eng_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0440\u043e\u043d\u04af\u043d\u0441\u0438\u0430\u043c\u0438\u044d\u043d\u0442\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "name:spa_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "name:swe_x_preferred":[
+        "Pronunciamiento"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429843,
+    "qs:gn_pop":1301,
+    "qs:name":"Pronunciamiento",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1010241,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466199,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429843,
+        "gp:id":466199,
+        "qs:id":1010241,
+        "wd:id":"Q7249966",
+        "wk:page":"Pronunciamiento, Entre R\u00edos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009422,
+    "wof:geomhash":"b362f650de5237261a7895ec81c6a430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":421184787,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421184787,
+    "wof:lastmodified":1527716456,
+    "wof:name":"Pronunciamiento",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:population":1301,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43287,
+    -32.34617,
+    -58.43287,
+    -32.34617
+],
+  "geometry": {"coordinates":[-58.43287,-32.34617],"type":"Point"}
+}

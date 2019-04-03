@@ -1,0 +1,72 @@
+{
+  "id": 1293263119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.31667,-27.48333,-55.31667,-27.48333",
+    "geom:latitude":-27.48333,
+    "geom:longitude":-55.31667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54070.0",
+    "gn:asciiname":"Caa Yari",
+    "gn:country_code":"AR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435879,
+    "gn:latitude":-27.48333,
+    "gn:longitude":-55.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00e1 Yar\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435879,
+        "wk:page":"Ca%C3%A1_Yar%C3%AD"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"234c6290d6dbe1c67054235a837e53d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718371,
+            "locality_id":1293263119,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1293263119,
+    "wof:lastmodified":1537584828,
+    "wof:name":"Caa Yari",
+    "wof:parent_id":1108718371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.31667,
+    -27.48333,
+    -55.31667,
+    -27.48333
+],
+  "geometry": {"coordinates":[-55.31667,-27.48333],"type":"Point"}
+}

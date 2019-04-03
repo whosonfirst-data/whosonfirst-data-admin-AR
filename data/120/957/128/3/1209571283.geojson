@@ -1,0 +1,68 @@
+{
+  "id": 1209571283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-26.96667,-65.28333,-26.96667",
+    "geom:latitude":-26.96667,
+    "geom:longitude":-65.28333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"Manuel Garcia Fernandez",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844962,
+    "gn:latitude":-26.96667,
+    "gn:longitude":-65.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Manuel Garc\u00eda Fern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M.G. Fern\u00e1ndez",
+        "M. Garc\u00eda Fern\u00e1ndez",
+        "Manuel Garc\u00eda Fern\u00e1ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844962
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4ae40cfb0586299a76dae8c905fd19f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209571283
+        }
+    ],
+    "wof:id":1209571283,
+    "wof:lastmodified":1537584858,
+    "wof:name":"Manuel Garcia Fernandez",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -26.96667,
+    -65.28333,
+    -26.96667
+],
+  "geometry": {"coordinates":[-65.28333000000001,-26.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210002249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.45311,-32.33344,-59.45311,-32.33344",
+    "geom:latitude":-32.33344,
+    "geom:longitude":-59.45311,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30091.0",
+    "gn:asciiname":"Olegario V. Andrade",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430315,
+    "gn:latitude":-32.33344,
+    "gn:longitude":-59.45311,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olegario V. Andrade",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andrade",
+        "Olegario V. Andrade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430315
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"849845b06229bcb420712e7034406569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718257,
+            "locality_id":1210002249,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1210002249,
+    "wof:lastmodified":1537584820,
+    "wof:name":"Olegario V. Andrade",
+    "wof:parent_id":1108718257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.45311,
+    -32.33344,
+    -59.45311,
+    -32.33344
+],
+  "geometry": {"coordinates":[-59.45311,-32.33344],"type":"Point"}
+}

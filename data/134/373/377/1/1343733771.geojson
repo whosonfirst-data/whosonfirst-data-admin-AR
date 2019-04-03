@@ -1,0 +1,68 @@
+{
+  "id": 1343733771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.13489,-23.25444,-64.13489,-23.25444",
+    "geom:latitude":-23.25444,
+    "geom:longitude":-64.13489,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66126.0",
+    "gn:asciiname":"Manuel Elordi",
+    "gn:country_code":"AR",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844963,
+    "gn:latitude":-23.25444,
+    "gn:longitude":-64.13489,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Manuel Elordi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844963
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a4621ed2eb40100f1970dd13569878d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718413,
+            "locality_id":1343733771,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1343733771,
+    "wof:lastmodified":1536848339,
+    "wof:name":"Manuel Elordi",
+    "wof:parent_id":1108718413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.13489,
+    -23.25444,
+    -64.13489,
+    -23.25444
+],
+  "geometry": {"coordinates":[-64.13489,-23.25444],"type":"Point"}
+}

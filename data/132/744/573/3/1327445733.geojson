@@ -1,0 +1,68 @@
+{
+  "id": 1327445733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.58939,-37.02024,-60.58939,-37.02024",
+    "geom:latitude":-37.02024,
+    "geom:longitude":-60.58939,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6595.0",
+    "gn:asciiname":"Pourtale",
+    "gn:country_code":"AR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840606,
+    "gn:latitude":-37.02024,
+    "gn:longitude":-60.58939,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pourtal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840606
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ab185ce57ce050f4d4a014888479b30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718043,
+            "locality_id":1327445733,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327445733,
+    "wof:lastmodified":1536661478,
+    "wof:name":"Pourtale",
+    "wof:parent_id":1108718043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.58939,
+    -37.02024,
+    -60.58939,
+    -37.02024
+],
+  "geometry": {"coordinates":[-60.58939,-37.02024],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 421196933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.69463,-26.40842,-54.69463,-26.40842",
+    "geom:latitude":-26.40842,
+    "geom:longitude":-54.69463,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0631\u0627\u062f\u0648\u060c \u0645\u064a\u0633\u064a\u0648\u0646\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u200c\u062f\u0648\u0631\u0627\u062f\u0648\u060c \u0645\u06cc\u0633\u06cc\u0648\u0646\u0632"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u591a\u62c9\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "Eldorado"
+    ],
+    "name:eng_x_preferred":[
+        "Eldorado"
+    ],
+    "name:fre_x_preferred":[
+        "Eldorado"
+    ],
+    "name:ger_x_preferred":[
+        "Eldorado"
+    ],
+    "name:grn_x_preferred":[
+        "Eldorado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30c9\u30e9\u30c9"
+    ],
+    "name:lit_x_preferred":[
+        "Eldoradas"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u200c\u062f\u0648\u0631\u0627\u062f\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Eldorado"
+    ],
+    "name:por_x_preferred":[
+        "Eldorado"
+    ],
+    "name:spa_x_preferred":[
+        "Eldorado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Eldorado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429790,
+    "qs:gn_pop":54189,
+    "qs:name":"Puerto Eldorado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":833248,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466245,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429790,
+        "gp:id":466245,
+        "qs:id":833248,
+        "wd:id":"Q1325690",
+        "wk:page":"Eldorado Department"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009897,
+    "wof:geomhash":"86d59639b5c8e0e22d15370718330441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "locality_id":421196933,
+            "region_id":85676723
+        }
+    ],
+    "wof:id":421196933,
+    "wof:lastmodified":1553816384,
+    "wof:name":"Puerto Eldorado",
+    "wof:parent_id":85676723,
+    "wof:placetype":"locality",
+    "wof:population":54189,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.69463,
+    -26.40842,
+    -54.69463,
+    -26.40842
+],
+  "geometry": {"coordinates":[-54.69463,-26.40842],"type":"Point"}
+}

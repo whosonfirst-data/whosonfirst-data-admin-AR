@@ -1,0 +1,68 @@
+{
+  "id": 1343325045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.39167,-31.41917,-70.39167,-31.41917",
+    "geom:latitude":-31.41917,
+    "geom:longitude":-70.39167,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"70021.0",
+    "gn:asciiname":"Pirca Las Juntas",
+    "gn:country_code":"AR",
+    "gn:dem":3128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949811,
+    "gn:latitude":-31.41917,
+    "gn:longitude":-70.39167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pirca Las Juntas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421171513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949811
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c7dbd956c54aa6d53bbe5bc6a67af9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171513,
+            "locality_id":1343325045,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1343325045,
+    "wof:lastmodified":1536942398,
+    "wof:name":"Pirca Las Juntas",
+    "wof:parent_id":421171513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.39166999999998,
+    -31.41917,
+    -70.39166999999998,
+    -31.41917
+],
+  "geometry": {"coordinates":[-70.39166999999998,-31.41917],"type":"Point"}
+}

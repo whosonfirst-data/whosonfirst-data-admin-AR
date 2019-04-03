@@ -1,0 +1,121 @@
+{
+  "id": 421185865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.32241,-31.16486,-64.32241,-31.16486",
+    "geom:latitude":-31.16486,
+    "geom:longitude":-64.32241,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Ceballos"
+    ],
+    "name:unk_x_variant":[
+        "R\u00edo Zeballos"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838902,
+    "qs:gn_pop":16632,
+    "qs:name":"R\u00edo Ceballos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1053929,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466370,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838902,
+        "gp:id":466370,
+        "qs:id":1053929,
+        "wd:id":"Q990605",
+        "wk:page":"R\u00edo Ceballos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009457,
+    "wof:geomhash":"bc6a5bbe6428c89dfca740a7f50835b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421185865,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421185865,
+    "wof:lastmodified":1527726510,
+    "wof:name":"R\u00edo Ceballos",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:population":16632,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.32241,
+    -31.16486,
+    -64.32241,
+    -31.16486
+],
+  "geometry": {"coordinates":[-64.32241,-31.16486],"type":"Point"}
+}

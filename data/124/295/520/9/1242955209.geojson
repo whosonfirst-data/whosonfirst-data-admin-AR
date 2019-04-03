@@ -1,0 +1,68 @@
+{
+  "id": 1242955209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.08333,-39.61667,-67.08333,-39.61667",
+    "geom:latitude":-39.61667,
+    "geom:longitude":-67.08333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62014.0",
+    "gn:asciiname":"Menucos",
+    "gn:country_code":"AR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844409,
+    "gn:latitude":-39.61667,
+    "gn:longitude":-67.08333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Menucos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844409
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"46aa861c6362c49224675284cbf4a917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718387,
+            "locality_id":1242955209,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1242955209,
+    "wof:lastmodified":1537016125,
+    "wof:name":"Menucos",
+    "wof:parent_id":1108718387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.08333,
+    -39.61667,
+    -67.08333,
+    -39.61667
+],
+  "geometry": {"coordinates":[-67.08333,-39.61667],"type":"Point"}
+}

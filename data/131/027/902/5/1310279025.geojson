@@ -1,0 +1,71 @@
+{
+  "id": 1310279025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.26,-28.41265,-59.26,-28.41265",
+    "geom:latitude":-28.41265,
+    "geom:longitude":-59.26,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82049.0",
+    "gn:asciiname":"Tacuarendi",
+    "gn:country_code":"AR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427877,
+    "gn:latitude":-28.41265,
+    "gn:longitude":-59.26,
+    "gn:modification_date":"2016-03-20",
+    "gn:name":"Tacuarend\u00ed",
+    "gn:population":3067,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421183345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427877
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"55dd3e88315ce0298590d1a620f81393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183345,
+            "locality_id":1310279025,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1310279025,
+    "wof:lastmodified":1536745876,
+    "wof:name":"Tacuarendi",
+    "wof:parent_id":421183345,
+    "wof:placetype":"locality",
+    "wof:population":3067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.26,
+    -28.41265,
+    -59.26,
+    -28.41265
+],
+  "geometry": {"coordinates":[-59.26,-28.41265],"type":"Point"}
+}

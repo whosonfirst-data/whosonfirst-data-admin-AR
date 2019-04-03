@@ -1,0 +1,69 @@
+{
+  "id": 1243549823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.87858,-32.37213,-58.87858,-32.37213",
+    "geom:latitude":-32.37213,
+    "geom:longitude":-58.87858,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30098.0",
+    "gn:asciiname":"Basavilbaso",
+    "gn:country_code":"AR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436099,
+    "gn:latitude":-32.37213,
+    "gn:longitude":-58.87858,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Basavilbaso",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436099,
+        "wk:page":"Basavilbaso"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6d6ea6a7df90b347e53bab79f272d3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":1243549823,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1243549823,
+    "wof:lastmodified":1537486300,
+    "wof:name":"Basavilbaso",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.87858000000001,
+    -32.37213,
+    -58.87858000000001,
+    -32.37213
+],
+  "geometry": {"coordinates":[-58.87858000000001,-32.37213],"type":"Point"}
+}

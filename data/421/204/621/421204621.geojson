@@ -1,0 +1,246 @@
+{
+  "id": 421204621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.93343,-37.45467,-61.93343,-37.45467",
+    "geom:latitude":-37.45467,
+    "geom:longitude":-61.93343,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:chi_x_preferred":[
+        "\u8607\u4e9e\u96f7\u65af\u4e0a\u6821\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:dut_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:fra_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:fre_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:ger_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:grn_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:ita_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ed\u30cd\u30eb\u30fb\u30b9\u30a2\u30ec\u30b9"
+    ],
+    "name:nah_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:nld_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:nno_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:nob_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:por_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:ron_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:rum_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0421\u0443\u0430\u0440\u0435\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b \u0421\u0443\u0430\u0440\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0421\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:war_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3860164,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Coronel Suarez",
+    "ne:GN_POP":27000,
+    "ne:GTOPO30":228.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-37.466616,
+    "ne:LONGITUDE":-61.916619,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Coronel Suarez",
+    "ne:MAX_AREAKM":13.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-61.9,
+    "ne:MAX_BBXMIN":-61.95,
+    "ne:MAX_BBYMAX":-37.441667,
+    "ne:MAX_BBYMIN":-37.475,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":17.0,
+    "ne:MAX_PERMI":11.0,
+    "ne:MAX_POP10":14426,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-61.927412,
+    "ne:MEAN_BBYC":-37.457675,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":13.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-61.9,
+    "ne:MIN_BBXMIN":-61.95,
+    "ne:MIN_BBYMAX":-37.441667,
+    "ne:MIN_BBYMIN":-37.475,
+    "ne:MIN_PERKM":17.0,
+    "ne:MIN_PERMI":11.0,
+    "ne:NAME":"Coronel Suarez",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Coronel Suarez",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":27000,
+    "ne:POP_MIN":14426,
+    "ne:POP_OTHER":14426,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860164,
+    "qs:gn_pop":27000,
+    "qs:name":"Coronel Su\u00e1rez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":200,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":200,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":242771,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466941,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860164,
+        "gp:id":466941,
+        "qs:id":242771,
+        "wd:id":"Q3693997",
+        "wk:page":"Coronel Su\u00e1rez"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"9f4eda67c96ea3a0acdb23078a67611c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717909,
+            "locality_id":421204621,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204621,
+    "wof:lastmodified":1513889133,
+    "wof:name":"Coronel Su\u00e1rez",
+    "wof:parent_id":1108717909,
+    "wof:placetype":"locality",
+    "wof:population":27000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.93343,
+    -37.45467,
+    -61.93343,
+    -37.45467
+],
+  "geometry": {"coordinates":[-61.93343,-37.45467],"type":"Point"}
+}

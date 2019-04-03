@@ -1,0 +1,63 @@
+{
+  "id": 1209398305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.70681,-27.56827,-55.70681,-27.56827",
+    "geom:latitude":-27.56827,
+    "geom:longitude":-55.70681,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54021.0",
+    "gn:asciiname":"Profundidad",
+    "gn:country_code":"AR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429847,
+    "gn:latitude":-27.56827,
+    "gn:longitude":-55.70681,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Profundidad",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429847,
+        "wk:page":"Profundidad%2C_Misiones"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f8a353e8fe99e09f8e604fc8b4e8e834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209398305
+        }
+    ],
+    "wof:id":1209398305,
+    "wof:lastmodified":1537486294,
+    "wof:name":"Profundidad",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.70681,
+    -27.56827,
+    -55.70681,
+    -27.56827
+],
+  "geometry": {"coordinates":[-55.70681,-27.56827],"type":"Point"}
+}

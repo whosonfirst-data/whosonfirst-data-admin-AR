@@ -1,0 +1,68 @@
+{
+  "id": 1277065733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36667,-22.45,-65.36667,-22.45",
+    "geom:latitude":-22.45,
+    "geom:longitude":-65.36667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"38112.0",
+    "gn:asciiname":"Corral Blanco",
+    "gn:country_code":"AR",
+    "gn:dem":3868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860138,
+    "gn:latitude":-22.45,
+    "gn:longitude":-65.36667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Corral Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421174419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860138
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b96a1eaf4820f74ff9cedb3a96febd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174419,
+            "locality_id":1277065733,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1277065733,
+    "wof:lastmodified":1536792206,
+    "wof:name":"Corral Blanco",
+    "wof:parent_id":421174419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36667,
+    -22.45,
+    -65.36667,
+    -22.45
+],
+  "geometry": {"coordinates":[-65.36667,-22.45],"type":"Point"}
+}

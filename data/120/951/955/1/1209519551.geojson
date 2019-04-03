@@ -1,0 +1,62 @@
+{
+  "id": 1209519551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.72001,-36.36443,-62.72001,-36.36443",
+    "geom:latitude":-36.36443,
+    "geom:longitude":-62.72001,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6826.0",
+    "gn:asciiname":"La Portena",
+    "gn:country_code":"AR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3849343,
+    "gn:latitude":-36.36443,
+    "gn:longitude":-62.72001,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Porte\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849343
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"424d2ac18c134bfd1d5bc509b5443f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209519551
+        }
+    ],
+    "wof:id":1209519551,
+    "wof:lastmodified":1536284624,
+    "wof:name":"La Portena",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.72001,
+    -36.36443,
+    -62.72001,
+    -36.36443
+],
+  "geometry": {"coordinates":[-62.72001,-36.36443],"type":"Point"}
+}

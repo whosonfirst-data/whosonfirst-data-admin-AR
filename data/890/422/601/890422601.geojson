@@ -1,0 +1,86 @@
+{
+  "id": 890422601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.06842,-26.85545,-59.06842,-26.85545",
+    "geom:latitude":-26.85545,
+    "geom:longitude":-59.06842,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3816,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "La Eduvigis"
+    ],
+    "name:eng_x_preferred":[
+        "La Eduvigis"
+    ],
+    "name:por_x_preferred":[
+        "La Eduvigis"
+    ],
+    "name:spa_x_preferred":[
+        "La Eduvigis"
+    ],
+    "name:swe_x_preferred":[
+        "La Eduvigis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06cc\u062f\u0648\u0648\u06cc\u06af\u06cc\u0633"
+    ],
+    "qs:name":"La Eduvigis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432707,
+        "qs:id":583292,
+        "wd:id":"Q1657326",
+        "wk:page":"La Eduvigis"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051455,
+    "wof:geomhash":"39c772ee832be870c15061de711c4ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718207,
+            "locality_id":890422601,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890422601,
+    "wof:lastmodified":1527727164,
+    "wof:name":"La Eduvigis",
+    "wof:parent_id":1108718207,
+    "wof:placetype":"locality",
+    "wof:population":3816,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.06842,
+    -26.85545,
+    -59.06842,
+    -26.85545
+],
+  "geometry": {"coordinates":[-59.06842,-26.85545],"type":"Point"}
+}

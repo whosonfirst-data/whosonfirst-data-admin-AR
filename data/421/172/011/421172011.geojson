@@ -1,0 +1,135 @@
+{
+  "id": 421172011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93173,-31.4488,-60.93173,-31.4488",
+    "geom:latitude":-31.4488,
+    "geom:longitude":-60.93173,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u067e\u0631\u0627\u0646\u0633\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "name:deu_x_preferred":[
+        "Esperanza"
+    ],
+    "name:dut_x_preferred":[
+        "Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "Esperanza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0631\u0627\u0646\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ger_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "Esperanza"
+    ],
+    "name:nld_x_preferred":[
+        "Esperanza"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u067e\u0631\u0627\u0646\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Esperanza"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3856022,
+    "qs:gn_pop":35885,
+    "qs:name":"Esperanza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":86,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150513,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466955,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-31.416667,
+    "wd:longitude":-60.933333,
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856022,
+        "gp:id":466955,
+        "qs:id":150513,
+        "wd:id":"Q1368165",
+        "wk:page":"Esperanza, Santa Fe"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008916,
+    "wof:geomhash":"8e82ade31768c43b4fc69e064a65f8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":421172011,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421172011,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Esperanza",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:population":35885,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93173,
+    -31.4488,
+    -60.93173,
+    -31.4488
+],
+  "geometry": {"coordinates":[-60.93173,-31.4488],"type":"Point"}
+}

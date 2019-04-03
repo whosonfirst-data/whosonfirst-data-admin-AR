@@ -1,0 +1,92 @@
+{
+  "id": 421186897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.5,-37.83333,-57.5,-37.83333",
+    "geom:latitude":-37.83333,
+    "geom:longitude":-57.5,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Santa Clara del Mar"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Clara del Mar"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Clara del Mar"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Clara del Mar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430-\u0434\u0435\u043b\u044c-\u041c\u0430\u0440"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428373,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Clara del Mar",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1076980,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":22528566,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428373,
+        "gp:id":22528566,
+        "qs:id":1076980,
+        "wd:id":"Q3504675"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009495,
+    "wof:geomhash":"832a054f69a6fbabe527c221823d8197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718017,
+            "locality_id":421186897,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186897,
+    "wof:lastmodified":1513889470,
+    "wof:name":"Santa Clara del Mar",
+    "wof:parent_id":1108718017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.5,
+    -37.83333,
+    -57.5,
+    -37.83333
+],
+  "geometry": {"coordinates":[-57.5,-37.83333],"type":"Point"}
+}

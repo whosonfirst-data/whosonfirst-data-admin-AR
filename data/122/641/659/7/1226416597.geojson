@@ -1,0 +1,75 @@
+{
+  "id": 1226416597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.71759,-33.1831,-60.71759,-33.1831",
+    "geom:latitude":-33.1831,
+    "geom:longitude":-60.71759,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82084.0",
+    "gn:asciiname":"Coronel Rodolfo S. Dominguez",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860169,
+    "gn:latitude":-33.1831,
+    "gn:longitude":-60.71759,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coronel Rodolfo S. Dom\u00ednguez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coronel Rodolpho San Dominguez",
+        "Dom\u00ednguez",
+        "C.R.S. Dom\u00ednguez",
+        "Coronel R. S. Dom\u00ednguez",
+        "Coronel Rodolfo S. Dom\u00ednguez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860169
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9f8a81c68979afa4a468b8811e60f5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":1226416597,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226416597,
+    "wof:lastmodified":1537584888,
+    "wof:name":"Coronel Rodolfo S. Dominguez",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.71759,
+    -33.1831,
+    -60.71759,
+    -33.1831
+],
+  "geometry": {"coordinates":[-60.71759,-33.1831],"type":"Point"}
+}

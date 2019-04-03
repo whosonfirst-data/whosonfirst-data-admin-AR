@@ -1,0 +1,72 @@
+{
+  "id": 1243156729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.87485,-23.86821,-60.87485,-23.86821",
+    "geom:latitude":-23.86821,
+    "geom:longitude":-60.87485,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34007.0",
+    "gn:asciiname":"Fortin Pilcomayo",
+    "gn:country_code":"AR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855430,
+    "gn:latitude":-23.86821,
+    "gn:longitude":-60.87485,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fort\u00edn Pilcomayo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort\u00edn Nuevo Pilcomayo",
+        "Fort\u00edn Pilcomayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855430
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7c75d6b72ee61e041de12dd037ee762e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718261,
+            "locality_id":1243156729,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1243156729,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Fortin Pilcomayo",
+    "wof:parent_id":1108718261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.87485,
+    -23.86821,
+    -60.87485,
+    -23.86821
+],
+  "geometry": {"coordinates":[-60.87485,-23.86821],"type":"Point"}
+}

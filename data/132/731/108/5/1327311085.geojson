@@ -1,0 +1,72 @@
+{
+  "id": 1327311085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88231,-30.04681,-66.88231,-30.04681",
+    "geom:latitude":-30.04681,
+    "geom:longitude":-66.88231,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46105.0",
+    "gn:asciiname":"Patquia",
+    "gn:country_code":"AR",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3841769,
+    "gn:latitude":-30.04681,
+    "gn:longitude":-66.88231,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Patqu\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patqu\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841769,
+        "wk:page":"Patqu%C3%ADa"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4dd6489e4bab4cad9c242ec629ee627f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718345,
+            "locality_id":1327311085,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1327311085,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Patquia",
+    "wof:parent_id":1108718345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88231,
+    -30.04681,
+    -66.88231,
+    -30.04681
+],
+  "geometry": {"coordinates":[-66.88231,-30.04681],"type":"Point"}
+}

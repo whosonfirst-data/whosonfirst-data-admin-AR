@@ -1,0 +1,73 @@
+{
+  "id": 1310479683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.03272,-36.20946,-64.03272,-36.20946",
+    "geom:latitude":-36.20946,
+    "geom:longitude":-64.03272,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42035.0",
+    "gn:asciiname":"Mauricio Mayer",
+    "gn:country_code":"AR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844671,
+    "gn:latitude":-36.20946,
+    "gn:longitude":-64.03272,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mauricio Mayer",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mauricio Meyer",
+        "Mauricio Mayer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844671,
+        "wk:page":"Mauricio_Mayer"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d56d736b5d9d6b5fdf1b61ee6416bcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718295,
+            "locality_id":1310479683,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1310479683,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Mauricio Mayer",
+    "wof:parent_id":1108718295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.03272,
+    -36.20946,
+    -64.03272,
+    -36.20946
+],
+  "geometry": {"coordinates":[-64.03272,-36.20946],"type":"Point"}
+}

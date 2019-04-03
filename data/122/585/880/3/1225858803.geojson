@@ -1,0 +1,68 @@
+{
+  "id": 1225858803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.20833,-38.99272,-61.20833,-38.99272",
+    "geom:latitude":-38.99272,
+    "geom:longitude":-61.20833,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6553.0",
+    "gn:asciiname":"Balneario Sauce Grande",
+    "gn:country_code":"AR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949844,
+    "gn:latitude":-38.99272,
+    "gn:longitude":-61.20833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balneario Sauce Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949844
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ec03b3970798ecb60a59668280490b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718029,
+            "locality_id":1225858803,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1225858803,
+    "wof:lastmodified":1536993915,
+    "wof:name":"Balneario Sauce Grande",
+    "wof:parent_id":1108718029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20833,
+    -38.99272,
+    -61.20833,
+    -38.99272
+],
+  "geometry": {"coordinates":[-61.20833,-38.99272],"type":"Point"}
+}

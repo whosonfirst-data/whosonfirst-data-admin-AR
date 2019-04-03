@@ -1,0 +1,68 @@
+{
+  "id": 1343931923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.55687,-33.41578,-60.55687,-33.41578",
+    "geom:latitude":-33.41578,
+    "geom:longitude":-60.55687,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82028.0",
+    "gn:asciiname":"Stephenson",
+    "gn:country_code":"AR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835032,
+    "gn:latitude":-33.41578,
+    "gn:longitude":-60.55687,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Stephenson",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835032
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"79aead77a41ec3a733b0953c6cfdf56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171517,
+            "locality_id":1343931923,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1343931923,
+    "wof:lastmodified":1537058692,
+    "wof:name":"Stephenson",
+    "wof:parent_id":421171517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.55687,
+    -33.41578,
+    -60.55687,
+    -33.41578
+],
+  "geometry": {"coordinates":[-60.55687,-33.41578],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 421191645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.8173,-33.59682,-59.8173,-33.59682",
+    "geom:latitude":-33.59682,
+    "geom:longitude":-59.8173,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:epo_x_preferred":[
+        "Batalo de Vuelta de Obligado"
+    ],
+    "name:fra_x_preferred":[
+        "Bataille de la Vuelta de Obligado"
+    ],
+    "name:oci_x_preferred":[
+        "Batalha de la Vuelta de Obligado"
+    ],
+    "name:pol_x_preferred":[
+        "Bitwa nad Vuelta de Obligado"
+    ],
+    "name:por_x_preferred":[
+        "Batalha da Vuelta de Obligado"
+    ],
+    "name:spa_x_preferred":[
+        "Batalla de la Vuelta de Obligado"
+    ],
+    "name:unk_x_variant":[
+        "Punto Obligado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427330,
+    "qs:gn_pop":0,
+    "qs:name":"Vuelta de Obligado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1149919,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466817,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1678,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427330,
+        "gp:id":466817,
+        "qs:id":1149919,
+        "wd:id":"Q2890596"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009700,
+    "wof:geomhash":"13328f0c23c76290c22fdf675e8b7b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718105,
+            "locality_id":421191645,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421191645,
+    "wof:lastmodified":1527716373,
+    "wof:name":"Vuelta de Obligado",
+    "wof:parent_id":1108718105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.8173,
+    -33.59682,
+    -59.8173,
+    -33.59682
+],
+  "geometry": {"coordinates":[-59.8173,-33.59682],"type":"Point"}
+}

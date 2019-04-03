@@ -1,0 +1,228 @@
+{
+  "id": 421204623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.3297,-33.22778,-60.3297,-33.22778",
+    "geom:latitude":-33.22778,
+    "geom:longitude":-60.3297,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b54\u65af\u8482\u5716\u897f\u7fc1\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "villa Constituci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30b3\u30f3\u30b9\u30c6\u30a3\u30c8\u30a5\u30b7\u30aa\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041a\u043e\u043d\u0441\u0442\u0456\u0442\u0443\u0441\u044c\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u65af\u8482\u5716\u897f\u7fc1\u93ae"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Santa Fe",
+    "ne:ADMIN1_COD":21,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":1,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3832778,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Villa Constitucion",
+    "ne:GN_POP":44271,
+    "ne:GTOPO30":50.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-33.230027,
+    "ne:LONGITUDE":-60.350022,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Villa Constitucion",
+    "ne:MAX_AREAKM":13.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-60.3,
+    "ne:MAX_BBXMIN":-60.35,
+    "ne:MAX_BBYMAX":-33.216667,
+    "ne:MAX_BBYMIN":-33.266667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":20.0,
+    "ne:MAX_PERMI":13.0,
+    "ne:MAX_POP10":16294,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.327778,
+    "ne:MEAN_BBYC":-33.237963,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":13.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-60.3,
+    "ne:MIN_BBXMIN":-60.35,
+    "ne:MIN_BBYMAX":-33.216667,
+    "ne:MIN_BBYMIN":-33.266667,
+    "ne:MIN_PERKM":20.0,
+    "ne:MIN_PERMI":13.0,
+    "ne:NAME":"Villa Constitucion",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa Constitucion",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":44271,
+    "ne:POP_MIN":16294,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832778,
+    "qs:gn_pop":44271,
+    "qs:name":"Villa Constituci\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":421,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":421,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":242797,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467082,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-33.233333,
+    "wd:longitude":-60.333333,
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832778,
+        "gp:id":467082,
+        "qs:id":242797,
+        "wd:id":"Q2584195",
+        "wk:page":"Villa Constituci\u00f3n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"a30bf8b387468f54007fb0458a08bd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171517,
+            "locality_id":421204623,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421204623,
+    "wof:lastmodified":1527716185,
+    "wof:name":"Villa Constituci\u00f3n",
+    "wof:parent_id":421171517,
+    "wof:placetype":"locality",
+    "wof:population":44271,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.3297,
+    -33.22778,
+    -60.3297,
+    -33.22778
+],
+  "geometry": {"coordinates":[-60.3297,-33.22778],"type":"Point"}
+}

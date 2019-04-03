@@ -1,0 +1,112 @@
+{
+  "id": 421191931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.40867,-27.14132,-55.40867,-27.14132",
+    "geom:latitude":-27.14132,
+    "geom:longitude":-55.40867,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Pip\u00f3"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u041f\u0456\u043f\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Santo Pip\u00f3"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428079,
+    "qs:gn_pop":5447,
+    "qs:name":"Santo Pip\u00f3",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1163859,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332179,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421180297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428079,
+        "gp:id":332179,
+        "qs:id":1163859,
+        "wd:id":"Q7420542",
+        "wk:page":"Santo Pip\u00f3"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009714,
+    "wof:geomhash":"9af633ea1a000902852b889a3b4e4874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180297,
+            "locality_id":421191931,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421191931,
+    "wof:lastmodified":1527716370,
+    "wof:name":"Santo Pip\u00f3",
+    "wof:parent_id":421180297,
+    "wof:placetype":"locality",
+    "wof:population":5447,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.40867,
+    -27.14132,
+    -55.40867,
+    -27.14132
+],
+  "geometry": {"coordinates":[-55.40867,-27.14132],"type":"Point"}
+}

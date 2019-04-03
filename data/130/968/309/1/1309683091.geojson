@@ -1,0 +1,68 @@
+{
+  "id": 1309683091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.16667,-25.68333,-54.16667,-25.68333",
+    "geom:latitude":-25.68333,
+    "geom:longitude":-54.16667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54049.0",
+    "gn:asciiname":"Guardaparque",
+    "gn:country_code":"AR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433642,
+    "gn:latitude":-25.68333,
+    "gn:longitude":-54.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Guardaparque",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433642
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6ee3c41b800bad482df79203ab333676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203245,
+            "locality_id":1309683091,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1309683091,
+    "wof:lastmodified":1536608407,
+    "wof:name":"Guardaparque",
+    "wof:parent_id":421203245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.16667,
+    -25.68333,
+    -54.16667,
+    -25.68333
+],
+  "geometry": {"coordinates":[-54.16667,-25.68333],"type":"Point"}
+}

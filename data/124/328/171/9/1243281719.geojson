@@ -1,0 +1,72 @@
+{
+  "id": 1243281719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.69405,-34.69286,-62.69405,-34.69286",
+    "geom:latitude":-34.69286,
+    "geom:longitude":-62.69405,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6392.0",
+    "gn:asciiname":"Santa Eleodora",
+    "gn:country_code":"AR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836292,
+    "gn:latitude":-34.69286,
+    "gn:longitude":-62.69405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santa Eleodora",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Eleadara",
+        "Santa Eleodora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836292
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aff13246cea072fe54bd7f7f7a8736dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717973,
+            "locality_id":1243281719,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243281719,
+    "wof:lastmodified":1537584840,
+    "wof:name":"Santa Eleodora",
+    "wof:parent_id":1108717973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.69405,
+    -34.69286,
+    -62.69405,
+    -34.69286
+],
+  "geometry": {"coordinates":[-62.69405,-34.69286],"type":"Point"}
+}

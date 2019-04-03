@@ -1,0 +1,91 @@
+{
+  "id": 421171581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.98655,-34.43903,-58.98655,-34.43903",
+    "geom:latitude":-34.43903,
+    "geom:longitude":-58.98655,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "F\u00e1tima"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e1tima"
+    ],
+    "name:spa_x_preferred":[
+        "F\u00e1tima"
+    ],
+    "name:unk_x_variant":[
+        "Empalme"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433964,
+    "qs:gn_pop":0,
+    "qs:name":"F\u00e1tima",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262726,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330647,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433964,
+        "gp:id":330647,
+        "qs:id":1262726,
+        "wd:id":"Q5511399",
+        "wk:page":"F\u00e1tima, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008899,
+    "wof:geomhash":"03713f5aab2f8155c7ed1b9d54033a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718057,
+            "locality_id":421171581,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421171581,
+    "wof:lastmodified":1527726486,
+    "wof:name":"F\u00e1tima",
+    "wof:parent_id":1108718057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.98655,
+    -34.43903,
+    -58.98655,
+    -34.43903
+],
+  "geometry": {"coordinates":[-58.98655,-34.43903],"type":"Point"}
+}

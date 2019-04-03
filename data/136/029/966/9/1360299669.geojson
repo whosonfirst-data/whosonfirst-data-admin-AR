@@ -1,0 +1,74 @@
+{
+  "id": 1360299669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.13333,-37.56667,-60.13333,-37.56667",
+    "geom:latitude":-37.56667,
+    "geom:longitude":-60.13333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6084.0",
+    "gn:asciiname":"Coronel Rodolfo Bunge",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860170,
+    "gn:latitude":-37.56667,
+    "gn:longitude":-60.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coronel Rodolfo Bunge",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coronel Bunge",
+        "Coronel R. Bunge",
+        "Coronel Rodolfo Bunge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860170
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b98ffb2e41f675870d774b610ed1ac61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717871,
+            "locality_id":1360299669,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1360299669,
+    "wof:lastmodified":1537584888,
+    "wof:name":"Coronel Rodolfo Bunge",
+    "wof:parent_id":1108717871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.13333000000001,
+    -37.56667,
+    -60.13333000000001,
+    -37.56667
+],
+  "geometry": {"coordinates":[-60.13333000000001,-37.56667],"type":"Point"}
+}

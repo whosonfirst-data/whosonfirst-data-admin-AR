@@ -1,0 +1,87 @@
+{
+  "id": 1293798009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.48703,-34.50747,-58.48703,-34.50747",
+    "geom:latitude":-34.50747,
+    "geom:longitude":-58.48703,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6861.0",
+    "gn:asciiname":"Olivos",
+    "gn:country_code":"AR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3430310,
+    "gn:latitude":-34.50747,
+    "gn:longitude":-58.48703,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Olivos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0644\u064a\u0641\u0648\u0633\u060c \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u0438\u0432\u043e\u0441"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0648\u0648\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10d8\u10d5\u10dd\u10e1\u10d8"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0456\u0432\u043e\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5229\u6c83\u65af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430310,
+        "wk:page":"Olivos%2C_Buenos_Aires"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4ef808a0d7f22a416bce820c0c81c2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718133,
+            "locality_id":1293798009,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293798009,
+    "wof:lastmodified":1537584820,
+    "wof:name":"Olivos",
+    "wof:parent_id":1108718133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.48703,
+    -34.50747,
+    -58.48703,
+    -34.50747
+],
+  "geometry": {"coordinates":[-58.48703,-34.50747],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209190667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87498,-23.10012,-64.87498,-23.10012",
+    "geom:latitude":-23.10012,
+    "geom:longitude":-64.87498,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66126.0",
+    "gn:asciiname":"Campo del Trigal",
+    "gn:country_code":"AR",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863176,
+    "gn:latitude":-23.10012,
+    "gn:longitude":-64.87498,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Campo del Trigal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863176
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c7132562b6accc22f5e5c98cbdc84be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209190667
+        }
+    ],
+    "wof:id":1209190667,
+    "wof:lastmodified":1536294946,
+    "wof:name":"Campo del Trigal",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87498000000001,
+    -23.10012,
+    -64.87498000000001,
+    -23.10012
+],
+  "geometry": {"coordinates":[-64.87498000000001,-23.10012],"type":"Point"}
+}

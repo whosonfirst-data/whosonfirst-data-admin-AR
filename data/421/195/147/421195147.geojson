@@ -1,0 +1,119 @@
+{
+  "id": 421195147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.74536,-27.4595,-55.74536,-27.4595",
+    "geom:latitude":-27.4595,
+    "geom:longitude":-55.74536,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Candelaria"
+    ],
+    "name:chi_x_preferred":[
+        "\u574e\u5fb7\u62c9\u91cc\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Candelaria"
+    ],
+    "name:eng_x_preferred":[
+        "Candelaria"
+    ],
+    "name:fre_x_preferred":[
+        "Candelaria"
+    ],
+    "name:ger_x_preferred":[
+        "Candelaria"
+    ],
+    "name:ita_x_preferred":[
+        "Candelaria"
+    ],
+    "name:oci_x_preferred":[
+        "Candelaria"
+    ],
+    "name:pol_x_preferred":[
+        "Candelaria"
+    ],
+    "name:por_x_preferred":[
+        "Candelaria"
+    ],
+    "name:spa_x_preferred":[
+        "Candelaria"
+    ],
+    "name:swe_x_preferred":[
+        "Departamento de Candelaria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0435\u043b\u0430\u0440\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435734,
+    "qs:gn_pop":11039,
+    "qs:name":"Candelaria",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":86,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":45151,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466915,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435734,
+        "gp:id":466915,
+        "qs:id":45151,
+        "wd:id":"Q55379"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009834,
+    "wof:geomhash":"3778e07f814a14c95ffdb0a1fddd41f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203247,
+            "locality_id":421195147,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421195147,
+    "wof:lastmodified":1513888977,
+    "wof:name":"Candelaria",
+    "wof:parent_id":421203247,
+    "wof:placetype":"locality",
+    "wof:population":11039,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.74536,
+    -27.4595,
+    -55.74536,
+    -27.4595
+],
+  "geometry": {"coordinates":[-55.74536,-27.4595],"type":"Point"}
+}

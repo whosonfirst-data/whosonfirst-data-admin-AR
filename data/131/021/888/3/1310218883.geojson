@@ -1,0 +1,68 @@
+{
+  "id": 1310218883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.53357,-37.89789,-57.53357,-37.89789",
+    "geom:latitude":-37.89789,
+    "geom:longitude":-57.53357,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6357.0",
+    "gn:asciiname":"Barrio Felix U Camet",
+    "gn:country_code":"AR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436112,
+    "gn:latitude":-37.89789,
+    "gn:longitude":-57.53357,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barrio F\u00e9lix U Camet",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436112
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9b24078d0433785f216fae4d93d10c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717963,
+            "locality_id":1310218883,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310218883,
+    "wof:lastmodified":1536831856,
+    "wof:name":"Barrio Felix U Camet",
+    "wof:parent_id":1108717963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.53357,
+    -37.89789,
+    -57.53357,
+    -37.89789
+],
+  "geometry": {"coordinates":[-57.53357,-37.89789],"type":"Point"}
+}

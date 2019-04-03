@@ -1,0 +1,76 @@
+{
+  "id": 421191827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53333,-34.91667,-67.53333,-34.91667",
+    "geom:latitude":-34.91667,
+    "geom:longitude":-67.53333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3851553,
+    "qs:gn_pop":0,
+    "qs:name":"La Escandinava",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156160,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330904,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421166643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851553,
+        "gp:id":330904,
+        "qs:id":1156160
+    },
+    "wof:country":"AR",
+    "wof:created":1459009711,
+    "wof:geomhash":"daf91bd722eb3c3b57b5cb0e1bd158cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166643,
+            "locality_id":421191827,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421191827,
+    "wof:lastmodified":1499924981,
+    "wof:name":"La Escandinava",
+    "wof:parent_id":421166643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53333,
+    -34.91667,
+    -67.53333,
+    -34.91667
+],
+  "geometry": {"coordinates":[-67.53333000000001,-34.91667],"type":"Point"}
+}

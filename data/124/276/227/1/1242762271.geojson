@@ -1,0 +1,72 @@
+{
+  "id": 1242762271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.30321,-25.3861,-60.30321,-25.3861",
+    "geom:latitude":-25.3861,
+    "geom:longitude":-60.30321,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"34035.0",
+    "gn:asciiname":"Colonia Kilometro 503",
+    "gn:country_code":"AR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860767,
+    "gn:latitude":-25.3861,
+    "gn:longitude":-60.30321,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Kil\u00f3metro 503",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia 503",
+        "Colonia Kil\u00f3metro 503"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860767
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fa17b6b9c6c896c08d81cff52ded2935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":1242762271,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1242762271,
+    "wof:lastmodified":1537584890,
+    "wof:name":"Colonia Kilometro 503",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.30321,
+    -25.3861,
+    -60.30321,
+    -25.3861
+],
+  "geometry": {"coordinates":[-60.30321,-25.3861],"type":"Point"}
+}

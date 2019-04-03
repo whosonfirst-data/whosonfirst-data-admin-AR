@@ -1,0 +1,97 @@
+{
+  "id": 1125866297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.32817,-28.91934,-65.32817,-28.91934",
+    "geom:latitude":-28.91934,
+    "geom:longitude":-65.32817,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6857,
+    "gn:population":6857,
+    "iso:country":"AR",
+    "lbl:latitude":-28.91934,
+    "lbl:longitude":-65.32817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ica\u00f1o"
+    ],
+    "name:eng_x_preferred":[
+        "Ica\u00f1o"
+    ],
+    "name:ita_x_preferred":[
+        "Ica\u00f1o"
+    ],
+    "name:spa_x_preferred":[
+        "Ica\u00f1o"
+    ],
+    "name:swe_x_preferred":[
+        "Ica\u00f1o"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043a\u0430\u043d\u044c\u0439\u043e"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3853935,
+    "qs_pg:gn_pop":6857,
+    "qs_pg:name":"Ica\u00f1o",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":585668,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853935,
+        "qs_pg:id":585668,
+        "wd:id":"Q3791626"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294056,
+    "wof:geomhash":"636b72df439718998eb6d7d93423e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718153,
+            "locality_id":1125866297,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1125866297,
+    "wof:lastmodified":1553816584,
+    "wof:name":"Ica\u00f1o",
+    "wof:parent_id":1108718153,
+    "wof:placetype":"locality",
+    "wof:population":6857,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.32817,
+    -28.91934,
+    -65.32817,
+    -28.91934
+],
+  "geometry": {"coordinates":[-65.32817,-28.91934],"type":"Point"}
+}

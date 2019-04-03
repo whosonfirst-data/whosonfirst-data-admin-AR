@@ -1,0 +1,81 @@
+{
+  "id": 890435589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.82477,-32.06036,-65.82477,-32.06036",
+    "geom:latitude":-32.06036,
+    "geom:longitude":-65.82477,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2269,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Candelaria"
+    ],
+    "name:spa_x_preferred":[
+        "Candelaria"
+    ],
+    "name:swe_x_preferred":[
+        "Candelaria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0435\u043b\u0430\u0440\u0456\u044f"
+    ],
+    "qs:name":"Candelaria",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":314,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862832,
+        "gp:id":91816103,
+        "qs:id":585744,
+        "wd:id":"Q5031647",
+        "wk:page":"Candelaria"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052073,
+    "wof:geomhash":"576f66b14f88de4b64f78c54ee4f6179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":890435589,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":890435589,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Candelaria",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:population":2269,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.82477,
+    -32.06036,
+    -65.82477,
+    -32.06036
+],
+  "geometry": {"coordinates":[-65.82477,-32.06036],"type":"Point"}
+}

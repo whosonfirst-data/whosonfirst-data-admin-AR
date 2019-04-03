@@ -1,0 +1,71 @@
+{
+  "id": 1344060953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.1243,-34.37359,-59.1243,-34.37359",
+    "geom:latitude":-34.37359,
+    "geom:longitude":-59.1243,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6266.0",
+    "gn:asciiname":"Parada Robles",
+    "gn:country_code":"AR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147617,
+    "gn:latitude":-34.37359,
+    "gn:longitude":-59.1243,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Parada Robles",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Parada Robles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147617
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6fc78a06f8f4e659411c36cb1e71404f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717931,
+            "locality_id":1344060953,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1344060953,
+    "wof:lastmodified":1537584908,
+    "wof:name":"Parada Robles",
+    "wof:parent_id":1108717931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.1243,
+    -34.37359,
+    -59.1243,
+    -34.37359
+],
+  "geometry": {"coordinates":[-59.1243,-34.37359],"type":"Point"}
+}

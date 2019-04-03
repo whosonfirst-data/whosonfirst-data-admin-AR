@@ -1,0 +1,68 @@
+{
+  "id": 1293855357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.66667,-22.88333,-64.66667,-22.88333",
+    "geom:latitude":-22.88333,
+    "geom:longitude":-64.66667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66070.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"AR",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837901,
+    "gn:latitude":-22.88333,
+    "gn:longitude":-64.66667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421171489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837901
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4864b0f6cafa658920270ade7f4d0b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171489,
+            "locality_id":1293855357,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293855357,
+    "wof:lastmodified":1536753958,
+    "wof:name":"San Carlos",
+    "wof:parent_id":421171489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.66667,
+    -22.88333,
+    -64.66667,
+    -22.88333
+],
+  "geometry": {"coordinates":[-64.66667,-22.88333],"type":"Point"}
+}

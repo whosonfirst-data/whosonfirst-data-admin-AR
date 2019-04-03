@@ -1,0 +1,72 @@
+{
+  "id": 1343337467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75201,-30.01394,-68.75201,-30.01394",
+    "geom:latitude":-30.01394,
+    "geom:longitude":-68.75201,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70056.0",
+    "gn:asciiname":"Huerta de Huachi",
+    "gn:country_code":"AR",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854009,
+    "gn:latitude":-30.01394,
+    "gn:longitude":-68.75201,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Huerta de Huachi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huerta de Guachi",
+        "Huerta de Huachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421166623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854009
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"13701c8920bbb16d03ed64fed8119683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166623,
+            "locality_id":1343337467,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1343337467,
+    "wof:lastmodified":1537584872,
+    "wof:name":"Huerta de Huachi",
+    "wof:parent_id":421166623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75201,
+    -30.01394,
+    -68.75201,
+    -30.01394
+],
+  "geometry": {"coordinates":[-68.75201,-30.01394],"type":"Point"}
+}

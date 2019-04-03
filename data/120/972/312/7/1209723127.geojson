@@ -1,0 +1,69 @@
+{
+  "id": 1209723127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.44795,-25.40859,-60.44795,-25.40859",
+    "geom:latitude":-25.40859,
+    "geom:longitude":-60.44795,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"22063.0",
+    "gn:asciiname":"El Espinillo",
+    "gn:country_code":"AR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858049,
+    "gn:latitude":-25.40859,
+    "gn:longitude":-60.44795,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Espinillo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858049,
+        "wk:page":"El_Espinillo%2C_Chaco"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a4cad0913e1eb40048f5685a84e53ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1209723127,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1209723127,
+    "wof:lastmodified":1537486338,
+    "wof:name":"El Espinillo",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.44795,
+    -25.40859,
+    -60.44795,
+    -25.40859
+],
+  "geometry": {"coordinates":[-60.44795,-25.40859],"type":"Point"}
+}

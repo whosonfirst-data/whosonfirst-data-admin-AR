@@ -1,0 +1,68 @@
+{
+  "id": 1226756451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73333,-28.46667,-65.73333,-28.46667",
+    "geom:latitude":-28.46667,
+    "geom:longitude":-65.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10112.0",
+    "gn:asciiname":"La Chacarita",
+    "gn:country_code":"AR",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852124,
+    "gn:latitude":-28.46667,
+    "gn:longitude":-65.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Chacarita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421189013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852124
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a99ab0d3d17fda3f7de09d165c5e900d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189013,
+            "locality_id":1226756451,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1226756451,
+    "wof:lastmodified":1536700319,
+    "wof:name":"La Chacarita",
+    "wof:parent_id":421189013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73333000000001,
+    -28.46667,
+    -65.73333000000001,
+    -28.46667
+],
+  "geometry": {"coordinates":[-65.73333000000001,-28.46667],"type":"Point"}
+}

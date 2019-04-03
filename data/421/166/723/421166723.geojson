@@ -1,0 +1,95 @@
+{
+  "id": 421166723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.98805,-34.88936,-57.98805,-34.88936",
+    "geom:latitude":-34.88936,
+    "geom:longitude":-57.98805,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ringuelet"
+    ],
+    "name:dut_x_preferred":[
+        "Ringuelet"
+    ],
+    "name:eng_x_preferred":[
+        "Ringuelet"
+    ],
+    "name:fre_x_preferred":[
+        "Ringuelet"
+    ],
+    "name:por_x_preferred":[
+        "Ra\u00fal Adolfo Ringuelet"
+    ],
+    "name:spa_x_preferred":[
+        "Ra\u00fal Adolfo Ringuelet"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429496,
+    "qs:gn_pop":0,
+    "qs:name":"Ringuelet",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":270597,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331782,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429496,
+        "gp:id":331782,
+        "qs:id":270597,
+        "wd:id":"Q2701381"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008700,
+    "wof:geomhash":"06d378d1a942920c73869a19c2a4d79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717993,
+            "locality_id":421166723,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421166723,
+    "wof:lastmodified":1553816354,
+    "wof:name":"Ringuelet",
+    "wof:parent_id":1108717993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.98805,
+    -34.88936,
+    -57.98805,
+    -34.88936
+],
+  "geometry": {"coordinates":[-57.98805,-34.88936],"type":"Point"}
+}

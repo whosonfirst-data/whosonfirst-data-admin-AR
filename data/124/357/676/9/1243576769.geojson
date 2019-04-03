@@ -1,0 +1,73 @@
+{
+  "id": 1243576769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.58727,-31.42832,-63.58727,-31.42832",
+    "geom:latitude":-31.42832,
+    "geom:longitude":-63.58727,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14105.0",
+    "gn:asciiname":"Canada de Machado",
+    "gn:country_code":"AR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862970,
+    "gn:latitude":-31.42832,
+    "gn:longitude":-63.58727,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00f1ada de Machado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciudad de Machado",
+        "Peralta",
+        "Ca\u00f1ada de Machado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862970
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"361c4d9f436bdb1df39cba3951cc0ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":1243576769,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1243576769,
+    "wof:lastmodified":1537584898,
+    "wof:name":"Canada de Machado",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.58727,
+    -31.42832000000001,
+    -63.58727,
+    -31.42832000000001
+],
+  "geometry": {"coordinates":[-63.58727,-31.42832000000001],"type":"Point"}
+}

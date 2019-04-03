@@ -1,0 +1,73 @@
+{
+  "id": 1226060491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.0264,-36.35493,-60.0264,-36.35493",
+    "geom:latitude":-36.35493,
+    "geom:longitude":-60.0264,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6798.0",
+    "gn:asciiname":"Tapalque",
+    "gn:country_code":"AR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3834647,
+    "gn:latitude":-36.35493,
+    "gn:longitude":-60.0264,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tapalqu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapalqu\u00e9n",
+        "Tapalqu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834647,
+        "wk:page":"Tapalqu%C3%A9"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"22ee2cd6e09cac2e5a4027165e5603dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718115,
+            "locality_id":1226060491,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226060491,
+    "wof:lastmodified":1537584836,
+    "wof:name":"Tapalque",
+    "wof:parent_id":1108718115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.0264,
+    -36.35493,
+    -60.0264,
+    -36.35493
+],
+  "geometry": {"coordinates":[-60.0264,-36.35493],"type":"Point"}
+}

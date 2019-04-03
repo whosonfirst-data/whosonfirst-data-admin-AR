@@ -1,0 +1,68 @@
+{
+  "id": 1242949385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.03333,-22.66667,-64.03333,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":-64.03333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66056.0",
+    "gn:asciiname":"Tunalito",
+    "gn:country_code":"AR",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833537,
+    "gn:latitude":-22.66667,
+    "gn:longitude":-64.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tunalito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833537
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e783266dddac619f6626d0e84b26a621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":1242949385,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1242949385,
+    "wof:lastmodified":1537024184,
+    "wof:name":"Tunalito",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.03333,
+    -22.66667,
+    -64.03333,
+    -22.66667
+],
+  "geometry": {"coordinates":[-64.03333000000001,-22.66667],"type":"Point"}
+}

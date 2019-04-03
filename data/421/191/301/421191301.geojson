@@ -1,0 +1,103 @@
+{
+  "id": 421191301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.73762,-34.38839,-58.73762,-34.38839",
+    "geom:latitude":-34.38839,
+    "geom:longitude":-58.73762,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:dut_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:eng_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:fra_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:fre_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:sco_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:spa_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "name:swe_x_preferred":[
+        "Ingeniero Maschwitz"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433461,
+    "qs:gn_pop":0,
+    "qs:name":"Ingeniero Maschwitz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":469,
+    "qs:photos_1k":95,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":469,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1134904,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465567,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433461,
+        "gp:id":465567,
+        "qs:id":1134904,
+        "wd:id":"Q8479145",
+        "wk:page":"Ingeniero Maschwitz"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009687,
+    "wof:geomhash":"6a52f80eba919ff13d442608c5213242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717925,
+            "locality_id":421191301,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421191301,
+    "wof:lastmodified":1527716371,
+    "wof:name":"Ingeniero Maschwitz",
+    "wof:parent_id":1108717925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.73762,
+    -34.38839,
+    -58.73762,
+    -34.38839
+],
+  "geometry": {"coordinates":[-58.73762,-34.38839],"type":"Point"}
+}

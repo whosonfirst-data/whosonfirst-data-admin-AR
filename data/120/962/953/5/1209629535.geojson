@@ -1,0 +1,62 @@
+{
+  "id": 1209629535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.31309,-36.98716,-60.31309,-36.98716",
+    "geom:latitude":-36.98716,
+    "geom:longitude":-60.31309,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6595.0",
+    "gn:asciiname":"Villa La Serrania",
+    "gn:country_code":"AR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832706,
+    "gn:latitude":-36.98716,
+    "gn:longitude":-60.31309,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa La Serran\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832706
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a393f4dfa72323a4574f6edb3ac05744",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209629535
+        }
+    ],
+    "wof:id":1209629535,
+    "wof:lastmodified":1536281236,
+    "wof:name":"Villa La Serrania",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.31309,
+    -36.98716,
+    -60.31309,
+    -36.98716
+],
+  "geometry": {"coordinates":[-60.31309,-36.98716],"type":"Point"}
+}

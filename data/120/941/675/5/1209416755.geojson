@@ -1,0 +1,63 @@
+{
+  "id": 1209416755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.52708,-27.55493,-60.52708,-27.55493",
+    "geom:latitude":-27.55493,
+    "geom:longitude":-60.52708,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22098.0",
+    "gn:asciiname":"Enrique Urien",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856178,
+    "gn:latitude":-27.55493,
+    "gn:longitude":-60.52708,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Enrique Urien",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856178,
+        "wk:page":"Enrique_Uri%C3%A9n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6a3c67c437bdc7fe9cbb9f637e969f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209416755
+        }
+    ],
+    "wof:id":1209416755,
+    "wof:lastmodified":1537486336,
+    "wof:name":"Enrique Urien",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.52708000000001,
+    -27.55493,
+    -60.52708000000001,
+    -27.55493
+],
+  "geometry": {"coordinates":[-60.52708000000001,-27.55493],"type":"Point"}
+}

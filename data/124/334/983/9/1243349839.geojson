@@ -1,0 +1,68 @@
+{
+  "id": 1243349839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,-32.9,-68.75,-32.9",
+    "geom:latitude":-32.9,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50028.0",
+    "gn:asciiname":"Buena Nueva",
+    "gn:country_code":"AR",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863810,
+    "gn:latitude":-32.9,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Buena Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863810
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"062f15a3193a6cc061be1e4ac2a95f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171949,
+            "locality_id":1243349839,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1243349839,
+    "wof:lastmodified":1536945327,
+    "wof:name":"Buena Nueva",
+    "wof:parent_id":421171949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    -32.9,
+    -68.75,
+    -32.9
+],
+  "geometry": {"coordinates":[-68.75,-32.9],"type":"Point"}
+}

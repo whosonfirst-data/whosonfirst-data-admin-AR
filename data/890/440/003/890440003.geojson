@@ -1,0 +1,84 @@
+{
+  "id": 890440003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.10862,-28.46539,-62.10862,-28.46539",
+    "geom:latitude":-28.46539,
+    "geom:longitude":-62.10862,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3212,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Los Jur\u00edes"
+    ],
+    "name:eng_x_preferred":[
+        "Los Jur\u00edes"
+    ],
+    "name:spa_x_preferred":[
+        "Los Jur\u00edes"
+    ],
+    "name:swe_x_preferred":[
+        "Los Jur\u00edes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0425\u0443\u0440\u0456\u0435\u0441"
+    ],
+    "qs:name":"Los Jur\u00edes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846080,
+        "gp:id":332501,
+        "qs:id":585628,
+        "wd:id":"Q2917961",
+        "wk:page":"Los Jur\u00edes"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052259,
+    "wof:geomhash":"205d56de98bb052b8d240c43fe26be96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718483,
+            "locality_id":890440003,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":890440003,
+    "wof:lastmodified":1527727108,
+    "wof:name":"Los Jur\u00edes",
+    "wof:parent_id":1108718483,
+    "wof:placetype":"locality",
+    "wof:population":3212,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.10862,
+    -28.46539,
+    -62.10862,
+    -28.46539
+],
+  "geometry": {"coordinates":[-62.10862,-28.46539],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293359259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.43896,-29.35039,-62.43896,-29.35039",
+    "geom:latitude":-29.35039,
+    "geom:longitude":-62.43896,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86007.0",
+    "gn:asciiname":"Malbran",
+    "gn:country_code":"AR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845169,
+    "gn:latitude":-29.35039,
+    "gn:longitude":-62.43896,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Malbr\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malbr\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421184163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845169,
+        "wk:page":"Malbr%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"802a8231875943f954bf2c604b5615a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421184163,
+            "locality_id":1293359259,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1293359259,
+    "wof:lastmodified":1537584858,
+    "wof:name":"Malbran",
+    "wof:parent_id":421184163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.43896,
+    -29.35039,
+    -62.43896,
+    -29.35039
+],
+  "geometry": {"coordinates":[-62.43896,-29.35039],"type":"Point"}
+}

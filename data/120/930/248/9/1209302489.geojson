@@ -1,0 +1,66 @@
+{
+  "id": 1209302489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22771,-36.37312,-66.22771,-36.37312",
+    "geom:latitude":-36.37312,
+    "geom:longitude":-66.22771,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42049.0",
+    "gn:asciiname":"Colonia La Pastoril",
+    "gn:country_code":"AR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860760,
+    "gn:latitude":-36.37312,
+    "gn:longitude":-66.22771,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia La Pastoril",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Pastoril",
+        "Colonia La Pastoril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860760
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"af6bf8793ce72306a1df40a25fcc2f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209302489
+        }
+    ],
+    "wof:id":1209302489,
+    "wof:lastmodified":1537584890,
+    "wof:name":"Colonia La Pastoril",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22771,
+    -36.37312,
+    -66.22771,
+    -36.37312
+],
+  "geometry": {"coordinates":[-66.22771,-36.37312],"type":"Point"}
+}

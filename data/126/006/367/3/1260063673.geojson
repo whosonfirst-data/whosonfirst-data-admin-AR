@@ -1,0 +1,68 @@
+{
+  "id": 1260063673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.45012,-27.0579,-55.45012,-27.0579",
+    "geom:latitude":-27.0579,
+    "geom:longitude":-55.45012,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54098.0",
+    "gn:asciiname":"Puerto Menocchio",
+    "gn:country_code":"AR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429756,
+    "gn:latitude":-27.0579,
+    "gn:longitude":-55.45012,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Menocchio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Gaby",
+        "Puerto Menocchio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429756
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e27f672753041ef2d8b0c1f639b962a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1260063673,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260063673,
+    "wof:lastmodified":1537584817,
+    "wof:name":"Puerto Menocchio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.45012,
+    -27.0579,
+    -55.45012,
+    -27.0579
+],
+  "geometry": {"coordinates":[-55.45012,-27.0579],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276734025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38527,-24.74735,-65.38527,-24.74735",
+    "geom:latitude":-24.74735,
+    "geom:longitude":-65.38527,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66028.0",
+    "gn:asciiname":"Destileria Chachapoyas",
+    "gn:country_code":"AR",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859420,
+    "gn:latitude":-24.74735,
+    "gn:longitude":-65.38527,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Destiler\u00eda Chachapoyas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chachapoyas",
+        "Destiler\u00eda Chachapoyas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859420
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d482c89713a7412d5e81c1f525d328db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718405,
+            "locality_id":1276734025,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1276734025,
+    "wof:lastmodified":1537584886,
+    "wof:name":"Destileria Chachapoyas",
+    "wof:parent_id":1108718405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38526999999999,
+    -24.74735,
+    -65.38526999999999,
+    -24.74735
+],
+  "geometry": {"coordinates":[-65.38526999999999,-24.74735],"type":"Point"}
+}

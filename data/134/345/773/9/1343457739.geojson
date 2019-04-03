@@ -1,0 +1,72 @@
+{
+  "id": 1343457739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.32442,-30.89762,-64.32442,-30.89762",
+    "geom:latitude":-30.89762,
+    "geom:longitude":-64.32442,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14168.0",
+    "gn:asciiname":"Canada Martel",
+    "gn:country_code":"AR",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862950,
+    "gn:latitude":-30.89762,
+    "gn:longitude":-64.32442,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00f1ada Martel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosario",
+        "Ca\u00f1ada Martel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862950
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cc71d0788d5432c24d119cd641a3fbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203351,
+            "locality_id":1343457739,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1343457739,
+    "wof:lastmodified":1537584897,
+    "wof:name":"Canada Martel",
+    "wof:parent_id":421203351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.32441999999999,
+    -30.89762,
+    -64.32441999999999,
+    -30.89762
+],
+  "geometry": {"coordinates":[-64.32441999999999,-30.89762],"type":"Point"}
+}

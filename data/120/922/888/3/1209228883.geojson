@@ -1,0 +1,62 @@
+{
+  "id": 1209228883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.62697,-38.55775,-58.62697,-38.55775",
+    "geom:latitude":-38.55775,
+    "geom:longitude":-58.62697,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6581.0",
+    "gn:asciiname":"Costa Bonita",
+    "gn:country_code":"AR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435201,
+    "gn:latitude":-38.55775,
+    "gn:longitude":-58.62697,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Costa Bonita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435201
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"adea7300594b614e3e0c0fd63f60b9c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209228883
+        }
+    ],
+    "wof:id":1209228883,
+    "wof:lastmodified":1536293703,
+    "wof:name":"Costa Bonita",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.62696999999999,
+    -38.55775,
+    -58.62696999999999,
+    -38.55775
+],
+  "geometry": {"coordinates":[-58.62696999999999,-38.55775],"type":"Point"}
+}

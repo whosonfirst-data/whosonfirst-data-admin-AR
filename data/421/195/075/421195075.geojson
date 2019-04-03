@@ -1,0 +1,108 @@
+{
+  "id": 421195075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.25349,-30.89217,-63.25349,-30.89217",
+    "geom:latitude":-30.89217,
+    "geom:longitude":-63.25349,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Puerta"
+    ],
+    "name:deu_x_preferred":[
+        "La Puerta"
+    ],
+    "name:eng_x_preferred":[
+        "La Puerta"
+    ],
+    "name:fra_x_preferred":[
+        "La Puerta"
+    ],
+    "name:ita_x_preferred":[
+        "La Puerta"
+    ],
+    "name:por_x_preferred":[
+        "La Puerta"
+    ],
+    "name:spa_x_preferred":[
+        "La Puerta"
+    ],
+    "name:swe_x_preferred":[
+        "La Puerta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0443\u0435\u0440\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u666e\u57c3\u723e\u5854"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3849205,
+    "qs:gn_pop":0,
+    "qs:name":"La Puerta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":180577,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332606,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849205,
+        "gp:id":332606,
+        "qs:id":180577,
+        "wd:id":"Q9018861"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009831,
+    "wof:geomhash":"6a89ce3890566c77e2d5085a42405b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":421195075,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195075,
+    "wof:lastmodified":1553816383,
+    "wof:name":"La Puerta",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.25349,
+    -30.89217,
+    -63.25349,
+    -30.89217
+],
+  "geometry": {"coordinates":[-63.25349,-30.89217],"type":"Point"}
+}

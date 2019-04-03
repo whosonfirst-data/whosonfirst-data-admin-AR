@@ -1,0 +1,68 @@
+{
+  "id": 1293484989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.97917,-29.08555,-58.97917,-29.08555",
+    "geom:latitude":-29.08555,
+    "geom:longitude":-58.97917,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18070.0",
+    "gn:asciiname":"Ifran",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433494,
+    "gn:latitude":-29.08555,
+    "gn:longitude":-58.97917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ifr\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421193663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433494
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bb7d19178d459044996690d55f469bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421193663,
+            "locality_id":1293484989,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1293484989,
+    "wof:lastmodified":1536791071,
+    "wof:name":"Ifran",
+    "wof:parent_id":421193663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.97917,
+    -29.08555,
+    -58.97917,
+    -29.08555
+],
+  "geometry": {"coordinates":[-58.97917,-29.08555],"type":"Point"}
+}

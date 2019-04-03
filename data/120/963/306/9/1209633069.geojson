@@ -1,0 +1,62 @@
+{
+  "id": 1209633069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.60455,-38.64778,-59.60455,-38.64778",
+    "geom:latitude":-38.64778,
+    "geom:longitude":-59.60455,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6742.0",
+    "gn:asciiname":"Cristiano Muerto",
+    "gn:country_code":"AR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435189,
+    "gn:latitude":-38.64778,
+    "gn:longitude":-59.60455,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cristiano Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435189
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c102d667af459c6aa58495778f59dc25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209633069
+        }
+    ],
+    "wof:id":1209633069,
+    "wof:lastmodified":1536281128,
+    "wof:name":"Cristiano Muerto",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.60455,
+    -38.64778,
+    -59.60455,
+    -38.64778
+],
+  "geometry": {"coordinates":[-59.60455,-38.64778],"type":"Point"}
+}

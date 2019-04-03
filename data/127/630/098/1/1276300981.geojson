@@ -1,0 +1,68 @@
+{
+  "id": 1276300981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96444,-29.13622,-63.96444,-29.13622",
+    "geom:latitude":-29.13622,
+    "geom:longitude":-63.96444,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86126.0",
+    "gn:asciiname":"El Cerrito",
+    "gn:country_code":"AR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858498,
+    "gn:latitude":-29.13622,
+    "gn:longitude":-63.96444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Cerrito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858498
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"428802a10e511aef14637c0eed158361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718499,
+            "locality_id":1276300981,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1276300981,
+    "wof:lastmodified":1536821357,
+    "wof:name":"El Cerrito",
+    "wof:parent_id":1108718499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96444,
+    -29.13622,
+    -63.96444,
+    -29.13622
+],
+  "geometry": {"coordinates":[-63.96444,-29.13622],"type":"Point"}
+}

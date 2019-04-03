@@ -1,0 +1,68 @@
+{
+  "id": 1225823447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68172,-37.62443,-63.68172,-37.62443",
+    "geom:latitude":-37.62443,
+    "geom:longitude":-63.68172,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42070.0",
+    "gn:asciiname":"Remeco",
+    "gn:country_code":"AR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839158,
+    "gn:latitude":-37.62443,
+    "gn:longitude":-63.68172,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Remec\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839158
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b933d68709b50995d9509d8a9aabafc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718303,
+            "locality_id":1225823447,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1225823447,
+    "wof:lastmodified":1537044070,
+    "wof:name":"Remeco",
+    "wof:parent_id":1108718303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68172,
+    -37.62443,
+    -63.68172,
+    -37.62443
+],
+  "geometry": {"coordinates":[-63.68172,-37.62443],"type":"Point"}
+}

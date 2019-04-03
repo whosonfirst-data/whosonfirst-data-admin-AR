@@ -1,0 +1,106 @@
+{
+  "id": 421204551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08129,-40.8029,-65.08129,-40.8029",
+    "geom:latitude":-40.8029,
+    "geom:longitude":-65.08129,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:dut_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:ger_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Grutas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0413\u0440\u0443\u0442\u0430\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7646573,
+    "qs:gn_pop":0,
+    "qs:name":"Las Grutas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":788,
+    "qs:photos_1k":160,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":788,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":241497,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":22529545,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":336,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646573,
+        "gp:id":22529545,
+        "qs:id":241497,
+        "wd:id":"Q1806462",
+        "wk:page":"Las Grutas"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010190,
+    "wof:geomhash":"1634d95ed75ae1902a462abc42a8b0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718395,
+            "locality_id":421204551,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421204551,
+    "wof:lastmodified":1527716177,
+    "wof:name":"Las Grutas",
+    "wof:parent_id":1108718395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08129,
+    -40.8029,
+    -65.08129,
+    -40.8029
+],
+  "geometry": {"coordinates":[-65.08129,-40.8029],"type":"Point"}
+}

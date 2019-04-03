@@ -1,0 +1,68 @@
+{
+  "id": 1243027141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.75627,-31.31448,-60.75627,-31.31448",
+    "geom:latitude":-31.31448,
+    "geom:longitude":-60.75627,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82063.0",
+    "gn:asciiname":"Iriondo",
+    "gn:country_code":"AR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853706,
+    "gn:latitude":-31.31448,
+    "gn:longitude":-60.75627,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iriondo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853706
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5ade6d664b447b2f2df6fe770617acc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718453,
+            "locality_id":1243027141,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243027141,
+    "wof:lastmodified":1536913536,
+    "wof:name":"Iriondo",
+    "wof:parent_id":1108718453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.75627,
+    -31.31448,
+    -60.75627,
+    -31.31448
+],
+  "geometry": {"coordinates":[-60.75627,-31.31448],"type":"Point"}
+}

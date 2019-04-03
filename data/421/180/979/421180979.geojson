@@ -1,0 +1,75 @@
+{
+  "id": 421180979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6245,-33.0242,-60.6245,-33.0242",
+    "geom:latitude":-33.0242,
+    "geom:longitude":-60.6245,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":335,
+    "qs:photos_1k":68,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":335,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":469716,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466215,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":466215,
+        "qs:id":469716
+    },
+    "wof:country":"AR",
+    "wof:created":1459009278,
+    "wof:geomhash":"7bcdaa7f2696515e956f09a742f2cc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":421180979,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421180979,
+    "wof:lastmodified":1499925553,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6245,
+    -33.0242,
+    -60.6245,
+    -33.0242
+],
+  "geometry": {"coordinates":[-60.6245,-33.0242],"type":"Point"}
+}

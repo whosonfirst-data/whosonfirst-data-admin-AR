@@ -1,0 +1,72 @@
+{
+  "id": 1327207139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62969,-37.7223,-70.62969,-37.7223",
+    "geom:latitude":-37.7223,
+    "geom:longitude":-70.62969,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Norquin",
+    "gn:country_code":"AR",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842992,
+    "gn:latitude":-37.7223,
+    "gn:longitude":-70.62969,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"\u00d1orqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d1orqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842992,
+        "wk:page":"%C3%91orqu%C3%ADn_Department"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4e0e3e91fba7779b4c8d85f3399a83f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1327207139,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1327207139,
+    "wof:lastmodified":1537584853,
+    "wof:name":"Norquin",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62969,
+    -37.7223,
+    -70.62969,
+    -37.7223
+],
+  "geometry": {"coordinates":[-70.62969,-37.7223],"type":"Point"}
+}

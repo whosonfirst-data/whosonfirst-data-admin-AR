@@ -1,0 +1,67 @@
+{
+  "id": 1225919377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58757,-35.69589,-66.58757,-35.69589",
+    "geom:latitude":-35.69589,
+    "geom:longitude":-66.58757,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Toscal",
+    "gn:country_code":"AR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834068,
+    "gn:latitude":-35.69589,
+    "gn:longitude":-66.58757,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Toscal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421166643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834068
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bfef426137a9381048151b441f54b3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166643,
+            "locality_id":1225919377,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1225919377,
+    "wof:lastmodified":1536907857,
+    "wof:name":"Toscal",
+    "wof:parent_id":421166643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58757,
+    -35.69589000000001,
+    -66.58757,
+    -35.69589000000001
+],
+  "geometry": {"coordinates":[-66.58757,-35.69589000000001],"type":"Point"}
+}

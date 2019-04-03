@@ -1,0 +1,100 @@
+{
+  "id": 421174455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.33271,-35.39794,-59.33271,-35.39794",
+    "geom:latitude":-35.39794,
+    "geom:longitude":-59.33271,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:ita_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:nld_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:spa_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:swe_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:unk_x_variant":[
+        "R. P\u00e9rez"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429450,
+    "qs:gn_pop":0,
+    "qs:name":"Roque P\u00e9rez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":861945,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467881,
+    "src:geom":"quattroshapes",
+    "wd:elevation":26.0,
+    "wd:latitude":-35.416667,
+    "wd:longitude":-59.316667,
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429450,
+        "gp:id":467881,
+        "qs:id":861945,
+        "wd:id":"Q2149613",
+        "wk:page":"Roque P\u00e9rez"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009033,
+    "wof:geomhash":"f0e19773d096571e900e113f9e110aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718079,
+            "locality_id":421174455,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421174455,
+    "wof:lastmodified":1527716226,
+    "wof:name":"Roque P\u00e9rez",
+    "wof:parent_id":1108718079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.33271,
+    -35.39794,
+    -59.33271,
+    -35.39794
+],
+  "geometry": {"coordinates":[-59.33271,-35.39794],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421172975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7311,-32.92914,-68.7311,-32.92914",
+    "geom:latitude":-32.92914,
+    "geom:longitude":-68.7311,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kil\u00f3metro Once"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840214,
+    "qs:gn_pop":0,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":258,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":258,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":281703,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331700,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840214,
+        "gp:id":331700,
+        "qs:id":281703
+    },
+    "wof:country":"AR",
+    "wof:created":1459008961,
+    "wof:geomhash":"a1bc6ffbeffe7299b10485f72d882973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171949,
+            "locality_id":421172975,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421172975,
+    "wof:lastmodified":1501268864,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421171949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7311,
+    -32.92914,
+    -68.7311,
+    -32.92914
+],
+  "geometry": {"coordinates":[-68.7311,-32.92914],"type":"Point"}
+}

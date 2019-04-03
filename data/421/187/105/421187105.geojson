@@ -1,0 +1,95 @@
+{
+  "id": 421187105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.49063,-31.07524,-64.49063,-31.07524",
+    "geom:latitude":-31.07524,
+    "geom:longitude":-64.49063,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Huerta Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Huerta Grande"
+    ],
+    "name:por_x_preferred":[
+        "Huerta Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Huerta Grande"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0435\u0440\u0442\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854008,
+    "qs:gn_pop":5630,
+    "qs:name":"Huerta Grande",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":365,
+    "qs:photos_1k":74,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":365,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1080400,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465541,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854008,
+        "gp:id":465541,
+        "qs:id":1080400,
+        "wd:id":"Q949346"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009502,
+    "wof:geomhash":"688235efcefc92ded14779a4bcc01fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421187105,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421187105,
+    "wof:lastmodified":1513889204,
+    "wof:name":"Huerta Grande",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:population":5630,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.49063,
+    -31.07524,
+    -64.49063,
+    -31.07524
+],
+  "geometry": {"coordinates":[-64.49063,-31.07524],"type":"Point"}
+}

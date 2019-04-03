@@ -1,0 +1,68 @@
+{
+  "id": 1226211217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.16667,-27.61667,-62.16667,-27.61667",
+    "geom:latitude":-27.61667,
+    "geom:longitude":-62.16667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86119.0",
+    "gn:asciiname":"Girardet",
+    "gn:country_code":"AR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855006,
+    "gn:latitude":-27.61667,
+    "gn:longitude":-62.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Girardet",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855006
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7d971cabb68019f7c749c0687e2954d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718497,
+            "locality_id":1226211217,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1226211217,
+    "wof:lastmodified":1536982808,
+    "wof:name":"Girardet",
+    "wof:parent_id":1108718497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.16667,
+    -27.61667000000001,
+    -62.16667,
+    -27.61667000000001
+],
+  "geometry": {"coordinates":[-62.16667,-27.61667000000001],"type":"Point"}
+}

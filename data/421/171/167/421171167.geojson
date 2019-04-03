@@ -1,0 +1,127 @@
+{
+  "id": 421171167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.33434,-34.79675,-58.33434,-34.79675",
+    "geom:latitude":-34.79675,
+    "geom:longitude":-58.33434,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u0627\u064a\u0628\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0644\u06cc\u067e\u0648\u0644\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Claypole"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u840a\u6ce2\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Claypole"
+    ],
+    "name:eng_x_preferred":[
+        "Claypole"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u06cc\u067e\u0648\u0644\u0647"
+    ],
+    "name:fre_x_preferred":[
+        "Claypole"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0644\u06cc\u067e\u0648\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Claypole"
+    ],
+    "name:por_x_preferred":[
+        "Claypole"
+    ],
+    "name:spa_x_preferred":[
+        "Claypole"
+    ],
+    "name:swe_x_preferred":[
+        "Claypole"
+    ],
+    "name:tur_x_preferred":[
+        "Castelar"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u840a\u6ce2\u723e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435369,
+    "qs:gn_pop":0,
+    "qs:name":"Claypole",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1210879,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465083,
+    "src:geom":"quattroshapes",
+    "wd:elevation":17.0,
+    "wd:latitude":-34.8,
+    "wd:longitude":-58.333333,
+    "wd:wordcount":256,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435369,
+        "gp:id":465083,
+        "qs:id":1210879,
+        "wd:id":"Q2843528",
+        "wk:page":"Claypole, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008884,
+    "wof:geomhash":"6334fae9f217d81002befb76a0f9383b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717855,
+            "locality_id":421171167,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421171167,
+    "wof:lastmodified":1527726482,
+    "wof:name":"Claypole",
+    "wof:parent_id":1108717855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.33434,
+    -34.79675,
+    -58.33434,
+    -34.79675
+],
+  "geometry": {"coordinates":[-58.33434,-34.79675],"type":"Point"}
+}

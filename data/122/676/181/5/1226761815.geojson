@@ -1,0 +1,68 @@
+{
+  "id": 1226761815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6265,-37.804,-57.6265,-37.804",
+    "geom:latitude":-37.804,
+    "geom:longitude":-57.6265,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6518.0",
+    "gn:asciiname":"Cobo",
+    "gn:country_code":"AR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435360,
+    "gn:latitude":-37.804,
+    "gn:longitude":-57.6265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cobo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435360
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ab7e9850705644ec05626f2a00958660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718017,
+            "locality_id":1226761815,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226761815,
+    "wof:lastmodified":1536692516,
+    "wof:name":"Cobo",
+    "wof:parent_id":1108718017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6265,
+    -37.804,
+    -57.6265,
+    -37.804
+],
+  "geometry": {"coordinates":[-57.6265,-37.804],"type":"Point"}
+}

@@ -1,0 +1,406 @@
+{
+  "id": 421169051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.55754,-38.00228,-57.55754,-38.00228",
+    "geom:latitude":-38.00228,
+    "geom:longitude":-57.55754,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0647 \u062f\u064a\u0644 \u0628\u0644\u0627\u062a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u0580-\u0564\u0565\u056c-\u054a\u056c\u0561\u057f\u0561"
+    ],
+    "name:aym_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:baq_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0440-\u0434\u044d\u043b\u044c-\u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0 \u09a1\u09c7\u09b2 \u09aa\u09cd\u09b2\u09be\u099f\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440 \u0434\u0435\u043b \u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:chi_x_preferred":[
+        "\u9a6c\u5fb7\u666e\u62c9\u5854"
+    ],
+    "name:cze_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:dan_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:deu_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:dut_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a0\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:epo_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631 \u062f\u0644 \u067e\u0644\u0627\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:fra_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:fre_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10e0-\u10d3\u10d4\u10da-\u10de\u10da\u10d0\u10e2\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:glg_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03c1 \u03bd\u03c4\u03b5\u03bb \u03a0\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0 \u0aa1\u0ac7\u0ab2 \u0aaa\u0acd\u0ab2\u0abe\u0a9f\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8 \u05d3\u05dc \u05e4\u05dc\u05d0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930 \u0926\u093f\u0932 \u092a\u094d\u0932\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580-\u0564\u0565\u056c-\u054a\u056c\u0561\u057f\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ita_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30fb\u30c7\u30eb\u30fb\u30d7\u30e9\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd \u0ca1\u0cc6\u0cb2\u0ccd \u0caa\u0ccd\u0cb2\u0cbe\u0c9f\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0-\u10d3\u10d4\u10da-\u10de\u10da\u10d0\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\ub378\ud50c\ub77c\ud0c0"
+    ],
+    "name:lad_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:lav_x_preferred":[
+        "Mara del Plata"
+    ],
+    "name:lij_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:lit_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ltz_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930 \u0921\u0947\u0932 \u092a\u094d\u0932\u093e\u091f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:nah_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:nld_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:nob_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:oci_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0440-\u0434\u0435\u043b\u044c-\u041f\u043b\u0430\u0442\u00e6"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0631 \u062f\u0644 \u067e\u0644\u0627\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:por_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:que_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ron_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:rum_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440-\u0434\u0435\u043b\u044c-\u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbb\u0dca \u0da9\u0dd9\u0dbd\u0dca \u0db4\u0dca\u0dbd\u0da7\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:slv_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:spa_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440 \u0434\u0435\u043b \u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:szl_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd \u0b9f\u0bc6\u0bb2\u0bcd \u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c30\u0c4d \u0c21\u0c46\u0c32\u0c4d \u0c2a\u0c4d\u0c32\u0c3e\u0c1f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e25\u0e1b\u0e25\u0e32\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440-\u0434\u0435\u043b\u044c-\u041f\u043b\u0430\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mar de Plata"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631 \u0688\u06cc\u0644 \u067e\u0644\u0627\u062a\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Mar-del-plata"
+    ],
+    "name:vep_x_preferred":[
+        "Mar Del Plat"
+    ],
+    "name:vie_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:vol_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:war_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:wel_x_preferred":[
+        "Mar del Plata"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5fb7\u666e\u62c9\u5854"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3430863,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Mar del Plata",
+    "ne:GN_POP":553935,
+    "ne:GTOPO30":39.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-38.00002,
+    "ne:LONGITUDE":-57.579984,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Mar del Plata",
+    "ne:MAX_AREAKM":190.0,
+    "ne:MAX_AREAMI":73.0,
+    "ne:MAX_BBXMAX":-57.525,
+    "ne:MAX_BBXMIN":-57.733333,
+    "ne:MAX_BBYMAX":-37.875,
+    "ne:MAX_BBYMIN":-38.125,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":157.0,
+    "ne:MAX_PERMI":97.0,
+    "ne:MAX_POP10":555897,
+    "ne:MAX_POP20":555897,
+    "ne:MAX_POP300":555897,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":555897,
+    "ne:MEAN_BBXC":-57.590893,
+    "ne:MEAN_BBYC":-38.00128,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":190.0,
+    "ne:MIN_AREAMI":73.0,
+    "ne:MIN_BBXMAX":-57.525,
+    "ne:MIN_BBXMIN":-57.733333,
+    "ne:MIN_BBYMAX":-37.875,
+    "ne:MIN_BBYMIN":-38.125,
+    "ne:MIN_PERKM":157.0,
+    "ne:MIN_PERMI":97.0,
+    "ne:NAME":"Mar del Plata",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Mar del Plata",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":555897,
+    "ne:POP_MIN":553935,
+    "ne:POP_OTHER":553765,
+    "ne:RANK_MAX":11,
+    "ne:RANK_MIN":11,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430863,
+    "qs:gn_pop":553935,
+    "qs:name":"Mar del Plata",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":3744,
+    "qs:photos_1k":759,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3744,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"11",
+    "qs:qs_id":778507,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466863,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":4571,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430863,
+        "gp:id":466863,
+        "qs:id":778507,
+        "wd:id":"Q52607",
+        "wk:page":"Mar del Plata"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008792,
+    "wof:geomhash":"71578d16c525870f3f6f152347b0379e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717963,
+            "locality_id":421169051,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421169051,
+    "wof:lastmodified":1527716175,
+    "wof:name":"Mar del Plata",
+    "wof:parent_id":1108717963,
+    "wof:placetype":"locality",
+    "wof:population":553935,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.55754,
+    -38.00228,
+    -57.55754,
+    -38.00228
+],
+  "geometry": {"coordinates":[-57.55754,-38.00228],"type":"Point"}
+}

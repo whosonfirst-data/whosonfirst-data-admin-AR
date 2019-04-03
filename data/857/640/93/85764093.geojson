@@ -1,0 +1,111 @@
+{
+  "id": 85764093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":24249562.432665,
+    "geom:bbox":"-60.632202,-32.954739,-60.632202,-32.954739",
+    "geom:latitude":-32.954739,
+    "geom:longitude":-60.632202,
+    "gn:latitude":-32.9745,
+    "gn:longitude":-60.63412,
+    "iso:country":"AR",
+    "lbl:latitude":-32.954739,
+    "lbl:longitude":-60.632202,
+    "mps:latitude":-32.959133,
+    "mps:longitude":-60.622624,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Calzada"
+    ],
+    "name:unk_x_variant":[
+        "Calzada"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3838583,
+    "qs:gn_namadm1":"21",
+    "qs:gn_name":"Calzada",
+    "qs:local_max":4639,
+    "qs:local_sum":17736,
+    "qs:localhoods":14,
+    "qs:name":"Calzada",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:name_adm2":"Rosario",
+    "qs:name_local":"Rosario",
+    "qs:photo_max":1141,
+    "qs:photo_sum":4417,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":103,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344695,
+    "qs:woe_adm2":20070927,
+    "qs:woe_lau":0,
+    "qs:woe_local":466862,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85668077,
+        102191577,
+        85632505,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863335,
+        "gp:id":330052,
+        "qs:id":1120366
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"26ad4e97dcc1f601bacf8222ce77da0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":-1,
+            "neighbourhood_id":85764093,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":85764093,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379085,
+    "wof:name":"Calzada",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        1126106527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.632202,
+    -32.954739,
+    -60.632202,
+    -32.954739
+],
+  "geometry": {"coordinates":[-60.632202,-32.954739],"type":"Point"}
+}

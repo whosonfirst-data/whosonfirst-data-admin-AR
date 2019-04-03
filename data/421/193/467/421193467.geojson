@@ -1,0 +1,258 @@
+{
+  "id": 421193467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.27243,-38.7196,-62.27243,-38.7196",
+    "geom:latitude":-38.7196,
+    "geom:longitude":-62.27243,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":5.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0647\u064a\u0627 \u0628\u0644\u0627\u0646\u0643\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:ceb_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:dan_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:deu_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:eng_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:epo_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:eus_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u06cc\u0627 \u0628\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:fra_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d4 \u05d1\u05dc\u05e0\u05e7\u05d4"
+    ],
+    "name:ido_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30a2\u30d6\u30e9\u30f3\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10d0-\u10d1\u10da\u10d0\u10dc\u10d9\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc774\uc544\ube14\ub791\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "Bahija Blanka"
+    ],
+    "name:nld_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:oci_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0438\u044f-\u0411\u043b\u0430\u043d\u043a\u00e6"
+    ],
+    "name:pol_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u044f-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0438\u044f-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda Blanca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0438\u0458\u0430 \u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0457\u044f-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5170\u5361\u6e2f"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3865086,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Bahia Blanca",
+    "ne:GN_POP":276546,
+    "ne:GTOPO30":21.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-38.740027,
+    "ne:LONGITUDE":-62.265021,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bahia Blanca",
+    "ne:MAX_AREAKM":139.0,
+    "ne:MAX_AREAMI":54.0,
+    "ne:MAX_BBXMAX":-62.141667,
+    "ne:MAX_BBXMIN":-62.35,
+    "ne:MAX_BBYMAX":-38.65,
+    "ne:MAX_BBYMIN":-38.791667,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":115.0,
+    "ne:MAX_PERMI":71.0,
+    "ne:MAX_POP10":281536,
+    "ne:MAX_POP20":281536,
+    "ne:MAX_POP300":281536,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":281536,
+    "ne:MEAN_BBXC":-62.259976,
+    "ne:MEAN_BBYC":-38.722676,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":139.0,
+    "ne:MIN_AREAMI":54.0,
+    "ne:MIN_BBXMAX":-62.141667,
+    "ne:MIN_BBXMIN":-62.35,
+    "ne:MIN_BBYMAX":-38.65,
+    "ne:MIN_BBYMIN":-38.791667,
+    "ne:MIN_PERKM":115.0,
+    "ne:MIN_PERMI":71.0,
+    "ne:NAME":"Bahia Blanca",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bahia Blanca",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":281536,
+    "ne:POP_MIN":276546,
+    "ne:POP_OTHER":269430,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865086,
+    "qs:gn_pop":276546,
+    "qs:name":"Bah\u00eda Blanca",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":1728,
+    "qs:photos_1k":350,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1728,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":1327035,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466866,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865086,
+        "gp:id":466866,
+        "qs:id":1327035,
+        "wd:id":"Q54108",
+        "wk:page":"Bah\u00eda Blanca"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009772,
+    "wof:geomhash":"620839cb367d590fad11ea1fd0ba9f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717863,
+            "locality_id":421193467,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421193467,
+    "wof:lastmodified":1505340734,
+    "wof:name":"Bah\u00eda Blanca",
+    "wof:parent_id":1108717863,
+    "wof:placetype":"locality",
+    "wof:population":276546,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.27243,
+    -38.7196,
+    -62.27243,
+    -38.7196
+],
+  "geometry": {"coordinates":[-62.27243,-38.7196],"type":"Point"}
+}

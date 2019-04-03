@@ -1,0 +1,107 @@
+{
+  "id": 421184045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.80104,-31.77652,-63.80104,-31.77652",
+    "geom:latitude":-31.77652,
+    "geom:longitude":-63.80104,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:dut_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:eng_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:ita_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b0\u30ca\u30fb\u30e9\u30eb\u30ac"
+    ],
+    "name:por_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:spa_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:szl_x_preferred":[
+        "Laguna Larga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u043d\u0430-\u041b\u0430\u0440\u0433\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3850929,
+    "qs:gn_pop":7137,
+    "qs:name":"Laguna Larga",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":388227,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465652,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3850929,
+        "gp:id":465652,
+        "qs:id":388227,
+        "wd:id":"Q2067858"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009398,
+    "wof:geomhash":"5e0da49d41db0e471156fd2ed09f1d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":421184045,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421184045,
+    "wof:lastmodified":1513889244,
+    "wof:name":"Laguna Larga",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:population":7137,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.80104,
+    -31.77652,
+    -63.80104,
+    -31.77652
+],
+  "geometry": {"coordinates":[-63.80104,-31.77652],"type":"Point"}
+}

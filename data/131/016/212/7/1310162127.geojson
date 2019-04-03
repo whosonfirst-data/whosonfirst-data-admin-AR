@@ -1,0 +1,68 @@
+{
+  "id": 1310162127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.75612,-27.91513,-63.75612,-27.91513",
+    "geom:latitude":-27.91513,
+    "geom:longitude":-63.75612,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86161.0",
+    "gn:asciiname":"El Rosario",
+    "gn:country_code":"AR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856757,
+    "gn:latitude":-27.91513,
+    "gn:longitude":-63.75612,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856757
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c963c9b7a3a4f70c721e91744cca60bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718509,
+            "locality_id":1310162127,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1310162127,
+    "wof:lastmodified":1536915479,
+    "wof:name":"El Rosario",
+    "wof:parent_id":1108718509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.75612,
+    -27.91513,
+    -63.75612,
+    -27.91513
+],
+  "geometry": {"coordinates":[-63.75612,-27.91513],"type":"Point"}
+}

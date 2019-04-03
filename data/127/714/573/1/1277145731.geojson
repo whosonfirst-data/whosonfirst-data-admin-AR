@@ -1,0 +1,68 @@
+{
+  "id": 1277145731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68333,-26.96667,-63.68333,-26.96667",
+    "geom:latitude":-26.96667,
+    "geom:longitude":-63.68333,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86070.0",
+    "gn:asciiname":"Chanar Pozo",
+    "gn:country_code":"AR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861763,
+    "gn:latitude":-26.96667,
+    "gn:longitude":-63.68333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Cha\u00f1ar Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861763
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d529945b030e9c131b57b1e38a31e26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718481,
+            "locality_id":1277145731,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1277145731,
+    "wof:lastmodified":1536676938,
+    "wof:name":"Chanar Pozo",
+    "wof:parent_id":1108718481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68333000000001,
+    -26.96667,
+    -63.68333000000001,
+    -26.96667
+],
+  "geometry": {"coordinates":[-63.68333000000001,-26.96667],"type":"Point"}
+}

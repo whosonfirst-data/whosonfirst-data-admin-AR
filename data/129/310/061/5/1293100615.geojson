@@ -1,0 +1,73 @@
+{
+  "id": 1293100615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.5,-24.85,-61.5,-24.85",
+    "geom:latitude":-24.85,
+    "geom:longitude":-61.5,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22063.0",
+    "gn:asciiname":"Nueva Pompeya",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842890,
+    "gn:latitude":-24.85,
+    "gn:longitude":-61.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nueva Pompeya",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ex Fort\u00edn P\u00e9rez Mill\u00e1n",
+        "Nueva Pompeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842890
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b1a0a75ca932f67f0990e1fc9a74829c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1293100615,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1293100615,
+    "wof:lastmodified":1537584853,
+    "wof:name":"Nueva Pompeya",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.5,
+    -24.85,
+    -61.5,
+    -24.85
+],
+  "geometry": {"coordinates":[-61.5,-24.85],"type":"Point"}
+}

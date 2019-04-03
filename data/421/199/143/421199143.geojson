@@ -1,0 +1,79 @@
+{
+  "id": 421199143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7548,-32.10572,-64.7548,-32.10572",
+    "geom:latitude":-32.10572,
+    "geom:longitude":-64.7548,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Yacanto Chico"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832594,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Yacanto",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":59,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":59,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1210433,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332959,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832594,
+        "gp:id":332959,
+        "qs:id":1210433
+    },
+    "wof:country":"AR",
+    "wof:created":1459009979,
+    "wof:geomhash":"0edc9c99d6dcb49d2f7bc3ad6545f6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186303,
+            "locality_id":421199143,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421199143,
+    "wof:lastmodified":1501268846,
+    "wof:name":"Villa Yacanto",
+    "wof:parent_id":421186303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7548,
+    -32.10572,
+    -64.7548,
+    -32.10572
+],
+  "geometry": {"coordinates":[-64.7548,-32.10572],"type":"Point"}
+}

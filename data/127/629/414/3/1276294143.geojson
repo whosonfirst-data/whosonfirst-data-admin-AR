@@ -1,0 +1,68 @@
+{
+  "id": 1276294143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.45979,-34.4796,-66.45979,-34.4796",
+    "geom:latitude":-34.4796,
+    "geom:longitude":-66.45979,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74056.0",
+    "gn:asciiname":"Los Cerrillos",
+    "gn:country_code":"AR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846341,
+    "gn:latitude":-34.4796,
+    "gn:longitude":-66.45979,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Cerrillos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846341
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"481d7525e46941d73487fa6a5094211a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":1276294143,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1276294143,
+    "wof:lastmodified":1536830261,
+    "wof:name":"Los Cerrillos",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.45979,
+    -34.4796,
+    -66.45979,
+    -34.4796
+],
+  "geometry": {"coordinates":[-66.45979,-34.4796],"type":"Point"}
+}

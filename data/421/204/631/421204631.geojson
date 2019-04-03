@@ -1,0 +1,183 @@
+{
+  "id": 421204631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.97304,-37.26394,-56.97304,-37.26394",
+    "geom:latitude":-37.26394,
+    "geom:longitude":-56.97304,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u062c\u064a\u0632\u064a\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u0997\u09c7\u09b8\u09c7\u09b2"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:fin_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:fre_x_preferred":[
+        "villa Gesell"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u0393\u03ba\u03ad\u03c3\u03b5\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0abe \u0a97\u0ac7\u0ab8\u0ac7\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0940\u092f\u093e \u0917\u0938\u0948\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30d8\u30bb\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe \u0c97\u0cc6\u0cb8\u0cc6\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc7c8 \ud5e4\uc140"
+    ],
+    "name:lav_x_preferred":[
+        "Vilja-Gesela"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Geselis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0932\u093e \u091c\u0940\u0938\u0947\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:por_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0425\u0435\u0441\u0435\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dcf \u0d9c\u0dd9\u0dc3\u0dd9\u0dbd\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0b95\u0bc7\u0bb8\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c3e \u0c17\u0c46\u0c38\u0c46\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e25\u0e25\u0e48\u0e32 \u0e40\u0e01\u0e40\u0e0b\u0e25\u0e25\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Gesel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0425\u0435\u0441\u0435\u043b\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u062c\u06cc\u0633\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Gesell"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427431,
+    "qs:gn_pop":23257,
+    "qs:name":"Villa Gesell",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":1203,
+    "qs:photos_1k":244,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1203,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":242816,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467980,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427431,
+        "gp:id":467980,
+        "qs:id":242816,
+        "wd:id":"Q991574",
+        "wk:page":"Villa Gesell"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"4f8726901cc4cb9c3e9747c32cc12655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718135,
+            "locality_id":421204631,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204631,
+    "wof:lastmodified":1513889587,
+    "wof:name":"Villa Gesell",
+    "wof:parent_id":1108718135,
+    "wof:placetype":"locality",
+    "wof:population":23257,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.97304,
+    -37.26394,
+    -56.97304,
+    -37.26394
+],
+  "geometry": {"coordinates":[-56.97304,-37.26394],"type":"Point"}
+}

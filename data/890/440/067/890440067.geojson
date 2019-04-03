@@ -1,0 +1,93 @@
+{
+  "id": 890440067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.67571,-27.49038,-61.67571,-27.49038",
+    "geom:latitude":-27.49038,
+    "geom:longitude":-61.67571,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3737,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gancedo"
+    ],
+    "name:eng_x_preferred":[
+        "Gancedo"
+    ],
+    "name:fre_x_preferred":[
+        "Gancedo"
+    ],
+    "name:ita_x_preferred":[
+        "Gancedo"
+    ],
+    "name:por_x_preferred":[
+        "Gancedo"
+    ],
+    "name:spa_x_preferred":[
+        "Gancedo"
+    ],
+    "name:swe_x_preferred":[
+        "Gancedo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0441\u0435\u0434\u043e"
+    ],
+    "qs:name":"Gancedo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855237,
+        "gp:id":467653,
+        "qs:id":150502,
+        "wd:id":"Q1578967",
+        "wk:page":"Gancedo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052261,
+    "wof:geomhash":"758989fd3ee42059cbbfa10968021e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718195,
+            "locality_id":890440067,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890440067,
+    "wof:lastmodified":1527727110,
+    "wof:name":"Gancedo",
+    "wof:parent_id":1108718195,
+    "wof:placetype":"locality",
+    "wof:population":3737,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.67571,
+    -27.49038,
+    -61.67571,
+    -27.49038
+],
+  "geometry": {"coordinates":[-61.67571,-27.49038],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 421188029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-59.308319,-35.003847,-59.308319,-35.003847",
+    "geom:latitude":-35.003847,
+    "geom:longitude":-59.308319,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Navarro"
+    ],
+    "name:cat_x_preferred":[
+        "Navarro"
+    ],
+    "name:ces_x_preferred":[
+        "Navarro"
+    ],
+    "name:deu_x_preferred":[
+        "Navarro"
+    ],
+    "name:fin_x_preferred":[
+        "Navarro"
+    ],
+    "name:fra_x_preferred":[
+        "Navarro"
+    ],
+    "name:hbs_x_preferred":[
+        "Navaro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d0\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Navarro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d0\u30fc\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "Navarro"
+    ],
+    "name:pol_x_preferred":[
+        "Navarro"
+    ],
+    "name:por_x_preferred":[
+        "Navarro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Navarro"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0440\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Navarro"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Navarro",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":405,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1087233,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070951,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070951,
+        "qs:id":1087233,
+        "wd:id":"Q233307"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009531,
+    "wof:geomhash":"ac6c5ca11d7dff5b65bfda106321ef02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188029,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421188029,
+    "wof:lastmodified":1527716291,
+    "wof:name":"Navarro",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.308319,
+    -35.003847,
+    -59.308319,
+    -35.003847
+],
+  "geometry": {"coordinates":[-59.308319,-35.003847],"type":"Point"}
+}

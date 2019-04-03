@@ -1,0 +1,91 @@
+{
+  "id": 890431253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.03333,-28.05,-56.03333,-28.05",
+    "geom:latitude":-28.05,
+    "geom:longitude":-56.03333,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":28756,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gobernador Virasoro"
+    ],
+    "name:eng_x_preferred":[
+        "Gobernador Virasoro"
+    ],
+    "name:fre_x_preferred":[
+        "Gobernador Virasoro"
+    ],
+    "name:ger_x_preferred":[
+        "Gobernador Virasoro"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernador Virasoro"
+    ],
+    "name:swe_x_preferred":[
+        "Gobernador Ingeniero Valent\u00edn Virasoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u0435\u0440\u043d\u0430\u0434\u043e\u0440-\u0412\u0456\u0440\u0430\u0441\u043e\u0440\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Vuelta del Omb\u00fa"
+    ],
+    "qs:name":"Gobernador Ingeniero Valent\u00edn Virasoro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421204337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433753,
+        "gp:id":91863268,
+        "qs:id":583304,
+        "wd:id":"Q2100648"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051884,
+    "wof:geomhash":"53683257971427f91b5e0e6bd990c01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204337,
+            "locality_id":890431253,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":890431253,
+    "wof:lastmodified":1513889199,
+    "wof:name":"Gobernador Ingeniero Valent\u00edn Virasoro",
+    "wof:parent_id":421204337,
+    "wof:placetype":"locality",
+    "wof:population":28756,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.03333,
+    -28.05,
+    -56.03333,
+    -28.05
+],
+  "geometry": {"coordinates":[-56.03333,-28.05],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 421184789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.67306,-26.01517,-54.67306,-26.01517",
+    "geom:latitude":-26.01517,
+    "geom:longitude":-54.67306,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Esperanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429786,
+    "qs:gn_pop":15579,
+    "qs:name":"Puerto Esperanza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1010246,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466248,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429786,
+        "gp:id":466248,
+        "qs:id":1010246,
+        "wd:id":"Q3112889",
+        "wk:page":"Puerto Esperanza, Misiones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009422,
+    "wof:geomhash":"5bc0c12efb7a864500777d32f4c6fe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632355,
+            "locality_id":421184789,
+            "region_id":85676705
+        }
+    ],
+    "wof:id":421184789,
+    "wof:lastmodified":1527716456,
+    "wof:name":"Puerto Esperanza",
+    "wof:parent_id":85676705,
+    "wof:placetype":"locality",
+    "wof:population":15579,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.67306,
+    -26.01517,
+    -54.67306,
+    -26.01517
+],
+  "geometry": {"coordinates":[-54.67306,-26.01517],"type":"Point"}
+}

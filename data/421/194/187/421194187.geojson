@@ -1,0 +1,121 @@
+{
+  "id": 421194187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.69034,-34.5651,-58.69034,-34.5651",
+    "geom:latitude":-34.5651,
+    "geom:longitude":-58.69034,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0627 \u0641\u064a\u0633\u062a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u06cc\u0627 \u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u4e9e\u7dad\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:eng_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:fre_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d8\u10d0-\u10d5\u10d8\u10e1\u10e2\u10d0"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u06cc\u0627 \u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:tur_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u044f-\u0412\u0456\u0441\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "B. Vista"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436061,
+    "qs:gn_pop":0,
+    "qs:name":"Bella Vista",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":165,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":165,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1031097,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464788,
+    "src:geom":"quattroshapes",
+    "wd:elevation":19.0,
+    "wd:latitude":-34.533333,
+    "wd:longitude":-58.666667,
+    "wd:wordcount":519,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436061,
+        "gp:id":464788,
+        "qs:id":1031097,
+        "wd:id":"Q1886737",
+        "wk:page":"Bella Vista, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009797,
+    "wof:geomhash":"4e6d93958eab4e843c446da4644979de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718101,
+            "locality_id":421194187,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421194187,
+    "wof:lastmodified":1527716131,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":1108718101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.69034,
+    -34.5651,
+    -58.69034,
+    -34.5651
+],
+  "geometry": {"coordinates":[-58.69034,-34.5651],"type":"Point"}
+}

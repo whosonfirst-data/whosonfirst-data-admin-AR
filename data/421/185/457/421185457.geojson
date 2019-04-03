@@ -1,0 +1,82 @@
+{
+  "id": 421185457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.933227,-38.07382,-61.933227,-38.07382",
+    "geom:latitude":-38.07382,
+    "geom:longitude":-61.933227,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Ventana",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":143,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":143,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":896242,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":22528596,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646806,
+        "gp:id":22528596,
+        "qs:id":896242
+    },
+    "wof:concordances_alt":{
+        "gp:id":56040419,
+        "qs:id":245395
+    },
+    "wof:country":"AR",
+    "wof:created":1459009443,
+    "wof:geomhash":"c7c5fbeb29a83b1948e26cb89e0cb2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718121,
+            "locality_id":421185457,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421185457,
+    "wof:lastmodified":1534379081,
+    "wof:name":"Villa Ventana",
+    "wof:parent_id":1108718121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421204715
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.933227,
+    -38.07382,
+    -61.933227,
+    -38.07382
+],
+  "geometry": {"coordinates":[-61.933227,-38.07382],"type":"Point"}
+}

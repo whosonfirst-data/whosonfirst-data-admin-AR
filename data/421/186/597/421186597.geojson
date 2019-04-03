@@ -1,0 +1,132 @@
+{
+  "id": 421186597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.79308,-34.34905,-58.79308,-34.34905",
+    "geom:latitude":-34.34905,
+    "geom:longitude":-58.79308,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0646 \u062f\u064a \u0627\u0633\u0643\u0648\u0628\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u502b\u57c3\u65af\u79d1\u5df4"
+    ],
+    "name:deu_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:dut_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:fre_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:ger_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:ita_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ec\u30f3\u30fb\u30c7\u30fb\u30a8\u30b9\u30b3\u30d0\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:por_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:sco_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:spa_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d \u0434\u0435 \u0415\u0441\u043a\u043e\u0431\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bel\u00e9n de Escobar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d-\u0434\u0435-\u0415\u0441\u043a\u043e\u0431\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Bel\u00e9n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436079,
+    "qs:gn_pop":0,
+    "qs:name":"Escobar",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":2061,
+    "qs:photos_1k":418,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2061,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074186,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330009,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436079,
+        "gp:id":330009,
+        "qs:id":1074186,
+        "wd:id":"Q816341",
+        "wk:page":"Bel\u00e9n de Escobar"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009486,
+    "wof:geomhash":"bbf71409037c3deec42e71087290f2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717925,
+            "locality_id":421186597,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186597,
+    "wof:lastmodified":1513889173,
+    "wof:name":"Escobar",
+    "wof:parent_id":1108717925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.79308,
+    -34.34905,
+    -58.79308,
+    -34.34905
+],
+  "geometry": {"coordinates":[-58.79308,-34.34905],"type":"Point"}
+}

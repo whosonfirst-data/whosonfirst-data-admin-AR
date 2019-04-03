@@ -1,0 +1,100 @@
+{
+  "id": 1125941199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23388,-36.22643,-64.23388,-36.22643",
+    "geom:latitude":-36.22643,
+    "geom:longitude":-64.23388,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2902,
+    "gn:population":2902,
+    "iso:country":"AR",
+    "lbl:latitude":-36.22643,
+    "lbl:longitude":-64.23388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Winifreda"
+    ],
+    "name:eng_x_preferred":[
+        "Winifreda"
+    ],
+    "name:fre_x_preferred":[
+        "Winifreda"
+    ],
+    "name:por_x_preferred":[
+        "Winifreda"
+    ],
+    "name:spa_x_preferred":[
+        "Winifreda"
+    ],
+    "name:swe_x_preferred":[
+        "Winifreda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0456\u0444\u0440\u0435\u0434\u0430"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3832388,
+    "qs_pg:gn_pop":2902,
+    "qs_pg:name":"Winifreda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1046730,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832388,
+        "qs_pg:id":1046730,
+        "wd:id":"Q3036270"
+    },
+    "wof:country":"AR",
+    "wof:created":1497297123,
+    "wof:geomhash":"a0f83b999c1dfc7bbb8b5fe497f0ef95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718295,
+            "locality_id":1125941199,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1125941199,
+    "wof:lastmodified":1513889593,
+    "wof:name":"Winifreda",
+    "wof:parent_id":1108718295,
+    "wof:placetype":"locality",
+    "wof:population":2902,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23388,
+    -36.22643,
+    -64.23388,
+    -36.22643
+],
+  "geometry": {"coordinates":[-64.23388,-36.22643],"type":"Point"}
+}

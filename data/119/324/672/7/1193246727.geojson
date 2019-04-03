@@ -1,0 +1,68 @@
+{
+  "id": 1193246727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08473,-27.35133,-65.08473,-27.35133",
+    "geom:latitude":-27.35133,
+    "geom:longitude":-65.08473,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"El Guardamonte",
+    "gn:country_code":"AR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857915,
+    "gn:latitude":-27.35133,
+    "gn:longitude":-65.08473,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Guardamonte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857915
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"636f961d1013ef0e6f2b9f974404bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":1193246727,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1193246727,
+    "wof:lastmodified":1536372546,
+    "wof:name":"El Guardamonte",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08473000000001,
+    -27.35133,
+    -65.08473000000001,
+    -27.35133
+],
+  "geometry": {"coordinates":[-65.08473000000001,-27.35133],"type":"Point"}
+}

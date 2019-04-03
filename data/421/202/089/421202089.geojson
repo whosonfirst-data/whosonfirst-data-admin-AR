@@ -1,0 +1,193 @@
+{
+  "id": 421202089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.743166,-34.517023,-58.743166,-34.517023",
+    "geom:latitude":-34.517023,
+    "geom:longitude":-58.743166,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0633\u064a\u0647 \u0633\u064a. \u0628\u0627\u0632"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0633\u0647 \u0633. \u067e\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb\u09b8\u09c7 \u09b9\u09c7 \u09aa\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f55\u585e\u514b\u840a\u9580\u7279\u5e15\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:dut_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:epo_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:fin_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:fre_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03cc\u03c3\u03ad \u03a3\u03b5 \u03a0\u03b1\u03b6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0acb\u0ab8 \u0ab8\u0ac0. \u0aaa\u0abe\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e1\u05d4 \u05e1. \u05e4\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b\u0938\u0947 \u0938\u0947 \u092a\u093e\u091c\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:ita_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30bb\u30fb\u30af\u30ec\u30e1\u30f3\u30c6\u30fb\u30d1\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0ccb\u0cb8\u0ccd \u0cb8\u0cbf. \u0caa\u0cbe\u0c9c\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uc138 C. \ud30c\uc988"
+    ],
+    "name:lav_x_preferred":[
+        "Hos\u0113 K. Pasa"
+    ],
+    "name:lit_x_preferred":[
+        "Chose K. Pas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u094b\u0938 \u0938\u0940 \u092a\u093e\u091c\u093c"
+    ],
+    "name:may_x_preferred":[
+        "Jose C. Paz"
+    ],
+    "name:nob_x_preferred":[
+        "Jose C. Paz"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u0633\u0647 \u0633. \u067e\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0441\u0435-\u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0435-\u041f\u0430\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0ddc\u0dc3\u0dda \u0dc3\u0dd3. \u0db4\u0dcf\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0435 \u041a\u0430\u0440\u043b\u043e\u0441 \u041f\u0430\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bcb\u0bb8\u0bcd \u0b9a\u0bbf. \u0baa\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c4b\u0c38\u0c4d \u0c38\u0c3f. \u0c2a\u0c3e\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e08\u0e40\u0e0b\u0e48 \u0e0b\u0e35 \u0e1e\u0e32\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Jose C. pAz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0441\u0435-\u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0435-\u041f\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0633\u06cc \u0633\u06cc . \u067e\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Jose C. Paz"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jos\u00e9 C. Paz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":219330,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465620,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":465620,
+        "qs:id":219330,
+        "wd:id":"Q2224587"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010104,
+    "wof:geomhash":"edc801ac09a34b83cabdb3a3580211a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717985,
+            "locality_id":421202089,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421202089,
+    "wof:lastmodified":1513889208,
+    "wof:name":"Jos\u00e9 C. Paz",
+    "wof:parent_id":1108717985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.743166,
+    -34.517023,
+    -58.743166,
+    -34.517023
+],
+  "geometry": {"coordinates":[-58.743166,-34.517023],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421196921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.3584,-31.46467,-64.3584,-31.46467",
+    "geom:latitude":-31.46467,
+    "geom:longitude":-64.3584,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Malague\u00f1o"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03bb\u03ad\u03c4\u03b9\u03ba\u03bf \u039c\u03b1\u03bb\u03b1\u03b3\u03ba\u03ad\u03bd\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Malague\u00f1o"
+    ],
+    "name:fra_x_preferred":[
+        "Atl\u00e9tico Malague\u00f1o"
+    ],
+    "name:ger_x_preferred":[
+        "Malague\u00f1o"
+    ],
+    "name:glg_x_preferred":[
+        "Atl\u00e9tico Malague\u00f1o"
+    ],
+    "name:hun_x_preferred":[
+        "Atl\u00e9tico Malague\u00f1o"
+    ],
+    "name:nld_x_preferred":[
+        "Atl\u00e9tico Malague\u00f1o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u041c\u0430\u043b\u0430\u0433\u0435\u043d\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Atl\u00e9tico Malague\u00f1o"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0433\u0435\u043d\u044c\u0439\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3845202,
+    "qs:gn_pop":9364,
+    "qs:name":"Malague\u00f1o",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":832375,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465749,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845202,
+        "gp:id":465749,
+        "qs:id":832375,
+        "wd:id":"Q1886644"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009897,
+    "wof:geomhash":"5cfe4fe685f22791d2ddf4d5ebe3f990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":421196921,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196921,
+    "wof:lastmodified":1553816384,
+    "wof:name":"Malague\u00f1o",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:population":9364,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.3584,
+    -31.46467,
+    -64.3584,
+    -31.46467
+],
+  "geometry": {"coordinates":[-64.3584,-31.46467],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243440529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28821,-32.60691,-67.28821,-32.60691",
+    "geom:latitude":-32.60691,
+    "geom:longitude":-67.28821,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50056.0",
+    "gn:asciiname":"El Forzado",
+    "gn:country_code":"AR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857992,
+    "gn:latitude":-32.60691,
+    "gn:longitude":-67.28821,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Forzado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857992
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"07a2f064e47aeec00532d48679a86446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187691,
+            "locality_id":1243440529,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1243440529,
+    "wof:lastmodified":1536813411,
+    "wof:name":"El Forzado",
+    "wof:parent_id":421187691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28820999999999,
+    -32.60691,
+    -67.28820999999999,
+    -32.60691
+],
+  "geometry": {"coordinates":[-67.28820999999999,-32.60691],"type":"Point"}
+}

@@ -1,0 +1,136 @@
+{
+  "id": 421195079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.20888,-33.79039,-61.20888,-33.79039",
+    "geom:latitude":-33.79039,
+    "geom:longitude":-61.20888,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u0421\u0442\u044d\u043b\u044c\u043c\u0430\u0445"
+    ],
+    "name:csb_x_preferred":[
+        "K\u00f2\u0142odz\u00e9j"
+    ],
+    "name:cym_x_preferred":[
+        "Saer troliau"
+    ],
+    "name:dan_x_preferred":[
+        "Hjulmager"
+    ],
+    "name:deu_x_preferred":[
+        "Stellmacherei"
+    ],
+    "name:dut_x_preferred":[
+        "Wheelwright"
+    ],
+    "name:eng_x_preferred":[
+        "Wheelwright"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108arfarado"
+    ],
+    "name:fra_x_preferred":[
+        "Charron"
+    ],
+    "name:gle_x_preferred":[
+        "Rothad\u00f3ir"
+    ],
+    "name:hun_x_preferred":[
+        "Bogn\u00e1r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8eca\u5927\u5de5"
+    ],
+    "name:lit_x_preferred":[
+        "Ra\u010dius"
+    ],
+    "name:ltz_x_preferred":[
+        "Wonerei"
+    ],
+    "name:nld_x_preferred":[
+        "Wagenmaker"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0142odziej"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0441\u043d\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Wheelwright"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043b\u044c\u043c\u0430\u0441\u0442\u0432\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832397,
+    "qs:gn_pop":0,
+    "qs:name":"Wheelwright",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":181888,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466820,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":987,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832397,
+        "gp:id":466820,
+        "qs:id":181888,
+        "wd:id":"Q10888788",
+        "wk:page":"Wheelwright"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009831,
+    "wof:geomhash":"ff63c8b94e7e0290b9033bd2e5427124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421195079,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421195079,
+    "wof:lastmodified":1527716118,
+    "wof:name":"Wheelwright",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20888,
+    -33.79039,
+    -61.20888,
+    -33.79039
+],
+  "geometry": {"coordinates":[-61.20888,-33.79039],"type":"Point"}
+}

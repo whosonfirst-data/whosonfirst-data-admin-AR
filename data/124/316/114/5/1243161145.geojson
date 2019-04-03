@@ -1,0 +1,69 @@
+{
+  "id": 1243161145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.96831,-23.35545,-64.96831,-23.35545",
+    "geom:latitude":-23.35545,
+    "geom:longitude":-64.96831,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38105.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"AR",
+    "gn:dem":3274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836526,
+    "gn:latitude":-23.35545,
+    "gn:longitude":-64.96831,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        1108718283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836526,
+        "wk:page":"Santa_Ana_%28Valle_Grande%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"823d75f718393954fe2974178bc32541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718283,
+            "locality_id":1243161145,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1243161145,
+    "wof:lastmodified":1537486308,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":1108718283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.96831,
+    -23.35545,
+    -64.96831,
+    -23.35545
+],
+  "geometry": {"coordinates":[-64.96831,-23.35545],"type":"Point"}
+}

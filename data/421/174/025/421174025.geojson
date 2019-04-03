@@ -1,0 +1,376 @@
+{
+  "id": 421174025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5,-45.86667,-67.5,-45.86667",
+    "geom:latitude":-45.86667,
+    "geom:longitude":-67.5,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u064a\u0641\u0627\u062f\u0627\u0641\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0574\u0578\u0580\u0578\u0564\u0578 \u054c\u056b\u057e\u0561\u0564\u0561\u057e\u056b\u0561"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09ae\u09cb\u09a1\u09cb\u09b0\u09cb \u09b0\u09bf\u09ad\u09be\u09a1\u09be\u09ad\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e \u0420\u0438\u0432\u0430\u0434\u0430\u0432\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ceb_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u74e6\u8fbe\u7ef4\u4e9a\u6d77\u519b\u51c6\u5c06\u57ce"
+    ],
+    "name:cym_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:cze_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:dan_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:deu_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:dut_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:eng_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:epo_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:eus_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:fra_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:fre_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ger_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:glg_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bc\u03bf\u03bd\u03c4\u03cc\u03c1\u03bf \u03a1\u03b9\u03b2\u03b1\u03bd\u03c4\u03ac\u03b2\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0aae\u0acb\u0aa1\u0acb\u0ab0\u0acb \u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0abe\u0ab5\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05d5\u05d3\u05d5\u05e8\u05d5 \u05e8\u05d9\u05d1\u05d3\u05d1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0949\u092e\u094b\u0921\u094b\u0930\u094b \u0930\u093f\u0935\u093e\u0926\u0935\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0574\u0578\u0580\u0578\u0564\u0578 \u054c\u056b\u057e\u0561\u0564\u0561\u057e\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ita_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e2\u30c9\u30fc\u30ed\u30fb\u30ea\u30d0\u30c0\u30d3\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0cae\u0cca\u0ca1\u0cca\u0cb0\u0cca \u0cb0\u0cbf\u0cb5\u0cbe\u0ca1\u0cbe\u0cb5\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ubaa8\ub3c4\ub85c\ub9ac\ubc14\ub2e4\ube44\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Komodoro Rivadavija"
+    ],
+    "name:lit_x_preferred":[
+        "Komodoro Rivadavija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u092e\u094b\u0921\u094b\u0930\u094b \u0930\u093f\u0935\u093e\u0926\u093e\u0935\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:nld_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:nob_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:nor_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:por_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ron_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:rum_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e-\u0420\u0438\u0432\u0430\u0434\u0430\u0432\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0db8\u0ddc\u0da9\u0ddd\u0dbb\u0ddd \u0dbb\u0dd2\u0dc0\u0dcf\u0da9\u0dc0\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:slo_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:spa_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e \u0420\u0438\u0432\u0430\u0434\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bae\u0bcb\u0b9f\u0bcb\u0bb0\u0bcb \u0bb0\u0bbf\u0bb5\u0bbe\u0b9f\u0bbe\u0bb5\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4a\u0c2e\u0c4b\u0c21\u0c4b\u0c30\u0c4b \u0c30\u0c3f\u0c35\u0c3e\u0c21\u0c35\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e42\u0e21\u0e42\u0e18\u0e42\u0e23 \u0e23\u0e35\u0e27\u0e32\u0e18\u0e32\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e-\u0420\u0456\u0432\u0430\u0434\u0430\u0432\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Comodoro"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:war_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:wel_x_preferred":[
+        "Comodoro Rivadavia"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u74e6\u8fbe\u7ef4\u4e9a\u6d77\u519b\u51c6\u5c06\u57ce"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Chubut",
+    "ne:ADMIN1_COD":7,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3860443,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Comodoro Rivadavia",
+    "ne:GN_POP":140850,
+    "ne:GTOPO30":18.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-45.870031,
+    "ne:LONGITUDE":-67.499999,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Comodoro Rivadavia",
+    "ne:MAX_AREAKM":115.0,
+    "ne:MAX_AREAMI":44.0,
+    "ne:MAX_BBXMAX":-67.4,
+    "ne:MAX_BBXMIN":-67.616667,
+    "ne:MAX_BBYMAX":-45.775,
+    "ne:MAX_BBYMIN":-45.95,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":115.0,
+    "ne:MAX_PERMI":71.0,
+    "ne:MAX_POP10":105732,
+    "ne:MAX_POP20":105732,
+    "ne:MAX_POP300":105732,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":105732,
+    "ne:MEAN_BBXC":-67.52105,
+    "ne:MEAN_BBYC":-45.859071,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":115.0,
+    "ne:MIN_AREAMI":44.0,
+    "ne:MIN_BBXMAX":-67.4,
+    "ne:MIN_BBXMIN":-67.616667,
+    "ne:MIN_BBYMAX":-45.775,
+    "ne:MIN_BBYMIN":-45.95,
+    "ne:MIN_PERKM":115.0,
+    "ne:MIN_PERMI":71.0,
+    "ne:NAME":"Comodoro Rivadavia",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Comodoro Rivadavia",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":140850,
+    "ne:POP_MIN":105732,
+    "ne:POP_OTHER":100259,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Catamarca",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860443,
+    "qs:gn_pop":140850,
+    "qs:name":"Comodoro Rivadavia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":1368,
+    "qs:photos_1k":277,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1368,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":672222,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466874,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":61.0,
+    "wd:latitude":-45.866667,
+    "wd:longitude":-67.5,
+    "wd:wordcount":4388,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421169779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860443,
+        "gp:id":466874,
+        "qs:id":672222,
+        "wd:id":"Q221921",
+        "wk:page":"Comodoro Rivadavia"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009017,
+    "wof:geomhash":"a5f5818b68986953362592d0ecf6fe65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169779,
+            "locality_id":421174025,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421174025,
+    "wof:lastmodified":1527716225,
+    "wof:name":"Comodoro Rivadavia",
+    "wof:parent_id":421169779,
+    "wof:placetype":"locality",
+    "wof:population":140850,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5,
+    -45.86667,
+    -67.5,
+    -45.86667
+],
+  "geometry": {"coordinates":[-67.5,-45.86667],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421195769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.11717,-33.01889,-69.11717,-33.01889",
+    "geom:latitude":-33.01889,
+    "geom:longitude":-69.11717,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0579\u0565\u0578\u0582\u057f\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Cacheuta Spa"
+    ],
+    "name:eng_x_preferred":[
+        "Cacheuta Spa"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0579\u0565\u0578\u0582\u057f\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0447\u0435\u0443\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cacheuta"
+    ],
+    "name:unk_x_variant":[
+        "Cachueta"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3863560,
+    "qs:gn_pop":0,
+    "qs:name":"Cacheuta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":123,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":123,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1314467,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467536,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":451,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421169773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863560,
+        "gp:id":467536,
+        "qs:id":1314467,
+        "wd:id":"Q4217972",
+        "wk:page":"Cacheuta Spa"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009858,
+    "wof:geomhash":"c9a09f16de9c69c496a6749600c68ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169773,
+            "locality_id":421195769,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421195769,
+    "wof:lastmodified":1527716122,
+    "wof:name":"Cacheuta",
+    "wof:parent_id":421169773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.11717,
+    -33.01889,
+    -69.11717,
+    -33.01889
+],
+  "geometry": {"coordinates":[-69.11717,-33.01889],"type":"Point"}
+}

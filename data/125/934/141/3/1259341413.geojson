@@ -1,0 +1,68 @@
+{
+  "id": 1259341413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.60474,-27.93226,-63.60474,-27.93226",
+    "geom:latitude":-27.93226,
+    "geom:longitude":-63.60474,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86182.0",
+    "gn:asciiname":"Concepcion",
+    "gn:country_code":"AR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860426,
+    "gn:latitude":-27.93226,
+    "gn:longitude":-63.60474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860426
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a2644d87222b96bdcbbd1ab09dfd14c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718515,
+            "locality_id":1259341413,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1259341413,
+    "wof:lastmodified":1537060275,
+    "wof:name":"Concepcion",
+    "wof:parent_id":1108718515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.60474,
+    -27.93226,
+    -63.60474,
+    -27.93226
+],
+  "geometry": {"coordinates":[-63.60474,-27.93226],"type":"Point"}
+}

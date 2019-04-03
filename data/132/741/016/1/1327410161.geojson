@@ -1,0 +1,68 @@
+{
+  "id": 1327410161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.32775,-23.44007,-64.32775,-23.44007",
+    "geom:latitude":-23.44007,
+    "geom:longitude":-64.32775,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66126.0",
+    "gn:asciiname":"Saucelito",
+    "gn:country_code":"AR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835641,
+    "gn:latitude":-23.44007,
+    "gn:longitude":-64.32775,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Saucelito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835641
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6fdf37a8fab6a6239a9decae9581d8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718413,
+            "locality_id":1327410161,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1327410161,
+    "wof:lastmodified":1536713225,
+    "wof:name":"Saucelito",
+    "wof:parent_id":1108718413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.32775,
+    -23.44007,
+    -64.32775,
+    -23.44007
+],
+  "geometry": {"coordinates":[-64.32774999999999,-23.44007],"type":"Point"}
+}

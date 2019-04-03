@@ -1,0 +1,72 @@
+{
+  "id": 1226630629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.4894,-24.7553,-59.4894,-24.7553",
+    "geom:latitude":-24.7553,
+    "geom:longitude":-59.4894,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"34035.0",
+    "gn:asciiname":"Villa General Guemes",
+    "gn:country_code":"AR",
+    "gn:dem":109,
+    "gn:elevation":"91.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11126157,
+    "gn:latitude":-24.7553,
+    "gn:longitude":-59.4894,
+    "gn:modification_date":"2016-04-21",
+    "gn:name":"Villa General Guemes",
+    "gn:population":4000,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11126157
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b37d4a298e92c70ffc484f395b920eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":1226630629,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1226630629,
+    "wof:lastmodified":1536880544,
+    "wof:name":"Villa General Guemes",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.4894,
+    -24.7553,
+    -59.4894,
+    -24.7553
+],
+  "geometry": {"coordinates":[-59.4894,-24.7553],"type":"Point"}
+}

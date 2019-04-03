@@ -1,0 +1,93 @@
+{
+  "id": 890440051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.85404,-36.15152,-63.85404,-36.15152",
+    "geom:latitude":-36.15152,
+    "geom:longitude":-63.85404,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3317,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0456\u044f-\u0411\u0430\u0440\u043e\u043d"
+    ],
+    "qs:name":"Colonia Bar\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860811,
+        "gp:id":91814678,
+        "qs:id":585725,
+        "wd:id":"Q5148214",
+        "wk:page":"Colonia Bar\u00f3n"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052260,
+    "wof:geomhash":"1111c5e092a236ccbd8ef2e6f48c8086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718313,
+            "locality_id":890440051,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890440051,
+    "wof:lastmodified":1527727110,
+    "wof:name":"Colonia Bar\u00f3n",
+    "wof:parent_id":1108718313,
+    "wof:placetype":"locality",
+    "wof:population":3317,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.85404,
+    -36.15152,
+    -63.85404,
+    -36.15152
+],
+  "geometry": {"coordinates":[-63.85404,-36.15152],"type":"Point"}
+}

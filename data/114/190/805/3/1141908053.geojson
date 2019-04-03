@@ -1,0 +1,212 @@
+{
+  "id": 1141908053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.3665940772,-38.5162678846,-70.3665940772,-38.5162678846",
+    "geom:latitude":-38.516268,
+    "geom:longitude":-70.366594,
+    "iso:country":"AR",
+    "lbl:latitude":-38.516268,
+    "lbl:longitude":-70.366594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u0561\u057d \u053c\u0561\u056d\u0561\u057d"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u62c9\u54c8\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:dut_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:fra_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ger_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:glg_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u057d \u053c\u0561\u056d\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:lit_x_preferred":[
+        "Las Lachasas"
+    ],
+    "name:por_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041b\u0430\u0445\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u041b\u0430\u0445\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u62c9\u54c8\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Neuqutn",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-38.516268,
+    "ne:LONGITUDE":-70.366594,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Las Lajas",
+    "ne:MAX_AREAKM":2.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-70.358333,
+    "ne:MAX_BBXMIN":-70.375,
+    "ne:MAX_BBYMAX":-38.516667,
+    "ne:MAX_BBYMIN":-38.533333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":7.0,
+    "ne:MAX_PERMI":4.0,
+    "ne:MAX_POP10":1218,
+    "ne:MAX_POP20":1218,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-70.365278,
+    "ne:MEAN_BBYC":-38.523611,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":2.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-70.358333,
+    "ne:MIN_BBXMIN":-70.375,
+    "ne:MIN_BBYMAX":-38.516667,
+    "ne:MIN_BBYMIN":-38.533333,
+    "ne:MIN_PERKM":7.0,
+    "ne:MIN_PERMI":4.0,
+    "ne:NAME":"Las Lajas",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Las Lajas",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":1218,
+    "ne:POP_MIN":1218,
+    "ne:POP_OTHER":1218,
+    "ne:RANK_MAX":3,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-38.516268,
+    "reversegeo:longitude":-70.366594,
+    "src:geom":"naturalearth",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421202309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848216,
+        "gp:id":331195,
+        "qs:id":982645,
+        "wd:id":"Q1016895",
+        "wk:page":"Las Lajas, Neuqu\u00e9n"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130810,
+    "wof:geomhash":"5c292977cdbefbca323bead105aad751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202309,
+            "locality_id":1141908053,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1141908053,
+    "wof:lastmodified":1534379080,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":421202309,
+    "wof:placetype":"locality",
+    "wof:population":4673,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421183625
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36659407721692,
+    -38.51626788457781,
+    -70.36659407721692,
+    -38.51626788457781
+],
+  "geometry": {"coordinates":[-70.36659407721692,-38.51626788457781],"type":"Point"}
+}

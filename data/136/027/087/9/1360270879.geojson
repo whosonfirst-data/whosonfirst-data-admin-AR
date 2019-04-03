@@ -1,0 +1,68 @@
+{
+  "id": 1360270879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.18376,-31.55201,-58.18376,-31.55201",
+    "geom:latitude":-31.55201,
+    "geom:longitude":-58.18376,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30015.0",
+    "gn:asciiname":"La Avanzada",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8054826,
+    "gn:latitude":-31.55201,
+    "gn:longitude":-58.18376,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Avanzada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8054826
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dac7db1e5dca6cfd280bd4fdcc6dcb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718245,
+            "locality_id":1360270879,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1360270879,
+    "wof:lastmodified":1536677651,
+    "wof:name":"La Avanzada",
+    "wof:parent_id":1108718245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.18376,
+    -31.55201,
+    -58.18376,
+    -31.55201
+],
+  "geometry": {"coordinates":[-58.18376,-31.55201],"type":"Point"}
+}

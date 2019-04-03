@@ -1,0 +1,94 @@
+{
+  "id": 421185979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10326,-32.82374,-66.10326,-32.82374",
+    "geom:latitude":-32.82374,
+    "geom:longitude":-66.10326,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Carolina"
+    ],
+    "name:eng_x_preferred":[
+        "La Carolina"
+    ],
+    "name:spa_x_preferred":[
+        "La Carolina"
+    ],
+    "name:swe_x_preferred":[
+        "La Carolina"
+    ],
+    "name:unk_x_variant":[
+        "Carolina"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3852240,
+    "qs:gn_pop":0,
+    "qs:name":"La Carolina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":228,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":228,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":905771,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468898,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852240,
+        "gp:id":468898,
+        "qs:id":905771,
+        "wd:id":"Q5044758",
+        "wk:page":"Carolina, San Luis"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009461,
+    "wof:geomhash":"fab7c4ae21a025781cd744a122ca8246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171477,
+            "locality_id":421185979,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421185979,
+    "wof:lastmodified":1527726505,
+    "wof:name":"La Carolina",
+    "wof:parent_id":421171477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10326,
+    -32.82374,
+    -66.10326,
+    -32.82374
+],
+  "geometry": {"coordinates":[-66.10326000000001,-32.82374],"type":"Point"}
+}

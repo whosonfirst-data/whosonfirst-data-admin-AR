@@ -1,0 +1,147 @@
+{
+  "id": 421175095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86042,-27.49983,-64.86042,-27.49983",
+    "geom:latitude":-27.49983,
+    "geom:longitude":-64.86042,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:chi_x_preferred":[
+        "\u7279\u99ac\u65af\u5fb7\u91cc\u5967\u7fc1\u591a"
+    ],
+    "name:deu_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:dut_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:eng_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0645\u0627\u0633 \u062f\u0647 \u0631\u06cc\u0648 \u0647\u0648\u0646\u062f\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:fre_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:ger_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05de\u05e1 \u05d3\u05d4 \u05e8\u05d9\u05d5 \u05d0\u05d5\u05e0\u05d3\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30de\u30b9\u30fb\u30c7\u30fb\u30ea\u30aa\u30fb\u30aa\u30f3\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\ub974\ub9c8\uc2a4\ub370\ub9ac\uc624\uc628\ub3c4"
+    ],
+    "name:lit_x_preferred":[
+        "Termas de Rio Ondas"
+    ],
+    "name:mlg_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0645\u0627\u0633 \u062f\u0647 \u0631\u06cc\u0648 \u0647\u0648\u0646\u062f\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Termas de Rio Hondo"
+    ],
+    "name:spa_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:swe_x_preferred":[
+        "Termas de R\u00edo Hondo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0440\u043c\u0430\u0441-\u0434\u0435-\u0420\u0456\u043e-\u041e\u043d\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Ba\u00f1os"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3834502,
+    "qs:gn_pop":27838,
+    "qs:name":"Termas de rio hondo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santiago del Estero",
+    "qs:photos":94,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":94,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":351315,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467063,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-27.483333,
+    "wd:longitude":-64.866667,
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421186443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834502,
+        "gp:id":467063,
+        "qs:id":351315,
+        "wd:id":"Q169334",
+        "wk:page":"Termas de R\u00edo Hondo"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009055,
+    "wof:geomhash":"0fef16544b4298dc9a4894f28d449aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186443,
+            "locality_id":421175095,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":421175095,
+    "wof:lastmodified":1527716344,
+    "wof:name":"Termas de rio hondo",
+    "wof:parent_id":421186443,
+    "wof:placetype":"locality",
+    "wof:population":27838,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86042,
+    -27.49983,
+    -64.86042,
+    -27.49983
+],
+  "geometry": {"coordinates":[-64.86042,-27.49983],"type":"Point"}
+}

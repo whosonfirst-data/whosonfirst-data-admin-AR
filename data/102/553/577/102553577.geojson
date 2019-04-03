@@ -1,0 +1,112 @@
+{
+  "id": 102553577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.5733,-37.9342,-57.5733,-37.9342",
+    "geom:latitude":-37.9342,
+    "geom:longitude":-57.5733,
+    "gn:elevation":21,
+    "iso:country":"AR",
+    "lbl:latitude":-37.93417,
+    "lbl:longitude":-57.57333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Internationale luchthaven Astor Piazzolla"
+    ],
+    "name:eng_x_preferred":[
+        "Astor Piazzolla International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MDQ",
+        "KMDQ"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport Astor Piazzolla de Mar del Plata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30bf\u30fc\u30fb\u30d4\u30a2\u30bd\u30e9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brig Gen D Bartolome De La Col"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0633\u062a\u0648\u0631 \u067e\u06cc\u0627\u062a\u0632\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mar del Plata"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Astor Piazolla"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Mar del Plata \"\u00c1stor Piazzolla\""
+    ],
+    "name:swe_x_preferred":[
+        "Mar Del Plata"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0441\u0442\u0443\u0440 \u043f\u0438\u043e\u0442\u0437\u0443\u043b\u043e"
+    ],
+    "oa:elevation_ft":"72",
+    "oa:type":"medium_airport",
+    "src:centroid_lbl":"geonames",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070978,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430864,
+        "gp:id":12510518,
+        "iata:code":"MDQ",
+        "icao:code":"KMDQ",
+        "oa:id":"5847",
+        "wd:id":"Q2902159",
+        "wk:page":"%C3%81stor_Piazzola_International_Airport"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7c64f488687da0f6c30d72da10fea5fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553577,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717963,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":102553577,
+    "wof:lastmodified":1513889256,
+    "wof:name":"Mar del Plata Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.5733,
+    -37.9342,
+    -57.5733,
+    -37.9342
+],
+  "geometry": {"coordinates":[-57.5733,-37.9342],"type":"Point"}
+}

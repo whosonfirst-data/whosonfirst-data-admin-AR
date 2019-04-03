@@ -1,0 +1,72 @@
+{
+  "id": 1310005009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48325,-32.63101,-62.48325,-32.63101",
+    "geom:latitude":-32.63101,
+    "geom:longitude":-62.48325,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14182.0",
+    "gn:asciiname":"San Marcos",
+    "gn:country_code":"AR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837016,
+    "gn:latitude":-32.63101,
+    "gn:longitude":-62.48325,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Marcos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Marcos Sur",
+        "San Marcos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837016
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ffd3f8039b2807e831ca357e7fc08cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":1310005009,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310005009,
+    "wof:lastmodified":1537584841,
+    "wof:name":"San Marcos",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48325,
+    -32.63101,
+    -62.48325,
+    -32.63101
+],
+  "geometry": {"coordinates":[-62.48325,-32.63101],"type":"Point"}
+}

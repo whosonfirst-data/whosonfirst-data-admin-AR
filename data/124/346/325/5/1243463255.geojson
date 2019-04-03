@@ -1,0 +1,73 @@
+{
+  "id": 1243463255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56762,-28.08242,-66.56762,-28.08242",
+    "geom:latitude":-28.08242,
+    "geom:longitude":-66.56762,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10084.0",
+    "gn:asciiname":"Tucumanao",
+    "gn:country_code":"AR",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833577,
+    "gn:latitude":-28.08242,
+    "gn:longitude":-66.56762,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tucumanao",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tucumana",
+        "Tucumanao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833577,
+        "wk:page":"Tucumanao"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"442d910e4019e4cff2d39a704344fee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718155,
+            "locality_id":1243463255,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1243463255,
+    "wof:lastmodified":1537584834,
+    "wof:name":"Tucumanao",
+    "wof:parent_id":1108718155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56761999999999,
+    -28.08242000000001,
+    -66.56761999999999,
+    -28.08242000000001
+],
+  "geometry": {"coordinates":[-66.56761999999999,-28.08242000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310688461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.69435,-30.22063,-67.69435,-30.22063",
+    "geom:latitude":-30.22063,
+    "geom:longitude":-67.69435,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los Baldecitos",
+    "gn:country_code":"AR",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846443,
+    "gn:latitude":-30.22063,
+    "gn:longitude":-67.69435,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Baldecitos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baldecitos",
+        "Los Baldecitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421172583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846443
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1e86f845059dd69767055edee482fcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172583,
+            "locality_id":1310688461,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1310688461,
+    "wof:lastmodified":1537584860,
+    "wof:name":"Los Baldecitos",
+    "wof:parent_id":421172583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.69435,
+    -30.22063,
+    -67.69435,
+    -30.22063
+],
+  "geometry": {"coordinates":[-67.69435,-30.22063],"type":"Point"}
+}

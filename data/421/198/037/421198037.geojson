@@ -1,0 +1,118 @@
+{
+  "id": 421198037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5663,-25.46642,-65.5663,-25.46642",
+    "geom:latitude":-25.46642,
+    "geom:longitude":-65.5663,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u7dad\u5c3c\u4e9e"
+    ],
+    "name:deu_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:dut_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:eng_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:fra_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:fre_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:ger_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:por_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:spa_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:swe_x_preferred":[
+        "La Vi\u00f1a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0648\u06cc\u0646\u0627\u060c \u0633\u0627\u0644\u0679\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7dad\u5c3c\u4e9e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3847195,
+    "qs:gn_pop":0,
+    "qs:name":"La Vi\u00f1a",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":304205,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332609,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421202255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847195,
+        "gp:id":332609,
+        "qs:id":304205,
+        "wd:id":"Q995930",
+        "wk:page":"La Vi\u00f1a, Salta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009934,
+    "wof:geomhash":"d0d5c5206b86f31166fbee8d9b5b5a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202255,
+            "locality_id":421198037,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421198037,
+    "wof:lastmodified":1527716352,
+    "wof:name":"La Vi\u00f1a",
+    "wof:parent_id":421202255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5663,
+    -25.46642,
+    -65.5663,
+    -25.46642
+],
+  "geometry": {"coordinates":[-65.5663,-25.46642],"type":"Point"}
+}

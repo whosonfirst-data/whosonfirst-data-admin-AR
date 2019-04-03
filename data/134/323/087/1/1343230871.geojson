@@ -1,0 +1,68 @@
+{
+  "id": 1343230871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.4034,-26.13406,-63.4034,-26.13406",
+    "geom:latitude":-26.13406,
+    "geom:longitude":-63.4034,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86056.0",
+    "gn:asciiname":"La Virtud",
+    "gn:country_code":"AR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847173,
+    "gn:latitude":-26.13406,
+    "gn:longitude":-63.4034,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Virtud",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847173
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"39f20061c3f1f2272374623c87f83a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718477,
+            "locality_id":1343230871,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1343230871,
+    "wof:lastmodified":1537074709,
+    "wof:name":"La Virtud",
+    "wof:parent_id":1108718477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.4034,
+    -26.13406,
+    -63.4034,
+    -26.13406
+],
+  "geometry": {"coordinates":[-63.4034,-26.13406],"type":"Point"}
+}

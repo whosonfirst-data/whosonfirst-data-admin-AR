@@ -1,0 +1,139 @@
+{
+  "id": 421196395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8351,-32.92864,-68.8351,-32.92864",
+    "geom:latitude":-32.92864,
+    "geom:longitude":-68.8351,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u0434\u043e\u0439-\u041a\u0440\u0443\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0434\u043e\u0439 \u041a\u0440\u0443\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:fra_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d3\u05d5\u05d9 \u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0564\u0578\u0575 \u053f\u0580\u0578\u0582\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ub3c4\uc774\ud06c\ub8e8\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Godoi Krusas"
+    ],
+    "name:nld_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:por_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0434\u043e\u0439-\u041a\u0440\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:spa_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0434\u043e\u0458 \u041a\u0440\u0443\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0434\u043e\u0439-\u041a\u0440\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Goday Cruz"
+    ],
+    "name:war_x_preferred":[
+        "Godoy Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u591a\u4f0a\u514b\u9b6f\u65af"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854964,
+    "qs:gn_pop":0,
+    "qs:name":"Godoy Cruz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":2937,
+    "qs:photos_1k":595,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":2937,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":778523,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466876,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421198469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854964,
+        "gp:id":466876,
+        "qs:id":778523,
+        "wd:id":"Q1189982",
+        "wk:page":"Godoy Cruz, Mendoza"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009880,
+    "wof:geomhash":"e39155ded588312373d0d6fea722fdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198469,
+            "locality_id":421196395,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421196395,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Godoy Cruz",
+    "wof:parent_id":421198469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8351,
+    -32.92864,
+    -68.8351,
+    -32.92864
+],
+  "geometry": {"coordinates":[-68.8351,-32.92864],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209432559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1627,-34.9431,-61.1627,-34.9431",
+    "geom:latitude":-34.9431,
+    "geom:longitude":-61.1627,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6385.0",
+    "gn:asciiname":"La Delfina",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851773,
+    "gn:latitude":-34.9431,
+    "gn:longitude":-61.1627,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Delfina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851773
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f87e1ad5910d33325b7849ed7617bf89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209432559
+        }
+    ],
+    "wof:id":1209432559,
+    "wof:lastmodified":1536287196,
+    "wof:name":"La Delfina",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1627,
+    -34.9431,
+    -61.1627,
+    -34.9431
+],
+  "geometry": {"coordinates":[-61.1627,-34.9431],"type":"Point"}
+}

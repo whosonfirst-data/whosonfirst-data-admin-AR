@@ -1,0 +1,79 @@
+{
+  "id": 421198193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,-32.81667,-68.76667,-32.81667",
+    "geom:latitude":-32.81667,
+    "geom:longitude":-68.76667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Algarrobal"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3858962,
+    "qs:gn_pop":0,
+    "qs:name":"El Algarrobo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":180523,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330310,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421170121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858962,
+        "gp:id":330310,
+        "qs:id":180523
+    },
+    "wof:country":"AR",
+    "wof:created":1459009939,
+    "wof:geomhash":"96089aaf0885c461a0886777a0c04a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170121,
+            "locality_id":421198193,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421198193,
+    "wof:lastmodified":1501268875,
+    "wof:name":"El Algarrobo",
+    "wof:parent_id":421170121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76667,
+    -32.81667,
+    -68.76667,
+    -32.81667
+],
+  "geometry": {"coordinates":[-68.76667,-32.81667],"type":"Point"}
+}

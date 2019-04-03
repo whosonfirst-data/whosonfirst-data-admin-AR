@@ -1,0 +1,73 @@
+{
+  "id": 1343765139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71548,-28.45018,-65.71548,-28.45018",
+    "geom:latitude":-28.45018,
+    "geom:longitude":-65.71548,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10112.0",
+    "gn:asciiname":"Villa Dolores",
+    "gn:country_code":"AR",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832757,
+    "gn:latitude":-28.45018,
+    "gn:longitude":-65.71548,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolores",
+        "Villa Dolores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421189013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832757,
+        "wk:page":"Villa_Dolores_%28Catamarca%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7a8259aa0aa4515e104c57af0cb2abdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189013,
+            "locality_id":1343765139,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1343765139,
+    "wof:lastmodified":1537584832,
+    "wof:name":"Villa Dolores",
+    "wof:parent_id":421189013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71548,
+    -28.45018,
+    -65.71548,
+    -28.45018
+],
+  "geometry": {"coordinates":[-65.71548,-28.45018],"type":"Point"}
+}

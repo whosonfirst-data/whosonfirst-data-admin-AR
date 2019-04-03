@@ -1,0 +1,68 @@
+{
+  "id": 1277077595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.37203,-28.21414,-66.37203,-28.21414",
+    "geom:latitude":-28.21414,
+    "geom:longitude":-66.37203,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10084.0",
+    "gn:asciiname":"Maderero San Antonio",
+    "gn:country_code":"AR",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845286,
+    "gn:latitude":-28.21414,
+    "gn:longitude":-66.37203,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Maderero San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845286
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6426ae70a83f0a4dcae97870cc776b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718155,
+            "locality_id":1277077595,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1277077595,
+    "wof:lastmodified":1536775628,
+    "wof:name":"Maderero San Antonio",
+    "wof:parent_id":1108718155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.37203000000001,
+    -28.21414,
+    -66.37203000000001,
+    -28.21414
+],
+  "geometry": {"coordinates":[-66.37203000000001,-28.21414],"type":"Point"}
+}

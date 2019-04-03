@@ -1,0 +1,68 @@
+{
+  "id": 1310618945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.11655,-38.85244,-62.11655,-38.85244",
+    "geom:latitude":-38.85244,
+    "geom:longitude":-62.11655,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6182.0",
+    "gn:asciiname":"Villa del Mar",
+    "gn:country_code":"AR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832767,
+    "gn:latitude":-38.85244,
+    "gn:longitude":-62.11655,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa del Mar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832767
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c0ede8f8f60d909af6fff51b3c149c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717903,
+            "locality_id":1310618945,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310618945,
+    "wof:lastmodified":1536753277,
+    "wof:name":"Villa del Mar",
+    "wof:parent_id":1108717903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.11655,
+    -38.85244,
+    -62.11655,
+    -38.85244
+],
+  "geometry": {"coordinates":[-62.11655,-38.85244],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 421205023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.46433,-27.18636,-55.46433,-27.18636",
+    "geom:latitude":-27.18636,
+    "geom:longitude":-55.46433,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:dut_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:eng_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:fre_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:ger_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:por_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:swe_x_preferred":[
+        "Gobernador Roca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u0435\u0440\u043d\u0430\u0434\u043e\u0440-\u0420\u043e\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Corpus"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433743,
+    "qs:gn_pop":6315,
+    "qs:name":"Gobernador Roca",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":251941,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465471,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421180297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433743,
+        "gp:id":465471,
+        "qs:id":251941,
+        "wd:id":"Q5575458",
+        "wk:page":"Gobernador Roca"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010210,
+    "wof:geomhash":"bc30a0a1c341174cbc414a76e562650e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180297,
+            "locality_id":421205023,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421205023,
+    "wof:lastmodified":1527716215,
+    "wof:name":"Gobernador Roca",
+    "wof:parent_id":421180297,
+    "wof:placetype":"locality",
+    "wof:population":6315,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.46433,
+    -27.18636,
+    -55.46433,
+    -27.18636
+],
+  "geometry": {"coordinates":[-55.46433,-27.18636],"type":"Point"}
+}

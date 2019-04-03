@@ -1,0 +1,68 @@
+{
+  "id": 1243377721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.47686,-34.63645,-62.47686,-34.63645",
+    "geom:latitude":-34.63645,
+    "geom:longitude":-62.47686,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6277.0",
+    "gn:asciiname":"Blaquier",
+    "gn:country_code":"AR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864061,
+    "gn:latitude":-34.63645,
+    "gn:longitude":-62.47686,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Blaquier",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864061
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ff0e0106119805540181eb846968669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717937,
+            "locality_id":1243377721,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243377721,
+    "wof:lastmodified":1536904802,
+    "wof:name":"Blaquier",
+    "wof:parent_id":1108717937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.47686,
+    -34.63645,
+    -62.47686,
+    -34.63645
+],
+  "geometry": {"coordinates":[-62.47686,-34.63645],"type":"Point"}
+}

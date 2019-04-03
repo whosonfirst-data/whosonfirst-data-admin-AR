@@ -1,0 +1,73 @@
+{
+  "id": 1343814047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2,-27.3,-65.2,-27.3",
+    "geom:latitude":-27.3,
+    "geom:longitude":-65.2,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"Acostilla",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866944,
+    "gn:latitude":-27.3,
+    "gn:longitude":-65.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Acostilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acostillas",
+        "Acostilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866944
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d0031a4370416c77c3ec2454a5b6954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":1343814047,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1343814047,
+    "wof:lastmodified":1537584905,
+    "wof:name":"Acostilla",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2,
+    -27.3,
+    -65.2,
+    -27.3
+],
+  "geometry": {"coordinates":[-65.2,-27.3],"type":"Point"}
+}

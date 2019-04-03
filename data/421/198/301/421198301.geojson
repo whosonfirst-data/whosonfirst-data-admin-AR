@@ -1,0 +1,136 @@
+{
+  "id": 421198301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.72913,-34.48236,-58.72913,-34.48236",
+    "geom:latitude":-34.48236,
+    "geom:longitude":-58.72913,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u063a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u6717\u5821"
+    ],
+    "name:deu_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:dut_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:eng_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u06af"
+    ],
+    "name:fre_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d1\u10dd\u10e3\u10e0\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d1\u10dd\u10e3\u10e0\u10d2\u10d8"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u06af"
+    ],
+    "name:sco_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:spa_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:swe_x_preferred":[
+        "Grand Bourg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u0411\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6717\u5821"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433708,
+    "qs:gn_pop":0,
+    "qs:name":"Grand Bourg",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181833,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465489,
+    "src:geom":"quattroshapes",
+    "wd:elevation":18.0,
+    "wd:latitude":-34.483333,
+    "wd:longitude":-58.716667,
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433708,
+        "gp:id":465489,
+        "qs:id":181833,
+        "wd:id":"Q5594333",
+        "wk:page":"Grand Bourg"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009943,
+    "wof:geomhash":"6896ec64fed8049ec8e3d4c04d8a9cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718015,
+            "locality_id":421198301,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421198301,
+    "wof:lastmodified":1527716347,
+    "wof:name":"Grand Bourg",
+    "wof:parent_id":1108718015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.72913,
+    -34.48236,
+    -58.72913,
+    -34.48236
+],
+  "geometry": {"coordinates":[-58.72913,-34.48236],"type":"Point"}
+}

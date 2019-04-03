@@ -1,0 +1,70 @@
+{
+  "id": 1226753895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53791,-45.12756,-66.53791,-45.12756",
+    "geom:latitude":-45.12756,
+    "geom:longitude":-66.53791,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26021.0",
+    "gn:asciiname":"Bahia Bustamante",
+    "gn:country_code":"AR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865082,
+    "gn:latitude":-45.12756,
+    "gn:longitude":-66.53791,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bah\u00eda Bustamante",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bustamante",
+        "Bustamente",
+        "Bah\u00eda Bustamante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865082,
+        "wk:page":"Bah%C3%ADa_Bustamante"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b0f64338f3622950e0a7749b19a62602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1226753895,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226753895,
+    "wof:lastmodified":1537584901,
+    "wof:name":"Bahia Bustamante",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53791,
+    -45.12756,
+    -66.53791,
+    -45.12756
+],
+  "geometry": {"coordinates":[-66.53791,-45.12756],"type":"Point"}
+}

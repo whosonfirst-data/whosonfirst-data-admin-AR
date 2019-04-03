@@ -1,0 +1,113 @@
+{
+  "id": 1276844655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33673,-51.53587,-72.33673,-51.53587",
+    "geom:latitude":-51.53587,
+    "geom:longitude":-72.33673,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Rio Turbio",
+    "gn:country_code":"AR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521759,
+    "gn:latitude":-51.53587,
+    "gn:longitude":-72.33673,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"R\u00edo Turbio",
+    "gn:population":6650,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "R\u00edo Turbio"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Turbio"
+    ],
+    "name:und_x_variant":[
+        "R\u00edo Turbio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655,
+        85633057,
+        85682183,
+        102063081,
+        85682211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521759,
+        "wk:page":"R%C3%ADo_Turbio"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"13c3577ea6772cad7979f5bed943afd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1276844655,
+            "region_id":85667991
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1276844655,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1276844655,
+            "region_id":85682183
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":1276844655,
+            "region_id":85682211
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":1276844655,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1276844655,
+    "wof:lastmodified":1537584907,
+    "wof:name":"Rio Turbio",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":6650,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33673,
+    -51.53587,
+    -72.33673,
+    -51.53587
+],
+  "geometry": {"coordinates":[-72.33673,-51.53587],"type":"Point"}
+}

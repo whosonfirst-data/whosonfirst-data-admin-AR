@@ -1,0 +1,68 @@
+{
+  "id": 1259358859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.64167,-31.11222,-68.64167,-31.11222",
+    "geom:latitude":-31.11222,
+    "geom:longitude":-68.64167,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70112.0",
+    "gn:asciiname":"Talacasto",
+    "gn:country_code":"AR",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834779,
+    "gn:latitude":-31.11222,
+    "gn:longitude":-68.64167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Talacasto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        1108718437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834779
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"db44fd5000cb09d2030f76ca23618cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718437,
+            "locality_id":1259358859,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1259358859,
+    "wof:lastmodified":1537036202,
+    "wof:name":"Talacasto",
+    "wof:parent_id":1108718437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.64166999999999,
+    -31.11222,
+    -68.64166999999999,
+    -31.11222
+],
+  "geometry": {"coordinates":[-68.64166999999999,-31.11222],"type":"Point"}
+}

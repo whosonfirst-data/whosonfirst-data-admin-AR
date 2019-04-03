@@ -1,0 +1,74 @@
+{
+  "id": 1327097051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10179,-32.02564,-66.10179,-32.02564",
+    "geom:latitude":-32.02564,
+    "geom:longitude":-66.10179,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"Balde de los Torres",
+    "gn:country_code":"AR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864925,
+    "gn:latitude":-32.02564,
+    "gn:longitude":-66.10179,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balde de los Torres",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torres",
+        "Balde de Torres",
+        "Balde Los Torres",
+        "Balde de los Torres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864925
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d7011683028c0664c234961c4db653e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":1327097051,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1327097051,
+    "wof:lastmodified":1537584900,
+    "wof:name":"Balde de los Torres",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10179000000001,
+    -32.02564,
+    -66.10179000000001,
+    -32.02564
+],
+  "geometry": {"coordinates":[-66.10179000000001,-32.02564],"type":"Point"}
+}

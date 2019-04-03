@@ -1,0 +1,87 @@
+{
+  "id": 890440231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.14236,-39.16482,-66.14236,-39.16482",
+    "geom:latitude":-39.16482,
+    "geom:longitude":-66.14236,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3905,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Chimpay"
+    ],
+    "name:eng_x_preferred":[
+        "Chimpay"
+    ],
+    "name:oci_x_preferred":[
+        "Chimpay"
+    ],
+    "name:spa_x_preferred":[
+        "Chimpay"
+    ],
+    "name:swe_x_preferred":[
+        "Chimpay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0456\u043c\u043f\u0430\u0439"
+    ],
+    "qs:name":"Chimpay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861405,
+        "gp:id":91816003,
+        "qs:id":848433,
+        "wd:id":"Q4520581",
+        "wk:page":"Chimpay"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052267,
+    "wof:geomhash":"5a54a40bb81450c59ac9aef4b38c4f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718387,
+            "locality_id":890440231,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":890440231,
+    "wof:lastmodified":1527727108,
+    "wof:name":"Chimpay",
+    "wof:parent_id":1108718387,
+    "wof:placetype":"locality",
+    "wof:population":3905,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.14236,
+    -39.16482,
+    -66.14236,
+    -39.16482
+],
+  "geometry": {"coordinates":[-66.14236,-39.16482],"type":"Point"}
+}

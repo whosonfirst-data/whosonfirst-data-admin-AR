@@ -1,0 +1,68 @@
+{
+  "id": 1209017361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.16018,-28.36221,-66.16018,-28.36221",
+    "geom:latitude":-28.36221,
+    "geom:longitude":-66.16018,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10084.0",
+    "gn:asciiname":"Rosario de Colana",
+    "gn:country_code":"AR",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838565,
+    "gn:latitude":-28.36221,
+    "gn:longitude":-66.16018,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rosario de Colana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colana",
+        "Rosario",
+        "Rosario de Colana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838565,
+        "wk:page":"Colana"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ea094c9bc0ba5ff06f492e5cd2f58aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209017361
+        }
+    ],
+    "wof:id":1209017361,
+    "wof:lastmodified":1537584843,
+    "wof:name":"Rosario de Colana",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.16018000000001,
+    -28.36221,
+    -66.16018000000001,
+    -28.36221
+],
+  "geometry": {"coordinates":[-66.16018000000001,-28.36221],"type":"Point"}
+}

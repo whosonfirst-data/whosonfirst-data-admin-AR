@@ -1,0 +1,78 @@
+{
+  "id": 421195467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.08973,-36.7745,-59.08973,-36.7745",
+    "geom:latitude":-36.7745,
+    "geom:longitude":-59.08973,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429602,
+    "qs:gn_pop":0,
+    "qs:name":"Rauch",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1044598,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467038,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429602,
+        "gp:id":467038,
+        "qs:id":1044598,
+        "wd:id":"Q2167140",
+        "wk:page":"Rauch Partido"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009849,
+    "wof:geomhash":"5151781dfb52dcfb34ea5429ecd0546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718071,
+            "locality_id":421195467,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195467,
+    "wof:lastmodified":1499925078,
+    "wof:name":"Rauch",
+    "wof:parent_id":1108718071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.08973,
+    -36.7745,
+    -59.08973,
+    -36.7745
+],
+  "geometry": {"coordinates":[-59.08973,-36.7745],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260186481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21381,-35.27653,-63.21381,-35.27653",
+    "geom:latitude":-35.27653,
+    "geom:longitude":-63.21381,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6679.0",
+    "gn:asciiname":"Sansinena",
+    "gn:country_code":"AR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836540,
+    "gn:latitude":-35.27653,
+    "gn:longitude":-63.21381,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sansinena",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836540
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"be47ac3efba1ca603b8a395a9e62fcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718075,
+            "locality_id":1260186481,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1260186481,
+    "wof:lastmodified":1536842742,
+    "wof:name":"Sansinena",
+    "wof:parent_id":1108718075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21381,
+    -35.27653,
+    -63.21381,
+    -35.27653
+],
+  "geometry": {"coordinates":[-63.21381,-35.27653],"type":"Point"}
+}

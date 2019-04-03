@@ -1,0 +1,205 @@
+{
+  "id": 421186903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.485789,-34.521395,-58.485789,-34.521395",
+    "geom:latitude":-34.521395,
+    "geom:longitude":-58.485789,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0633\u0646\u062a\u064a \u0644\u0648\u0628\u064a\u0632"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u057d\u0565\u0576\u057f\u0565 \u053c\u0578\u057a\u0565\u057d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0441\u0435\u043d\u0442\u044d-\u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09a8\u09cd\u09b8\u09c7\u09a8\u09cd\u09a4 \u09b2\u09cb\u09aa\u09c7\u099c"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u68ee\u7279\u6d1b\u4f69\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:dan_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:dut_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:eng_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:fin_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:fre_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10e1\u10d4\u10dc\u10e2\u10d4-\u10da\u10dd\u10de\u10d4\u10e1\u10d8"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5 \u039b\u03cc\u03c0\u03b5\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acb\u0aaa\u0ac7\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e1\u05e0\u05d8\u05d4 \u05dc\u05d5\u05e4\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0938\u0947\u0902\u091f \u0932\u094b\u092a\u0947\u091c"
+    ],
+    "name:ind_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:ita_x_preferred":[
+        "Vicente L\u00f2pez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30bb\u30f3\u30c6\u30fb\u30ed\u30da\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb8\u0cc6\u0c82\u0c9f\u0cc6 \u0cb2\u0ccb\u0caa\u0cc6\u0c9c\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc13c\ud14c \ub85c\ud398\uc988"
+    ],
+    "name:lav_x_preferred":[
+        "Visentelopesa"
+    ],
+    "name:lit_x_preferred":[
+        "Visente Lopesas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093f\u0938\u0947\u0902\u091f \u0932\u094b\u092a\u0947\u091c"
+    ],
+    "name:may_x_preferred":[
+        "Vicente Lopez"
+    ],
+    "name:nob_x_preferred":[
+        "Vicente Lopez"
+    ],
+    "name:pol_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:por_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435-\u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dc3\u0dda\u0db1\u0dca\u0da7\u0dda \u0dbd\u0ddd\u0db4\u0dc3\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:spa_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435 \u041b\u043e\u043f\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0b9a\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7 \u0bb2\u0bcb\u0baa\u0bc6\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c38\u0c46\u0c02\u0c1f\u0c47 \u0c32\u0c4b\u0c2a\u0c46\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e40\u0e0b\u0e19\u0e40\u0e15 \u0e42\u0e25\u0e40\u0e1b\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Vicente Lopez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0441\u0435\u043d\u0442\u0435-\u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u06a9\u06cc\u0646\u062a\u06cc \u0644\u0648\u067e\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Vicente Lopez"
+    ],
+    "name:war_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Vicente L\u00f3pez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":3579,
+    "qs:photos_1k":725,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3579,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077362,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466704,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":466704,
+        "qs:id":1077362,
+        "wd:id":"Q2917260"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009495,
+    "wof:geomhash":"5fa844b19771a2f0ee8c97092c445a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718133,
+            "locality_id":421186903,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186903,
+    "wof:lastmodified":1553816376,
+    "wof:name":"Vicente L\u00f3pez",
+    "wof:parent_id":1108718133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.485789,
+    -34.521395,
+    -58.485789,
+    -34.521395
+],
+  "geometry": {"coordinates":[-58.485789,-34.521395],"type":"Point"}
+}

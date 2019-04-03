@@ -1,0 +1,111 @@
+{
+  "id": 890429613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.56092,-48.46521,-72.56092,-48.46521",
+    "geom:latitude":-48.46521,
+    "geom:longitude":-72.56092,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":400,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:cze_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:dut_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:eng_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:fre_x_preferred":[
+        "villa O'Higgins"
+    ],
+    "name:ger_x_preferred":[
+        "Villa O\u2019Higgins"
+    ],
+    "name:ita_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30fb\u30aa\u30a4\u30ae\u30f3\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja O'Higinsas"
+    ],
+    "name:pol_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rum_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f \u041e'\u0425\u0438\u0433\u0433\u0438\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "name:swe_x_preferred":[
+        "Villa O'Higgins"
+    ],
+    "qs:name":"Villa O'Higgins",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6694355,
+        "gp:id":350010,
+        "qs:id":105190,
+        "wd:id":"Q992143",
+        "wk:page":"Villa O'Higgins"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051822,
+    "wof:geomhash":"e44ae39e190402f960f9a539ee458bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063085,
+            "locality_id":890429613,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":890429613,
+    "wof:lastmodified":1527792793,
+    "wof:name":"Villa O'Higgins",
+    "wof:parent_id":102063085,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.56092,
+    -48.46521,
+    -72.56092,
+    -48.46521
+],
+  "geometry": {"coordinates":[-72.56092,-48.46521],"type":"Point"}
+}

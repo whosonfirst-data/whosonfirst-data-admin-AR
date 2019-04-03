@@ -1,0 +1,68 @@
+{
+  "id": 1276303789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.2254,-34.73477,-68.2254,-34.73477",
+    "geom:latitude":-34.73477,
+    "geom:longitude":-68.2254,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50105.0",
+    "gn:asciiname":"Salto de las Rosas",
+    "gn:country_code":"AR",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838214,
+    "gn:latitude":-34.73477,
+    "gn:longitude":-68.2254,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Salto de las Rosas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838214
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"eae5b5c2cbf7e7c98e67a74f4d2308b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188045,
+            "locality_id":1276303789,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1276303789,
+    "wof:lastmodified":1536817547,
+    "wof:name":"Salto de las Rosas",
+    "wof:parent_id":421188045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.2254,
+    -34.73477,
+    -68.2254,
+    -34.73477
+],
+  "geometry": {"coordinates":[-68.22539999999999,-34.73477],"type":"Point"}
+}

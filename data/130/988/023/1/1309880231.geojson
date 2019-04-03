@@ -1,0 +1,76 @@
+{
+  "id": 1309880231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4,-51.98333,-70.4,-51.98333",
+    "geom:latitude":-51.98333,
+    "geom:longitude":-70.4,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Diego Ritchie",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859352,
+    "gn:latitude":-51.98333,
+    "gn:longitude":-70.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diego Ritchie",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ritchie",
+        "D.E. Ritchie",
+        "Diego E. Ritchie",
+        "Diego Richtie",
+        "Diego Ritchie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859352
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"46c2605d5ffb0d4e265926f8a09452c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1309880231,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1309880231,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Diego Ritchie",
+    "wof:parent_id":421200655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4,
+    -51.98333,
+    -70.4,
+    -51.98333
+],
+  "geometry": {"coordinates":[-70.40000000000001,-51.98333],"type":"Point"}
+}

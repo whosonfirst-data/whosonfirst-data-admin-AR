@@ -1,0 +1,68 @@
+{
+  "id": 1242746261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5556,-26.75578,-65.5556,-26.75578",
+    "geom:latitude":-26.75578,
+    "geom:longitude":-65.5556,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90105.0",
+    "gn:asciiname":"Anfama",
+    "gn:country_code":"AR",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865771,
+    "gn:latitude":-26.75578,
+    "gn:longitude":-65.5556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anfama",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421202257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865771
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"331c38b4bb0daa104643fe0f1a31dfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202257,
+            "locality_id":1242746261,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1242746261,
+    "wof:lastmodified":1536819981,
+    "wof:name":"Anfama",
+    "wof:parent_id":421202257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5556,
+    -26.75578,
+    -65.5556,
+    -26.75578
+],
+  "geometry": {"coordinates":[-65.5556,-26.75578],"type":"Point"}
+}

@@ -1,0 +1,210 @@
+{
+  "id": 1141908051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2665743425,-37.382952048,-70.2665743425,-37.382952048",
+    "geom:latitude":-37.382952,
+    "geom:longitude":-70.266574,
+    "iso:country":"AR",
+    "lbl:latitude":-37.382952,
+    "lbl:longitude":-70.266574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:arm_x_preferred":[
+        "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
+    ],
+    "name:chi_x_preferred":[
+        "\u55ac\u65af\u99ac\u62c9\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:eng_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:fre_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:ger_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:glg_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:grn_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:ita_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30b9\u30fb\u30de\u30e9\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cos Malalis"
+    ],
+    "name:oci_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:por_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:rum_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:swe_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Neuqutn",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-37.382952,
+    "ne:LONGITUDE":-70.266574,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Chos Malal",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-70.258333,
+    "ne:MAX_BBXMIN":-70.283333,
+    "ne:MAX_BBYMAX":-37.366667,
+    "ne:MAX_BBYMIN":-37.391667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":10.0,
+    "ne:MAX_PERMI":6.0,
+    "ne:MAX_POP10":8556,
+    "ne:MAX_POP20":8556,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-70.270833,
+    "ne:MEAN_BBYC":-37.379167,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-70.258333,
+    "ne:MIN_BBXMIN":-70.283333,
+    "ne:MIN_BBYMAX":-37.366667,
+    "ne:MIN_BBYMIN":-37.391667,
+    "ne:MIN_PERKM":10.0,
+    "ne:MIN_PERMI":6.0,
+    "ne:NAME":"Chos Malal",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Chos Malal",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":8556,
+    "ne:POP_MIN":8556,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-37.382952,
+    "reversegeo:longitude":-70.266574,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421199899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q288993"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130809,
+    "wof:geomhash":"957ca335266c36cee2836b1011ddf53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199899,
+            "locality_id":1141908051,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1141908051,
+    "wof:lastmodified":1534379079,
+    "wof:name":"Chos Malal",
+    "wof:parent_id":421199899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        421199995
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26657434251598,
+    -37.3829520479847,
+    -70.26657434251598,
+    -37.3829520479847
+],
+  "geometry": {"coordinates":[-70.26657434251598,-37.3829520479847],"type":"Point"}
+}

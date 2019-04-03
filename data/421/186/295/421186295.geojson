@@ -1,0 +1,75 @@
+{
+  "id": 421186295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-64.302978,-36.608913,-64.302978,-36.608913",
+    "geom:latitude":-36.608913,
+    "geom:longitude":-64.302978,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":80,
+    "qs:photos_1k":16,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":853,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1063352,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070684,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":571,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070684,
+        "qs:id":1063352,
+        "wd:id":"Q233807"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009476,
+    "wof:geomhash":"bb7d2a6b3bfb7b6b2ff3330f4532a61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186295,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421186295,
+    "wof:lastmodified":1527716313,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":85668019,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.302978,
+    -36.608913,
+    -64.302978,
+    -36.608913
+],
+  "geometry": {"coordinates":[-64.302978,-36.608913],"type":"Point"}
+}

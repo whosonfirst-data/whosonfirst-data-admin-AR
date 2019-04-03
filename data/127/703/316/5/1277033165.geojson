@@ -1,0 +1,68 @@
+{
+  "id": 1277033165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.10845,-27.60642,-64.10845,-27.60642",
+    "geom:latitude":-27.60642,
+    "geom:longitude":-64.10845,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86035.0",
+    "gn:asciiname":"Bayo Muerto",
+    "gn:country_code":"AR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864464,
+    "gn:latitude":-27.60642,
+    "gn:longitude":-64.10845,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bayo Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421184161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864464
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"baee2cb69a0802d582fabbb3c5c2efc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421184161,
+            "locality_id":1277033165,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1277033165,
+    "wof:lastmodified":1536834680,
+    "wof:name":"Bayo Muerto",
+    "wof:parent_id":421184161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.10845,
+    -27.60642,
+    -64.10845,
+    -27.60642
+],
+  "geometry": {"coordinates":[-64.10845,-27.60642],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421175113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72211,-33.3839,-64.72211,-33.3839",
+    "geom:latitude":-33.3839,
+    "geom:longitude":-64.72211,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Sampacho"
+    ],
+    "name:eng_x_preferred":[
+        "Sampacho"
+    ],
+    "name:por_x_preferred":[
+        "Sampacho"
+    ],
+    "name:spa_x_preferred":[
+        "Sampacho"
+    ],
+    "name:swe_x_preferred":[
+        "Sampacho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043f\u0430\u0447\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838201,
+    "qs:gn_pop":7238,
+    "qs:name":"Sampacho",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":925260,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467057,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838201,
+        "gp:id":467057,
+        "qs:id":925260,
+        "wd:id":"Q2982604"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009056,
+    "wof:geomhash":"49709f7ce763aec12b5191b25c0d6399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":421175113,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421175113,
+    "wof:lastmodified":1513889422,
+    "wof:name":"Sampacho",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:population":7238,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72211,
+    -33.3839,
+    -64.72211,
+    -33.3839
+],
+  "geometry": {"coordinates":[-64.72211,-33.3839],"type":"Point"}
+}

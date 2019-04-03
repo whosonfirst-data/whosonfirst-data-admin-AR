@@ -1,0 +1,247 @@
+{
+  "id": 421178997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86614,-24.23127,-64.86614,-24.23127",
+    "geom:latitude":-24.23127,
+    "geom:longitude":-64.86614,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648 \u062f\u064a \u062e\u0648\u062e\u0648\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u062f\u0631\u0648 \u062f\u0647 \u062e\u0648\u062e\u0648\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:ceb_x_preferred":[
+        "San Pedro"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u80e1\u80e1\u4f0a"
+    ],
+    "name:deu_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u062f\u0631\u0648 \u062f\u0647 \u062e\u0648\u062e\u0648\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ger_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:lit_x_preferred":[
+        "San Pedro de Chuchujus"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u062f\u0631\u0648 \u062f\u0647 \u062e\u0648\u062e\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u0416\u0443\u0436\u0443\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "San Pedro de Jujuy"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u80e1\u80e1\u4f0a"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Jujuy",
+    "ne:ADMIN1_COD":10,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3836772,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Pedro",
+    "ne:GN_POP":58430,
+    "ne:GTOPO30":563.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-24.219621,
+    "ne:LONGITUDE":-64.870005,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Pedro1",
+    "ne:MAX_AREAKM":20.0,
+    "ne:MAX_AREAMI":8.0,
+    "ne:MAX_BBXMAX":-64.825,
+    "ne:MAX_BBXMIN":-64.9,
+    "ne:MAX_BBYMAX":-24.208333,
+    "ne:MAX_BBYMIN":-24.258333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":30.0,
+    "ne:MAX_PERMI":19.0,
+    "ne:MAX_POP10":52068,
+    "ne:MAX_POP20":52068,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.865064,
+    "ne:MEAN_BBYC":-24.232051,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":20.0,
+    "ne:MIN_AREAMI":8.0,
+    "ne:MIN_BBXMAX":-64.825,
+    "ne:MIN_BBXMIN":-64.9,
+    "ne:MIN_BBYMAX":-24.208333,
+    "ne:MIN_BBYMIN":-24.258333,
+    "ne:MIN_PERKM":30.0,
+    "ne:MIN_PERMI":19.0,
+    "ne:NAME":"San Pedro",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Pedro",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":58430,
+    "ne:POP_MIN":52068,
+    "ne:POP_OTHER":5185,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Jujuy",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3836772,
+    "qs:gn_pop":58430,
+    "qs:name":"San Pedro",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Jujuy",
+    "qs:photos":164,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":164,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1219101,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332520,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:latitude":-24.233333,
+    "wd:longitude":-64.866667,
+    "wd:population":71000,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421171259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836772,
+        "gp:id":332520,
+        "qs:id":1219101,
+        "wd:id":"Q1020263",
+        "wk:page":"San Pedro de Jujuy"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009200,
+    "wof:geomhash":"ad63b1f110bb88a9aeadf4e73977ff07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171259,
+            "locality_id":421178997,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":421178997,
+    "wof:lastmodified":1527717718,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421171259,
+    "wof:placetype":"locality",
+    "wof:population":71000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86614,
+    -24.23127,
+    -64.86614,
+    -24.23127
+],
+  "geometry": {"coordinates":[-64.86614,-24.23127],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421169455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.82576,-30.99471,-62.82576,-30.99471",
+    "geom:latitude":-30.99471,
+    "geom:longitude":-62.82576,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Marull"
+    ],
+    "name:eng_x_preferred":[
+        "Marull"
+    ],
+    "name:por_x_preferred":[
+        "Marull"
+    ],
+    "name:spa_x_preferred":[
+        "Marull"
+    ],
+    "name:swe_x_preferred":[
+        "Marull"
+    ],
+    "name:unk_x_variant":[
+        "Kil\u00f3metro 267"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844759,
+    "qs:gn_pop":1765,
+    "qs:name":"Marull",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":181854,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465805,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844759,
+        "gp:id":465805,
+        "qs:id":181854,
+        "wd:id":"Q2500565"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008811,
+    "wof:geomhash":"21cc50fd6b732ac212a93a59aa8afaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":421169455,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421169455,
+    "wof:lastmodified":1513889258,
+    "wof:name":"Marull",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":1765,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.82576,
+    -30.99471,
+    -62.82576,
+    -30.99471
+],
+  "geometry": {"coordinates":[-62.82576,-30.99471],"type":"Point"}
+}

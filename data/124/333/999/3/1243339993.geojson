@@ -1,0 +1,68 @@
+{
+  "id": 1243339993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15533,-33.30683,-69.15533,-33.30683",
+    "geom:latitude":-33.30683,
+    "geom:longitude":-69.15533,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50126.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"AR",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837365,
+    "gn:latitude":-33.30683,
+    "gn:longitude":-69.15533,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837365
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b4c642e119a28f081b6b843055ed1b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171271,
+            "locality_id":1243339993,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1243339993,
+    "wof:lastmodified":1536959092,
+    "wof:name":"San Jose",
+    "wof:parent_id":421171271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15533,
+    -33.30683,
+    -69.15533,
+    -33.30683
+],
+  "geometry": {"coordinates":[-69.15533000000001,-33.30683],"type":"Point"}
+}

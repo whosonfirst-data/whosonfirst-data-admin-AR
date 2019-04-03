@@ -1,0 +1,68 @@
+{
+  "id": 1310515833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.29276,-35.84786,-63.29276,-35.84786",
+    "geom:latitude":-35.84786,
+    "geom:longitude":-63.29276,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6679.0",
+    "gn:asciiname":"Roosevelt",
+    "gn:country_code":"AR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838609,
+    "gn:latitude":-35.84786,
+    "gn:longitude":-63.29276,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Roosevelt",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838609
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"00f03bacad862b6beb85cbc98ab7f202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718075,
+            "locality_id":1310515833,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310515833,
+    "wof:lastmodified":1536901987,
+    "wof:name":"Roosevelt",
+    "wof:parent_id":1108718075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.29276,
+    -35.84786,
+    -63.29276,
+    -35.84786
+],
+  "geometry": {"coordinates":[-63.29276,-35.84786],"type":"Point"}
+}

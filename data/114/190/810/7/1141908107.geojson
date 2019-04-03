@@ -1,0 +1,185 @@
+{
+  "id": 1141908107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6166465674,-25.9495414034,-60.6166465674,-25.9495414034",
+    "geom:latitude":-25.949541,
+    "geom:longitude":-60.616647,
+    "iso:country":"AR",
+    "lbl:latitude":-25.949541,
+    "lbl:longitude":-60.616647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u0643\u0627\u0633\u062a\u064a\u0644\u064a\u060c \u062a\u0634\u0627\u0643\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u80e1\u5b89\u4f55\u585e\u5361\u65af\u7279\u5229"
+    ],
+    "name:dut_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:fre_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:ger_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05df \u05d7\u05d5\u05e1\u05d4 \u05e7\u05e1\u05d8\u05dc\u05d9"
+    ],
+    "name:por_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
+    ],
+    "name:swe_x_preferred":[
+        "Castelli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u0425\u043e\u0441\u0435-\u041a\u0430\u0441\u0442\u0435\u043b\u043b\u0456"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Chaco",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-25.949541,
+    "ne:LONGITUDE":-60.616647,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Juan Jose Castelli",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-60.6,
+    "ne:MAX_BBXMIN":-60.65,
+    "ne:MAX_BBYMAX":-25.933333,
+    "ne:MAX_BBYMIN":-25.966667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":18.0,
+    "ne:MAX_PERMI":11.0,
+    "ne:MAX_POP10":9421,
+    "ne:MAX_POP20":9421,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.623438,
+    "ne:MEAN_BBYC":-25.946875,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-60.6,
+    "ne:MIN_BBXMIN":-60.65,
+    "ne:MIN_BBYMAX":-25.933333,
+    "ne:MIN_BBYMIN":-25.966667,
+    "ne:MIN_PERKM":18.0,
+    "ne:MIN_PERMI":11.0,
+    "ne:NAME":"Juan Jose Castelli",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Juan Jose Castelli",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":9421,
+    "ne:POP_MIN":9421,
+    "ne:POP_OTHER":9421,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-25.949541,
+    "reversegeo:longitude":-60.616647,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q568624"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130819,
+    "wof:geomhash":"593d69e34edb7c548bd53e94fe53600d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1141908107,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1141908107,
+    "wof:lastmodified":1553816737,
+    "wof:name":"Juan Jose Castelli",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61664656741232,
+    -25.94954140340775,
+    -60.61664656741232,
+    -25.94954140340775
+],
+  "geometry": {"coordinates":[-60.61664656741232,-25.94954140340775],"type":"Point"}
+}

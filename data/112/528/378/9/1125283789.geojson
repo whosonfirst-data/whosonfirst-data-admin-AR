@@ -1,0 +1,77 @@
+{
+  "id": 1125283789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.21833,-32.20778,-58.21833,-32.20778",
+    "geom:latitude":-32.20778,
+    "geom:longitude":-58.21833,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"AR",
+    "lbl:latitude":-32.20778,
+    "lbl:longitude":-58.21833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8051092,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Jos\u00e9 (Entre R\u00edos)",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1042329,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051092,
+        "qs_pg:id":1042329
+    },
+    "wof:country":"AR",
+    "wof:created":1497042617,
+    "wof:geomhash":"34c90ef9ace676abe7fd5434d045c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718243,
+            "localadmin_id":1125283789,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1125283789,
+    "wof:lastmodified":1509387363,
+    "wof:name":"San Jos\u00e9 (Entre R\u00edos)",
+    "wof:parent_id":1108718243,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.21833,
+    -32.20778,
+    -58.21833,
+    -32.20778
+],
+  "geometry": {"coordinates":[-58.21833,-32.20778],"type":"Point"}
+}

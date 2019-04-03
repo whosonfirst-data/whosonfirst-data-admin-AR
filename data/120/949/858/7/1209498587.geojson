@@ -1,0 +1,66 @@
+{
+  "id": 1209498587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.59853,-25.80266,-54.59853,-25.80266",
+    "geom:latitude":-25.80266,
+    "geom:longitude":-54.59853,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54063.0",
+    "gn:asciiname":"Puerto Paulito",
+    "gn:country_code":"AR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429745,
+    "gn:latitude":-25.80266,
+    "gn:longitude":-54.59853,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Paulito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paulito",
+        "Puerto Paulito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429745
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"de94cfae5cec9ef6ad316ca2493c454a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209498587
+        }
+    ],
+    "wof:id":1209498587,
+    "wof:lastmodified":1537584817,
+    "wof:name":"Puerto Paulito",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.59853,
+    -25.80266,
+    -54.59853,
+    -25.80266
+],
+  "geometry": {"coordinates":[-54.59853,-25.80266],"type":"Point"}
+}

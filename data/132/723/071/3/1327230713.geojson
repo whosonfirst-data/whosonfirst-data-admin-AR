@@ -1,0 +1,68 @@
+{
+  "id": 1327230713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95,-30.98333,-63.95,-30.98333",
+    "geom:latitude":-30.98333,
+    "geom:longitude":-63.95,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14021.0",
+    "gn:asciiname":"Cruz del Quemado",
+    "gn:country_code":"AR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859823,
+    "gn:latitude":-30.98333,
+    "gn:longitude":-63.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cruz del Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859823
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ea29aa5220987b17f5acc9e5c28ac935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":1327230713,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1327230713,
+    "wof:lastmodified":1536971643,
+    "wof:name":"Cruz del Quemado",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95,
+    -30.98333,
+    -63.95,
+    -30.98333
+],
+  "geometry": {"coordinates":[-63.95,-30.98333],"type":"Point"}
+}

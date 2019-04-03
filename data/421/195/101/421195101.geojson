@@ -1,0 +1,220 @@
+{
+  "id": 421195101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.82837,-32.85273,-68.82837,-32.85273",
+    "geom:latitude":-32.85273,
+    "geom:longitude":-68.82837,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0441-\u042d\u0440\u0430\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u57c3\u62c9\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Heras"
+    ],
+    "name:eng_x_preferred":[
+        "Las Heras"
+    ],
+    "name:fre_x_preferred":[
+        "Las Heras"
+    ],
+    "name:ita_x_preferred":[
+        "Las Heras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30a8\u30eb\u30ca\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Las Heras"
+    ],
+    "name:por_x_preferred":[
+        "Las Heras"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u042d\u0440\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Las Heras"
+    ],
+    "name:spa_x_preferred":[
+        "Las Heras"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441 \u0415\u0440\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0415\u0440\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u06c1\u06cc\u0631\u0627\u0633\u060c \u0645\u06cc\u0646\u0688\u0648\u0632\u0627"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Mendoza",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":null,
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-32.825039,
+    "ne:LONGITUDE":-68.801677,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Las Heras",
+    "ne:MAX_AREAKM":75.0,
+    "ne:MAX_AREAMI":29.0,
+    "ne:MAX_BBXMAX":-68.641667,
+    "ne:MAX_BBXMIN":-68.875,
+    "ne:MAX_BBYMAX":-32.791667,
+    "ne:MAX_BBYMIN":-32.888595,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":97.0,
+    "ne:MAX_PERMI":60.0,
+    "ne:MAX_POP10":66663,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-68.757632,
+    "ne:MEAN_BBYC":-32.842945,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":75.0,
+    "ne:MIN_AREAMI":29.0,
+    "ne:MIN_BBXMAX":-68.641667,
+    "ne:MIN_BBXMIN":-68.875,
+    "ne:MIN_BBYMAX":-32.791667,
+    "ne:MIN_BBYMIN":-32.888595,
+    "ne:MIN_PERKM":97.0,
+    "ne:MIN_PERMI":60.0,
+    "ne:NAME":"Las Heras",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Las Heras",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":66663,
+    "ne:POP_MIN":66663,
+    "ne:POP_OTHER":56127,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3848354,
+    "qs:gn_pop":0,
+    "qs:name":"Las Heras",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":346,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":346,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":232812,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332498,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421170121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848354,
+        "gp:id":332498,
+        "qs:id":232812,
+        "wd:id":"Q2707626",
+        "wk:page":"Las Heras, Mendoza"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009832,
+    "wof:geomhash":"e505f6c53141829d77aef9ff02053df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170121,
+            "locality_id":421195101,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421195101,
+    "wof:lastmodified":1553816383,
+    "wof:name":"Las Heras",
+    "wof:parent_id":421170121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.82837,
+    -32.85273,
+    -68.82837,
+    -32.85273
+],
+  "geometry": {"coordinates":[-68.82837000000001,-32.85273],"type":"Point"}
+}

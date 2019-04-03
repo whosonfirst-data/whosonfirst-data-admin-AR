@@ -1,0 +1,68 @@
+{
+  "id": 1310581417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28416,-30.20732,-67.28416,-30.20732",
+    "geom:latitude":-30.20732,
+    "geom:longitude":-67.28416,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46105.0",
+    "gn:asciiname":"Paganzo",
+    "gn:country_code":"AR",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842404,
+    "gn:latitude":-30.20732,
+    "gn:longitude":-67.28416,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paganzo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842404
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c757ef1fd82a328260a88ec7ab1516bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718345,
+            "locality_id":1310581417,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1310581417,
+    "wof:lastmodified":1536807202,
+    "wof:name":"Paganzo",
+    "wof:parent_id":1108718345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28416,
+    -30.20732000000001,
+    -67.28416,
+    -30.20732000000001
+],
+  "geometry": {"coordinates":[-67.28416,-30.20732000000001],"type":"Point"}
+}

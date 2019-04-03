@@ -1,0 +1,90 @@
+{
+  "id": 890433749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.09218,-25.05504,-60.09218,-25.05504",
+    "geom:latitude":-25.05504,
+    "geom:longitude":-60.09218,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":4055,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:eng_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:por_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:spa_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:swe_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u043e-\u0434\u0435\u043b\u044c-\u041a\u0430\u043c\u043f\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Estancia del Campo"
+    ],
+    "qs:name":"Estanislao del Campo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855763,
+        "gp:id":467637,
+        "qs:id":585683,
+        "wd:id":"Q8843108",
+        "wk:page":"Estanislao del Campo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051993,
+    "wof:geomhash":"96b5d7359ee58329b556ab64deca7643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":890433749,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":890433749,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Estanislao del Campo",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:population":4055,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.09218,
+    -25.05504,
+    -60.09218,
+    -25.05504
+],
+  "geometry": {"coordinates":[-60.09218,-25.05504],"type":"Point"}
+}

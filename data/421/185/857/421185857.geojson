@@ -1,0 +1,75 @@
+{
+  "id": 421185857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.106628,-34.363914,-62.106628,-34.363914",
+    "geom:latitude":-34.363914,
+    "geom:longitude":-62.106628,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mayor Jos\u00e9 Orellanos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1053860,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332539,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":332539,
+        "qs:id":1053860
+    },
+    "wof:country":"AR",
+    "wof:created":1459009456,
+    "wof:geomhash":"70499cf16b0b2b68bfe73b7ca6436acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421185857,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421185857,
+    "wof:lastmodified":1499925555,
+    "wof:name":"Mayor Jos\u00e9 Orellanos",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.106628,
+    -34.363914,
+    -62.106628,
+    -34.363914
+],
+  "geometry": {"coordinates":[-62.106628,-34.363914],"type":"Point"}
+}

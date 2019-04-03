@@ -1,0 +1,62 @@
+{
+  "id": 1209519615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.12291,-35.04896,-63.12291,-35.04896",
+    "geom:latitude":-35.04896,
+    "geom:longitude":-63.12291,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6392.0",
+    "gn:asciiname":"Elordi",
+    "gn:country_code":"AR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857432,
+    "gn:latitude":-35.04896,
+    "gn:longitude":-63.12291,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elordi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857432
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"88ca9023ad39a4ba83e9dd7646a12de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209519615
+        }
+    ],
+    "wof:id":1209519615,
+    "wof:lastmodified":1536284622,
+    "wof:name":"Elordi",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.12291,
+    -35.04896,
+    -63.12291,
+    -35.04896
+],
+  "geometry": {"coordinates":[-63.12291,-35.04896],"type":"Point"}
+}

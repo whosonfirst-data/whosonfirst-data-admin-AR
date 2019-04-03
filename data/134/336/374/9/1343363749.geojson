@@ -1,0 +1,68 @@
+{
+  "id": 1343363749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.6,-30.83333,-63.6,-30.83333",
+    "geom:latitude":-30.83333,
+    "geom:longitude":-63.6,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14105.0",
+    "gn:asciiname":"Pozo del Moro",
+    "gn:country_code":"AR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840465,
+    "gn:latitude":-30.83333,
+    "gn:longitude":-63.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozo del Moro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840465
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"13c9d3368dfc2fddf8d3e48eccbfce2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":1343363749,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1343363749,
+    "wof:lastmodified":1536885181,
+    "wof:name":"Pozo del Moro",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.6,
+    -30.83333,
+    -63.6,
+    -30.83333
+],
+  "geometry": {"coordinates":[-63.6,-30.83333],"type":"Point"}
+}

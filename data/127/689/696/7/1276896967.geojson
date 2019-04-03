@@ -1,0 +1,72 @@
+{
+  "id": 1276896967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.02394,-33.87441,-65.02394,-33.87441",
+    "geom:latitude":-33.87441,
+    "geom:longitude":-65.02394,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Paunero",
+    "gn:country_code":"AR",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841757,
+    "gn:latitude":-33.87441,
+    "gn:longitude":-65.02394,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paunero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "General Paunero",
+        "Paunero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841757
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cb0663159d26d92c093b97a720a17d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1276896967,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1276896967,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paunero",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.02394,
+    -33.87441,
+    -65.02394,
+    -33.87441
+],
+  "geometry": {"coordinates":[-65.02394,-33.87441],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209196469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.09295,-38.99397,-64.09295,-38.99397",
+    "geom:latitude":-38.99397,
+    "geom:longitude":-64.09295,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62063.0",
+    "gn:asciiname":"Rio Colorado",
+    "gn:country_code":"AR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3838879,
+    "gn:latitude":-38.99397,
+    "gn:longitude":-64.09295,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"R\u00edo Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0447\u0438-\u041c\u0430\u0443\u0438\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "R\u00edo Colorado"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u79d1\u6d1b\u62c9\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838879,
+        "wk:page":"R%C3%ADo_Colorado%2C_R%C3%ADo_Negro"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f82df23013efa14071606460fc484dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209196469
+        }
+    ],
+    "wof:id":1209196469,
+    "wof:lastmodified":1537584844,
+    "wof:name":"Rio Colorado",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.09295,
+    -38.99397,
+    -64.09295,
+    -38.99397
+],
+  "geometry": {"coordinates":[-64.09295,-38.99397],"type":"Point"}
+}

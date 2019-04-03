@@ -1,0 +1,142 @@
+{
+  "id": 421184807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.64581,-26.2552,-53.64581,-26.2552",
+    "geom:latitude":-26.2552,
+    "geom:longitude":-53.64581,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u043d\u0434\u0430-\u0434\u044d-\u0406\u0440\u044b\u0433\u043e\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u723e\u7d0d\u591a\u5fb7\u4f0a\u91cc\u6208\u5ef6"
+    ],
+    "name:deu_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:dut_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:eng_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:epo_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:fra_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:fre_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:ger_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e0\u05e8\u05d3\u05d5 \u05d3\u05d4 \u05d0\u05d9\u05e8\u05d9\u05d2\u05d5\u05d6'\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ca\u30eb\u30c9\u30fb\u30c7\u30fb\u30a4\u30ea\u30b4\u30b8\u30a7\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:por_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:spa_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:swe_x_preferred":[
+        "Bernardo de Irigoyen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u043e-\u0406\u0440\u0456\u0433\u043e\u0454\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Barracon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u7d0d\u591a\u5fb7\u4f0a\u91cc\u6208\u5ef6"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436030,
+    "qs:gn_pop":10889,
+    "qs:name":"Bernardo de Irigoyen",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1013015,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464813,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436030,
+        "gp:id":464813,
+        "qs:id":1013015,
+        "wd:id":"Q823073",
+        "wk:page":"Bernardo de Irigoyen, Misiones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009423,
+    "wof:geomhash":"14e15a0216f8ebe8e23e61faf598a00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203245,
+            "locality_id":421184807,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421184807,
+    "wof:lastmodified":1553816374,
+    "wof:name":"Bernardo de Irigoyen",
+    "wof:parent_id":421203245,
+    "wof:placetype":"locality",
+    "wof:population":10889,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.64581,
+    -26.2552,
+    -53.64581,
+    -26.2552
+],
+  "geometry": {"coordinates":[-53.64581,-26.2552],"type":"Point"}
+}

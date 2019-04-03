@@ -1,0 +1,121 @@
+{
+  "id": 421203779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.5339,-27.25586,-55.5339,-27.25586",
+    "geom:latitude":-27.25586,
+    "geom:longitude":-55.5339,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fra_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fre_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:lit_x_preferred":[
+        "San Ignasijus"
+    ],
+    "name:pol_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0406\u0433\u043d\u0430\u0441\u0456\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429016,
+    "qs:gn_pop":0,
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":1325,
+    "qs:photos_1k":268,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1325,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":117697,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332659,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421180297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429016,
+        "gp:id":332659,
+        "qs:id":117697,
+        "wd:id":"Q3181334",
+        "wk:page":"San Ignacio, Misiones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010163,
+    "wof:geomhash":"bdcd4b330034d02a052a8a74198546f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180297,
+            "locality_id":421203779,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421203779,
+    "wof:lastmodified":1527716195,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":421180297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.5339,
+    -27.25586,
+    -55.5339,
+    -27.25586
+],
+  "geometry": {"coordinates":[-55.5339,-27.25586],"type":"Point"}
+}

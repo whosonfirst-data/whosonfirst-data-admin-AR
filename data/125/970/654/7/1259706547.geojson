@@ -1,0 +1,68 @@
+{
+  "id": 1259706547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.24398,-32.66167,-63.24398,-32.66167",
+    "geom:latitude":-32.66167,
+    "geom:longitude":-63.24398,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14042.0",
+    "gn:asciiname":"Ausonia",
+    "gn:country_code":"AR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865223,
+    "gn:latitude":-32.66167,
+    "gn:longitude":-63.24398,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ausonia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865223
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3bc4eb53e7feaca07dbbfe84e4ef8b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":1259706547,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1259706547,
+    "wof:lastmodified":1537032490,
+    "wof:name":"Ausonia",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.24398000000001,
+    -32.66167,
+    -63.24398000000001,
+    -32.66167
+],
+  "geometry": {"coordinates":[-63.24398000000001,-32.66167],"type":"Point"}
+}

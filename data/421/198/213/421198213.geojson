@@ -1,0 +1,80 @@
+{
+  "id": 421198213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.096,-26.93347,-65.096,-26.93347",
+    "geom:latitude":-26.93347,
+    "geom:longitude":-65.096,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3836920,
+    "qs:gn_pop":0,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":180553,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332018,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428644,
+        "gp:id":332018,
+        "qs:id":180553,
+        "qs_pg:id":583230
+    },
+    "wof:country":"AR",
+    "wof:created":1459009940,
+    "wof:geomhash":"bcd7b284621d8d4917d4772639d5214c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":421198213,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421198213,
+    "wof:lastmodified":1497301255,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.096,
+    -26.93347,
+    -65.096,
+    -26.93347
+],
+  "geometry": {"coordinates":[-65.096,-26.93347],"type":"Point"}
+}

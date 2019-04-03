@@ -1,0 +1,68 @@
+{
+  "id": 1344033493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22423,-30.41098,-69.22423,-30.41098",
+    "geom:latitude":-30.41098,
+    "geom:longitude":-69.22423,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70049.0",
+    "gn:asciiname":"Iglesia",
+    "gn:country_code":"AR",
+    "gn:dem":1881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853918,
+    "gn:latitude":-30.41098,
+    "gn:longitude":-69.22423,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iglesia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421171511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853918
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cbf4253d4f17ddbe50c745aec4b04dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171511,
+            "locality_id":1344033493,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1344033493,
+    "wof:lastmodified":1536915085,
+    "wof:name":"Iglesia",
+    "wof:parent_id":421171511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22423,
+    -30.41098,
+    -69.22423,
+    -30.41098
+],
+  "geometry": {"coordinates":[-69.22423000000001,-30.41098],"type":"Point"}
+}

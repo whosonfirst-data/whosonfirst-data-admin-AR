@@ -1,0 +1,62 @@
+{
+  "id": 1209179731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3332,-32.7331,-66.3332,-32.7331",
+    "geom:latitude":-32.7331,
+    "geom:longitude":-66.3332,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74014.0",
+    "gn:asciiname":"Toro Negro",
+    "gn:country_code":"AR",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834132,
+    "gn:latitude":-32.7331,
+    "gn:longitude":-66.3332,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Toro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834132
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"54bc22c64308605f58a04e8140e24706",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209179731
+        }
+    ],
+    "wof:id":1209179731,
+    "wof:lastmodified":1536295300,
+    "wof:name":"Toro Negro",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3332,
+    -32.7331,
+    -66.3332,
+    -32.7331
+],
+  "geometry": {"coordinates":[-66.33320000000001,-32.7331],"type":"Point"}
+}

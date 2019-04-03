@@ -1,0 +1,71 @@
+{
+  "id": 1193150953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.71005,-34.24557,-58.71005,-34.24557",
+    "geom:latitude":-34.24557,
+    "geom:longitude":-58.71005,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6749.0",
+    "gn:asciiname":"Boca Carabelas",
+    "gn:country_code":"AR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149664,
+    "gn:latitude":-34.24557,
+    "gn:longitude":-58.71005,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boca Carabelas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca Carabelas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149664
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"67578bbe7ea608dde69a98ed17a2630e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718097,
+            "locality_id":1193150953,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193150953,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Boca Carabelas",
+    "wof:parent_id":1108718097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.71005,
+    -34.24557,
+    -58.71005,
+    -34.24557
+],
+  "geometry": {"coordinates":[-58.71005,-34.24557],"type":"Point"}
+}

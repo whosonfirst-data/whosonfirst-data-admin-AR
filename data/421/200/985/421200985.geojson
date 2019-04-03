@@ -1,0 +1,139 @@
+{
+  "id": 421200985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.73432,-35.97035,-62.73432,-35.97035",
+    "geom:latitude":-35.97035,
+    "geom:longitude":-62.73432,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0646\u0643\u064a\u0648 \u0644\u0627\u064a\u0643\u064a\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:chi_x_preferred":[
+        "\u7279\u502b\u514b\u52de\u80af"
+    ],
+    "name:dut_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:eng_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e0\u05e7\u05d4 \u05dc\u05d0\u05d5\u05e7\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30f3\u30b1\u30fb\u30e9\u30a6\u30b1\u30f3"
+    ],
+    "name:oci_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    ],
+    "name:por_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:sco_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:spa_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u043d\u043a\u0435-\u041b\u0430\u0443\u043a\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "T. Lauquen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u502b\u514b\u52de\u80af"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833875,
+    "qs:gn_pop":0,
+    "qs:name":"Trenque Lauquen",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":395,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":395,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1327532,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467067,
+    "src:geom":"quattroshapes",
+    "wd:elevation":80.0,
+    "wd:latitude":-35.966667,
+    "wd:longitude":-62.7,
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833875,
+        "gp:id":467067,
+        "qs:id":1327532,
+        "wd:id":"Q264679",
+        "wk:page":"Trenque Lauquen"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010048,
+    "wof:geomhash":"a4401af68908938627fe86925be202db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718123,
+            "locality_id":421200985,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421200985,
+    "wof:lastmodified":1527716425,
+    "wof:name":"Trenque Lauquen",
+    "wof:parent_id":1108718123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73432,
+    -35.97035,
+    -62.73432,
+    -35.97035
+],
+  "geometry": {"coordinates":[-62.73432,-35.97035],"type":"Point"}
+}

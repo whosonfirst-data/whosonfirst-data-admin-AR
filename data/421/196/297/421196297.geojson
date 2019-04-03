@@ -1,0 +1,102 @@
+{
+  "id": 421196297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67586,-32.41074,-65.67586,-32.41074",
+    "geom:latitude":-32.41074,
+    "geom:longitude":-65.67586,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Libertador General San Mart\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "San Mart\u00edn"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3846914,
+    "qs:gn_pop":0,
+    "qs:name":"Libertador General San Mart\u00edn",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":873224,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331268,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846914,
+        "gp:id":331268,
+        "qs:id":873224,
+        "wd:id":"Q677444"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009876,
+    "wof:geomhash":"8ac8af060f2e8432dcf427b5b426c253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718447,
+            "locality_id":421196297,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421196297,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Libertador General San Mart\u00edn",
+    "wof:parent_id":1108718447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67586,
+    -32.41074,
+    -65.67586,
+    -32.41074
+],
+  "geometry": {"coordinates":[-65.67586,-32.41074],"type":"Point"}
+}

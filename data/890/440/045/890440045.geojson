@@ -1,0 +1,90 @@
+{
+  "id": 890440045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94617,-26.59926,-60.94617,-26.59926",
+    "geom:latitude":-26.59926,
+    "geom:longitude":-60.94617,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":5830,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:eng_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d-\u0434\u0435\u043b\u044c-\u0411\u0435\u0440\u043c\u0435\u0445\u043e"
+    ],
+    "qs:name":"Concepci\u00f3n del Bermejo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860419,
+        "gp:id":91863216,
+        "qs:id":585707,
+        "wd:id":"Q785491",
+        "wk:page":"Concepci\u00f3n del Bermejo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052260,
+    "wof:geomhash":"b3135f7ed6cfd20750edcc189b77a950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185419,
+            "locality_id":890440045,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890440045,
+    "wof:lastmodified":1527727107,
+    "wof:name":"Concepci\u00f3n del Bermejo",
+    "wof:parent_id":421185419,
+    "wof:placetype":"locality",
+    "wof:population":5830,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94617,
+    -26.59926,
+    -60.94617,
+    -26.59926
+],
+  "geometry": {"coordinates":[-60.94617,-26.59926],"type":"Point"}
+}

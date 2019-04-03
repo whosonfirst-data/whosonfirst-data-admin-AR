@@ -1,0 +1,68 @@
+{
+  "id": 1293389311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.13333,-31.31667,-63.13333,-31.31667",
+    "geom:latitude":-31.31667,
+    "geom:longitude":-63.13333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14140.0",
+    "gn:asciiname":"Cabituyo",
+    "gn:country_code":"AR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863594,
+    "gn:latitude":-31.31667,
+    "gn:longitude":-63.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cabituyo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863594
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fd72fd0bd554d4aebcbef610eb39b443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":1293389311,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1293389311,
+    "wof:lastmodified":1536929280,
+    "wof:name":"Cabituyo",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.13333000000001,
+    -31.31667,
+    -63.13333000000001,
+    -31.31667
+],
+  "geometry": {"coordinates":[-63.13333000000001,-31.31667],"type":"Point"}
+}

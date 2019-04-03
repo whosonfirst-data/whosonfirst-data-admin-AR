@@ -1,0 +1,95 @@
+{
+  "id": 421172657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.57197,-27.31676,-58.57197,-27.31676",
+    "geom:latitude":-27.31676,
+    "geom:longitude":-58.57197,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Paso de la Patria"
+    ],
+    "name:eng_x_preferred":[
+        "Paso de la Patria"
+    ],
+    "name:spa_x_preferred":[
+        "Paso de la Patria"
+    ],
+    "name:swe_x_preferred":[
+        "Paso de la Patria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u043e-\u0434\u0435-\u043b\u0430-\u041f\u0430\u0442\u0440\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430105,
+    "qs:gn_pop":5818,
+    "qs:name":"Paso de la Patria",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":166,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":166,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1316017,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467984,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421171891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430105,
+        "gp:id":467984,
+        "qs:id":1316017,
+        "wd:id":"Q9056608"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008950,
+    "wof:geomhash":"b60e140c0b5ffb7729d638bbc46f53bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171891,
+            "locality_id":421172657,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421172657,
+    "wof:lastmodified":1513889348,
+    "wof:name":"Paso de la Patria",
+    "wof:parent_id":421171891,
+    "wof:placetype":"locality",
+    "wof:population":5818,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.57197,
+    -27.31676,
+    -58.57197,
+    -27.31676
+],
+  "geometry": {"coordinates":[-58.57197,-27.31676],"type":"Point"}
+}

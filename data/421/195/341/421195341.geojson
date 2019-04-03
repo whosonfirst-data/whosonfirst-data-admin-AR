@@ -1,0 +1,102 @@
+{
+  "id": 421195341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1011,-33.89512,-61.1011,-33.89512",
+    "geom:latitude":-33.89512,
+    "geom:longitude":-61.1011,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Partido Col\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:hun_x_preferred":[
+        "Col\u00f3n partido"
+    ],
+    "name:ita_x_preferred":[
+        "Partido di Col\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:sco_x_preferred":[
+        "Col\u00f3n Partido"
+    ],
+    "name:spa_x_preferred":[
+        "Partido de Col\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860828,
+    "qs:gn_pop":0,
+    "qs:name":"Col\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":169,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":169,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150534,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466934,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860828,
+        "gp:id":466934,
+        "qs:id":150534,
+        "wd:id":"Q692762",
+        "wk:page":"Col\u00f3n Partido"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009840,
+    "wof:geomhash":"1e271ff8620df460b749d7c8777d5e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717901,
+            "locality_id":421195341,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195341,
+    "wof:lastmodified":1499925078,
+    "wof:name":"Col\u00f3n",
+    "wof:parent_id":1108717901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1011,
+    -33.89512,
+    -61.1011,
+    -33.89512
+],
+  "geometry": {"coordinates":[-61.1011,-33.89512],"type":"Point"}
+}

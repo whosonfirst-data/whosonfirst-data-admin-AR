@@ -1,0 +1,72 @@
+{
+  "id": 1193254663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36314,-24.65878,-65.36314,-24.65878",
+    "geom:latitude":-24.65878,
+    "geom:longitude":-65.36314,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66077.0",
+    "gn:asciiname":"La Calderilla",
+    "gn:country_code":"AR",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852391,
+    "gn:latitude":-24.65878,
+    "gn:longitude":-65.36314,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Calderilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calderilla",
+        "La Calderilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421187151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852391
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"546f7f7fb7652a13caf0e1ce531761e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187151,
+            "locality_id":1193254663,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1193254663,
+    "wof:lastmodified":1537584868,
+    "wof:name":"La Calderilla",
+    "wof:parent_id":421187151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36314,
+    -24.65878,
+    -65.36314,
+    -24.65878
+],
+  "geometry": {"coordinates":[-65.36314,-24.65878],"type":"Point"}
+}

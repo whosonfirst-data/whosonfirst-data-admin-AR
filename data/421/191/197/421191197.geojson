@@ -1,0 +1,379 @@
+{
+  "id": 421191197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28333,-36.61667,-64.28333,-36.61667",
+    "geom:latitude":-36.61667,
+    "geom:longitude":-64.28333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0632\u0627\u060c \u0644\u0627 \u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u054c\u0578\u057d\u0561"
+    ],
+    "name:baq_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09be \u09b0\u09cb\u099c\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:ces_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u838e"
+    ],
+    "name:cze_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:deu_x_variant":[
+        "Santa Rosa de Toay"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0633\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03cc\u03c3\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0ab0\u0acb\u0a9d\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0930\u094b\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u054c\u0578\u057d\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30ed\u30fc\u30b5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0cb0\u0ccb\u0cb8\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ub85c\uc0ac"
+    ],
+    "name:lat_x_preferred":[
+        "Sancta Rosa"
+    ],
+    "name:lav_x_preferred":[
+        "Santarosa"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0930\u094b\u091d\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:msa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:nor_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0633\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0632\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:por_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:que_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0dbb\u0ddd\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:slo_x_preferred":[
+        "Santa Rosa de Toay"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de Santa Rosa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430 \u0434\u0435 \u0422\u043e\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe \u0bb0\u0bcb\u0b9a\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c02\u0c1f\u0c3e \u0c30\u0c4b\u0c38\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e42\u0e23\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Santa Rosa de Toay"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0633\u0627\u060c \u0644\u0627 \u067e\u0627\u0645\u067e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:war_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u838e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"La Pampa",
+    "ne:ADMIN1_COD":11,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3835994,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Santa Rosa",
+    "ne:GN_POP":111424,
+    "ne:GTOPO30":176.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-36.620001,
+    "ne:LONGITUDE":-64.299988,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Santa Rosa2",
+    "ne:MAX_AREAKM":39.0,
+    "ne:MAX_AREAMI":15.0,
+    "ne:MAX_BBXMAX":-64.241667,
+    "ne:MAX_BBXMIN":-64.341667,
+    "ne:MAX_BBYMAX":-36.575,
+    "ne:MAX_BBYMIN":-36.658333,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":43.0,
+    "ne:MAX_PERMI":27.0,
+    "ne:MAX_POP10":83963,
+    "ne:MAX_POP20":83963,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":83963,
+    "ne:MEAN_BBXC":-64.289435,
+    "ne:MEAN_BBYC":-36.622024,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":39.0,
+    "ne:MIN_AREAMI":15.0,
+    "ne:MIN_BBXMAX":-64.241667,
+    "ne:MIN_BBXMIN":-64.341667,
+    "ne:MIN_BBYMAX":-36.575,
+    "ne:MIN_BBYMIN":-36.658333,
+    "ne:MIN_PERKM":43.0,
+    "ne:MIN_PERMI":27.0,
+    "ne:NAME":"Santa Rosa",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santa Rosa",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":111424,
+    "ne:POP_MIN":83963,
+    "ne:POP_OTHER":83521,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Salta",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3835994,
+    "qs:gn_pop":111424,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":772,
+    "qs:photos_1k":156,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":772,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1133557,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332482,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":527,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835994,
+        "gp:id":332482,
+        "qs:id":1133557,
+        "wd:id":"Q44215",
+        "wk:page":"Santa Rosa, La Pampa"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009684,
+    "wof:geomhash":"d9cfaa7bbe109c00531da9cadbb8db8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718291,
+            "locality_id":421191197,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421191197,
+    "wof:lastmodified":1527716382,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108718291,
+    "wof:placetype":"locality",
+    "wof:population":111424,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28333,
+    -36.61667,
+    -64.28333,
+    -36.61667
+],
+  "geometry": {"coordinates":[-64.28333000000001,-36.61667],"type":"Point"}
+}

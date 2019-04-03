@@ -1,0 +1,69 @@
+{
+  "id": 1259483793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06667,-45.56667,-71.06667,-45.56667",
+    "geom:latitude":-45.56667,
+    "geom:longitude":-71.06667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26084.0",
+    "gn:asciiname":"Doctor Ricardo Rojas",
+    "gn:country_code":"AR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859280,
+    "gn:latitude":-45.56667,
+    "gn:longitude":-71.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Doctor Ricardo Rojas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859280,
+        "wk:page":"Doctor_Ricardo_Rojas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"26e875b998979cd4f8f1be7b858e0683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "locality_id":1259483793,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1259483793,
+    "wof:lastmodified":1537486340,
+    "wof:name":"Doctor Ricardo Rojas",
+    "wof:parent_id":421171527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06667,
+    -45.56667,
+    -71.06667,
+    -45.56667
+],
+  "geometry": {"coordinates":[-71.06667,-45.56667],"type":"Point"}
+}

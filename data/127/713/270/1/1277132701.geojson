@@ -1,0 +1,73 @@
+{
+  "id": 1277132701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.91667,-27.3,-65.91667,-27.3",
+    "geom:latitude":-27.3,
+    "geom:longitude":-65.91667,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90021.0",
+    "gn:asciiname":"Cochuna",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860945,
+    "gn:latitude":-27.3,
+    "gn:longitude":-65.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cochuna",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento R\u00edo Cochuna",
+        "Cochuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421178317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860945
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"76b79edfe6cf659a9fa5c60fa4bf3f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421178317,
+            "locality_id":1277132701,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1277132701,
+    "wof:lastmodified":1537584892,
+    "wof:name":"Cochuna",
+    "wof:parent_id":421178317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.91667,
+    -27.3,
+    -65.91667,
+    -27.3
+],
+  "geometry": {"coordinates":[-65.91667,-27.3],"type":"Point"}
+}

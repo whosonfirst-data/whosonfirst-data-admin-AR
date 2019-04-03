@@ -1,0 +1,68 @@
+{
+  "id": 1326594253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.61564,-31.42917,-60.61564,-31.42917",
+    "geom:latitude":-31.42917,
+    "geom:longitude":-60.61564,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82063.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"AR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836763,
+    "gn:latitude":-31.42917,
+    "gn:longitude":-60.61564,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836763
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"19435655fe4fdc38ff6c85bb96359832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718453,
+            "locality_id":1326594253,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1326594253,
+    "wof:lastmodified":1536894492,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108718453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61564,
+    -31.42917000000001,
+    -60.61564,
+    -31.42917000000001
+],
+  "geometry": {"coordinates":[-60.61564,-31.42917000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276251077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6551,-27.37336,-57.6551,-27.37336",
+    "geom:latitude":-27.37336,
+    "geom:longitude":-57.6551,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18014.0",
+    "gn:asciiname":"Yahape",
+    "gn:country_code":"AR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427287,
+    "gn:latitude":-27.37336,
+    "gn:longitude":-57.6551,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yahap\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Yahepe",
+        "Puerto Yahap\u00e9",
+        "Estancia Yahap\u00e9",
+        "Yahap\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427287
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3fe463522e3222ee3875b25387f9e30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718169,
+            "locality_id":1276251077,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1276251077,
+    "wof:lastmodified":1537584813,
+    "wof:name":"Yahape",
+    "wof:parent_id":1108718169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6551,
+    -27.37336,
+    -57.6551,
+    -27.37336
+],
+  "geometry": {"coordinates":[-57.6551,-27.37336],"type":"Point"}
+}

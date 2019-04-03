@@ -1,0 +1,68 @@
+{
+  "id": 1310368985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67412,-24.39265,-63.67412,-24.39265",
+    "geom:latitude":-24.39265,
+    "geom:longitude":-63.67412,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66007.0",
+    "gn:asciiname":"Campo Alegre",
+    "gn:country_code":"AR",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863240,
+    "gn:latitude":-24.39265,
+    "gn:longitude":-63.67412,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Campo Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863240
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2942b9b9b6e183cd8eb24dacd31a06ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1310368985,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1310368985,
+    "wof:lastmodified":1536614186,
+    "wof:name":"Campo Alegre",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67412,
+    -24.39265,
+    -63.67412,
+    -24.39265
+],
+  "geometry": {"coordinates":[-63.67412,-24.39265],"type":"Point"}
+}

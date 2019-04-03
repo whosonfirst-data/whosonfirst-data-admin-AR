@@ -1,0 +1,72 @@
+{
+  "id": 1226660223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52678,-34.34333,-61.52678,-34.34333",
+    "geom:latitude":-34.34333,
+    "geom:longitude":-61.52678,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6462.0",
+    "gn:asciiname":"Fortin Acha",
+    "gn:country_code":"AR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855458,
+    "gn:latitude":-34.34333,
+    "gn:longitude":-61.52678,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fort\u00edn Acha",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Bruyn",
+        "Fort\u00edn Acha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855458
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3e97e68fddccc45590ff61ce7c59b04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717999,
+            "locality_id":1226660223,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226660223,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Fortin Acha",
+    "wof:parent_id":1108717999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52678,
+    -34.34333,
+    -61.52678,
+    -34.34333
+],
+  "geometry": {"coordinates":[-61.52678,-34.34333],"type":"Point"}
+}

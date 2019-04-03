@@ -1,0 +1,104 @@
+{
+  "id": 421173579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.35598,-32.2879,-63.35598,-32.2879",
+    "geom:latitude":-32.2879,
+    "geom:longitude":-63.35598,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:dut_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:glg_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:por_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00edo Pujio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043e-\u041f\u0443\u0445\u0456\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3834339,
+    "qs:gn_pop":2383,
+    "qs:name":"T\u00edo Pujio",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":291287,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466608,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834339,
+        "gp:id":466608,
+        "qs:id":291287,
+        "wd:id":"Q6154571"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008990,
+    "wof:geomhash":"b779f13da1abfc3e33ec2d171d32dbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":421173579,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421173579,
+    "wof:lastmodified":1513889576,
+    "wof:name":"T\u00edo Pujio",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:population":2383,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.35598,
+    -32.2879,
+    -63.35598,
+    -32.2879
+],
+  "geometry": {"coordinates":[-63.35598,-32.2879],"type":"Point"}
+}

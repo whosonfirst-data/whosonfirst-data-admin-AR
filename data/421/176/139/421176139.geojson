@@ -1,0 +1,115 @@
+{
+  "id": 421176139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.3548,-32.54453,-59.3548,-32.54453",
+    "geom:latitude":-32.54453,
+    "geom:longitude":-59.3548,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:dut_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:eng_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:fra_x_preferred":[
+        "Mansilla"
+    ],
+    "name:fre_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:ger_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:por_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:swe_x_preferred":[
+        "Gobernador Mansilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u0435\u0440\u043d\u0430\u0434\u043e\u0440-\u041c\u0430\u043d\u0441\u0456\u043b\u044c\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Mansilla"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433747,
+    "qs:gn_pop":2264,
+    "qs:name":"Gobernador Mansilla",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1044632,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467679,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433747,
+        "gp:id":467679,
+        "qs:id":1044632,
+        "wd:id":"Q5575454",
+        "wk:page":"Gobernador Mansilla"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009096,
+    "wof:geomhash":"92770da04b9d1885e7a89c95e21df3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718257,
+            "locality_id":421176139,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421176139,
+    "wof:lastmodified":1527726474,
+    "wof:name":"Gobernador Mansilla",
+    "wof:parent_id":1108718257,
+    "wof:placetype":"locality",
+    "wof:population":2264,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.3548,
+    -32.54453,
+    -59.3548,
+    -32.54453
+],
+  "geometry": {"coordinates":[-59.3548,-32.54453],"type":"Point"}
+}

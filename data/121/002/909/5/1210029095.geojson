@@ -1,0 +1,72 @@
+{
+  "id": 1210029095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22454,-28.26185,-66.22454,-28.26185",
+    "geom:latitude":-28.26185,
+    "geom:longitude":-66.22454,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10084.0",
+    "gn:asciiname":"Sijan",
+    "gn:country_code":"AR",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835278,
+    "gn:latitude":-28.26185,
+    "gn:longitude":-66.22454,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sij\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sij\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835278,
+        "wk:page":"Sij%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"197b309ae9ee784584f3f3d6d61601e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718155,
+            "locality_id":1210029095,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1210029095,
+    "wof:lastmodified":1537584838,
+    "wof:name":"Sijan",
+    "wof:parent_id":1108718155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22454,
+    -28.26185,
+    -66.22454,
+    -28.26185
+],
+  "geometry": {"coordinates":[-66.22454,-28.26185],"type":"Point"}
+}

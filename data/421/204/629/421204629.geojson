@@ -1,0 +1,95 @@
+{
+  "id": 421204629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03946,-43.31251,-65.03946,-43.31251",
+    "geom:latitude":-43.31251,
+    "geom:longitude":-65.03946,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Estaci\u00f3 de Fotobiologia Playa Uni\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Playa Uni\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Playa Uni\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n de Fotobiolog\u00eda Playa Uni\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u044f-\u0423\u043d\u044c\u0439\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Balneario Uni\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840902,
+    "qs:gn_pop":0,
+    "qs:name":"Playa Uni\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":193,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":193,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":242815,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467972,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421172183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840902,
+        "gp:id":467972,
+        "qs:id":242815,
+        "wd:id":"Q6078529"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"ea07fd44d7f049065808bfff633f1e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172183,
+            "locality_id":421204629,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421204629,
+    "wof:lastmodified":1513889352,
+    "wof:name":"Playa Uni\u00f3n",
+    "wof:parent_id":421172183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03946,
+    -43.31251,
+    -65.03946,
+    -43.31251
+],
+  "geometry": {"coordinates":[-65.03946000000001,-43.31251],"type":"Point"}
+}

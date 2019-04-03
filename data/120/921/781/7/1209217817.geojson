@@ -1,0 +1,67 @@
+{
+  "id": 1209217817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.2094,-28.30164,-67.2094,-28.30164",
+    "geom:latitude":-28.30164,
+    "geom:longitude":-67.2094,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Cordobita",
+    "gn:country_code":"AR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860250,
+    "gn:latitude":-28.30164,
+    "gn:longitude":-67.2094,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cordobita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cordobita",
+        "Cordobita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860250,
+        "wk:page":"Cordobita"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bdcc5573b61375381d6697b44170d1ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209217817
+        }
+    ],
+    "wof:id":1209217817,
+    "wof:lastmodified":1537584889,
+    "wof:name":"Cordobita",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.2094,
+    -28.30164000000001,
+    -67.2094,
+    -28.30164000000001
+],
+  "geometry": {"coordinates":[-67.2094,-28.30164000000001],"type":"Point"}
+}

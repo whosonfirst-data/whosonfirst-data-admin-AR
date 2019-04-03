@@ -1,0 +1,68 @@
+{
+  "id": 1343775833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.24566,-35.38394,-62.24566,-35.38394",
+    "geom:latitude":-35.38394,
+    "geom:longitude":-62.24566,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6154.0",
+    "gn:asciiname":"Timote Chico",
+    "gn:country_code":"AR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834369,
+    "gn:latitude":-35.38394,
+    "gn:longitude":-62.24566,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Timote Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834369
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a835ec88f22629d86bfc632ac0db07ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717895,
+            "locality_id":1343775833,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343775833,
+    "wof:lastmodified":1536789136,
+    "wof:name":"Timote Chico",
+    "wof:parent_id":1108717895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.24566,
+    -35.38394,
+    -62.24566,
+    -35.38394
+],
+  "geometry": {"coordinates":[-62.24566,-35.38394],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890435035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.50207,-30.92497,-64.50207,-30.92497",
+    "geom:latitude":-30.92497,
+    "geom:longitude":-64.50207,
+    "gn:country":"AR",
+    "gn:fcode":"ADM3",
+    "gn:pop":1035,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Los Cocos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846258,
+        "qs:id":375526,
+        "wd:id":"Q2742335",
+        "wk:page":"Los Cocos"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052049,
+    "wof:geomhash":"3ea1f09c5c785f8b4ace12de61513f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "localadmin_id":890435035,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890435035,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Los Cocos",
+    "wof:parent_id":421170503,
+    "wof:placetype":"localadmin",
+    "wof:population":1035,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.50207,
+    -30.92497,
+    -64.50207,
+    -30.92497
+],
+  "geometry": {"coordinates":[-64.50207,-30.92497],"type":"Point"}
+}

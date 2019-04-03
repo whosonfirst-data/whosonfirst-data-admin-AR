@@ -1,0 +1,99 @@
+{
+  "id": 421195565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.58038,-32.61072,-63.58038,-32.61072",
+    "geom:latitude":-32.61072,
+    "geom:longitude":-63.58038,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Dalmacio V\u00e9lez S\u00e1rsfield"
+    ],
+    "name:deu_x_preferred":[
+        "Dalmacio V\u00e9lez S\u00e1rsfield"
+    ],
+    "name:fra_x_preferred":[
+        "Dalmacio V\u00e9lez Sarsfield"
+    ],
+    "name:por_x_preferred":[
+        "Dalmacio V\u00e9lez Sarsfield"
+    ],
+    "name:spa_x_preferred":[
+        "Dalmacio V\u00e9lez Sarsfield"
+    ],
+    "name:unk_x_variant":[
+        "D. V\u00e9lez S\u00e1rsfield"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3859535,
+    "qs:gn_pop":1344,
+    "qs:name":"Dalmacio V\u00e9lez S\u00e1rsfield",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212237,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467209,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":701,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859535,
+        "gp:id":467209,
+        "qs:id":1212237,
+        "wd:id":"Q437289"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009852,
+    "wof:geomhash":"520a8c7ca83bad7e3de5d949849eabd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":421195565,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195565,
+    "wof:lastmodified":1527716123,
+    "wof:name":"Dalmacio V\u00e9lez S\u00e1rsfield",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:population":1344,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.58038,
+    -32.61072,
+    -63.58038,
+    -32.61072
+],
+  "geometry": {"coordinates":[-63.58038,-32.61072],"type":"Point"}
+}

@@ -1,0 +1,381 @@
+{
+  "id": 890437285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26149,-27.79511,-64.26149,-27.79511",
+    "geom:latitude":-27.79511,
+    "geom:longitude":-64.26149,
+    "gn:country":"AR",
+    "gn:fcode":"PPLA",
+    "gn:pop":354692,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062f\u064a\u0644 \u0627\u0633\u062a\u064a\u0631\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u056b\u0561\u0563\u0578 \u0564\u0565\u056c \u0537\u057d\u057f\u0565\u0580\u0578"
+    ],
+    "name:aym_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u0642\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:baq_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u044f\u0433\u0430-\u0434\u044d\u043b\u044c-\u042d\u0441\u0442\u044d\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8 \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb \u09a6\u09c7\u09b2 \u098f\u09b8\u09cd\u09a4\u09c7\u09b0\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044f\u0433\u043e \u0434\u0435\u043b \u0415\u0441\u0442\u0435\u0440\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\uff0d\u5fb7\u5c14\u57c3\u65af\u7279\u7f57"
+    ],
+    "name:cze_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:dan_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:deu_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:dut_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:epo_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:est_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:fra_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:fre_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4\u10e0\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:glg_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03ac\u03b3\u03b9\u03bf \u03bd\u03c4\u03b5\u03bb \u0395\u03c3\u03c4\u03ad\u03c1\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb \u0aa1\u0ac7\u0ab2 \u0a8f\u0ab8\u0acd\u0a9f\u0ac7\u0ab0\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d9\u05d0\u05d2\u05d5 \u05d3\u05dc \u05d0\u05e1\u05d8\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928\u094d\u091f\u093f\u092f\u093e\u0917\u094b \u0921\u0947\u0932 \u090f\u0938\u094d\u0924\u094d\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u056b\u0561\u0563\u0578 \u0564\u0565\u056c \u0537\u057d\u057f\u0565\u0580\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30a3\u30a2\u30b4\u30fb\u30c7\u30eb\u30fb\u30a8\u30b9\u30c6\u30ed"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0cbf\u0caf\u0cbe\u0c97\u0cca \u0ca1\u0cc6\u0cb2\u0ccd \u0c8e\u0cb8\u0ccd\u0c9f\u0cca\u0cb0\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4\u10e0\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud2f0\uc544\uace0\ub378\uc5d0\uc2a4\ud14c\ub85c"
+    ],
+    "name:lat_x_preferred":[
+        "Sanctus Iacobus ad Uligines"
+    ],
+    "name:lav_x_preferred":[
+        "Santjago del Estero"
+    ],
+    "name:lij_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:lit_x_preferred":[
+        "Santjago del Esteras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093f\u092f\u093e\u0917\u094b \u0921\u0947\u0932 \u090f\u0938\u094d\u091f\u0947\u0930\u094b"
+    ],
+    "name:may_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435\u0440\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:nob_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:oci_x_preferred":[
+        "Prov\u00edncia de Santiago del Estero"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646 \u062a\u06cc\u0627\u06af\u0648 \u062f\u06cc\u0644 \u0627\u0633\u062a\u06cc\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:por_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:que_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435\u0440\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0d9c\u0ddd \u0da9\u0dd9\u0dbd\u0dca \u0d91\u0dc3\u0dca\u0da7\u0dbb\u0ddd"
+    ],
+    "name:slo_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:slv_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de Santiago del Estero"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0438\u0458\u0430\u0433\u043e \u0434\u0435\u043b \u0415\u0441\u0442\u0435\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bcb \u0b9f\u0bc6\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0bb0\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c02\u0c1f\u0c3f\u0c2f\u0c3e\u0c17\u0c4b \u0c21\u0c46\u0c32\u0c4d \u0c0e\u0c38\u0c4d\u0c1f\u0c30\u0c4d\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01\u0e40\u0e14\u0e25\u0e40\u0e2d\u0e2a\u0e40\u0e15\u0e42\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u0415\u0441\u0442\u0435\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:war_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5-\u5fb7\u5c14\u57c3\u65af\u7279\u7f57"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Santiago del Estero",
+    "ne:ADMIN1_COD":22,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3835869,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Santiago del Estero",
+    "ne:GN_POP":354692,
+    "ne:GTOPO30":180.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-27.783331,
+    "ne:LONGITUDE":-64.266656,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Santiago del Estero",
+    "ne:MAX_AREAKM":85.0,
+    "ne:MAX_AREAMI":33.0,
+    "ne:MAX_BBXMAX":-64.208333,
+    "ne:MAX_BBXMIN":-64.308333,
+    "ne:MAX_BBYMAX":-27.716667,
+    "ne:MAX_BBYMIN":-27.841667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":60.0,
+    "ne:MAX_PERMI":37.0,
+    "ne:MAX_POP10":280407,
+    "ne:MAX_POP20":280407,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.261533,
+    "ne:MEAN_BBYC":-27.780283,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":85.0,
+    "ne:MIN_AREAMI":33.0,
+    "ne:MIN_BBXMAX":-64.208333,
+    "ne:MIN_BBXMIN":-64.308333,
+    "ne:MIN_BBYMAX":-27.716667,
+    "ne:MIN_BBYMIN":-27.841667,
+    "ne:MIN_PERKM":60.0,
+    "ne:MIN_PERMI":37.0,
+    "ne:NAME":"Santiago del Estero",
+    "ne:NAMEALT":"Santiago Del Estero",
+    "ne:NAMEASCII":"Santiago del Estero",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":354692,
+    "ne:POP_MIN":280407,
+    "ne:POP_OTHER":270150,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Santiago del Estero",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:latitude":"-27.784444444",
+    "wd:longitude":"-64.266944444",
+    "wd:wordcount":1867,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835869,
+        "gp:id":332474,
+        "qs:id":1062938,
+        "qs_pg:id":459200,
+        "wd:id":"Q44253",
+        "wk:page":"Santiago del Estero"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052145,
+    "wof:geomhash":"7fe97f31a3fb495f936709b4fc043e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718475,
+            "locality_id":890437285,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":890437285,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Santiago del Estero",
+    "wof:parent_id":1108718475,
+    "wof:placetype":"locality",
+    "wof:population":354692,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26149,
+    -27.79511,
+    -64.26149,
+    -27.79511
+],
+  "geometry": {"coordinates":[-64.26148999999999,-27.79511],"type":"Point"}
+}

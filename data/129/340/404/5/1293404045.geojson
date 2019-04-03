@@ -1,0 +1,73 @@
+{
+  "id": 1293404045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.50083,-35.65377,-62.50083,-35.65377",
+    "geom:latitude":-35.65377,
+    "geom:longitude":-62.50083,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6826.0",
+    "gn:asciiname":"Francisco Magnano",
+    "gn:country_code":"AR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855380,
+    "gn:latitude":-35.65377,
+    "gn:longitude":-62.50083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Francisco Magnano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magnano",
+        "F. Magnano",
+        "Francisco Magnano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855380
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"72a52e375d391e39368126ccf0bd8c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718123,
+            "locality_id":1293404045,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293404045,
+    "wof:lastmodified":1537584876,
+    "wof:name":"Francisco Magnano",
+    "wof:parent_id":1108718123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.50083000000001,
+    -35.65377,
+    -62.50083000000001,
+    -35.65377
+],
+  "geometry": {"coordinates":[-62.50083000000001,-35.65377],"type":"Point"}
+}

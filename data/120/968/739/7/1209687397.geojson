@@ -1,0 +1,62 @@
+{
+  "id": 1209687397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88333,-22.31667,-64.88333,-22.31667",
+    "geom:latitude":-22.31667,
+    "geom:longitude":-64.88333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66161.0",
+    "gn:asciiname":"Canani",
+    "gn:country_code":"AR",
+    "gn:dem":2742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862880,
+    "gn:latitude":-22.31667,
+    "gn:longitude":-64.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00f1ani",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862880
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d7a885e705b6e6b11a3e7913ac95459b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209687397
+        }
+    ],
+    "wof:id":1209687397,
+    "wof:lastmodified":1536279363,
+    "wof:name":"Canani",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88333,
+    -22.31667,
+    -64.88333,
+    -22.31667
+],
+  "geometry": {"coordinates":[-64.88333,-22.31667],"type":"Point"}
+}

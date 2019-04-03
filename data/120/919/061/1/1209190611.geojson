@@ -1,0 +1,68 @@
+{
+  "id": 1209190611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73333,-22.43333,-64.73333,-22.43333",
+    "geom:latitude":-22.43333,
+    "geom:longitude":-64.73333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66161.0",
+    "gn:asciiname":"Lipeo",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846833,
+    "gn:latitude":-22.43333,
+    "gn:longitude":-64.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lipeo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Lipes Argentino",
+        "Lipeo Argentino",
+        "Lipeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846833
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"49bfa9b69c42c02bccaab39a893a5705",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209190611
+        }
+    ],
+    "wof:id":1209190611,
+    "wof:lastmodified":1537584861,
+    "wof:name":"Lipeo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73333000000001,
+    -22.43333,
+    -64.73333000000001,
+    -22.43333
+],
+  "geometry": {"coordinates":[-64.73333000000001,-22.43333],"type":"Point"}
+}

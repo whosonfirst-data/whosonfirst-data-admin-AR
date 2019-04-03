@@ -1,0 +1,73 @@
+{
+  "id": 1226247383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.35505,-29.81402,-63.35505,-29.81402",
+    "geom:latitude":-29.81402,
+    "geom:longitude":-63.35505,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14112.0",
+    "gn:asciiname":"Villa Candelaria",
+    "gn:country_code":"AR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832792,
+    "gn:latitude":-29.81402,
+    "gn:longitude":-63.35505,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candelaria Norte",
+        "Candelaria",
+        "Villa Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        1108718165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832792
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d9f816f990610b0a438aacb499e08f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718165,
+            "locality_id":1226247383,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1226247383,
+    "wof:lastmodified":1537584833,
+    "wof:name":"Villa Candelaria",
+    "wof:parent_id":1108718165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.35505,
+    -29.81402000000001,
+    -63.35505,
+    -29.81402000000001
+],
+  "geometry": {"coordinates":[-63.35505,-29.81402000000001],"type":"Point"}
+}

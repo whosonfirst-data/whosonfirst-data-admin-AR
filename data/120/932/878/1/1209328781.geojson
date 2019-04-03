@@ -1,0 +1,62 @@
+{
+  "id": 1209328781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.93333,-36.4,-61.93333,-36.4",
+    "geom:latitude":-36.4,
+    "geom:longitude":-61.93333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6231.0",
+    "gn:asciiname":"Enrique Lavalle",
+    "gn:country_code":"AR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856179,
+    "gn:latitude":-36.4,
+    "gn:longitude":-61.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Enrique Lavalle",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856179
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1fc5356ffebb8549a04ae3cb512490ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209328781
+        }
+    ],
+    "wof:id":1209328781,
+    "wof:lastmodified":1536290441,
+    "wof:name":"Enrique Lavalle",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.93333000000001,
+    -36.4,
+    -61.93333000000001,
+    -36.4
+],
+  "geometry": {"coordinates":[-61.93333000000001,-36.4],"type":"Point"}
+}

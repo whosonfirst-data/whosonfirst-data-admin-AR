@@ -1,0 +1,73 @@
+{
+  "id": 1242934981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4,-48.96667,-71.4,-48.96667",
+    "geom:latitude":-48.96667,
+    "geom:longitude":-71.4,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78049.0",
+    "gn:asciiname":"Lago Cardiel",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851117,
+    "gn:latitude":-48.96667,
+    "gn:longitude":-71.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lago Cardiel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Felt\u00f3n",
+        "Lago Cardiel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421198477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851117
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6321b579048971d84821327d6aee7bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198477,
+            "locality_id":1242934981,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1242934981,
+    "wof:lastmodified":1537584867,
+    "wof:name":"Lago Cardiel",
+    "wof:parent_id":421198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4,
+    -48.96667,
+    -71.4,
+    -48.96667
+],
+  "geometry": {"coordinates":[-71.40000000000001,-48.96667],"type":"Point"}
+}

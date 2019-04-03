@@ -1,0 +1,68 @@
+{
+  "id": 1310337177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06667,-31.51667,-65.06667,-31.51667",
+    "geom:latitude":-31.51667,
+    "geom:longitude":-65.06667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14126.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"AR",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835997,
+    "gn:latitude":-31.51667,
+    "gn:longitude":-65.06667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421198475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835997
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"78b1fd7ccc683b82d0be7ef82a353f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198475,
+            "locality_id":1310337177,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310337177,
+    "wof:lastmodified":1536662355,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421198475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06667,
+    -31.51667,
+    -65.06667,
+    -31.51667
+],
+  "geometry": {"coordinates":[-65.06667,-31.51667],"type":"Point"}
+}

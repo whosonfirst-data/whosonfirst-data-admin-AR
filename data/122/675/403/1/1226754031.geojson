@@ -1,0 +1,73 @@
+{
+  "id": 1226754031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04603,-43.86225,-69.04603,-43.86225",
+    "geom:latitude":-43.86225,
+    "geom:longitude":-69.04603,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"26070.0",
+    "gn:asciiname":"Paso de Indios",
+    "gn:country_code":"AR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3841894,
+    "gn:latitude":-43.86225,
+    "gn:longitude":-69.04603,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Paso de Indios",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso de los Indios",
+        "Paso de Indios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421166647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841894,
+        "wk:page":"Paso_de_Indios"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ffc37abc47b73b9e96bb6b2f974fe93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166647,
+            "locality_id":1226754031,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1226754031,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paso de Indios",
+    "wof:parent_id":421166647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04603,
+    -43.86225,
+    -69.04603,
+    -43.86225
+],
+  "geometry": {"coordinates":[-69.04603,-43.86225],"type":"Point"}
+}

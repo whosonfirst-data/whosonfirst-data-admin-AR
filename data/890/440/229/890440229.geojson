@@ -1,0 +1,84 @@
+{
+  "id": 890440229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,-28.6,-62.95,-28.6",
+    "geom:latitude":-28.6,
+    "geom:longitude":-62.95,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2406,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Colonia Dora"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Dora"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Dora"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Dora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0456\u044f-\u0414\u043e\u0440\u0430"
+    ],
+    "qs:name":"Colonia Dora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860791,
+        "gp:id":91863084,
+        "qs:id":848432,
+        "wd:id":"Q5148225",
+        "wk:page":"Colonia Dora"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052267,
+    "wof:geomhash":"82f282f6cf3c05fdfaac5afb5b79a26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718471,
+            "locality_id":890440229,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":890440229,
+    "wof:lastmodified":1527727102,
+    "wof:name":"Colonia Dora",
+    "wof:parent_id":1108718471,
+    "wof:placetype":"locality",
+    "wof:population":2406,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    -28.6,
+    -62.95,
+    -28.6
+],
+  "geometry": {"coordinates":[-62.95,-28.6],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 421186115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.37312,-34.33175,-62.37312,-34.33175",
+    "geom:latitude":-34.33175,
+    "geom:longitude":-62.37312,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:baq_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:cat_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:dut_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:eng_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:por_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:spa_x_preferred":[
+        "Aar\u00f3n Castellanos"
+    ],
+    "name:unk_x_variant":[
+        "Castellanos"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3867050,
+    "qs:gn_pop":0,
+    "qs:name":"Aar\u00f3n Castellanos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1060160,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464508,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3867050,
+        "gp:id":464508,
+        "qs:id":1060160,
+        "wd:id":"Q10843471"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009465,
+    "wof:geomhash":"3a5d346d714df61307a3dd70b446a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421186115,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421186115,
+    "wof:lastmodified":1527716319,
+    "wof:name":"Aar\u00f3n Castellanos",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.37312,
+    -34.33175,
+    -62.37312,
+    -34.33175
+],
+  "geometry": {"coordinates":[-62.37312,-34.33175],"type":"Point"}
+}

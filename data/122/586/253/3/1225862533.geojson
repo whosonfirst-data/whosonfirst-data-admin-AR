@@ -1,0 +1,72 @@
+{
+  "id": 1225862533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.3813,-35.48199,-60.3813,-35.48199",
+    "geom:latitude":-35.48199,
+    "geom:longitude":-60.3813,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6854.0",
+    "gn:asciiname":"Santiago Garbarini",
+    "gn:country_code":"AR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835867,
+    "gn:latitude":-35.48199,
+    "gn:longitude":-60.3813,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santiago Garbarini",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S. Garbarini",
+        "Santiago Garbarini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835867
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2ceda71ed88a3b9e6459f24c43f028f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718131,
+            "locality_id":1225862533,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1225862533,
+    "wof:lastmodified":1537584839,
+    "wof:name":"Santiago Garbarini",
+    "wof:parent_id":1108718131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.3813,
+    -35.48199,
+    -60.3813,
+    -35.48199
+],
+  "geometry": {"coordinates":[-60.3813,-35.48199],"type":"Point"}
+}

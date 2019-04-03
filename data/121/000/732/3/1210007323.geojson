@@ -1,0 +1,73 @@
+{
+  "id": 1210007323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.95507,-32.09169,-58.95507,-32.09169",
+    "geom:latitude":-32.09169,
+    "geom:longitude":-58.95507,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30098.0",
+    "gn:asciiname":"Pueblo Moscas",
+    "gn:country_code":"AR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429819,
+    "gn:latitude":-32.09169,
+    "gn:longitude":-58.95507,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pueblo Moscas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Moscas",
+        "Pueblo Moscas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429819,
+        "wk:page":"Las_Moscas%2C_Entre_R%C3%ADos"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"686d094b73936ffc26fd655810294d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":1210007323,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1210007323,
+    "wof:lastmodified":1537584818,
+    "wof:name":"Pueblo Moscas",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.95506999999999,
+    -32.09169,
+    -58.95506999999999,
+    -32.09169
+],
+  "geometry": {"coordinates":[-58.95506999999999,-32.09169],"type":"Point"}
+}

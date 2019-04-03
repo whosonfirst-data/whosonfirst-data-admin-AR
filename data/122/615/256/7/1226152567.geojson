@@ -1,0 +1,68 @@
+{
+  "id": 1226152567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.34213,-37.95354,-62.34213,-37.95354",
+    "geom:latitude":-37.95354,
+    "geom:longitude":-62.34213,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6700.0",
+    "gn:asciiname":"Colonia San Pedro",
+    "gn:country_code":"AR",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860721,
+    "gn:latitude":-37.95354,
+    "gn:longitude":-62.34213,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860721
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cc7a7bf9d1a5c0668e9325fec7792f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718081,
+            "locality_id":1226152567,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226152567,
+    "wof:lastmodified":1537064893,
+    "wof:name":"Colonia San Pedro",
+    "wof:parent_id":1108718081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.34213,
+    -37.95354,
+    -62.34213,
+    -37.95354
+],
+  "geometry": {"coordinates":[-62.34213,-37.95354],"type":"Point"}
+}

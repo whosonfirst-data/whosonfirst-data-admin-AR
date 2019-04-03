@@ -1,0 +1,79 @@
+{
+  "id": 421199303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.54529,-34.56309,-58.54529,-34.56309",
+    "geom:latitude":-34.56309,
+    "geom:longitude":-58.54529,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Estaci\u00f3n San Andr\u00e9s"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429316,
+    "qs:gn_pop":0,
+    "qs:name":"San Andr\u00e9s",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":311,
+    "qs:photos_1k":63,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":311,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":468731,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331829,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429316,
+        "gp:id":331829,
+        "qs:id":468731
+    },
+    "wof:country":"AR",
+    "wof:created":1459009985,
+    "wof:geomhash":"64ba9a91c4e6d9db75b9f4767267fc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "locality_id":421199303,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421199303,
+    "wof:lastmodified":1501266399,
+    "wof:name":"San Andr\u00e9s",
+    "wof:parent_id":1108717969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.54529,
+    -34.56309,
+    -58.54529,
+    -34.56309
+],
+  "geometry": {"coordinates":[-58.54529,-34.56309],"type":"Point"}
+}

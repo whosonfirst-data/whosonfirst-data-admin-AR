@@ -1,0 +1,68 @@
+{
+  "id": 1310472209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.4372,-38.07836,-70.4372,-38.07836",
+    "geom:latitude":-38.07836,
+    "geom:longitude":-70.4372,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58063.0",
+    "gn:asciiname":"Mulichinco",
+    "gn:country_code":"AR",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843535,
+    "gn:latitude":-38.07836,
+    "gn:longitude":-70.4372,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mulichinc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843535
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"baddedfe00fdae269b4e17a587cca66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718381,
+            "locality_id":1310472209,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1310472209,
+    "wof:lastmodified":1536964813,
+    "wof:name":"Mulichinco",
+    "wof:parent_id":1108718381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.4372,
+    -38.07836,
+    -70.4372,
+    -38.07836
+],
+  "geometry": {"coordinates":[-70.4372,-38.07836],"type":"Point"}
+}

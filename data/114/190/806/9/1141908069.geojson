@@ -1,0 +1,182 @@
+{
+  "id": 1141908069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.6766028255,-36.7162227186,-56.6766028255,-36.7162227186",
+    "geom:latitude":-36.716223,
+    "geom:longitude":-56.676603,
+    "iso:country":"AR",
+    "lbl:latitude":-36.716223,
+    "lbl:longitude":-56.676603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631 \u062f\u064a \u0622\u062c\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30fb\u30c7\u30fb\u30a2\u30db"
+    ],
+    "name:por_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Mar de Aj\u00f3"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440-\u0434\u0435-\u0410\u0445\u043e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-36.716223,
+    "ne:LONGITUDE":-56.676603,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Mar de Ajo",
+    "ne:MAX_AREAKM":26.0,
+    "ne:MAX_AREAMI":10.0,
+    "ne:MAX_BBXMAX":-56.666667,
+    "ne:MAX_BBXMIN":-56.708333,
+    "ne:MAX_BBYMAX":-36.65,
+    "ne:MAX_BBYMIN":-36.775,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":39.0,
+    "ne:MAX_PERMI":24.0,
+    "ne:MAX_POP10":13610,
+    "ne:MAX_POP20":13610,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-56.684211,
+    "ne:MEAN_BBYC":-36.712281,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":26.0,
+    "ne:MIN_AREAMI":10.0,
+    "ne:MIN_BBXMAX":-56.666667,
+    "ne:MIN_BBXMIN":-56.708333,
+    "ne:MIN_BBYMAX":-36.65,
+    "ne:MIN_BBYMIN":-36.775,
+    "ne:MIN_PERKM":39.0,
+    "ne:MIN_PERMI":24.0,
+    "ne:NAME":"Mar de Ajo",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Mar de Ajo",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":13610,
+    "ne:POP_MIN":13610,
+    "ne:POP_OTHER":13019,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-36.716223,
+    "reversegeo:longitude":-56.676603,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q991680"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130812,
+    "wof:geomhash":"1217b5b56bae6e0ad3d3749662737e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717989,
+            "locality_id":1141908069,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1141908069,
+    "wof:lastmodified":1513889255,
+    "wof:name":"Mar de Ajo",
+    "wof:parent_id":1108717989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.67660282553459,
+    -36.71622271855489,
+    -56.67660282553459,
+    -36.71622271855489
+],
+  "geometry": {"coordinates":[-56.67660282553459,-36.71622271855489],"type":"Point"}
+}

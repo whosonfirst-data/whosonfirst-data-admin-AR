@@ -1,0 +1,72 @@
+{
+  "id": 1309768663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35247,-33.20084,-66.35247,-33.20084",
+    "geom:latitude":-33.20084,
+    "geom:longitude":-66.35247,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74056.0",
+    "gn:asciiname":"Pozo del Carril",
+    "gn:country_code":"AR",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840496,
+    "gn:latitude":-33.20084,
+    "gn:longitude":-66.35247,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozo del Carril",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pantano",
+        "Pozo del Carril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840496
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3fa7de358fab91fd8822d39d1d3eeb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":1309768663,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1309768663,
+    "wof:lastmodified":1537584848,
+    "wof:name":"Pozo del Carril",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35247,
+    -33.20084,
+    -66.35247,
+    -33.20084
+],
+  "geometry": {"coordinates":[-66.35247,-33.20084],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209208953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8175,-23.94767,-66.8175,-23.94767",
+    "geom:latitude":-23.94767,
+    "geom:longitude":-66.8175,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38084.0",
+    "gn:asciiname":"Medanitos",
+    "gn:country_code":"AR",
+    "gn:dem":3917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844603,
+    "gn:latitude":-23.94767,
+    "gn:longitude":-66.8175,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Medanitos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horno Auspurg",
+        "Horno Ruspura",
+        "Medanitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844603
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c4d1ddea8e3b91bdcdc1c67c177917fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209208953
+        }
+    ],
+    "wof:id":1209208953,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Medanitos",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8175,
+    -23.94767,
+    -66.8175,
+    -23.94767
+],
+  "geometry": {"coordinates":[-66.8175,-23.94767],"type":"Point"}
+}

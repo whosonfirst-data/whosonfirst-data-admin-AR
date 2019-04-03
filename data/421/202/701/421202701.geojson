@@ -1,0 +1,73 @@
+{
+  "id": 421202701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.306846,-35.516439,-58.306846,-35.516439",
+    "geom:latitude":-35.516439,
+    "geom:longitude":-58.306846,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gral Paz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":226336,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070955,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070955,
+        "qs:id":226336
+    },
+    "wof:country":"AR",
+    "wof:created":1459010126,
+    "wof:geomhash":"98dfa85fa0d5f41115a7fad73122b231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202701,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421202701,
+    "wof:lastmodified":1475852833,
+    "wof:name":"Gral Paz",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.306846,
+    -35.516439,
+    -58.306846,
+    -35.516439
+],
+  "geometry": {"coordinates":[-58.306846,-35.516439],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309764661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.85,-26.63333,-62.85,-26.63333",
+    "geom:latitude":-26.63333,
+    "geom:longitude":-62.85,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86014.0",
+    "gn:asciiname":"Pozo Muerto",
+    "gn:country_code":"AR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840369,
+    "gn:latitude":-26.63333,
+    "gn:longitude":-62.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozo Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840369
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"27c97d033d9d2e521da26d8b6a9a3782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718465,
+            "locality_id":1309764661,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1309764661,
+    "wof:lastmodified":1536989705,
+    "wof:name":"Pozo Muerto",
+    "wof:parent_id":1108718465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.85,
+    -26.63333,
+    -62.85,
+    -26.63333
+],
+  "geometry": {"coordinates":[-62.85,-26.63333],"type":"Point"}
+}

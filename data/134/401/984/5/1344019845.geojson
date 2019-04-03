@@ -1,0 +1,68 @@
+{
+  "id": 1344019845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,-46.6,-68.53333,-46.6",
+    "geom:latitude":-46.6,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78014.0",
+    "gn:asciiname":"Piedra Clavada",
+    "gn:country_code":"AR",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841241,
+    "gn:latitude":-46.6,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Piedra Clavada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841241
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"28e9e4b1efa3c5bc0418c74d52bc95b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":1344019845,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1344019845,
+    "wof:lastmodified":1536935164,
+    "wof:name":"Piedra Clavada",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    -46.6,
+    -68.53333,
+    -46.6
+],
+  "geometry": {"coordinates":[-68.53333000000001,-46.6],"type":"Point"}
+}

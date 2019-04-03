@@ -1,0 +1,121 @@
+{
+  "id": 421196079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.30315,-27.03084,-65.30315,-27.03084",
+    "geom:latitude":-27.03084,
+    "geom:longitude":-65.30315,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u4e9e\u7dad\u65af\u5854"
+    ],
+    "name:deu_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:dut_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:eng_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ger_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ita_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:nld_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:por_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:swe_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u044f-\u0412\u0456\u0441\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u4e9e\u7dad\u65af\u5854"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3864375,
+    "qs:gn_pop":15126,
+    "qs:name":"Bella Vista",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1047028,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466907,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":582,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864375,
+        "gp:id":466907,
+        "qs:id":1047028,
+        "wd:id":"Q815781",
+        "wk:page":"Bella Vista, Tucum\u00e1n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009868,
+    "wof:geomhash":"d5be8af7d160bb176f2d08fc29cff41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":421196079,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421196079,
+    "wof:lastmodified":1553816384,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:population":15126,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.30315,
+    -27.03084,
+    -65.30315,
+    -27.03084
+],
+  "geometry": {"coordinates":[-65.30315,-27.03084],"type":"Point"}
+}

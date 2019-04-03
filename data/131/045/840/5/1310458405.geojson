@@ -1,0 +1,73 @@
+{
+  "id": 1310458405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86667,-27.6,-64.86667,-27.6",
+    "geom:latitude":-27.6,
+    "geom:longitude":-64.86667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86147.0",
+    "gn:asciiname":"Anjuli",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865715,
+    "gn:latitude":-27.6,
+    "gn:longitude":-64.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anjuli",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anguli",
+        "Anjuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421186443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865715
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"be93aeadecb4fb0519bcea176b0cc82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186443,
+            "locality_id":1310458405,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1310458405,
+    "wof:lastmodified":1537584902,
+    "wof:name":"Anjuli",
+    "wof:parent_id":421186443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86667,
+    -27.6,
+    -64.86667,
+    -27.6
+],
+  "geometry": {"coordinates":[-64.86667,-27.6],"type":"Point"}
+}

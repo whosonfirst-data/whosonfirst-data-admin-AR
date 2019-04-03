@@ -1,0 +1,71 @@
+{
+  "id": 1343372915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.75813,-34.68943,-58.75813,-34.68943",
+    "geom:latitude":-34.68943,
+    "geom:longitude":-58.75813,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6539.0",
+    "gn:asciiname":"Ciudad Parque General San Martin",
+    "gn:country_code":"AR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149837,
+    "gn:latitude":-34.68943,
+    "gn:longitude":-58.75813,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ciudad Parque General San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciudad Parque General San Mart\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149837
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4bd15272e532422d7ef7535d40d9bd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718025,
+            "locality_id":1343372915,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343372915,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Ciudad Parque General San Martin",
+    "wof:parent_id":1108718025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.75813,
+    -34.68943,
+    -58.75813,
+    -34.68943
+],
+  "geometry": {"coordinates":[-58.75813,-34.68943],"type":"Point"}
+}

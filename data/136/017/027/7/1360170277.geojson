@@ -1,0 +1,67 @@
+{
+  "id": 1360170277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.85014,-30.96744,-67.85014,-30.96744",
+    "geom:latitude":-30.96744,
+    "geom:longitude":-67.85014,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ampacama",
+    "gn:country_code":"AR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865869,
+    "gn:latitude":-30.96744,
+    "gn:longitude":-67.85014,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ampacama",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        1108718423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865869
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d19a23128b2dbde0199fa26a0c73edea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718423,
+            "locality_id":1360170277,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1360170277,
+    "wof:lastmodified":1536821930,
+    "wof:name":"Ampacama",
+    "wof:parent_id":1108718423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.85014,
+    -30.96744,
+    -67.85014,
+    -30.96744
+],
+  "geometry": {"coordinates":[-67.85014,-30.96744],"type":"Point"}
+}

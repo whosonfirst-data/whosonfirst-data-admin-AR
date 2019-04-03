@@ -1,0 +1,118 @@
+{
+  "id": 421204549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.77331,-31.89882,-64.77331,-31.89882",
+    "geom:latitude":-31.89882,
+    "geom:longitude":-64.77331,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:ceb_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:deu_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:dut_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:eng_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:fre_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:ger_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:oci_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:por_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:spa_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:swe_x_preferred":[
+        "La Cumbrecita"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0648\u0645\u0628\u0631\u06cc\u0633\u06cc\u062a\u0627"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6948895,
+    "qs:gn_pop":854,
+    "qs:name":"La Cumbrecita",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":698,
+    "qs:photos_1k":141,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":698,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":241496,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":22528935,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":479,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6948895,
+        "gp:id":22528935,
+        "qs:id":241496,
+        "wd:id":"Q48295",
+        "wk:page":"La Cumbrecita"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010190,
+    "wof:geomhash":"f8a8a8fb5b156d85b89ce0b15f72785e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186303,
+            "locality_id":421204549,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421204549,
+    "wof:lastmodified":1527716187,
+    "wof:name":"La Cumbrecita",
+    "wof:parent_id":421186303,
+    "wof:placetype":"locality",
+    "wof:population":854,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.77331,
+    -31.89882,
+    -64.77331,
+    -31.89882
+],
+  "geometry": {"coordinates":[-64.77331,-31.89882],"type":"Point"}
+}

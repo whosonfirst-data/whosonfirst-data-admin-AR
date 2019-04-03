@@ -1,0 +1,100 @@
+{
+  "id": 1125870171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.71667,-27.03333,-62.71667,-27.03333",
+    "geom:latitude":-27.03333,
+    "geom:longitude":-62.71667,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3868,
+    "gn:population":3868,
+    "iso:country":"AR",
+    "lbl:latitude":-27.03333,
+    "lbl:longitude":-62.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tintina"
+    ],
+    "name:eng_x_preferred":[
+        "Tintina"
+    ],
+    "name:fre_x_preferred":[
+        "Tintina"
+    ],
+    "name:ita_x_preferred":[
+        "Tintina"
+    ],
+    "name:spa_x_preferred":[
+        "Tintina"
+    ],
+    "name:swe_x_preferred":[
+        "Tintina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043d\u0442\u0456\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3834352,
+    "qs_pg:gn_pop":3868,
+    "qs_pg:name":"Tintina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":96608,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834352,
+        "qs_pg:id":96608,
+        "wd:id":"Q1154169"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294253,
+    "wof:geomhash":"8590025f652af40ab93894ca15854186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718497,
+            "locality_id":1125870171,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1125870171,
+    "wof:lastmodified":1513889566,
+    "wof:name":"Tintina",
+    "wof:parent_id":1108718497,
+    "wof:placetype":"locality",
+    "wof:population":3868,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.71667,
+    -27.03333,
+    -62.71667,
+    -27.03333
+],
+  "geometry": {"coordinates":[-62.71667,-27.03333],"type":"Point"}
+}

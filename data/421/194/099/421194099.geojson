@@ -1,0 +1,75 @@
+{
+  "id": 421194099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.675289,-36.754839,-56.675289,-36.754839",
+    "geom:latitude":-36.754839,
+    "geom:longitude":-56.675289,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nueva Atlantis",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":360427,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795641,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26795641,
+        "qs:id":360427
+    },
+    "wof:country":"AR",
+    "wof:created":1459009794,
+    "wof:geomhash":"45af9c3f514904da09378ec705d7591a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717989,
+            "locality_id":421194099,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421194099,
+    "wof:lastmodified":1499925074,
+    "wof:name":"Nueva Atlantis",
+    "wof:parent_id":1108717989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.675289,
+    -36.754839,
+    -56.675289,
+    -36.754839
+],
+  "geometry": {"coordinates":[-56.675289,-36.754839],"type":"Point"}
+}

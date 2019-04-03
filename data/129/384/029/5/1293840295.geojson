@@ -1,0 +1,68 @@
+{
+  "id": 1293840295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78026,-28.18517,-64.78026,-28.18517",
+    "geom:latitude":-28.18517,
+    "geom:longitude":-64.78026,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86063.0",
+    "gn:asciiname":"Sinchi Cana",
+    "gn:country_code":"AR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835231,
+    "gn:latitude":-28.18517,
+    "gn:longitude":-64.78026,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sinchi Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835231
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b05788d54ad9c5debcb9fa6be4555fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718479,
+            "locality_id":1293840295,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1293840295,
+    "wof:lastmodified":1536776308,
+    "wof:name":"Sinchi Cana",
+    "wof:parent_id":1108718479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78026,
+    -28.18517,
+    -64.78026,
+    -28.18517
+],
+  "geometry": {"coordinates":[-64.78026,-28.18517],"type":"Point"}
+}

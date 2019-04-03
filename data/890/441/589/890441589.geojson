@@ -1,0 +1,82 @@
+{
+  "id": 890441589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.71946,-31.87208,-62.71946,-31.87208",
+    "geom:latitude":-31.87208,
+    "geom:longitude":-62.71946,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":14649,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Las Varillas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Varillas"
+    ],
+    "name:por_x_preferred":[
+        "Las Varillas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Varillas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0412\u0430\u0440\u0456\u043b\u044c\u044f\u0441"
+    ],
+    "qs:name":"Las Varillas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847613,
+        "gp:id":332500,
+        "qs:id":279890,
+        "wd:id":"Q10316445"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052329,
+    "wof:geomhash":"11fcb8b6814fba866d8a9bfbc6effde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":890441589,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890441589,
+    "wof:lastmodified":1513889248,
+    "wof:name":"Las Varillas",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":14649,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.71946,
+    -31.87208,
+    -62.71946,
+    -31.87208
+],
+  "geometry": {"coordinates":[-62.71946,-31.87208],"type":"Point"}
+}

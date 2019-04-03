@@ -1,0 +1,118 @@
+{
+  "id": 421198309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.13349,-27.71439,-67.13349,-27.71439",
+    "geom:latitude":-27.71439,
+    "geom:longitude":-67.13349,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Londres"
+    ],
+    "name:chi_x_preferred":[
+        "\u9686\u5fb7\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Londres"
+    ],
+    "name:eng_x_preferred":[
+        "Londres"
+    ],
+    "name:fra_x_preferred":[
+        "Londres"
+    ],
+    "name:fre_x_preferred":[
+        "Londres"
+    ],
+    "name:ger_x_preferred":[
+        "Londres"
+    ],
+    "name:ita_x_preferred":[
+        "Londres"
+    ],
+    "name:por_x_preferred":[
+        "Londres"
+    ],
+    "name:spa_x_preferred":[
+        "Londres"
+    ],
+    "name:swe_x_preferred":[
+        "Londres"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0434\u0440\u0435\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3846616,
+    "qs:gn_pop":2627,
+    "qs:name":"Londres",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Catamarca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":181844,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465710,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421204045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846616,
+        "gp:id":465710,
+        "qs:id":181844,
+        "wd:id":"Q930973",
+        "wk:page":"Londres, Catamarca"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009944,
+    "wof:geomhash":"6f69a77242e5d7b593a5fd71616c5954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204045,
+            "locality_id":421198309,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":421198309,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Londres",
+    "wof:parent_id":421204045,
+    "wof:placetype":"locality",
+    "wof:population":2627,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.13349,
+    -27.71439,
+    -67.13349,
+    -27.71439
+],
+  "geometry": {"coordinates":[-67.13348999999999,-27.71439],"type":"Point"}
+}

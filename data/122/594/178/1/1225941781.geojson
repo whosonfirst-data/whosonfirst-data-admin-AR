@@ -1,0 +1,68 @@
+{
+  "id": 1225941781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.99378,-32.0712,-59.99378,-32.0712",
+    "geom:latitude":-32.0712,
+    "geom:longitude":-59.99378,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30077.0",
+    "gn:asciiname":"Don Cristobal",
+    "gn:country_code":"AR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435021,
+    "gn:latitude":-32.0712,
+    "gn:longitude":-59.99378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Don Crist\u00f3bal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435021
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"66f5a5458e361381c0b4219c69b0cce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171273,
+            "locality_id":1225941781,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1225941781,
+    "wof:lastmodified":1536874156,
+    "wof:name":"Don Cristobal",
+    "wof:parent_id":421171273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.99378000000001,
+    -32.0712,
+    -59.99378000000001,
+    -32.0712
+],
+  "geometry": {"coordinates":[-59.99378000000001,-32.0712],"type":"Point"}
+}

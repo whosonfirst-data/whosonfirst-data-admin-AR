@@ -1,0 +1,88 @@
+{
+  "id": 890439917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.36847,-44.17904,-71.36847,-44.17904",
+    "geom:latitude":-44.17904,
+    "geom:longitude":-71.36847,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1386,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Pico"
+    ],
+    "name:unk_x_variant":[
+        "Estancia Campo del Pico"
+    ],
+    "qs:name":"R\u00edo Pico",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421166645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838826,
+        "gp:id":91815227,
+        "qs:id":585533,
+        "wd:id":"Q1774299"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052255,
+    "wof:geomhash":"70f2b4107c41839e52b238f0ea9f9ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166645,
+            "locality_id":890439917,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":890439917,
+    "wof:lastmodified":1513889400,
+    "wof:name":"R\u00edo Pico",
+    "wof:parent_id":421166645,
+    "wof:placetype":"locality",
+    "wof:population":1386,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.36847,
+    -44.17904,
+    -71.36847,
+    -44.17904
+],
+  "geometry": {"coordinates":[-71.36847,-44.17904],"type":"Point"}
+}

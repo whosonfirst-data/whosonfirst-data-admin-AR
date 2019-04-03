@@ -1,0 +1,109 @@
+{
+  "id": 421204123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.00947,-34.87706,-58.00947,-34.87706",
+    "geom:latitude":-34.87706,
+    "geom:longitude":-58.00947,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:ceb_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:dut_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:eng_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:fre_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:ita_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:nld_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:por_x_preferred":[
+        "Manuel B. Gonnet"
+    ],
+    "name:spa_x_preferred":[
+        "Gonnet"
+    ],
+    "name:unk_x_variant":[
+        "Gonnet"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430882,
+    "qs:gn_pop":0,
+    "qs:name":"Manuel B. Gonnet",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":678,
+    "qs:photos_1k":137,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":678,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238287,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465769,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":412,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430882,
+        "gp:id":465769,
+        "qs:id":238287,
+        "wd:id":"Q2528519",
+        "wk:page":"Manuel B. Gonnet"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010174,
+    "wof:geomhash":"92a13945940606d2a595133b1becdf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717993,
+            "locality_id":421204123,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204123,
+    "wof:lastmodified":1527716187,
+    "wof:name":"Manuel B. Gonnet",
+    "wof:parent_id":1108717993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.00947,
+    -34.87706,
+    -58.00947,
+    -34.87706
+],
+  "geometry": {"coordinates":[-58.00947,-34.87706],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242582531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.73829,-32.75638,-64.73829,-32.75638",
+    "geom:latitude":-32.75638,
+    "geom:longitude":-64.73829,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"San Bartolome",
+    "gn:country_code":"AR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837966,
+    "gn:latitude":-32.75638,
+    "gn:longitude":-64.73829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Bartolom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837966
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fa97d1a5f568f563c88645549d667434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1242582531,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1242582531,
+    "wof:lastmodified":1537054153,
+    "wof:name":"San Bartolome",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.73829,
+    -32.75638,
+    -64.73829,
+    -32.75638
+],
+  "geometry": {"coordinates":[-64.73829000000001,-32.75638],"type":"Point"}
+}

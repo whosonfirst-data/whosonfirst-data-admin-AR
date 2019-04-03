@@ -1,0 +1,93 @@
+{
+  "id": 890433303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.49946,-28.04845,-65.49946,-28.04845",
+    "geom:latitude":-28.04845,
+    "geom:longitude":-65.49946,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":6421,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Los Altos"
+    ],
+    "name:eng_x_preferred":[
+        "Los Altos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Altos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30a2\u30eb\u30c8\u30b9"
+    ],
+    "name:spa_x_preferred":[
+        "Los Altos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Altos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0410\u043b\u044c\u0442\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Altos"
+    ],
+    "qs:name":"Los Altos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846514,
+        "gp:id":468940,
+        "qs:id":585598,
+        "wd:id":"Q6681893",
+        "wk:page":"Los Altos"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051975,
+    "wof:geomhash":"34f29c9aa4241f38fbc6556d524681d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718159,
+            "locality_id":890433303,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":890433303,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Los Altos",
+    "wof:parent_id":1108718159,
+    "wof:placetype":"locality",
+    "wof:population":6421,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.49946,
+    -28.04845,
+    -65.49946,
+    -28.04845
+],
+  "geometry": {"coordinates":[-65.49946,-28.04845],"type":"Point"}
+}

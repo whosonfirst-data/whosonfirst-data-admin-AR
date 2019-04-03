@@ -1,0 +1,68 @@
+{
+  "id": 1242661249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.55896,-22.44562,-65.55896,-22.44562",
+    "geom:latitude":-22.44562,
+    "geom:longitude":-65.55896,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38112.0",
+    "gn:asciiname":"Laguna",
+    "gn:country_code":"AR",
+    "gn:dem":3603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851018,
+    "gn:latitude":-22.44562,
+    "gn:longitude":-65.55896,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421174419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851018
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5e482b3bdff9d786f45657e789bf0b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174419,
+            "locality_id":1242661249,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1242661249,
+    "wof:lastmodified":1536943867,
+    "wof:name":"Laguna",
+    "wof:parent_id":421174419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.55896,
+    -22.44562,
+    -65.55896,
+    -22.44562
+],
+  "geometry": {"coordinates":[-65.55896,-22.44562],"type":"Point"}
+}

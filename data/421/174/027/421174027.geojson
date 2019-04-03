@@ -1,0 +1,118 @@
+{
+  "id": 421174027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.52719,-30.01444,-59.52719,-30.01444",
+    "geom:latitude":-30.01444,
+    "geom:longitude":-59.52719,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Esquina"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u57fa\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Esquina"
+    ],
+    "name:eng_x_preferred":[
+        "Esquina"
+    ],
+    "name:fra_x_preferred":[
+        "Esquina"
+    ],
+    "name:fre_x_preferred":[
+        "Esquina"
+    ],
+    "name:nld_x_preferred":[
+        "Esquina"
+    ],
+    "name:por_x_preferred":[
+        "Esquina"
+    ],
+    "name:spa_x_preferred":[
+        "Esquina"
+    ],
+    "name:swe_x_preferred":[
+        "Esquina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043a\u0456\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u57fa\u7d0d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3434095,
+    "qs:gn_pop":26399,
+    "qs:name":"Esquina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":672400,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466957,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421191007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434095,
+        "gp:id":466957,
+        "qs:id":672400,
+        "wd:id":"Q55860",
+        "wk:page":"Esquina, Corrientes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009017,
+    "wof:geomhash":"4fcc9569436d8dc659aea364789e1170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191007,
+            "locality_id":421174027,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421174027,
+    "wof:lastmodified":1527716229,
+    "wof:name":"Esquina",
+    "wof:parent_id":421191007,
+    "wof:placetype":"locality",
+    "wof:population":26399,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.52719,
+    -30.01444,
+    -59.52719,
+    -30.01444
+],
+  "geometry": {"coordinates":[-59.52719,-30.01444],"type":"Point"}
+}

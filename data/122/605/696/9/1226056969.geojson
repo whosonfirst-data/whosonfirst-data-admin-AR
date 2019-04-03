@@ -1,0 +1,75 @@
+{
+  "id": 1226056969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.34296,-34.886,-60.34296,-34.886",
+    "geom:latitude":-34.886,
+    "geom:longitude":-60.34296,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6021.0",
+    "gn:asciiname":"Villa Maria",
+    "gn:country_code":"AR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832693,
+    "gn:latitude":-34.886,
+    "gn:longitude":-60.34296,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0430-\u041c\u0430\u0440\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Colonia Villa Mar\u00eda",
+        "Villa Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832693
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0ec5dba39d715f083ec3a411b8d4063d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717853,
+            "locality_id":1226056969,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226056969,
+    "wof:lastmodified":1537584832,
+    "wof:name":"Villa Maria",
+    "wof:parent_id":1108717853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.34296,
+    -34.886,
+    -60.34296,
+    -34.886
+],
+  "geometry": {"coordinates":[-60.34296,-34.886],"type":"Point"}
+}

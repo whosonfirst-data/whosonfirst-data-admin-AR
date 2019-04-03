@@ -1,0 +1,68 @@
+{
+  "id": 1326944273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15109,-35.401,-57.15109,-35.401",
+    "geom:latitude":-35.401,
+    "geom:longitude":-57.15109,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6655.0",
+    "gn:asciiname":"Pareje Punta Piedras",
+    "gn:country_code":"AR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430123,
+    "gn:latitude":-35.401,
+    "gn:longitude":-57.15109,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pareje Punta Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430123
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4204a680d9144e8bba55a366ab9bd25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718065,
+            "locality_id":1326944273,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1326944273,
+    "wof:lastmodified":1536886907,
+    "wof:name":"Pareje Punta Piedras",
+    "wof:parent_id":1108718065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15109,
+    -35.401,
+    -57.15109,
+    -35.401
+],
+  "geometry": {"coordinates":[-57.15109,-35.401],"type":"Point"}
+}

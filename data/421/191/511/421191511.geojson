@@ -1,0 +1,106 @@
+{
+  "id": 421191511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.37352,-27.12634,-59.37352,-27.12634",
+    "geom:latitude":-27.12634,
+    "geom:longitude":-59.37352,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Verde"
+    ],
+    "name:dut_x_preferred":[
+        "La Verde"
+    ],
+    "name:eng_x_preferred":[
+        "La Verde"
+    ],
+    "name:por_x_preferred":[
+        "La Verde"
+    ],
+    "name:spa_x_preferred":[
+        "La Verde"
+    ],
+    "name:swe_x_preferred":[
+        "La Verde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0648\u06cc\u0631\u0688\u06cc"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431460,
+    "qs:gn_pop":2995,
+    "qs:name":"La Verde",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1137938,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331091,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431460,
+        "gp:id":331091,
+        "qs:id":1137938,
+        "wd:id":"Q1657869",
+        "wk:page":"La Verde"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009695,
+    "wof:geomhash":"aba5d11bf1d8f8ab028f94800aff583b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718205,
+            "locality_id":421191511,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421191511,
+    "wof:lastmodified":1527716380,
+    "wof:name":"La Verde",
+    "wof:parent_id":1108718205,
+    "wof:placetype":"locality",
+    "wof:population":2995,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.37352,
+    -27.12634,
+    -59.37352,
+    -27.12634
+],
+  "geometry": {"coordinates":[-59.37352,-27.12634],"type":"Point"}
+}

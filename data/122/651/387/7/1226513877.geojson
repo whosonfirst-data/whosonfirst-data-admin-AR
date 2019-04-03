@@ -1,0 +1,68 @@
+{
+  "id": 1226513877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.13834,-24.68479,-65.13834,-24.68479",
+    "geom:latitude":-24.68479,
+    "geom:longitude":-65.13834,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66049.0",
+    "gn:asciiname":"Betania",
+    "gn:country_code":"AR",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864267,
+    "gn:latitude":-24.68479,
+    "gn:longitude":-65.13834,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Betania",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421191593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864267
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b2b6a6463c51af3ee656980ad77a5ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191593,
+            "locality_id":1226513877,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226513877,
+    "wof:lastmodified":1537042334,
+    "wof:name":"Betania",
+    "wof:parent_id":421191593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.13834,
+    -24.68479,
+    -65.13834,
+    -24.68479
+],
+  "geometry": {"coordinates":[-65.13834,-24.68479],"type":"Point"}
+}

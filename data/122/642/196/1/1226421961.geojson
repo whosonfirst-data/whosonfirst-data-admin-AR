@@ -1,0 +1,72 @@
+{
+  "id": 1226421961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.95372,-34.04564,-67.95372,-34.04564",
+    "geom:latitude":-34.04564,
+    "geom:longitude":-67.95372,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50112.0",
+    "gn:asciiname":"Nacunan",
+    "gn:country_code":"AR",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843477,
+    "gn:latitude":-34.04564,
+    "gn:longitude":-67.95372,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"\u00d1acu\u00f1\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d1acu\u00f1\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843477,
+        "wk:page":"Biosphere_Reserve_of_%C3%91acu%C3%B1an"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9138b46f7d601d4afccb083e1ac6065e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718363,
+            "locality_id":1226421961,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1226421961,
+    "wof:lastmodified":1537584854,
+    "wof:name":"Nacunan",
+    "wof:parent_id":1108718363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.95371999999999,
+    -34.04564,
+    -67.95371999999999,
+    -34.04564
+],
+  "geometry": {"coordinates":[-67.95371999999999,-34.04564],"type":"Point"}
+}

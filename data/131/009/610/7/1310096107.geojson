@@ -1,0 +1,68 @@
+{
+  "id": 1310096107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.2018,-31.50974,-59.2018,-31.50974",
+    "geom:latitude":-31.50974,
+    "geom:longitude":-59.2018,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30113.0",
+    "gn:asciiname":"Mojones Norte",
+    "gn:country_code":"AR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430634,
+    "gn:latitude":-31.50974,
+    "gn:longitude":-59.2018,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mojones Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430634
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5fba545eb26cfd0a311a9d4054f17256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718259,
+            "locality_id":1310096107,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1310096107,
+    "wof:lastmodified":1537009366,
+    "wof:name":"Mojones Norte",
+    "wof:parent_id":1108718259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.2018,
+    -31.50974,
+    -59.2018,
+    -31.50974
+],
+  "geometry": {"coordinates":[-59.2018,-31.50974],"type":"Point"}
+}

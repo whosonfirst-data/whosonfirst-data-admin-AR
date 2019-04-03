@@ -1,0 +1,91 @@
+{
+  "id": 421196313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.79287,-33.50195,-65.79287,-33.50195",
+    "geom:latitude":-33.50195,
+    "geom:longitude":-65.79287,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Fraga"
+    ],
+    "name:eng_x_preferred":[
+        "Fraga"
+    ],
+    "name:spa_x_preferred":[
+        "Fraga"
+    ],
+    "name:swe_x_preferred":[
+        "Fraga"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855403,
+    "qs:gn_pop":0,
+    "qs:name":"Fraga",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":935826,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467648,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855403,
+        "gp:id":467648,
+        "qs:id":935826,
+        "wd:id":"Q5477624",
+        "wk:page":"Fraga, San Luis"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009876,
+    "wof:geomhash":"6569b0469c753a918fa4d9ce071a6768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171477,
+            "locality_id":421196313,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421196313,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Fraga",
+    "wof:parent_id":421171477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.79287,
+    -33.50195,
+    -65.79287,
+    -33.50195
+],
+  "geometry": {"coordinates":[-65.79286999999999,-33.50195],"type":"Point"}
+}

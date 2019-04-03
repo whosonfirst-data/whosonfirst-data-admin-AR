@@ -1,0 +1,106 @@
+{
+  "id": 421188961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6998,-31.66243,-60.6998,-31.66243",
+    "geom:latitude":-31.66243,
+    "geom:longitude":-60.6998,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Departamento de Jun\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Departamento Jun\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de Jun\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Jun\u00edn megye"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di Jun\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:sco_x_preferred":[
+        "Jun\u00edn Depairtment"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento Jun\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Departamento de Jun\u00edn"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866016,
+    "qs:gn_pop":0,
+    "qs:name":"Alto Verde",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":33902,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464601,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866016,
+        "gp:id":464601,
+        "qs:id":33902
+    },
+    "wof:country":"AR",
+    "wof:created":1459009589,
+    "wof:geomhash":"a4f8a813ff076df30f0930a99b4e11e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718453,
+            "locality_id":421188961,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421188961,
+    "wof:lastmodified":1499925557,
+    "wof:name":"Alto Verde",
+    "wof:parent_id":1108718453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6998,
+    -31.66243,
+    -60.6998,
+    -31.66243
+],
+  "geometry": {"coordinates":[-60.6998,-31.66243],"type":"Point"}
+}

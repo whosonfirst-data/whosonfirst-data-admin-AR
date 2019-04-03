@@ -1,0 +1,68 @@
+{
+  "id": 1193141323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.45783,-38.72359,-62.45783,-38.72359",
+    "geom:latitude":-38.72359,
+    "geom:longitude":-62.45783,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6875.0",
+    "gn:asciiname":"Villarino Viejo",
+    "gn:country_code":"AR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832638,
+    "gn:latitude":-38.72359,
+    "gn:longitude":-62.45783,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villarino Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832638
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7fcbbd4aa7f1c73d9d1aa61e9381e006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718137,
+            "locality_id":1193141323,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193141323,
+    "wof:lastmodified":1536365740,
+    "wof:name":"Villarino Viejo",
+    "wof:parent_id":1108718137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.45783,
+    -38.72359,
+    -62.45783,
+    -38.72359
+],
+  "geometry": {"coordinates":[-62.45783,-38.72359],"type":"Point"}
+}

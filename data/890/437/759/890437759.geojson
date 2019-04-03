@@ -1,0 +1,87 @@
+{
+  "id": 890437759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.00947,-31.55574,-64.00947,-31.55574",
+    "geom:latitude":-31.55574,
+    "geom:longitude":-64.00947,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3046,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Toledo"
+    ],
+    "name:eng_x_preferred":[
+        "Toledo"
+    ],
+    "name:fre_x_preferred":[
+        "Toledo"
+    ],
+    "name:ger_x_preferred":[
+        "Toledo"
+    ],
+    "name:spa_x_preferred":[
+        "Toledo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043b\u0435\u0434\u043e"
+    ],
+    "qs:name":"Toledo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834251,
+        "gp:id":91815135,
+        "qs:id":1152396,
+        "wd:id":"Q1123650",
+        "wk:page":"Toledo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052165,
+    "wof:geomhash":"0de24686b2eeae9c96ba3b8dbfe57dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":890437759,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890437759,
+    "wof:lastmodified":1527729751,
+    "wof:name":"Toledo",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:population":3046,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.00947,
+    -31.55574,
+    -64.00947,
+    -31.55574
+],
+  "geometry": {"coordinates":[-64.00946999999999,-31.55574],"type":"Point"}
+}

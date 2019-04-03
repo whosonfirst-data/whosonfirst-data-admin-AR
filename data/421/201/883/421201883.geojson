@@ -1,0 +1,101 @@
+{
+  "id": 421201883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.62304,-33.60643,-62.62304,-33.60643",
+    "geom:latitude":-33.60643,
+    "geom:longitude":-62.62304,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Alejo Ledesma"
+    ],
+    "name:eng_x_preferred":[
+        "Alejo Ledesma"
+    ],
+    "name:por_x_preferred":[
+        "Alejo Ledesma"
+    ],
+    "name:spa_x_preferred":[
+        "Alejo Ledesma"
+    ],
+    "name:swe_x_preferred":[
+        "Alejo Ledesma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u0445\u043e-\u041b\u0435\u0434\u0435\u0441\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ledesma"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866353,
+    "qs:gn_pop":3310,
+    "qs:name":"Alejo Ledesma",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":398,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":215121,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467487,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866353,
+        "gp:id":467487,
+        "qs:id":215121,
+        "wd:id":"Q8194316"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010090,
+    "wof:geomhash":"f615643e0b6633054f7f7ce178c67490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":421201883,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421201883,
+    "wof:lastmodified":1513888932,
+    "wof:name":"Alejo Ledesma",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:population":3310,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.62304,
+    -33.60643,
+    -62.62304,
+    -33.60643
+],
+  "geometry": {"coordinates":[-62.62304,-33.60643],"type":"Point"}
+}

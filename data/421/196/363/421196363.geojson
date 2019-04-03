@@ -1,0 +1,107 @@
+{
+  "id": 421196363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.8265,-28.84051,-58.8265,-28.84051",
+    "geom:latitude":-28.84051,
+    "geom:longitude":-58.8265,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:dut_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:eng_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:spa_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:swe_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0435-\u0434\u0435-\u0425\u0443\u043b\u0456\u043e"
+    ],
+    "name:unk_x_variant":[
+        "9 de Julio"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430383,
+    "qs:gn_pop":2671,
+    "qs:name":"Nueve de Julio",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212410,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467806,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842882,
+        "gp:id":467806,
+        "qs:id":1212410,
+        "qs_pg:id":585578,
+        "wd:id":"Q7068654",
+        "wk:page":"Nueve de Julio, Corrientes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009879,
+    "wof:geomhash":"15912732fae40e1326503deb39baa731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718179,
+            "locality_id":421196363,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421196363,
+    "wof:lastmodified":1527716361,
+    "wof:name":"Nueve de Julio",
+    "wof:parent_id":1108718179,
+    "wof:placetype":"locality",
+    "wof:population":2671,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.8265,
+    -28.84051,
+    -58.8265,
+    -28.84051
+],
+  "geometry": {"coordinates":[-58.8265,-28.84051],"type":"Point"}
+}

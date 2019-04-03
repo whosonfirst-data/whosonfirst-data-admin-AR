@@ -1,0 +1,74 @@
+{
+  "id": 1210004895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.15495,-35.8615,-64.15495,-35.8615",
+    "geom:latitude":-35.8615,
+    "geom:longitude":-64.15495,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42035.0",
+    "gn:asciiname":"Monte Nievas",
+    "gn:country_code":"AR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843824,
+    "gn:latitude":-35.8615,
+    "gn:longitude":-64.15495,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monte Nievas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Ntevas",
+        "Monte Nieves",
+        "Monte Nievas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843824,
+        "wk:page":"Monte_Nievas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8574ecee89c64e1367da1b47bd38788f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718295,
+            "locality_id":1210004895,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1210004895,
+    "wof:lastmodified":1537584854,
+    "wof:name":"Monte Nievas",
+    "wof:parent_id":1108718295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.15495,
+    -35.8615,
+    -64.15495,
+    -35.8615
+],
+  "geometry": {"coordinates":[-64.15495,-35.8615],"type":"Point"}
+}

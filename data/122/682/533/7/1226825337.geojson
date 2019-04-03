@@ -1,0 +1,68 @@
+{
+  "id": 1226825337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.0728,-24.24792,-64.0728,-24.24792",
+    "geom:latitude":-24.24792,
+    "geom:longitude":-64.0728,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66007.0",
+    "gn:asciiname":"Las Tortugas",
+    "gn:country_code":"AR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847741,
+    "gn:latitude":-24.24792,
+    "gn:longitude":-64.0728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Tortugas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847741
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"90d722027beff2820a663c356f36b9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1226825337,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226825337,
+    "wof:lastmodified":1537094552,
+    "wof:name":"Las Tortugas",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.0728,
+    -24.24792,
+    -64.0728,
+    -24.24792
+],
+  "geometry": {"coordinates":[-64.0728,-24.24792],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421173905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.78987,-34.17269,-59.78987,-34.17269",
+    "geom:latitude":-34.17269,
+    "geom:longitude":-59.78987,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Capit\u00e1n Sarmiento"
+    ],
+    "name:eng_x_preferred":[
+        "Capit\u00e1n Sarmiento"
+    ],
+    "name:ita_x_preferred":[
+        "Capit\u00e1n Sarmiento"
+    ],
+    "name:por_x_preferred":[
+        "Capit\u00e1n Sarmiento"
+    ],
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Sarmiento"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0456\u0442\u0430\u043d-\u0421\u0430\u0440\u043c'\u0454\u043d\u0442\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435690,
+    "qs:gn_pop":0,
+    "qs:name":"Capit\u00e1n Sarmiento",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":304309,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464944,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435690,
+        "gp:id":464944,
+        "qs:id":304309,
+        "wd:id":"Q3246516"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009010,
+    "wof:geomhash":"d6cb75472b4722ddeb8f7753a8f36da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717889,
+            "locality_id":421173905,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421173905,
+    "wof:lastmodified":1513888978,
+    "wof:name":"Capit\u00e1n Sarmiento",
+    "wof:parent_id":1108717889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.78987,
+    -34.17269,
+    -59.78987,
+    -34.17269
+],
+  "geometry": {"coordinates":[-59.78987,-34.17269],"type":"Point"}
+}

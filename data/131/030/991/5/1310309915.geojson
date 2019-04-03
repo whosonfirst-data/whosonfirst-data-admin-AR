@@ -1,0 +1,72 @@
+{
+  "id": 1310309915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.85581,-33.86376,-64.85581,-33.86376",
+    "geom:latitude":-33.86376,
+    "geom:longitude":-64.85581,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Laguna Oscura",
+    "gn:country_code":"AR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3850921,
+    "gn:latitude":-33.86376,
+    "gn:longitude":-64.85581,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Laguna Oscura",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laguna Osura",
+        "Laguna Oscura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3850921
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a8d0c49bcc2e273239363b06e6ab1cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1310309915,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310309915,
+    "wof:lastmodified":1537584867,
+    "wof:name":"Laguna Oscura",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.85580999999999,
+    -33.86376,
+    -64.85580999999999,
+    -33.86376
+],
+  "geometry": {"coordinates":[-64.85580999999999,-33.86376],"type":"Point"}
+}

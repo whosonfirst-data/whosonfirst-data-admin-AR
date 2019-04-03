@@ -1,0 +1,97 @@
+{
+  "id": 421196971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46623,-23.91709,-65.46623,-23.91709",
+    "geom:latitude":-23.91709,
+    "geom:longitude":-65.46623,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832456,
+    "qs:gn_pop":0,
+    "qs:name":"Volc\u00e1n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Jujuy",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263495,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466814,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421201001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832456,
+        "gp:id":466814,
+        "qs:id":1263495,
+        "wd:id":"Q4016103",
+        "wk:page":"Volc\u00e1n (Jujuy)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009899,
+    "wof:geomhash":"ba60c3dc4989bf337766791f6dbb918b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421201001,
+            "locality_id":421196971,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":421196971,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Volc\u00e1n",
+    "wof:parent_id":421201001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46623,
+    -23.91709,
+    -65.46623,
+    -23.91709
+],
+  "geometry": {"coordinates":[-65.46623,-23.91709],"type":"Point"}
+}

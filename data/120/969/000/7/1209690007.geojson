@@ -1,0 +1,63 @@
+{
+  "id": 1209690007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.70405,-33.26916,-60.70405,-33.26916",
+    "geom:latitude":-33.26916,
+    "geom:longitude":-60.70405,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82084.0",
+    "gn:asciiname":"Uranga",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833405,
+    "gn:latitude":-33.26916,
+    "gn:longitude":-60.70405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uranga",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833405,
+        "wk:page":"Uranga%2C_Santa_Fe"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"82467fcec4d2ec2c7fc0511b7ace63fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209690007
+        }
+    ],
+    "wof:id":1209690007,
+    "wof:lastmodified":1537486304,
+    "wof:name":"Uranga",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.70405,
+    -33.26916,
+    -60.70405,
+    -33.26916
+],
+  "geometry": {"coordinates":[-60.70405,-33.26916],"type":"Point"}
+}

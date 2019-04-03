@@ -1,0 +1,89 @@
+{
+  "id": 421197817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61667,-31.33333,-63.61667,-31.33333",
+    "geom:latitude":-31.33333,
+    "geom:longitude":-63.61667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "R\u00edo Primero"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Primero"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Primero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u041f\u0440\u0456\u043c\u0435\u0440\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838823,
+    "qs:gn_pop":0,
+    "qs:name":"R\u00edo Primero",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150413,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467044,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838823,
+        "gp:id":467044,
+        "qs:id":150413,
+        "wd:id":"Q2044620"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009926,
+    "wof:geomhash":"c97eafa84d8d54a3d9e7f413a24d5a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":421197817,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421197817,
+    "wof:lastmodified":1513889400,
+    "wof:name":"R\u00edo Primero",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61667,
+    -31.33333,
+    -63.61667,
+    -31.33333
+],
+  "geometry": {"coordinates":[-63.61667,-31.33333],"type":"Point"}
+}

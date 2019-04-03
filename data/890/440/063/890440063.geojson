@@ -1,0 +1,108 @@
+{
+  "id": 890440063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28333,-27.31667,-61.28333,-27.31667",
+    "geom:latitude":-27.31667,
+    "geom:longitude":-61.28333,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":15741,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u76ae\u5167\u591a\u5c07\u8ecd\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:eng_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:fre_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:ita_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:lit_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:may_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:pol_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:por_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:spa_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:swe_x_preferred":[
+        "General Pinedo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041f\u0456\u043d\u0435\u0434\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5167\u591a\u5c07\u8ecd\u93ae"
+    ],
+    "qs:name":"General Pinedo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855074,
+        "gp:id":467246,
+        "qs:id":150497,
+        "wd:id":"Q611504",
+        "wk:page":"General Pinedo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052261,
+    "wof:geomhash":"6424fe71109dd3c61007bd835cc49503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718195,
+            "locality_id":890440063,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890440063,
+    "wof:lastmodified":1527727104,
+    "wof:name":"General Pinedo",
+    "wof:parent_id":1108718195,
+    "wof:placetype":"locality",
+    "wof:population":15741,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28333,
+    -27.31667,
+    -61.28333,
+    -27.31667
+],
+  "geometry": {"coordinates":[-61.28333,-27.31667],"type":"Point"}
+}

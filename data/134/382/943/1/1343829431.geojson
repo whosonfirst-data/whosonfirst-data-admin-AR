@@ -1,0 +1,72 @@
+{
+  "id": 1343829431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.23466,-23.81461,-63.23466,-23.81461",
+    "geom:latitude":-23.81461,
+    "geom:longitude":-63.23466,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"AR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837507,
+    "gn:latitude":-23.81461,
+    "gn:longitude":-63.23466,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chusca",
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837507
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9492e5223cfe6b3f98689b39bcbc185e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1343829431,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1343829431,
+    "wof:lastmodified":1537584842,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.23466,
+    -23.81461,
+    -63.23466,
+    -23.81461
+],
+  "geometry": {"coordinates":[-63.23466,-23.81461],"type":"Point"}
+}

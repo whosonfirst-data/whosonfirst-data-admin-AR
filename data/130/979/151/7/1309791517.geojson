@@ -1,0 +1,68 @@
+{
+  "id": 1309791517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.75,-32.05,-58.75,-32.05",
+    "geom:latitude":-32.05,
+    "geom:longitude":-58.75,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30098.0",
+    "gn:asciiname":"Colonia Sagastume",
+    "gn:country_code":"AR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435304,
+    "gn:latitude":-32.05,
+    "gn:longitude":-58.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Sagastume",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435304
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6f8ffbb3fc92ba83aefc801c8eb03349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":1309791517,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1309791517,
+    "wof:lastmodified":1536951848,
+    "wof:name":"Colonia Sagastume",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.75,
+    -32.05,
+    -58.75,
+    -32.05
+],
+  "geometry": {"coordinates":[-58.75,-32.05],"type":"Point"}
+}

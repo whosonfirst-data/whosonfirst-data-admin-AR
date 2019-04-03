@@ -1,0 +1,73 @@
+{
+  "id": 1327322787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36667,-22.83333,-65.36667,-22.83333",
+    "geom:latitude":-22.83333,
+    "geom:longitude":-65.36667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38028.0",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":3696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840200,
+    "gn:latitude":-22.83333,
+    "gn:longitude":-65.36667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castilla",
+        "Pueblo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421204061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840200
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"58f643f8a8e7dae3a731869dd5a9740e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204061,
+            "locality_id":1327322787,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1327322787,
+    "wof:lastmodified":1537584847,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":421204061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36667,
+    -22.83333,
+    -65.36667,
+    -22.83333
+],
+  "geometry": {"coordinates":[-65.36667,-22.83333],"type":"Point"}
+}

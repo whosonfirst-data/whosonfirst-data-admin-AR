@@ -1,0 +1,71 @@
+{
+  "id": 1343972149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.57315,-34.51907,-58.57315,-34.51907",
+    "geom:latitude":-34.51907,
+    "geom:longitude":-58.57315,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6371.0",
+    "gn:asciiname":"Villa General Necochea",
+    "gn:country_code":"AR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11151167,
+    "gn:latitude":-34.51907,
+    "gn:longitude":-58.57315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Villa General Necochea",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa General Necochea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11151167
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9bc3b69aecaf7d091efa54a0feb38ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "locality_id":1343972149,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343972149,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Villa General Necochea",
+    "wof:parent_id":1108717969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.57315,
+    -34.51907,
+    -58.57315,
+    -34.51907
+],
+  "geometry": {"coordinates":[-58.57315,-34.51907],"type":"Point"}
+}

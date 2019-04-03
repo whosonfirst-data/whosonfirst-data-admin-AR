@@ -1,0 +1,72 @@
+{
+  "id": 1243272805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.52372,-27.3347,-67.52372,-27.3347",
+    "geom:latitude":-27.3347,
+    "geom:longitude":-67.52372,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Taton",
+    "gn:country_code":"AR",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834583,
+    "gn:latitude":-27.3347,
+    "gn:longitude":-67.52372,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tat\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tat\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834583,
+        "wk:page":"Tat%C3%B3n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e081f59d9e235cf94ed22970e1251d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1243272805,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1243272805,
+    "wof:lastmodified":1537584836,
+    "wof:name":"Taton",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.52372,
+    -27.3347,
+    -67.52372,
+    -27.3347
+],
+  "geometry": {"coordinates":[-67.52372,-27.3347],"type":"Point"}
+}

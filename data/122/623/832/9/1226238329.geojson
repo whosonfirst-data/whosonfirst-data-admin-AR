@@ -1,0 +1,72 @@
+{
+  "id": 1226238329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45078,-23.44445,-61.45078,-23.44445",
+    "geom:latitude":-23.44445,
+    "geom:longitude":-61.45078,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34007.0",
+    "gn:asciiname":"Sombrero Negro",
+    "gn:country_code":"AR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835085,
+    "gn:latitude":-23.44445,
+    "gn:longitude":-61.45078,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sombrero Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayor Gonz\u00e1lez",
+        "Sombrero Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835085
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0c16b126d0c12e22312ed62939395551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718261,
+            "locality_id":1226238329,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1226238329,
+    "wof:lastmodified":1537584837,
+    "wof:name":"Sombrero Negro",
+    "wof:parent_id":1108718261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45078,
+    -23.44445,
+    -61.45078,
+    -23.44445
+],
+  "geometry": {"coordinates":[-61.45078,-23.44445],"type":"Point"}
+}

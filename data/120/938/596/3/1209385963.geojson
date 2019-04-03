@@ -1,0 +1,62 @@
+{
+  "id": 1209385963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.1412,-25.68249,-54.1412,-25.68249",
+    "geom:latitude":-25.68249,
+    "geom:longitude":-54.1412,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54049.0",
+    "gn:asciiname":"Cabure-i",
+    "gn:country_code":"AR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435859,
+    "gn:latitude":-25.68249,
+    "gn:longitude":-54.1412,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cabur\u00e9-i",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435859
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"82a60ce57421164833ce1bcc005ff216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209385963
+        }
+    ],
+    "wof:id":1209385963,
+    "wof:lastmodified":1536288624,
+    "wof:name":"Cabure-i",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.1412,
+    -25.68249,
+    -54.1412,
+    -25.68249
+],
+  "geometry": {"coordinates":[-54.1412,-25.68249],"type":"Point"}
+}

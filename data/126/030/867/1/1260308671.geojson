@@ -1,0 +1,68 @@
+{
+  "id": 1260308671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33233,-31.40237,-63.33233,-31.40237",
+    "geom:latitude":-31.40237,
+    "geom:longitude":-63.33233,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14119.0",
+    "gn:asciiname":"Los Chanaritos",
+    "gn:country_code":"AR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846296,
+    "gn:latitude":-31.40237,
+    "gn:longitude":-63.33233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Cha\u00f1aritos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846296
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e244c9955420a39f764efeca310ae478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":1260308671,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1260308671,
+    "wof:lastmodified":1536678204,
+    "wof:name":"Los Chanaritos",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33233000000001,
+    -31.40237,
+    -63.33233000000001,
+    -31.40237
+],
+  "geometry": {"coordinates":[-63.33233000000001,-31.40237],"type":"Point"}
+}

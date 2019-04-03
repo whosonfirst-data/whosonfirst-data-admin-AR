@@ -1,0 +1,66 @@
+{
+  "id": 1209629315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.36927,-35.28412,-63.36927,-35.28412",
+    "geom:latitude":-35.28412,
+    "geom:longitude":-63.36927,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6392.0",
+    "gn:asciiname":"Villa Sauze",
+    "gn:country_code":"AR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832615,
+    "gn:latitude":-35.28412,
+    "gn:longitude":-63.36927,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Sauze",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Sa\u00face",
+        "Villa Sauze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832615
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"786a11199b96f403a3a0c7175b112a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209629315
+        }
+    ],
+    "wof:id":1209629315,
+    "wof:lastmodified":1537584831,
+    "wof:name":"Villa Sauze",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.36926999999999,
+    -35.28412,
+    -63.36926999999999,
+    -35.28412
+],
+  "geometry": {"coordinates":[-63.36926999999999,-35.28412],"type":"Point"}
+}

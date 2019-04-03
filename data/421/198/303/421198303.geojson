@@ -1,0 +1,117 @@
+{
+  "id": 421198303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.33869,-26.9277,-65.33869,-26.9277",
+    "geom:latitude":-26.9277,
+    "geom:longitude":-65.33869,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u76e7\u840a\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Lules"
+    ],
+    "name:eng_x_preferred":[
+        "Lules"
+    ],
+    "name:fre_x_preferred":[
+        "Lules"
+    ],
+    "name:ger_x_preferred":[
+        "Lules"
+    ],
+    "name:ita_x_preferred":[
+        "Lules"
+    ],
+    "name:por_x_preferred":[
+        "Lules"
+    ],
+    "name:sco_x_preferred":[
+        "Lules"
+    ],
+    "name:spa_x_preferred":[
+        "Lules"
+    ],
+    "name:swe_x_preferred":[
+        "San Isidro de Lules"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043b\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "San Isidro de Lules"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3845391,
+    "qs:gn_pop":0,
+    "qs:name":"Lules",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":189,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181841,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465727,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-26.922778,
+    "wd:longitude":-65.3375,
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421175289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845391,
+        "gp:id":465727,
+        "qs:id":181841,
+        "wd:id":"Q1014661",
+        "wk:page":"Lules"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009943,
+    "wof:geomhash":"b4c42c82a833981300ffb8a4e55662f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175289,
+            "locality_id":421198303,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421198303,
+    "wof:lastmodified":1527716354,
+    "wof:name":"Lules",
+    "wof:parent_id":421175289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.33869,
+    -26.9277,
+    -65.33869,
+    -26.9277
+],
+  "geometry": {"coordinates":[-65.33869,-26.9277],"type":"Point"}
+}

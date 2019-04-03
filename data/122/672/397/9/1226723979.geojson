@@ -1,0 +1,68 @@
+{
+  "id": 1226723979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93334,-31.20162,-60.93334,-31.20162",
+    "geom:latitude":-31.20162,
+    "geom:longitude":-60.93334,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Cululu",
+    "gn:country_code":"AR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859640,
+    "gn:latitude":-31.20162,
+    "gn:longitude":-60.93334,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Culul\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859640
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6027c14378e605875584c4eced00f0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1226723979,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226723979,
+    "wof:lastmodified":1536746719,
+    "wof:name":"Cululu",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93334,
+    -31.20162,
+    -60.93334,
+    -31.20162
+],
+  "geometry": {"coordinates":[-60.93334,-31.20162],"type":"Point"}
+}

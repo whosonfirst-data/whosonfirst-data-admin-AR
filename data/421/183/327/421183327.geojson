@@ -1,0 +1,75 @@
+{
+  "id": 421183327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.926967,-42.617665,-64.926967,-42.617665",
+    "geom:latitude":-42.617665,
+    "geom:longitude":-64.926967,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Playa El Doradillo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":972548,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040274,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        1108718233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56040274,
+        "qs:id":972548
+    },
+    "wof:country":"AR",
+    "wof:created":1459009365,
+    "wof:geomhash":"d366fb1d7267e789a35b8d2464c9038a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718233,
+            "locality_id":421183327,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421183327,
+    "wof:lastmodified":1499924952,
+    "wof:name":"Playa El Doradillo",
+    "wof:parent_id":1108718233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.926967,
+    -42.617665,
+    -64.926967,
+    -42.617665
+],
+  "geometry": {"coordinates":[-64.926967,-42.617665],"type":"Point"}
+}

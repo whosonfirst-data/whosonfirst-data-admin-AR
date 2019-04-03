@@ -1,0 +1,63 @@
+{
+  "id": 1209289659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.61371,-33.28058,-65.61371,-33.28058",
+    "geom:latitude":-33.28058,
+    "geom:longitude":-65.61371,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74021.0",
+    "gn:asciiname":"Juan Llerena",
+    "gn:country_code":"AR",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853420,
+    "gn:latitude":-33.28058,
+    "gn:longitude":-65.61371,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan Llerena",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853420,
+        "wk:page":"Juan_Llerena%2C_San_Luis"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"719443beba1f35d104a89b3b3dd5f500",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209289659
+        }
+    ],
+    "wof:id":1209289659,
+    "wof:lastmodified":1537486330,
+    "wof:name":"Juan Llerena",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.61371,
+    -33.28058,
+    -65.61371,
+    -33.28058
+],
+  "geometry": {"coordinates":[-65.61371,-33.28058],"type":"Point"}
+}

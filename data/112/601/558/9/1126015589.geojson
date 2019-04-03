@@ -1,0 +1,125 @@
+{
+  "id": 1126015589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.68212,-25.33453,-59.68212,-25.33453",
+    "geom:latitude":-25.33453,
+    "geom:longitude":-59.68212,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5655,
+    "gn:population":5655,
+    "iso:country":"AR",
+    "lbl:latitude":-25.33453,
+    "lbl:longitude":-59.68212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c50\u5854\u7d0d\u5c11\u6821\u93ae"
+    ],
+    "name:cze_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:dut_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:eng_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:fre_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:ger_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:nno_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:nob_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:oci_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:por_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:spa_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:swe_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0434\u0430\u043d\u0442\u0435-\u0424\u043e\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3435283,
+    "qs_pg:gn_pop":5655,
+    "qs_pg:name":"Comandante Fontana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":583354,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435283,
+        "qs_pg:id":583354,
+        "wd:id":"Q106069"
+    },
+    "wof:country":"AR",
+    "wof:created":1497300527,
+    "wof:geomhash":"607cbd983aa0f7e4bb617b9bade3c2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":1126015589,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1126015589,
+    "wof:lastmodified":1534379080,
+    "wof:name":"Comandante Fontana",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:population":5655,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        1141906777
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.68212,
+    -25.33453,
+    -59.68212,
+    -25.33453
+],
+  "geometry": {"coordinates":[-59.68212,-25.33453],"type":"Point"}
+}

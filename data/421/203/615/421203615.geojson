@@ -1,0 +1,75 @@
+{
+  "id": 421203615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-62.929687,-35.272531,-62.929687,-35.272531",
+    "geom:latitude":-35.272531,
+    "geom:longitude":-62.929687,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rivadavia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":989861,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070618,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070618,
+        "qs:id":989861,
+        "wd:id":"Q394463"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010158,
+    "wof:geomhash":"8a8121d64b9c73c4b949b34e08dec23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203615,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421203615,
+    "wof:lastmodified":1527716198,
+    "wof:name":"Rivadavia",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.929687,
+    -35.272531,
+    -62.929687,
+    -35.272531
+],
+  "geometry": {"coordinates":[-62.929687,-35.272531],"type":"Point"}
+}

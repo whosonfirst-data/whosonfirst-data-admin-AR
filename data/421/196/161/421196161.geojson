@@ -1,0 +1,79 @@
+{
+  "id": 421196161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.15606,-41.05616,-71.15606,-41.05616",
+    "geom:latitude":-41.05616,
+    "geom:longitude":-71.15606,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Nalmel Huapi"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3843473,
+    "qs:gn_pop":0,
+    "qs:name":"Nahuel Huap\u00ed",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":176,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":176,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":975900,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332639,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843473,
+        "gp:id":332639,
+        "qs:id":975900
+    },
+    "wof:country":"AR",
+    "wof:created":1459009871,
+    "wof:geomhash":"049b8b7ab268674cc759ffdcf2105152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188063,
+            "locality_id":421196161,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421196161,
+    "wof:lastmodified":1501268868,
+    "wof:name":"Nahuel Huap\u00ed",
+    "wof:parent_id":421188063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.15606,
+    -41.05616,
+    -71.15606,
+    -41.05616
+],
+  "geometry": {"coordinates":[-71.15606,-41.05616],"type":"Point"}
+}

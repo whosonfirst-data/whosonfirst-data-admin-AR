@@ -1,0 +1,72 @@
+{
+  "id": 1259341409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.14766,-28.10927,-64.14766,-28.10927",
+    "geom:latitude":-28.10927,
+    "geom:longitude":-64.14766,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86189.0",
+    "gn:asciiname":"Silipica",
+    "gn:country_code":"AR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835273,
+    "gn:latitude":-28.10927,
+    "gn:longitude":-64.14766,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Sil\u00edpica",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Sil\u00edpica",
+        "Sil\u00edpica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835273
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"61ac1b4c033915003e337d237c0c87c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718517,
+            "locality_id":1259341409,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1259341409,
+    "wof:lastmodified":1537584838,
+    "wof:name":"Silipica",
+    "wof:parent_id":1108718517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.14766,
+    -28.10927,
+    -64.14766,
+    -28.10927
+],
+  "geometry": {"coordinates":[-64.14766,-28.10927],"type":"Point"}
+}

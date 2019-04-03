@@ -1,0 +1,72 @@
+{
+  "id": 1293116521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.19708,-34.0484,-61.19708,-34.0484",
+    "geom:latitude":-34.0484,
+    "geom:longitude":-61.19708,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6175.0",
+    "gn:asciiname":"Sarasa",
+    "gn:country_code":"AR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835725,
+    "gn:latitude":-34.0484,
+    "gn:longitude":-61.19708,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sarasa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saraza",
+        "Sarasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835725
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0f10cda258aa87029c9e0de9e39be786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717901,
+            "locality_id":1293116521,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293116521,
+    "wof:lastmodified":1537584838,
+    "wof:name":"Sarasa",
+    "wof:parent_id":1108717901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.19708000000001,
+    -34.0484,
+    -61.19708000000001,
+    -34.0484
+],
+  "geometry": {"coordinates":[-61.19708000000001,-34.0484],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292914819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.85,-27.81667,-58.85,-27.81667",
+    "geom:latitude":-27.81667,
+    "geom:longitude":-58.85,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22140.0",
+    "gn:asciiname":"Ramadita",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429630,
+    "gn:latitude":-27.81667,
+    "gn:longitude":-58.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ramadita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ramadita",
+        "Ramadita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429630
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1d2e0d48a285fd6550516234bda294a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "locality_id":1292914819,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1292914819,
+    "wof:lastmodified":1537584816,
+    "wof:name":"Ramadita",
+    "wof:parent_id":421180295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.85,
+    -27.81667,
+    -58.85,
+    -27.81667
+],
+  "geometry": {"coordinates":[-58.85,-27.81667],"type":"Point"}
+}

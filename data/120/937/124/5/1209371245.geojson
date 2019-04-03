@@ -1,0 +1,62 @@
+{
+  "id": 1209371245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28333,-27.56667,-64.28333,-27.56667",
+    "geom:latitude":-27.56667,
+    "geom:longitude":-64.28333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86035.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"AR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836995,
+    "gn:latitude":-27.56667,
+    "gn:longitude":-64.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836995
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8ff908f8a69adc3d653a8f63f78e63d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209371245
+        }
+    ],
+    "wof:id":1209371245,
+    "wof:lastmodified":1536289099,
+    "wof:name":"San Martin",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28333,
+    -27.56667,
+    -64.28333,
+    -27.56667
+],
+  "geometry": {"coordinates":[-64.28333000000001,-27.56667],"type":"Point"}
+}

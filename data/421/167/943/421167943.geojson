@@ -1,0 +1,107 @@
+{
+  "id": 421167943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.82714,-38.97736,-67.82714,-38.97736",
+    "geom:latitude":-38.97736,
+    "geom:longitude":-67.82714,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Allen"
+    ],
+    "name:dut_x_preferred":[
+        "Allen"
+    ],
+    "name:eng_x_preferred":[
+        "Allen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0646\u060c \u0631\u06cc\u0648 \u0646\u06af\u0631\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "Allen"
+    ],
+    "name:may_x_preferred":[
+        "Allen"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06cc\u0646\u060c \u0631\u06cc\u0648 \u0646\u06af\u0631\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Allen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0454\u043d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866242,
+    "qs:gn_pop":26083,
+    "qs:name":"Allen",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":74,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1047054,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467106,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866242,
+        "gp:id":467106,
+        "qs:id":1047054,
+        "wd:id":"Q2837875"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008749,
+    "wof:geomhash":"5d94dde03ec0988dca0cc567f6b749a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421167943,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421167943,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Allen",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":26083,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.82714,
+    -38.97736,
+    -67.82714,
+    -38.97736
+],
+  "geometry": {"coordinates":[-67.82714,-38.97736],"type":"Point"}
+}

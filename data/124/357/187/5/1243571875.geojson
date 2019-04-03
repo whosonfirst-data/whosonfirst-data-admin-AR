@@ -1,0 +1,68 @@
+{
+  "id": 1243571875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.22131,-35.68649,-60.22131,-35.68649",
+    "geom:latitude":-35.68649,
+    "geom:longitude":-60.22131,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6854.0",
+    "gn:asciiname":"Mamaguita",
+    "gn:country_code":"AR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845071,
+    "gn:latitude":-35.68649,
+    "gn:longitude":-60.22131,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mamaguita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845071
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c990526618b36bc27c345e2e1499f6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718131,
+            "locality_id":1243571875,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243571875,
+    "wof:lastmodified":1536622789,
+    "wof:name":"Mamaguita",
+    "wof:parent_id":1108718131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.22131,
+    -35.68649,
+    -60.22131,
+    -35.68649
+],
+  "geometry": {"coordinates":[-60.22131,-35.68649],"type":"Point"}
+}

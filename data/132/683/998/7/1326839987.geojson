@@ -1,0 +1,71 @@
+{
+  "id": 1326839987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.55652,-34.06089,-59.55652,-34.06089",
+    "geom:latitude":-34.06089,
+    "geom:longitude":-59.55652,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6070.0",
+    "gn:asciiname":"Santa Coloma",
+    "gn:country_code":"AR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3428370,
+    "gn:latitude":-34.06089,
+    "gn:longitude":-59.55652,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Santa Coloma",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Coloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428370
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5e4de0645b38940e2dbd80b0b86fe621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717867,
+            "locality_id":1326839987,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1326839987,
+    "wof:lastmodified":1537584815,
+    "wof:name":"Santa Coloma",
+    "wof:parent_id":1108717867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.55651999999999,
+    -34.06089,
+    -59.55651999999999,
+    -34.06089
+],
+  "geometry": {"coordinates":[-59.55651999999999,-34.06089],"type":"Point"}
+}

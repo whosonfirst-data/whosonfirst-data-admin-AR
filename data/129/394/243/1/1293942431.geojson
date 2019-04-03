@@ -1,0 +1,74 @@
+{
+  "id": 1293942431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73613,-32.74341,-60.73613,-32.74341",
+    "geom:latitude":-32.74341,
+    "geom:longitude":-60.73613,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82119.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"AR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3837097,
+    "gn:latitude":-32.74341,
+    "gn:longitude":-60.73613,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421169771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837097
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4fa2563d08aba933615c9727bca99588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169771,
+            "locality_id":1293942431,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1293942431,
+    "wof:lastmodified":1537584841,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421169771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73613,
+    -32.74341,
+    -60.73613,
+    -32.74341
+],
+  "geometry": {"coordinates":[-60.73613,-32.74341],"type":"Point"}
+}

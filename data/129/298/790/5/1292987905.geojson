@@ -1,0 +1,68 @@
+{
+  "id": 1292987905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.79055,-29.36572,-66.79055,-29.36572",
+    "geom:latitude":-29.36572,
+    "geom:longitude":-66.79055,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46014.0",
+    "gn:asciiname":"Pozo de Avila",
+    "gn:country_code":"AR",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840548,
+    "gn:latitude":-29.36572,
+    "gn:longitude":-66.79055,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozo de \u00c1vila",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840548
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"93d2837cc69a13cfda6047840a8e3cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718321,
+            "locality_id":1292987905,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1292987905,
+    "wof:lastmodified":1537009559,
+    "wof:name":"Pozo de Avila",
+    "wof:parent_id":1108718321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.79055,
+    -29.36572,
+    -66.79055,
+    -29.36572
+],
+  "geometry": {"coordinates":[-66.79055,-29.36572],"type":"Point"}
+}

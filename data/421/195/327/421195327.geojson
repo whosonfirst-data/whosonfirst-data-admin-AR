@@ -1,0 +1,98 @@
+{
+  "id": 421195327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.60449,-37.97904,-63.60449,-37.97904",
+    "geom:latitude":-37.97904,
+    "geom:longitude":-63.60449,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Jos\u00e9 de San Mart\u00edn"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855056,
+    "qs:gn_pop":2846,
+    "qs:name":"General San Mart\u00edn",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150495,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466976,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421181665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855056,
+        "gp:id":466976,
+        "qs:id":150495,
+        "wd:id":"Q5532167"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009840,
+    "wof:geomhash":"b9c5665664b1844174e67ad8b5b39164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181665,
+            "locality_id":421195327,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421195327,
+    "wof:lastmodified":1553816383,
+    "wof:name":"General San Mart\u00edn",
+    "wof:parent_id":421181665,
+    "wof:placetype":"locality",
+    "wof:population":2846,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.60449,
+    -37.97904,
+    -63.60449,
+    -37.97904
+],
+  "geometry": {"coordinates":[-63.60449,-37.97904],"type":"Point"}
+}

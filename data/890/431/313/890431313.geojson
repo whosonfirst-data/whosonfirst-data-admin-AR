@@ -1,0 +1,99 @@
+{
+  "id": 890431313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.52031,-27.98311,-55.52031,-27.98311",
+    "geom:latitude":-27.98311,
+    "geom:longitude":-55.52031,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":7398,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b54\u585e\u666e\u897f\u7fc1\u5fb7\u62c9\u8b1d\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:eng_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:fre_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:pol_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0454\u0440\u0440\u0430"
+    ],
+    "qs:name":"Concepci\u00f3n de la Sierra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435266,
+        "gp:id":465196,
+        "qs:id":583338,
+        "wd:id":"Q2991642",
+        "wk:page":"Concepci\u00f3n de la Sierra"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051886,
+    "wof:geomhash":"4c116dfc107b1d452c3b627d59882ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718369,
+            "locality_id":890431313,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":890431313,
+    "wof:lastmodified":1527735414,
+    "wof:name":"Concepci\u00f3n de la Sierra",
+    "wof:parent_id":1108718369,
+    "wof:placetype":"locality",
+    "wof:population":7398,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.52031,
+    -27.98311,
+    -55.52031,
+    -27.98311
+],
+  "geometry": {"coordinates":[-55.52031,-27.98311],"type":"Point"}
+}

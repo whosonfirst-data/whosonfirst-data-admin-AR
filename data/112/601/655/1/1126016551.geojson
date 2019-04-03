@@ -1,0 +1,97 @@
+{
+  "id": 1126016551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.32359,-24.89682,-60.32359,-24.89682",
+    "geom:latitude":-24.89682,
+    "geom:longitude":-60.32359,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3948,
+    "gn:population":3948,
+    "iso:country":"AR",
+    "lbl:latitude":-24.89682,
+    "lbl:longitude":-60.32359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:eng_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:por_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:spa_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:swe_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u043e-\u0434\u0435\u043b\u044c-\u0422\u0456\u0433\u0440\u0435"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3840432,
+    "qs_pg:gn_pop":3948,
+    "qs_pg:name":"Pozo del Tigre",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":585549,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840432,
+        "qs_pg:id":585549,
+        "wd:id":"Q937642"
+    },
+    "wof:country":"AR",
+    "wof:created":1497300584,
+    "wof:geomhash":"288df19dc926ac425de6ba702467ca8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":1126016551,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1126016551,
+    "wof:lastmodified":1553816703,
+    "wof:name":"Pozo del Tigre",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:population":3948,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.32359,
+    -24.89682,
+    -60.32359,
+    -24.89682
+],
+  "geometry": {"coordinates":[-60.32359,-24.89682],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276964615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.16582,-31.62022,-58.16582,-31.62022",
+    "geom:latitude":-31.62022,
+    "geom:longitude":-58.16582,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30015.0",
+    "gn:asciiname":"E. Iriarte",
+    "gn:country_code":"AR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8055545,
+    "gn:latitude":-31.62022,
+    "gn:longitude":-58.16582,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"E. Iriarte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "E. Iriarte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8055545
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"beab7cb2ed428b81520535711972efa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718245,
+            "locality_id":1276964615,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1276964615,
+    "wof:lastmodified":1537584906,
+    "wof:name":"E. Iriarte",
+    "wof:parent_id":1108718245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16582,
+    -31.62022,
+    -58.16582,
+    -31.62022
+],
+  "geometry": {"coordinates":[-58.16582,-31.62022],"type":"Point"}
+}

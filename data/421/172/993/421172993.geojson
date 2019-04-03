@@ -1,0 +1,145 @@
+{
+  "id": 421172993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.80683,-37.12988,-62.80683,-37.12988",
+    "geom:latitude":-37.12988,
+    "geom:longitude":-62.80683,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0537\u057a\u0565\u056f\u0578\u0582\u0565\u0576"
+    ],
+    "name:aze_x_preferred":[
+        "Villa Epekuyen"
+    ],
+    "name:cat_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u4f69\u6606"
+    ],
+    "name:cze_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:glg_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05d0\u05e4\u05e7\u05d5\u05d0\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0537\u057a\u0565\u056f\u0578\u0582\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:por_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:rum_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u042d\u043f\u0435\u043a\u0443\u044d\u043d"
+    ],
+    "name:sgs_x_preferred":[
+        "Vilja Epekuens"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Epecu\u00e9n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3851114,
+    "qs:gn_pop":0,
+    "qs:name":"Lago Epecu\u00e9n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":281817,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465643,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":411,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851114,
+        "gp:id":465643,
+        "qs:id":281817,
+        "wd:id":"Q2525050",
+        "wk:page":"Villa Epecu\u00e9n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008961,
+    "wof:geomhash":"3305b230cb846f6f65d29628a5569f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717849,
+            "locality_id":421172993,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421172993,
+    "wof:lastmodified":1527716305,
+    "wof:name":"Lago Epecu\u00e9n",
+    "wof:parent_id":1108717849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.80683,
+    -37.12988,
+    -62.80683,
+    -37.12988
+],
+  "geometry": {"coordinates":[-62.80683,-37.12988],"type":"Point"}
+}

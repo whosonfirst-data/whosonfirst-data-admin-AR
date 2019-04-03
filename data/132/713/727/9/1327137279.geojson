@@ -1,0 +1,68 @@
+{
+  "id": 1327137279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.13687,-28.26004,-67.13687,-28.26004",
+    "geom:latitude":-28.26004,
+    "geom:longitude":-67.13687,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Cerro Negro",
+    "gn:country_code":"AR",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862015,
+    "gn:latitude":-28.26004,
+    "gn:longitude":-67.13687,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cerro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862015
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"12ef7b68e8ee23224ff63bbc9a1354d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1327137279,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1327137279,
+    "wof:lastmodified":1536606113,
+    "wof:name":"Cerro Negro",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.13687,
+    -28.26004,
+    -67.13687,
+    -28.26004
+],
+  "geometry": {"coordinates":[-67.13687,-28.26004],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327435689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.89008,-34.24719,-59.89008,-34.24719",
+    "geom:latitude":-34.24719,
+    "geom:longitude":-59.89008,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6161.0",
+    "gn:asciiname":"Nuevo Pueblo",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149522,
+    "gn:latitude":-34.24719,
+    "gn:longitude":-59.89008,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuevo Pueblo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Pueblo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149522
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ae424f87129f1a59ef9b5f206b0f64da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717897,
+            "locality_id":1327435689,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327435689,
+    "wof:lastmodified":1537584908,
+    "wof:name":"Nuevo Pueblo",
+    "wof:parent_id":1108717897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.89008000000001,
+    -34.24719,
+    -59.89008000000001,
+    -34.24719
+],
+  "geometry": {"coordinates":[-59.89008000000001,-34.24719],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209428959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.81962,-34.68622,-58.81962,-34.68622",
+    "geom:latitude":-34.68622,
+    "geom:longitude":-58.81962,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6539.0",
+    "gn:asciiname":"Puente Cascallares",
+    "gn:country_code":"AR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429814,
+    "gn:latitude":-34.68622,
+    "gn:longitude":-58.81962,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puente Cascallares",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429814
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1c12a6ffa8bcb8bb93c606130a93b864",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209428959
+        }
+    ],
+    "wof:id":1209428959,
+    "wof:lastmodified":1536287293,
+    "wof:name":"Puente Cascallares",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.81961999999999,
+    -34.68622,
+    -58.81961999999999,
+    -34.68622
+],
+  "geometry": {"coordinates":[-58.81961999999999,-34.68622],"type":"Point"}
+}

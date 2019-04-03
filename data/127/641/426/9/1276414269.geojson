@@ -1,0 +1,68 @@
+{
+  "id": 1276414269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21235,-31.24458,-61.21235,-31.24458",
+    "geom:latitude":-31.24458,
+    "geom:longitude":-61.21235,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Felicia",
+    "gn:country_code":"AR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855626,
+    "gn:latitude":-31.24458,
+    "gn:longitude":-61.21235,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Felicia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855626
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5f03c7ef0590f553806f91623498e37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1276414269,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1276414269,
+    "wof:lastmodified":1536670243,
+    "wof:name":"Felicia",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21235,
+    -31.24458,
+    -61.21235,
+    -31.24458
+],
+  "geometry": {"coordinates":[-61.21235,-31.24458],"type":"Point"}
+}

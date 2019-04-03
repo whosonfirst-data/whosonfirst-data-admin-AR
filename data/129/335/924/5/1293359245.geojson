@@ -1,0 +1,73 @@
+{
+  "id": 1293359245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.53935,-28.15321,-63.53935,-28.15321",
+    "geom:latitude":-28.15321,
+    "geom:longitude":-63.53935,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86182.0",
+    "gn:asciiname":"Garza",
+    "gn:country_code":"AR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3855199,
+    "gn:latitude":-28.15321,
+    "gn:longitude":-63.53935,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garsa",
+        "Garza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855199,
+        "wk:page":"Garza%2C_Santiago_del_Estero"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b5ea8f7a90e374ec432358781e03f522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718515,
+            "locality_id":1293359245,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1293359245,
+    "wof:lastmodified":1537584875,
+    "wof:name":"Garza",
+    "wof:parent_id":1108718515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.53935,
+    -28.15321,
+    -63.53935,
+    -28.15321
+],
+  "geometry": {"coordinates":[-63.53935,-28.15321],"type":"Point"}
+}

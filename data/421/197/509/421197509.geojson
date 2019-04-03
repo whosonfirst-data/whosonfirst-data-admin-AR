@@ -1,0 +1,115 @@
+{
+  "id": 421197509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52881,-34.18688,-61.52881,-34.18688",
+    "geom:latitude":-34.18688,
+    "geom:longitude":-61.52881,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Teodelina"
+    ],
+    "name:dut_x_preferred":[
+        "Teodelina"
+    ],
+    "name:eng_x_preferred":[
+        "Teodelina"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03bd\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d5\u05d3\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30aa\u30c7\u30ea\u30fc\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Teodelina"
+    ],
+    "name:por_x_preferred":[
+        "Teodelina"
+    ],
+    "name:spa_x_preferred":[
+        "Teodelina"
+    ],
+    "name:swe_x_preferred":[
+        "Teodelina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043e\u0434\u0435\u043b\u0456\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Teodelina"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3834513,
+    "qs:gn_pop":0,
+    "qs:name":"Teodolina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":305277,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":419842,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834513,
+        "gp:id":419842,
+        "qs:id":305277,
+        "wd:id":"Q3457794",
+        "wk:page":"Teodelina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009916,
+    "wof:geomhash":"50f274ddb3d4ae9e2737bc4b61a0e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421197509,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421197509,
+    "wof:lastmodified":1527716405,
+    "wof:name":"Teodolina",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52881,
+    -34.18688,
+    -61.52881,
+    -34.18688
+],
+  "geometry": {"coordinates":[-61.52881,-34.18688],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310209055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.77169,-35.27328,-59.77169,-35.27328",
+    "geom:latitude":-35.27328,
+    "geom:longitude":-59.77169,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6854.0",
+    "gn:asciiname":"Norberto de la Riestra",
+    "gn:country_code":"AR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430409,
+    "gn:latitude":-35.27328,
+    "gn:longitude":-59.77169,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Norberto de la Riestra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N. de la Riestra",
+        "Norberto de la Riestra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430409
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7f8af367785bb70c172af8b6f4ef2c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718131,
+            "locality_id":1310209055,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310209055,
+    "wof:lastmodified":1537584820,
+    "wof:name":"Norberto de la Riestra",
+    "wof:parent_id":1108718131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.77169,
+    -35.27328,
+    -59.77169,
+    -35.27328
+],
+  "geometry": {"coordinates":[-59.77169,-35.27328],"type":"Point"}
+}

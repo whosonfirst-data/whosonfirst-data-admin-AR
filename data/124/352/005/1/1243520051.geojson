@@ -1,0 +1,68 @@
+{
+  "id": 1243520051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.92826,-31.90716,-65.92826,-31.90716",
+    "geom:latitude":-31.90716,
+    "geom:longitude":-65.92826,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"El Pimpollo",
+    "gn:country_code":"AR",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857242,
+    "gn:latitude":-31.90716,
+    "gn:longitude":-65.92826,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Pimpollo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857242
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dff1a321141cbe5ffaba4f52be3b880c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718341,
+            "locality_id":1243520051,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1243520051,
+    "wof:lastmodified":1536699802,
+    "wof:name":"El Pimpollo",
+    "wof:parent_id":1108718341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.92826,
+    -31.90716,
+    -65.92826,
+    -31.90716
+],
+  "geometry": {"coordinates":[-65.92825999999999,-31.90716],"type":"Point"}
+}

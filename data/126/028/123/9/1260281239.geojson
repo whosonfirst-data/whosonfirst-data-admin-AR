@@ -1,0 +1,68 @@
+{
+  "id": 1260281239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.39283,-28.81644,-58.39283,-28.81644",
+    "geom:latitude":-28.81644,
+    "geom:longitude":-58.39283,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18161.0",
+    "gn:asciiname":"Tacuaritas",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427875,
+    "gn:latitude":-28.81644,
+    "gn:longitude":-58.39283,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tacuaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421191017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427875
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0e31f7807caab81929b5fe2119316df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191017,
+            "locality_id":1260281239,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1260281239,
+    "wof:lastmodified":1536715289,
+    "wof:name":"Tacuaritas",
+    "wof:parent_id":421191017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.39283,
+    -28.81644,
+    -58.39283,
+    -28.81644
+],
+  "geometry": {"coordinates":[-58.39283,-28.81644],"type":"Point"}
+}

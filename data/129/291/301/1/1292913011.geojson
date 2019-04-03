@@ -1,0 +1,68 @@
+{
+  "id": 1292913011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.46264,-35.71794,-58.46264,-35.71794",
+    "geom:latitude":-35.71794,
+    "geom:longitude":-58.46264,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6301.0",
+    "gn:asciiname":"Bonnement",
+    "gn:country_code":"AR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435992,
+    "gn:latitude":-35.71794,
+    "gn:longitude":-58.46264,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bonnement",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435992
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2443b9633bb096323cdad5fea11d8aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717945,
+            "locality_id":1292913011,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1292913011,
+    "wof:lastmodified":1536618934,
+    "wof:name":"Bonnement",
+    "wof:parent_id":1108717945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.46264,
+    -35.71794000000001,
+    -58.46264,
+    -35.71794000000001
+],
+  "geometry": {"coordinates":[-58.46264,-35.71794000000001],"type":"Point"}
+}

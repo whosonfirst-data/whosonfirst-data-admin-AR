@@ -1,0 +1,133 @@
+{
+  "id": 421175105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.78696,-30.94768,-59.78696,-30.94768",
+    "geom:latitude":-30.94768,
+    "geom:longitude":-59.78696,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u57c3\u502b\u5a1c"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30a8\u30ec\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627\u060c \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
+    ],
+    "name:por_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ron_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:rum_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:slv_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428359,
+    "qs:gn_pop":18410,
+    "qs:name":"Santa Elena",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":924637,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332521,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421181879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428359,
+        "gp:id":332521,
+        "qs:id":924637,
+        "wd:id":"Q2475908",
+        "wk:page":"Santa Elena, Entre R\u00edos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009055,
+    "wof:geomhash":"8d57b3968c8599d36cdaba7542e9908f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181879,
+            "locality_id":421175105,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421175105,
+    "wof:lastmodified":1527716335,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":421181879,
+    "wof:placetype":"locality",
+    "wof:population":18410,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.78696,
+    -30.94768,
+    -59.78696,
+    -30.94768
+],
+  "geometry": {"coordinates":[-59.78696,-30.94768],"type":"Point"}
+}

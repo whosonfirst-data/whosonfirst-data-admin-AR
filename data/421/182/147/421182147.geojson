@@ -1,0 +1,75 @@
+{
+  "id": 421182147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3465075,-23.3634525,-65.3465075,-23.3634525",
+    "geom:latitude":-23.363453,
+    "geom:longitude":-65.346508,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Chucalesna",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Jujuy",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1317599,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795813,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421204061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26795813,
+        "qs:id":1317599
+    },
+    "wof:country":"AR",
+    "wof:created":1459009320,
+    "wof:geomhash":"196d40283ca66f3295535f00485c592a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204061,
+            "locality_id":421182147,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":421182147,
+    "wof:lastmodified":1499925302,
+    "wof:name":"Chucalesna",
+    "wof:parent_id":421204061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3465075,
+    -23.3634525,
+    -65.3465075,
+    -23.3634525
+],
+  "geometry": {"coordinates":[-65.3465075,-23.3634525],"type":"Point"}
+}

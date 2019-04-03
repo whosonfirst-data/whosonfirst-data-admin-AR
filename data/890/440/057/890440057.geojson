@@ -1,0 +1,78 @@
+{
+  "id": 890440057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91667,-36.81667,-69.91667,-36.81667",
+    "geom:latitude":-36.81667,
+    "geom:longitude":-69.91667,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1098,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Barrancas"
+    ],
+    "name:spa_x_preferred":[
+        "Barrancas"
+    ],
+    "name:swe_x_preferred":[
+        "Barrancas"
+    ],
+    "qs:name":"Barrancas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1843,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421192925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864729,
+        "gp:id":91815461,
+        "qs:id":585783,
+        "wd:id":"Q4863233",
+        "wk:page":"Fort Barrancas"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052261,
+    "wof:geomhash":"7f518e20cc4563ad6909260f8c53fdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421192925,
+            "locality_id":890440057,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":890440057,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Barrancas",
+    "wof:parent_id":421192925,
+    "wof:placetype":"locality",
+    "wof:population":1098,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91667,
+    -36.81667,
+    -69.91667,
+    -36.81667
+],
+  "geometry": {"coordinates":[-69.91667,-36.81667],"type":"Point"}
+}

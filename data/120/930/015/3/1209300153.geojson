@@ -1,0 +1,67 @@
+{
+  "id": 1209300153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36667,-30.96667,-59.36667,-30.96667",
+    "geom:latitude":-30.96667,
+    "geom:longitude":-59.36667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30070.0",
+    "gn:asciiname":"Estancia Santa Isabel",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3434017,
+    "gn:latitude":-30.96667,
+    "gn:longitude":-59.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Estancia Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Isabel",
+        "Estancia Santa Isabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434017
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8741e82ab6e46b952cf8ef0ff221691e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209300153
+        }
+    ],
+    "wof:id":1209300153,
+    "wof:lastmodified":1537584825,
+    "wof:name":"Estancia Santa Isabel",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36666999999999,
+    -30.96667,
+    -59.36666999999999,
+    -30.96667
+],
+  "geometry": {"coordinates":[-59.36666999999999,-30.96667],"type":"Point"}
+}

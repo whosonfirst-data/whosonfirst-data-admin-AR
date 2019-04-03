@@ -1,0 +1,73 @@
+{
+  "id": 1310608743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.1298,-26.90306,-60.1298,-26.90306",
+    "geom:latitude":-26.90306,
+    "geom:longitude":-60.1298,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22168.0",
+    "gn:asciiname":"Napalpi",
+    "gn:country_code":"AR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843438,
+    "gn:latitude":-26.90306,
+    "gn:longitude":-60.1298,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Napalp\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 846",
+        "Napalp\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843438,
+        "wk:page":"Napalp%C3%AD"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2bc90b561bdf07d71ad0dac74cd7f95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718231,
+            "locality_id":1310608743,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1310608743,
+    "wof:lastmodified":1537584854,
+    "wof:name":"Napalpi",
+    "wof:parent_id":1108718231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.1298,
+    -26.90306,
+    -60.1298,
+    -26.90306
+],
+  "geometry": {"coordinates":[-60.1298,-26.90306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259993777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.65178,-37.16026,-59.65178,-37.16026",
+    "geom:latitude":-37.16026,
+    "geom:longitude":-59.65178,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6049.0",
+    "gn:asciiname":"Pablo Acosta",
+    "gn:country_code":"AR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430263,
+    "gn:latitude":-37.16026,
+    "gn:longitude":-59.65178,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pablo Acosta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pablo Acosto",
+        "P. Acosta",
+        "Pablo Acosta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430263
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fb24fad6ef6bb67c77054c417e06f281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717861,
+            "locality_id":1259993777,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1259993777,
+    "wof:lastmodified":1537584819,
+    "wof:name":"Pablo Acosta",
+    "wof:parent_id":1108717861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.65178,
+    -37.16026,
+    -59.65178,
+    -37.16026
+],
+  "geometry": {"coordinates":[-59.65178,-37.16026],"type":"Point"}
+}

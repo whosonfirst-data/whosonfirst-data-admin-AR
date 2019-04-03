@@ -1,0 +1,75 @@
+{
+  "id": 1242782113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39029,-34.52109,-61.39029,-34.52109",
+    "geom:latitude":-34.52109,
+    "geom:longitude":-61.39029,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6462.0",
+    "gn:asciiname":"Leandro N. Alem",
+    "gn:country_code":"AR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847099,
+    "gn:latitude":-34.52109,
+    "gn:longitude":-61.39029,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Leandro N. Alem",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alem",
+        "L.N. Alem",
+        "Leandro Alem",
+        "Leandro N. Alem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847099,
+        "wk:page":"Leandro_N._Alem%2C_Buenos_Aires"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"37ae41d0acb243534df54738c51b7197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717999,
+            "locality_id":1242782113,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1242782113,
+    "wof:lastmodified":1537584862,
+    "wof:name":"Leandro N. Alem",
+    "wof:parent_id":1108717999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39029,
+    -34.52109,
+    -61.39029,
+    -34.52109
+],
+  "geometry": {"coordinates":[-61.39029,-34.52109],"type":"Point"}
+}

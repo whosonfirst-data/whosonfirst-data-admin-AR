@@ -1,0 +1,68 @@
+{
+  "id": 1344261599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.15094,-31.92645,-65.15094,-31.92645",
+    "geom:latitude":-31.92645,
+    "geom:longitude":-65.15094,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14133.0",
+    "gn:asciiname":"Piedra Pintada",
+    "gn:country_code":"AR",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841210,
+    "gn:latitude":-31.92645,
+    "gn:longitude":-65.15094,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Piedra Pintada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421177961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841210
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"205092c1f3d59065d7fdcb7c88140b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421177961,
+            "locality_id":1344261599,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1344261599,
+    "wof:lastmodified":1537079315,
+    "wof:name":"Piedra Pintada",
+    "wof:parent_id":421177961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.15094,
+    -31.92645,
+    -65.15094,
+    -31.92645
+],
+  "geometry": {"coordinates":[-65.15094000000001,-31.92645],"type":"Point"}
+}

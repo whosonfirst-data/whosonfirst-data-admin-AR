@@ -1,0 +1,73 @@
+{
+  "id": 1226812701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.66667,-25.38333,-64.66667,-25.38333",
+    "geom:latitude":-25.38333,
+    "geom:longitude":-64.66667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66112.0",
+    "gn:asciiname":"La Armonia",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852713,
+    "gn:latitude":-25.38333,
+    "gn:longitude":-64.66667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Armon\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Porvenir",
+        "La Armon\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421183903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852713
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a23337085edeebd043ea5252248efda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183903,
+            "locality_id":1226812701,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226812701,
+    "wof:lastmodified":1537584869,
+    "wof:name":"La Armonia",
+    "wof:parent_id":421183903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.66667,
+    -25.38333,
+    -64.66667,
+    -25.38333
+],
+  "geometry": {"coordinates":[-64.66667,-25.38333],"type":"Point"}
+}

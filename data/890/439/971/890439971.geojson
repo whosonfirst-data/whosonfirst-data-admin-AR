@@ -1,0 +1,102 @@
+{
+  "id": 890439971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.93861,-29.78991,-63.93861,-29.78991",
+    "geom:latitude":-29.78991,
+    "geom:longitude":-63.93861,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2067,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u723e\u67e5\u5c3c\u4e9e\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30c7\u30eb\u30fb\u30c1\u30e3\u30cb\u30e3\u30fc\u30eb"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco del Cha\u00f1ar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e-\u0434\u0435\u043b\u044c-\u0427\u0430\u043d\u044c\u044f\u0440"
+    ],
+    "name:unk_x_variant":[
+        "San Francisco de Cha\u00f1ar"
+    ],
+    "qs:name":"San Francisco del Cha\u00f1ar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        1108718167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837625,
+        "gp:id":91816425,
+        "qs:id":585512,
+        "wd:id":"Q3082023",
+        "wk:page":"San Francisco del Cha\u00f1ar"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052257,
+    "wof:geomhash":"c18ddcff06623ab7f9e12f74db867343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718167,
+            "locality_id":890439971,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890439971,
+    "wof:lastmodified":1527729731,
+    "wof:name":"San Francisco del Cha\u00f1ar",
+    "wof:parent_id":1108718167,
+    "wof:placetype":"locality",
+    "wof:population":2067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.93861,
+    -29.78991,
+    -63.93861,
+    -29.78991
+],
+  "geometry": {"coordinates":[-63.93861,-29.78991],"type":"Point"}
+}

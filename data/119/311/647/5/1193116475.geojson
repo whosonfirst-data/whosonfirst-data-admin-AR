@@ -1,0 +1,68 @@
+{
+  "id": 1193116475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8542,-32.92517,-68.8542,-32.92517",
+    "geom:latitude":-32.92517,
+    "geom:longitude":-68.8542,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50021.0",
+    "gn:asciiname":"Villa Marini",
+    "gn:country_code":"AR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832689,
+    "gn:latitude":-32.92517,
+    "gn:longitude":-68.8542,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Marini",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421198469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832689
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"99ec5e6de82cf67f287ffa44bf148c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198469,
+            "locality_id":1193116475,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1193116475,
+    "wof:lastmodified":1536367418,
+    "wof:name":"Villa Marini",
+    "wof:parent_id":421198469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8542,
+    -32.92517,
+    -68.8542,
+    -32.92517
+],
+  "geometry": {"coordinates":[-68.85420000000001,-32.92517],"type":"Point"}
+}

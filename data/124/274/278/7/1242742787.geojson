@@ -1,0 +1,74 @@
+{
+  "id": 1242742787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,-47.13333,-71.85,-47.13333",
+    "geom:latitude":-47.13333,
+    "geom:longitude":-71.85,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78035.0",
+    "gn:asciiname":"Paso Rodolfo Roballos",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841845,
+    "gn:latitude":-47.13333,
+    "gn:longitude":-71.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Rodolfo Roballos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Roballo",
+        "Paso Roballos",
+        "Paso Rodolfo Roballos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421170133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841845
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4d2d6d78e77b0b46e06703bbf3173d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170133,
+            "locality_id":1242742787,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1242742787,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paso Rodolfo Roballos",
+    "wof:parent_id":421170133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    -47.13333,
+    -71.85,
+    -47.13333
+],
+  "geometry": {"coordinates":[-71.84999999999999,-47.13333],"type":"Point"}
+}

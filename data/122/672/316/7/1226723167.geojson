@@ -1,0 +1,72 @@
+{
+  "id": 1226723167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.92529,-37.80197,-69.92529,-37.80197",
+    "geom:latitude":-37.80197,
+    "geom:longitude":-69.92529,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58063.0",
+    "gn:asciiname":"Aguada de Castro",
+    "gn:country_code":"AR",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866800,
+    "gn:latitude":-37.80197,
+    "gn:longitude":-69.92529,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguada de Castro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua de Castro",
+        "Aguada de Castro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866800
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8c7ac9255fa0fb9848bb9f5cff29c244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718381,
+            "locality_id":1226723167,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1226723167,
+    "wof:lastmodified":1537584905,
+    "wof:name":"Aguada de Castro",
+    "wof:parent_id":1108718381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.92529,
+    -37.80197,
+    -69.92529,
+    -37.80197
+],
+  "geometry": {"coordinates":[-69.92529,-37.80197],"type":"Point"}
+}

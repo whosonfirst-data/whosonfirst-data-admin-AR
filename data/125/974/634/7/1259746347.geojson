@@ -1,0 +1,68 @@
+{
+  "id": 1259746347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66065,-30.18977,-68.66065,-30.18977",
+    "geom:latitude":-30.18977,
+    "geom:longitude":-68.66065,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70056.0",
+    "gn:asciiname":"La Falda",
+    "gn:country_code":"AR",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851332,
+    "gn:latitude":-30.18977,
+    "gn:longitude":-68.66065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Falda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421166623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851332
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7bf1036c0f064a6135cd9ecd877d92a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166623,
+            "locality_id":1259746347,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1259746347,
+    "wof:lastmodified":1536976185,
+    "wof:name":"La Falda",
+    "wof:parent_id":421166623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66065,
+    -30.18977000000001,
+    -68.66065,
+    -30.18977000000001
+],
+  "geometry": {"coordinates":[-68.66065,-30.18977000000001],"type":"Point"}
+}

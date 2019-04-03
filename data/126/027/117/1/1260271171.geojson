@@ -1,0 +1,74 @@
+{
+  "id": 1260271171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.91378,-35.0231,-63.91378,-35.0231",
+    "geom:latitude":-35.0231,
+    "geom:longitude":-63.91378,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42056.0",
+    "gn:asciiname":"Coronel Hilario Lagos",
+    "gn:country_code":"AR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860187,
+    "gn:latitude":-35.0231,
+    "gn:longitude":-63.91378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coronel Hilario Lagos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguas Buenas",
+        "Coronel H. Lagos",
+        "Coronel Hilario Lagos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421181881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860187,
+        "wk:page":"Coronel_Hilario_Lagos"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1766f8d0ded7604f060dc86a1dfd5e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181881,
+            "locality_id":1260271171,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1260271171,
+    "wof:lastmodified":1537584888,
+    "wof:name":"Coronel Hilario Lagos",
+    "wof:parent_id":421181881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.91378,
+    -35.0231,
+    -63.91378,
+    -35.0231
+],
+  "geometry": {"coordinates":[-63.91378,-35.0231],"type":"Point"}
+}

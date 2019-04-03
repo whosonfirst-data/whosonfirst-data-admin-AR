@@ -1,0 +1,79 @@
+{
+  "id": 421186989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.325294,-23.1377155,-64.325294,-23.1377155",
+    "geom:latitude":-23.137715,
+    "geom:longitude":-64.325294,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Or\u00e1n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077581,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468746,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-23.136111,
+    "wd:longitude":-64.322222,
+    "wd:wordcount":318,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468746,
+        "qs:id":1077581,
+        "wd:id":"Q1755283"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009498,
+    "wof:geomhash":"d96dae52286106440eb01bb2df136c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718413,
+            "locality_id":421186989,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421186989,
+    "wof:lastmodified":1527716319,
+    "wof:name":"Or\u00e1n",
+    "wof:parent_id":1108718413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.325294,
+    -23.1377155,
+    -64.325294,
+    -23.1377155
+],
+  "geometry": {"coordinates":[-64.325294,-23.1377155],"type":"Point"}
+}

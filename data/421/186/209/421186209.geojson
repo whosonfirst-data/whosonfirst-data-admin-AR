@@ -1,0 +1,73 @@
+{
+  "id": 421186209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.38713,-34.800166,-58.38713,-34.800166",
+    "geom:latitude":-34.800166,
+    "geom:longitude":-58.38713,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Almirante Brown",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":229,
+    "qs:photos_1k":46,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1456,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1061838,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070576,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070576,
+        "qs:id":1061838
+    },
+    "wof:country":"AR",
+    "wof:created":1459009473,
+    "wof:geomhash":"d4f22166910a5bce09cf3f35a61bf7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186209,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421186209,
+    "wof:lastmodified":1475852826,
+    "wof:name":"Almirante Brown",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.38713,
+    -34.800166,
+    -58.38713,
+    -34.800166
+],
+  "geometry": {"coordinates":[-58.38713,-34.800166],"type":"Point"}
+}

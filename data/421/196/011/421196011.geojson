@@ -1,0 +1,127 @@
+{
+  "id": 421196011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.15,-40.7,-66.15,-40.7",
+    "geom:latitude":-40.7,
+    "geom:longitude":-66.15,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Valcheta"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u723e\u5207\u5854"
+    ],
+    "name:deu_x_preferred":[
+        "Valcheta"
+    ],
+    "name:dut_x_preferred":[
+        "Valcheta"
+    ],
+    "name:eng_x_preferred":[
+        "Valcheta"
+    ],
+    "name:fra_x_preferred":[
+        "Valcheta"
+    ],
+    "name:fre_x_preferred":[
+        "Valcheta"
+    ],
+    "name:ger_x_preferred":[
+        "Valcheta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c1\u30a7\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Valcheta"
+    ],
+    "name:por_x_preferred":[
+        "Valcheta"
+    ],
+    "name:spa_x_preferred":[
+        "Valcheta"
+    ],
+    "name:swe_x_preferred":[
+        "Valcheta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0447\u0435\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5207\u5854"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833283,
+    "qs:gn_pop":3596,
+    "qs:name":"Valcheta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1046759,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467447,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":396,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833283,
+        "gp:id":467447,
+        "qs:id":1046759,
+        "wd:id":"Q1015230",
+        "wk:page":"Valcheta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009866,
+    "wof:geomhash":"9ab006ea0bc2e8500bb854d2b26e8c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718399,
+            "locality_id":421196011,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421196011,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Valcheta",
+    "wof:parent_id":1108718399,
+    "wof:placetype":"locality",
+    "wof:population":3596,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.15,
+    -40.7,
+    -66.15,
+    -40.7
+],
+  "geometry": {"coordinates":[-66.15000000000001,-40.7],"type":"Point"}
+}

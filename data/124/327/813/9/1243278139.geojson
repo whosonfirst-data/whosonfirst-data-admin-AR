@@ -1,0 +1,68 @@
+{
+  "id": 1243278139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.55,-37.01667,-59.55,-37.01667",
+    "geom:latitude":-37.01667,
+    "geom:longitude":-59.55,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6049.0",
+    "gn:asciiname":"Arroyo de los Huesos",
+    "gn:country_code":"AR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436265,
+    "gn:latitude":-37.01667,
+    "gn:longitude":-59.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arroyo de los Huesos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436265
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4922d0393f572a9d70eac0225d7f3f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717861,
+            "locality_id":1243278139,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243278139,
+    "wof:lastmodified":1537046166,
+    "wof:name":"Arroyo de los Huesos",
+    "wof:parent_id":1108717861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.55,
+    -37.01667,
+    -59.55,
+    -37.01667
+],
+  "geometry": {"coordinates":[-59.55,-37.01667],"type":"Point"}
+}

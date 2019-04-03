@@ -1,0 +1,72 @@
+{
+  "id": 421196159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.86667,-54.86667,-67.86667,-54.86667",
+    "geom:latitude":-54.86667,
+    "geom:longitude":-67.86667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840085,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Remolino",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tierra del Fuego Antartida e Islas Del Atlantico Sur",
+    "qs:photos":77,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":77,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":975899,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332868,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840085,
+        "gp:id":332868,
+        "qs:id":975899
+    },
+    "wof:country":"AR",
+    "wof:created":1459009871,
+    "wof:geomhash":"809e19328d82cae0b350208197cf9257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421196159,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":421196159,
+    "wof:lastmodified":1466635882,
+    "wof:name":"Puerto Remolino",
+    "wof:parent_id":85667995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.86667,
+    -54.86667,
+    -67.86667,
+    -54.86667
+],
+  "geometry": {"coordinates":[-67.86667,-54.86667],"type":"Point"}
+}

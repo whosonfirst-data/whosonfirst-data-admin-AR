@@ -1,0 +1,68 @@
+{
+  "id": 1276636677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.9378,-36.71525,-66.9378,-36.71525",
+    "geom:latitude":-36.71525,
+    "geom:longitude":-66.9378,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42049.0",
+    "gn:asciiname":"Paso de los Algarrobos",
+    "gn:country_code":"AR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841878,
+    "gn:latitude":-36.71525,
+    "gn:longitude":-66.9378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso de los Algarrobos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841878
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d271c6928286b5778380388b342fc3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718299,
+            "locality_id":1276636677,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1276636677,
+    "wof:lastmodified":1536868425,
+    "wof:name":"Paso de los Algarrobos",
+    "wof:parent_id":1108718299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.9378,
+    -36.71525,
+    -66.9378,
+    -36.71525
+],
+  "geometry": {"coordinates":[-66.9378,-36.71525],"type":"Point"}
+}

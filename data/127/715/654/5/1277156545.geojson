@@ -1,0 +1,72 @@
+{
+  "id": 1277156545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32642,-32.69276,-68.32642,-32.69276",
+    "geom:latitude":-32.69276,
+    "geom:longitude":-68.32642,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50056.0",
+    "gn:asciiname":"Ingeniero Gustavo Andre",
+    "gn:country_code":"AR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853787,
+    "gn:latitude":-32.69276,
+    "gn:longitude":-68.32642,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ingeniero Gustavo Andr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingeniero G. Andr\u00e9",
+        "Ingeniero Gustavo Andr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853787
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a038ba82f9f5bd48fde1cb2297ef6a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187691,
+            "locality_id":1277156545,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1277156545,
+    "wof:lastmodified":1537584872,
+    "wof:name":"Ingeniero Gustavo Andre",
+    "wof:parent_id":421187691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32642,
+    -32.69276,
+    -68.32642,
+    -32.69276
+],
+  "geometry": {"coordinates":[-68.32642,-32.69276],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421175807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-58.63905,-34.58831,-58.63905,-34.58831",
+    "geom:latitude":-34.58831,
+    "geom:longitude":-58.63905,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u0644\u064a\u0646\u063a\u0627\u0645\u060c \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
+    ],
+    "name:epo_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u06cc\u0646\u06af\u0627\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:msa_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:nld_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:por_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:sco_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de Hurlingham"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0440\u043b\u0438\u043d\u0433\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "28 de Septiembre"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u723e\u6797\u6f22"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3433522,
+    "qs:gn_pop":0,
+    "qs:name":"Hurlingham",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":806,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1032246,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26794432,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":367,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433522,
+        "gp:id":26794432,
+        "qs:id":1032246,
+        "wd:id":"Q2713588",
+        "wk:page":"Hurlingham, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009080,
+    "wof:geomhash":"ca8c9bb5ce3a44e36cf032f7267a36a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175807,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421175807,
+    "wof:lastmodified":1527716344,
+    "wof:name":"Hurlingham",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.63905,
+    -34.58831,
+    -58.63905,
+    -34.58831
+],
+  "geometry": {"coordinates":[-58.63905,-34.58831],"type":"Point"}
+}

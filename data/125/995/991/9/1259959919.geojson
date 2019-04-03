@@ -1,0 +1,73 @@
+{
+  "id": 1259959919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8659,-30.4028,-66.8659,-30.4028",
+    "geom:latitude":-30.4028,
+    "geom:longitude":-66.8659,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46105.0",
+    "gn:asciiname":"Bajo del Gallo",
+    "gn:country_code":"AR",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865020,
+    "gn:latitude":-30.4028,
+    "gn:longitude":-66.8659,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bajo del Gallo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cieneguita",
+        "Bajo de Gallo",
+        "Bajo del Gallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865020
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b08a30e5e72fcdb19a4de8d0be469205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718345,
+            "locality_id":1259959919,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1259959919,
+    "wof:lastmodified":1537584901,
+    "wof:name":"Bajo del Gallo",
+    "wof:parent_id":1108718345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8659,
+    -30.4028,
+    -66.8659,
+    -30.4028
+],
+  "geometry": {"coordinates":[-66.8659,-30.4028],"type":"Point"}
+}

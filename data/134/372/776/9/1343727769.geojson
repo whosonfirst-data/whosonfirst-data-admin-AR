@@ -1,0 +1,68 @@
+{
+  "id": 1343727769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.39553,-32.3402,-66.39553,-32.3402",
+    "geom:latitude":-32.3402,
+    "geom:longitude":-66.39553,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"Lomas Blancas",
+    "gn:country_code":"AR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846665,
+    "gn:latitude":-32.3402,
+    "gn:longitude":-66.39553,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Lomas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846665
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ed770022d240c3eb2a13dec2d41ecbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":1343727769,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1343727769,
+    "wof:lastmodified":1536856882,
+    "wof:name":"Lomas Blancas",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.39553000000001,
+    -32.3402,
+    -66.39553000000001,
+    -32.3402
+],
+  "geometry": {"coordinates":[-66.39553000000001,-32.3402],"type":"Point"}
+}

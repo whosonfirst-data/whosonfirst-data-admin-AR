@@ -1,0 +1,68 @@
+{
+  "id": 1242936733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91532,-25.83395,-64.91532,-25.83395",
+    "geom:latitude":-25.83395,
+    "geom:longitude":-64.91532,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66140.0",
+    "gn:asciiname":"Los Banos",
+    "gn:country_code":"AR",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846435,
+    "gn:latitude":-25.83395,
+    "gn:longitude":-64.91532,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Ba\u00f1os",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421171483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846435
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"905693dae3a6845fe4af27af50623401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171483,
+            "locality_id":1242936733,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1242936733,
+    "wof:lastmodified":1537041807,
+    "wof:name":"Los Banos",
+    "wof:parent_id":421171483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91532,
+    -25.83395,
+    -64.91532,
+    -25.83395
+],
+  "geometry": {"coordinates":[-64.91531999999999,-25.83395],"type":"Point"}
+}

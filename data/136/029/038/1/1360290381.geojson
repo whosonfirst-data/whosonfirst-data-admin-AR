@@ -1,0 +1,72 @@
+{
+  "id": 1360290381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3402,-31.02831,-63.3402,-31.02831",
+    "geom:latitude":-31.02831,
+    "geom:longitude":-63.3402,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14105.0",
+    "gn:asciiname":"Diego de Rojas",
+    "gn:country_code":"AR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859353,
+    "gn:latitude":-31.02831,
+    "gn:longitude":-63.3402,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diego de Rojas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Noria",
+        "Diego de Rojas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859353
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9366c60fb5da17774ea14803fb722863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":1360290381,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1360290381,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Diego de Rojas",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3402,
+    -31.02831,
+    -63.3402,
+    -31.02831
+],
+  "geometry": {"coordinates":[-63.3402,-31.02831],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293267363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63454,-32.87753,-65.63454,-32.87753",
+    "geom:latitude":-32.87753,
+    "geom:longitude":-65.63454,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74063.0",
+    "gn:asciiname":"Paso Grande",
+    "gn:country_code":"AR",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841862,
+    "gn:latitude":-32.87753,
+    "gn:longitude":-65.63454,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841862,
+        "wk:page":"Paso_Grande"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5bb44aa26f304b523caaf37173a348b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718447,
+            "locality_id":1293267363,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1293267363,
+    "wof:lastmodified":1537486316,
+    "wof:name":"Paso Grande",
+    "wof:parent_id":1108718447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63454,
+    -32.87753,
+    -65.63454,
+    -32.87753
+],
+  "geometry": {"coordinates":[-65.63454,-32.87753],"type":"Point"}
+}

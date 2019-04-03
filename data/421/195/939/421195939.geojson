@@ -1,0 +1,112 @@
+{
+  "id": 421195939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73333,-32.42657,-63.73333,-32.42657",
+    "geom:latitude":-32.42657,
+    "geom:longitude":-63.73333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Hernando"
+    ],
+    "name:dut_x_preferred":[
+        "Hernando"
+    ],
+    "name:eng_x_preferred":[
+        "Hernando"
+    ],
+    "name:ita_x_preferred":[
+        "Hernando"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30ca\u30f3\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Hernando"
+    ],
+    "name:por_x_preferred":[
+        "Hernando"
+    ],
+    "name:spa_x_preferred":[
+        "Hernando"
+    ],
+    "name:swe_x_preferred":[
+        "Hernando"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u043d\u0430\u043d\u0434\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854331,
+    "qs:gn_pop":10486,
+    "qs:name":"Hernando",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":967962,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466983,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854331,
+        "gp:id":466983,
+        "qs:id":967962,
+        "wd:id":"Q2648980",
+        "wk:page":"Hernando, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009864,
+    "wof:geomhash":"0828b55df022cac522ecb09d57b1d321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":421195939,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195939,
+    "wof:lastmodified":1527716117,
+    "wof:name":"Hernando",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:population":10486,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73333,
+    -32.42657,
+    -63.73333,
+    -32.42657
+],
+  "geometry": {"coordinates":[-63.73333,-32.42657],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226553683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.37556,-35.01307,-63.37556,-35.01307",
+    "geom:latitude":-35.01307,
+    "geom:longitude":-63.37556,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6392.0",
+    "gn:asciiname":"Banderalo",
+    "gn:country_code":"AR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864830,
+    "gn:latitude":-35.01307,
+    "gn:longitude":-63.37556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Banderal\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421181881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864830
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"acc4fcf0075213fe36dcba3dd7e93587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181881,
+            "locality_id":1226553683,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1226553683,
+    "wof:lastmodified":1536985729,
+    "wof:name":"Banderalo",
+    "wof:parent_id":421181881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.37556,
+    -35.01307,
+    -63.37556,
+    -35.01307
+],
+  "geometry": {"coordinates":[-63.37556,-35.01307],"type":"Point"}
+}

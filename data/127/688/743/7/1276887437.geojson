@@ -1,0 +1,72 @@
+{
+  "id": 1276887437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.19944,-34.52482,-60.19944,-34.52482",
+    "geom:latitude":-34.52482,
+    "geom:longitude":-60.19944,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6210.0",
+    "gn:asciiname":"Ingeniero Silveyra",
+    "gn:country_code":"AR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853775,
+    "gn:latitude":-34.52482,
+    "gn:longitude":-60.19944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ingeniero Silveyra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingeniero Silveira",
+        "Ingeniero Silveyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853775
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"08c5f053f9d499f698dc854087912208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717913,
+            "locality_id":1276887437,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276887437,
+    "wof:lastmodified":1537584871,
+    "wof:name":"Ingeniero Silveyra",
+    "wof:parent_id":1108717913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.19944,
+    -34.52482,
+    -60.19944,
+    -34.52482
+],
+  "geometry": {"coordinates":[-60.19944,-34.52482],"type":"Point"}
+}

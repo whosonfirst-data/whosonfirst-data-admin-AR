@@ -1,0 +1,68 @@
+{
+  "id": 1243510801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.63333,-29.48333,-63.63333,-29.48333",
+    "geom:latitude":-29.48333,
+    "geom:longitude":-63.63333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86126.0",
+    "gn:asciiname":"Tala Yacu",
+    "gn:country_code":"AR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834737,
+    "gn:latitude":-29.48333,
+    "gn:longitude":-63.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tala Yacu",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834737
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"41b0e074a13c591bebf7d5c23d1fc7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718499,
+            "locality_id":1243510801,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1243510801,
+    "wof:lastmodified":1536713174,
+    "wof:name":"Tala Yacu",
+    "wof:parent_id":1108718499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.63333000000001,
+    -29.48333,
+    -63.63333000000001,
+    -29.48333
+],
+  "geometry": {"coordinates":[-63.63333000000001,-29.48333],"type":"Point"}
+}

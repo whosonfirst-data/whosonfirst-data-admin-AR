@@ -1,0 +1,99 @@
+{
+  "id": 890439987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4383,-27.64934,-65.4383,-27.64934",
+    "geom:latitude":-27.64934,
+    "geom:longitude":-65.4383,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":5263,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u683c\u62c9\u5167\u7f85\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Graneros"
+    ],
+    "name:eng_x_preferred":[
+        "Graneros"
+    ],
+    "name:fre_x_preferred":[
+        "Graneros"
+    ],
+    "name:ger_x_preferred":[
+        "Graneros"
+    ],
+    "name:ita_x_preferred":[
+        "Graneros"
+    ],
+    "name:por_x_preferred":[
+        "Graneros"
+    ],
+    "name:spa_x_preferred":[
+        "Graneros"
+    ],
+    "name:swe_x_preferred":[
+        "Graneros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
+    ],
+    "qs:name":"Graneros",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854724,
+        "gp:id":91816246,
+        "qs:id":279893,
+        "wd:id":"Q1014652",
+        "wk:page":"Graneros"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052258,
+    "wof:geomhash":"de9c4dfffc7a21e78db0524631124009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718521,
+            "locality_id":890439987,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":890439987,
+    "wof:lastmodified":1527729733,
+    "wof:name":"Graneros",
+    "wof:parent_id":1108718521,
+    "wof:placetype":"locality",
+    "wof:population":5263,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4383,
+    -27.64934,
+    -65.4383,
+    -27.64934
+],
+  "geometry": {"coordinates":[-65.4383,-27.64934],"type":"Point"}
+}

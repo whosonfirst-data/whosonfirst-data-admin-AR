@@ -1,0 +1,68 @@
+{
+  "id": 1226206021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.19668,-23.74518,-67.19668,-23.74518",
+    "geom:latitude":-23.74518,
+    "geom:longitude":-67.19668,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66105.0",
+    "gn:asciiname":"Huaitiquina",
+    "gn:country_code":"AR",
+    "gn:dem":4257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854112,
+    "gn:latitude":-23.74518,
+    "gn:longitude":-67.19668,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Huaitiquina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854112
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"06cf182ecd2e41405d79353a6fd04044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718411,
+            "locality_id":1226206021,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226206021,
+    "wof:lastmodified":1536990177,
+    "wof:name":"Huaitiquina",
+    "wof:parent_id":1108718411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.19668,
+    -23.74518,
+    -67.19668,
+    -23.74518
+],
+  "geometry": {"coordinates":[-67.19668,-23.74518],"type":"Point"}
+}

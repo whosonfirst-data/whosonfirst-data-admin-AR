@@ -1,0 +1,68 @@
+{
+  "id": 1344034055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6319,-33.45596,-67.6319,-33.45596",
+    "geom:latitude":-33.45596,
+    "geom:longitude":-67.6319,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50042.0",
+    "gn:asciiname":"Villa La Paz",
+    "gn:country_code":"AR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832709,
+    "gn:latitude":-33.45596,
+    "gn:longitude":-67.6319,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa La Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832709
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"43030f06577358762509e623aaf29e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718357,
+            "locality_id":1344034055,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1344034055,
+    "wof:lastmodified":1536914269,
+    "wof:name":"Villa La Paz",
+    "wof:parent_id":1108718357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6319,
+    -33.45596,
+    -67.6319,
+    -33.45596
+],
+  "geometry": {"coordinates":[-67.6319,-33.45596],"type":"Point"}
+}

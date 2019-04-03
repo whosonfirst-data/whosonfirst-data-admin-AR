@@ -1,0 +1,75 @@
+{
+  "id": 421200143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-60.718688,-37.562677,-60.718688,-37.562677",
+    "geom:latitude":-37.562677,
+    "geom:longitude":-60.718688,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Laprida",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1241043,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070601,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070601,
+        "qs:id":1241043,
+        "wd:id":"Q5393050"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010013,
+    "wof:geomhash":"0c3869aa1132de361b08607e09a5e8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200143,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421200143,
+    "wof:lastmodified":1527716425,
+    "wof:name":"Laprida",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.718688,
+    -37.562677,
+    -60.718688,
+    -37.562677
+],
+  "geometry": {"coordinates":[-60.718688,-37.562677],"type":"Point"}
+}

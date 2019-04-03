@@ -1,0 +1,100 @@
+{
+  "id": 1125870573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.46519,-35.38585,-64.46519,-35.38585",
+    "geom:latitude":-35.38585,
+    "geom:longitude":-64.46519,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4671,
+    "gn:population":4671,
+    "iso:country":"AR",
+    "lbl:latitude":-35.38585,
+    "lbl:longitude":-64.46519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:eng_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:fre_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:por_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:spa_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:swe_x_preferred":[
+        "Ingeniero Luiggi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0445\u0435\u043d\u044c\u0454\u0440\u043e-\u041b\u0443\u0457\u0434\u0436\u0456"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3853783,
+    "qs_pg:gn_pop":4671,
+    "qs_pg:name":"Ingeniero Luiggi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":96641,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853783,
+        "qs_pg:id":96641,
+        "wd:id":"Q3038413"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294277,
+    "wof:geomhash":"b0d261b66753519d11ce59d00f149d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718317,
+            "locality_id":1125870573,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1125870573,
+    "wof:lastmodified":1513889205,
+    "wof:name":"Ingeniero Luiggi",
+    "wof:parent_id":1108718317,
+    "wof:placetype":"locality",
+    "wof:population":4671,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.46519,
+    -35.38585,
+    -64.46519,
+    -35.38585
+],
+  "geometry": {"coordinates":[-64.46519000000001,-35.38585],"type":"Point"}
+}

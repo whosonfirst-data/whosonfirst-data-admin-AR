@@ -1,0 +1,68 @@
+{
+  "id": 1292917309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20338,-34.77449,-58.20338,-34.77449",
+    "geom:latitude":-34.77449,
+    "geom:longitude":-58.20338,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6091.0",
+    "gn:asciiname":"Villa Espana",
+    "gn:country_code":"AR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427438,
+    "gn:latitude":-34.77449,
+    "gn:longitude":-58.20338,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Espa\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427438
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"161d4879685a85e597232cd648116f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717873,
+            "locality_id":1292917309,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1292917309,
+    "wof:lastmodified":1536612379,
+    "wof:name":"Villa Espana",
+    "wof:parent_id":1108717873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20338,
+    -34.77449,
+    -58.20338,
+    -34.77449
+],
+  "geometry": {"coordinates":[-58.20338,-34.77449],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421196033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.91984,-32.0186,-62.91984,-32.0186",
+    "geom:latitude":-32.0186,
+    "geom:longitude":-62.91984,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Pozo del Molle"
+    ],
+    "name:eng_x_preferred":[
+        "Pozo del Molle"
+    ],
+    "name:ita_x_preferred":[
+        "Pozo del Molle"
+    ],
+    "name:por_x_preferred":[
+        "Pozo del Molle"
+    ],
+    "name:spa_x_preferred":[
+        "Pozo del Molle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u043e-\u0434\u0435\u043b\u044c-\u041c\u043e\u043b\u044c\u0454"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840470,
+    "qs:gn_pop":5429,
+    "qs:name":"Pozo del Molle",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046831,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467030,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840470,
+        "gp:id":467030,
+        "qs:id":1046831,
+        "wd:id":"Q3909741"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009867,
+    "wof:geomhash":"766158522d667c2a981e4b6a5c0fe6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":421196033,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196033,
+    "wof:lastmodified":1513889354,
+    "wof:name":"Pozo del Molle",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:population":5429,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.91984,
+    -32.0186,
+    -62.91984,
+    -32.0186
+],
+  "geometry": {"coordinates":[-62.91984,-32.0186],"type":"Point"}
+}

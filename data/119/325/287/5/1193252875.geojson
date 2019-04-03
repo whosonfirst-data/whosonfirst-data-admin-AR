@@ -1,0 +1,68 @@
+{
+  "id": 1193252875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53333,-48.4,-70.53333,-48.4",
+    "geom:latitude":-48.4,
+    "geom:longitude":-70.53333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78049.0",
+    "gn:asciiname":"Casa Riera",
+    "gn:country_code":"AR",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862387,
+    "gn:latitude":-48.4,
+    "gn:longitude":-70.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Casa Riera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421198477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862387
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8c3145ee6794b01747a9fdaf852cb4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198477,
+            "locality_id":1193252875,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1193252875,
+    "wof:lastmodified":1536366424,
+    "wof:name":"Casa Riera",
+    "wof:parent_id":421198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53333,
+    -48.4,
+    -70.53333,
+    -48.4
+],
+  "geometry": {"coordinates":[-70.53333000000001,-48.4],"type":"Point"}
+}

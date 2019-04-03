@@ -1,0 +1,72 @@
+{
+  "id": 1226135983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.31301,-29.49235,-59.31301,-29.49235",
+    "geom:latitude":-29.49235,
+    "geom:longitude":-59.31301,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18070.0",
+    "gn:asciiname":"Paraje San Isidro",
+    "gn:country_code":"AR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430148,
+    "gn:latitude":-29.49235,
+    "gn:longitude":-59.31301,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paraje San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Isidro",
+        "Paraje San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421193663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430148
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5c7c0c6f5bb795b7d778aed3c25539eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421193663,
+            "locality_id":1226135983,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1226135983,
+    "wof:lastmodified":1537584819,
+    "wof:name":"Paraje San Isidro",
+    "wof:parent_id":421193663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.31301,
+    -29.49235,
+    -59.31301,
+    -29.49235
+],
+  "geometry": {"coordinates":[-59.31301,-29.49235],"type":"Point"}
+}

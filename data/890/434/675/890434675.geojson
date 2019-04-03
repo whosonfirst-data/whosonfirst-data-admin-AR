@@ -1,0 +1,96 @@
+{
+  "id": 890434675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87713,-37.05222,-69.87713,-37.05222",
+    "geom:latitude":-37.05222,
+    "geom:longitude":-69.87713,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2221,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0582\u057f\u0561 \u054c\u0561\u0576\u056f\u056b\u056c"
+    ],
+    "name:dut_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:eng_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:fre_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:lit_x_preferred":[
+        "Buta Rankilis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0420\u0430\u043d\u043a\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:swe_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0420\u0430\u043d\u043a\u0456\u043b\u044c"
+    ],
+    "qs:name":"Buta Ranquil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421192925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863663,
+        "gp:id":91815689,
+        "qs:id":585746,
+        "wd:id":"Q630891",
+        "wk:page":"Buta Ranquil"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052036,
+    "wof:geomhash":"2d0e5cc4582a339467ff138f349e861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421192925,
+            "locality_id":890434675,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":890434675,
+    "wof:lastmodified":1527792943,
+    "wof:name":"Buta Ranquil",
+    "wof:parent_id":421192925,
+    "wof:placetype":"locality",
+    "wof:population":2221,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87713,
+    -37.05222,
+    -69.87713,
+    -37.05222
+],
+  "geometry": {"coordinates":[-69.87712999999999,-37.05222],"type":"Point"}
+}

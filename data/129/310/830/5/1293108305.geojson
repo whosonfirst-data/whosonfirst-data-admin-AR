@@ -1,0 +1,73 @@
+{
+  "id": 1293108305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.10475,-37.47824,-62.10475,-37.47824",
+    "geom:latitude":-37.47824,
+    "geom:longitude":-62.10475,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6203.0",
+    "gn:asciiname":"Cura Malal",
+    "gn:country_code":"AR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859607,
+    "gn:latitude":-37.47824,
+    "gn:longitude":-62.10475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cura Malal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curumal\u00e1n",
+        "Curramal\u00e1n",
+        "Cura Malal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859607
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"89aa42a832572918b607f03ff0d9ec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717909,
+            "locality_id":1293108305,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293108305,
+    "wof:lastmodified":1537584886,
+    "wof:name":"Cura Malal",
+    "wof:parent_id":1108717909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.10475,
+    -37.47824,
+    -62.10475,
+    -37.47824
+],
+  "geometry": {"coordinates":[-62.10475,-37.47824],"type":"Point"}
+}

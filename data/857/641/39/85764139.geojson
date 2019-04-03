@@ -1,0 +1,132 @@
+{
+  "id": 85764139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":15448724.329043,
+    "geom:bbox":"-60.698513,-32.863716,-60.698513,-32.863716",
+    "geom:latitude":-32.863716,
+    "geom:longitude":-60.698513,
+    "gn:latitude":-32.87697,
+    "gn:longitude":-60.6909,
+    "iso:country":"AR",
+    "lbl:latitude":-32.863716,
+    "lbl:longitude":-60.698513,
+    "mps:latitude":-32.863416,
+    "mps:longitude":-60.706243,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:bre_x_preferred":[
+        "La Florida"
+    ],
+    "name:fra_x_preferred":[
+        "La Florida"
+    ],
+    "name:ita_x_preferred":[
+        "La Florida"
+    ],
+    "name:nld_x_preferred":[
+        "La Florida"
+    ],
+    "name:sco_x_preferred":[
+        "La Florida"
+    ],
+    "name:spa_x_preferred":[
+        "La Florida"
+    ],
+    "name:spa_x_variant":[
+        "Laflorida"
+    ],
+    "name:unk_x_variant":[
+        "La Florida"
+    ],
+    "name:vie_x_preferred":[
+        "La Florida"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3838583,
+    "qs:gn_namadm1":"21",
+    "qs:gn_name":"La Florida",
+    "qs:local_max":4639,
+    "qs:local_sum":17736,
+    "qs:localhoods":14,
+    "qs:name":"La Florida",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:name_adm2":"Rosario",
+    "qs:name_local":"Rosario",
+    "qs:photo_max":106,
+    "qs:photo_sum":409,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344695,
+    "qs:woe_adm2":20070927,
+    "qs:woe_lau":0,
+    "qs:woe_local":466862,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85668077,
+        102191577,
+        85632505,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851241,
+        "gp:id":330927,
+        "qs:id":351989
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9d8cba24f608c19b9e05ee083d1a750c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":-1,
+            "neighbourhood_id":85764139,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":85764139,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379086,
+    "wof:name":"La Florida",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        1126103257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.698513,
+    -32.863716,
+    -60.698513,
+    -32.863716
+],
+  "geometry": {"coordinates":[-60.698513,-32.863716],"type":"Point"}
+}

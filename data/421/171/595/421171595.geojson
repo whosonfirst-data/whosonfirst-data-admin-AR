@@ -1,0 +1,95 @@
+{
+  "id": 421171595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.30017,-31.06661,-64.30017,-31.06661",
+    "geom:latitude":-31.06661,
+    "geom:longitude":-64.30017,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Agua de Oro"
+    ],
+    "name:eng_x_preferred":[
+        "Agua de Oro"
+    ],
+    "name:por_x_preferred":[
+        "Agua de Oro"
+    ],
+    "name:spa_x_preferred":[
+        "Agua de Oro"
+    ],
+    "name:swe_x_preferred":[
+        "Agua de Oro"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866667,
+    "qs:gn_pop":1553,
+    "qs:name":"Agua de Oro",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1263005,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464536,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866667,
+        "gp:id":464536,
+        "qs:id":1263005,
+        "wd:id":"Q2215108"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008899,
+    "wof:geomhash":"92a31b2193293d3eb905436279719515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421171595,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421171595,
+    "wof:lastmodified":1513888930,
+    "wof:name":"Agua de Oro",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:population":1553,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.30017,
+    -31.06661,
+    -64.30017,
+    -31.06661
+],
+  "geometry": {"coordinates":[-64.30016999999999,-31.06661],"type":"Point"}
+}

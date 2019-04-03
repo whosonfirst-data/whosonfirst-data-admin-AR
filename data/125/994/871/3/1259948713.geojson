@@ -1,0 +1,68 @@
+{
+  "id": 1259948713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.16667,-29.51667,-64.16667,-29.51667",
+    "geom:latitude":-29.51667,
+    "geom:longitude":-64.16667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86126.0",
+    "gn:asciiname":"Las Mesillas",
+    "gn:country_code":"AR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848068,
+    "gn:latitude":-29.51667,
+    "gn:longitude":-64.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Mesillas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848068
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a9ac32d28d864a3cbf4446fa9f409cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718499,
+            "locality_id":1259948713,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1259948713,
+    "wof:lastmodified":1536685310,
+    "wof:name":"Las Mesillas",
+    "wof:parent_id":1108718499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.16667,
+    -29.51667,
+    -64.16667,
+    -29.51667
+],
+  "geometry": {"coordinates":[-64.16667,-29.51667],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421183709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.93906,-27.51414,-58.93906,-27.51414",
+    "geom:latitude":-27.51414,
+    "geom:longitude":-58.93906,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d3\u30e9\u30ec\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Vilelas"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429713,
+    "qs:gn_pop":8455,
+    "qs:name":"Puerto Vilelas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":982724,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466282,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429713,
+        "gp:id":466282,
+        "qs:id":982724,
+        "wd:id":"Q1656101",
+        "wk:page":"Puerto Vilelas"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009379,
+    "wof:geomhash":"23474c9e30f3dfed118306ba1f6071cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "locality_id":421183709,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421183709,
+    "wof:lastmodified":1527716488,
+    "wof:name":"Puerto Vilelas",
+    "wof:parent_id":421180295,
+    "wof:placetype":"locality",
+    "wof:population":8455,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.93906,
+    -27.51414,
+    -58.93906,
+    -27.51414
+],
+  "geometry": {"coordinates":[-58.93906,-27.51414],"type":"Point"}
+}

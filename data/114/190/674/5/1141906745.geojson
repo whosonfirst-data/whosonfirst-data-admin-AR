@@ -1,0 +1,183 @@
+{
+  "id": 1141906745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.433286989,-40.1000471815,-64.433286989,-40.1000471815",
+    "geom:latitude":-40.100047,
+    "geom:longitude":-64.433287,
+    "iso:country":"AR",
+    "lbl:latitude":-40.100047,
+    "lbl:longitude":-64.433287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0576\u0565\u057d\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u5167\u85a9\u5c07\u8ecd\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "General Conesa"
+    ],
+    "name:eng_x_preferred":[
+        "General Conesa"
+    ],
+    "name:fre_x_preferred":[
+        "General Conesa"
+    ],
+    "name:por_x_preferred":[
+        "General Conesa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "General Conesa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041a\u043e\u043d\u0435\u0441\u0430"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"RRo Negro",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-40.100047,
+    "ne:LONGITUDE":-64.433287,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"General Conesa",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-64.441667,
+    "ne:MAX_BBXMIN":-64.466667,
+    "ne:MAX_BBYMAX":-40.091667,
+    "ne:MAX_BBYMIN":-40.116667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":10.0,
+    "ne:MAX_PERMI":6.0,
+    "ne:MAX_POP10":2958,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.455833,
+    "ne:MEAN_BBYC":-40.104167,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-64.441667,
+    "ne:MIN_BBXMIN":-64.466667,
+    "ne:MIN_BBYMAX":-40.091667,
+    "ne:MIN_BBYMIN":-40.116667,
+    "ne:MIN_PERKM":10.0,
+    "ne:MIN_PERMI":6.0,
+    "ne:NAME":"General Conesa",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"General Conesa",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":2958,
+    "ne:POP_MIN":2958,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-40.100047,
+    "reversegeo:longitude":-64.433287,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1985908"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130633,
+    "wof:geomhash":"f6defed7e7b59cb6088aeb56caf14174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718389,
+            "locality_id":1141906745,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1141906745,
+    "wof:lastmodified":1534379079,
+    "wof:name":"General Conesa",
+    "wof:parent_id":1108718389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        890433769
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4332869889771,
+    -40.10004718145905,
+    -64.4332869889771,
+    -40.10004718145905
+],
+  "geometry": {"coordinates":[-64.4332869889771,-40.10004718145905],"type":"Point"}
+}

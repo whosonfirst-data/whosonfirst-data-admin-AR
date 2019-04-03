@@ -1,0 +1,92 @@
+{
+  "id": 421171615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05,-43.33333,-65.05,-43.33333",
+    "geom:latitude":-43.33333,
+    "geom:longitude":-65.05,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Rawson"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Rawson"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Rawson"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Rawson"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Rawson"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840086,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Rawson",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":213,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":213,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263089,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466269,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840086,
+        "gp:id":466269,
+        "qs:id":1263089,
+        "wd:id":"Q5667772",
+        "wk:page":"Puerto Rawson"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008900,
+    "wof:geomhash":"372ae874667a8b747fd1009503dea0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421171615,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421171615,
+    "wof:lastmodified":1527726495,
+    "wof:name":"Puerto Rawson",
+    "wof:parent_id":85668001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05,
+    -43.33333,
+    -65.05,
+    -43.33333
+],
+  "geometry": {"coordinates":[-65.05,-43.33333],"type":"Point"}
+}

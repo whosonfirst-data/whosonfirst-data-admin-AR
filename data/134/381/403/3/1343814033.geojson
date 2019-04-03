@@ -1,0 +1,68 @@
+{
+  "id": 1343814033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36533,-27.53275,-65.36533,-27.53275",
+    "geom:latitude":-27.53275,
+    "geom:longitude":-65.36533,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90035.0",
+    "gn:asciiname":"Ichipuca",
+    "gn:country_code":"AR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853929,
+    "gn:latitude":-27.53275,
+    "gn:longitude":-65.36533,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ichipuca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853929
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a0ece908749d9794fb4c29c7ac892bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718521,
+            "locality_id":1343814033,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1343814033,
+    "wof:lastmodified":1536733946,
+    "wof:name":"Ichipuca",
+    "wof:parent_id":1108718521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36533,
+    -27.53275,
+    -65.36533,
+    -27.53275
+],
+  "geometry": {"coordinates":[-65.36533,-27.53275],"type":"Point"}
+}

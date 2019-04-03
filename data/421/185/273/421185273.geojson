@@ -1,0 +1,103 @@
+{
+  "id": 421185273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.62462,-32.43516,-58.62462,-32.43516",
+    "geom:latitude":-32.43516,
+    "geom:longitude":-58.62462,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Herrera"
+    ],
+    "name:dut_x_preferred":[
+        "Herrera"
+    ],
+    "name:eng_x_preferred":[
+        "Herrera"
+    ],
+    "name:por_x_preferred":[
+        "Herrera"
+    ],
+    "name:spa_x_preferred":[
+        "Herrera"
+    ],
+    "name:swe_x_preferred":[
+        "Herrera"
+    ],
+    "name:unk_x_variant":[
+        "Villa San Miguel"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433564,
+    "qs:gn_pop":1587,
+    "qs:name":"Herrera",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1020271,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465518,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433564,
+        "gp:id":465518,
+        "qs:id":1020271,
+        "wd:id":"Q5743957",
+        "wk:page":"Herrera, Entre R\u00edos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009437,
+    "wof:geomhash":"f8ced151897b4359b78d486d36e66e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":421185273,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421185273,
+    "wof:lastmodified":1527726502,
+    "wof:name":"Herrera",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:population":1587,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.62462,
+    -32.43516,
+    -58.62462,
+    -32.43516
+],
+  "geometry": {"coordinates":[-58.62462,-32.43516],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421174253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.29472,-38.9825,-61.29472,-38.9825",
+    "geom:latitude":-38.9825,
+    "geom:longitude":-61.29472,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Monte Hermoso"
+    ],
+    "name:hun_x_preferred":[
+        "Monte Hermoso partido"
+    ],
+    "name:ita_x_preferred":[
+        "Partido di Monte Hermoso"
+    ],
+    "name:nld_x_preferred":[
+        "Monte Hermoso"
+    ],
+    "name:por_x_preferred":[
+        "Monte Hermoso"
+    ],
+    "name:spa_x_preferred":[
+        "Partido de Monte Hermoso"
+    ],
+    "name:unk_x_variant":[
+        "Balneario Monte Hermoso"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3843843,
+    "qs:gn_pop":0,
+    "qs:name":"Monte Hermoso",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":132,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":132,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":319854,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070991,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843843,
+        "gp:id":20070991,
+        "qs:id":319854,
+        "wd:id":"Q2199691",
+        "wk:page":"Monte Hermoso Partido"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009025,
+    "wof:geomhash":"31599396f87f76327679d6287af555f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174253,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421174253,
+    "wof:lastmodified":1527716230,
+    "wof:name":"Monte Hermoso",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.29472,
+    -38.9825,
+    -61.29472,
+    -38.9825
+],
+  "geometry": {"coordinates":[-61.29472,-38.9825],"type":"Point"}
+}

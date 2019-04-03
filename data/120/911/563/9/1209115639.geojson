@@ -1,0 +1,62 @@
+{
+  "id": 1209115639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.22461,-33.99246,-60.22461,-33.99246",
+    "geom:latitude":-33.99246,
+    "geom:longitude":-60.22461,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6077.0",
+    "gn:asciiname":"Vina",
+    "gn:country_code":"AR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832580,
+    "gn:latitude":-33.99246,
+    "gn:longitude":-60.22461,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832580
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"576a34e8e5bc1a7556d4e044ac38ac53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209115639
+        }
+    ],
+    "wof:id":1209115639,
+    "wof:lastmodified":1536297262,
+    "wof:name":"Vina",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.22461,
+    -33.992459999999994,
+    -60.22461,
+    -33.992459999999994
+],
+  "geometry": {"coordinates":[-60.22461,-33.99245999999999],"type":"Point"}
+}

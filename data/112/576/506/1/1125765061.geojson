@@ -1,0 +1,109 @@
+{
+  "id": 1125765061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08161,-27.08966,-61.08161,-27.08966",
+    "geom:latitude":-27.08966,
+    "geom:longitude":-61.08161,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26955,
+    "gn:population":26955,
+    "iso:country":"AR",
+    "lbl:latitude":-27.08966,
+    "lbl:longitude":-61.08161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0441 \u0411\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u5e03\u96f7\u5c3c\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:eng_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:fre_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:ger_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:ita_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:por_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:spa_x_preferred":[
+        "Las Bre\u00f1as"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0411\u0440\u0435\u043d\u044c\u044f\u0441"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3848687,
+    "qs_pg:gn_pop":26955,
+    "qs_pg:name":"Las Bre\u00f1as",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1046902,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848687,
+        "qs_pg:id":1046902,
+        "wd:id":"Q1017552"
+    },
+    "wof:country":"AR",
+    "wof:created":1497289858,
+    "wof:geomhash":"422729ac8776177414c41fae5e99e584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718213,
+            "locality_id":1125765061,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1125765061,
+    "wof:lastmodified":1513889245,
+    "wof:name":"Las Bre\u00f1as",
+    "wof:parent_id":1108718213,
+    "wof:placetype":"locality",
+    "wof:population":26955,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08161,
+    -27.08966,
+    -61.08161,
+    -27.08966
+],
+  "geometry": {"coordinates":[-61.08161,-27.08966],"type":"Point"}
+}

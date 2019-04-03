@@ -1,0 +1,178 @@
+{
+  "id": 85764185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000287,
+    "geom:area_square_m":2919746.423962,
+    "geom:bbox":"-58.5388781236,-34.6083450534,-58.5009808232,-34.5002010612",
+    "geom:latitude":-34.545093,
+    "geom:longitude":-58.518265,
+    "gn:latitude":-34.59256,
+    "gn:longitude":-58.52493,
+    "iso:country":"AR",
+    "lbl:latitude":-34.591462,
+    "lbl:longitude":-58.532595,
+    "mps:latitude":-34.506918,
+    "mps:longitude":-58.509939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"not in BA",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043d\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Lynch"
+    ],
+    "name:ces_x_preferred":[
+        "Lynch"
+    ],
+    "name:deu_x_preferred":[
+        "Lynch"
+    ],
+    "name:est_x_preferred":[
+        "Lynch"
+    ],
+    "name:fin_x_preferred":[
+        "Lynch"
+    ],
+    "name:fra_x_preferred":[
+        "Lynch"
+    ],
+    "name:hbs_x_preferred":[
+        "Lin\u010d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05e5'"
+    ],
+    "name:ita_x_preferred":[
+        "Lynch"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30c1"
+    ],
+    "name:lit_x_preferred":[
+        "Lynch"
+    ],
+    "name:nld_x_preferred":[
+        "Lynch"
+    ],
+    "name:pol_x_preferred":[
+        "Lynch"
+    ],
+    "name:por_x_preferred":[
+        "Lynch"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0447"
+    ],
+    "name:spa_x_preferred":[
+        "Lynch"
+    ],
+    "name:spa_x_variant":[
+        "General F. Lynch",
+        "Linch",
+        "Villa Linch",
+        "Villa Lynch"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043d\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Lynch"
+    ],
+    "name:tgl_x_preferred":[
+        "Lynch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u0447"
+    ],
+    "name:unk_x_variant":[
+        "General F. Lynch",
+        "Lynch"
+    ],
+    "name:vol_x_preferred":[
+        "Lynch"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3435910,
+    "qs:gn_nam_loc":"Buenos Aires, Ciudad de Buenos Aires, AR",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Lynch",
+    "qs:local_max":20760,
+    "qs:local_sum":172164,
+    "qs:localhoods":70,
+    "qs:name":"Lynch",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:name_adm2":"Ciudad de Buenos Aires",
+    "qs:name_local":"Buenos Aires",
+    "qs:photo_max":41,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344681,
+    "qs:woe_adm2":20070753,
+    "qs:woe_lau":0,
+    "qs:woe_local":468739,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":203,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85668015,
+        85632505,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430975,
+        "gp:id":331430,
+        "qs:id":1210416
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cac53d2f37c50ee6469ee2f446114028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "neighbourhood_id":85764185,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":85764185,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1527639378,
+    "wof:name":"Lynch",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.53887812360199,
+    -34.60834505344972,
+    -58.50098082323001,
+    -34.50020106117651
+],
+  "geometry": {"coordinates":[[[[-58.52691650389988,-34.59930237162364],[-58.52691650389997,-34.60156317719998],[-58.5241699218999,-34.60156317719998],[-58.5241699218999,-34.60296254002054],[-58.5224420669964,-34.60366226649437],[-58.52230913700237,-34.60382376159983],[-58.5241699218999,-34.60608453065509],[-58.5241699218999,-34.60608459220008],[-58.52416997255611,-34.60608459219999],[-58.52603050410625,-34.60834505344972],[-58.52780250369349,-34.60834505344972],[-58.52966303524391,-34.60608459220008],[-58.52966308589993,-34.60608459220008],[-58.53515625000006,-34.60608459220008],[-58.53515624999989,-34.60608453062498],[-58.53887771839075,-34.6015631156748],[-58.53887812360199,-34.60156286952503],[-58.53515630064524,-34.59704151610004],[-58.53515624999997,-34.59704145457513],[-58.53298561837494,-34.59440452292991],[-58.53081497687018,-34.59704150586654],[-58.52966308589993,-34.59704151610004],[-58.52966308589993,-34.59930236640444],[-58.52691650389988,-34.59930237162364]]],[[[-58.50286580146422,-34.50350444758111],[-58.50098082323001,-34.5085367952857],[-58.502197265625,-34.5100130706751],[-58.50494384767507,-34.51223524000507],[-58.51141259636918,-34.51485206603827],[-58.51797596174464,-34.50916250722787],[-58.51770806764387,-34.50493628015255],[-58.51768766966342,-34.50497444209016],[-58.51737841682291,-34.50439587071979],[-58.51613478851175,-34.50288050523798],[-58.51461942303001,-34.5016368769269],[-58.51289055502349,-34.50071277772494],[-58.51228630544387,-34.50052948061873],[-58.5123856538651,-34.50051969565336],[-58.50792155113425,-34.50020106117651],[-58.50286580146422,-34.50350444758111]]]],"type":"MultiPolygon"}
+}

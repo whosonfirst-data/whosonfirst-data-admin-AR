@@ -1,0 +1,103 @@
+{
+  "id": 1125962161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.42168,-36.40598,-63.42168,-36.40598",
+    "geom:latitude":-36.40598,
+    "geom:longitude":-63.42168,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3743,
+    "gn:population":3743,
+    "iso:country":"AR",
+    "lbl:latitude":-36.40598,
+    "lbl:longitude":-63.42168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5361\u7279\u91cc\u6d1b"
+    ],
+    "name:dut_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Catril\u00f3"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0456\u043b\u043e"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3862251,
+    "qs_pg:gn_pop":3743,
+    "qs_pg:name":"Catril\u00f3",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1120664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862251,
+        "qs_pg:id":1120664,
+        "wd:id":"Q600897"
+    },
+    "wof:country":"AR",
+    "wof:created":1497297840,
+    "wof:geomhash":"2848d968970c4a4bc50ebbd1756542f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718293,
+            "locality_id":1125962161,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1125962161,
+    "wof:lastmodified":1553816658,
+    "wof:name":"Catril\u00f3",
+    "wof:parent_id":1108718293,
+    "wof:placetype":"locality",
+    "wof:population":3743,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.42168,
+    -36.40598,
+    -63.42168,
+    -36.40598
+],
+  "geometry": {"coordinates":[-63.42168,-36.40598],"type":"Point"}
+}

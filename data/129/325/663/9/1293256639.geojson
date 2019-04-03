@@ -1,0 +1,68 @@
+{
+  "id": 1293256639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.68272,-33.1073,-60.68272,-33.1073",
+    "geom:latitude":-33.1073,
+    "geom:longitude":-60.68272,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82084.0",
+    "gn:asciiname":"Monte Flores",
+    "gn:country_code":"AR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843854,
+    "gn:latitude":-33.1073,
+    "gn:longitude":-60.68272,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monte Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843854
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"20d03d8b0a4eb902f0fc0d873b203c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":1293256639,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1293256639,
+    "wof:lastmodified":1536620836,
+    "wof:name":"Monte Flores",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.68272,
+    -33.1073,
+    -60.68272,
+    -33.1073
+],
+  "geometry": {"coordinates":[-60.68272,-33.1073],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293879155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.30726,-32.08128,-59.30726,-32.08128",
+    "geom:latitude":-32.08128,
+    "geom:longitude":-59.30726,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30091.0",
+    "gn:asciiname":"Guardamonte",
+    "gn:country_code":"AR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433643,
+    "gn:latitude":-32.08128,
+    "gn:longitude":-59.30726,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Guardamonte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433643
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8c5d0676c6a423ffa2d17c8e579e4dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718257,
+            "locality_id":1293879155,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1293879155,
+    "wof:lastmodified":1536719992,
+    "wof:name":"Guardamonte",
+    "wof:parent_id":1108718257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.30726,
+    -32.08128,
+    -59.30726,
+    -32.08128
+],
+  "geometry": {"coordinates":[-59.30726,-32.08128],"type":"Point"}
+}

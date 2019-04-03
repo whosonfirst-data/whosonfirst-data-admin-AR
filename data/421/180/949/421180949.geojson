@@ -1,0 +1,82 @@
+{
+  "id": 421180949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46156,-34.56411,-68.46156,-34.56411",
+    "geom:latitude":-34.56411,
+    "geom:longitude":-68.46156,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Capit\u00e1n Montoya"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3847935,
+    "qs:gn_pop":0,
+    "qs:name":"Las Paredes",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":468149,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468927,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847935,
+        "gp:id":468927,
+        "qs:id":468149,
+        "wd:id":"Q6492394",
+        "wk:page":"Las Paredes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009277,
+    "wof:geomhash":"465a288ec475fb8da02808973ae3bec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188045,
+            "locality_id":421180949,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421180949,
+    "wof:lastmodified":1527716237,
+    "wof:name":"Las Paredes",
+    "wof:parent_id":421188045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46156,
+    -34.56411,
+    -68.46156,
+    -34.56411
+],
+  "geometry": {"coordinates":[-68.46156000000001,-34.56411],"type":"Point"}
+}

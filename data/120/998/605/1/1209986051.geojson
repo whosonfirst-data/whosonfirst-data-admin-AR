@@ -1,0 +1,76 @@
+{
+  "id": 1209986051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.63616,-39.01937,-67.63616,-39.01937",
+    "geom:latitude":-39.01937,
+    "geom:longitude":-67.63616,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62042.0",
+    "gn:asciiname":"Coronel Juan Jose Gomez",
+    "gn:country_code":"AR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860185,
+    "gn:latitude":-39.01937,
+    "gn:longitude":-67.63616,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coronel Juan Jos\u00e9 G\u00f3mez",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J.J. G\u00f3mez",
+        "Coronel G\u00f3mez",
+        "Coronel Juan J. G\u00f3mez",
+        "Coronel J. J. G\u00f3mez",
+        "Coronel J. F. G\u00f3mez",
+        "Coronel Juan Jos\u00e9 G\u00f3mez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860185
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e46854746df78c88e16a3cab6882af93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":1209986051,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1209986051,
+    "wof:lastmodified":1537584888,
+    "wof:name":"Coronel Juan Jose Gomez",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.63616,
+    -39.01937,
+    -67.63616,
+    -39.01937
+],
+  "geometry": {"coordinates":[-67.63616,-39.01937],"type":"Point"}
+}

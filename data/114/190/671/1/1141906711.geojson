@@ -1,0 +1,194 @@
+{
+  "id": 1141906711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1666227637,-42.0500056776,-71.1666227637,-42.0500056776",
+    "geom:latitude":-42.050006,
+    "geom:longitude":-71.166623,
+    "iso:country":"AR",
+    "lbl:latitude":-42.050006,
+    "lbl:longitude":-71.166623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0644 \u0645\u064a\u062a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u99ac\u6ed5"
+    ],
+    "name:dut_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30de\u30a4\u30c6\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "El Maitenas"
+    ],
+    "name:oci_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:por_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "El Mait\u00e9n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u0439\u0442\u0435\u043d"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Chubut",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-42.050006,
+    "ne:LONGITUDE":-71.166623,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Maiten",
+    "ne:MAX_AREAKM":5.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-71.158333,
+    "ne:MAX_BBXMIN":-71.183333,
+    "ne:MAX_BBYMAX":-42.025,
+    "ne:MAX_BBYMIN":-42.066667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":9.0,
+    "ne:MAX_POP10":4269,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-71.169792,
+    "ne:MEAN_BBYC":-42.042708,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":5.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-71.158333,
+    "ne:MIN_BBXMIN":-71.183333,
+    "ne:MIN_BBYMAX":-42.025,
+    "ne:MIN_BBYMIN":-42.066667,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":9.0,
+    "ne:NAME":"El Maiten",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Maiten",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4269,
+    "ne:POP_MIN":4269,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-42.050006,
+    "reversegeo:longitude":-71.166623,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q106050"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130628,
+    "wof:geomhash":"47dbded700e21cde37172fc3112d7d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170125,
+            "locality_id":1141906711,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1141906711,
+    "wof:lastmodified":1513889160,
+    "wof:name":"El Maiten",
+    "wof:parent_id":421170125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16662276374359,
+    -42.05000567756059,
+    -71.16662276374359,
+    -42.05000567756059
+],
+  "geometry": {"coordinates":[-71.16662276374359,-42.05000567756059],"type":"Point"}
+}

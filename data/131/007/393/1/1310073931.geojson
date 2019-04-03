@@ -1,0 +1,68 @@
+{
+  "id": 1310073931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94953,-26.33809,-64.94953,-26.33809",
+    "geom:latitude":-26.33809,
+    "geom:longitude":-64.94953,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90007.0",
+    "gn:asciiname":"Chorrillos",
+    "gn:country_code":"AR",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861282,
+    "gn:latitude":-26.33809,
+    "gn:longitude":-64.94953,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chorrillos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861282
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9d368f85dde455423dca85c498d1002e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718519,
+            "locality_id":1310073931,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1310073931,
+    "wof:lastmodified":1537040433,
+    "wof:name":"Chorrillos",
+    "wof:parent_id":1108718519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94953000000001,
+    -26.33809,
+    -64.94953000000001,
+    -26.33809
+],
+  "geometry": {"coordinates":[-64.94953000000001,-26.33809],"type":"Point"}
+}

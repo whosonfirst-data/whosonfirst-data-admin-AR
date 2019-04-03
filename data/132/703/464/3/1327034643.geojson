@@ -1,0 +1,73 @@
+{
+  "id": 1327034643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.04386,-31.6292,-63.04386,-31.6292",
+    "geom:latitude":-31.6292,
+    "geom:longitude":-63.04386,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14140.0",
+    "gn:asciiname":"Plaza Deheza",
+    "gn:country_code":"AR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840899,
+    "gn:latitude":-31.6292,
+    "gn:longitude":-63.04386,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Plaza Deheza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daheza",
+        "Colonia General Deheza",
+        "Plaza Deheza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840899
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0f9942170f2239d2c7cd7b1370a775c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":1327034643,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1327034643,
+    "wof:lastmodified":1537584849,
+    "wof:name":"Plaza Deheza",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.04386,
+    -31.6292,
+    -63.04386,
+    -31.6292
+],
+  "geometry": {"coordinates":[-63.04386,-31.6292],"type":"Point"}
+}

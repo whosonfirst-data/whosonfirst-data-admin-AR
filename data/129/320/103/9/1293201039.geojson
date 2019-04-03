@@ -1,0 +1,68 @@
+{
+  "id": 1293201039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.78427,-43.00201,-70.78427,-43.00201",
+    "geom:latitude":-43.00201,
+    "geom:longitude":-70.78427,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26035.0",
+    "gn:asciiname":"Arroyo Pescado",
+    "gn:country_code":"AR",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865391,
+    "gn:latitude":-43.00201,
+    "gn:longitude":-70.78427,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arroyo Pescado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865391
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"23584c924bb5242a5d1d57ae8ed5e9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170127,
+            "locality_id":1293201039,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1293201039,
+    "wof:lastmodified":1536703326,
+    "wof:name":"Arroyo Pescado",
+    "wof:parent_id":421170127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.78426999999998,
+    -43.00201,
+    -70.78426999999998,
+    -43.00201
+],
+  "geometry": {"coordinates":[-70.78426999999998,-43.00201],"type":"Point"}
+}

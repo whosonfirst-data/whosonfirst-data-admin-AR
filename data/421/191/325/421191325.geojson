@@ -1,0 +1,91 @@
+{
+  "id": 421191325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.749,-34.42063,-58.749,-34.42063",
+    "geom:latitude":-34.42063,
+    "geom:longitude":-58.749,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Gar\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Gar\u00edn"
+    ],
+    "name:sco_x_preferred":[
+        "Gar\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Gar\u00edn"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433844,
+    "qs:gn_pop":0,
+    "qs:name":"Gar\u00edn",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1135006,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466965,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433844,
+        "gp:id":466965,
+        "qs:id":1135006,
+        "wd:id":"Q5526263",
+        "wk:page":"Gar\u00edn"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009688,
+    "wof:geomhash":"dc0046610b4cbd51eda6cba51dedc1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717925,
+            "locality_id":421191325,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421191325,
+    "wof:lastmodified":1527716380,
+    "wof:name":"Gar\u00edn",
+    "wof:parent_id":1108717925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.749,
+    -34.42063,
+    -58.749,
+    -34.42063
+],
+  "geometry": {"coordinates":[-58.749,-34.42063],"type":"Point"}
+}

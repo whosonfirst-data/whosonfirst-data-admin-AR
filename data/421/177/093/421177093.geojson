@@ -1,0 +1,94 @@
+{
+  "id": 421177093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67632,-36.85193,-70.67632,-36.85193",
+    "geom:latitude":-36.85193,
+    "geom:longitude":-70.67632,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Varvarco"
+    ],
+    "name:eng_x_preferred":[
+        "Varvarco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0648\u0631\u06a9\u0648"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0648\u0631\u06a9\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Varvarco"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833161,
+    "qs:gn_pop":0,
+    "qs:name":"Varvarco",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":402042,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468009,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833161,
+        "gp:id":468009,
+        "qs:id":402042,
+        "wd:id":"Q7916254",
+        "wk:page":"Varvarco"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009132,
+    "wof:geomhash":"2594f5ede6a6ee06ed12ac33443fcff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718383,
+            "locality_id":421177093,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421177093,
+    "wof:lastmodified":1527716485,
+    "wof:name":"Varvarco",
+    "wof:parent_id":1108718383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67632,
+    -36.85193,
+    -70.67632,
+    -36.85193
+],
+  "geometry": {"coordinates":[-70.67632,-36.85193],"type":"Point"}
+}

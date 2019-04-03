@@ -1,0 +1,99 @@
+{
+  "id": 421196059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03252,-32.81411,-63.03252,-32.81411",
+    "geom:latitude":-32.81411,
+    "geom:longitude":-63.03252,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:baq_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:dut_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:eng_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:por_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:spa_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:unk_x_variant":[
+        "Ideazabal"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853923,
+    "qs:gn_pop":1567,
+    "qs:name":"Idiaz\u00e1bal",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046943,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467708,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853923,
+        "gp:id":467708,
+        "qs:id":1046943,
+        "wd:id":"Q3755886"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009868,
+    "wof:geomhash":"d49cae0cc8ac311d1e67f9cc8b64bc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":421196059,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196059,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Idiaz\u00e1bal",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:population":1567,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03252,
+    -32.81411,
+    -63.03252,
+    -32.81411
+],
+  "geometry": {"coordinates":[-63.03252,-32.81411],"type":"Point"}
+}

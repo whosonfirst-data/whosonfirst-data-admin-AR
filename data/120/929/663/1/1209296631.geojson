@@ -1,0 +1,63 @@
+{
+  "id": 1209296631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.80082,-40.85669,-65.80082,-40.85669",
+    "geom:latitude":-40.85669,
+    "geom:longitude":-65.80082,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62084.0",
+    "gn:asciiname":"Aguada Cecilio",
+    "gn:country_code":"AR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866808,
+    "gn:latitude":-40.85669,
+    "gn:longitude":-65.80082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguada Cecilio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866808,
+        "wk:page":"Aguada_Cecilio"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3850ba7df6a6e07ecbc1cc5590e282aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209296631
+        }
+    ],
+    "wof:id":1209296631,
+    "wof:lastmodified":1537486352,
+    "wof:name":"Aguada Cecilio",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.80082,
+    -40.85669,
+    -65.80082,
+    -40.85669
+],
+  "geometry": {"coordinates":[-65.80082,-40.85669],"type":"Point"}
+}

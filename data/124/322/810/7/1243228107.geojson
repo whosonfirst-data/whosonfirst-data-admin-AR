@@ -1,0 +1,68 @@
+{
+  "id": 1243228107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.40162,-30.3627,-60.40162,-30.3627",
+    "geom:latitude":-30.3627,
+    "geom:longitude":-60.40162,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82112.0",
+    "gn:asciiname":"Gobernador Crespo",
+    "gn:country_code":"AR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854987,
+    "gn:latitude":-30.3627,
+    "gn:longitude":-60.40162,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gobernador Crespo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854987
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"39387e9fcda3c5e948b354054534a6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":1243228107,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243228107,
+    "wof:lastmodified":1536621362,
+    "wof:name":"Gobernador Crespo",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.40162,
+    -30.3627,
+    -60.40162,
+    -30.3627
+],
+  "geometry": {"coordinates":[-60.40162,-30.3627],"type":"Point"}
+}

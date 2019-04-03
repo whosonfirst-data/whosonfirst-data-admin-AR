@@ -1,0 +1,79 @@
+{
+  "id": 421193919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.72376,-30.73341,-63.72376,-30.73341",
+    "geom:latitude":-30.73341,
+    "geom:longitude":-63.72376,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3862971,
+    "qs:gn_pop":1054,
+    "qs:name":"Ca\u00f1ada de Luque",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":290745,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862971,
+        "gp:id":464905,
+        "qs:id":290745
+    },
+    "wof:country":"AR",
+    "wof:created":1459009787,
+    "wof:geomhash":"3f1a4e59bd0e25266a89d373552e951d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203351,
+            "locality_id":421193919,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421193919,
+    "wof:lastmodified":1505340738,
+    "wof:name":"Ca\u00f1ada de Luque",
+    "wof:parent_id":421203351,
+    "wof:placetype":"locality",
+    "wof:population":1054,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.72376,
+    -30.73341,
+    -63.72376,
+    -30.73341
+],
+  "geometry": {"coordinates":[-63.72376,-30.73341],"type":"Point"}
+}

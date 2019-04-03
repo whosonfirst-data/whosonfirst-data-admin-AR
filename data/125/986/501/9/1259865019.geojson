@@ -1,0 +1,68 @@
+{
+  "id": 1259865019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.01543,-31.64902,-58.01543,-31.64902",
+    "geom:latitude":-31.64902,
+    "geom:longitude":-58.01543,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30015.0",
+    "gn:asciiname":"Nueva Escocia",
+    "gn:country_code":"AR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430397,
+    "gn:latitude":-31.64902,
+    "gn:longitude":-58.01543,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nueva Escocia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430397
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7834a9752750c8033c1bab694d39ee2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718245,
+            "locality_id":1259865019,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1259865019,
+    "wof:lastmodified":1536805657,
+    "wof:name":"Nueva Escocia",
+    "wof:parent_id":1108718245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.01543,
+    -31.64902,
+    -58.01543,
+    -31.64902
+],
+  "geometry": {"coordinates":[-58.01543,-31.64902],"type":"Point"}
+}

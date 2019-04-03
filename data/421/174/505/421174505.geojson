@@ -1,0 +1,109 @@
+{
+  "id": 421174505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.69128,-22.05011,-63.69128,-22.05011",
+    "geom:latitude":-22.05011,
+    "geom:longitude":-63.69128,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Salvador Mazza"
+    ],
+    "name:eng_x_preferred":[
+        "Salvador Mazza"
+    ],
+    "name:eng_x_variant":[
+        "Pocitos",
+        "Profesor Salvador Mazza"
+    ],
+    "name:fre_x_preferred":[
+        "Profesor Salvador Mazza"
+    ],
+    "name:ita_x_preferred":[
+        "Profesor Salvador Mazza"
+    ],
+    "name:por_x_preferred":[
+        "Profesor Salvador Mazza"
+    ],
+    "name:spa_x_preferred":[
+        "Salvador Mazza"
+    ],
+    "name:swe_x_preferred":[
+        "Profesor Salvador Mazza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440-\u041c\u0430\u0441\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Salvador Mazza"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840259,
+    "qs:gn_pop":0,
+    "qs:name":"Profesor Salvador Mazza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":340749,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331691,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840259,
+        "gp:id":331691,
+        "qs:id":340749,
+        "wd:id":"Q2038147",
+        "wk:page":"Salvador Mazza, Salta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009035,
+    "wof:geomhash":"988dba0ca3f1b8c1fe06579eb7af1f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":421174505,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421174505,
+    "wof:lastmodified":1513889355,
+    "wof:name":"Profesor Salvador Mazza",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.69128,
+    -22.05011,
+    -63.69128,
+    -22.05011
+],
+  "geometry": {"coordinates":[-63.69128,-22.05011],"type":"Point"}
+}

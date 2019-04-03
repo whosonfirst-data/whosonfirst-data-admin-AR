@@ -1,0 +1,68 @@
+{
+  "id": 1343337551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.17646,-30.05536,-69.17646,-30.05536",
+    "geom:latitude":-30.05536,
+    "geom:longitude":-69.17646,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"70049.0",
+    "gn:asciiname":"Angualasto",
+    "gn:country_code":"AR",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865743,
+    "gn:latitude":-30.05536,
+    "gn:longitude":-69.17646,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Angualasto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421171511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865743
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"58c5b6ae2c04a9869eaf5c085d05f1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171511,
+            "locality_id":1343337551,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1343337551,
+    "wof:lastmodified":1536924428,
+    "wof:name":"Angualasto",
+    "wof:parent_id":421171511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.17645999999999,
+    -30.05536,
+    -69.17645999999999,
+    -30.05536
+],
+  "geometry": {"coordinates":[-69.17645999999999,-30.05536],"type":"Point"}
+}

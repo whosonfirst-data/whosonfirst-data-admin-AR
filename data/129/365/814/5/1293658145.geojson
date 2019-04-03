@@ -1,0 +1,68 @@
+{
+  "id": 1293658145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.2022,-26.66166,-63.2022,-26.66166",
+    "geom:latitude":-26.66166,
+    "geom:longitude":-63.2022,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86014.0",
+    "gn:asciiname":"Cuquero",
+    "gn:country_code":"AR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859624,
+    "gn:latitude":-26.66166,
+    "gn:longitude":-63.2022,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cuquero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859624
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"799f898d88b325520490020b82424b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718465,
+            "locality_id":1293658145,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1293658145,
+    "wof:lastmodified":1537036740,
+    "wof:name":"Cuquero",
+    "wof:parent_id":1108718465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.2022,
+    -26.66166,
+    -63.2022,
+    -26.66166
+],
+  "geometry": {"coordinates":[-63.2022,-26.66166],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421200597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.83809,-38.11415,-57.83809,-38.11415",
+    "geom:latitude":-38.11415,
+    "geom:longitude":-57.83809,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Comandante Nicanor Otamendi"
+    ],
+    "name:eng_x_preferred":[
+        "Comandante Nicanor Otamendi"
+    ],
+    "name:pol_x_preferred":[
+        "Comandante Nicanor Otamendi"
+    ],
+    "name:spa_x_preferred":[
+        "Walter Hern\u00e1ndez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0434\u0430\u043d\u0442\u0435-\u041d\u0456\u043a\u0430\u043d\u043e\u0440-\u041e\u0442\u0430\u043c\u0435\u043d\u0434\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Dionisia"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435280,
+    "qs:gn_pop":0,
+    "qs:name":"Comandante Nicanor Otamendi",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":888604,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465191,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435280,
+        "gp:id":465191,
+        "qs:id":888604,
+        "wd:id":"Q3123293"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010031,
+    "wof:geomhash":"6cebebf5d687336bc4713387dac0fa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717939,
+            "locality_id":421200597,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421200597,
+    "wof:lastmodified":1513889130,
+    "wof:name":"Comandante Nicanor Otamendi",
+    "wof:parent_id":1108717939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.83809,
+    -38.11415,
+    -57.83809,
+    -38.11415
+],
+  "geometry": {"coordinates":[-57.83809,-38.11415],"type":"Point"}
+}

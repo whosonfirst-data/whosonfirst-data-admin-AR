@@ -1,0 +1,115 @@
+{
+  "id": 421174511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.22652,-23.32125,-64.22652,-23.32125",
+    "geom:latitude":-23.32125,
+    "geom:longitude":-64.22652,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pichanal"
+    ],
+    "name:deu_x_preferred":[
+        "Pichanal"
+    ],
+    "name:dut_x_preferred":[
+        "Pichanal"
+    ],
+    "name:eng_x_preferred":[
+        "Pichanal"
+    ],
+    "name:fra_x_preferred":[
+        "Pichanal"
+    ],
+    "name:fre_x_preferred":[
+        "Pichanal"
+    ],
+    "name:ger_x_preferred":[
+        "Pichanal"
+    ],
+    "name:por_x_preferred":[
+        "Pichanal"
+    ],
+    "name:spa_x_preferred":[
+        "Pichanal"
+    ],
+    "name:swe_x_preferred":[
+        "Pichanal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0447\u0430\u043d\u0430\u043b\u044c"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841390,
+    "qs:gn_pop":0,
+    "qs:name":"Pichanal",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":884015,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467361,
+    "src:geom":"quattroshapes",
+    "wd:elevation":302.0,
+    "wd:latitude":-23.3233,
+    "wd:longitude":-64.2247,
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841390,
+        "gp:id":467361,
+        "qs:id":884015,
+        "wd:id":"Q1011210",
+        "wk:page":"Pichanal"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009035,
+    "wof:geomhash":"99e6d676bd8c4ff5c2ed5fbeca8ad8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718413,
+            "locality_id":421174511,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421174511,
+    "wof:lastmodified":1527716227,
+    "wof:name":"Pichanal",
+    "wof:parent_id":1108718413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.22652,
+    -23.32125,
+    -64.22652,
+    -23.32125
+],
+  "geometry": {"coordinates":[-64.22651999999999,-23.32125],"type":"Point"}
+}

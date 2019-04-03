@@ -1,0 +1,276 @@
+{
+  "id": 890449555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3127,-33.18368,-66.3127,-33.18368",
+    "geom:latitude":-33.18368,
+    "geom:longitude":-66.3127,
+    "gn:country":"AR",
+    "gn:fcode":"PPLL",
+    "gn:pop":15000,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "La Punta"
+    ],
+    "name:arg_x_preferred":[
+        "La Punta"
+    ],
+    "name:ast_x_preferred":[
+        "La Punta"
+    ],
+    "name:baq_x_preferred":[
+        "La Punta"
+    ],
+    "name:bar_x_preferred":[
+        "La Punta"
+    ],
+    "name:bre_x_preferred":[
+        "La Punta"
+    ],
+    "name:cat_x_preferred":[
+        "La Punta"
+    ],
+    "name:cos_x_preferred":[
+        "La Punta"
+    ],
+    "name:cze_x_preferred":[
+        "La Punta"
+    ],
+    "name:dan_x_preferred":[
+        "La Punta"
+    ],
+    "name:dut_x_preferred":[
+        "La Punta"
+    ],
+    "name:eng_x_preferred":[
+        "La Punta"
+    ],
+    "name:epo_x_preferred":[
+        "La Punta"
+    ],
+    "name:est_x_preferred":[
+        "La Punta"
+    ],
+    "name:fin_x_preferred":[
+        "La Punta"
+    ],
+    "name:fre_x_preferred":[
+        "La Punta"
+    ],
+    "name:frp_x_preferred":[
+        "La Punta"
+    ],
+    "name:fur_x_preferred":[
+        "La Punta"
+    ],
+    "name:ger_x_preferred":[
+        "La Punta"
+    ],
+    "name:gla_x_preferred":[
+        "La Punta"
+    ],
+    "name:gle_x_preferred":[
+        "La Punta"
+    ],
+    "name:glg_x_preferred":[
+        "La Punta"
+    ],
+    "name:gsw_x_preferred":[
+        "La Punta"
+    ],
+    "name:hrv_x_preferred":[
+        "La Punta"
+    ],
+    "name:hun_x_preferred":[
+        "La Punta"
+    ],
+    "name:ice_x_preferred":[
+        "La Punta"
+    ],
+    "name:ido_x_preferred":[
+        "La Punta"
+    ],
+    "name:ile_x_preferred":[
+        "La Punta"
+    ],
+    "name:ina_x_preferred":[
+        "La Punta"
+    ],
+    "name:ind_x_preferred":[
+        "La Punta"
+    ],
+    "name:ita_x_preferred":[
+        "La Punta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d7\u30f3\u30bf"
+    ],
+    "name:kon_x_preferred":[
+        "La Punta"
+    ],
+    "name:lij_x_preferred":[
+        "La Punta"
+    ],
+    "name:lim_x_preferred":[
+        "La Punta"
+    ],
+    "name:ltz_x_preferred":[
+        "La Punta"
+    ],
+    "name:may_x_preferred":[
+        "La Punta"
+    ],
+    "name:min_x_preferred":[
+        "La Punta"
+    ],
+    "name:mlg_x_preferred":[
+        "La Punta"
+    ],
+    "name:nap_x_preferred":[
+        "La Punta"
+    ],
+    "name:nds_x_preferred":[
+        "La Punta"
+    ],
+    "name:nno_x_preferred":[
+        "La Punta"
+    ],
+    "name:nob_x_preferred":[
+        "La Punta"
+    ],
+    "name:nrm_x_preferred":[
+        "La Punta"
+    ],
+    "name:oci_x_preferred":[
+        "La Punta"
+    ],
+    "name:pcd_x_preferred":[
+        "La Punta"
+    ],
+    "name:pms_x_preferred":[
+        "La Punta"
+    ],
+    "name:pol_x_preferred":[
+        "La Punta"
+    ],
+    "name:por_x_preferred":[
+        "La Punta"
+    ],
+    "name:roh_x_preferred":[
+        "La Punta"
+    ],
+    "name:rum_x_preferred":[
+        "La Punta"
+    ],
+    "name:scn_x_preferred":[
+        "La Punta"
+    ],
+    "name:sco_x_preferred":[
+        "La Punta"
+    ],
+    "name:slo_x_preferred":[
+        "La Punta"
+    ],
+    "name:slv_x_preferred":[
+        "La Punta"
+    ],
+    "name:spa_x_preferred":[
+        "La Punta"
+    ],
+    "name:srd_x_preferred":[
+        "La Punta"
+    ],
+    "name:swa_x_preferred":[
+        "La Punta"
+    ],
+    "name:swe_x_preferred":[
+        "La Punta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0443\u043d\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0648\u0646\u0679\u0627\u060c \u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "La Punta"
+    ],
+    "name:vie_x_preferred":[
+        "La Punta"
+    ],
+    "name:vls_x_preferred":[
+        "La Punta"
+    ],
+    "name:vol_x_preferred":[
+        "La Punta"
+    ],
+    "name:wel_x_preferred":[
+        "La Punta"
+    ],
+    "name:wln_x_preferred":[
+        "La Punta"
+    ],
+    "name:wol_x_preferred":[
+        "La Punta"
+    ],
+    "name:zul_x_preferred":[
+        "La Punta"
+    ],
+    "qs:name":"La Punta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7284819,
+        "gp:id":91814583,
+        "qs:id":671107,
+        "wd:id":"Q4811974",
+        "wk:page":"La Punta"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052697,
+    "wof:geomhash":"2ad8d5420534088b23221ce83408d362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":890449555,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":890449555,
+    "wof:lastmodified":1553816401,
+    "wof:name":"La Punta",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3127,
+    -33.18368,
+    -66.3127,
+    -33.18368
+],
+  "geometry": {"coordinates":[-66.31270000000001,-33.18368],"type":"Point"}
+}

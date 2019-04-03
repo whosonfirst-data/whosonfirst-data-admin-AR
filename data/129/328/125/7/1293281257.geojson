@@ -1,0 +1,68 @@
+{
+  "id": 1293281257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31431,-24.25647,-64.31431,-24.25647",
+    "geom:latitude":-24.25647,
+    "geom:longitude":-64.31431,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38070.0",
+    "gn:asciiname":"Pie de la Cuesta",
+    "gn:country_code":"AR",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841293,
+    "gn:latitude":-24.25647,
+    "gn:longitude":-64.31431,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pie de la Cuesta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        1108718279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841293
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4699577e0e76f1bfdeb2815bf407238b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718279,
+            "locality_id":1293281257,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1293281257,
+    "wof:lastmodified":1537081180,
+    "wof:name":"Pie de la Cuesta",
+    "wof:parent_id":1108718279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31430999999999,
+    -24.25647,
+    -64.31430999999999,
+    -24.25647
+],
+  "geometry": {"coordinates":[-64.31430999999999,-24.25647],"type":"Point"}
+}

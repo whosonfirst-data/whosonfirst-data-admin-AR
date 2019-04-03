@@ -1,0 +1,68 @@
+{
+  "id": 1260079405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.8,-30.46667,-63.8,-30.46667",
+    "geom:latitude":-30.46667,
+    "geom:longitude":-63.8,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14175.0",
+    "gn:asciiname":"Puesto San Jose",
+    "gn:country_code":"AR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840037,
+    "gn:latitude":-30.46667,
+    "gn:longitude":-63.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puesto San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840037
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e36ae5459a5d57bc5c291b193ff8179c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196955,
+            "locality_id":1260079405,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1260079405,
+    "wof:lastmodified":1536993073,
+    "wof:name":"Puesto San Jose",
+    "wof:parent_id":421196955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.8,
+    -30.46667,
+    -63.8,
+    -30.46667
+],
+  "geometry": {"coordinates":[-63.8,-30.46667],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421193769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.08922,-34.98515,-58.08922,-34.98515",
+    "geom:latitude":-34.98515,
+    "geom:longitude":-58.08922,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Abasto"
+    ],
+    "name:deu_x_preferred":[
+        "Abasto de Buenos Aires"
+    ],
+    "name:dut_x_preferred":[
+        "Abasto"
+    ],
+    "name:eng_x_preferred":[
+        "Abasto"
+    ],
+    "name:oci_x_preferred":[
+        "Marcat de l'Abasto"
+    ],
+    "name:por_x_preferred":[
+        "Abasto"
+    ],
+    "name:rus_x_preferred":[
+        "Abasto Shopping"
+    ],
+    "name:spa_x_preferred":[
+        "Abasto de Buenos Aires"
+    ],
+    "name:spa_x_variant":[
+        "Abasto"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436521,
+    "qs:gn_pop":0,
+    "qs:name":"Abasto",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1188155,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464509,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":631,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436521,
+        "gp:id":464509,
+        "qs:id":1188155,
+        "wd:id":"Q5196734"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009782,
+    "wof:geomhash":"94d5c62bf8f6acb1edbc352a14ec1dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717993,
+            "locality_id":421193769,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421193769,
+    "wof:lastmodified":1527716147,
+    "wof:name":"Abasto",
+    "wof:parent_id":1108717993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.08922,
+    -34.98515,
+    -58.08922,
+    -34.98515
+],
+  "geometry": {"coordinates":[-58.08922,-34.98515],"type":"Point"}
+}

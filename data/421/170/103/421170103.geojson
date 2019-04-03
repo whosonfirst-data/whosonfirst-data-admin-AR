@@ -1,0 +1,114 @@
+{
+  "id": 421170103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23333,-22.76667,-65.23333,-22.76667",
+    "geom:latitude":-22.76667,
+    "geom:longitude":-65.23333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Iruya"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u9b6f\u4e9e"
+    ],
+    "name:deu_x_preferred":[
+        "Iruya"
+    ],
+    "name:dut_x_preferred":[
+        "Iruya"
+    ],
+    "name:eng_x_preferred":[
+        "Iruya"
+    ],
+    "name:fra_x_preferred":[
+        "Iruya"
+    ],
+    "name:fre_x_preferred":[
+        "Iruya"
+    ],
+    "name:ger_x_preferred":[
+        "Iruya"
+    ],
+    "name:nld_x_preferred":[
+        "Iruya"
+    ],
+    "name:por_x_preferred":[
+        "Iruya"
+    ],
+    "name:spa_x_preferred":[
+        "Iruya"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u9b6f\u4e9e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853699,
+    "qs:gn_pop":0,
+    "qs:name":"Iruya",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":478,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":478,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":216599,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330759,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421171489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853699,
+        "gp:id":330759,
+        "qs:id":216599,
+        "wd:id":"Q1020428",
+        "wk:page":"Iruya"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008837,
+    "wof:geomhash":"9fe2f86138d7a730d1bee3c3fd74bc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171489,
+            "locality_id":421170103,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421170103,
+    "wof:lastmodified":1513889206,
+    "wof:name":"Iruya",
+    "wof:parent_id":421171489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23333,
+    -22.76667,
+    -65.23333,
+    -22.76667
+],
+  "geometry": {"coordinates":[-65.23333,-22.76667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276123029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.38551,-30.33562,-64.38551,-30.33562",
+    "geom:latitude":-30.33562,
+    "geom:longitude":-64.38551,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14049.0",
+    "gn:asciiname":"Las Trampas",
+    "gn:country_code":"AR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847707,
+    "gn:latitude":-30.33562,
+    "gn:longitude":-64.38551,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Trampas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421204057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847707
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"66dee30851d2b6c769d1220b0d3cf484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204057,
+            "locality_id":1276123029,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1276123029,
+    "wof:lastmodified":1537057806,
+    "wof:name":"Las Trampas",
+    "wof:parent_id":421204057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.38551,
+    -30.33562,
+    -64.38551,
+    -30.33562
+],
+  "geometry": {"coordinates":[-64.38551,-30.33562],"type":"Point"}
+}

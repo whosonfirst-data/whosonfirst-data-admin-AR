@@ -1,0 +1,102 @@
+{
+  "id": 890440125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60222,-32.78215,-61.60222,-32.78215",
+    "geom:latitude":-32.78215,
+    "geom:longitude":-61.60222,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":10388,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0631\u0645\u0633\u062a\u0631\u0648\u0646\u063a"
+    ],
+    "name:dut_x_preferred":[
+        "Armstrong"
+    ],
+    "name:eng_x_preferred":[
+        "Armstrong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05de\u05e1\u05d8\u05e8\u05d5\u05e0\u05d2"
+    ],
+    "name:ita_x_preferred":[
+        "Armstrong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30e0\u30b9\u30c8\u30ed\u30f3\u30b0"
+    ],
+    "name:nob_x_preferred":[
+        "Armstrong"
+    ],
+    "name:por_x_preferred":[
+        "Armstrong"
+    ],
+    "name:spa_x_preferred":[
+        "Armstrong"
+    ],
+    "name:swe_x_preferred":[
+        "Armstrong"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043c\u0441\u0442\u0440\u043e\u043d\u0433"
+    ],
+    "qs:name":"Armstrong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":359,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865449,
+        "gp:id":91862884,
+        "qs:id":848439,
+        "wd:id":"Q2397804",
+        "wk:page":"Armstrong"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052263,
+    "wof:geomhash":"dcef0585e96210ddc65d545753ca2a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718449,
+            "locality_id":890440125,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":890440125,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Armstrong",
+    "wof:parent_id":1108718449,
+    "wof:placetype":"locality",
+    "wof:population":10388,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60222,
+    -32.78215,
+    -61.60222,
+    -32.78215
+],
+  "geometry": {"coordinates":[-61.60222,-32.78215],"type":"Point"}
+}

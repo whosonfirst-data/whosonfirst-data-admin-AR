@@ -1,0 +1,72 @@
+{
+  "id": 1209719579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.8862,-35.54257,-58.8862,-35.54257",
+    "geom:latitude":-35.54257,
+    "geom:longitude":-58.8862,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6547.0",
+    "gn:asciiname":"Zenon Videla Dorna",
+    "gn:country_code":"AR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427206,
+    "gn:latitude":-35.54257,
+    "gn:longitude":-58.8862,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zen\u00f3n Videla Dorna",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z. Videla Dorna",
+        "Zen\u00f3n Videla Dorna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427206
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"08a7d80ace7f0dc00379117681030e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718027,
+            "locality_id":1209719579,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1209719579,
+    "wof:lastmodified":1537584813,
+    "wof:name":"Zenon Videla Dorna",
+    "wof:parent_id":1108718027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.8862,
+    -35.54257,
+    -58.8862,
+    -35.54257
+],
+  "geometry": {"coordinates":[-58.8862,-35.54257],"type":"Point"}
+}

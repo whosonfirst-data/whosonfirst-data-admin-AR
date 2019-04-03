@@ -1,0 +1,68 @@
+{
+  "id": 1260091811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.8,-27.61667,-60.8,-27.61667",
+    "geom:latitude":-27.61667,
+    "geom:longitude":-60.8,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"22098.0",
+    "gn:asciiname":"Clodomiro Diaz",
+    "gn:country_code":"AR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861001,
+    "gn:latitude":-27.61667,
+    "gn:longitude":-60.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Clodomiro D\u00edaz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861001
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e6806a2576b24ee26e9e03d0e9c41841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718211,
+            "locality_id":1260091811,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1260091811,
+    "wof:lastmodified":1536975488,
+    "wof:name":"Clodomiro Diaz",
+    "wof:parent_id":1108718211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.8,
+    -27.61667000000001,
+    -60.8,
+    -27.61667000000001
+],
+  "geometry": {"coordinates":[-60.8,-27.61667000000001],"type":"Point"}
+}

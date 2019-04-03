@@ -1,0 +1,68 @@
+{
+  "id": 1243361023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18333,-28.68333,-56.18333,-28.68333",
+    "geom:latitude":-28.68333,
+    "geom:longitude":-56.18333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18168.0",
+    "gn:asciiname":"Arrocera San Luis",
+    "gn:country_code":"AR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436280,
+    "gn:latitude":-28.68333,
+    "gn:longitude":-56.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arrocera San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421204337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436280
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7a706f6fb87b89eb7549f4083a7124ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204337,
+            "locality_id":1243361023,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1243361023,
+    "wof:lastmodified":1536929492,
+    "wof:name":"Arrocera San Luis",
+    "wof:parent_id":421204337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18333000000001,
+    -28.68333,
+    -56.18333000000001,
+    -28.68333
+],
+  "geometry": {"coordinates":[-56.18333000000001,-28.68333],"type":"Point"}
+}

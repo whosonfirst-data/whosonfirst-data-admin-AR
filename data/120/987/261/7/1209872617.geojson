@@ -1,0 +1,68 @@
+{
+  "id": 1209872617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96667,-25.86667,-63.96667,-25.86667",
+    "geom:latitude":-25.86667,
+    "geom:longitude":-63.96667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86133.0",
+    "gn:asciiname":"Ahi Veremos",
+    "gn:country_code":"AR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866479,
+    "gn:latitude":-25.86667,
+    "gn:longitude":-63.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ah\u00ed Veremos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866479
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bbad614ee46dc1dcc4a5a8ed03a6006c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718501,
+            "locality_id":1209872617,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1209872617,
+    "wof:lastmodified":1536371959,
+    "wof:name":"Ahi Veremos",
+    "wof:parent_id":1108718501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96666999999999,
+    -25.86667000000001,
+    -63.96666999999999,
+    -25.86667000000001
+],
+  "geometry": {"coordinates":[-63.96666999999999,-25.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 421185659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16667,-26.83333,-65.16667,-26.83333",
+    "geom:latitude":-26.83333,
+    "geom:longitude":-65.16667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u73ed\u9054\u5fb7\u723e\u91cc\u5967\u85a9\u5229"
+    ],
+    "name:deu_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d3\u10d0-\u10d3\u10d4\u10da-\u10e0\u10d8\u10dd-\u10e1\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d3\u10d0-\u10d3\u10d4\u10da-\u10e0\u10d8\u10dd-\u10e1\u10d0\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Banda del Rio Sali"
+    ],
+    "name:nld_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0430-\u0434\u0435\u043b\u044c-\u0420\u0456\u043e-\u0421\u0430\u043b\u0456"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3864851,
+    "qs:gn_pop":0,
+    "qs:name":"Banda del R\u00edo Sal\u00ed",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":891,
+    "qs:photos_1k":181,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":891,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":899622,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466900,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-26.833333,
+    "wd:longitude":-65.166667,
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864851,
+        "gp:id":466900,
+        "qs:id":899622,
+        "wd:id":"Q806249",
+        "wk:page":"Banda del R\u00edo Sal\u00ed"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009450,
+    "wof:geomhash":"3f51022cee3f68b823b699bd734b7205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":421185659,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421185659,
+    "wof:lastmodified":1527726504,
+    "wof:name":"Banda del R\u00edo Sal\u00ed",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16667,
+    -26.83333,
+    -65.16667,
+    -26.83333
+],
+  "geometry": {"coordinates":[-65.16667,-26.83333],"type":"Point"}
+}

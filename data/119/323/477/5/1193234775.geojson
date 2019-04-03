@@ -1,0 +1,67 @@
+{
+  "id": 1193234775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69285,-33.88705,-61.69285,-33.88705",
+    "geom:latitude":-33.88705,
+    "geom:longitude":-61.69285,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"AR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836239,
+    "gn:latitude":-33.88705,
+    "gn:longitude":-61.69285,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836239
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"634a29ff5f8c92d327a1d4d52036bfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":1193234775,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1193234775,
+    "wof:lastmodified":1536384615,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69285,
+    -33.88705,
+    -61.69285,
+    -33.88705
+],
+  "geometry": {"coordinates":[-61.69285,-33.88705],"type":"Point"}
+}

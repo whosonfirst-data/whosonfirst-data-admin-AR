@@ -1,0 +1,68 @@
+{
+  "id": 1310109995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.72529,-38.11868,-62.72529,-38.11868",
+    "geom:latitude":-38.11868,
+    "geom:longitude":-62.72529,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6651.0",
+    "gn:asciiname":"Lopez Lecube",
+    "gn:country_code":"AR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846603,
+    "gn:latitude":-38.11868,
+    "gn:longitude":-62.72529,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"L\u00f3pez Lecube",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846603
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"40a80854c18f23b066de696babf14559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718063,
+            "locality_id":1310109995,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310109995,
+    "wof:lastmodified":1536989125,
+    "wof:name":"Lopez Lecube",
+    "wof:parent_id":1108718063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.72529,
+    -38.11868,
+    -62.72529,
+    -38.11868
+],
+  "geometry": {"coordinates":[-62.72529,-38.11868],"type":"Point"}
+}

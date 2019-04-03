@@ -1,0 +1,68 @@
+{
+  "id": 1343392759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.10978,-32.68122,-62.10978,-32.68122",
+    "geom:latitude":-32.68122,
+    "geom:longitude":-62.10978,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14063.0",
+    "gn:asciiname":"Villa Argentina",
+    "gn:country_code":"AR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832807,
+    "gn:latitude":-32.68122,
+    "gn:longitude":-62.10978,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832807
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b678d49598589f54b2c673b4a503e135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":1343392759,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1343392759,
+    "wof:lastmodified":1536842943,
+    "wof:name":"Villa Argentina",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.10978000000001,
+    -32.68122,
+    -62.10978000000001,
+    -32.68122
+],
+  "geometry": {"coordinates":[-62.10978000000001,-32.68122],"type":"Point"}
+}

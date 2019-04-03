@@ -1,0 +1,73 @@
+{
+  "id": 1226056899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1,-36.25,-61.1,-36.25",
+    "geom:latitude":-36.25,
+    "geom:longitude":-61.1,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6105.0",
+    "gn:asciiname":"San Carlos de Bolivar",
+    "gn:country_code":"AR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3837855,
+    "gn:latitude":-36.25,
+    "gn:longitude":-61.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Carlos de Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol\u00edvar",
+        "San Carlos de Bol\u00edvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837855,
+        "wk:page":"San_Carlos_de_Bol%C3%ADvar"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6d482628f2f53bebfa0bfd2e178927b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717879,
+            "locality_id":1226056899,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226056899,
+    "wof:lastmodified":1537584842,
+    "wof:name":"San Carlos de Bolivar",
+    "wof:parent_id":1108717879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1,
+    -36.25,
+    -61.1,
+    -36.25
+],
+  "geometry": {"coordinates":[-61.1,-36.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276208725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.06667,-40.21667,-64.06667,-40.21667",
+    "geom:latitude":-40.21667,
+    "geom:longitude":-64.06667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62028.0",
+    "gn:asciiname":"Boca de la Travesia",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864048,
+    "gn:latitude":-40.21667,
+    "gn:longitude":-64.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boca de la Traves\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864048
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5f07900f7657af9e2f22a5a45efa2779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718389,
+            "locality_id":1276208725,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1276208725,
+    "wof:lastmodified":1536946462,
+    "wof:name":"Boca de la Travesia",
+    "wof:parent_id":1108718389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.06667,
+    -40.21667,
+    -64.06667,
+    -40.21667
+],
+  "geometry": {"coordinates":[-64.06667,-40.21667],"type":"Point"}
+}

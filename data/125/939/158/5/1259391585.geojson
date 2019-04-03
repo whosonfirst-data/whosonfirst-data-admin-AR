@@ -1,0 +1,73 @@
+{
+  "id": 1259391585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59359,-27.52702,-67.59359,-27.52702",
+    "geom:latitude":-27.52702,
+    "geom:longitude":-67.59359,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"Medanitos",
+    "gn:country_code":"AR",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844602,
+    "gn:latitude":-27.52702,
+    "gn:longitude":-67.59359,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Medanitos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medanito",
+        "Medanitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844602,
+        "wk:page":"Medanitos_%28Tinogasta%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5ac5f89e0ee39b195758f77114e122c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718161,
+            "locality_id":1259391585,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1259391585,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Medanitos",
+    "wof:parent_id":1108718161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59359,
+    -27.52702,
+    -67.59359,
+    -27.52702
+],
+  "geometry": {"coordinates":[-67.59359000000001,-27.52702],"type":"Point"}
+}

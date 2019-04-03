@@ -1,0 +1,68 @@
+{
+  "id": 1327047895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.86819,-35.73779,-59.86819,-35.73779",
+    "geom:latitude":-35.73779,
+    "geom:longitude":-59.86819,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6707.0",
+    "gn:asciiname":"La Barrancosa",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3432986,
+    "gn:latitude":-35.73779,
+    "gn:longitude":-59.86819,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Barrancosa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432986
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"05610ab14851170a1df10bf8c111138e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718083,
+            "locality_id":1327047895,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327047895,
+    "wof:lastmodified":1536738012,
+    "wof:name":"La Barrancosa",
+    "wof:parent_id":1108718083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.86819000000001,
+    -35.73779000000001,
+    -59.86819000000001,
+    -35.73779000000001
+],
+  "geometry": {"coordinates":[-59.86819000000001,-35.73779000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421191853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1783,-33.59816,-69.1783,-33.59816",
+    "geom:latitude":-33.59816,
+    "geom:longitude":-69.1783,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3845595,
+    "qs:gn_pop":0,
+    "qs:name":"Los Sauces",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1158864,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331411,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845595,
+        "gp:id":331411,
+        "qs:id":1158864
+    },
+    "wof:country":"AR",
+    "wof:created":1459009712,
+    "wof:geomhash":"add7c92dd46725d615b07c2fa464d272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171485,
+            "locality_id":421191853,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421191853,
+    "wof:lastmodified":1527716385,
+    "wof:name":"Los Sauces",
+    "wof:parent_id":421171485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1783,
+    -33.59816,
+    -69.1783,
+    -33.59816
+],
+  "geometry": {"coordinates":[-69.17829999999999,-33.59816],"type":"Point"}
+}

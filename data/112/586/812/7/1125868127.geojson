@@ -1,0 +1,94 @@
+{
+  "id": 1125868127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61059,-29.34132,-58.61059,-29.34132",
+    "geom:latitude":-29.34132,
+    "geom:longitude":-58.61059,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5685,
+    "gn:population":5685,
+    "iso:country":"AR",
+    "lbl:latitude":-29.34132,
+    "lbl:longitude":-58.61059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Perugorr\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Perugorr\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Perugorr\u00eda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0443\u0433\u043e\u0440\u0440\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Perrugorr\u00eda"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3430029,
+    "qs_pg:gn_pop":5685,
+    "qs_pg:name":"Perugorr\u00eda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":95539,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430029,
+        "qs_pg:id":95539,
+        "wd:id":"Q6073076"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294151,
+    "wof:geomhash":"18d7e4ae261e3d83ab93cb2cd9a91add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718175,
+            "locality_id":1125868127,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1125868127,
+    "wof:lastmodified":1513889349,
+    "wof:name":"Perugorr\u00eda",
+    "wof:parent_id":1108718175,
+    "wof:placetype":"locality",
+    "wof:population":5685,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61059,
+    -29.34132,
+    -58.61059,
+    -29.34132
+],
+  "geometry": {"coordinates":[-58.61059,-29.34132],"type":"Point"}
+}

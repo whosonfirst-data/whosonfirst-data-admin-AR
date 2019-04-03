@@ -1,0 +1,75 @@
+{
+  "id": 421184261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1042075,-40.818464,-65.1042075,-40.818464",
+    "geom:latitude":-40.818464,
+    "geom:longitude":-65.104208,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El S\u00f3tano",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":991673,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040313,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56040313,
+        "qs:id":991673
+    },
+    "wof:country":"AR",
+    "wof:created":1459009405,
+    "wof:geomhash":"afeb33a73561c6355573227a3ef5e6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718395,
+            "locality_id":421184261,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421184261,
+    "wof:lastmodified":1499925173,
+    "wof:name":"El S\u00f3tano",
+    "wof:parent_id":1108718395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1042075,
+    -40.818464,
+    -65.1042075,
+    -40.818464
+],
+  "geometry": {"coordinates":[-65.1042075,-40.818464],"type":"Point"}
+}

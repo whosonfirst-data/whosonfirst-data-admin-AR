@@ -1,0 +1,101 @@
+{
+  "id": 421184881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.48333,-31.2,-64.48333,-31.2",
+    "geom:latitude":-31.2,
+    "geom:longitude":-64.48333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Molinari"
+    ],
+    "name:fra_x_preferred":[
+        "Molinari"
+    ],
+    "name:hbs_x_preferred":[
+        "Molinari"
+    ],
+    "name:ita_x_preferred":[
+        "Molinari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0438\u043d\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Molinari"
+    ],
+    "name:srp_x_preferred":[
+        "Molinari"
+    ],
+    "name:swe_x_preferred":[
+        "Molinari"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844012,
+    "qs:gn_pop":0,
+    "qs:name":"Molinari",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1014216,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465857,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844012,
+        "gp:id":465857,
+        "qs:id":1014216
+    },
+    "wof:country":"AR",
+    "wof:created":1459009425,
+    "wof:geomhash":"333ff4371cf7fecba26b5c55562c75cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421184881,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421184881,
+    "wof:lastmodified":1527716445,
+    "wof:name":"Molinari",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.48333,
+    -31.2,
+    -64.48333,
+    -31.2
+],
+  "geometry": {"coordinates":[-64.48333,-31.2],"type":"Point"}
+}

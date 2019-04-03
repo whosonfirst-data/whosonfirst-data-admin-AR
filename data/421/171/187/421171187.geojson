@@ -1,0 +1,92 @@
+{
+  "id": 421171187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35621,-35.63895,-64.35621,-35.63895",
+    "geom:latitude":-35.63895,
+    "geom:longitude":-64.35621,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Arata"
+    ],
+    "name:fra_x_preferred":[
+        "Arata"
+    ],
+    "name:ita_x_preferred":[
+        "Arata"
+    ],
+    "name:slv_x_preferred":[
+        "Arata"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865580,
+    "qs:gn_pop":1202,
+    "qs:name":"Arata",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1211752,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464663,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421177929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865580,
+        "gp:id":464663,
+        "qs:id":1211752
+    },
+    "wof:country":"AR",
+    "wof:created":1459008884,
+    "wof:geomhash":"cdb470aecde6158e0c9b0e5729016bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421177929,
+            "locality_id":421171187,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421171187,
+    "wof:lastmodified":1527726485,
+    "wof:name":"Arata",
+    "wof:parent_id":421177929,
+    "wof:placetype":"locality",
+    "wof:population":1202,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35621,
+    -35.63895,
+    -64.35621,
+    -35.63895
+],
+  "geometry": {"coordinates":[-64.35621,-35.63895],"type":"Point"}
+}

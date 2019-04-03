@@ -1,0 +1,74 @@
+{
+  "id": 1310167339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.37778,-48.65004,-67.37778,-48.65004",
+    "geom:latitude":-48.65004,
+    "geom:longitude":-67.37778,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78042.0",
+    "gn:asciiname":"Canadon Once de Septiembre",
+    "gn:country_code":"AR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862902,
+    "gn:latitude":-48.65004,
+    "gn:longitude":-67.37778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00f1ad\u00f3n Once de Septiembre",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Ca\u00f1ad\u00f3n II de Setiembre",
+        "Ca\u00f1ad\u00f3n 11 de Septiembre",
+        "Ca\u00f1ad\u00f3n Once de Setiembre",
+        "Ca\u00f1ad\u00f3n Once de Septiembre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421185323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862902
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9b2774b7af7e38d544994eae5a631f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185323,
+            "locality_id":1310167339,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1310167339,
+    "wof:lastmodified":1537584897,
+    "wof:name":"Canadon Once de Septiembre",
+    "wof:parent_id":421185323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.37778,
+    -48.65004,
+    -67.37778,
+    -48.65004
+],
+  "geometry": {"coordinates":[-67.37778,-48.65004],"type":"Point"}
+}

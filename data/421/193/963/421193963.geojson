@@ -1,0 +1,158 @@
+{
+  "id": 421193963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.34865,-40.16038,-71.34865,-40.16038",
+    "geom:latitude":-40.16038,
+    "geom:longitude":-71.34865,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01\u5fb7\u6d1b\u65af\u5b89\u7b2c\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:fra_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:ger_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:grn_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05de\u05e8\u05d8\u05d9\u05df \u05d3\u05d4 \u05dc\u05d5\u05e1 \u05d0\u05e0\u05d3\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30a2\u30f3\u30c7\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "And\u0173 San Martinas"
+    ],
+    "name:may_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:msa_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:nld_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:pol_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn de Los Andes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d-\u0414\u0435-\u041b\u043e\u0441-\u0410\u043d\u0434\u0435\u0441"
+    ],
+    "name:slo_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn de los Andes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d-\u0434\u0435-\u043b\u043e\u0441-\u0410\u043d\u0434\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u4e01\u5fb7\u6d1b\u65af\u5b89\u7b2c\u65af"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3836951,
+    "qs:gn_pop":23519,
+    "qs:name":"San Mart\u00edn de Los Andes",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":1957,
+    "qs:photos_1k":397,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1957,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":666462,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332518,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":651.0,
+    "wd:latitude":-40.166667,
+    "wd:longitude":-71.35,
+    "wd:population":27956,
+    "wd:wordcount":972,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421175299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836951,
+        "gp:id":332518,
+        "qs:id":666462,
+        "wd:id":"Q1019152",
+        "wk:page":"San Mart\u00edn de los Andes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009788,
+    "wof:geomhash":"25ca047406c97ce89d0e980e02fcca15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175299,
+            "locality_id":421193963,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421193963,
+    "wof:lastmodified":1527716139,
+    "wof:name":"San Mart\u00edn de Los Andes",
+    "wof:parent_id":421175299,
+    "wof:placetype":"locality",
+    "wof:population":27956,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.34865,
+    -40.16038,
+    -71.34865,
+    -40.16038
+],
+  "geometry": {"coordinates":[-71.34865000000001,-40.16038],"type":"Point"}
+}

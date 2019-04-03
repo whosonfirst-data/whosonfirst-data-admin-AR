@@ -1,0 +1,66 @@
+{
+  "id": 890433703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.3,-23.21667,-62.3,-23.21667",
+    "geom:latitude":-23.21667,
+    "geom:longitude":-62.3,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1279,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"General Enrique Mosconi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855115,
+        "gp:id":332581,
+        "qs:id":585665
+    },
+    "wof:country":"AR",
+    "wof:created":1469051991,
+    "wof:geomhash":"414a1230704bb6cd84d5d5d34e15da22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718275,
+            "locality_id":890433703,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":890433703,
+    "wof:lastmodified":1505343537,
+    "wof:name":"General Enrique Mosconi",
+    "wof:parent_id":1108718275,
+    "wof:placetype":"locality",
+    "wof:population":1279,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.3,
+    -23.21667,
+    -62.3,
+    -23.21667
+],
+  "geometry": {"coordinates":[-62.3,-23.21667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293123095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.57174,-29.0131,-56.57174,-29.0131",
+    "geom:latitude":-29.0131,
+    "geom:longitude":-56.57174,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18056.0",
+    "gn:asciiname":"Pancho Cue",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430175,
+    "gn:latitude":-29.0131,
+    "gn:longitude":-56.57174,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pancho Cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421182717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430175
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ecb67786c0eeef273eb6580ebac48e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421182717,
+            "locality_id":1293123095,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1293123095,
+    "wof:lastmodified":1536814722,
+    "wof:name":"Pancho Cue",
+    "wof:parent_id":421182717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.57174000000001,
+    -29.0131,
+    -56.57174000000001,
+    -29.0131
+],
+  "geometry": {"coordinates":[-56.57174000000001,-29.0131],"type":"Point"}
+}

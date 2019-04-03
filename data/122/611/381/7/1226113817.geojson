@@ -1,0 +1,76 @@
+{
+  "id": 1226113817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.44391,-23.38742,-64.44391,-23.38742",
+    "geom:latitude":-23.38742,
+    "geom:longitude":-64.44391,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66126.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"AR",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836011,
+    "gn:latitude":-23.38742,
+    "gn:longitude":-64.44391,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Colonia Santa Rosa",
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836011,
+        "wk:page":"Colonia_Santa_Rosa"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8df5f2087976796081a497d33c818420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718413,
+            "locality_id":1226113817,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226113817,
+    "wof:lastmodified":1537584839,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108718413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.44391,
+    -23.38742,
+    -64.44391,
+    -23.38742
+],
+  "geometry": {"coordinates":[-64.44391,-23.38742],"type":"Point"}
+}

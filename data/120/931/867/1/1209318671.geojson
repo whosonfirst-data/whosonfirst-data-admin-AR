@@ -1,0 +1,67 @@
+{
+  "id": 1209318671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.94521,-35.88114,-59.94521,-35.88114",
+    "geom:latitude":-35.88114,
+    "geom:longitude":-59.94521,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6287.0",
+    "gn:asciiname":"Jose Maria Micheo",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433322,
+    "gn:latitude":-35.88114,
+    "gn:longitude":-59.94521,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jos\u00e9 Mar\u00eda Micheo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J.M. Micheo",
+        "Jos\u00e9 M. Micheo",
+        "Jos\u00e9 Mar\u00eda Micheo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433322
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"560a81aa756d418eaf5d5cca64cac14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209318671
+        }
+    ],
+    "wof:id":1209318671,
+    "wof:lastmodified":1537584823,
+    "wof:name":"Jose Maria Micheo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.94521,
+    -35.88114,
+    -59.94521,
+    -35.88114
+],
+  "geometry": {"coordinates":[-59.94521,-35.88114],"type":"Point"}
+}

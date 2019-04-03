@@ -1,0 +1,73 @@
+{
+  "id": 1277150649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.59191,-28.10936,-55.59191,-28.10936",
+    "geom:latitude":-28.10936,
+    "geom:longitude":-55.59191,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54007.0",
+    "gn:asciiname":"Barra Concepcion",
+    "gn:country_code":"AR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436133,
+    "gn:latitude":-28.10936,
+    "gn:longitude":-55.59191,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barra Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barra",
+        "Barra de Concepci\u00f3n",
+        "Barra Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436133
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"92d458df4ef92d41df8dddab618b7935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718365,
+            "locality_id":1277150649,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1277150649,
+    "wof:lastmodified":1537584829,
+    "wof:name":"Barra Concepcion",
+    "wof:parent_id":1108718365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.59191,
+    -28.10936,
+    -55.59191,
+    -28.10936
+],
+  "geometry": {"coordinates":[-55.59191,-28.10936],"type":"Point"}
+}

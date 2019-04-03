@@ -1,0 +1,68 @@
+{
+  "id": 1277088115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.2,-38.28333,-59.2,-38.28333",
+    "geom:latitude":-38.28333,
+    "geom:longitude":-59.2,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6581.0",
+    "gn:asciiname":"La Dulce",
+    "gn:country_code":"AR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3432710,
+    "gn:latitude":-38.28333,
+    "gn:longitude":-59.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432710
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ba5e702aa2f04f4ba91d3982e668996c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718039,
+            "locality_id":1277088115,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1277088115,
+    "wof:lastmodified":1536759987,
+    "wof:name":"La Dulce",
+    "wof:parent_id":1108718039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.2,
+    -38.28333,
+    -59.2,
+    -38.28333
+],
+  "geometry": {"coordinates":[-59.2,-38.28333],"type":"Point"}
+}

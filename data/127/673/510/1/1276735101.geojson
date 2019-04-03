@@ -1,0 +1,68 @@
+{
+  "id": 1276735101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45645,-40.70433,-63.45645,-40.70433",
+    "geom:latitude":-40.70433,
+    "geom:longitude":-63.45645,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62007.0",
+    "gn:asciiname":"Zanjon de Oyuela",
+    "gn:country_code":"AR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832138,
+    "gn:latitude":-40.70433,
+    "gn:longitude":-63.45645,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zanj\u00f3n de Oyuela",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421186207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832138
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7afeda5c23928224fb21367b035218c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186207,
+            "locality_id":1276735101,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1276735101,
+    "wof:lastmodified":1536737551,
+    "wof:name":"Zanjon de Oyuela",
+    "wof:parent_id":421186207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45645,
+    -40.70433,
+    -63.45645,
+    -40.70433
+],
+  "geometry": {"coordinates":[-63.45645,-40.70433],"type":"Point"}
+}

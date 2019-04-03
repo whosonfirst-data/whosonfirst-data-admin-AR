@@ -1,0 +1,68 @@
+{
+  "id": 1276195341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.65,-40.83333,-63.65,-40.83333",
+    "geom:latitude":-40.83333,
+    "geom:longitude":-63.65,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62007.0",
+    "gn:asciiname":"General Liborio Bernal",
+    "gn:country_code":"AR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855097,
+    "gn:latitude":-40.83333,
+    "gn:longitude":-63.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"General Liborio Bernal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421186207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855097
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ae9f4c9495c3eb206df8e2562ee194ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186207,
+            "locality_id":1276195341,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1276195341,
+    "wof:lastmodified":1536963795,
+    "wof:name":"General Liborio Bernal",
+    "wof:parent_id":421186207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.65,
+    -40.83333,
+    -63.65,
+    -40.83333
+],
+  "geometry": {"coordinates":[-63.65,-40.83333],"type":"Point"}
+}

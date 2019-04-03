@@ -1,0 +1,72 @@
+{
+  "id": 1310115463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.85818,-35.74666,-60.85818,-35.74666",
+    "geom:latitude":-35.74666,
+    "geom:longitude":-60.85818,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6588.0",
+    "gn:asciiname":"Santos Unzue",
+    "gn:country_code":"AR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835812,
+    "gn:latitude":-35.74666,
+    "gn:longitude":-60.85818,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santos Unzu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S. Unzu\u00e9",
+        "Santos Unzu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835812
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5928062a28918e48df202385582487d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718041,
+            "locality_id":1310115463,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310115463,
+    "wof:lastmodified":1537584839,
+    "wof:name":"Santos Unzue",
+    "wof:parent_id":1108718041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.85818,
+    -35.74666,
+    -60.85818,
+    -35.74666
+],
+  "geometry": {"coordinates":[-60.85818,-35.74666],"type":"Point"}
+}

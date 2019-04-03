@@ -1,0 +1,121 @@
+{
+  "id": 421201663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.56428,-36.05463,-63.56428,-36.05463",
+    "geom:latitude":-36.05463,
+    "geom:longitude":-63.56428,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u7a46\u514b\u7a46"
+    ],
+    "name:dut_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:fra_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:ita_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:nld_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043c\u0443-\u041a\u0435\u043c\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7a46\u514b\u7a46"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3839668,
+    "qs:gn_pop":3851,
+    "qs:name":"Quem\u00fa Quem\u00fa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Pampa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":925224,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466309,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839668,
+        "gp:id":466309,
+        "qs:id":925224,
+        "wd:id":"Q2947915",
+        "wk:page":"Quem\u00fa Quem\u00fa"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010080,
+    "wof:geomhash":"1e799ee45e28cbd4888c516641cfcaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718313,
+            "locality_id":421201663,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":421201663,
+    "wof:lastmodified":1527716440,
+    "wof:name":"Quem\u00fa Quem\u00fa",
+    "wof:parent_id":1108718313,
+    "wof:placetype":"locality",
+    "wof:population":3851,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.56428,
+    -36.05463,
+    -63.56428,
+    -36.05463
+],
+  "geometry": {"coordinates":[-63.56428,-36.05463],"type":"Point"}
+}

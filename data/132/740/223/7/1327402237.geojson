@@ -1,0 +1,68 @@
+{
+  "id": 1327402237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05168,-27.46578,-65.05168,-27.46578",
+    "geom:latitude":-27.46578,
+    "geom:longitude":-65.05168,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90091.0",
+    "gn:asciiname":"Yalapa",
+    "gn:country_code":"AR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832339,
+    "gn:latitude":-27.46578,
+    "gn:longitude":-65.05168,
+    "gn:modification_date":"2015-06-16",
+    "gn:name":"Yalapa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421182827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832339
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"378ec969b4b0913834e1dee730c45e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421182827,
+            "locality_id":1327402237,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1327402237,
+    "wof:lastmodified":1536724764,
+    "wof:name":"Yalapa",
+    "wof:parent_id":421182827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05168,
+    -27.46578,
+    -65.05168,
+    -27.46578
+],
+  "geometry": {"coordinates":[-65.05168,-27.46578],"type":"Point"}
+}

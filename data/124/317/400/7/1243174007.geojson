@@ -1,0 +1,73 @@
+{
+  "id": 1243174007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.69363,-27.05849,-58.69363,-27.05849",
+    "geom:latitude":-27.05849,
+    "geom:longitude":-58.69363,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22014.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"AR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3431658,
+    "gn:latitude":-27.05849,
+    "gn:longitude":-58.69363,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmas",
+        "Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431658,
+        "wk:page":"Las_Palmas%2C_Chaco"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0c36cf9a8fecdcb007edc1b74882a816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185063,
+            "locality_id":1243174007,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1243174007,
+    "wof:lastmodified":1537584822,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":421185063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.69363000000001,
+    -27.05849000000001,
+    -58.69363000000001,
+    -27.05849000000001
+],
+  "geometry": {"coordinates":[-58.69363000000001,-27.05849000000001],"type":"Point"}
+}

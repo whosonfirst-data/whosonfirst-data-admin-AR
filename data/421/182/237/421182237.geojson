@@ -1,0 +1,105 @@
+{
+  "id": 421182237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.59202,-31.35601,-64.59202,-31.35601",
+    "geom:latitude":-31.35601,
+    "geom:longitude":-64.59202,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tanti"
+    ],
+    "name:eng_x_preferred":[
+        "Tanti"
+    ],
+    "name:fre_x_preferred":[
+        "Tanti"
+    ],
+    "name:ger_x_preferred":[
+        "Tanti"
+    ],
+    "name:ita_x_preferred":[
+        "Tanti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30c6\u30a3"
+    ],
+    "name:por_x_preferred":[
+        "Tanti"
+    ],
+    "name:spa_x_preferred":[
+        "Tanti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0442\u0456"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3834652,
+    "qs:gn_pop":0,
+    "qs:name":"Tanti",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":154,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":154,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":895746,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467997,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":414,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834652,
+        "gp:id":467997,
+        "qs:id":895746,
+        "wd:id":"Q1005727"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009323,
+    "wof:geomhash":"eaf1d9e1e0fdb1b3da2d9da7e8edf9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421182237,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421182237,
+    "wof:lastmodified":1527726460,
+    "wof:name":"Tanti",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.59202,
+    -31.35601,
+    -64.59202,
+    -31.35601
+],
+  "geometry": {"coordinates":[-64.59202000000001,-31.35601],"type":"Point"}
+}

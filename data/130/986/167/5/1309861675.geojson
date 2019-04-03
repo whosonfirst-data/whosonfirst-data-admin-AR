@@ -1,0 +1,68 @@
+{
+  "id": 1309861675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56405,-26.39614,-64.56405,-26.39614",
+    "geom:latitude":-26.39614,
+    "geom:longitude":-64.56405,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90007.0",
+    "gn:asciiname":"La Juliana",
+    "gn:country_code":"AR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3850511,
+    "gn:latitude":-26.39614,
+    "gn:longitude":-64.56405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Juliana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3850511
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"533a5299f332974796880956eacae5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718519,
+            "locality_id":1309861675,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1309861675,
+    "wof:lastmodified":1536849619,
+    "wof:name":"La Juliana",
+    "wof:parent_id":1108718519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56405,
+    -26.39614000000001,
+    -64.56405,
+    -26.39614000000001
+],
+  "geometry": {"coordinates":[-64.56404999999999,-26.39614000000001],"type":"Point"}
+}

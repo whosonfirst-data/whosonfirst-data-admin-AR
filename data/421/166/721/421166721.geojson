@@ -1,0 +1,130 @@
+{
+  "id": 421166721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.65798,-33.72208,-58.65798,-33.72208",
+    "geom:latitude":-33.72208,
+    "geom:longitude":-58.65798,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u62c9\u7d0d\u897f\u6258\u93ae"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:fre_x_preferred":[
+        "villa Paranacito"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:por_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041f\u0430\u0440\u0430\u043d\u0430\u0441\u0438\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Paranacito"
+    ],
+    "name:unk_x_variant":[
+        "Paranacito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u7d0d\u897f\u6258\u93ae"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427386,
+    "qs:gn_pop":3988,
+    "qs:name":"Villa Paranacito",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":270571,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466771,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":588,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427386,
+        "gp:id":466771,
+        "qs:id":270571,
+        "wd:id":"Q662831",
+        "wk:page":"Villa Paranacito"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008700,
+    "wof:geomhash":"fd541689ece2fee4a3d430a80879df7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171503,
+            "locality_id":421166721,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421166721,
+    "wof:lastmodified":1527716107,
+    "wof:name":"Villa Paranacito",
+    "wof:parent_id":421171503,
+    "wof:placetype":"locality",
+    "wof:population":3988,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.65798,
+    -33.72208,
+    -58.65798,
+    -33.72208
+],
+  "geometry": {"coordinates":[-58.65798,-33.72208],"type":"Point"}
+}

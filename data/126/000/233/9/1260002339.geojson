@@ -1,0 +1,68 @@
+{
+  "id": 1260002339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.60817,-33.25837,-62.60817,-33.25837",
+    "geom:latitude":-33.25837,
+    "geom:longitude":-62.60817,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14063.0",
+    "gn:asciiname":"Castro Urdiales",
+    "gn:country_code":"AR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862291,
+    "gn:latitude":-33.25837,
+    "gn:longitude":-62.60817,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Castro Urdiales",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862291
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c33068745ba019074360d365385b6fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":1260002339,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1260002339,
+    "wof:lastmodified":1536605003,
+    "wof:name":"Castro Urdiales",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.60817,
+    -33.25837,
+    -62.60817,
+    -33.25837
+],
+  "geometry": {"coordinates":[-62.60817,-33.25837],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259778943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.02807,-30.48697,-59.02807,-30.48697",
+    "geom:latitude":-30.48697,
+    "geom:longitude":-59.02807,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30070.0",
+    "gn:asciiname":"San Victor",
+    "gn:country_code":"AR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3428055,
+    "gn:latitude":-30.48697,
+    "gn:longitude":-59.02807,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San V\u00edctor",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421181879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428055
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"36d3c3610fd8ce5d6ce0b8da175ad49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181879,
+            "locality_id":1259778943,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1259778943,
+    "wof:lastmodified":1536930470,
+    "wof:name":"San Victor",
+    "wof:parent_id":421181879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.02806999999999,
+    -30.48697,
+    -59.02806999999999,
+    -30.48697
+],
+  "geometry": {"coordinates":[-59.02806999999999,-30.48697],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360089931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88333,-30.8,-62.88333,-30.8",
+    "geom:latitude":-30.8,
+    "geom:longitude":-62.88333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14105.0",
+    "gn:asciiname":"Mar Chiquita",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844906,
+    "gn:latitude":-30.8,
+    "gn:longitude":-62.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mar Chiquita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844906
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"935244967d22a94701d34f5d989b57c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":1360089931,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1360089931,
+    "wof:lastmodified":1536939365,
+    "wof:name":"Mar Chiquita",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88333000000001,
+    -30.8,
+    -62.88333000000001,
+    -30.8
+],
+  "geometry": {"coordinates":[-62.88333000000001,-30.8],"type":"Point"}
+}

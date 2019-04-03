@@ -1,0 +1,72 @@
+{
+  "id": 1343636617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.00267,-32.94588,-66.00267,-32.94588",
+    "geom:latitude":-32.94588,
+    "geom:longitude":-66.00267,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74021.0",
+    "gn:asciiname":"Paso del Rey",
+    "gn:country_code":"AR",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841871,
+    "gn:latitude":-32.94588,
+    "gn:longitude":-66.00267,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso del Rey",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pazo Rey",
+        "Paso del Rey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841871
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"15fc62e7633b8fcf43045549436d5d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171477,
+            "locality_id":1343636617,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1343636617,
+    "wof:lastmodified":1537584850,
+    "wof:name":"Paso del Rey",
+    "wof:parent_id":421171477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.00267,
+    -32.94588,
+    -66.00267,
+    -32.94588
+],
+  "geometry": {"coordinates":[-66.00266999999999,-32.94588],"type":"Point"}
+}

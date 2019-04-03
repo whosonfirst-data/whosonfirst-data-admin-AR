@@ -1,0 +1,68 @@
+{
+  "id": 1243459451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33333,-32.15,-63.33333,-32.15",
+    "geom:latitude":-32.15,
+    "geom:longitude":-63.33333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14042.0",
+    "gn:asciiname":"Las Canita",
+    "gn:country_code":"AR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848646,
+    "gn:latitude":-32.15,
+    "gn:longitude":-63.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Ca\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848646
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2a4c1791e49922d25355d7901febdeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":1243459451,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1243459451,
+    "wof:lastmodified":1536787193,
+    "wof:name":"Las Canita",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33333,
+    -32.15,
+    -63.33333,
+    -32.15
+],
+  "geometry": {"coordinates":[-63.33333,-32.15],"type":"Point"}
+}

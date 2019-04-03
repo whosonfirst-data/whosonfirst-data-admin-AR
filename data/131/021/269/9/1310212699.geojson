@@ -1,0 +1,68 @@
+{
+  "id": 1310212699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73065,-25.14773,-60.73065,-25.14773",
+    "geom:latitude":-25.14773,
+    "geom:longitude":-60.73065,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22063.0",
+    "gn:asciiname":"Manantiales",
+    "gn:country_code":"AR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845036,
+    "gn:latitude":-25.14773,
+    "gn:longitude":-60.73065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Manantiales",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845036
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a09ab502a5da7e13853e1bb590382672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1310212699,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1310212699,
+    "wof:lastmodified":1536840770,
+    "wof:name":"Manantiales",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73065,
+    -25.14773,
+    -60.73065,
+    -25.14773
+],
+  "geometry": {"coordinates":[-60.73065,-25.14773],"type":"Point"}
+}

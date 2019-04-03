@@ -1,0 +1,95 @@
+{
+  "id": 421185387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.30087,-31.26738,-64.30087,-31.26738",
+    "geom:latitude":-31.26738,
+    "geom:longitude":-64.30087,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Mendiolaza"
+    ],
+    "name:eng_x_preferred":[
+        "Mendiolaza"
+    ],
+    "name:por_x_preferred":[
+        "Mendiolaza"
+    ],
+    "name:spa_x_preferred":[
+        "Mendiolaza"
+    ],
+    "name:swe_x_preferred":[
+        "Mendiolaza"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844424,
+    "qs:gn_pop":4204,
+    "qs:name":"Mendiolaza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":67,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1024099,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465828,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844424,
+        "gp:id":465828,
+        "qs:id":1024099,
+        "wd:id":"Q9031514"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009441,
+    "wof:geomhash":"df1e3e087fecb61a29334188df473b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421185387,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421185387,
+    "wof:lastmodified":1513889259,
+    "wof:name":"Mendiolaza",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:population":4204,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.30087,
+    -31.26738,
+    -64.30087,
+    -31.26738
+],
+  "geometry": {"coordinates":[-64.30087,-31.26738],"type":"Point"}
+}

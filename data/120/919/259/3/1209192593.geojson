@@ -1,0 +1,64 @@
+{
+  "id": 1209192593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.15075,-38.1542,-67.15075,-38.1542",
+    "geom:latitude":-38.1542,
+    "geom:longitude":-67.15075,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42112.0",
+    "gn:asciiname":"Casa de Piedra",
+    "gn:country_code":"AR",
+    "gn:dem":292,
+    "gn:elevation":"283.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659320,
+    "gn:latitude":-38.1542,
+    "gn:longitude":-67.15075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Casa de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659320,
+        "wk:page":"Casa_de_Piedra_%28La_Pampa%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7256b3905ae5ef7d5e8b9e5357f603cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209192593
+        }
+    ],
+    "wof:id":1209192593,
+    "wof:lastmodified":1537486354,
+    "wof:name":"Casa de Piedra",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.15075,
+    -38.1542,
+    -67.15075,
+    -38.1542
+],
+  "geometry": {"coordinates":[-67.15075,-38.1542],"type":"Point"}
+}

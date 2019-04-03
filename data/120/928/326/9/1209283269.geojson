@@ -1,0 +1,63 @@
+{
+  "id": 1209283269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.6,-27.3,-62.6,-27.3",
+    "geom:latitude":-27.3,
+    "geom:longitude":-62.6,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86119.0",
+    "gn:asciiname":"Weisburd",
+    "gn:country_code":"AR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832400,
+    "gn:latitude":-27.3,
+    "gn:longitude":-62.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Weisburd",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832400,
+        "wk:page":"Weisburd"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f0cff3be91ff1538ad4ce47a373ccbc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209283269
+        }
+    ],
+    "wof:id":1209283269,
+    "wof:lastmodified":1537486301,
+    "wof:name":"Weisburd",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.6,
+    -27.3,
+    -62.6,
+    -27.3
+],
+  "geometry": {"coordinates":[-62.6,-27.3],"type":"Point"}
+}

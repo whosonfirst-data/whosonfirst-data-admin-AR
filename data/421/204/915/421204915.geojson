@@ -1,0 +1,98 @@
+{
+  "id": 421204915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.78622,-32.17476,-58.78622,-32.17476",
+    "geom:latitude":-32.17476,
+    "geom:longitude":-58.78622,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:hbs_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:unk_x_variant":[
+        "Aldea Santa Anita"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428424,
+    "qs:gn_pop":1254,
+    "qs:name":"Santa Anita",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":251633,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332901,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428424,
+        "gp:id":332901,
+        "qs:id":251633
+    },
+    "wof:country":"AR",
+    "wof:created":1459010203,
+    "wof:geomhash":"1a11e8b6c2c61099267532d6544ec5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":421204915,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421204915,
+    "wof:lastmodified":1527716182,
+    "wof:name":"Santa Anita",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:population":1254,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.78622,
+    -32.17476,
+    -58.78622,
+    -32.17476
+],
+  "geometry": {"coordinates":[-58.78622,-32.17476],"type":"Point"}
+}

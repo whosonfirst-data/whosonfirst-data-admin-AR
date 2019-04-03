@@ -1,0 +1,103 @@
+{
+  "id": 421181615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.54734,-31.92482,-60.54734,-31.92482",
+    "geom:latitude":-31.92482,
+    "geom:longitude":-60.54734,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Aldea Salto"
+    ],
+    "name:eng_x_preferred":[
+        "Aldea Salto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u06cc\u0627 \u0633\u0627\u0644\u062a\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "Aldea Salto"
+    ],
+    "name:ger_x_preferred":[
+        "Aldea Salto"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062f\u06cc\u0627 \u0633\u0627\u0644\u062a\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aldea Salto"
+    ],
+    "name:spa_x_preferred":[
+        "Aldea Salto"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866377,
+    "qs:gn_pop":0,
+    "qs:name":"Aldea Salto",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":495540,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464563,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866377,
+        "gp:id":464563,
+        "qs:id":495540,
+        "wd:id":"Q4713471",
+        "wk:page":"Aldea Salto"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009301,
+    "wof:geomhash":"5ae71e7797ca7891fae5321a484ddeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":421181615,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421181615,
+    "wof:lastmodified":1527716328,
+    "wof:name":"Aldea Salto",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.54734,
+    -31.92482,
+    -60.54734,
+    -31.92482
+],
+  "geometry": {"coordinates":[-60.54734,-31.92482],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 421195529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.89322,-31.7412,-62.89322,-31.7412",
+    "geom:latitude":-31.7412,
+    "geom:longitude":-62.89322,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "El Ara\u00f1ado"
+    ],
+    "name:por_x_preferred":[
+        "El Ara\u00f1ado"
+    ],
+    "name:spa_x_preferred":[
+        "El Ara\u00f1ado"
+    ],
+    "name:swe_x_preferred":[
+        "El Ara\u00f1ado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3858909,
+    "qs:gn_pop":1395,
+    "qs:name":"El Ara\u00f1ado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1205347,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332727,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858909,
+        "gp:id":332727,
+        "qs:id":1205347,
+        "wd:id":"Q5820863"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009851,
+    "wof:geomhash":"2e7485d1b68fbf78e415935e8ef31a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":421195529,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195529,
+    "wof:lastmodified":1513889158,
+    "wof:name":"El Ara\u00f1ado",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":1395,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.89322,
+    -31.7412,
+    -62.89322,
+    -31.7412
+],
+  "geometry": {"coordinates":[-62.89322,-31.7412],"type":"Point"}
+}

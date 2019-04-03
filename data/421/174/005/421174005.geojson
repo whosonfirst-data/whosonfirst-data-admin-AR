@@ -1,0 +1,255 @@
+{
+  "id": 421174005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.68873,-32.62591,-62.68873,-32.62591",
+    "geom:latitude":-32.62591,
+    "geom:longitude":-62.68873,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644 \u0641\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644 \u0648\u06cc\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u0412\u0456\u043b\u044c\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u723e\u7dad\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:dut_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:eng_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:epo_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644 \u0648\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:fre_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:ger_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc \u05d5\u05d9\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:ita_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30fb\u30d3\u30b8\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:oci_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644 \u0648\u06cc\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:spa_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:swe_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u0412\u0456\u043b\u043b\u044c"
+    ],
+    "name:wel_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u7dad\u723e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"C\u00f3rdoba",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3864331,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Bell Ville",
+    "ne:GN_POP":35105,
+    "ne:GTOPO30":123.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-32.60004,
+    "ne:LONGITUDE":-62.679957,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bell Ville",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-62.666667,
+    "ne:MAX_BBXMIN":-62.708333,
+    "ne:MAX_BBYMAX":-32.608333,
+    "ne:MAX_BBYMIN":-32.641667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":16.0,
+    "ne:MAX_PERMI":10.0,
+    "ne:MAX_POP10":24105,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-62.68652,
+    "ne:MEAN_BBYC":-32.626716,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-62.666667,
+    "ne:MIN_BBXMIN":-62.708333,
+    "ne:MIN_BBYMAX":-32.608333,
+    "ne:MIN_BBYMIN":-32.641667,
+    "ne:MIN_PERKM":16.0,
+    "ne:MIN_PERMI":10.0,
+    "ne:NAME":"Bell Ville",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bell Ville",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":35105,
+    "ne:POP_MIN":24105,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3864331,
+    "qs:gn_pop":35105,
+    "qs:name":"Bell Ville",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":313549,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466906,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-32.633333,
+    "wd:longitude":-62.683333,
+    "wd:wordcount":639,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864331,
+        "gp:id":466906,
+        "qs:id":313549,
+        "wd:id":"Q284308",
+        "wk:page":"Bell Ville"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009016,
+    "wof:geomhash":"dbc9e4bc82a24b8e9e29bf1557f6cff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":421174005,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421174005,
+    "wof:lastmodified":1527716231,
+    "wof:name":"Bell Ville",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:population":35105,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.68873,
+    -32.62591,
+    -62.68873,
+    -32.62591
+],
+  "geometry": {"coordinates":[-62.68873,-32.62591],"type":"Point"}
+}

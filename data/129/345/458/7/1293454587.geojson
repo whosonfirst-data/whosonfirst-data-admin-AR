@@ -1,0 +1,68 @@
+{
+  "id": 1293454587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29135,-51.34835,-70.29135,-51.34835",
+    "geom:latitude":-51.34835,
+    "geom:longitude":-70.29135,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Gobernador Mayer",
+    "gn:country_code":"AR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854978,
+    "gn:latitude":-51.34835,
+    "gn:longitude":-70.29135,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gobernador Mayer",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854978
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"72a7128e8893a46b2c3a7c70e4f2a518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1293454587,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1293454587,
+    "wof:lastmodified":1536833624,
+    "wof:name":"Gobernador Mayer",
+    "wof:parent_id":421200655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29135,
+    -51.34835,
+    -70.29135,
+    -51.34835
+],
+  "geometry": {"coordinates":[-70.29134999999999,-51.34835],"type":"Point"}
+}

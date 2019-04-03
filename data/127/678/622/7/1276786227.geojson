@@ -1,0 +1,69 @@
+{
+  "id": 1276786227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.17635,-31.75577,-60.17635,-31.75577",
+    "geom:latitude":-31.75577,
+    "geom:longitude":-60.17635,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30084.0",
+    "gn:asciiname":"Paso de la Arena",
+    "gn:country_code":"AR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841890,
+    "gn:latitude":-31.75577,
+    "gn:longitude":-60.17635,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso de la Arena",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841890,
+        "wk:page":"Paso_de_la_Arena%2C_Entre_R%C3%ADos"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"113427f457fae6d59c4179f9a0c79c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171467,
+            "locality_id":1276786227,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1276786227,
+    "wof:lastmodified":1537486316,
+    "wof:name":"Paso de la Arena",
+    "wof:parent_id":421171467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.17635,
+    -31.75577,
+    -60.17635,
+    -31.75577
+],
+  "geometry": {"coordinates":[-60.17635,-31.75577],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209276879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03912,-32.94069,-65.03912,-32.94069",
+    "geom:latitude":-32.94069,
+    "geom:longitude":-65.03912,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74028.0",
+    "gn:asciiname":"Villa del Carmen",
+    "gn:country_code":"AR",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832770,
+    "gn:latitude":-32.94069,
+    "gn:longitude":-65.03912,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa del Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832770,
+        "wk:page":"Villa_del_Carmen_%28San_Luis%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e909f4cd77c0fa5d93e7ca1306bed84a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209276879
+        }
+    ],
+    "wof:id":1209276879,
+    "wof:lastmodified":1537486303,
+    "wof:name":"Villa del Carmen",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03912,
+    -32.94069,
+    -65.03912,
+    -32.94069
+],
+  "geometry": {"coordinates":[-65.03912,-32.94069],"type":"Point"}
+}

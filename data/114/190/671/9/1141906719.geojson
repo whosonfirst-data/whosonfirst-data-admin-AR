@@ -1,0 +1,263 @@
+{
+  "id": 1141906719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.240022015,-38.9400146294,-69.240022015,-38.9400146294",
+    "geom:latitude":-38.940015,
+    "geom:longitude":-69.240022,
+    "iso:country":"AR",
+    "lbl:latitude":-38.940015,
+    "lbl:longitude":-69.240022,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09a4\u09cd\u09b0\u09be\u09b2 \u0995\u09cb"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u7279\u62c9\u723e\u79d1"
+    ],
+    "name:dan_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Cutral-Co"
+    ],
+    "name:eng_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:fin_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Cutral-C\u00f3"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c4\u03c1\u03b1\u03bb \u039a\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0a9f\u0acd\u0ab0\u0ab2 \u0a95\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0942\u091f\u0930\u093e\u0907\u0932 \u0915"
+    ],
+    "name:ind_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c8\u30e9\u30eb\u30fb\u30b3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0c9f\u0ccd\u0cb0\u0cb2\u0ccd \u0c95\u0ccb"
+    ],
+    "name:kor_x_preferred":[
+        "\uafb8\ub4dc\ub784 \uaf2c"
+    ],
+    "name:lav_x_preferred":[
+        "Kutrala Ko"
+    ],
+    "name:lit_x_preferred":[
+        "Kutral Ko"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u091f\u094d\u0930\u0932 \u0915\u0949"
+    ],
+    "name:may_x_preferred":[
+        "Cutral Co"
+    ],
+    "name:nob_x_preferred":[
+        "Cutral Co"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Cutral-C\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u0440\u0430\u043b\u044c-\u041a\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0d9a\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Cutral C\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Cutral-C\u00f3"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0b95\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c24\u0c4d\u0c30\u0c32\u0c4d \u0c15\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e31\u0e25\u0e40\u0e08\u0e2d\u0e23\u0e31\u0e25 \u0e41\u0e04\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Cutral Co"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0442\u0440\u0430\u043b\u044c-\u041a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Cutral Co"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Neuqu\u00e9n",
+    "ne:ADMIN1_COD":15,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3859552,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Cutral-Co",
+    "ne:GN_POP":47380,
+    "ne:GTOPO30":612.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-38.940015,
+    "ne:LONGITUDE":-69.240022,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Cutral Co",
+    "ne:MAX_AREAKM":30.0,
+    "ne:MAX_AREAMI":12.0,
+    "ne:MAX_BBXMAX":-69.15,
+    "ne:MAX_BBXMIN":-69.275,
+    "ne:MAX_BBYMAX":-38.916667,
+    "ne:MAX_BBYMIN":-38.958333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":39.0,
+    "ne:MAX_PERMI":24.0,
+    "ne:MAX_POP10":47814,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-69.213056,
+    "ne:MEAN_BBYC":-38.934537,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":30.0,
+    "ne:MIN_AREAMI":12.0,
+    "ne:MIN_BBXMAX":-69.15,
+    "ne:MIN_BBXMIN":-69.275,
+    "ne:MIN_BBYMAX":-38.916667,
+    "ne:MIN_BBYMIN":-38.958333,
+    "ne:MIN_PERKM":39.0,
+    "ne:MIN_PERMI":24.0,
+    "ne:NAME":"Cutral Co",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Cutral Co",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":47814,
+    "ne:POP_MIN":47380,
+    "ne:POP_OTHER":46039,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Salta",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-38.940015,
+    "reversegeo:longitude":-69.240022,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q970536"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130629,
+    "wof:geomhash":"8edb205bade339a503e0123353376680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169777,
+            "locality_id":1141906719,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1141906719,
+    "wof:lastmodified":1513889145,
+    "wof:name":"Cutral Co",
+    "wof:parent_id":421169777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24002201503788,
+    -38.94001462937115,
+    -69.24002201503788,
+    -38.94001462937115
+],
+  "geometry": {"coordinates":[-69.24002201503788,-38.94001462937115],"type":"Point"}
+}

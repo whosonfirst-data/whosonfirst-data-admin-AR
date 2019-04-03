@@ -1,0 +1,94 @@
+{
+  "id": 421175993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28364,-30.96017,-64.28364,-30.96017",
+    "geom:latitude":-30.96017,
+    "geom:longitude":-64.28364,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ascochinga"
+    ],
+    "name:eng_x_preferred":[
+        "Ascochinga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30b3\u30c1\u30f3\u30ac"
+    ],
+    "name:spa_x_preferred":[
+        "Ascochinga"
+    ],
+    "name:swe_x_preferred":[
+        "Ascochinga"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865352,
+    "qs:gn_pop":0,
+    "qs:name":"Ascochinga",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":107,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":107,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":385259,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":329945,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865352,
+        "gp:id":329945,
+        "qs:id":385259,
+        "wd:id":"Q5707982",
+        "wk:page":"Ascochinga"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009086,
+    "wof:geomhash":"f8e3dc36a0a9673e9f96d86ceafad20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421175993,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421175993,
+    "wof:lastmodified":1527716341,
+    "wof:name":"Ascochinga",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28364,
+    -30.96017,
+    -64.28364,
+    -30.96017
+],
+  "geometry": {"coordinates":[-64.28364000000001,-30.96017],"type":"Point"}
+}

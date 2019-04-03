@@ -1,0 +1,72 @@
+{
+  "id": 1310391007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.73673,-32.66181,-58.73673,-32.66181",
+    "geom:latitude":-32.66181,
+    "geom:longitude":-58.73673,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30056.0",
+    "gn:asciiname":"Aldea Santa Celia",
+    "gn:country_code":"AR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436428,
+    "gn:latitude":-32.66181,
+    "gn:longitude":-58.73673,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aldea Santa Celia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Cecilia",
+        "Aldea Santa Celia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436428
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0c6cb931f5a704b77ad72ee2cbec9f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718251,
+            "locality_id":1310391007,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1310391007,
+    "wof:lastmodified":1537584830,
+    "wof:name":"Aldea Santa Celia",
+    "wof:parent_id":1108718251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.73673,
+    -32.66181,
+    -58.73673,
+    -32.66181
+],
+  "geometry": {"coordinates":[-58.73673,-32.66181],"type":"Point"}
+}

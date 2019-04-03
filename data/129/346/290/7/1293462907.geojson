@@ -1,0 +1,72 @@
+{
+  "id": 1293462907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63125,-39.44086,-70.63125,-39.44086",
+    "geom:latitude":-39.44086,
+    "geom:longitude":-70.63125,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58021.0",
+    "gn:asciiname":"Fortin Primero de Mayo",
+    "gn:country_code":"AR",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855429,
+    "gn:latitude":-39.44086,
+    "gn:longitude":-70.63125,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fort\u00edn Primero de Mayo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort\u00edn 1 De Mayo",
+        "Fort\u00edn Primero de Mayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855429
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"76f6c26175690b5ccd2c6db86bb20648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718377,
+            "locality_id":1293462907,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1293462907,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Fortin Primero de Mayo",
+    "wof:parent_id":1108718377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63125,
+    -39.44086,
+    -70.63125,
+    -39.44086
+],
+  "geometry": {"coordinates":[-70.63124999999999,-39.44086],"type":"Point"}
+}

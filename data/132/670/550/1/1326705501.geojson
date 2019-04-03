@@ -1,0 +1,73 @@
+{
+  "id": 1326705501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2721,-33.61257,-65.2721,-33.61257",
+    "geom:latitude":-33.61257,
+    "geom:longitude":-65.2721,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74035.0",
+    "gn:asciiname":"Juan Jorba",
+    "gn:country_code":"AR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853426,
+    "gn:latitude":-33.61257,
+    "gn:longitude":-65.2721,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan Jorba",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J. Jorba",
+        "Juan Jorba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421203353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853426,
+        "wk:page":"Juan_Jorba"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"da1fdfb9f85069914f7f5ce84cb9b961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203353,
+            "locality_id":1326705501,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1326705501,
+    "wof:lastmodified":1537584869,
+    "wof:name":"Juan Jorba",
+    "wof:parent_id":421203353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2721,
+    -33.61257,
+    -65.2721,
+    -33.61257
+],
+  "geometry": {"coordinates":[-65.27209999999999,-33.61257],"type":"Point"}
+}

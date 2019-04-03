@@ -1,0 +1,68 @@
+{
+  "id": 1327036007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.14188,-43.48954,-66.14188,-43.48954",
+    "geom:latitude":-43.48954,
+    "geom:longitude":-66.14188,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26042.0",
+    "gn:asciiname":"Campamento Villegas",
+    "gn:country_code":"AR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863292,
+    "gn:latitude":-43.48954,
+    "gn:longitude":-66.14188,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Campamento Villegas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863292
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"378840ba2e88a50200e5834fe3763db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170131,
+            "locality_id":1327036007,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1327036007,
+    "wof:lastmodified":1536755223,
+    "wof:name":"Campamento Villegas",
+    "wof:parent_id":421170131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.14188,
+    -43.48954000000001,
+    -66.14188,
+    -43.48954000000001
+],
+  "geometry": {"coordinates":[-66.14188,-43.48954000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344017037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6357,-33.23987,-60.6357,-33.23987",
+    "geom:latitude":-33.23987,
+    "geom:longitude":-60.6357,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82084.0",
+    "gn:asciiname":"Albarellos",
+    "gn:country_code":"AR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866421,
+    "gn:latitude":-33.23987,
+    "gn:longitude":-60.6357,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Albarellos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866421
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8dcf26e5820d9ecf10aea4f4b3740a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":1344017037,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1344017037,
+    "wof:lastmodified":1536939199,
+    "wof:name":"Albarellos",
+    "wof:parent_id":421171509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6357,
+    -33.23987,
+    -60.6357,
+    -33.23987
+],
+  "geometry": {"coordinates":[-60.6357,-33.23987],"type":"Point"}
+}

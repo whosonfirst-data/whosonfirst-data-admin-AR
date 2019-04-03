@@ -1,0 +1,72 @@
+{
+  "id": 1242742281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6009,-31.66086,-60.6009,-31.66086",
+    "geom:latitude":-31.66086,
+    "geom:longitude":-60.6009,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82063.0",
+    "gn:asciiname":"Colastine Sur",
+    "gn:country_code":"AR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860881,
+    "gn:latitude":-31.66086,
+    "gn:longitude":-60.6009,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colastin\u00e9 Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colastin\u00e9",
+        "Colastin\u00e9 Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860881
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e39e74da965fa6cc812dc945d4a7a729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718453,
+            "locality_id":1242742281,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1242742281,
+    "wof:lastmodified":1537584892,
+    "wof:name":"Colastine Sur",
+    "wof:parent_id":1108718453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6009,
+    -31.66086,
+    -60.6009,
+    -31.66086
+],
+  "geometry": {"coordinates":[-60.6009,-31.66086],"type":"Point"}
+}

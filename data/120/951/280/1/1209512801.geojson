@@ -1,0 +1,62 @@
+{
+  "id": 1209512801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.97097,-28.76997,-58.97097,-28.76997",
+    "geom:latitude":-28.76997,
+    "geom:longitude":-58.97097,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18161.0",
+    "gn:asciiname":"Desmochado",
+    "gn:country_code":"AR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435079,
+    "gn:latitude":-28.76997,
+    "gn:longitude":-58.97097,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desmochado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435079
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c8039a15411543f37d61576d0c6fd022",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209512801
+        }
+    ],
+    "wof:id":1209512801,
+    "wof:lastmodified":1536284828,
+    "wof:name":"Desmochado",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.97097,
+    -28.76997,
+    -58.97097,
+    -28.76997
+],
+  "geometry": {"coordinates":[-58.97097,-28.76997],"type":"Point"}
+}

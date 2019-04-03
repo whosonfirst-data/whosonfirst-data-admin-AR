@@ -1,0 +1,74 @@
+{
+  "id": 1293018427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.82657,-35.23714,-60.82657,-35.23714",
+    "geom:latitude":-35.23714,
+    "geom:longitude":-60.82657,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6588.0",
+    "gn:asciiname":"Carlos Maria Naon",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862604,
+    "gn:latitude":-35.23714,
+    "gn:longitude":-60.82657,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Carlos Mar\u00eda Na\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C.M. Na\u00f3n",
+        "Carlos M. Na\u00f3n",
+        "Carlos Na\u00f3n",
+        "Carlos Mar\u00eda Na\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862604
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"53031ac845d97725ca4375a7820a1516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718041,
+            "locality_id":1293018427,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293018427,
+    "wof:lastmodified":1537584896,
+    "wof:name":"Carlos Maria Naon",
+    "wof:parent_id":1108718041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.82657,
+    -35.23714000000001,
+    -60.82657,
+    -35.23714000000001
+],
+  "geometry": {"coordinates":[-60.82657,-35.23714000000001],"type":"Point"}
+}

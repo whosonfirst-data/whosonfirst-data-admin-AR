@@ -1,0 +1,73 @@
+{
+  "id": 421171211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-65.448303,-24.7527545,-65.448303,-24.7527545",
+    "geom:latitude":-24.752755,
+    "geom:longitude":-65.448303,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Salta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":300,
+    "qs:photos_1k":61,
+    "qs:photos_9k":25,
+    "qs:photos_9r":14,
+    "qs:photos_all":5583,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1251790,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070836,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070836,
+        "qs:id":1251790
+    },
+    "wof:country":"AR",
+    "wof:created":1459008885,
+    "wof:geomhash":"07af5f0b1abeed2f234c17104cf444a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171211,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421171211,
+    "wof:lastmodified":1475852819,
+    "wof:name":"Salta",
+    "wof:parent_id":85668049,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.448303,
+    -24.7527545,
+    -65.448303,
+    -24.7527545
+],
+  "geometry": {"coordinates":[-65.448303,-24.7527545],"type":"Point"}
+}

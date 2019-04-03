@@ -1,0 +1,130 @@
+{
+  "id": 421180989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.414993,-34.666534,-58.414993,-34.666534",
+    "geom:latitude":-34.666534,
+    "geom:longitude":-58.414993,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u0646\u062a\u064a\u0646 \u0623\u0644\u0633\u064a\u0646\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0644\u0646\u062a\u06cc\u0646 \u0622\u0644\u0633\u06cc\u0646\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u043d\u0442\u044b\u043d-\u0410\u043b\u044c\u0441\u0456\u043d\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u502b\u5ef7\u963f\u723e\u897f\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:eng_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:fra_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:fre_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:ger_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ec\u30f3\u30c6\u30a3\u30f3\u30fb\u30a2\u30eb\u30b7\u30fc\u30ca"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u0644\u0646\u062a\u06cc\u0646 \u0622\u0644\u0633\u06cc\u0646\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
+    "name:sco_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:spa_x_preferred":[
+        "Valent\u00edn Alsina"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Alsina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d-\u0410\u043b\u044c\u0441\u0456\u043d\u0430"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Valent\u00edn Alsina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":129,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":471483,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468998,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":291,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421179647,
+        85668081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468998,
+        "qs:id":471483,
+        "wd:id":"Q2129610"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009278,
+    "wof:geomhash":"f385dc114abc14b897db4c568fdd5ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421179647,
+            "locality_id":421180989,
+            "region_id":85668015
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421179647,
+            "locality_id":421180989,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":421180989,
+    "wof:lastmodified":1553816370,
+    "wof:name":"Valent\u00edn Alsina",
+    "wof:parent_id":421179647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.414993,
+    -34.666534,
+    -58.414993,
+    -34.666534
+],
+  "geometry": {"coordinates":[-58.414993,-34.666534],"type":"Point"}
+}

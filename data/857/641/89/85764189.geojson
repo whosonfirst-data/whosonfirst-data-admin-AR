@@ -1,0 +1,191 @@
+{
+  "id": 85764189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000246,
+    "geom:area_square_m":2499214.562965,
+    "geom:bbox":"-58.5131835938,-34.6558039051,-58.4884643555,-34.6408474987",
+    "geom:latitude":-34.649461,
+    "geom:longitude":-58.502438,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.65,
+    "gn:longitude":-58.5,
+    "iso:country":"AR",
+    "lbl:latitude":-34.647247,
+    "lbl:longitude":-58.505896,
+    "mps:latitude":-34.650504,
+    "mps:longitude":-58.503909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"???",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0633\u064a\u0644\u0648 \u062a\u0648\u0631\u0643\u0648\u0627\u062a\u0648 \u062f\u064a \u0627\u0644\u0641\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:deu_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:epo_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:fra_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:glg_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e1\u05dc\u05d5 \u05d8\u05d5\u05e8\u05e7\u05d5\u05d0\u05d8\u05d5"
+    ],
+    "name:ido_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:ita_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10e1\u10d4\u10da\u10dd \u10e2\u10dd\u10e0\u10d9\u10e3\u10d0\u10e2\u10dd \u10d3\u10d4 \u10d0\u10da\u10d5\u10d4\u10d0\u10e0\u10d8"
+    ],
+    "name:oci_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:por_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:que_x_preferred":[
+        "Marcelo de Alvear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0435\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:swe_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0435\u043b\u043e \u0422\u043e\u0440\u043a\u0443\u0430\u0442\u043e \u0434\u0435 \u0410\u043b\u044c\u0432\u0435\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:yor_x_preferred":[
+        "Marcelo Torcuato de Alvear"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u585e\u6d1b\u00b7\u6258\u5c14\u5938\u6258\u00b7\u5fb7\u00b7\u963f\u5c14\u7ef4\u4e9a\u5c14"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3435910,
+    "qs:gn_nam_loc":"Buenos Aires, Ciudad de Buenos Aires, AR",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Marcelo Torcuato de Alvear",
+    "qs:local_max":20760,
+    "qs:local_sum":172164,
+    "qs:localhoods":70,
+    "qs:name":"Marcelo Torcuato de Alvear",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:name_adm2":"Ciudad de Buenos Aires",
+    "qs:name_local":"Buenos Aires",
+    "qs:photo_max":88,
+    "qs:photo_sum":125,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344681,
+    "qs:woe_adm2":20070753,
+    "qs:woe_lau":0,
+    "qs:woe_local":468739,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3430872,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marcelo Torcuato de Alvear",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Ciudad de Buenos Aires",
+    "qs_pg:photos":199,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":199,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":216605,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":331456,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":409,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        421174285,
+        1109371867,
+        85668081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430872,
+        "gp:id":331456,
+        "qs:id":216605,
+        "qs_pg:id":216605,
+        "wd:id":"Q363586"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"da284058fb485fc127f65e4fcdc3668a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371867,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":85764189,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":85764189,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379086,
+    "wof:name":"Marcelo Torcuato de Alvear",
+    "wof:parent_id":1109371867,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126067439
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.51318359380002,
+    -34.65580390509991,
+    -58.48846435547506,
+    -34.64084749867811
+],
+  "geometry": {"coordinates":[[[-58.50423608229721,-34.64224704780004],[-58.5033726671889,-34.64259686549805],[-58.50226322923265,-34.64232716391822],[-58.50219726560005,-34.64256770044883],[-58.50104589250691,-34.64676618494987],[-58.49670410157506,-34.64676618494987],[-58.49121093749989,-34.64676618494987],[-58.48846435547506,-34.64676618494987],[-58.48846435547506,-34.64794634658122],[-58.49121093749989,-34.6512851373998],[-58.49121093749989,-34.65128519899994],[-58.49121093749989,-34.65580384349994],[-58.49121093749989,-34.65580390509991],[-58.49670410160002,-34.65580390509991],[-58.50219726560005,-34.65580390509991],[-58.50769042969989,-34.65580390509991],[-58.50769042969989,-34.65440431185932],[-58.50897336322021,-34.65284469273782],[-58.51153474249361,-34.65328950843943],[-58.51318354310092,-34.65128519899994],[-58.51318359380002,-34.65128519899994],[-58.51318359378334,-34.6512851373998],[-58.51318359378322,-34.64676624649992],[-58.51318359378334,-34.64676618494987],[-58.5131835937874,-34.64224704780004],[-58.51318359377507,-34.64224698620007],[-58.50884182818197,-34.64224698620007],[-58.50769042969989,-34.64084749867811],[-58.50423608229721,-34.64224704780004]]],"type":"Polygon"}
+}

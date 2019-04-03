@@ -1,0 +1,111 @@
+{
+  "id": 421204121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4737,-34.52947,-58.4737,-34.52947",
+    "geom:latitude":-34.52947,
+    "geom:longitude":-58.4737,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057d\u0565\u0576\u057f\u0565 \u053c\u0578\u057a\u0565\u057d"
+    ],
+    "name:lit_x_preferred":[
+        "Visente Lopesas"
+    ],
+    "name:nld_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:pol_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:por_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435-\u041b\u043e\u043f\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:spa_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u0435\u043d\u0442\u0435 \u041b\u043e\u043f\u0435\u0437"
+    ],
+    "name:unk_x_variant":[
+        "V. L\u00f3pez"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427505,
+    "qs:gn_pop":0,
+    "qs:name":"Olivos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":396,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":396,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238252,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465977,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427505,
+        "gp:id":465977,
+        "qs:id":238252,
+        "wd:id":"Q2917260",
+        "wk:page":"Vicente L\u00f3pez, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010174,
+    "wof:geomhash":"172790d0585f5d138ae1a748976ee02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718133,
+            "locality_id":421204121,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204121,
+    "wof:lastmodified":1501266399,
+    "wof:name":"Olivos",
+    "wof:parent_id":1108718133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4737,
+    -34.52947,
+    -58.4737,
+    -34.52947
+],
+  "geometry": {"coordinates":[-58.4737,-34.52947],"type":"Point"}
+}

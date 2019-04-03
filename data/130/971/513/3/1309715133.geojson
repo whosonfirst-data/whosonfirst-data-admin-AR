@@ -1,0 +1,72 @@
+{
+  "id": 1309715133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4938,-28.17971,-65.4938,-28.17971",
+    "geom:latitude":-28.17971,
+    "geom:longitude":-65.4938,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10098.0",
+    "gn:asciiname":"Alijilan",
+    "gn:country_code":"AR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866257,
+    "gn:latitude":-28.17971,
+    "gn:longitude":-65.4938,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alijil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alijil\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866257,
+        "wk:page":"Alijil%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2176b3225b12ce43bb45b70b24848439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718159,
+            "locality_id":1309715133,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1309715133,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Alijilan",
+    "wof:parent_id":1108718159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4938,
+    -28.17971,
+    -65.4938,
+    -28.17971
+],
+  "geometry": {"coordinates":[-65.49379999999999,-28.17971],"type":"Point"}
+}

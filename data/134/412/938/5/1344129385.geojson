@@ -1,0 +1,73 @@
+{
+  "id": 1344129385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.28333,-39.55,-67.28333,-39.55",
+    "geom:latitude":-39.55,
+    "geom:longitude":-67.28333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62014.0",
+    "gn:asciiname":"Coitaco",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860903,
+    "gn:latitude":-39.55,
+    "gn:longitude":-67.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coitaco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caitaco",
+        "Coitaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860903
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7183579401d6aed2a4c802d8a151210c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718387,
+            "locality_id":1344129385,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1344129385,
+    "wof:lastmodified":1537584892,
+    "wof:name":"Coitaco",
+    "wof:parent_id":1108718387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.28333,
+    -39.55,
+    -67.28333,
+    -39.55
+],
+  "geometry": {"coordinates":[-67.28333000000001,-39.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276770507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.95,-27.86667,-59.95,-27.86667",
+    "geom:latitude":-27.86667,
+    "geom:longitude":-59.95,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22161.0",
+    "gn:asciiname":"La Sabana",
+    "gn:country_code":"AR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3431910,
+    "gn:latitude":-27.86667,
+    "gn:longitude":-59.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La S\u00e1bana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La S\u00e1bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431910,
+        "wk:page":"La_Sabana"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1fbecfb59a8ca30bd8d0ffb421a13e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718229,
+            "locality_id":1276770507,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1276770507,
+    "wof:lastmodified":1537584822,
+    "wof:name":"La Sabana",
+    "wof:parent_id":1108718229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.95,
+    -27.86667000000001,
+    -59.95,
+    -27.86667000000001
+],
+  "geometry": {"coordinates":[-59.95,-27.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293603235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.72768,-34.77502,-58.72768,-34.77502",
+    "geom:latitude":-34.77502,
+    "geom:longitude":-58.72768,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6427.0",
+    "gn:asciiname":"Veinte de Junio",
+    "gn:country_code":"AR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146335,
+    "gn:latitude":-34.77502,
+    "gn:longitude":-58.72768,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Veinte de Junio",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Veinte de Junio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146335
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"357b50ff6b1b64e4fc6213668ecfd688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717991,
+            "locality_id":1293603235,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293603235,
+    "wof:lastmodified":1537584907,
+    "wof:name":"Veinte de Junio",
+    "wof:parent_id":1108717991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.72768000000001,
+    -34.77502,
+    -58.72768000000001,
+    -34.77502
+],
+  "geometry": {"coordinates":[-58.72768000000001,-34.77502],"type":"Point"}
+}

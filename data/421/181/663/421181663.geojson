@@ -1,0 +1,105 @@
+{
+  "id": 421181663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-59.867248,-37.6455675,-59.867248,-37.6455675",
+    "geom:latitude":-37.645567,
+    "geom:longitude":-59.867248,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u064a\u062a\u0648 \u062e\u0648\u0627\u0631\u064a\u0632"
+    ],
+    "name:arg_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:ast_x_preferred":[
+        "Benito Pablo Ju\u00e1rez Garc\u00eda"
+    ],
+    "name:bre_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0438\u0442\u043e \u0425\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Benito Pablo Ju\u00e1rez Garc\u00eda"
+    ],
+    "name:ces_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:dan_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:deu_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "name:epo_x_preferred":[
+        "Benito Ju\u00e1rez"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Benito Ju\u00e1rez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":507439,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070988,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2652,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070988,
+        "qs:id":507439,
+        "wd:id":"Q182276"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009303,
+    "wof:geomhash":"dd06736d64caf9e09bb1959f28ea17a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181663,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421181663,
+    "wof:lastmodified":1527716331,
+    "wof:name":"Benito Ju\u00e1rez",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.867248,
+    -37.6455675,
+    -59.867248,
+    -37.6455675
+],
+  "geometry": {"coordinates":[-59.867248,-37.6455675],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 421196361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.32148,-32.66625,-58.32148,-32.66625",
+    "geom:latitude":-32.66625,
+    "geom:longitude":-58.32148,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Colonia El\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Colonia El\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia El\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia El\u00eda"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435331,
+    "qs:gn_pop":1620,
+    "qs:name":"Colonia El\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1212337,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467587,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421198481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435331,
+        "gp:id":467587,
+        "qs:id":1212337,
+        "wd:id":"Q385453"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009879,
+    "wof:geomhash":"43270bac00dfde29cb5eba7c42cc7d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198481,
+            "locality_id":421196361,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421196361,
+    "wof:lastmodified":1513889129,
+    "wof:name":"Colonia El\u00eda",
+    "wof:parent_id":421198481,
+    "wof:placetype":"locality",
+    "wof:population":1620,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.32148,
+    -32.66625,
+    -58.32148,
+    -32.66625
+],
+  "geometry": {"coordinates":[-58.32148,-32.66625],"type":"Point"}
+}

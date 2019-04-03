@@ -1,0 +1,68 @@
+{
+  "id": 1343820493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48333,-32.06667,-65.48333,-32.06667",
+    "geom:latitude":-32.06667,
+    "geom:longitude":-65.48333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74049.0",
+    "gn:asciiname":"Las Canadas",
+    "gn:country_code":"AR",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848666,
+    "gn:latitude":-32.06667,
+    "gn:longitude":-65.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Ca\u00f1adas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421189001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848666
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f15b56c320f9ff3d12b0145656811863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189001,
+            "locality_id":1343820493,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1343820493,
+    "wof:lastmodified":1536724809,
+    "wof:name":"Las Canadas",
+    "wof:parent_id":421189001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48333000000001,
+    -32.06667,
+    -65.48333000000001,
+    -32.06667
+],
+  "geometry": {"coordinates":[-65.48333000000001,-32.06667],"type":"Point"}
+}

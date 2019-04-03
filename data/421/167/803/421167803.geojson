@@ -1,0 +1,213 @@
+{
+  "id": 421167803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.59189,-30.78913,-60.59189,-30.78913",
+    "geom:latitude":-30.78913,
+    "geom:longitude":-60.59189,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Justo"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u65af\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "San Justo"
+    ],
+    "name:eng_x_preferred":[
+        "San Justo"
+    ],
+    "name:fra_x_preferred":[
+        "San Justo"
+    ],
+    "name:fre_x_preferred":[
+        "San Justo"
+    ],
+    "name:nld_x_preferred":[
+        "San Justo"
+    ],
+    "name:spa_x_preferred":[
+        "San Justo"
+    ],
+    "name:swe_x_preferred":[
+        "San Justo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0441\u0442\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u65af\u6258"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Santa Fe",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-30.78289,
+    "ne:LONGITUDE":-60.583289,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Justo",
+    "ne:MAX_AREAKM":7.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":-60.575,
+    "ne:MAX_BBXMIN":-60.608333,
+    "ne:MAX_BBYMAX":-30.775,
+    "ne:MAX_BBYMIN":-30.808333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":9.0,
+    "ne:MAX_POP10":9607,
+    "ne:MAX_POP20":9607,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.591204,
+    "ne:MEAN_BBYC":-30.791204,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":7.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":-60.575,
+    "ne:MIN_BBXMIN":-60.608333,
+    "ne:MIN_BBYMAX":-30.775,
+    "ne:MIN_BBYMIN":-30.808333,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":9.0,
+    "ne:NAME":"San Justo",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Justo",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":9607,
+    "ne:POP_MIN":9607,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837124,
+    "qs:gn_pop":21809,
+    "qs:name":"San Justo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150397,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332515,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837124,
+        "gp:id":332515,
+        "qs:id":150397,
+        "wd:id":"Q2134760",
+        "wk:page":"San Justo, Santa Fe"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008744,
+    "wof:geomhash":"91d38d14b1c6815ce6ca2526acc8b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":421167803,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421167803,
+    "wof:lastmodified":1534379079,
+    "wof:name":"San Justo",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:population":21809,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908117
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.59189,
+    -30.78913,
+    -60.59189,
+    -30.78913
+],
+  "geometry": {"coordinates":[-60.59189,-30.78913],"type":"Point"}
+}

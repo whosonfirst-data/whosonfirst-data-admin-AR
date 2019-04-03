@@ -1,0 +1,72 @@
+{
+  "id": 1309777583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.3618,-22.4743,-62.3618,-22.4743",
+    "geom:latitude":-22.4743,
+    "geom:longitude":-62.3618,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"Puerto La Paz",
+    "gn:country_code":"AR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840094,
+    "gn:latitude":-22.4743,
+    "gn:longitude":-62.3618,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto La Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Paz",
+        "Puerto La Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840094
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"36eac791bde462cbc2815719b98ef694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1309777583,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1309777583,
+    "wof:lastmodified":1537584846,
+    "wof:name":"Puerto La Paz",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.3618,
+    -22.4743,
+    -62.3618,
+    -22.4743
+],
+  "geometry": {"coordinates":[-62.3618,-22.4743],"type":"Point"}
+}

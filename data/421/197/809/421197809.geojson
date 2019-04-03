@@ -1,0 +1,91 @@
+{
+  "id": 421197809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.14936,-33.25407,-68.14936,-33.25407",
+    "geom:latitude":-33.25407,
+    "geom:longitude":-68.14936,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:unk_x_variant":[
+        "Villa Santa Rosa"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3835995,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150392,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332914,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835995,
+        "gp:id":332914,
+        "qs:id":150392,
+        "wd:id":"Q7419859",
+        "wk:page":"Santa Rosa, Mendoza"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009925,
+    "wof:geomhash":"96008a786dd2df816c1466c1dcbca22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718363,
+            "locality_id":421197809,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421197809,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108718363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.14936,
+    -33.25407,
+    -68.14936,
+    -33.25407
+],
+  "geometry": {"coordinates":[-68.14936,-33.25407],"type":"Point"}
+}

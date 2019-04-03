@@ -1,0 +1,68 @@
+{
+  "id": 1310164145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.70653,-27.99989,-63.70653,-27.99989",
+    "geom:latitude":-27.99989,
+    "geom:longitude":-63.70653,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86182.0",
+    "gn:asciiname":"El Empachado",
+    "gn:country_code":"AR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858091,
+    "gn:latitude":-27.99989,
+    "gn:longitude":-63.70653,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Empachado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858091
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"21f79a6346962aa00fd8a47616aacf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718515,
+            "locality_id":1310164145,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1310164145,
+    "wof:lastmodified":1536912504,
+    "wof:name":"El Empachado",
+    "wof:parent_id":1108718515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.70653000000001,
+    -27.99989,
+    -63.70653000000001,
+    -27.99989
+],
+  "geometry": {"coordinates":[-63.70653000000001,-27.99989],"type":"Point"}
+}

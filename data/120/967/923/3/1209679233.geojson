@@ -1,0 +1,66 @@
+{
+  "id": 1209679233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.64531,-25.81214,-64.64531,-25.81214",
+    "geom:latitude":-25.81214,
+    "geom:longitude":-64.64531,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66140.0",
+    "gn:asciiname":"El Bordo",
+    "gn:country_code":"AR",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858748,
+    "gn:latitude":-25.81214,
+    "gn:longitude":-64.64531,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"El Bordo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Recreo",
+        "El Bordo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858748
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9bea529a44122822d26fb7838dbbf55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209679233
+        }
+    ],
+    "wof:id":1209679233,
+    "wof:lastmodified":1537584884,
+    "wof:name":"El Bordo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.64531,
+    -25.81214,
+    -64.64531,
+    -25.81214
+],
+  "geometry": {"coordinates":[-64.64530999999999,-25.81214],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260288663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.33773,-34.81712,-62.33773,-34.81712",
+    "geom:latitude":-34.81712,
+    "geom:longitude":-62.33773,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6277.0",
+    "gn:asciiname":"Eduardo Costa",
+    "gn:country_code":"AR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859035,
+    "gn:latitude":-34.81712,
+    "gn:longitude":-62.33773,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eduardo Costa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "E. Costa",
+        "Eduardo Costa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859035
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"58ecb99d0e44d15878073f1dcb608694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717937,
+            "locality_id":1260288663,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1260288663,
+    "wof:lastmodified":1537584884,
+    "wof:name":"Eduardo Costa",
+    "wof:parent_id":1108717937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.33773000000001,
+    -34.81712,
+    -62.33773000000001,
+    -34.81712
+],
+  "geometry": {"coordinates":[-62.33773000000001,-34.81712],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 421181419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.11396,-34.1592,-59.11396,-34.1592",
+    "geom:latitude":-34.1592,
+    "geom:longitude":-59.11396,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:por_x_preferred":[
+        "Escalada"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3434132,
+    "qs:gn_pop":0,
+    "qs:name":"Escalada",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":490089,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465350,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434132,
+        "gp:id":465350,
+        "qs:id":490089,
+        "wd:id":"Q10274246"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009295,
+    "wof:geomhash":"a16628cd2aeb3d84727e820df1f9e59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718139,
+            "locality_id":421181419,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421181419,
+    "wof:lastmodified":1527716327,
+    "wof:name":"Escalada",
+    "wof:parent_id":1108718139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.11396,
+    -34.1592,
+    -59.11396,
+    -34.1592
+],
+  "geometry": {"coordinates":[-59.11396,-34.1592],"type":"Point"}
+}

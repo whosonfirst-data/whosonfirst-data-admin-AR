@@ -1,0 +1,72 @@
+{
+  "id": 1293657553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22231,-26.88605,-65.22231,-26.88605",
+    "geom:latitude":-26.88605,
+    "geom:longitude":-65.22231,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90084.0",
+    "gn:asciiname":"Gobernador Nougues",
+    "gn:country_code":"AR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854973,
+    "gn:latitude":-26.88605,
+    "gn:longitude":-65.22231,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gobernador Nougues",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gobernador Niniqu\u00e9s",
+        "Gobernador Nougues"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854973
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ab492a4fa4102c66aebdba450b91b79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718529,
+            "locality_id":1293657553,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1293657553,
+    "wof:lastmodified":1537584874,
+    "wof:name":"Gobernador Nougues",
+    "wof:parent_id":1108718529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22231,
+    -26.88605,
+    -65.22231,
+    -26.88605
+],
+  "geometry": {"coordinates":[-65.22230999999999,-26.88605],"type":"Point"}
+}

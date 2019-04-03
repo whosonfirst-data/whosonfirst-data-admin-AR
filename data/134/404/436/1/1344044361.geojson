@@ -1,0 +1,72 @@
+{
+  "id": 1344044361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55201,-31.11273,-66.55201,-31.11273",
+    "geom:latitude":-31.11273,
+    "geom:longitude":-66.55201,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46112.0",
+    "gn:asciiname":"Villa Casana",
+    "gn:country_code":"AR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832787,
+    "gn:latitude":-31.11273,
+    "gn:longitude":-66.55201,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Casana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casana",
+        "Villa Casana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832787
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a3718ac43947415d22cf6fc4d1926c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718347,
+            "locality_id":1344044361,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1344044361,
+    "wof:lastmodified":1537584833,
+    "wof:name":"Villa Casana",
+    "wof:parent_id":1108718347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55201,
+    -31.11273,
+    -66.55201,
+    -31.11273
+],
+  "geometry": {"coordinates":[-66.55201,-31.11273],"type":"Point"}
+}

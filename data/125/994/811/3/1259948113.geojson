@@ -1,0 +1,68 @@
+{
+  "id": 1259948113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.27864,-26.59308,-65.27864,-26.59308",
+    "geom:latitude":-26.59308,
+    "geom:longitude":-65.27864,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90112.0",
+    "gn:asciiname":"Tapia",
+    "gn:country_code":"AR",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834633,
+    "gn:latitude":-26.59308,
+    "gn:longitude":-65.27864,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tapia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834633
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2181a1e92940f3291ade836d80146402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718531,
+            "locality_id":1259948113,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1259948113,
+    "wof:lastmodified":1536686193,
+    "wof:name":"Tapia",
+    "wof:parent_id":1108718531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.27864,
+    -26.59308,
+    -65.27864,
+    -26.59308
+],
+  "geometry": {"coordinates":[-65.27864,-26.59308],"type":"Point"}
+}

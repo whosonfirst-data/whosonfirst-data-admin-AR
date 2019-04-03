@@ -1,0 +1,68 @@
+{
+  "id": 1243147451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48161,-32.85532,-65.48161,-32.85532",
+    "geom:latitude":-32.85532,
+    "geom:longitude":-65.48161,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74028.0",
+    "gn:asciiname":"San Felipe",
+    "gn:country_code":"AR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837731,
+    "gn:latitude":-32.85532,
+    "gn:longitude":-65.48161,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Felipe",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837731
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4cf3174b6bd8fba35ac9bf38f64319c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718441,
+            "locality_id":1243147451,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1243147451,
+    "wof:lastmodified":1536739595,
+    "wof:name":"San Felipe",
+    "wof:parent_id":1108718441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48161,
+    -32.85532,
+    -65.48161,
+    -32.85532
+],
+  "geometry": {"coordinates":[-65.48161,-32.85532],"type":"Point"}
+}

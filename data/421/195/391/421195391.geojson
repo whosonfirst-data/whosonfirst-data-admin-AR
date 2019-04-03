@@ -1,0 +1,103 @@
+{
+  "id": 421195391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15444,-33.65059,-69.15444,-33.65059",
+    "geom:latitude":-33.65059,
+    "geom:longitude":-69.15444,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Departamento Tunuy\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de Tunuy\u00e1n"
+    ],
+    "name:hun_x_preferred":[
+        "Tunuy\u00e1n megye"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di Tunuy\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Tunuy\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Tunuy\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Tunuy\u00e1n Depairtment"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento Tunuy\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u52aa\u63da\u7e23"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832512,
+    "qs:gn_pop":0,
+    "qs:name":"Vista Flores",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150379,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467964,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832512,
+        "gp:id":467964,
+        "qs:id":150379
+    },
+    "wof:country":"AR",
+    "wof:created":1459009842,
+    "wof:geomhash":"3ef8cb2779c0cd1bbe0bc83407f90746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171485,
+            "locality_id":421195391,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421195391,
+    "wof:lastmodified":1499924982,
+    "wof:name":"Vista Flores",
+    "wof:parent_id":421171485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15444,
+    -33.65059,
+    -69.15444,
+    -33.65059
+],
+  "geometry": {"coordinates":[-69.15443999999999,-33.65059],"type":"Point"}
+}

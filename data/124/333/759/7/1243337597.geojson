@@ -1,0 +1,68 @@
+{
+  "id": 1243337597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.7628,-31.26738,-60.7628,-31.26738",
+    "geom:latitude":-31.26738,
+    "geom:longitude":-60.7628,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82063.0",
+    "gn:asciiname":"Nelson",
+    "gn:country_code":"AR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843135,
+    "gn:latitude":-31.26738,
+    "gn:longitude":-60.7628,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nelson",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843135
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a9f26a623a7dbbb4cddc406a3c7ace51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718453,
+            "locality_id":1243337597,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243337597,
+    "wof:lastmodified":1536962429,
+    "wof:name":"Nelson",
+    "wof:parent_id":1108718453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.7628,
+    -31.26738,
+    -60.7628,
+    -31.26738
+],
+  "geometry": {"coordinates":[-60.7628,-31.26738],"type":"Point"}
+}

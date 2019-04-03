@@ -1,0 +1,69 @@
+{
+  "id": 1259851051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56686,-24.8719,-65.56686,-24.8719",
+    "geom:latitude":-24.8719,
+    "geom:longitude":-65.56686,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66147.0",
+    "gn:asciiname":"La Silleta",
+    "gn:country_code":"AR",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848299,
+    "gn:latitude":-24.8719,
+    "gn:longitude":-65.56686,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Silleta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421180301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848299,
+        "wk:page":"La_Silleta"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c4b4d1f30ee73dcadb40518bdd7633e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180301,
+            "locality_id":1259851051,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1259851051,
+    "wof:lastmodified":1537486326,
+    "wof:name":"La Silleta",
+    "wof:parent_id":421180301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56685999999999,
+    -24.8719,
+    -65.56685999999999,
+    -24.8719
+],
+  "geometry": {"coordinates":[-65.56685999999999,-24.8719],"type":"Point"}
+}

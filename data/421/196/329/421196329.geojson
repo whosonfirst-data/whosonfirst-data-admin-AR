@@ -1,0 +1,112 @@
+{
+  "id": 421196329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.89324,-32.68573,-58.89324,-32.68573",
+    "geom:latitude":-32.68573,
+    "geom:longitude":-58.89324,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:ceb_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:dut_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:eng_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:fin_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:nld_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:por_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:spa_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:swe_x_preferred":[
+        "Urdinarrain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0434\u0456\u043d\u0430\u0440\u0440\u0430\u0439\u043d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427582,
+    "qs:gn_pop":7992,
+    "qs:name":"Urdinarrain",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":261,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":261,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1044592,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467069,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427582,
+        "gp:id":467069,
+        "qs:id":1044592,
+        "wd:id":"Q2032321",
+        "wk:page":"Urdinarrain"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009878,
+    "wof:geomhash":"6e6007e8b87f73ce4d5f47f92431229c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718251,
+            "locality_id":421196329,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421196329,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Urdinarrain",
+    "wof:parent_id":1108718251,
+    "wof:placetype":"locality",
+    "wof:population":7992,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.89324,
+    -32.68573,
+    -58.89324,
+    -32.68573
+],
+  "geometry": {"coordinates":[-58.89324,-32.68573],"type":"Point"}
+}

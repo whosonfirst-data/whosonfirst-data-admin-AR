@@ -1,0 +1,105 @@
+{
+  "id": 421185363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.29678,-32.66174,-62.29678,-32.66174",
+    "geom:latitude":-32.66174,
+    "geom:longitude":-62.29678,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Leones"
+    ],
+    "name:eng_x_preferred":[
+        "Leones"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05e0\u05e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30aa\u30cd\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Leones"
+    ],
+    "name:spa_x_preferred":[
+        "Leones"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Per\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3846991,
+    "qs:gn_pop":9971,
+    "qs:name":"Leones",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":893264,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467296,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846991,
+        "gp:id":467296,
+        "qs:id":893264,
+        "wd:id":"Q4907288"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009441,
+    "wof:geomhash":"d6e7a499775fec7bbe770831f0b71a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":421185363,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421185363,
+    "wof:lastmodified":1553816375,
+    "wof:name":"Leones",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:population":9971,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.29678,
+    -32.66174,
+    -62.29678,
+    -32.66174
+],
+  "geometry": {"coordinates":[-62.29678,-32.66174],"type":"Point"}
+}

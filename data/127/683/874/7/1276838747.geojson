@@ -1,0 +1,68 @@
+{
+  "id": 1276838747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76667,-28.05,-64.76667,-28.05",
+    "geom:latitude":-28.05,
+    "geom:longitude":-64.76667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86084.0",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"AR",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836641,
+    "gn:latitude":-28.05,
+    "gn:longitude":-64.76667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836641
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"291b992ef78945656d6b398096d95f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718485,
+            "locality_id":1276838747,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1276838747,
+    "wof:lastmodified":1537093035,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108718485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76666999999999,
+    -28.05,
+    -64.76666999999999,
+    -28.05
+],
+  "geometry": {"coordinates":[-64.76666999999999,-28.05],"type":"Point"}
+}

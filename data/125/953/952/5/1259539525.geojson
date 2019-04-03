@@ -1,0 +1,68 @@
+{
+  "id": 1259539525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.40041,-27.55391,-65.40041,-27.55391",
+    "geom:latitude":-27.55391,
+    "geom:longitude":-65.40041,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90035.0",
+    "gn:asciiname":"Campo Grande",
+    "gn:country_code":"AR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863126,
+    "gn:latitude":-27.55391,
+    "gn:longitude":-65.40041,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Campo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863126
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"417cb012aa6edf3e5a74f0838c4441e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718521,
+            "locality_id":1259539525,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1259539525,
+    "wof:lastmodified":1536778812,
+    "wof:name":"Campo Grande",
+    "wof:parent_id":1108718521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.40041,
+    -27.55391,
+    -65.40041,
+    -27.55391
+],
+  "geometry": {"coordinates":[-65.40040999999999,-27.55391],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344174653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.53884,-34.54948,-58.53884,-34.54948",
+    "geom:latitude":-34.54948,
+    "geom:longitude":-58.53884,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6371.0",
+    "gn:asciiname":"Villa Marques de Aguado",
+    "gn:country_code":"AR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11151166,
+    "gn:latitude":-34.54948,
+    "gn:longitude":-58.53884,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Villa Marqu\u00e9s de Aguado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Marqu\u00e9s de Aguado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11151166
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c91a3518375f9e7f2960b133e7e877ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "locality_id":1344174653,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1344174653,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Villa Marques de Aguado",
+    "wof:parent_id":1108717969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.53884,
+    -34.54948,
+    -58.53884,
+    -34.54948
+],
+  "geometry": {"coordinates":[-58.53884,-34.54948],"type":"Point"}
+}

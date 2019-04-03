@@ -1,0 +1,68 @@
+{
+  "id": 1226708965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.46298,-30.19905,-60.46298,-30.19905",
+    "geom:latitude":-30.19905,
+    "geom:longitude":-60.46298,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82112.0",
+    "gn:asciiname":"La Blanca",
+    "gn:country_code":"AR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852541,
+    "gn:latitude":-30.19905,
+    "gn:longitude":-60.46298,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852541
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"76123261912454b04ae4509705888cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":1226708965,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226708965,
+    "wof:lastmodified":1536769228,
+    "wof:name":"La Blanca",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.46298,
+    -30.19905,
+    -60.46298,
+    -30.19905
+],
+  "geometry": {"coordinates":[-60.46298,-30.19905],"type":"Point"}
+}

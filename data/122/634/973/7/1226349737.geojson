@@ -1,0 +1,69 @@
+{
+  "id": 1226349737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.47734,-27.42228,-61.47734,-27.42228",
+    "geom:latitude":-27.42228,
+    "geom:longitude":-61.47734,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22036.0",
+    "gn:asciiname":"General Capdevila",
+    "gn:country_code":"AR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855123,
+    "gn:latitude":-27.42228,
+    "gn:longitude":-61.47734,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"General Capdevila",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855123,
+        "wk:page":"General_Capdevila"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4525101ef4a0910c3078aa7520a04372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718195,
+            "locality_id":1226349737,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1226349737,
+    "wof:lastmodified":1537486334,
+    "wof:name":"General Capdevila",
+    "wof:parent_id":1108718195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.47734000000001,
+    -27.42228,
+    -61.47734000000001,
+    -27.42228
+],
+  "geometry": {"coordinates":[-61.47734000000001,-27.42228],"type":"Point"}
+}

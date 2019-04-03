@@ -1,0 +1,68 @@
+{
+  "id": 1293082175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.40102,-37.44492,-64.40102,-37.44492",
+    "geom:latitude":-37.44492,
+    "geom:longitude":-64.40102,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42154.0",
+    "gn:asciiname":"Gamay",
+    "gn:country_code":"AR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855241,
+    "gn:latitude":-37.44492,
+    "gn:longitude":-64.40102,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gamay",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855241
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"875ba98f6beacd2d2a27ffc7dba19045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718319,
+            "locality_id":1293082175,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1293082175,
+    "wof:lastmodified":1536873502,
+    "wof:name":"Gamay",
+    "wof:parent_id":1108718319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.40101999999999,
+    -37.44492,
+    -64.40101999999999,
+    -37.44492
+],
+  "geometry": {"coordinates":[-64.40101999999999,-37.44492],"type":"Point"}
+}

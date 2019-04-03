@@ -1,0 +1,103 @@
+{
+  "id": 421197037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-64.246759,-31.353636,-64.246759,-31.353636",
+    "geom:latitude":-31.353636,
+    "geom:longitude":-64.246759,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:als_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0628\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u0430\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u043e\u0440\u0434\u0430\u0432\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:bre_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:ceb_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"C\u00f3rdoba",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":1634,
+    "qs:photos_1k":331,
+    "qs:photos_9k":54,
+    "qs:photos_9r":17,
+    "qs:photos_all":12074,
+    "qs:photos_sr":13,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1289276,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070936,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070936,
+        "qs:id":1289276
+    },
+    "wof:country":"AR",
+    "wof:created":1459009900,
+    "wof:geomhash":"6ac6a1ed0f3d2dc6d471edd62364de49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197037,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421197037,
+    "wof:lastmodified":1475852831,
+    "wof:name":"C\u00f3rdoba",
+    "wof:parent_id":85668031,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.246759,
+    -31.353636,
+    -64.246759,
+    -31.353636
+],
+  "geometry": {"coordinates":[-64.246759,-31.353636],"type":"Point"}
+}

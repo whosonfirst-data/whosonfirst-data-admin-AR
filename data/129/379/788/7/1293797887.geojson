@@ -1,0 +1,72 @@
+{
+  "id": 1293797887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.67674,-35.11296,-61.67674,-35.11296",
+    "geom:latitude":-35.11296,
+    "geom:longitude":-61.67674,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6469.0",
+    "gn:asciiname":"Fortin Vigilancia",
+    "gn:country_code":"AR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855418,
+    "gn:latitude":-35.11296,
+    "gn:longitude":-61.67674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fort\u00edn Vigilancia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vigilancia",
+        "Fort\u00edn Vigilancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855418
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e5fe106a337dc56a349317ec8ac4e01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718003,
+            "locality_id":1293797887,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293797887,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Fortin Vigilancia",
+    "wof:parent_id":1108718003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.67674,
+    -35.11296,
+    -61.67674,
+    -35.11296
+],
+  "geometry": {"coordinates":[-61.67674,-35.11296],"type":"Point"}
+}

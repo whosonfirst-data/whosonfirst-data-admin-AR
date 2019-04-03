@@ -1,0 +1,120 @@
+{
+  "id": 421193921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.86552,-32.84057,-62.86552,-32.84057",
+    "geom:latitude":-32.84057,
+    "geom:longitude":-62.86552,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:deu_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:dut_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:eng_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:fra_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:fre_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:pol_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:por_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u043e\u043d\u044c\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:swe_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0434\u043e\u043d\u044c\u0454\u0441"
+    ],
+    "name:unk_x_variant":[
+        "General Ordonez"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3842593,
+    "qs:gn_pop":2328,
+    "qs:name":"Ord\u00f3\u00f1ez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":291081,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465988,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":180,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842593,
+        "gp:id":465988,
+        "qs:id":291081,
+        "wd:id":"Q10341376"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009787,
+    "wof:geomhash":"8706ed1abb557b9cbb231a6f035d17a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":421193921,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421193921,
+    "wof:lastmodified":1527716152,
+    "wof:name":"Ord\u00f3\u00f1ez",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:population":2328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86552,
+    -32.84057,
+    -62.86552,
+    -32.84057
+],
+  "geometry": {"coordinates":[-62.86552,-32.84057],"type":"Point"}
+}

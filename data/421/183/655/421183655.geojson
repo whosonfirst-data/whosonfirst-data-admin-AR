@@ -1,0 +1,77 @@
+{
+  "id": 421183655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.66732,-26.94433,-65.66732,-26.94433",
+    "geom:latitude":-26.94433,
+    "geom:longitude":-65.66732,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3852791,
+    "qs:gn_pop":0,
+    "qs:name":"La Angostura",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982680,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330816,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1242,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421186297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852791,
+        "gp:id":330816,
+        "qs:id":982680
+    },
+    "wof:country":"AR",
+    "wof:created":1459009377,
+    "wof:geomhash":"77c6903995cfe9f66e57db0a1bb35564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186297,
+            "locality_id":421183655,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421183655,
+    "wof:lastmodified":1527717697,
+    "wof:name":"La Angostura",
+    "wof:parent_id":421186297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.66732,
+    -26.94433,
+    -65.66732,
+    -26.94433
+],
+  "geometry": {"coordinates":[-65.66732,-26.94433],"type":"Point"}
+}

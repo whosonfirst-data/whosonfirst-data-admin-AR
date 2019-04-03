@@ -1,0 +1,98 @@
+{
+  "id": 421195397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94872,-30.3544,-63.94872,-30.3544",
+    "geom:latitude":-30.3544,
+    "geom:longitude":-63.94872,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de La Dormida"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de La Dormida"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de la Dormida"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de La Dormida"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de la Dormida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u041b\u0430-\u0414\u043e\u0440\u043c\u0456\u0434\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837239,
+    "qs:gn_pop":3272,
+    "qs:name":"San Jos\u00e9 de la Dormida",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150398,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332662,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837239,
+        "gp:id":332662,
+        "qs:id":150398,
+        "wd:id":"Q6119038"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009847,
+    "wof:geomhash":"a7fe7c0d0e4ee30614abaeafca7bf29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196955,
+            "locality_id":421195397,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195397,
+    "wof:lastmodified":1513889426,
+    "wof:name":"San Jos\u00e9 de la Dormida",
+    "wof:parent_id":421196955,
+    "wof:placetype":"locality",
+    "wof:population":3272,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94872,
+    -30.3544,
+    -63.94872,
+    -30.3544
+],
+  "geometry": {"coordinates":[-63.94872,-30.3544],"type":"Point"}
+}

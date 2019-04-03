@@ -1,0 +1,83 @@
+{
+  "id": 421195465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.63798,-33.77004,-59.63798,-33.77004",
+    "geom:latitude":-33.77004,
+    "geom:longitude":-59.63798,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "R\u00edo Tala"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Tala"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429487,
+    "qs:gn_pop":0,
+    "qs:name":"R\u00edo Tala",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044597,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467873,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429487,
+        "gp:id":467873,
+        "qs:id":1044597,
+        "wd:id":"Q6115742"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009849,
+    "wof:geomhash":"4b2dfc2154edf623489ccedafa0b37ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718105,
+            "locality_id":421195465,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195465,
+    "wof:lastmodified":1513889400,
+    "wof:name":"R\u00edo Tala",
+    "wof:parent_id":1108718105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.63798,
+    -33.77004,
+    -59.63798,
+    -33.77004
+],
+  "geometry": {"coordinates":[-59.63798,-33.77004],"type":"Point"}
+}

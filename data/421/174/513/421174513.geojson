@@ -1,0 +1,123 @@
+{
+  "id": 421174513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11491,-24.38293,-65.11491,-24.38293",
+    "geom:latitude":-24.38293,
+    "geom:longitude":-65.11491,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Ciudad Perico"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f69\u91cc\u79d1\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Perico"
+    ],
+    "name:eng_x_preferred":[
+        "Perico"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad Perico"
+    ],
+    "name:ger_x_preferred":[
+        "Ciudad Perico"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d5\u05d3\u05d3 \u05e4\u05e8\u05d9\u05e7\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Perico"
+    ],
+    "name:lit_x_preferred":[
+        "Perikas"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Perico"
+    ],
+    "name:spa_x_preferred":[
+        "Perico"
+    ],
+    "name:swe_x_preferred":[
+        "Perico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0456\u043a\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841486,
+    "qs:gn_pop":0,
+    "qs:name":"Perico",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Jujuy",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":884016,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467358,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421171243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841486,
+        "gp:id":467358,
+        "qs:id":884016,
+        "wd:id":"Q1094368",
+        "wk:page":"Ciudad Perico"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009035,
+    "wof:geomhash":"8948f5a56a130a3d007b73b471439270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171243,
+            "locality_id":421174513,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":421174513,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Perico",
+    "wof:parent_id":421171243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11491,
+    -24.38293,
+    -65.11491,
+    -24.38293
+],
+  "geometry": {"coordinates":[-65.11490999999999,-24.38293],"type":"Point"}
+}

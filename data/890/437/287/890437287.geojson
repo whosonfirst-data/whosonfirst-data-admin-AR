@@ -1,0 +1,191 @@
+{
+  "id": 890437287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3,-41.15,-71.3,-41.15",
+    "geom:latitude":-41.15,
+    "geom:longitude":-71.3,
+    "gn:country":"AR",
+    "gn:fcode":"ADM3",
+    "gn:pop":95394,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":5.6,
+    "name:afr_x_preferred":[
+        "Bariloche"
+    ],
+    "name:deu_x_preferred":[
+        "Bariloche"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos de Bariloche"
+    ],
+    "name:fra_x_preferred":[
+        "Bariloche"
+    ],
+    "name:fra_x_variant":[
+        "San Carlos de Bariloche"
+    ],
+    "name:ita_x_preferred":[
+        "San Carlos de Bariloche"
+    ],
+    "name:lit_x_preferred":[
+        "San Karlos de Barilo\u010d\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Bariloche"
+    ],
+    "name:por_x_preferred":[
+        "Bariloche"
+    ],
+    "name:slv_x_preferred":[
+        "San Carlos de Bariloche"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos de Bariloche"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"R\u00edo Negro",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3837856,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"San Carlos de Bariloche",
+    "ne:GN_POP":95394,
+    "ne:GTOPO30":894.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-41.149957,
+    "ne:LONGITUDE":-71.3,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Carlos de Bariloche",
+    "ne:MAX_AREAKM":54.0,
+    "ne:MAX_AREAMI":21.0,
+    "ne:MAX_BBXMAX":-71.241667,
+    "ne:MAX_BBXMIN":-71.416667,
+    "ne:MAX_BBYMAX":-41.116667,
+    "ne:MAX_BBYMIN":-41.183333,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":56.0,
+    "ne:MAX_PERMI":35.0,
+    "ne:MAX_POP10":88512,
+    "ne:MAX_POP20":88512,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":88512,
+    "ne:MEAN_BBXC":-71.328564,
+    "ne:MEAN_BBYC":-41.146637,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":54.0,
+    "ne:MIN_AREAMI":21.0,
+    "ne:MIN_BBXMAX":-71.241667,
+    "ne:MIN_BBXMIN":-71.416667,
+    "ne:MIN_BBYMAX":-41.116667,
+    "ne:MIN_BBYMIN":-41.183333,
+    "ne:MIN_PERKM":56.0,
+    "ne:MIN_PERMI":35.0,
+    "ne:NAME":"San Carlos de Bariloche",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Carlos de Bariloche",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":95394,
+    "ne:POP_MIN":88512,
+    "ne:POP_OTHER":88065,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Salta",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"San Carlos de Bariloche",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837856,
+        "qs:id":1062939
+    },
+    "wof:country":"AR",
+    "wof:created":1469052145,
+    "wof:geomhash":"64aa9507599085b52d3f7fe997cbdfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "localadmin_id":890437287,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":890437287,
+    "wof:lastmodified":1505343558,
+    "wof:name":"San Carlos de Bariloche",
+    "wof:parent_id":421188061,
+    "wof:placetype":"localadmin",
+    "wof:population":95394,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3,
+    -41.15,
+    -71.3,
+    -41.15
+],
+  "geometry": {"coordinates":[-71.3,-41.15],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209984695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.41374,-26.63541,-65.41374,-26.63541",
+    "geom:latitude":-26.63541,
+    "geom:longitude":-65.41374,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90112.0",
+    "gn:asciiname":"Sauce Yacu",
+    "gn:country_code":"AR",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835616,
+    "gn:latitude":-26.63541,
+    "gn:longitude":-65.41374,
+    "gn:modification_date":"2015-11-17",
+    "gn:name":"Sauce Yacu",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sauce Yaco",
+        "Sauce Yacu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421202257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835616
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"681c2f9fbf876bb4660031606c863c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202257,
+            "locality_id":1209984695,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1209984695,
+    "wof:lastmodified":1537584838,
+    "wof:name":"Sauce Yacu",
+    "wof:parent_id":421202257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.41374,
+    -26.63541,
+    -65.41374,
+    -26.63541
+],
+  "geometry": {"coordinates":[-65.41374,-26.63541],"type":"Point"}
+}

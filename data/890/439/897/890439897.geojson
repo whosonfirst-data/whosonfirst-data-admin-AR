@@ -1,0 +1,72 @@
+{
+  "id": 890439897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2427,-32.56009,-65.2427,-32.56009",
+    "geom:latitude":-32.56009,
+    "geom:longitude":-65.2427,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":4530,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Villa Dolores"
+    ],
+    "qs:name":"Concar\u00e1n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860431,
+        "gp:id":467198,
+        "qs:id":150530,
+        "wd:id":"Q1018588",
+        "wk:page":"Concar\u00e1n"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052254,
+    "wof:geomhash":"228a00a29f6213a17c47ba72ec580823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718441,
+            "locality_id":890439897,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":890439897,
+    "wof:lastmodified":1527729733,
+    "wof:name":"Concar\u00e1n",
+    "wof:parent_id":1108718441,
+    "wof:placetype":"locality",
+    "wof:population":4530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2427,
+    -32.56009,
+    -65.2427,
+    -32.56009
+],
+  "geometry": {"coordinates":[-65.2427,-32.56009],"type":"Point"}
+}

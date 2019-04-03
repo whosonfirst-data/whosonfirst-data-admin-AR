@@ -1,0 +1,68 @@
+{
+  "id": 1343732623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8,-37.53333,-70.8,-37.53333",
+    "geom:latitude":-37.53333,
+    "geom:longitude":-70.8,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Ranquilco",
+    "gn:country_code":"AR",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839358,
+    "gn:latitude":-37.53333,
+    "gn:longitude":-70.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ranquilc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839358
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"64dca3925c3b8241f938f08cfb2ebed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1343732623,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1343732623,
+    "wof:lastmodified":1536850005,
+    "wof:name":"Ranquilco",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8,
+    -37.53333,
+    -70.8,
+    -37.53333
+],
+  "geometry": {"coordinates":[-70.8,-37.53333],"type":"Point"}
+}

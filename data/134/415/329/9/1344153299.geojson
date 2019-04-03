@@ -1,0 +1,68 @@
+{
+  "id": 1344153299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93269,-24.96251,-60.93269,-24.96251",
+    "geom:latitude":-24.96251,
+    "geom:longitude":-60.93269,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34035.0",
+    "gn:asciiname":"Kilometro 642",
+    "gn:country_code":"AR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853110,
+    "gn:latitude":-24.96251,
+    "gn:longitude":-60.93269,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kil\u00f3metro 642",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853110
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fee5ebc2cd2e92e2e94d4bc179d51d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718267,
+            "locality_id":1344153299,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1344153299,
+    "wof:lastmodified":1536741457,
+    "wof:name":"Kilometro 642",
+    "wof:parent_id":1108718267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93269,
+    -24.96251,
+    -60.93269,
+    -24.96251
+],
+  "geometry": {"coordinates":[-60.93269,-24.96251],"type":"Point"}
+}

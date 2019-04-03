@@ -1,0 +1,68 @@
+{
+  "id": 1327111685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,-29.1,-66.98333,-29.1",
+    "geom:latitude":-29.1,
+    "geom:longitude":-66.98333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46126.0",
+    "gn:asciiname":"La Calera",
+    "gn:country_code":"AR",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852377,
+    "gn:latitude":-29.1,
+    "gn:longitude":-66.98333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"La Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852377
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"df61abf0bffe91b52e3597368743f928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718351,
+            "locality_id":1327111685,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1327111685,
+    "wof:lastmodified":1536645585,
+    "wof:name":"La Calera",
+    "wof:parent_id":1108718351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333000000001,
+    -29.1,
+    -66.98333000000001,
+    -29.1
+],
+  "geometry": {"coordinates":[-66.98333000000001,-29.1],"type":"Point"}
+}

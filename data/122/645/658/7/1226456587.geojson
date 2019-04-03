@@ -1,0 +1,72 @@
+{
+  "id": 1226456587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.37617,-34.98264,-58.37617,-34.98264",
+    "geom:latitude":-34.98264,
+    "geom:longitude":-58.37617,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6778.0",
+    "gn:asciiname":"Empalme San Vicente",
+    "gn:country_code":"AR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3434155,
+    "gn:latitude":-34.98264,
+    "gn:longitude":-58.37617,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Empalme San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Vicente",
+        "Empalme San Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434155
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a169836d9c207a6af88e798d86a2e960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718107,
+            "locality_id":1226456587,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226456587,
+    "wof:lastmodified":1537584825,
+    "wof:name":"Empalme San Vicente",
+    "wof:parent_id":1108718107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.37617,
+    -34.98264,
+    -58.37617,
+    -34.98264
+],
+  "geometry": {"coordinates":[-58.37617,-34.98264],"type":"Point"}
+}

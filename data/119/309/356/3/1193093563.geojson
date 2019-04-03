@@ -1,0 +1,73 @@
+{
+  "id": 1193093563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07969,-28.19119,-63.07969,-28.19119",
+    "geom:latitude":-28.19119,
+    "geom:longitude":-63.07969,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86098.0",
+    "gn:asciiname":"Llajta Mauca",
+    "gn:country_code":"AR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846799,
+    "gn:latitude":-28.19119,
+    "gn:longitude":-63.07969,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Llajta Mauca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desv\u00edo Llajta Mauca",
+        "Kil\u00f3metro 511",
+        "Llajta Mauca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846799
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f02ea5388db9616e5001c3341297111a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718491,
+            "locality_id":1193093563,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1193093563,
+    "wof:lastmodified":1537584861,
+    "wof:name":"Llajta Mauca",
+    "wof:parent_id":1108718491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07969,
+    -28.19119,
+    -63.07969,
+    -28.19119
+],
+  "geometry": {"coordinates":[-63.07969,-28.19119],"type":"Point"}
+}

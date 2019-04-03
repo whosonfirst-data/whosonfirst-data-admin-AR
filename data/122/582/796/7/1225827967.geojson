@@ -1,0 +1,71 @@
+{
+  "id": 1225827967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05253,-37.86923,-71.05253,-37.86923",
+    "geom:latitude":-37.86923,
+    "geom:longitude":-71.05253,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Caviahue",
+    "gn:country_code":"AR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8556186,
+    "gn:latitude":-37.86923,
+    "gn:longitude":-71.05253,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Caviahue",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Caviahue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8556186
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fab84586b2f21ff4478929942e38820c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1225827967,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1225827967,
+    "wof:lastmodified":1537584907,
+    "wof:name":"Caviahue",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05253,
+    -37.86923,
+    -71.05253,
+    -37.86923
+],
+  "geometry": {"coordinates":[-71.05253,-37.86923],"type":"Point"}
+}

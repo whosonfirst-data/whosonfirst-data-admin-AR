@@ -1,0 +1,114 @@
+{
+  "id": 421194743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22509,-33.22377,-66.22509,-33.22377",
+    "geom:latitude":-33.22377,
+    "geom:longitude":-66.22509,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Circuito de Potrero de los Funes"
+    ],
+    "name:dut_x_preferred":[
+        "Potrero de los Funes"
+    ],
+    "name:eng_x_preferred":[
+        "Potrero de los Funes"
+    ],
+    "name:fra_x_preferred":[
+        "Circuit de Potrero de los Funes"
+    ],
+    "name:fre_x_preferred":[
+        "Potrero de los Funes"
+    ],
+    "name:ger_x_preferred":[
+        "Potrero de los Funes"
+    ],
+    "name:ita_x_preferred":[
+        "Potrero de los Funes"
+    ],
+    "name:nld_x_preferred":[
+        "Potrero de los Funes Circuit"
+    ],
+    "name:pol_x_preferred":[
+        "Potrero de los Funes Circuit"
+    ],
+    "name:por_x_preferred":[
+        "Circuito de Potrero de los Funes"
+    ],
+    "name:spa_x_preferred":[
+        "Circuito de Potrero de los Funes"
+    ],
+    "name:unk_x_variant":[
+        "Potrero Funes"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840631,
+    "qs:gn_pop":0,
+    "qs:name":"Potrero de Los Funes",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":906648,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466155,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":451,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840631,
+        "gp:id":466155,
+        "qs:id":906648,
+        "wd:id":"Q169280"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009818,
+    "wof:geomhash":"da4210f62529dfa46a68dfd61e0a4c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":421194743,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421194743,
+    "wof:lastmodified":1527716136,
+    "wof:name":"Potrero de Los Funes",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22509,
+    -33.22377,
+    -66.22509,
+    -33.22377
+],
+  "geometry": {"coordinates":[-66.22508999999999,-33.22377],"type":"Point"}
+}

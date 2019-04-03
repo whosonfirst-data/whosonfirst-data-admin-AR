@@ -1,0 +1,72 @@
+{
+  "id": 1226465335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.47833,-31.04733,-64.47833,-31.04733",
+    "geom:latitude":-31.04733,
+    "geom:longitude":-64.47833,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14091.0",
+    "gn:asciiname":"Alto San Pedro",
+    "gn:country_code":"AR",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866029,
+    "gn:latitude":-31.04733,
+    "gn:longitude":-64.47833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alto San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto de San Pedro",
+        "Alto San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866029
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"af057966d6e7a22b3289a5dab0b09881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":1226465335,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1226465335,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Alto San Pedro",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.47833,
+    -31.04733,
+    -64.47833,
+    -31.04733
+],
+  "geometry": {"coordinates":[-64.47833,-31.04733],"type":"Point"}
+}

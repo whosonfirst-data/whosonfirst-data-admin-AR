@@ -1,0 +1,68 @@
+{
+  "id": 1276136863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.00058,-35.68255,-62.00058,-35.68255",
+    "geom:latitude":-35.68255,
+    "geom:longitude":-62.00058,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6609.0",
+    "gn:asciiname":"Gnecco",
+    "gn:country_code":"AR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854996,
+    "gn:latitude":-35.68255,
+    "gn:longitude":-62.00058,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gnecco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854996
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"633076961fce0ad31e8c96c6b6175ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718047,
+            "locality_id":1276136863,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276136863,
+    "wof:lastmodified":1537040199,
+    "wof:name":"Gnecco",
+    "wof:parent_id":1108718047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.00058000000001,
+    -35.68255,
+    -62.00058000000001,
+    -35.68255
+],
+  "geometry": {"coordinates":[-62.00058000000001,-35.68255],"type":"Point"}
+}

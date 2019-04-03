@@ -1,0 +1,194 @@
+{
+  "id": 1141908049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5499959734,-33.4661368624,-67.5499959734,-33.4661368624",
+    "geom:latitude":-33.466137,
+    "geom:longitude":-67.549996,
+    "iso:country":"AR",
+    "lbl:latitude":-33.466137,
+    "lbl:longitude":-67.549996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0644\u0629 \u0644\u0627\u0628\u0627\u0632"
+    ],
+    "name:dut_x_preferred":[
+        "La Paz"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz"
+    ],
+    "name:fra_x_preferred":[
+        "La Paz"
+    ],
+    "name:fre_x_preferred":[
+        "La Paz"
+    ],
+    "name:ger_x_preferred":[
+        "La Paz"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d1\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "La Paz"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632\u060c \u0645\u06cc\u0646\u0688\u0648\u0632\u0627"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Mendoza",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-33.466137,
+    "ne:LONGITUDE":-67.549996,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"La Paz2",
+    "ne:MAX_AREAKM":4.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-67.525,
+    "ne:MAX_BBXMIN":-67.558333,
+    "ne:MAX_BBYMAX":-33.45,
+    "ne:MAX_BBYMIN":-33.466667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":11.0,
+    "ne:MAX_PERMI":7.0,
+    "ne:MAX_POP10":4400,
+    "ne:MAX_POP20":4400,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-67.544444,
+    "ne:MEAN_BBYC":-33.459722,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":4.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-67.525,
+    "ne:MIN_BBXMIN":-67.558333,
+    "ne:MIN_BBYMAX":-33.45,
+    "ne:MIN_BBYMIN":-33.466667,
+    "ne:MIN_PERKM":11.0,
+    "ne:MIN_PERMI":7.0,
+    "ne:NAME":"La Paz",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Paz",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4400,
+    "ne:POP_MIN":4400,
+    "ne:POP_OTHER":4400,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-33.466137,
+    "reversegeo:longitude":-67.549996,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849516,
+        "gp:id":332492,
+        "qs:id":266567,
+        "wd:id":"Q2520337",
+        "wk:page":"La Paz, Mendoza"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130809,
+    "wof:geomhash":"c53aa8a3a7ac16c836284e00f4066a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718357,
+            "locality_id":1141908049,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1141908049,
+    "wof:lastmodified":1534379080,
+    "wof:name":"La Paz",
+    "wof:parent_id":1108718357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421166433
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.54999597336456,
+    -33.46613686242205,
+    -67.54999597336456,
+    -33.46613686242205
+],
+  "geometry": {"coordinates":[-67.54999597336456,-33.46613686242205],"type":"Point"}
+}

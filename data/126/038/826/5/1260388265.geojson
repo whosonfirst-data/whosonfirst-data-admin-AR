@@ -1,0 +1,68 @@
+{
+  "id": 1260388265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.46043,-31.65275,-64.46043,-31.65275",
+    "geom:latitude":-31.65275,
+    "geom:longitude":-64.46043,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14147.0",
+    "gn:asciiname":"La Gruta",
+    "gn:country_code":"AR",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851057,
+    "gn:latitude":-31.65275,
+    "gn:longitude":-64.46043,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Gruta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851057
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"633b26c2fe41c8f9d9020f0c0f7cc174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":1260388265,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1260388265,
+    "wof:lastmodified":1537065709,
+    "wof:name":"La Gruta",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.46043,
+    -31.65275,
+    -64.46043,
+    -31.65275
+],
+  "geometry": {"coordinates":[-64.46043,-31.65275],"type":"Point"}
+}

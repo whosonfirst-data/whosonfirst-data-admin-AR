@@ -1,0 +1,68 @@
+{
+  "id": 1243418701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0466,-31.93548,-61.0466,-31.93548",
+    "geom:latitude":-31.93548,
+    "geom:longitude":-61.0466,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82105.0",
+    "gn:asciiname":"Larrechea",
+    "gn:country_code":"AR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848894,
+    "gn:latitude":-31.93548,
+    "gn:longitude":-61.0466,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Larrechea",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421188015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848894
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3b5a1c6a2640172ec0a7ebbfeb9f108c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188015,
+            "locality_id":1243418701,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243418701,
+    "wof:lastmodified":1536844527,
+    "wof:name":"Larrechea",
+    "wof:parent_id":421188015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0466,
+    -31.93548,
+    -61.0466,
+    -31.93548
+],
+  "geometry": {"coordinates":[-61.0466,-31.93548],"type":"Point"}
+}

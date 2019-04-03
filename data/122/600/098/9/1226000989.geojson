@@ -1,0 +1,73 @@
+{
+  "id": 1226000989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,-54.03333,-68.53333,-54.03333",
+    "geom:latitude":-54.03333,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"94007.0",
+    "gn:asciiname":"San Justo",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837123,
+    "gn:latitude":-54.03333,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Justo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Ushuaia",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Justo",
+        "San Justo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995,
+        421175153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837123
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"252f63bda290fdf0f50a78a1761574d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175153,
+            "locality_id":1226000989,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":1226000989,
+    "wof:lastmodified":1537584841,
+    "wof:name":"San Justo",
+    "wof:parent_id":421175153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    -54.03333000000001,
+    -68.53333,
+    -54.03333000000001
+],
+  "geometry": {"coordinates":[-68.53333000000001,-54.03333000000001],"type":"Point"}
+}

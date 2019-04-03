@@ -1,0 +1,69 @@
+{
+  "id": 1276838729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.13563,-29.675,-62.13563,-29.675",
+    "geom:latitude":-29.675,
+    "geom:longitude":-62.13563,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86154.0",
+    "gn:asciiname":"Palo Negro",
+    "gn:country_code":"AR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842214,
+    "gn:latitude":-29.675,
+    "gn:longitude":-62.13563,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Palo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842214,
+        "wk:page":"Palo_Negro%2C_Santiago_del_Estero"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6c003b312bbc68871d0d3b3b20c1c28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718507,
+            "locality_id":1276838729,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1276838729,
+    "wof:lastmodified":1537486317,
+    "wof:name":"Palo Negro",
+    "wof:parent_id":1108718507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.13563000000001,
+    -29.675,
+    -62.13563000000001,
+    -29.675
+],
+  "geometry": {"coordinates":[-62.13563000000001,-29.675],"type":"Point"}
+}

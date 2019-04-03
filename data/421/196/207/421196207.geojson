@@ -1,0 +1,125 @@
+{
+  "id": 421196207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.72862,-30.23281,-61.72862,-30.23281",
+    "geom:latitude":-30.23281,
+    "geom:longitude":-61.72862,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0633\u062a\u0648\u0631 \u0643\u0644\u0648\u0633\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0441\u0442\u0430\u0440 \u041a\u043b\u0430\u045e\u0441\u0435\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:dan_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:deu_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:dut_x_preferred":[
+        "Arruf\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Arruf\u00f3"
+    ],
+    "name:fin_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:por_x_preferred":[
+        "Arruf\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00e9stor Clausen"
+    ],
+    "name:swe_x_preferred":[
+        "Arruf\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Arrut\u00f3"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865375,
+    "qs:gn_pop":2190,
+    "qs:name":"Arruf\u00f3",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1047032,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467124,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865375,
+        "gp:id":467124,
+        "qs:id":1047032,
+        "wd:id":"Q8205105"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009873,
+    "wof:geomhash":"411b3faf0f1cbe941c3431fc88628929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718457,
+            "locality_id":421196207,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421196207,
+    "wof:lastmodified":1513888938,
+    "wof:name":"Arruf\u00f3",
+    "wof:parent_id":1108718457,
+    "wof:placetype":"locality",
+    "wof:population":2190,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.72862,
+    -30.23281,
+    -61.72862,
+    -30.23281
+],
+  "geometry": {"coordinates":[-61.72862,-30.23281],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259837457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.02075,-27.02064,-65.02075,-27.02064",
+    "geom:latitude":-27.02064,
+    "geom:longitude":-65.02075,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"Agua Dulce",
+    "gn:country_code":"AR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866622,
+    "gn:latitude":-27.02064,
+    "gn:longitude":-65.02075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agua Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866622
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d66abf4e11eb6cd863cda07f71954489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":1259837457,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1259837457,
+    "wof:lastmodified":1536844520,
+    "wof:name":"Agua Dulce",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.02075,
+    -27.02064,
+    -65.02075,
+    -27.02064
+],
+  "geometry": {"coordinates":[-65.02075000000001,-27.02064],"type":"Point"}
+}

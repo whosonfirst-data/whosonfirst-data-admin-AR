@@ -1,0 +1,94 @@
+{
+  "id": 1125781283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.3,-27.86667,-59.3,-27.86667",
+    "geom:latitude":-27.86667,
+    "geom:longitude":-59.3,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3652,
+    "gn:population":3652,
+    "iso:country":"AR",
+    "lbl:latitude":-27.86667,
+    "lbl:longitude":-59.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Basail"
+    ],
+    "name:eng_x_preferred":[
+        "Basail"
+    ],
+    "name:por_x_preferred":[
+        "Basail"
+    ],
+    "name:spa_x_preferred":[
+        "Basail"
+    ],
+    "name:swe_x_preferred":[
+        "Basail"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3436100,
+    "qs_pg:gn_pop":3652,
+    "qs_pg:name":"Basail",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":95566,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436100,
+        "qs_pg:id":95566,
+        "wd:id":"Q1578997"
+    },
+    "wof:country":"AR",
+    "wof:created":1497290491,
+    "wof:geomhash":"57110344b9547f6a246022997aeb3a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "locality_id":1125781283,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1125781283,
+    "wof:lastmodified":1513888941,
+    "wof:name":"Basail",
+    "wof:parent_id":421180295,
+    "wof:placetype":"locality",
+    "wof:population":3652,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.3,
+    -27.86667,
+    -59.3,
+    -27.86667
+],
+  "geometry": {"coordinates":[-59.3,-27.86667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421176633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.450698,-34.548029,-58.450698,-34.548029",
+    "geom:latitude":-34.548029,
+    "geom:longitude":-58.450698,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Santiago Gonz\u00e1lez Bonorino"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago Gonz\u00e1lez Bonorino"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bonorino",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:photos":287,
+    "qs:photos_1k":58,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":287,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1053761,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330024,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        421174285,
+        1109371877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":330024,
+        "qs:id":1053761
+    },
+    "wof:country":"AR",
+    "wof:created":1459009114,
+    "wof:geomhash":"91c2d9a64c1f22da68d7acff89e344d8",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371877,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":421176633,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":421176633,
+    "wof:lastmodified":1531858426,
+    "wof:name":"Bonorino",
+    "wof:parent_id":1109371877,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.450698,
+    -34.548029,
+    -58.450698,
+    -34.548029
+],
+  "geometry": {"coordinates":[-58.450698,-34.548029],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309863655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7792,-27.00691,-64.7792,-27.00691",
+    "geom:latitude":-27.00691,
+    "geom:longitude":-64.7792,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"Blanco Pozo",
+    "gn:country_code":"AR",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864071,
+    "gn:latitude":-27.00691,
+    "gn:longitude":-64.7792,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Blanco Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864071
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"deeed673fa8d1b50e0710dcedf2e465c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":1309863655,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1309863655,
+    "wof:lastmodified":1536846779,
+    "wof:name":"Blanco Pozo",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7792,
+    -27.00691,
+    -64.7792,
+    -27.00691
+],
+  "geometry": {"coordinates":[-64.7792,-27.00691],"type":"Point"}
+}

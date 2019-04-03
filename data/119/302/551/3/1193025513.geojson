@@ -1,0 +1,73 @@
+{
+  "id": 1193025513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.95203,-35.317,-59.95203,-35.317",
+    "geom:latitude":-35.317,
+    "geom:longitude":-59.95203,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6854.0",
+    "gn:asciiname":"Martin Berraondo",
+    "gn:country_code":"AR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430817,
+    "gn:latitude":-35.317,
+    "gn:longitude":-59.95203,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mart\u00edn Berraondo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mart\u00edn Berrahondo",
+        "M. Berraondo",
+        "Mart\u00edn Berraondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430817
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d119e734dc845a62b63b4b436d3e26e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718131,
+            "locality_id":1193025513,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193025513,
+    "wof:lastmodified":1537584821,
+    "wof:name":"Martin Berraondo",
+    "wof:parent_id":1108718131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.95203000000001,
+    -35.317,
+    -59.95203000000001,
+    -35.317
+],
+  "geometry": {"coordinates":[-59.95203000000001,-35.317],"type":"Point"}
+}

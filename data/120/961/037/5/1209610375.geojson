@@ -1,0 +1,62 @@
+{
+  "id": 1209610375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.16287,-22.20104,-66.16287,-22.20104",
+    "geom:latitude":-22.20104,
+    "geom:longitude":-66.16287,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38077.0",
+    "gn:asciiname":"Timon Cruz",
+    "gn:country_code":"AR",
+    "gn:dem":4247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834375,
+    "gn:latitude":-22.20104,
+    "gn:longitude":-66.16287,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tim\u00f3n Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834375
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0f1df66a4ba8b88da4fbe93fcc932f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209610375
+        }
+    ],
+    "wof:id":1209610375,
+    "wof:lastmodified":1536281867,
+    "wof:name":"Timon Cruz",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.16287,
+    -22.20104,
+    -66.16287,
+    -22.20104
+],
+  "geometry": {"coordinates":[-66.16287,-22.20104],"type":"Point"}
+}

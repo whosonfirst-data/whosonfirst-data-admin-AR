@@ -1,0 +1,62 @@
+{
+  "id": 1209014087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.81667,-33.9,-59.81667,-33.9",
+    "geom:latitude":-33.9,
+    "geom:longitude":-59.81667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6770.0",
+    "gn:asciiname":"Kilometro 158",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433176,
+    "gn:latitude":-33.9,
+    "gn:longitude":-59.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kil\u00f3metro 158",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433176
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bff9407060774ebdd2eaf6b289ad7158",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209014087
+        }
+    ],
+    "wof:id":1209014087,
+    "wof:lastmodified":1536300351,
+    "wof:name":"Kilometro 158",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.81667,
+    -33.9,
+    -59.81667,
+    -33.9
+],
+  "geometry": {"coordinates":[-59.81667,-33.9],"type":"Point"}
+}

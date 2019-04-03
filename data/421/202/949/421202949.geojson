@@ -1,0 +1,85 @@
+{
+  "id": 421202949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.26637,-38.78018,-62.26637,-38.78018",
+    "geom:latitude":-38.78018,
+    "geom:longitude":-62.26637,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:pol_x_preferred":[
+        "Hurac\u00e1n Bah\u00eda Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "Club Atl\u00e9tico Hurac\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Ingeniero White"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853773,
+    "qs:gn_pop":0,
+    "qs:name":"Ingeniero White",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":228683,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465573,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853773,
+        "gp:id":465573,
+        "qs:id":228683
+    },
+    "wof:country":"AR",
+    "wof:created":1459010135,
+    "wof:geomhash":"08ce2aa63b40c29ed14ffef8cdd4dcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717863,
+            "locality_id":421202949,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421202949,
+    "wof:lastmodified":1501268873,
+    "wof:name":"Ingeniero White",
+    "wof:parent_id":1108717863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.26637,
+    -38.78018,
+    -62.26637,
+    -38.78018
+],
+  "geometry": {"coordinates":[-62.26637,-38.78018],"type":"Point"}
+}

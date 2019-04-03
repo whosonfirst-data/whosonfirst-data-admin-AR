@@ -1,0 +1,121 @@
+{
+  "id": 421182641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.45052,-32.66535,-66.45052,-32.66535",
+    "geom:latitude":-32.66535,
+    "geom:longitude":-66.45052,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u5361\u5c07\u8ecd\u93ae"
+    ],
+    "name:deu_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:dut_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:eng_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:fra_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:fre_x_preferred":[
+        "villa General Roca"
+    ],
+    "name:ger_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:por_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:spa_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:swe_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:unk_x_variant":[
+        "General Roca"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u5361\u5c07\u8ecd\u93ae"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832731,
+    "qs:gn_pop":196,
+    "qs:name":"Villa General Roca",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":925261,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466743,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832731,
+        "gp:id":466743,
+        "qs:id":925261,
+        "wd:id":"Q678141",
+        "wk:page":"Villa General Roca"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009337,
+    "wof:geomhash":"ffb8e7aa842130f41795a98439fdfbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171231,
+            "locality_id":421182641,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421182641,
+    "wof:lastmodified":1527726458,
+    "wof:name":"Villa General Roca",
+    "wof:parent_id":421171231,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.45052,
+    -32.66535,
+    -66.45052,
+    -32.66535
+],
+  "geometry": {"coordinates":[-66.45052,-32.66535],"type":"Point"}
+}

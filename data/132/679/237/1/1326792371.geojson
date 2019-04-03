@@ -1,0 +1,72 @@
+{
+  "id": 1326792371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.75936,-48.07604,-69.75936,-48.07604",
+    "geom:latitude":-48.07604,
+    "geom:longitude":-69.75936,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78035.0",
+    "gn:asciiname":"La Aragonesa",
+    "gn:country_code":"AR",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852767,
+    "gn:latitude":-48.07604,
+    "gn:longitude":-69.75936,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Aragonesa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia La Aragonesa",
+        "La Aragonesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421170133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852767
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"be3ef388b55d2c1300c01dd1f470e2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170133,
+            "locality_id":1326792371,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1326792371,
+    "wof:lastmodified":1537584869,
+    "wof:name":"La Aragonesa",
+    "wof:parent_id":421170133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.75936,
+    -48.07604,
+    -69.75936,
+    -48.07604
+],
+  "geometry": {"coordinates":[-69.75936,-48.07604],"type":"Point"}
+}

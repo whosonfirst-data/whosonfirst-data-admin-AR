@@ -1,0 +1,105 @@
+{
+  "id": 421173915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.87964,-31.6789,-63.87964,-31.6789",
+    "geom:latitude":-31.6789,
+    "geom:longitude":-63.87964,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pilar"
+    ],
+    "name:dut_x_preferred":[
+        "Pilar"
+    ],
+    "name:eng_x_preferred":[
+        "Pilar"
+    ],
+    "name:fre_x_preferred":[
+        "Pilar"
+    ],
+    "name:por_x_preferred":[
+        "Pilar"
+    ],
+    "name:spa_x_preferred":[
+        "Pilar"
+    ],
+    "name:swe_x_preferred":[
+        "Pilar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043b\u0430\u0440"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841149,
+    "qs:gn_pop":12488,
+    "qs:name":"Pilar",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":304423,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467366,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841149,
+        "gp:id":467366,
+        "qs:id":304423,
+        "wd:id":"Q7193761",
+        "wk:page":"Pilar, C\u00f3rdoba Province"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009010,
+    "wof:geomhash":"839ccedc2658eb84952fbcb39f24988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":421173915,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421173915,
+    "wof:lastmodified":1513889350,
+    "wof:name":"Pilar",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:population":12488,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.87964,
+    -31.6789,
+    -63.87964,
+    -31.6789
+],
+  "geometry": {"coordinates":[-63.87964,-31.6789],"type":"Point"}
+}

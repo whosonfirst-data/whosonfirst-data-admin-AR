@@ -1,0 +1,71 @@
+{
+  "id": 1327489347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.51871,-27.22945,-65.51871,-27.22945",
+    "geom:latitude":-27.22945,
+    "geom:longitude":-65.51871,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90070.0",
+    "gn:asciiname":"Leon Rouges",
+    "gn:country_code":"AR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3846949,
+    "gn:latitude":-27.22945,
+    "gn:longitude":-65.51871,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Le\u00f3n Rouges",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u00f3n Rouges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421183901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846949
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"156ef940e86c75dcf18586f799bdd45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183901,
+            "locality_id":1327489347,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1327489347,
+    "wof:lastmodified":1537584861,
+    "wof:name":"Leon Rouges",
+    "wof:parent_id":421183901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.51871,
+    -27.22945,
+    -65.51871,
+    -27.22945
+],
+  "geometry": {"coordinates":[-65.51871,-27.22945],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 421196045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.79969,-37.54415,-60.79969,-37.54415",
+    "geom:latitude":-37.54415,
+    "geom:longitude":-60.79969,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Laprida"
+    ],
+    "name:dut_x_preferred":[
+        "Laprida"
+    ],
+    "name:eng_x_preferred":[
+        "Laprida"
+    ],
+    "name:oci_x_preferred":[
+        "Laprida"
+    ],
+    "name:spa_x_preferred":[
+        "Laprida"
+    ],
+    "name:swe_x_preferred":[
+        "Laprida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043f\u0440\u0456\u0434\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3849300,
+    "qs:gn_pop":0,
+    "qs:name":"Laprida",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046905,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466991,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849300,
+        "gp:id":466991,
+        "qs:id":1046905,
+        "wd:id":"Q5393050",
+        "wk:page":"Laprida, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009867,
+    "wof:geomhash":"638bec14f04108529d7e425520fe7147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717995,
+            "locality_id":421196045,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421196045,
+    "wof:lastmodified":1513889245,
+    "wof:name":"Laprida",
+    "wof:parent_id":1108717995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.79969,
+    -37.54415,
+    -60.79969,
+    -37.54415
+],
+  "geometry": {"coordinates":[-60.79969,-37.54415],"type":"Point"}
+}

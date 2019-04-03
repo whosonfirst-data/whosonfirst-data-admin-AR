@@ -1,0 +1,66 @@
+{
+  "id": 1209109461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17102,-28.27416,-65.17102,-28.27416",
+    "geom:latitude":-28.27416,
+    "geom:longitude":-65.17102,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10098.0",
+    "gn:asciiname":"Cortaderas",
+    "gn:country_code":"AR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860006,
+    "gn:latitude":-28.27416,
+    "gn:longitude":-65.17102,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cortaderas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cortadera",
+        "Cortaderas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860006
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7f811ffc03169341c7258d90cc1cf169",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209109461
+        }
+    ],
+    "wof:id":1209109461,
+    "wof:lastmodified":1537584887,
+    "wof:name":"Cortaderas",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17102,
+    -28.27416,
+    -65.17102,
+    -28.27416
+],
+  "geometry": {"coordinates":[-65.17102,-28.27416],"type":"Point"}
+}

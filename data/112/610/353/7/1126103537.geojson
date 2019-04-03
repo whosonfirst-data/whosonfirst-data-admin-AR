@@ -1,0 +1,100 @@
+{
+  "id": 1126103537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6753,-32.95392,-60.6753,-32.95392",
+    "geom:latitude":-32.95392,
+    "geom:longitude":-60.6753,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-32.95392,
+    "gn:longitude":-60.6753,
+    "iso:country":"AR",
+    "lbl:latitude":-32.95392,
+    "lbl:longitude":-60.6753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:unk_x_variant":[
+        "Bella Vista"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3864364,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bella Vista",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Santa Fe",
+    "qs_pg:photos":1027,
+    "qs_pg:photos_1k":208,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1027,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1114200,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":330013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Santa Fe",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85668077,
+        102191577,
+        85632505,
+        421171509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864364,
+        "gp:id":330013,
+        "qs:id":1114200,
+        "qs_pg:id":1114200
+    },
+    "wof:country":"AR",
+    "wof:created":1497316519,
+    "wof:geomhash":"a8789d461655ff07e44c4a67deebb5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":-1,
+            "neighbourhood_id":1126103537,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1126103537,
+    "wof:lastmodified":1534379086,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6753,
+    -32.95392,
+    -60.6753,
+    -32.95392
+],
+  "geometry": {"coordinates":[-60.6753,-32.95392],"type":"Point"}
+}

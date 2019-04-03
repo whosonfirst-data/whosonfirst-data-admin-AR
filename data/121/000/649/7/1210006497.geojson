@@ -1,0 +1,68 @@
+{
+  "id": 1210006497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.03333,-25.23333,-58.03333,-25.23333",
+    "geom:latitude":-25.23333,
+    "geom:longitude":-58.03333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34049.0",
+    "gn:asciiname":"Lucero Cue",
+    "gn:country_code":"AR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430998,
+    "gn:latitude":-25.23333,
+    "gn:longitude":-58.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lucero Cu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430998
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1e6757374dd3c32dbc42239b05b1d736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718273,
+            "locality_id":1210006497,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1210006497,
+    "wof:lastmodified":1536373121,
+    "wof:name":"Lucero Cue",
+    "wof:parent_id":1108718273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.03333000000001,
+    -25.23333,
+    -58.03333000000001,
+    -25.23333
+],
+  "geometry": {"coordinates":[-58.03333000000001,-25.23333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226608811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33831,-23.24923,-63.33831,-23.24923",
+    "geom:latitude":-23.24923,
+    "geom:longitude":-63.33831,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66056.0",
+    "gn:asciiname":"Dragones",
+    "gn:country_code":"AR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859108,
+    "gn:latitude":-23.24923,
+    "gn:longitude":-63.33831,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dragones",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fortin Dragones",
+        "Dragones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859108,
+        "wk:page":"Dragones_%28Salta%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"24c101fbca66e996e49193de24e75638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":1226608811,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1226608811,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Dragones",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33831,
+    -23.24923,
+    -63.33831,
+    -23.24923
+],
+  "geometry": {"coordinates":[-63.33831,-23.24923],"type":"Point"}
+}

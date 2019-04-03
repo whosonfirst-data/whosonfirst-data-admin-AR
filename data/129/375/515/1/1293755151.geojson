@@ -1,0 +1,72 @@
+{
+  "id": 1293755151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8783,-34.59173,-67.8783,-34.59173",
+    "geom:latitude":-34.59173,
+    "geom:longitude":-67.8783,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50105.0",
+    "gn:asciiname":"Monte Coman",
+    "gn:country_code":"AR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843875,
+    "gn:latitude":-34.59173,
+    "gn:longitude":-67.8783,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Monte Com\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Com\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843875,
+        "wk:page":"Monte_Com%C3%A1n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ea6d8328c81cabf7b65caba6818f5b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188045,
+            "locality_id":1293755151,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1293755151,
+    "wof:lastmodified":1537584855,
+    "wof:name":"Monte Coman",
+    "wof:parent_id":421188045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8783,
+    -34.59173,
+    -67.8783,
+    -34.59173
+],
+  "geometry": {"coordinates":[-67.8783,-34.59173],"type":"Point"}
+}

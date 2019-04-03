@@ -1,0 +1,68 @@
+{
+  "id": 1343720945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02128,-30.98409,-61.02128,-30.98409",
+    "geom:latitude":-30.98409,
+    "geom:longitude":-61.02128,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Providencia",
+    "gn:country_code":"AR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840255,
+    "gn:latitude":-30.98409,
+    "gn:longitude":-61.02128,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840255
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d0f024c1be3bd9740f7cc84990d7eedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1343720945,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1343720945,
+    "wof:lastmodified":1536866755,
+    "wof:name":"Providencia",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02128,
+    -30.98409,
+    -61.02128,
+    -30.98409
+],
+  "geometry": {"coordinates":[-61.02128,-30.98409],"type":"Point"}
+}

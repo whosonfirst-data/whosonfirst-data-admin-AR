@@ -1,0 +1,96 @@
+{
+  "id": 421191829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.63396,-31.40675,-62.63396,-31.40675",
+    "geom:latitude":-31.40675,
+    "geom:longitude":-62.63396,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "La Francia"
+    ],
+    "name:eng_x_preferred":[
+        "La Francia"
+    ],
+    "name:por_x_preferred":[
+        "La Francia"
+    ],
+    "name:spa_x_preferred":[
+        "La Francia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0424\u0440\u0430\u043d\u0441\u044c\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3851181,
+    "qs:gn_pop":3503,
+    "qs:name":"La Francia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1156161,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330931,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851181,
+        "gp:id":330931,
+        "qs:id":1156161,
+        "wd:id":"Q9018548"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009711,
+    "wof:geomhash":"3313e6b235e727b87d8698704f887414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":421191829,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421191829,
+    "wof:lastmodified":1527716372,
+    "wof:name":"La Francia",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":3503,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.63396,
+    -31.40675,
+    -62.63396,
+    -31.40675
+],
+  "geometry": {"coordinates":[-62.63396,-31.40675],"type":"Point"}
+}

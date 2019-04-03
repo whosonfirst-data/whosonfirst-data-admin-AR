@@ -1,0 +1,72 @@
+{
+  "id": 1225821571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.93462,-24.3944,-63.93462,-24.3944",
+    "geom:latitude":-24.3944,
+    "geom:longitude":-63.93462,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66007.0",
+    "gn:asciiname":"Pericotes",
+    "gn:country_code":"AR",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841479,
+    "gn:latitude":-24.3944,
+    "gn:longitude":-63.93462,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pericotes",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pericote",
+        "Pericotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841479
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"12b550de7c30463fc22bd3aded6a7539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1225821571,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1225821571,
+    "wof:lastmodified":1537584849,
+    "wof:name":"Pericotes",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.93462,
+    -24.3944,
+    -63.93462,
+    -24.3944
+],
+  "geometry": {"coordinates":[-63.93462,-24.3944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259600907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.11001,-35.63832,-60.11001,-35.63832",
+    "geom:latitude":-35.63832,
+    "geom:longitude":-60.11001,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6854.0",
+    "gn:asciiname":"Pueblitos",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840228,
+    "gn:latitude":-35.63832,
+    "gn:longitude":-60.11001,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pueblitos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840228
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"eb97574005ae68986b1cba580d7f9839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718131,
+            "locality_id":1259600907,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1259600907,
+    "wof:lastmodified":1536689798,
+    "wof:name":"Pueblitos",
+    "wof:parent_id":1108718131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.11001,
+    -35.63832,
+    -60.11001,
+    -35.63832
+],
+  "geometry": {"coordinates":[-60.11001,-35.63832],"type":"Point"}
+}

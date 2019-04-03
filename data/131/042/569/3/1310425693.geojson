@@ -1,0 +1,68 @@
+{
+  "id": 1310425693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.49246,-31.63409,-58.49246,-31.63409",
+    "geom:latitude":-31.63409,
+    "geom:longitude":-58.49246,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30088.0",
+    "gn:asciiname":"Cremeria",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8054716,
+    "gn:latitude":-31.63409,
+    "gn:longitude":-58.49246,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cremer\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8054716
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f7ef40ac99cafdc11012bbdcae641899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718255,
+            "locality_id":1310425693,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1310425693,
+    "wof:lastmodified":1537030827,
+    "wof:name":"Cremeria",
+    "wof:parent_id":1108718255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.49246,
+    -31.63409,
+    -58.49246,
+    -31.63409
+],
+  "geometry": {"coordinates":[-58.49246,-31.63409],"type":"Point"}
+}

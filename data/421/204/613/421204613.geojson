@@ -1,0 +1,137 @@
+{
+  "id": 421204613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.31287,-34.69467,-58.31287,-34.69467",
+    "geom:latitude":-34.69467,
+    "geom:longitude":-58.31287,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u064a\u0644\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u062f\u0647"
+    ],
+    "name:chi_x_preferred":[
+        "\u61f7\u723e\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Wilde"
+    ],
+    "name:eng_x_preferred":[
+        "Wilde"
+    ],
+    "name:fre_x_preferred":[
+        "Wilde"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d3\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Wilde"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0644\u062f\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Wilde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Wilde"
+    ],
+    "name:swe_x_preferred":[
+        "Wilde"
+    ],
+    "name:tur_x_preferred":[
+        "Wilde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Villa Wilde"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427326,
+    "qs:gn_pop":0,
+    "qs:name":"Wilde",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":219,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":219,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":242752,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466821,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-34.7,
+    "wd:longitude":-58.316667,
+    "wd:wordcount":1282,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668081,
+        421191687,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427326,
+        "gp:id":466821,
+        "qs:id":242752,
+        "wd:id":"Q3315977",
+        "wk:page":"Wilde, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"9e25c3ca9cae8ed74589b23f5fa97715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191687,
+            "locality_id":421204613,
+            "region_id":85668081
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191687,
+            "locality_id":421204613,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204613,
+    "wof:lastmodified":1553816390,
+    "wof:name":"Wilde",
+    "wof:parent_id":421191687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.31287,
+    -34.69467,
+    -58.31287,
+    -34.69467
+],
+  "geometry": {"coordinates":[-58.31287,-34.69467],"type":"Point"}
+}

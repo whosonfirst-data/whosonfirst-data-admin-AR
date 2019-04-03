@@ -1,0 +1,121 @@
+{
+  "id": 421178921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.84243,-27.00147,-59.84243,-27.00147",
+    "geom:latitude":-27.00147,
+    "geom:longitude":-59.84243,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u62c9\u666e\u62c9\u85a9\u7e3d\u7d71\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:eng_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:fra_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:fre_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:ita_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:por_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:spa_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:swe_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0456\u0434\u0435\u043d\u0441\u044c\u044f-\u0434\u0435-\u043b\u0430-\u041f\u043b\u0430\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Puerto de la Plaza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u666e\u62c9\u85a9\u7e3d\u7d71\u93ae"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429866,
+    "qs:gn_pop":12231,
+    "qs:name":"Presidencia de la Plaza",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":291160,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466191,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429866,
+        "gp:id":466191,
+        "qs:id":291160,
+        "wd:id":"Q1656867",
+        "wk:page":"Presidencia de la Plaza"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009197,
+    "wof:geomhash":"5a751386d3883249399fac22dafa50f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718219,
+            "locality_id":421178921,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421178921,
+    "wof:lastmodified":1527717729,
+    "wof:name":"Presidencia de la Plaza",
+    "wof:parent_id":1108718219,
+    "wof:placetype":"locality",
+    "wof:population":12231,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.84243,
+    -27.00147,
+    -59.84243,
+    -27.00147
+],
+  "geometry": {"coordinates":[-59.84243,-27.00147],"type":"Point"}
+}

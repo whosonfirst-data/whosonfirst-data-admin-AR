@@ -1,0 +1,72 @@
+{
+  "id": 1277154211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6996,-28.96731,-67.6996,-28.96731",
+    "geom:latitude":-28.96731,
+    "geom:longitude":-67.6996,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46049.0",
+    "gn:asciiname":"La Encrucijada",
+    "gn:country_code":"AR",
+    "gn:dem":3253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851598,
+    "gn:latitude":-28.96731,
+    "gn:longitude":-67.6996,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Encrucijada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Encrucijada",
+        "La Encrucijada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851598
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a050603e76ccf24ccb8b9257141d3c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718329,
+            "locality_id":1277154211,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1277154211,
+    "wof:lastmodified":1537584867,
+    "wof:name":"La Encrucijada",
+    "wof:parent_id":1108718329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6996,
+    -28.96731,
+    -67.6996,
+    -28.96731
+],
+  "geometry": {"coordinates":[-67.6996,-28.96731],"type":"Point"}
+}

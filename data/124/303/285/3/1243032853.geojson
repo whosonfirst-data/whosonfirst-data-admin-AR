@@ -1,0 +1,74 @@
+{
+  "id": 1243032853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,-48.43333,-68.96667,-48.43333",
+    "geom:latitude":-48.43333,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78042.0",
+    "gn:asciiname":"Juan Jose Albornoz",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853425,
+    "gn:latitude":-48.43333,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan Jos\u00e9 Albornoz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J. Albornoz",
+        "J.J. Albornoz",
+        "Juan Jos\u00e9 Albornoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421185323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853425
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aa653e6ce9a088692a52a4403dbbcb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185323,
+            "locality_id":1243032853,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1243032853,
+    "wof:lastmodified":1537584869,
+    "wof:name":"Juan Jose Albornoz",
+    "wof:parent_id":421185323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    -48.43333,
+    -68.96667,
+    -48.43333
+],
+  "geometry": {"coordinates":[-68.96666999999999,-48.43333],"type":"Point"}
+}

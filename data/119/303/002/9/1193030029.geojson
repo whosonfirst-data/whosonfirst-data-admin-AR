@@ -1,0 +1,75 @@
+{
+  "id": 1193030029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.01252,-35.03285,-63.01252,-35.03285",
+    "geom:latitude":-35.03285,
+    "geom:longitude":-63.01252,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6392.0",
+    "gn:asciiname":"General Villegas",
+    "gn:country_code":"AR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3855041,
+    "gn:latitude":-35.03285,
+    "gn:longitude":-63.01252,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"General Villegas",
+    "gn:population":16270,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b \u0412\u0438\u043b\u0435\u0433\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855041,
+        "wk:page":"General_Villegas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1ab5f554419ca6ad9266a0c535668f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717973,
+            "locality_id":1193030029,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193030029,
+    "wof:lastmodified":1537584874,
+    "wof:name":"General Villegas",
+    "wof:parent_id":1108717973,
+    "wof:placetype":"locality",
+    "wof:population":16270,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.01252,
+    -35.03285,
+    -63.01252,
+    -35.03285
+],
+  "geometry": {"coordinates":[-63.01252,-35.03285],"type":"Point"}
+}

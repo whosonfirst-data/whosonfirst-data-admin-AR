@@ -1,0 +1,107 @@
+{
+  "id": 421176557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4094,-41.11618,-71.4094,-41.11618",
+    "geom:latitude":-41.11618,
+    "geom:longitude":-71.4094,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:fra_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:lit_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:nld_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0442\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:slk_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:spa_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:tur_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Moreno"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841476,
+    "qs:gn_pop":0,
+    "qs:name":"Perito Moreno",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":2093,
+    "qs:photos_1k":424,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2093,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046836,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467359,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841476,
+        "gp:id":467359,
+        "qs:id":1046836
+    },
+    "wof:country":"AR",
+    "wof:created":1459009112,
+    "wof:geomhash":"64022b52a50fd653ee5ae2cb0c5b46f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "locality_id":421176557,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421176557,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Perito Moreno",
+    "wof:parent_id":421188061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4094,
+    -41.11618,
+    -71.4094,
+    -41.11618
+],
+  "geometry": {"coordinates":[-71.40940000000001,-41.11618],"type":"Point"}
+}

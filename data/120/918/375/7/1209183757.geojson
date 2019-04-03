@@ -1,0 +1,67 @@
+{
+  "id": 1209183757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48092,-39.096,-65.48092,-39.096",
+    "geom:latitude":-39.096,
+    "geom:longitude":-65.48092,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62014.0",
+    "gn:asciiname":"Benjamin Zorrilla",
+    "gn:country_code":"AR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864309,
+    "gn:latitude":-39.096,
+    "gn:longitude":-65.48092,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Benjam\u00edn Zorrilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B. Zorrilla",
+        "Benjamin Zorrillo",
+        "Benjam\u00edn Zorrilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864309
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8163ae90507d44e4004128946c198055",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209183757
+        }
+    ],
+    "wof:id":1209183757,
+    "wof:lastmodified":1537584899,
+    "wof:name":"Benjamin Zorrilla",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48092,
+    -39.096,
+    -65.48092,
+    -39.096
+],
+  "geometry": {"coordinates":[-65.48092,-39.096],"type":"Point"}
+}

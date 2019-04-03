@@ -1,0 +1,76 @@
+{
+  "id": 421181759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.55151,-26.24842,-54.55151,-26.24842",
+    "geom:latitude":-26.24842,
+    "geom:longitude":-54.55151,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435315,
+    "qs:gn_pop":0,
+    "qs:name":"Colonia Mar\u00eda Magdalena",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501596,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465146,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421202251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435315,
+        "gp:id":465146,
+        "qs:id":501596
+    },
+    "wof:country":"AR",
+    "wof:created":1459009306,
+    "wof:geomhash":"6ca464c51c18f18b852ace9fed302b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202251,
+            "locality_id":421181759,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421181759,
+    "wof:lastmodified":1499925625,
+    "wof:name":"Colonia Mar\u00eda Magdalena",
+    "wof:parent_id":421202251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.55151,
+    -26.24842,
+    -54.55151,
+    -26.24842
+],
+  "geometry": {"coordinates":[-54.55151,-26.24842],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 421191541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.79138,-34.63401,-58.79138,-34.63401",
+    "geom:latitude":-34.63401,
+    "geom:longitude":-58.79138,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u0646\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0646\u0648"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0580\u0565\u0576\u0578"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d4\u10dc\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u96f7\u8afe"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7778796,
+    "qs:gn_pop":0,
+    "qs:name":"Moreno",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":499,
+    "qs:photos_1k":101,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":499,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1142088,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468959,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778796,
+        "gp:id":468959,
+        "qs:id":1142088
+    },
+    "wof:country":"AR",
+    "wof:created":1459009696,
+    "wof:geomhash":"4da0e73fa83914508536996288992749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718031,
+            "locality_id":421191541,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421191541,
+    "wof:lastmodified":1501273318,
+    "wof:name":"Moreno",
+    "wof:parent_id":1108718031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.79138,
+    -34.63401,
+    -58.79138,
+    -34.63401
+],
+  "geometry": {"coordinates":[-58.79138,-34.63401],"type":"Point"}
+}

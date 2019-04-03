@@ -1,0 +1,71 @@
+{
+  "id": 1243367587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.85672,-34.99082,-57.85672,-34.99082",
+    "geom:latitude":-34.99082,
+    "geom:longitude":-57.85672,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6441.0",
+    "gn:asciiname":"Villa Garibaldi",
+    "gn:country_code":"AR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427434,
+    "gn:latitude":-34.99082,
+    "gn:longitude":-57.85672,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Villa Garibaldi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Garibaldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427434
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"55e1f64cafce06caea0df539405537f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717993,
+            "locality_id":1243367587,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243367587,
+    "wof:lastmodified":1537584813,
+    "wof:name":"Villa Garibaldi",
+    "wof:parent_id":1108717993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.85672,
+    -34.99082,
+    -57.85672,
+    -34.99082
+],
+  "geometry": {"coordinates":[-57.85672,-34.99082],"type":"Point"}
+}

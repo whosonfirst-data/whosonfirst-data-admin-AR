@@ -1,0 +1,93 @@
+{
+  "id": 421181999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75651,-31.90321,-64.75651,-31.90321",
+    "geom:latitude":-31.90321,
+    "geom:longitude":-64.75651,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Villa Berna"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Berna"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Berna"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Berna"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7304381,
+    "qs:gn_pop":5000,
+    "qs:name":"Villa Berna",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":539823,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040234,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":458,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304381,
+        "gp:id":56040234,
+        "qs:id":539823,
+        "wd:id":"Q6162060"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009315,
+    "wof:geomhash":"ec6174d6d9d92480ac25c6e576c6ceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186303,
+            "locality_id":421181999,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421181999,
+    "wof:lastmodified":1527716321,
+    "wof:name":"Villa Berna",
+    "wof:parent_id":421186303,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75651,
+    -31.90321,
+    -64.75651,
+    -31.90321
+],
+  "geometry": {"coordinates":[-64.75651000000001,-31.90321],"type":"Point"}
+}

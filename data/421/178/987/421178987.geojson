@@ -1,0 +1,264 @@
+{
+  "id": 421178987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.08266,-31.42797,-62.08266,-31.42797",
+    "geom:latitude":-31.42797,
+    "geom:longitude":-62.08266,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648\u060c \u0642\u0631\u0637\u0628\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "San Francisco"
+    ],
+    "name:ceb_x_preferred":[
+        "San Francisco"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u6717\u897f\u65af\u79d1"
+    ],
+    "name:dan_x_preferred":[
+        "San Francisco"
+    ],
+    "name:deu_x_preferred":[
+        "San Francisco"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco"
+    ],
+    "name:eng_x_preferred":[
+        "La Para"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "San Francisco"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco"
+    ],
+    "name:ger_x_preferred":[
+        "San Francisco"
+    ],
+    "name:glg_x_preferred":[
+        "San Francisco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05e8\u05e0\u05e1\u05d9\u05e1\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Francisco"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco"
+    ],
+    "name:lit_x_preferred":[
+        "San Fransiskas"
+    ],
+    "name:nap_x_preferred":[
+        "San Francisco"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "San Francisco"
+    ],
+    "name:pol_x_preferred":[
+        "San Francisco"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e"
+    ],
+    "name:slo_x_preferred":[
+        "San Francisco"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u6717\u897f\u65af\u79d1"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"C\u00f3rdoba",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":2,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3837675,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Francisco",
+    "ne:GN_POP":59062,
+    "ne:GTOPO30":123.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-31.430034,
+    "ne:LONGITUDE":-62.089967,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Francisco2",
+    "ne:MAX_AREAKM":19.0,
+    "ne:MAX_AREAMI":7.0,
+    "ne:MAX_BBXMAX":-62.05,
+    "ne:MAX_BBXMIN":-62.108333,
+    "ne:MAX_BBYMAX":-31.408333,
+    "ne:MAX_BBYMIN":-31.45,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":21.0,
+    "ne:MAX_PERMI":13.0,
+    "ne:MAX_POP10":27400,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-62.082692,
+    "ne:MEAN_BBYC":-31.429487,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":19.0,
+    "ne:MIN_AREAMI":7.0,
+    "ne:MIN_BBXMAX":-62.05,
+    "ne:MIN_BBXMIN":-62.108333,
+    "ne:MIN_BBYMAX":-31.408333,
+    "ne:MIN_BBYMIN":-31.45,
+    "ne:MIN_PERKM":21.0,
+    "ne:MIN_PERMI":13.0,
+    "ne:NAME":"San Francisco",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Francisco",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":59062,
+    "ne:POP_MIN":27400,
+    "ne:POP_OTHER":27400,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837675,
+    "qs:gn_pop":59062,
+    "qs:name":"San Francisco",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":338484,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332510,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-31.435556,
+    "wd:longitude":-62.071389,
+    "wd:wordcount":605,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837675,
+        "gp:id":332510,
+        "qs:id":338484,
+        "wd:id":"Q949535",
+        "wk:page":"San Francisco, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009200,
+    "wof:geomhash":"8c5e525bb48f553272b4d36da30639d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":421178987,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421178987,
+    "wof:lastmodified":1553816368,
+    "wof:name":"San Francisco",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":59062,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.08266,
+    -31.42797,
+    -62.08266,
+    -31.42797
+],
+  "geometry": {"coordinates":[-62.08266,-31.42797],"type":"Point"}
+}

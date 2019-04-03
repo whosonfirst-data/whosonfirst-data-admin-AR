@@ -1,0 +1,106 @@
+{
+  "id": 421174911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.81523,-26.71459,-54.81523,-26.71459",
+    "geom:latitude":-26.71459,
+    "geom:longitude":-54.81523,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:dut_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:eng_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30a2\u30eb\u30ab\u30b5\u30eb"
+    ],
+    "name:por_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:spa_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:swe_x_preferred":[
+        "El Alc\u00e1zar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u043b\u044c\u043a\u0430\u0441\u0430\u0440"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3434932,
+    "qs:gn_pop":5127,
+    "qs:name":"El Alc\u00e1zar",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":347329,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330308,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434932,
+        "gp:id":330308,
+        "qs:id":347329,
+        "wd:id":"Q5350719",
+        "wk:page":"El Alc\u00e1zar (Misiones)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009048,
+    "wof:geomhash":"84ab6962e335ac5877b50070304943f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718373,
+            "locality_id":421174911,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421174911,
+    "wof:lastmodified":1527716231,
+    "wof:name":"El Alc\u00e1zar",
+    "wof:parent_id":1108718373,
+    "wof:placetype":"locality",
+    "wof:population":5127,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.81523,
+    -26.71459,
+    -54.81523,
+    -26.71459
+],
+  "geometry": {"coordinates":[-54.81523,-26.71459],"type":"Point"}
+}

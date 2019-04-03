@@ -1,0 +1,73 @@
+{
+  "id": 1343422761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38236,-49.05126,-68.38236,-49.05126",
+    "geom:latitude":-49.05126,
+    "geom:longitude":-68.38236,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78042.0",
+    "gn:asciiname":"Bajo Picaso",
+    "gn:country_code":"AR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864977,
+    "gn:latitude":-49.05126,
+    "gn:longitude":-68.38236,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bajo Picaso",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Bajo Picaso",
+        "Bajo Picazo",
+        "Bajo Picaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421185323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864977
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3b588fead4f4f9c29065b8605e1b50c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185323,
+            "locality_id":1343422761,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1343422761,
+    "wof:lastmodified":1537584900,
+    "wof:name":"Bajo Picaso",
+    "wof:parent_id":421185323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38235999999999,
+    -49.05126,
+    -68.38235999999999,
+    -49.05126
+],
+  "geometry": {"coordinates":[-68.38235999999999,-49.05126],"type":"Point"}
+}

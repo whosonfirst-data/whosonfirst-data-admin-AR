@@ -1,0 +1,89 @@
+{
+  "id": 421169853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0824,-31.40099,-61.0824,-31.40099",
+    "geom:latitude":-31.40099,
+    "geom:longitude":-61.0824,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Humboldt"
+    ],
+    "name:eng_x_preferred":[
+        "Humboldt"
+    ],
+    "name:spa_x_preferred":[
+        "Humboldt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u043c\u0431\u043e\u043b\u044c\u0434\u0442"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853958,
+    "qs:gn_pop":0,
+    "qs:name":"Humboldt",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181839,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465546,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853958,
+        "gp:id":465546,
+        "qs:id":181839,
+        "wd:id":"Q3148337"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008826,
+    "wof:geomhash":"6ae38f7d001e97fa1f62b03e1b33e3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":421169853,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421169853,
+    "wof:lastmodified":1513889205,
+    "wof:name":"Humboldt",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0824,
+    -31.40099,
+    -61.0824,
+    -31.40099
+],
+  "geometry": {"coordinates":[-61.0824,-31.40099],"type":"Point"}
+}

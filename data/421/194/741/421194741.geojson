@@ -1,0 +1,118 @@
+{
+  "id": 421194741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.92511,-26.59344,-65.92511,-26.59344",
+    "geom:latitude":-26.59344,
+    "geom:longitude":-65.92511,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Amaich\u00e1 del Valle"
+    ],
+    "name:deu_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:dut_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:eng_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u06cc\u0686\u0627 \u062f\u0644 \u0648\u0627\u0644"
+    ],
+    "name:fre_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:ger_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:nld_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0627\u06cc\u0686\u0627 \u062f\u0644 \u0648\u0627\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:spa_x_preferred":[
+        "Amaicha del Valle"
+    ],
+    "name:swe_x_preferred":[
+        "Amaich\u00e1 del Valle"
+    ],
+    "name:unk_x_variant":[
+        "Amaich\u00e1"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3865969,
+    "qs:gn_pop":0,
+    "qs:name":"Amaich\u00e1 del Valle",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":342,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":342,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":906645,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464616,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421186297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865969,
+        "gp:id":464616,
+        "qs:id":906645,
+        "wd:id":"Q452542",
+        "wk:page":"Amaicha del Valle"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009818,
+    "wof:geomhash":"90a104f280d1da19a5a43f52c7b9d4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186297,
+            "locality_id":421194741,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421194741,
+    "wof:lastmodified":1527716133,
+    "wof:name":"Amaich\u00e1 del Valle",
+    "wof:parent_id":421186297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.92511,
+    -26.59344,
+    -65.92511,
+    -26.59344
+],
+  "geometry": {"coordinates":[-65.92511,-26.59344],"type":"Point"}
+}

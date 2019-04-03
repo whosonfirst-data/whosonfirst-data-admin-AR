@@ -1,0 +1,72 @@
+{
+  "id": 1310602931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.32304,-27.48547,-61.32304,-27.48547",
+    "geom:latitude":-27.48547,
+    "geom:longitude":-61.32304,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22039.0",
+    "gn:asciiname":"Itin",
+    "gn:country_code":"AR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853608,
+    "gn:latitude":-27.48547,
+    "gn:longitude":-61.32304,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"It\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "It\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853608,
+        "wk:page":"It%C3%ADn%2C_Chaco"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0c9fd9f52b9390947749da4f6484a9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718197,
+            "locality_id":1310602931,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1310602931,
+    "wof:lastmodified":1537584871,
+    "wof:name":"Itin",
+    "wof:parent_id":1108718197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.32304,
+    -27.48547,
+    -61.32304,
+    -27.48547
+],
+  "geometry": {"coordinates":[-61.32304,-27.48547],"type":"Point"}
+}

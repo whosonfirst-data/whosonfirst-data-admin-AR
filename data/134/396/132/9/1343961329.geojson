@@ -1,0 +1,73 @@
+{
+  "id": 1343961329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67113,-28.51287,-65.67113,-28.51287",
+    "geom:latitude":-28.51287,
+    "geom:longitude":-65.67113,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10112.0",
+    "gn:asciiname":"Huaycama",
+    "gn:country_code":"AR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854061,
+    "gn:latitude":-28.51287,
+    "gn:longitude":-65.67113,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Huaycama",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualcama",
+        "Huaycama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421189013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854061,
+        "wk:page":"Huaycama_%28Valle_Viejo%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"61e972e651e94206de68dca8f4921e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189013,
+            "locality_id":1343961329,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1343961329,
+    "wof:lastmodified":1537584872,
+    "wof:name":"Huaycama",
+    "wof:parent_id":421189013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67113,
+    -28.51287,
+    -65.67113,
+    -28.51287
+],
+  "geometry": {"coordinates":[-65.67113000000001,-28.51287],"type":"Point"}
+}

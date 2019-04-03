@@ -1,0 +1,145 @@
+{
+  "id": 85764293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":2540974.982854,
+    "geom:bbox":"-58.4795918633,-34.6987191705,-58.4618879798,-34.6761348798",
+    "geom:latitude":-34.687382,
+    "geom:longitude":-58.471095,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.68333,
+    "gn:longitude":-58.46667,
+    "iso:country":"AR",
+    "lbl:latitude":-34.68818,
+    "lbl:longitude":-58.468323,
+    "mps:latitude":-34.687294,
+    "mps:longitude":-58.470044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"???",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Tellier"
+    ],
+    "name:fra_x_preferred":[
+        "Tellier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Tellier"
+    ],
+    "name:unk_x_variant":[
+        "Tellier"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3435910,
+    "qs:gn_nam_loc":"Buenos Aires, Ciudad de Buenos Aires, AR",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Tellier",
+    "qs:local_max":20760,
+    "qs:local_sum":172164,
+    "qs:localhoods":70,
+    "qs:name":"Tellier",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:name_adm2":"Ciudad de Buenos Aires",
+    "qs:name_local":"Buenos Aires",
+    "qs:photo_max":6,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344681,
+    "qs:woe_adm2":20070753,
+    "qs:woe_lau":0,
+    "qs:woe_local":468739,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3427779,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tellier",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Ciudad de Buenos Aires",
+    "qs_pg:photos":240,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":240,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062689,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":332248,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":70,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        421174285,
+        1109371865,
+        85668081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427779,
+        "gp:id":332248,
+        "qs:id":1062689,
+        "qs_pg:id":1062689
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"48b299f5c03083f5680324226f686d79",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371865,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":85764293,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":85764293,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379082,
+    "wof:name":"Tellier",
+    "wof:parent_id":1109371865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126087769
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.47959186329268,
+    -34.69871917047505,
+    -58.46188797980307,
+    -34.67613487977491
+],
+  "geometry": {"coordinates":[[[-58.47109481071539,-34.69871917047505],[-58.47579682879075,-34.69871917047505],[-58.47959186329268,-34.69225699917298],[-58.47562094061135,-34.68742764125],[-58.47780074873157,-34.68212599576542],[-58.47473149598227,-34.67839374009992],[-58.47473144529988,-34.6783936784694],[-58.47287390264358,-34.67613487977491],[-58.46923828127473,-34.67613487977491],[-58.46649169922483,-34.67780477594096],[-58.46649169922483,-34.67957084067986],[-58.46374511719992,-34.68291090629977],[-58.46374506654524,-34.68291096789991],[-58.46188797980307,-34.68516933539976],[-58.46374511720001,-34.68742788769997],[-58.46374511720001,-34.68742794929994],[-58.46374511720001,-34.6919446843],[-58.46374511720001,-34.6920081255018],[-58.46827924053269,-34.69311102093189],[-58.46872809691081,-34.69584058413101],[-58.46923828129997,-34.69646111113048],[-58.46923828130005,-34.69646117269998],[-58.46923833192125,-34.69646117270008],[-58.47109481071539,-34.69871917047505]]],"type":"Polygon"}
+}

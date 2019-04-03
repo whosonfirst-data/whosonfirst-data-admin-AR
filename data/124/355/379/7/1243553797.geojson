@@ -1,0 +1,71 @@
+{
+  "id": 1243553797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.97687,-32.67831,-64.97687,-32.67831",
+    "geom:latitude":-32.67831,
+    "geom:longitude":-64.97687,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Papagayos",
+    "gn:country_code":"AR",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841998,
+    "gn:latitude":-32.67831,
+    "gn:longitude":-64.97687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Papagayos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papagallos",
+        "Papagayos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841998
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f2d976791784a079bc1d8dd6ac2add26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718441,
+            "locality_id":1243553797,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1243553797,
+    "wof:lastmodified":1537584851,
+    "wof:name":"Papagayos",
+    "wof:parent_id":1108718441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.97686999999999,
+    -32.67831,
+    -64.97686999999999,
+    -32.67831
+],
+  "geometry": {"coordinates":[-64.97686999999999,-32.67831],"type":"Point"}
+}

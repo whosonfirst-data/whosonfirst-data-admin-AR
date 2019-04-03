@@ -1,0 +1,113 @@
+{
+  "id": 85764255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000319,
+    "geom:area_square_m":3243764.54179,
+    "geom:bbox":"-58.4534660833,-34.6648402702,-58.4263587709,-34.6430340319",
+    "geom:latitude":-34.654334,
+    "geom:longitude":-58.439617,
+    "gn:latitude":-34.65,
+    "gn:longitude":-58.43333,
+    "iso:country":"AR",
+    "lbl:latitude":-34.649079,
+    "lbl:longitude":-58.448371,
+    "mps:latitude":-34.65161,
+    "mps:longitude":-58.442081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:spa_x_preferred":[
+        "Presidente Rivadavia"
+    ],
+    "name:spa_x_variant":[
+        "Bajo Flores"
+    ],
+    "name:unk_x_variant":[
+        "Presidente Rivadavia"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3435910,
+    "qs:gn_nam_loc":"Buenos Aires, Ciudad de Buenos Aires, AR",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Presidente Rivadavia",
+    "qs:local_max":20760,
+    "qs:local_sum":172164,
+    "qs:localhoods":70,
+    "qs:name":"Presidente Rivadavia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:name_adm2":"Ciudad de Buenos Aires",
+    "qs:name_local":"Buenos Aires",
+    "qs:photo_max":227,
+    "qs:photo_sum":249,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344681,
+    "qs:woe_adm2":20070753,
+    "qs:woe_lau":0,
+    "qs:woe_local":468739,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":218,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        421174285,
+        1109371863,
+        85668081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429861,
+        "gp:id":331686,
+        "qs:id":401969,
+        "wd:id":"Q4848910"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6ea36a729e045797d2906493323a3eef",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371863,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":85764255,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":85764255,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1536864462,
+    "wof:name":"Bajo Flores",
+    "wof:parent_id":1109371863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.45346608325821,
+    -34.66484027024975,
+    -58.42635877089819,
+    -34.64303403185698
+],
+  "geometry": {"coordinates":[[[-58.43627929688529,-34.64676624649992],[-58.43627929688421,-34.6512851373998],[-58.43078613279999,-34.6512851373998],[-58.43078608212596,-34.65128519899994],[-58.42706891970533,-34.65580384349994],[-58.42635877089819,-34.65623548962234],[-58.42836276846484,-34.66110820652502],[-58.43450213001722,-34.66484027024975],[-58.43627929687472,-34.66484027024975],[-58.43805626105274,-34.66484027024975],[-58.44177241027691,-34.6603223648],[-58.44177246089987,-34.6603223648],[-58.44177246089987,-34.66032230325519],[-58.44471628666003,-34.65674334943965],[-58.447265625,-34.65777643526631],[-58.45032481640624,-34.65736320289799],[-58.45346608325821,-34.6535444288499],[-58.45110980480337,-34.64877060840304],[-58.44854873584592,-34.64832587083698],[-58.44726567563541,-34.64676624649992],[-58.447265625,-34.64676618495005],[-58.44540666384788,-34.64450652399996],[-58.44177246092482,-34.64450652399996],[-58.4393496369965,-34.64303403185698],[-58.43627929687898,-34.64676618494987],[-58.43627929688529,-34.64676624649992]]],"type":"Polygon"}
+}

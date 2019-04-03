@@ -1,0 +1,74 @@
+{
+  "id": 1293598713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.56667,-33.83333,-60.56667,-33.83333",
+    "geom:latitude":-33.83333,
+    "geom:longitude":-60.56667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6623.0",
+    "gn:asciiname":"Francisco Ayerza",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855384,
+    "gn:latitude":-33.83333,
+    "gn:longitude":-60.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Francisco Ayerza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Huertas",
+        "F. Ayerza",
+        "Francisco Ayerza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855384
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"49bf93f6eb089a12285d8de19bbda539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718051,
+            "locality_id":1293598713,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293598713,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Francisco Ayerza",
+    "wof:parent_id":1108718051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.56667,
+    -33.83333,
+    -60.56667,
+    -33.83333
+],
+  "geometry": {"coordinates":[-60.56667,-33.83333],"type":"Point"}
+}

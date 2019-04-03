@@ -1,0 +1,62 @@
+{
+  "id": 1209388081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.42167,-37.02914,-70.42167,-37.02914",
+    "geom:latitude":-37.02914,
+    "geom:longitude":-70.42167,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58042.0",
+    "gn:asciiname":"Cancha Huinganco",
+    "gn:country_code":"AR",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862853,
+    "gn:latitude":-37.02914,
+    "gn:longitude":-70.42167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cancha Huinganco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862853
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3b72678062a597def9f3aec7530334f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209388081
+        }
+    ],
+    "wof:id":1209388081,
+    "wof:lastmodified":1536288555,
+    "wof:name":"Cancha Huinganco",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.42166999999998,
+    -37.02914000000001,
+    -70.42166999999998,
+    -37.02914000000001
+],
+  "geometry": {"coordinates":[-70.42166999999998,-37.02914000000001],"type":"Point"}
+}

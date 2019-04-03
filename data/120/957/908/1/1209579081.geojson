@@ -1,0 +1,67 @@
+{
+  "id": 1209579081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.95156,-23.32717,-63.95156,-23.32717",
+    "geom:latitude":-23.32717,
+    "geom:longitude":-63.95156,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66126.0",
+    "gn:asciiname":"El Quimilar",
+    "gn:country_code":"AR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856963,
+    "gn:latitude":-23.32717,
+    "gn:longitude":-63.95156,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Quimilar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carboncito",
+        "El Quimilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856963,
+        "wk:page":"Carboncito"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9f31c37317708a813b7204effe3fe7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209579081
+        }
+    ],
+    "wof:id":1209579081,
+    "wof:lastmodified":1537584880,
+    "wof:name":"El Quimilar",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.95156,
+    -23.32717,
+    -63.95156,
+    -23.32717
+],
+  "geometry": {"coordinates":[-63.95156,-23.32717],"type":"Point"}
+}

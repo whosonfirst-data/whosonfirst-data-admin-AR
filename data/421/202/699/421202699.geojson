@@ -1,0 +1,90 @@
+{
+  "id": 421202699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-60.040283,-34.4595785,-60.040283,-34.4595785",
+    "geom:latitude":-34.459578,
+    "geom:longitude":-60.040283,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:epo_x_preferred":[
+        "Carmen de Areco"
+    ],
+    "name:fra_x_preferred":[
+        "Carmen de Areco"
+    ],
+    "name:por_x_preferred":[
+        "Carmen de Areco"
+    ],
+    "name:sco_x_preferred":[
+        "Carmen de Areco"
+    ],
+    "name:spa_x_preferred":[
+        "Carmen de Areco"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Carmen de Areco",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":84,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":226335,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070941,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070941,
+        "qs:id":226335,
+        "wd:id":"Q5043625"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010126,
+    "wof:geomhash":"0d26e6faf4f829989827f469e99f1826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202699,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421202699,
+    "wof:lastmodified":1527716211,
+    "wof:name":"Carmen de Areco",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.040283,
+    -34.4595785,
+    -60.040283,
+    -34.4595785
+],
+  "geometry": {"coordinates":[-60.040283,-34.4595785],"type":"Point"}
+}

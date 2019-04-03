@@ -1,0 +1,68 @@
+{
+  "id": 1309813157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.802,-35.36402,-61.802,-35.36402",
+    "geom:latitude":-35.36402,
+    "geom:longitude":-61.802,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6469.0",
+    "gn:asciiname":"Las Toscas",
+    "gn:country_code":"AR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847728,
+    "gn:latitude":-35.36402,
+    "gn:longitude":-61.802,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Toscas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847728
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"43bed5f003ba9f4f4a11231229ae4402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718003,
+            "locality_id":1309813157,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1309813157,
+    "wof:lastmodified":1536921001,
+    "wof:name":"Las Toscas",
+    "wof:parent_id":1108718003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.802,
+    -35.36402000000001,
+    -61.802,
+    -35.36402000000001
+],
+  "geometry": {"coordinates":[-61.802,-35.36402000000001],"type":"Point"}
+}

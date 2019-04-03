@@ -1,0 +1,68 @@
+{
+  "id": 1326619171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03767,-24.50597,-65.03767,-24.50597",
+    "geom:latitude":-24.50597,
+    "geom:longitude":-65.03767,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38014.0",
+    "gn:asciiname":"Pampa Vieja",
+    "gn:country_code":"AR",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842088,
+    "gn:latitude":-24.50597,
+    "gn:longitude":-65.03767,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pampa Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421171243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842088
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"427c3c8642b7986d09a9f2e8c6442425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171243,
+            "locality_id":1326619171,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1326619171,
+    "wof:lastmodified":1536857440,
+    "wof:name":"Pampa Vieja",
+    "wof:parent_id":421171243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03766999999999,
+    -24.50597,
+    -65.03766999999999,
+    -24.50597
+],
+  "geometry": {"coordinates":[-65.03766999999999,-24.50597],"type":"Point"}
+}

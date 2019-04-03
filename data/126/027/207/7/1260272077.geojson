@@ -1,0 +1,74 @@
+{
+  "id": 1260272077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46604,-22.70581,-66.46604,-22.70581",
+    "geom:latitude":-22.70581,
+    "geom:longitude":-66.46604,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38049.0",
+    "gn:asciiname":"Mina Pirquitas",
+    "gn:country_code":"AR",
+    "gn:dem":4078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844219,
+    "gn:latitude":-22.70581,
+    "gn:longitude":-66.46604,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mina Pirquitas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirquitas",
+        "Mina Pirquita",
+        "Mina Pirquitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421174423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844219,
+        "wk:page":"Mina_Pirquitas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a2ff1f104f1ac23570a82025abedb85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174423,
+            "locality_id":1260272077,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1260272077,
+    "wof:lastmodified":1537584855,
+    "wof:name":"Mina Pirquitas",
+    "wof:parent_id":421174423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46604,
+    -22.70581,
+    -66.46604,
+    -22.70581
+],
+  "geometry": {"coordinates":[-66.46604000000001,-22.70581],"type":"Point"}
+}

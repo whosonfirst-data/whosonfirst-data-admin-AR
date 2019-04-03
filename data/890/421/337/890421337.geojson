@@ -1,0 +1,66 @@
+{
+  "id": 890421337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.70673,-34.38375,-58.70673,-34.38375",
+    "geom:latitude":-34.38375,
+    "geom:longitude":-58.70673,
+    "gn:country":"AR",
+    "gn:fcode":"PPLS",
+    "gn:pop":1600,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Santa Catalina - Dique Lujan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015350,
+        "gp:id":330287,
+        "qs:id":749488
+    },
+    "wof:country":"AR",
+    "wof:created":1469051389,
+    "wof:geomhash":"8cdd1c2ed37c6be26888a1abc399fd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718117,
+            "locality_id":890421337,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":890421337,
+    "wof:lastmodified":1505343463,
+    "wof:name":"Santa Catalina - Dique Lujan",
+    "wof:parent_id":1108718117,
+    "wof:placetype":"locality",
+    "wof:population":1600,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.70673,
+    -34.38375,
+    -58.70673,
+    -34.38375
+],
+  "geometry": {"coordinates":[-58.70673,-34.38375],"type":"Point"}
+}

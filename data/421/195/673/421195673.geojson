@@ -1,0 +1,113 @@
+{
+  "id": 421195673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46081,-33.19051,-68.46081,-33.19051",
+    "geom:latitude":-33.19051,
+    "geom:longitude":-68.46081,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u91cc\u74e6\u9054\u7dad\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:eng_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:fre_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:ita_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d0\u30c0\u30d3\u30a2"
+    ],
+    "name:pol_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:por_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0432\u0430\u0434\u0430\u0432\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:spa_x_preferred":[
+        "Rivadavia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432\u0430\u0434\u0430\u0432\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838759,
+    "qs:gn_pop":0,
+    "qs:name":"Rivadavia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":489572,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467045,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421173921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838759,
+        "gp:id":467045,
+        "qs:id":489572,
+        "wd:id":"Q3117988"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009855,
+    "wof:geomhash":"d2c0fa239dabe9b917a99c01f20a47ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421173921,
+            "locality_id":421195673,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421195673,
+    "wof:lastmodified":1553816383,
+    "wof:name":"Rivadavia",
+    "wof:parent_id":421173921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46081,
+    -33.19051,
+    -68.46081,
+    -33.19051
+],
+  "geometry": {"coordinates":[-68.46081,-33.19051],"type":"Point"}
+}

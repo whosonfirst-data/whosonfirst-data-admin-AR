@@ -1,0 +1,103 @@
+{
+  "id": 421183705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.74356,-25.17506,-65.74356,-25.17506",
+    "geom:latitude":-25.17506,
+    "geom:longitude":-65.74356,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Valles Calchaqu\u00edes"
+    ],
+    "name:epo_x_preferred":[
+        "Kal\u0109akiaj Valoj"
+    ],
+    "name:fra_x_preferred":[
+        "Vall\u00e9es Calchaquies"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10e9\u10d0\u10d9\u10d8\u10e1 \u10ee\u10d4\u10dd\u10d1\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Kal\u010diaki\u0173 sl\u0117niai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0430 \u041a\u0430\u043b\u044c\u0447\u0430\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Valles Calchaqu\u00edes"
+    ],
+    "name:swe_x_preferred":[
+        "Valles Calchaqu\u00edes"
+    ],
+    "name:unk_x_variant":[
+        "Quebrada de Escoipe"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3856099,
+    "qs:gn_pop":0,
+    "qs:name":"Escoipe",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":101,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":101,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982722,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465353,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421204067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856099,
+        "gp:id":465353,
+        "qs:id":982722
+    },
+    "wof:country":"AR",
+    "wof:created":1459009379,
+    "wof:geomhash":"cc714b5ff02010aac28e26f61a6d2108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204067,
+            "locality_id":421183705,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421183705,
+    "wof:lastmodified":1501268874,
+    "wof:name":"Escoipe",
+    "wof:parent_id":421204067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.74356,
+    -25.17506,
+    -65.74356,
+    -25.17506
+],
+  "geometry": {"coordinates":[-65.74356,-25.17506],"type":"Point"}
+}

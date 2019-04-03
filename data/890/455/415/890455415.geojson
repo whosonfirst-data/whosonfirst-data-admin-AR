@@ -1,0 +1,90 @@
+{
+  "id": 890455415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.71252,-27.28782,-60.71252,-27.28782",
+    "geom:latitude":-27.28782,
+    "geom:longitude":-60.71252,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":11101,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u8c9d\u723e\u7d0d\u591a"
+    ],
+    "name:eng_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:fre_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:por_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:spa_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:swe_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u043e"
+    ],
+    "qs:name":"San Bernardo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837943,
+        "gp:id":331866,
+        "qs:id":1152398,
+        "wd:id":"Q967629",
+        "wk:page":"San Bernardo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052946,
+    "wof:geomhash":"88fdaabb03b244151547fe21c73f8dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718215,
+            "locality_id":890455415,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890455415,
+    "wof:lastmodified":1553816404,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":1108718215,
+    "wof:placetype":"locality",
+    "wof:population":11101,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.71252,
+    -27.28782,
+    -60.71252,
+    -27.28782
+],
+  "geometry": {"coordinates":[-60.71252,-27.28782],"type":"Point"}
+}

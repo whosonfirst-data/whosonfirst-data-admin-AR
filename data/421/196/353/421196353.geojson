@@ -1,0 +1,103 @@
+{
+  "id": 421196353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.68083,-26.49565,-59.68083,-26.49565",
+    "geom:latitude":-26.49565,
+    "geom:longitude":-59.68083,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:dut_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:eng_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:por_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:spa_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:swe_x_preferred":[
+        "Laguna Limpia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u0646\u0627 \u0644\u06cc\u0645\u067e\u06cc\u0627"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3432466,
+    "qs:gn_pop":1594,
+    "qs:name":"Laguna Limpia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212250,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467290,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432466,
+        "gp:id":467290,
+        "qs:id":1212250,
+        "wd:id":"Q1656138",
+        "wk:page":"Laguna Limpia"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009878,
+    "wof:geomhash":"30b7ca9a8ede5f768985784961c385bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718207,
+            "locality_id":421196353,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421196353,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Laguna Limpia",
+    "wof:parent_id":1108718207,
+    "wof:placetype":"locality",
+    "wof:population":1594,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.68083,
+    -26.49565,
+    -59.68083,
+    -26.49565
+],
+  "geometry": {"coordinates":[-59.68083,-26.49565],"type":"Point"}
+}

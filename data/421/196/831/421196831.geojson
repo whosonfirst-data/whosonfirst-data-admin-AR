@@ -1,0 +1,98 @@
+{
+  "id": 421196831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70316,-33.11444,-61.70316,-33.11444",
+    "geom:latitude":-33.11444,
+    "geom:longitude":-61.70316,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de la Esquina"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de la Esquina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30e9\u30fb\u30a8\u30b9\u30ad\u30fc\u30ca"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de la Esquina"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de la Esquina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u0415\u0441\u043a\u0456\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "San Jose de las Esquinas"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837238,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 de la Esquina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":893123,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332663,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837238,
+        "gp:id":332663,
+        "qs:id":893123,
+        "wd:id":"Q2029581"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009894,
+    "wof:geomhash":"01fc1ebe9b2e274b04f17252a17d1802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171507,
+            "locality_id":421196831,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421196831,
+    "wof:lastmodified":1513889426,
+    "wof:name":"San Jos\u00e9 de la Esquina",
+    "wof:parent_id":421171507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70316,
+    -33.11444,
+    -61.70316,
+    -33.11444
+],
+  "geometry": {"coordinates":[-61.70316,-33.11444],"type":"Point"}
+}

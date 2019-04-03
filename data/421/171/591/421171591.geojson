@@ -1,0 +1,111 @@
+{
+  "id": 421171591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.02392,-27.41813,-59.02392,-27.41813",
+    "geom:latitude":-27.41813,
+    "geom:longitude":-59.02392,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Fontana"
+    ],
+    "name:dut_x_preferred":[
+        "Fontana"
+    ],
+    "name:eng_x_preferred":[
+        "Fontana"
+    ],
+    "name:fre_x_preferred":[
+        "Fontana"
+    ],
+    "name:ger_x_preferred":[
+        "Fontana"
+    ],
+    "name:nld_x_preferred":[
+        "Fontana"
+    ],
+    "name:por_x_preferred":[
+        "Fontana"
+    ],
+    "name:spa_x_preferred":[
+        "Fontana"
+    ],
+    "name:swe_x_preferred":[
+        "Fontana"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433901,
+    "qs:gn_pop":26745,
+    "qs:name":"Fontana",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":78,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":78,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1262935,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465404,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-27.416667,
+    "wd:longitude":-59.033333,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433901,
+        "gp:id":465404,
+        "qs:id":1262935,
+        "wd:id":"Q923414",
+        "wk:page":"Fontana, Chaco"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008899,
+    "wof:geomhash":"540cc81eaf53c3f34427d673d3ba9418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "locality_id":421171591,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421171591,
+    "wof:lastmodified":1527726493,
+    "wof:name":"Fontana",
+    "wof:parent_id":421180295,
+    "wof:placetype":"locality",
+    "wof:population":26745,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.02392,
+    -27.41813,
+    -59.02392,
+    -27.41813
+],
+  "geometry": {"coordinates":[-59.02392,-27.41813],"type":"Point"}
+}

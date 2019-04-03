@@ -1,0 +1,68 @@
+{
+  "id": 890439913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.27531,-27.76834,-57.27531,-27.76834",
+    "geom:latitude":-27.76834,
+    "geom:longitude":-57.27531,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2856,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Loreto",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431244,
+        "gp:id":467752,
+        "qs:id":583307,
+        "wk:page":"Loreto"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052255,
+    "wof:geomhash":"63c948ed7dc0d31f15120801d4db64f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718189,
+            "locality_id":890439913,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":890439913,
+    "wof:lastmodified":1527729731,
+    "wof:name":"Loreto",
+    "wof:parent_id":1108718189,
+    "wof:placetype":"locality",
+    "wof:population":2856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.27531,
+    -27.76834,
+    -57.27531,
+    -27.76834
+],
+  "geometry": {"coordinates":[-57.27531,-27.76834],"type":"Point"}
+}

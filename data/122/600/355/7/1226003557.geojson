@@ -1,0 +1,68 @@
+{
+  "id": 1226003557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.00846,-30.81299,-60.00846,-30.81299",
+    "geom:latitude":-30.81299,
+    "geom:longitude":-60.00846,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82035.0",
+    "gn:asciiname":"Colonia Mascias",
+    "gn:country_code":"AR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860751,
+    "gn:latitude":-30.81299,
+    "gn:longitude":-60.00846,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Masc\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421191021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860751
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aaa32e7fa3df182441a670b72a72cb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191021,
+            "locality_id":1226003557,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1226003557,
+    "wof:lastmodified":1536786616,
+    "wof:name":"Colonia Mascias",
+    "wof:parent_id":421191021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.00846,
+    -30.81299000000001,
+    -60.00846,
+    -30.81299000000001
+],
+  "geometry": {"coordinates":[-60.00846,-30.81299000000001],"type":"Point"}
+}

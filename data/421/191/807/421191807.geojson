@@ -1,0 +1,108 @@
+{
+  "id": 421191807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25,-32.85,-69.25,-32.85",
+    "geom:latitude":-32.85,
+    "geom:longitude":-69.25,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:als_x_preferred":[
+        "Guido"
+    ],
+    "name:ceb_x_preferred":[
+        "Guido"
+    ],
+    "name:deu_x_preferred":[
+        "Guido"
+    ],
+    "name:epo_x_preferred":[
+        "Guido"
+    ],
+    "name:ita_x_preferred":[
+        "Guido"
+    ],
+    "name:lat_x_preferred":[
+        "Guido"
+    ],
+    "name:nld_x_preferred":[
+        "Guido"
+    ],
+    "name:slv_x_preferred":[
+        "Guido"
+    ],
+    "name:spa_x_preferred":[
+        "Guido"
+    ],
+    "name:swe_x_preferred":[
+        "Guido"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854429,
+    "qs:gn_pop":0,
+    "qs:name":"Guido",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156099,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465509,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":582,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421170121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854429,
+        "gp:id":465509,
+        "qs:id":1156099,
+        "wd:id":"Q639762"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009710,
+    "wof:geomhash":"7f75c6f04f08b9ebfe6488fc78397c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170121,
+            "locality_id":421191807,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421191807,
+    "wof:lastmodified":1527716385,
+    "wof:name":"Guido",
+    "wof:parent_id":421170121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25,
+    -32.85,
+    -69.25,
+    -32.85
+],
+  "geometry": {"coordinates":[-69.25,-32.85],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125870749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.91462,-27.68038,-60.91462,-27.68038",
+    "geom:latitude":-27.68038,
+    "geom:longitude":-60.91462,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9140,
+    "gn:population":9140,
+    "iso:country":"AR",
+    "lbl:latitude":-27.68038,
+    "lbl:longitude":-60.91462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Coronel Du Graty"
+    ],
+    "name:eng_x_preferred":[
+        "Coronel Du Graty"
+    ],
+    "name:por_x_preferred":[
+        "Coronel Du Graty"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Du Graty"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Du Graty"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0414\u044e-\u0413\u0440\u0430\u0442\u0456"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3860197,
+    "qs_pg:gn_pop":9140,
+    "qs_pg:name":"Coronel Du Graty",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":96650,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860197,
+        "qs_pg:id":96650,
+        "wd:id":"Q1657891"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294285,
+    "wof:geomhash":"6c609fb07813b7825cf0d03113ca6183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718211,
+            "locality_id":1125870749,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1125870749,
+    "wof:lastmodified":1513889133,
+    "wof:name":"Coronel Du Graty",
+    "wof:parent_id":1108718211,
+    "wof:placetype":"locality",
+    "wof:population":9140,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.91462,
+    -27.68038,
+    -60.91462,
+    -27.68038
+],
+  "geometry": {"coordinates":[-60.91462,-27.68038],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310681179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.28471,-29.29427,-66.28471,-29.29427",
+    "geom:latitude":-29.29427,
+    "geom:longitude":-66.28471,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46014.0",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"AR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835837,
+    "gn:latitude":-29.29427,
+    "gn:longitude":-66.28471,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835837
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0ca751eb2601aa1933b37ee4ea657276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718321,
+            "locality_id":1310681179,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1310681179,
+    "wof:lastmodified":1536663531,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108718321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.28471,
+    -29.29427,
+    -66.28471,
+    -29.29427
+],
+  "geometry": {"coordinates":[-66.28471,-29.29427],"type":"Point"}
+}

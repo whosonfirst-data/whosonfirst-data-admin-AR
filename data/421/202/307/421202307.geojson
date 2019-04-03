@@ -1,0 +1,240 @@
+{
+  "id": 421202307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33007,-34.61772,-68.33007,-34.61772",
+    "geom:latitude":-34.61772,
+    "geom:longitude":-68.33007,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u064a\u0644\u060c \u0645\u0646\u062f\u0648\u0632\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ces_x_preferred":[
+        "San Rafael"
+    ],
+    "name:deu_x_preferred":[
+        "San Rafael"
+    ],
+    "name:epo_x_preferred":[
+        "San Rafael"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "San Rafael"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e8\u05e4\u05d0\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e0\u10d0\u10e4\u10d0\u10d4\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "San Rafaelis"
+    ],
+    "name:nld_x_preferred":[
+        "San Rafael"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0420\u0430\u0444\u0430\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
+    "name:war_x_preferred":[
+        "San Rafael"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Mendoza",
+    "ne:ADMIN1_COD":13,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3836669,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Rafael",
+    "ne:GN_POP":109163,
+    "ne:GTOPO30":691.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-34.600021,
+    "ne:LONGITUDE":-68.333333,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Rafael1",
+    "ne:MAX_AREAKM":33.0,
+    "ne:MAX_AREAMI":13.0,
+    "ne:MAX_BBXMAX":-68.266667,
+    "ne:MAX_BBXMIN":-68.375,
+    "ne:MAX_BBYMAX":-34.583333,
+    "ne:MAX_BBYMIN":-34.658333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":48.0,
+    "ne:MAX_PERMI":30.0,
+    "ne:MAX_POP10":49884,
+    "ne:MAX_POP20":49884,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-68.324911,
+    "ne:MEAN_BBYC":-34.617996,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":33.0,
+    "ne:MIN_AREAMI":13.0,
+    "ne:MIN_BBXMAX":-68.266667,
+    "ne:MIN_BBXMIN":-68.375,
+    "ne:MIN_BBYMAX":-34.583333,
+    "ne:MIN_BBYMIN":-34.658333,
+    "ne:MIN_PERKM":48.0,
+    "ne:MIN_PERMI":30.0,
+    "ne:NAME":"San Rafael",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Rafael",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":109163,
+    "ne:POP_MIN":49884,
+    "ne:POP_OTHER":50249,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Mendoza",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3836669,
+    "qs:gn_pop":109163,
+    "qs:name":"San Rafael",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":1592,
+    "qs:photos_1k":323,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1592,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":220696,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332481,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-34.6175,
+    "wd:longitude":-68.335556,
+    "wd:wordcount":612,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836669,
+        "gp:id":332481,
+        "qs:id":220696,
+        "wd:id":"Q23044",
+        "wk:page":"San Rafael, Mendoza"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010112,
+    "wof:geomhash":"38c6241beb8a73e30c29f5b95388b187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188045,
+            "locality_id":421202307,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421202307,
+    "wof:lastmodified":1527716203,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421188045,
+    "wof:placetype":"locality",
+    "wof:population":109163,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33007,
+    -34.61772,
+    -68.33007,
+    -34.61772
+],
+  "geometry": {"coordinates":[-68.33007000000001,-34.61772],"type":"Point"}
+}

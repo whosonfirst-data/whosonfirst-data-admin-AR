@@ -1,0 +1,73 @@
+{
+  "id": 1327152041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52342,-35.58393,-61.52342,-35.58393",
+    "geom:latitude":-35.58393,
+    "geom:longitude":-61.52342,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6147.0",
+    "gn:asciiname":"Mauricio Hirsch",
+    "gn:country_code":"AR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844672,
+    "gn:latitude":-35.58393,
+    "gn:longitude":-61.52342,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mauricio Hirsch",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mauricio Hirch",
+        "M. Hirsch",
+        "Mauricio Hirsch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844672
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5c26fa5968478595729a5185563655cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717891,
+            "locality_id":1327152041,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327152041,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Mauricio Hirsch",
+    "wof:parent_id":1108717891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52342,
+    -35.58393,
+    -61.52342,
+    -35.58393
+],
+  "geometry": {"coordinates":[-61.52342,-35.58393],"type":"Point"}
+}

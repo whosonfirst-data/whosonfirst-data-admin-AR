@@ -1,0 +1,73 @@
+{
+  "id": 1226622053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58333,-31.65,-68.58333,-31.65",
+    "geom:latitude":-31.65,
+    "geom:longitude":-68.58333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"70070.0",
+    "gn:asciiname":"Villa Aberastain",
+    "gn:country_code":"AR",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3832822,
+    "gn:latitude":-31.65,
+    "gn:longitude":-68.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Aberastain",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aberastain",
+        "Villa Aberastain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421203709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832822,
+        "wk:page":"Aberastain"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e5d99f480891a330c71e7da998dcb252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203709,
+            "locality_id":1226622053,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1226622053,
+    "wof:lastmodified":1537584833,
+    "wof:name":"Villa Aberastain",
+    "wof:parent_id":421203709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58333,
+    -31.65,
+    -68.58333,
+    -31.65
+],
+  "geometry": {"coordinates":[-68.58333,-31.65],"type":"Point"}
+}

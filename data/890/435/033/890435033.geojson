@@ -1,0 +1,84 @@
+{
+  "id": 890435033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.51749,-31.82508,-60.51749,-31.82508",
+    "geom:latitude":-31.82508,
+    "geom:longitude":-60.51749,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2548,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Oro Verde"
+    ],
+    "name:eng_x_preferred":[
+        "Oro Verde"
+    ],
+    "name:por_x_preferred":[
+        "Oro Verde"
+    ],
+    "name:spa_x_preferred":[
+        "Oro Verde"
+    ],
+    "name:swe_x_preferred":[
+        "Oro Verde"
+    ],
+    "qs:name":"Oro Verde",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842559,
+        "gp:id":465990,
+        "qs:id":375516,
+        "wd:id":"Q2190329",
+        "wk:page":"Oro Verde"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052049,
+    "wof:geomhash":"597b7fa8616db67f84c0c248e61c926d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171467,
+            "locality_id":890435033,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":890435033,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Oro Verde",
+    "wof:parent_id":421171467,
+    "wof:placetype":"locality",
+    "wof:population":2548,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.51749,
+    -31.82508,
+    -60.51749,
+    -31.82508
+],
+  "geometry": {"coordinates":[-60.51749,-31.82508],"type":"Point"}
+}

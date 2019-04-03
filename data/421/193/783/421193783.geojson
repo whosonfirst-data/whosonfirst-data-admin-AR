@@ -1,0 +1,112 @@
+{
+  "id": 421193783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.20079,-32.17601,-60.20079,-32.17601",
+    "geom:latitude":-32.17601,
+    "geom:longitude":-60.20079,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:dut_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:eng_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:fre_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:ger_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:por_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:spa_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:swe_x_preferred":[
+        "General Ram\u00edrez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0420\u0430\u043c\u0456\u0440\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Ram\u00edrez"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855067,
+    "qs:gn_pop":8614,
+    "qs:name":"General Ram\u00edrez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1211885,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465453,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855067,
+        "gp:id":465453,
+        "qs:id":1211885,
+        "wd:id":"Q5532145",
+        "wk:page":"General Ram\u00edrez"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009783,
+    "wof:geomhash":"108621198a1221a64961ce24bb47d0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":421193783,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421193783,
+    "wof:lastmodified":1527716145,
+    "wof:name":"General Ram\u00edrez",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:population":8614,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.20079,
+    -32.17601,
+    -60.20079,
+    -32.17601
+],
+  "geometry": {"coordinates":[-60.20079,-32.17601],"type":"Point"}
+}

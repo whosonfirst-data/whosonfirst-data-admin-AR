@@ -1,0 +1,112 @@
+{
+  "id": 421195981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60757,-34.00565,-61.60757,-34.00565",
+    "geom:latitude":-34.00565,
+    "geom:longitude":-61.60757,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:por_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:szl_x_preferred":[
+        "Villa Ca\u00f1\u00e1s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041a\u0430\u043d\u044c\u044f\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832793,
+    "qs:gn_pop":9328,
+    "qs:name":"Villa Ca\u00f1\u00e1s",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046747,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467459,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832793,
+        "gp:id":467459,
+        "qs:id":1046747,
+        "wd:id":"Q1865187",
+        "wk:page":"Villa Ca\u00f1\u00e1s"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009865,
+    "wof:geomhash":"7915dcbef8885ec46cdbf069a6f3a725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421195981,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421195981,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Villa Ca\u00f1\u00e1s",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:population":9328,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60757,
+    -34.00565,
+    -61.60757,
+    -34.00565
+],
+  "geometry": {"coordinates":[-61.60757,-34.00565],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276954705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.35,-25.15,-64.35,-25.15",
+    "geom:latitude":-25.15,
+    "geom:longitude":-64.35,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66007.0",
+    "gn:asciiname":"Chorroarin",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861266,
+    "gn:latitude":-25.15,
+    "gn:longitude":-64.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chorroar\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorroaria",
+        "Chorroar\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861266
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0f8127f0af2e94bb322573cbf9afc008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1276954705,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1276954705,
+    "wof:lastmodified":1537584893,
+    "wof:name":"Chorroarin",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.35,
+    -25.15,
+    -64.35,
+    -25.15
+],
+  "geometry": {"coordinates":[-64.34999999999999,-25.15],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421180945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.51322,-31.45594,-64.51322,-31.45594",
+    "geom:latitude":-31.45594,
+    "geom:longitude":-64.51322,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832717,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Independencia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":468148,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466749,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832717,
+        "gp:id":466749,
+        "qs:id":468148
+    },
+    "wof:country":"AR",
+    "wof:created":1459009276,
+    "wof:geomhash":"32eafb435db44244b7d48e336fb845b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421180945,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421180945,
+    "wof:lastmodified":1527716242,
+    "wof:name":"Villa Independencia",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.51322,
+    -31.45594,
+    -64.51322,
+    -31.45594
+],
+  "geometry": {"coordinates":[-64.51322,-31.45594],"type":"Point"}
+}

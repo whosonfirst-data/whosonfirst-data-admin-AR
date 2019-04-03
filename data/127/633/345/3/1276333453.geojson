@@ -1,0 +1,68 @@
+{
+  "id": 1276333453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.37702,-31.19786,-64.37702,-31.19786",
+    "geom:latitude":-31.19786,
+    "geom:longitude":-64.37702,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14021.0",
+    "gn:asciiname":"Los Quebrachitos",
+    "gn:country_code":"AR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845679,
+    "gn:latitude":-31.19786,
+    "gn:longitude":-64.37702,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Los Quebrachitos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845679
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9aebb9dffe23fde2f0c79e2e90426b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":1276333453,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1276333453,
+    "wof:lastmodified":1536778888,
+    "wof:name":"Los Quebrachitos",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.37702,
+    -31.19786,
+    -64.37702,
+    -31.19786
+],
+  "geometry": {"coordinates":[-64.37702,-31.19786],"type":"Point"}
+}

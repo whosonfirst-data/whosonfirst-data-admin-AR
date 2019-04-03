@@ -1,0 +1,113 @@
+{
+  "id": 421195125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.97094,-25.79693,-64.97094,-25.79693",
+    "geom:latitude":-25.79693,
+    "geom:longitude":-64.97094,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u5fb7\u62c9\u5f17\u9f8d\u7279\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:eng_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:fre_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:ita_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:lit_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:oci_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:por_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:spa_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u0430\u0440\u0456\u043e-\u0434\u0435-\u043b\u0430-\u0424\u0440\u043e\u043d\u0442\u0435\u0440\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838564,
+    "qs:gn_pop":0,
+    "qs:name":"Rosario de la Frontera",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1212305,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467050,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-25.8,
+    "wd:longitude":-64.966667,
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421171483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838564,
+        "gp:id":467050,
+        "qs:id":1212305,
+        "wd:id":"Q106122"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009833,
+    "wof:geomhash":"7408be79d3f9dd73221e629a61c0427d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171483,
+            "locality_id":421195125,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421195125,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Rosario de la Frontera",
+    "wof:parent_id":421171483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.97094,
+    -25.79693,
+    -64.97094,
+    -25.79693
+],
+  "geometry": {"coordinates":[-64.97094,-25.79693],"type":"Point"}
+}

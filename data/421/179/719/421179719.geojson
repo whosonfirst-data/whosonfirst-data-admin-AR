@@ -1,0 +1,79 @@
+{
+  "id": 421179719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.94329,-36.40633,-56.94329,-36.40633",
+    "geom:latitude":-36.40633,
+    "geom:longitude":-56.94329,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Aj\u00f3"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433796,
+    "qs:gn_pop":0,
+    "qs:name":"Gral Lavalle",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1222504,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467662,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433796,
+        "gp:id":467662,
+        "qs:id":1222504
+    },
+    "wof:country":"AR",
+    "wof:created":1459009231,
+    "wof:geomhash":"4284ac80acbb21451f8b93d879d83f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717957,
+            "locality_id":421179719,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421179719,
+    "wof:lastmodified":1501266405,
+    "wof:name":"Gral Lavalle",
+    "wof:parent_id":1108717957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.94329,
+    -36.40633,
+    -56.94329,
+    -36.40633
+],
+  "geometry": {"coordinates":[-56.94329,-36.40633],"type":"Point"}
+}

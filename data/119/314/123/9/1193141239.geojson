@@ -1,0 +1,68 @@
+{
+  "id": 1193141239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.64357,-38.33758,-62.64357,-38.33758",
+    "geom:latitude":-38.33758,
+    "geom:longitude":-62.64357,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6819.0",
+    "gn:asciiname":"Chasico",
+    "gn:country_code":"AR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861656,
+    "gn:latitude":-38.33758,
+    "gn:longitude":-62.64357,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chasic\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861656
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d8ceb51d2836ddc99c84c17475a5d951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718121,
+            "locality_id":1193141239,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193141239,
+    "wof:lastmodified":1536365799,
+    "wof:name":"Chasico",
+    "wof:parent_id":1108718121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.64357,
+    -38.33758,
+    -62.64357,
+    -38.33758
+],
+  "geometry": {"coordinates":[-62.64357,-38.33758],"type":"Point"}
+}

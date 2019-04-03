@@ -1,0 +1,100 @@
+{
+  "id": 421169863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76499,-34.84142,-67.76499,-34.84142",
+    "geom:latitude":-34.84142,
+    "geom:longitude":-67.76499,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Real del Padre"
+    ],
+    "name:dut_x_preferred":[
+        "Real del Padre"
+    ],
+    "name:eng_x_preferred":[
+        "Real del Padre"
+    ],
+    "name:spa_x_preferred":[
+        "Real del Padre"
+    ],
+    "name:swe_x_preferred":[
+        "Real del Padre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0430\u043b\u044c-\u0434\u0435\u043b\u044c-\u041f\u0430\u0434\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Real de Padre"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3839288,
+    "qs:gn_pop":0,
+    "qs:name":"Real del Padre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":181871,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466347,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839288,
+        "gp:id":466347,
+        "qs:id":181871,
+        "wd:id":"Q7301133",
+        "wk:page":"Real del Padre"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008827,
+    "wof:geomhash":"17db8f006319c0f9b6603e78e31c3829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188045,
+            "locality_id":421169863,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421169863,
+    "wof:lastmodified":1527716175,
+    "wof:name":"Real del Padre",
+    "wof:parent_id":421188045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76499,
+    -34.84142,
+    -67.76499,
+    -34.84142
+],
+  "geometry": {"coordinates":[-67.76499,-34.84142],"type":"Point"}
+}

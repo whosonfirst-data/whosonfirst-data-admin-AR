@@ -1,0 +1,132 @@
+{
+  "id": 421198365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.22658,-29.31595,-68.22658,-29.31595",
+    "geom:latitude":-29.31595,
+    "geom:longitude":-68.22658,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u5c3c\u7fc1\u93ae"
+    ],
+    "name:cze_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05d0\u05d5\u05e0\u05d9\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:slo_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0423\u043d\u044c\u0439\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5c3c\u7fc1\u93ae"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832606,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Uni\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Rioja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":92,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":181964,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467468,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421197043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832606,
+        "gp:id":467468,
+        "qs:id":181964,
+        "wd:id":"Q2535733",
+        "wk:page":"Villa Uni\u00f3n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009945,
+    "wof:geomhash":"d1accfc41eaee4a88212f202f87afcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197043,
+            "locality_id":421198365,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":421198365,
+    "wof:lastmodified":1513889590,
+    "wof:name":"Villa Uni\u00f3n",
+    "wof:parent_id":421197043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.22658,
+    -29.31595,
+    -68.22658,
+    -29.31595
+],
+  "geometry": {"coordinates":[-68.22658,-29.31595],"type":"Point"}
+}

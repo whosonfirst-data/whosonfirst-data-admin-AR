@@ -1,0 +1,72 @@
+{
+  "id": 1226415759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74107,-37.47808,-70.74107,-37.47808",
+    "geom:latitude":-37.47808,
+    "geom:longitude":-70.74107,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Vilu Mallin",
+    "gn:country_code":"AR",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832581,
+    "gn:latitude":-37.47808,
+    "gn:longitude":-70.74107,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vil\u00fa Mall\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilo Mallin",
+        "Vil\u00fa Mall\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832581
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"196b652092c4791f01cc224d29d70923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1226415759,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1226415759,
+    "wof:lastmodified":1537584831,
+    "wof:name":"Vilu Mallin",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74107,
+    -37.47808,
+    -70.74107,
+    -37.47808
+],
+  "geometry": {"coordinates":[-70.74106999999999,-37.47808],"type":"Point"}
+}

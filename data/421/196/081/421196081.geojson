@@ -1,0 +1,77 @@
+{
+  "id": 421196081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.92043,-33.34718,-67.92043,-33.34718",
+    "geom:latitude":-33.34718,
+    "geom:longitude":-67.92043,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3851712,
+    "qs:gn_pop":0,
+    "qs:name":"La Florida",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1061837,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795934,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851712,
+        "gp:id":26795934,
+        "qs:id":1061837
+    },
+    "wof:country":"AR",
+    "wof:created":1459009869,
+    "wof:geomhash":"89378b7dfee10e728d0940f4bea9f42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718363,
+            "locality_id":421196081,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421196081,
+    "wof:lastmodified":1527716366,
+    "wof:name":"La Florida",
+    "wof:parent_id":1108718363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.92043,
+    -33.34718,
+    -67.92043,
+    -33.34718
+],
+  "geometry": {"coordinates":[-67.92043,-33.34718],"type":"Point"}
+}

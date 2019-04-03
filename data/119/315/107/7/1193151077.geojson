@@ -1,0 +1,72 @@
+{
+  "id": 1193151077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.754,-40.65095,-62.754,-40.65095",
+    "geom:latitude":-40.65095,
+    "geom:longitude":-62.754,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6602.0",
+    "gn:asciiname":"Cardenal Cagliero",
+    "gn:country_code":"AR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862650,
+    "gn:latitude":-40.65095,
+    "gn:longitude":-62.754,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cardenal Cagliero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C. Cagliero",
+        "Cardenal Cagliero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862650
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2aa6994151e32e4cf50bb3153dbde2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718045,
+            "locality_id":1193151077,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193151077,
+    "wof:lastmodified":1537584896,
+    "wof:name":"Cardenal Cagliero",
+    "wof:parent_id":1108718045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.754,
+    -40.65095,
+    -62.754,
+    -40.65095
+],
+  "geometry": {"coordinates":[-62.754,-40.65095],"type":"Point"}
+}

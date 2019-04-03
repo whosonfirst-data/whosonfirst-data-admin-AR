@@ -1,0 +1,62 @@
+{
+  "id": 1209391141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18333,-22.36667,-65.18333,-22.36667",
+    "geom:latitude":-22.36667,
+    "geom:longitude":-65.18333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66161.0",
+    "gn:asciiname":"Aguilar",
+    "gn:country_code":"AR",
+    "gn:dem":4121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866501,
+    "gn:latitude":-22.36667,
+    "gn:longitude":-65.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguilar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866501
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3551791764cd52e58ca7615a4c89480a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209391141
+        }
+    ],
+    "wof:id":1209391141,
+    "wof:lastmodified":1536288456,
+    "wof:name":"Aguilar",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18333,
+    -22.366670000000006,
+    -65.18333,
+    -22.366670000000006
+],
+  "geometry": {"coordinates":[-65.18333,-22.36667000000001],"type":"Point"}
+}

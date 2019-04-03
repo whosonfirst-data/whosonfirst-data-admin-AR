@@ -1,0 +1,72 @@
+{
+  "id": 1260094341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61532,-34.93878,-58.61532,-34.93878",
+    "geom:latitude":-34.93878,
+    "geom:longitude":-58.61532,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6134.0",
+    "gn:asciiname":"Maximo Paz",
+    "gn:country_code":"AR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430780,
+    "gn:latitude":-34.93878,
+    "gn:longitude":-58.61532,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"M\u00e1ximo Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M. Paz",
+        "M\u00e1ximo Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430780
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"63b9d4455a2dd95cc3343498936bb628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717887,
+            "locality_id":1260094341,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1260094341,
+    "wof:lastmodified":1537584821,
+    "wof:name":"Maximo Paz",
+    "wof:parent_id":1108717887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61532,
+    -34.93878,
+    -58.61532,
+    -34.93878
+],
+  "geometry": {"coordinates":[-58.61532,-34.93878],"type":"Point"}
+}

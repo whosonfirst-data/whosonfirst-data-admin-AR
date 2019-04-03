@@ -1,0 +1,97 @@
+{
+  "id": 421196315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.52253,-28.92322,-67.52253,-28.92322",
+    "geom:latitude":-28.92322,
+    "geom:longitude":-67.52253,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Famatina"
+    ],
+    "name:fra_x_preferred":[
+        "Famatina"
+    ],
+    "name:ita_x_preferred":[
+        "Famatina"
+    ],
+    "name:por_x_preferred":[
+        "Famatina"
+    ],
+    "name:spa_x_preferred":[
+        "Famatina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u99ac\u8482\u7d0d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855661,
+    "qs:gn_pop":0,
+    "qs:name":"Famatina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Rioja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":935827,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467641,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1082,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855661,
+        "gp:id":467641,
+        "qs:id":935827,
+        "wd:id":"Q58386",
+        "wk:page":"Famatina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009877,
+    "wof:geomhash":"1254d4a6a508ff3f6967730333f6f101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718329,
+            "locality_id":421196315,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":421196315,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Famatina",
+    "wof:parent_id":1108718329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.52253,
+    -28.92322,
+    -67.52253,
+    -28.92322
+],
+  "geometry": {"coordinates":[-67.52253,-28.92322],"type":"Point"}
+}

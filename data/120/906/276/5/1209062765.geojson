@@ -1,0 +1,62 @@
+{
+  "id": 1209062765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06667,-25.7,-63.06667,-25.7",
+    "geom:latitude":-25.7,
+    "geom:longitude":-63.06667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86056.0",
+    "gn:asciiname":"Urutau",
+    "gn:country_code":"AR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833369,
+    "gn:latitude":-25.7,
+    "gn:longitude":-63.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uruta\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833369
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f7c34eadbc2c8b534890d3372f4449f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209062765
+        }
+    ],
+    "wof:id":1209062765,
+    "wof:lastmodified":1536298901,
+    "wof:name":"Urutau",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06667,
+    -25.7,
+    -63.06667,
+    -25.7
+],
+  "geometry": {"coordinates":[-63.06667,-25.7],"type":"Point"}
+}

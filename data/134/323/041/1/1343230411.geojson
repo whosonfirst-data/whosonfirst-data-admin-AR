@@ -1,0 +1,68 @@
+{
+  "id": 1343230411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1,-26.8,-65.1,-26.8",
+    "geom:latitude":-26.8,
+    "geom:longitude":-65.1,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"Ingenio La Florida",
+    "gn:country_code":"AR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853766,
+    "gn:latitude":-26.8,
+    "gn:longitude":-65.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ingenio La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853766
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"26994b76d62cddd1e7520fb29f5bd3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":1343230411,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1343230411,
+    "wof:lastmodified":1537075364,
+    "wof:name":"Ingenio La Florida",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1,
+    -26.8,
+    -65.1,
+    -26.8
+],
+  "geometry": {"coordinates":[-65.09999999999999,-26.8],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243367767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25,-36.35,-61.25,-36.35",
+    "geom:latitude":-36.35,
+    "geom:longitude":-61.25,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6105.0",
+    "gn:asciiname":"Juan F. Ibarra",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853435,
+    "gn:latitude":-36.35,
+    "gn:longitude":-61.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juan F. Ibarra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J.F. Ibarra",
+        "Juan F. Ibarra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853435
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f3f1f39f72fb6e22e85a317011188987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717879,
+            "locality_id":1243367767,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243367767,
+    "wof:lastmodified":1537584869,
+    "wof:name":"Juan F. Ibarra",
+    "wof:parent_id":1108717879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25,
+    -36.35,
+    -61.25,
+    -36.35
+],
+  "geometry": {"coordinates":[-61.25,-36.35],"type":"Point"}
+}

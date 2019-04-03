@@ -1,0 +1,98 @@
+{
+  "id": 421200991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14845,-33.37146,-69.14845,-33.37146",
+    "geom:latitude":-33.37146,
+    "geom:longitude":-69.14845,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5716\u84ec\u52a0\u6258"
+    ],
+    "name:eng_x_preferred":[
+        "Tupungato"
+    ],
+    "name:fre_x_preferred":[
+        "Tupungato"
+    ],
+    "name:por_x_preferred":[
+        "Tupungato"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de Tupungato"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043f\u0443\u043d\u0433\u0430\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Tupungata"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833512,
+    "qs:gn_pop":0,
+    "qs:name":"Tupungato",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":421,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":421,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1327662,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467443,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833512,
+        "gp:id":467443,
+        "qs:id":1327662,
+        "wd:id":"Q3542234"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010048,
+    "wof:geomhash":"f4bc925d64139a73678c9872ba0631e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171271,
+            "locality_id":421200991,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421200991,
+    "wof:lastmodified":1553816387,
+    "wof:name":"Tupungato",
+    "wof:parent_id":421171271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14845,
+    -33.37146,
+    -69.14845,
+    -33.37146
+],
+  "geometry": {"coordinates":[-69.14845,-33.37146],"type":"Point"}
+}

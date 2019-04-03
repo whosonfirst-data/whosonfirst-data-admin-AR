@@ -1,0 +1,68 @@
+{
+  "id": 1226500977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86856,-29.26424,-63.86856,-29.26424",
+    "geom:latitude":-29.26424,
+    "geom:longitude":-63.86856,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86126.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"AR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836140,
+    "gn:latitude":-29.26424,
+    "gn:longitude":-63.86856,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836140
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9dcd399b9f1c05a726be0dcf618b5ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718499,
+            "locality_id":1226500977,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1226500977,
+    "wof:lastmodified":1537060069,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1108718499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86856,
+    -29.26424,
+    -63.86856,
+    -29.26424
+],
+  "geometry": {"coordinates":[-63.86856,-29.26424],"type":"Point"}
+}

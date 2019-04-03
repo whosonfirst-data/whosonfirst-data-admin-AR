@@ -1,0 +1,68 @@
+{
+  "id": 1243568401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.51456,-34.53767,-58.51456,-34.53767",
+    "geom:latitude":-34.53767,
+    "geom:longitude":-58.51456,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6861.0",
+    "gn:asciiname":"Florida Oeste",
+    "gn:country_code":"AR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7602862,
+    "gn:latitude":-34.53767,
+    "gn:longitude":-58.51456,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Florida Oeste",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602862
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8865ca270f2354bf7cec544caa81ceb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718133,
+            "locality_id":1243568401,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1243568401,
+    "wof:lastmodified":1536627975,
+    "wof:name":"Florida Oeste",
+    "wof:parent_id":1108718133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.51456,
+    -34.53767,
+    -58.51456,
+    -34.53767
+],
+  "geometry": {"coordinates":[-58.51456,-34.53767],"type":"Point"}
+}

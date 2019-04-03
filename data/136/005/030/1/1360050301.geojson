@@ -1,0 +1,72 @@
+{
+  "id": 1360050301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.79154,-51.05728,-71.79154,-51.05728",
+    "geom:latitude":-51.05728,
+    "geom:longitude":-71.79154,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Tapi Aike",
+    "gn:country_code":"AR",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834630,
+    "gn:latitude":-51.05728,
+    "gn:longitude":-71.79154,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tapi Aike",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Tapi Aike",
+        "Tapi Aike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834630
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4bf4d34b214c1b42e88754ed291c0391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1360050301,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1360050301,
+    "wof:lastmodified":1537584836,
+    "wof:name":"Tapi Aike",
+    "wof:parent_id":421200655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.79154,
+    -51.05728,
+    -71.79154,
+    -51.05728
+],
+  "geometry": {"coordinates":[-71.79154,-51.05728],"type":"Point"}
+}

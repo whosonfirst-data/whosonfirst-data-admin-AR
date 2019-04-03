@@ -1,0 +1,68 @@
+{
+  "id": 1343565195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.62002,-37.83069,-57.62002,-37.83069",
+    "geom:latitude":-37.83069,
+    "geom:longitude":-57.62002,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6357.0",
+    "gn:asciiname":"Quintas El Casal",
+    "gn:country_code":"AR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429645,
+    "gn:latitude":-37.83069,
+    "gn:longitude":-57.62002,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Quintas El Casal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429645
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d1876672e14aedf2a8771ab332223843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717963,
+            "locality_id":1343565195,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343565195,
+    "wof:lastmodified":1537089382,
+    "wof:name":"Quintas El Casal",
+    "wof:parent_id":1108717963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.62002,
+    -37.83069,
+    -57.62002,
+    -37.83069
+],
+  "geometry": {"coordinates":[-57.62002,-37.83069],"type":"Point"}
+}

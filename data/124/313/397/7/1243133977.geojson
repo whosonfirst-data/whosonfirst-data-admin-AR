@@ -1,0 +1,68 @@
+{
+  "id": 1243133977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7401,-47.56493,-71.7401,-47.56493",
+    "geom:latitude":-47.56493,
+    "geom:longitude":-71.7401,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78049.0",
+    "gn:asciiname":"Lago Posadas",
+    "gn:country_code":"AR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851101,
+    "gn:latitude":-47.56493,
+    "gn:longitude":-71.7401,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lago Posadas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421198477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851101
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"60da167d76595e6475238ddc7742cdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198477,
+            "locality_id":1243133977,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1243133977,
+    "wof:lastmodified":1536759408,
+    "wof:name":"Lago Posadas",
+    "wof:parent_id":421198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7401,
+    -47.56493,
+    -71.7401,
+    -47.56493
+],
+  "geometry": {"coordinates":[-71.7401,-47.56493],"type":"Point"}
+}

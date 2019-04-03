@@ -1,0 +1,79 @@
+{
+  "id": 421184879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.88063,-27.42808,-55.88063,-27.42808",
+    "geom:latitude":-27.42808,
+    "geom:longitude":-55.88063,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Villa Lanus"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430688,
+    "qs:gn_pop":0,
+    "qs:name":"Miguel Lan\u00fas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1014215,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465832,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430688,
+        "gp:id":465832,
+        "qs:id":1014215
+    },
+    "wof:country":"AR",
+    "wof:created":1459009425,
+    "wof:geomhash":"c90d8a145ae6c86bd25e9fe88c39cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718367,
+            "locality_id":421184879,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421184879,
+    "wof:lastmodified":1501266403,
+    "wof:name":"Miguel Lan\u00fas",
+    "wof:parent_id":1108718367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.88063,
+    -27.42808,
+    -55.88063,
+    -27.42808
+],
+  "geometry": {"coordinates":[-55.88063,-27.42808],"type":"Point"}
+}

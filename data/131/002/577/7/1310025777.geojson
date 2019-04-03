@@ -1,0 +1,68 @@
+{
+  "id": 1310025777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.45005,-32.07153,-60.45005,-32.07153",
+    "geom:latitude":-32.07153,
+    "geom:longitude":-60.45005,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"30021.0",
+    "gn:asciiname":"Aldea Camarero",
+    "gn:country_code":"AR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866394,
+    "gn:latitude":-32.07153,
+    "gn:longitude":-60.45005,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aldea Camarero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866394
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d8b6bd5073db250ab29bc7c488292012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":1310025777,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1310025777,
+    "wof:lastmodified":1536611591,
+    "wof:name":"Aldea Camarero",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.45005,
+    -32.07153,
+    -60.45005,
+    -32.07153
+],
+  "geometry": {"coordinates":[-60.45005,-32.07153],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193132501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.04237,-23.13895,-66.04237,-23.13895",
+    "geom:latitude":-23.13895,
+    "geom:longitude":-66.04237,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"38007.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"AR",
+    "gn:dem":3512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836527,
+    "gn:latitude":-23.13895,
+    "gn:longitude":-66.04237,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421185367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836527
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"88dd6e045464c60614c0bb5f1ff9f572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185367,
+            "locality_id":1193132501,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1193132501,
+    "wof:lastmodified":1536374278,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421185367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.04236999999999,
+    -23.13895,
+    -66.04236999999999,
+    -23.13895
+],
+  "geometry": {"coordinates":[-66.04236999999999,-23.13895],"type":"Point"}
+}

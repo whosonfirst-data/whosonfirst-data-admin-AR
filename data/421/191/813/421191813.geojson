@@ -1,0 +1,78 @@
+{
+  "id": 421191813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.04288,-27.40862,-59.04288,-27.40862",
+    "geom:latitude":-27.40862,
+    "geom:longitude":-59.04288,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427502,
+    "qs:gn_pop":0,
+    "qs:name":"Vicentini",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156115,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466706,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427502,
+        "gp:id":466706,
+        "qs:id":1156115,
+        "wd:id":"Q7925220"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009710,
+    "wof:geomhash":"92760e5dfc2a90e3c3a3ee9d8387fcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "locality_id":421191813,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421191813,
+    "wof:lastmodified":1527716384,
+    "wof:name":"Vicentini",
+    "wof:parent_id":421180295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.04288,
+    -27.40862,
+    -59.04288,
+    -27.40862
+],
+  "geometry": {"coordinates":[-59.04288,-27.40862],"type":"Point"}
+}

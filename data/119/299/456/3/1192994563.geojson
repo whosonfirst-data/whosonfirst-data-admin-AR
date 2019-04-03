@@ -1,0 +1,68 @@
+{
+  "id": 1192994563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.20419,-23.61019,-63.20419,-23.61019",
+    "geom:latitude":-23.61019,
+    "geom:longitude":-63.20419,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"Victorica",
+    "gn:country_code":"AR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832924,
+    "gn:latitude":-23.61019,
+    "gn:longitude":-63.20419,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Victorica",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832924
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a1f23d6d87d1efafa5607dab9e7f9a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1192994563,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1192994563,
+    "wof:lastmodified":1536377253,
+    "wof:name":"Victorica",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.20419,
+    -23.61019,
+    -63.20419,
+    -23.61019
+],
+  "geometry": {"coordinates":[-63.20419,-23.61019],"type":"Point"}
+}

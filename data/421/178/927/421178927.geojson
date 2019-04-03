@@ -1,0 +1,107 @@
+{
+  "id": 421178927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71849,-33.35369,-63.71849,-33.35369",
+    "geom:latitude":-33.35369,
+    "geom:longitude":-63.71849,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:dut_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:eng_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:glg_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:por_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:spa_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:swe_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u0445\u0430\u043d\u0434\u0440\u043e-\u0420\u043e\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Alejandro"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866356,
+    "qs:gn_pop":4724,
+    "qs:name":"Alejandro Roca",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":291497,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468740,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421166595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866356,
+        "gp:id":468740,
+        "qs:id":291497,
+        "wd:id":"Q8194200"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009198,
+    "wof:geomhash":"0b31537d70296ddfc34e31490cd30968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166595,
+            "locality_id":421178927,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421178927,
+    "wof:lastmodified":1513888932,
+    "wof:name":"Alejandro Roca",
+    "wof:parent_id":421166595,
+    "wof:placetype":"locality",
+    "wof:population":4724,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71849,
+    -33.35369,
+    -63.71849,
+    -33.35369
+],
+  "geometry": {"coordinates":[-63.71849,-33.35369],"type":"Point"}
+}

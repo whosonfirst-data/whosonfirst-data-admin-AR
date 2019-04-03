@@ -1,0 +1,68 @@
+{
+  "id": 1327403629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86667,-39.25,-65.86667,-39.25",
+    "geom:latitude":-39.25,
+    "geom:longitude":-65.86667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"62014.0",
+    "gn:asciiname":"El Hinojo",
+    "gn:country_code":"AR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857908,
+    "gn:latitude":-39.25,
+    "gn:longitude":-65.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Hinojo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857908
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3a7db05ac007979097e73f195951b5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718387,
+            "locality_id":1327403629,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1327403629,
+    "wof:lastmodified":1536722746,
+    "wof:name":"El Hinojo",
+    "wof:parent_id":1108718387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86667,
+    -39.25,
+    -65.86667,
+    -39.25
+],
+  "geometry": {"coordinates":[-65.86667,-39.25],"type":"Point"}
+}

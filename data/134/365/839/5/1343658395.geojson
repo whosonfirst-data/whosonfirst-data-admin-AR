@@ -1,0 +1,68 @@
+{
+  "id": 1343658395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.31667,-24.08333,-62.31667,-24.08333",
+    "geom:latitude":-24.08333,
+    "geom:longitude":-62.31667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34028.0",
+    "gn:asciiname":"Mision Yacare",
+    "gn:country_code":"AR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844125,
+    "gn:latitude":-24.08333,
+    "gn:longitude":-62.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Misi\u00f3n Yacar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844125
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b262fe6a5684fb2fa423f89a5b9ecc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718265,
+            "locality_id":1343658395,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1343658395,
+    "wof:lastmodified":1536958015,
+    "wof:name":"Mision Yacare",
+    "wof:parent_id":1108718265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.31667,
+    -24.08333,
+    -62.31667,
+    -24.08333
+],
+  "geometry": {"coordinates":[-62.31667,-24.08333],"type":"Point"}
+}

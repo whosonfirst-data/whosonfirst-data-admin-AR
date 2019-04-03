@@ -1,0 +1,73 @@
+{
+  "id": 1260066549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61667,-35.0,-67.61667,-35.0",
+    "geom:latitude":-35.0,
+    "geom:longitude":-67.61667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50014.0",
+    "gn:asciiname":"La Marzolina",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3849974,
+    "gn:latitude":-35.0,
+    "gn:longitude":-67.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Marzolina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Marsolina",
+        "La Marzolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421166643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849974
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"087c3d0467debbc72001771ff72cd5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166643,
+            "locality_id":1260066549,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1260066549,
+    "wof:lastmodified":1537584866,
+    "wof:name":"La Marzolina",
+    "wof:parent_id":421166643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61667,
+    -35.0,
+    -67.61667,
+    -35.0
+],
+  "geometry": {"coordinates":[-67.61667,-35.0],"type":"Point"}
+}

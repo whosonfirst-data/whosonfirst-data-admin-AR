@@ -1,0 +1,67 @@
+{
+  "id": 1293064311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6905,-28.61079,-68.6905,-28.61079",
+    "geom:latitude":-28.61079,
+    "geom:longitude":-68.6905,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Punta de Agua",
+    "gn:country_code":"AR",
+    "gn:dem":2699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839959,
+    "gn:latitude":-28.61079,
+    "gn:longitude":-68.6905,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Punta de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839959
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"abe121a929501f7bcab9c2bccff72866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718337,
+            "locality_id":1293064311,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1293064311,
+    "wof:lastmodified":1536900377,
+    "wof:name":"Punta de Agua",
+    "wof:parent_id":1108718337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6905,
+    -28.61079,
+    -68.6905,
+    -28.61079
+],
+  "geometry": {"coordinates":[-68.6905,-28.61079],"type":"Point"}
+}

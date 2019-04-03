@@ -1,0 +1,109 @@
+{
+  "id": 890444181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.58041,-32.47661,-61.58041,-32.47661",
+    "geom:latitude":-32.47661,
+    "geom:longitude":-61.58041,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":12793,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u7f85\u85a9\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30ed\u30b5\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441 \u0420\u043e\u0441\u0430\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Rosas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0420\u043e\u0441\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0631\u0648\u0633\u0627\u0633\u060c \u0633\u0627\u0646\u0679\u0627 \u0641\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Las Rosas"
+    ],
+    "qs:name":"Las Rosas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847836,
+        "gp:id":91814680,
+        "qs:id":1033645,
+        "wd:id":"Q518660"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052454,
+    "wof:geomhash":"57d34c04a4e6811aa8e444c1a49b6a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718449,
+            "locality_id":890444181,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":890444181,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Las Rosas",
+    "wof:parent_id":1108718449,
+    "wof:placetype":"locality",
+    "wof:population":12793,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.58041,
+    -32.47661,
+    -61.58041,
+    -32.47661
+],
+  "geometry": {"coordinates":[-61.58041,-32.47661],"type":"Point"}
+}

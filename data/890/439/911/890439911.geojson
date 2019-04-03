@@ -1,0 +1,93 @@
+{
+  "id": 890439911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.39947,-32.1722,-59.39947,-32.1722",
+    "geom:latitude":-32.1722,
+    "geom:longitude":-59.39947,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":5806,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Maci\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u044c\u044f"
+    ],
+    "qs:name":"Maci\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430968,
+        "gp:id":465739,
+        "qs:id":583306,
+        "wd:id":"Q6724173",
+        "wk:page":"Maci\u00e1"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052255,
+    "wof:geomhash":"7697f7501055f5b46df43ed980dd9638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718257,
+            "locality_id":890439911,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":890439911,
+    "wof:lastmodified":1527729733,
+    "wof:name":"Maci\u00e1",
+    "wof:parent_id":1108718257,
+    "wof:placetype":"locality",
+    "wof:population":5806,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.39947,
+    -32.1722,
+    -59.39947,
+    -32.1722
+],
+  "geometry": {"coordinates":[-59.39947,-32.1722],"type":"Point"}
+}

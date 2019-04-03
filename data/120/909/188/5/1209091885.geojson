@@ -1,0 +1,62 @@
+{
+  "id": 1209091885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.82286,-31.44434,-58.82286,-31.44434",
+    "geom:latitude":-31.44434,
+    "geom:longitude":-58.82286,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30113.0",
+    "gn:asciiname":"Lucas Norte",
+    "gn:country_code":"AR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3431003,
+    "gn:latitude":-31.44434,
+    "gn:longitude":-58.82286,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lucas Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431003
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d4abdf83121a2adb76645da7f55bdb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209091885
+        }
+    ],
+    "wof:id":1209091885,
+    "wof:lastmodified":1536298011,
+    "wof:name":"Lucas Norte",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.82286,
+    -31.444340000000004,
+    -58.82286,
+    -31.444340000000004
+],
+  "geometry": {"coordinates":[-58.82286,-31.44434],"type":"Point"}
+}

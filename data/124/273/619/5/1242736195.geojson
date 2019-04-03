@@ -1,0 +1,71 @@
+{
+  "id": 1242736195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.46083,-51.82899,-58.46083,-51.82899",
+    "geom:latitude":-51.82899,
+    "geom:longitude":-58.46083,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"94021.0",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"AR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610203,
+    "gn:latitude":-51.82899,
+    "gn:longitude":-58.46083,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mount Pleasant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610203
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1b3e92918c7bc56dd6b52a5939f72a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1242736195,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242736195,
+    "wof:lastmodified":1537584909,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.46083,
+    -51.82899000000001,
+    -58.46083,
+    -51.82899000000001
+],
+  "geometry": {"coordinates":[-58.46083,-51.82899000000001],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421185993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.17778,-34.59743,-59.17778,-34.59743",
+    "geom:latitude":-34.59743,
+    "geom:longitude":-59.17778,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "J\u00e1uregui"
+    ],
+    "name:dut_x_preferred":[
+        "J\u00e1uregui"
+    ],
+    "name:eng_x_preferred":[
+        "J\u00e1uregui"
+    ],
+    "name:eus_x_preferred":[
+        "Jauregi"
+    ],
+    "name:fra_x_preferred":[
+        "Jauregui"
+    ],
+    "name:spa_x_preferred":[
+        "Jauregi"
+    ],
+    "name:spa_x_variant":[
+        "Villa Flandria",
+        "Jos\u00e9 Mar\u00eda J\u00e1uregui"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433347,
+    "qs:gn_pop":0,
+    "qs:name":"J\u00e1uregui",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":906647,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465612,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":528,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433347,
+        "gp:id":465612,
+        "qs:id":906647,
+        "wd:id":"Q5943058"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009461,
+    "wof:geomhash":"78dbc18f83d04d2edb8b4c9ef20624f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718009,
+            "locality_id":421185993,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421185993,
+    "wof:lastmodified":1527726507,
+    "wof:name":"J\u00e1uregui",
+    "wof:parent_id":1108718009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.17778,
+    -34.59743,
+    -59.17778,
+    -34.59743
+],
+  "geometry": {"coordinates":[-59.17778,-34.59743],"type":"Point"}
+}

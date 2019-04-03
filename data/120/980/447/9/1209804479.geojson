@@ -1,0 +1,72 @@
+{
+  "id": 1209804479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.25771,-24.44914,-65.25771,-24.44914",
+    "geom:latitude":-24.44914,
+    "geom:longitude":-65.25771,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"38014.0",
+    "gn:asciiname":"Dique Las Maderas",
+    "gn:country_code":"AR",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859335,
+    "gn:latitude":-24.44914,
+    "gn:longitude":-65.25771,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dique Las Maderas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Maderas",
+        "Dique Las Maderas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421171243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859335
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"43f676c2790d2cf0c4e4bbafcb182ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171243,
+            "locality_id":1209804479,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1209804479,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Dique Las Maderas",
+    "wof:parent_id":421171243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.25771,
+    -24.44914,
+    -65.25771,
+    -24.44914
+],
+  "geometry": {"coordinates":[-65.25771,-24.44914],"type":"Point"}
+}

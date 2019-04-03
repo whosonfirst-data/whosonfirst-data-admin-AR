@@ -1,0 +1,84 @@
+{
+  "id": 890434687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28333,-37.01667,-64.28333,-37.01667",
+    "geom:latitude":-37.01667,
+    "geom:longitude":-64.28333,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":930,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ataliva Roca"
+    ],
+    "name:eng_x_preferred":[
+        "Ataliva Roca"
+    ],
+    "name:por_x_preferred":[
+        "Ataliva Roca"
+    ],
+    "name:spa_x_preferred":[
+        "Ataliva Roca"
+    ],
+    "name:swe_x_preferred":[
+        "Ataliva Roca"
+    ],
+    "qs:name":"Ataliva Roca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865280,
+        "gp:id":91815191,
+        "qs:id":585769,
+        "wd:id":"Q4283923",
+        "wk:page":"Ataliva Roca"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052036,
+    "wof:geomhash":"474d66a3b98a768534371fca6fdbbbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718319,
+            "locality_id":890434687,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890434687,
+    "wof:lastmodified":1527792944,
+    "wof:name":"Ataliva Roca",
+    "wof:parent_id":1108718319,
+    "wof:placetype":"locality",
+    "wof:population":930,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28333,
+    -37.01667,
+    -64.28333,
+    -37.01667
+],
+  "geometry": {"coordinates":[-64.28333000000001,-37.01667],"type":"Point"}
+}

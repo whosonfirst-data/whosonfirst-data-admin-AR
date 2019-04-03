@@ -1,0 +1,90 @@
+{
+  "id": 421172997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97049,-26.1125,-65.97049,-26.1125",
+    "geom:latitude":-26.1125,
+    "geom:longitude":-65.97049,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Loro Huasi"
+    ],
+    "name:spa_x_preferred":[
+        "Loro Huasi"
+    ],
+    "name:swe_x_preferred":[
+        "Loro Huasi"
+    ],
+    "name:unk_x_variant":[
+        "Lora Huasi"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3846587,
+    "qs:gn_pop":0,
+    "qs:name":"Loro Huasi",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":193,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":193,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":281819,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465716,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421197591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846587,
+        "gp:id":465716,
+        "qs:id":281819,
+        "wd:id":"Q6681528"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008961,
+    "wof:geomhash":"e6a94a0d74ac2b48f16fb99a47b1945a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197591,
+            "locality_id":421172997,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421172997,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Loro Huasi",
+    "wof:parent_id":421197591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97049,
+    -26.1125,
+    -65.97049,
+    -26.1125
+],
+  "geometry": {"coordinates":[-65.97049,-26.1125],"type":"Point"}
+}

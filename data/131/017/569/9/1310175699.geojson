@@ -1,0 +1,68 @@
+{
+  "id": 1310175699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35,-40.48333,-71.35,-40.48333",
+    "geom:latitude":-40.48333,
+    "geom:longitude":-71.35,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58056.0",
+    "gn:asciiname":"Filo-hua-hum",
+    "gn:country_code":"AR",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855563,
+    "gn:latitude":-40.48333,
+    "gn:longitude":-71.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Filo-hua-hum",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421175299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855563
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"430d2c8f0ae2660b86d546e5d7ef8081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175299,
+            "locality_id":1310175699,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1310175699,
+    "wof:lastmodified":1536895213,
+    "wof:name":"Filo-hua-hum",
+    "wof:parent_id":421175299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35,
+    -40.48333,
+    -71.35,
+    -40.48333
+],
+  "geometry": {"coordinates":[-71.34999999999999,-40.48333],"type":"Point"}
+}

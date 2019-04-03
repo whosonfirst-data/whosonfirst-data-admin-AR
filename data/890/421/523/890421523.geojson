@@ -1,0 +1,90 @@
+{
+  "id": 890421523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.28333,-25.61667,-63.28333,-25.61667",
+    "geom:latitude":-25.61667,
+    "geom:longitude":-63.28333,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":8470,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:eng_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:ita_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:por_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:spa_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:swe_x_preferred":[
+        "Taco Pozo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043a\u043e-\u041f\u043e\u0441\u043e"
+    ],
+    "qs:name":"Taco Pozo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834843,
+        "gp:id":467061,
+        "qs:id":1244304,
+        "wd:id":"Q1579288",
+        "wk:page":"Taco Pozo"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051397,
+    "wof:geomhash":"874421cd4985e5efb16d4faebc4d9d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185419,
+            "locality_id":890421523,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890421523,
+    "wof:lastmodified":1527782113,
+    "wof:name":"Taco Pozo",
+    "wof:parent_id":421185419,
+    "wof:placetype":"locality",
+    "wof:population":8470,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.28333,
+    -25.61667,
+    -63.28333,
+    -25.61667
+],
+  "geometry": {"coordinates":[-63.28333,-25.61667],"type":"Point"}
+}

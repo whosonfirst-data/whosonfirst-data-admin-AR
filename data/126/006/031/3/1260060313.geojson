@@ -1,0 +1,72 @@
+{
+  "id": 1260060313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.64715,-29.86417,-65.64715,-29.86417",
+    "geom:latitude":-29.86417,
+    "geom:longitude":-65.64715,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46035.0",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"AR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851482,
+    "gn:latitude":-29.86417,
+    "gn:longitude":-65.64715,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esperanza de los Cerrillos",
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851482
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ebd44bad3e44092df20b8365ca36ff73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718327,
+            "locality_id":1260060313,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1260060313,
+    "wof:lastmodified":1537584867,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1108718327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.64715,
+    -29.86417,
+    -65.64715,
+    -29.86417
+],
+  "geometry": {"coordinates":[-65.64715,-29.86417],"type":"Point"}
+}

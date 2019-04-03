@@ -1,0 +1,74 @@
+{
+  "id": 1276975963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71667,-23.96667,-61.71667,-23.96667",
+    "geom:latitude":-23.96667,
+    "geom:longitude":-61.71667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34007.0",
+    "gn:asciiname":"Ingeniero Enrique H. Faure",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853791,
+    "gn:latitude":-23.96667,
+    "gn:longitude":-61.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ingeniero Enrique H. Faure",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enrique H. Faure",
+        "Ingeniero E.H. Faure",
+        "Ingeniero Enrique H. Faure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853791
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aafa2039d8d77c41ed87a1ffc5cda318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718261,
+            "locality_id":1276975963,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1276975963,
+    "wof:lastmodified":1537584872,
+    "wof:name":"Ingeniero Enrique H. Faure",
+    "wof:parent_id":1108718261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71666999999999,
+    -23.96667,
+    -61.71666999999999,
+    -23.96667
+],
+  "geometry": {"coordinates":[-61.71666999999999,-23.96667],"type":"Point"}
+}

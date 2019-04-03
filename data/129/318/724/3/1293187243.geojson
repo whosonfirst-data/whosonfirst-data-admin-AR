@@ -1,0 +1,68 @@
+{
+  "id": 1293187243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8184,-32.95495,-68.8184,-32.95495",
+    "geom:latitude":-32.95495,
+    "geom:longitude":-68.8184,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50070.0",
+    "gn:asciiname":"Villa Edelmira",
+    "gn:country_code":"AR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832754,
+    "gn:latitude":-32.95495,
+    "gn:longitude":-68.8184,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Edelmira",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832754
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"090cd413a8190ff9b2a2cceeb0c78e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187689,
+            "locality_id":1293187243,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1293187243,
+    "wof:lastmodified":1536723338,
+    "wof:name":"Villa Edelmira",
+    "wof:parent_id":421187689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8184,
+    -32.95495,
+    -68.8184,
+    -32.95495
+],
+  "geometry": {"coordinates":[-68.8184,-32.95495],"type":"Point"}
+}

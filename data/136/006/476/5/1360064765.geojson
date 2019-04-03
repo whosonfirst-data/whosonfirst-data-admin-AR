@@ -1,0 +1,68 @@
+{
+  "id": 1360064765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.54961,-36.64242,-68.54961,-36.64242",
+    "geom:latitude":-36.64242,
+    "geom:longitude":-68.54961,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50077.0",
+    "gn:asciiname":"Aguada del Toro",
+    "gn:country_code":"AR",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866761,
+    "gn:latitude":-36.64242,
+    "gn:longitude":-68.54961,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguada del Toro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866761
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4b53c7940462f23f453c85d01e6cae22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188043,
+            "locality_id":1360064765,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1360064765,
+    "wof:lastmodified":1536974571,
+    "wof:name":"Aguada del Toro",
+    "wof:parent_id":421188043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.54961,
+    -36.64242,
+    -68.54961,
+    -36.64242
+],
+  "geometry": {"coordinates":[-68.54961,-36.64242],"type":"Point"}
+}

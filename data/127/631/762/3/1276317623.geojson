@@ -1,0 +1,68 @@
+{
+  "id": 1276317623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25912,-23.53125,-61.25912,-23.53125",
+    "geom:latitude":-23.53125,
+    "geom:longitude":-61.25912,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34007.0",
+    "gn:asciiname":"La Primavera",
+    "gn:country_code":"AR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3849283,
+    "gn:latitude":-23.53125,
+    "gn:longitude":-61.25912,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3849283
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d333c776128f3494e21921a614ec796b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718261,
+            "locality_id":1276317623,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1276317623,
+    "wof:lastmodified":1536799861,
+    "wof:name":"La Primavera",
+    "wof:parent_id":1108718261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25912,
+    -23.53125,
+    -61.25912,
+    -23.53125
+],
+  "geometry": {"coordinates":[-61.25912,-23.53125],"type":"Point"}
+}

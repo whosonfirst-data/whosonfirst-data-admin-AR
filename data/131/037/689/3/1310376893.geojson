@@ -1,0 +1,68 @@
+{
+  "id": 1310376893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.47491,-26.07717,-65.47491,-26.07717",
+    "geom:latitude":-26.07717,
+    "geom:longitude":-65.47491,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66084.0",
+    "gn:asciiname":"Potrerillos",
+    "gn:country_code":"AR",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840686,
+    "gn:latitude":-26.07717,
+    "gn:longitude":-65.47491,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Potrerillos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840686
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4e43177b2910fb4b90adf7fb70b3edeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718409,
+            "locality_id":1310376893,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1310376893,
+    "wof:lastmodified":1536601967,
+    "wof:name":"Potrerillos",
+    "wof:parent_id":1108718409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.47491,
+    -26.07717,
+    -65.47491,
+    -26.07717
+],
+  "geometry": {"coordinates":[-65.47490999999999,-26.07717],"type":"Point"}
+}

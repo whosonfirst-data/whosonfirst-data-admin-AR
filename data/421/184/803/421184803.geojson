@@ -1,0 +1,108 @@
+{
+  "id": 421184803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.46667,-34.68333,-58.46667,-34.68333",
+    "geom:latitude":-34.68333,
+    "geom:longitude":-58.46667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u0648\u0633\u062a\u064a\u0646 \u0628\u064a\u062f\u0631\u0648 \u062e\u0648\u0633\u062a\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:deu_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:fra_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:hrv_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:ido_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:ita_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10e3\u10e1\u10e2\u10d8\u10dc \u10de\u10d4\u10d3\u10e0\u10dd \u10ee\u10e3\u10e1\u10e2\u10dd"
+    ],
+    "name:oci_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "name:spa_x_preferred":[
+        "Agust\u00edn Pedro Justo"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3430990,
+    "qs:gn_pop":0,
+    "qs:name":"Luis J. Garc\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:photos":275,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":275,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401966,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331426,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        421174285,
+        1109371865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430990,
+        "gp:id":331426,
+        "qs:id":401966
+    },
+    "wof:country":"AR",
+    "wof:created":1459009423,
+    "wof:geomhash":"13ede7d39751192913c47dd28c6ec14c",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371865,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":421184803,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":421184803,
+    "wof:lastmodified":1531858545,
+    "wof:name":"Luis J. Garc\u00eda",
+    "wof:parent_id":1109371865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.46667,
+    -34.68333,
+    -58.46667,
+    -34.68333
+],
+  "geometry": {"coordinates":[-58.46667,-34.68333],"type":"Point"}
+}

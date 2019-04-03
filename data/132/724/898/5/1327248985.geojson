@@ -1,0 +1,68 @@
+{
+  "id": 1327248985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.50972,-36.84286,-58.50972,-36.84286",
+    "geom:latitude":-36.84286,
+    "geom:longitude":-58.50972,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6042.0",
+    "gn:asciiname":"Solanet",
+    "gn:country_code":"AR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427930,
+    "gn:latitude":-36.84286,
+    "gn:longitude":-58.50972,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Solanet",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427930
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"472d64c848eeb34ed72247a2187f8322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717859,
+            "locality_id":1327248985,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327248985,
+    "wof:lastmodified":1536945997,
+    "wof:name":"Solanet",
+    "wof:parent_id":1108717859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.50972,
+    -36.84286,
+    -58.50972,
+    -36.84286
+],
+  "geometry": {"coordinates":[-58.50972,-36.84286],"type":"Point"}
+}

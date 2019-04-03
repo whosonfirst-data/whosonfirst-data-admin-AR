@@ -1,0 +1,75 @@
+{
+  "id": 1293461261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.6,-23.55,-62.6,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":-62.6,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"Suri Pintado",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834910,
+    "gn:latitude":-23.55,
+    "gn:longitude":-62.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Suri Pintado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuri Pintado",
+        "Puesto Suri Pintado",
+        "Puesto Zuri Pintado",
+        "Suri Pintado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834910
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9cb5055d0abe725e6d60ede44c675c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1293461261,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293461261,
+    "wof:lastmodified":1537584837,
+    "wof:name":"Suri Pintado",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.6,
+    -23.55,
+    -62.6,
+    -23.55
+],
+  "geometry": {"coordinates":[-62.6,-23.55],"type":"Point"}
+}

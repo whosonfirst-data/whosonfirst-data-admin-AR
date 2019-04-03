@@ -1,0 +1,68 @@
+{
+  "id": 1360242867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21768,-26.98121,-65.21768,-26.98121",
+    "geom:latitude":-26.98121,
+    "geom:longitude":-65.21768,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"Los Bulacios",
+    "gn:country_code":"AR",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8478267,
+    "gn:latitude":-26.98121,
+    "gn:longitude":-65.21768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Bulacios",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8478267
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4dc47d35044f8b6d88fbae5e9c4abb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":1360242867,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1360242867,
+    "wof:lastmodified":1536718523,
+    "wof:name":"Los Bulacios",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21768,
+    -26.98121,
+    -65.21768,
+    -26.98121
+],
+  "geometry": {"coordinates":[-65.21768,-26.98121],"type":"Point"}
+}

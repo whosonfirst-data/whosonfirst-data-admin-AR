@@ -1,0 +1,115 @@
+{
+  "id": 421199999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.39215,-33.91965,-64.39215,-33.91965",
+    "geom:latitude":-33.91965,
+    "geom:longitude":-64.39215,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:deu_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:dut_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:eng_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:fre_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:ger_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:por_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:spa_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:swe_x_preferred":[
+        "Vicu\u00f1a Mackenna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a\u0443\u043d\u044c\u044f-\u041c\u0430\u043a\u043a\u0435\u043d\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mackenna"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832917,
+    "qs:gn_pop":8994,
+    "qs:name":"Vicu\u00f1a Mackenna",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":205364,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832917,
+        "gp:id":467454,
+        "qs:id":205364,
+        "wd:id":"Q918656",
+        "wk:page":"Vicu\u00f1a Mackenna, Argentina"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010008,
+    "wof:geomhash":"c6d1921a18b81275e7245c59ff1812e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":421199999,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421199999,
+    "wof:lastmodified":1527716410,
+    "wof:name":"Vicu\u00f1a Mackenna",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:population":8994,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.39215,
+    -33.91965,
+    -64.39215,
+    -33.91965
+],
+  "geometry": {"coordinates":[-64.39215,-33.91965],"type":"Point"}
+}

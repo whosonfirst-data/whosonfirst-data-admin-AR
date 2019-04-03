@@ -1,0 +1,103 @@
+{
+  "id": 421201679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.38604,-27.15998,-59.38604,-27.15998",
+    "geom:latitude":-27.15998,
+    "geom:longitude":-59.38604,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lapachito"
+    ],
+    "name:dut_x_preferred":[
+        "Lapachito"
+    ],
+    "name:eng_x_preferred":[
+        "Lapachito"
+    ],
+    "name:por_x_preferred":[
+        "Lapachito"
+    ],
+    "name:spa_x_preferred":[
+        "Lapachito"
+    ],
+    "name:swe_x_preferred":[
+        "Lapachito"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0686\u06cc\u0679\u0648"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3432122,
+    "qs:gn_pop":1448,
+    "qs:name":"Lapachito",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":925883,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465664,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432122,
+        "gp:id":465664,
+        "qs:id":925883,
+        "wd:id":"Q1657314",
+        "wk:page":"Lapachito"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010080,
+    "wof:geomhash":"d071af6b756a25de74f15ec4f3bdf330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718205,
+            "locality_id":421201679,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421201679,
+    "wof:lastmodified":1527716439,
+    "wof:name":"Lapachito",
+    "wof:parent_id":1108718205,
+    "wof:placetype":"locality",
+    "wof:population":1448,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.38604,
+    -27.15998,
+    -59.38604,
+    -27.15998
+],
+  "geometry": {"coordinates":[-59.38604,-27.15998],"type":"Point"}
+}

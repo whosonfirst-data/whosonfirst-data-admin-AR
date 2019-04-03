@@ -1,0 +1,120 @@
+{
+  "id": 421175645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.5346,-27.55068,-57.5346,-27.55068",
+    "geom:latitude":-27.55068,
+    "geom:longitude":-57.5346,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u9f8d\u5fb7\u963f\u65af\u7279\u62c9\u9054"
+    ],
+    "name:deu_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:dut_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:eng_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:fra_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:fre_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:ger_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:nld_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:oci_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:por_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043e\u043d-\u0434\u0435-\u0410\u0441\u0442\u0440\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ber\u00f3n de Astrada"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u9f8d\u5fb7\u963f\u65af\u7279\u62c9\u9054"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436029,
+    "qs:gn_pop":0,
+    "qs:name":"Ber\u00f3n de Astrada",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1013017,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464814,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436029,
+        "gp:id":464814,
+        "qs:id":1013017,
+        "wd:id":"Q55856"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009074,
+    "wof:geomhash":"f458f776becf4cd901a0eb846c3f43fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718169,
+            "locality_id":421175645,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421175645,
+    "wof:lastmodified":1527716337,
+    "wof:name":"Ber\u00f3n de Astrada",
+    "wof:parent_id":1108718169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.5346,
+    -27.55068,
+    -57.5346,
+    -27.55068
+],
+  "geometry": {"coordinates":[-57.5346,-27.55068],"type":"Point"}
+}

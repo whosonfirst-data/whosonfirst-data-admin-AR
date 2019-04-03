@@ -1,0 +1,68 @@
+{
+  "id": 1259935941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7,-26.38333,-64.7,-26.38333",
+    "geom:latitude":-26.38333,
+    "geom:longitude":-64.7,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90007.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"AR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836921,
+    "gn:latitude":-26.38333,
+    "gn:longitude":-64.7,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836921
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0d87420d6761c327678a1c728b9a0924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718519,
+            "locality_id":1259935941,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1259935941,
+    "wof:lastmodified":1536704074,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108718519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7,
+    -26.38333,
+    -64.7,
+    -26.38333
+],
+  "geometry": {"coordinates":[-64.7,-26.38333],"type":"Point"}
+}

@@ -1,0 +1,343 @@
+{
+  "id": 421169601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.34992,-33.13067,-64.34992,-33.13067",
+    "geom:latitude":-33.13067,
+    "geom:longitude":-64.34992,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u0643\u0648\u0627\u0631\u062a\u0648\u060c \u0642\u0631\u0637\u0628\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u0578 \u053f\u0578\u0582\u0561\u0580\u057f\u0578"
+    ],
+    "name:aze_x_preferred":[
+        "Rio-Kuarto"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u0993 \u0995\u09c1\u09af\u09bc\u09be\u09b0\u09cd\u09a4\u09cb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u043e \u041a\u0443\u0430\u0440\u0442\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5965\u5938\u5c14\u6258"
+    ],
+    "name:dan_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:epo_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u06a9\u0648\u0627\u0631\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d8\u10dd-\u10d9\u10e3\u10d0\u10e0\u10e2\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03bf\u03c5\u03ac\u03c1\u03c4\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abf\u0aaf\u0acb \u0a95\u0ac1\u0a86\u0ab0\u0acd\u0a9f\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05e7\u05d5\u05d0\u05e8\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u092f\u094b \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0578 \u053f\u0578\u0582\u0561\u0580\u057f\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30af\u30a2\u30eb\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbf\u0caf\u0cca \u0c95\u0ccd\u0caf\u0cc1\u0cb0\u0ccd\u0c9f\u0ccb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10dd-\u10d9\u10e3\u10d0\u10e0\u10e2\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ucfe0\uc544\ub974\ud1a0"
+    ],
+    "name:lav_x_preferred":[
+        "Riokvarto"
+    ],
+    "name:lij_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Kuartas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093f\u0913 \u0915\u0941\u0906\u0930\u094d\u091f\u094b"
+    ],
+    "name:may_x_preferred":[
+        "Rio Cuarto"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u06a9\u0648\u0627\u0631\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u041a\u0443\u0430\u0440\u0442\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd2\u0dba\u0ddd \u0d9a\u0ddc\u0dbb\u0dca\u0da7\u0ddd"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de R\u00edo Cuarto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043e \u041a\u0432\u0430\u0440\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbf\u0baf\u0bcb \u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c2f\u0c4b \u0c15\u0c41\u0c35\u0c3e\u0c30\u0c4d\u0c1f\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e34\u0e42\u0e2d \u0e01\u0e31\u0e27\u0e23\u0e4c\u0e42\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Rio Cuarto"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u041a\u0432\u0430\u0440\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u06a9\u0648\u0627\u0631\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Rio Cuarto"
+    ],
+    "name:war_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5965\u5938\u5c14\u6258"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"C\u00f3rdoba",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3838874,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Rio Cuarto",
+    "ne:GN_POP":153757,
+    "ne:GTOPO30":422.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-33.130033,
+    "ne:LONGITUDE":-64.349985,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Rio Cuarto",
+    "ne:MAX_AREAKM":45.0,
+    "ne:MAX_AREAMI":17.0,
+    "ne:MAX_BBXMAX":-64.308333,
+    "ne:MAX_BBXMIN":-64.391667,
+    "ne:MAX_BBYMAX":-33.091667,
+    "ne:MAX_BBYMIN":-33.166667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":34.0,
+    "ne:MAX_PERMI":21.0,
+    "ne:MAX_POP10":118162,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.34664,
+    "ne:MEAN_BBYC":-33.123656,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":45.0,
+    "ne:MIN_AREAMI":17.0,
+    "ne:MIN_BBXMAX":-64.308333,
+    "ne:MIN_BBXMIN":-64.391667,
+    "ne:MIN_BBYMAX":-33.091667,
+    "ne:MIN_BBYMIN":-33.166667,
+    "ne:MIN_PERKM":34.0,
+    "ne:MIN_PERMI":21.0,
+    "ne:NAME":"Rio Cuarto",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Rio Cuarto",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":153757,
+    "ne:POP_MIN":118162,
+    "ne:POP_OTHER":110788,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838874,
+    "qs:gn_pop":153757,
+    "qs:name":"R\u00edo Cuarto",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":523,
+    "qs:photos_1k":106,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":523,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":218212,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466871,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":711,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838874,
+        "gp:id":466871,
+        "qs:id":218212,
+        "wd:id":"Q983451",
+        "wk:page":"R\u00edo Cuarto, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008816,
+    "wof:geomhash":"cc6cc80d8f03f467dc7a9b8e18a00290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":421169601,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421169601,
+    "wof:lastmodified":1527716174,
+    "wof:name":"R\u00edo Cuarto",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:population":153757,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.34992,
+    -33.13067,
+    -64.34992,
+    -33.13067
+],
+  "geometry": {"coordinates":[-64.34992,-33.13067],"type":"Point"}
+}

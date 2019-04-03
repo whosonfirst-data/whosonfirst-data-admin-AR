@@ -1,0 +1,68 @@
+{
+  "id": 1259396619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.3315,-34.70276,-58.3315,-34.70276",
+    "geom:latitude":-34.70276,
+    "geom:longitude":-58.3315,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6035.0",
+    "gn:asciiname":"Villa Barilari",
+    "gn:country_code":"AR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427465,
+    "gn:latitude":-34.70276,
+    "gn:longitude":-58.3315,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa Barilari",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421191687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427465
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c30bd7347cf38feb27c8aa19a8042f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191687,
+            "locality_id":1259396619,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1259396619,
+    "wof:lastmodified":1536982608,
+    "wof:name":"Villa Barilari",
+    "wof:parent_id":421191687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.3315,
+    -34.70276,
+    -58.3315,
+    -34.70276
+],
+  "geometry": {"coordinates":[-58.3315,-34.70276],"type":"Point"}
+}

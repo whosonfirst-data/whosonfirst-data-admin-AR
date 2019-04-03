@@ -1,0 +1,72 @@
+{
+  "id": 1326499007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.27624,-28.48262,-63.27624,-28.48262",
+    "geom:latitude":-28.48262,
+    "geom:longitude":-63.27624,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86028.0",
+    "gn:asciiname":"Mailin",
+    "gn:country_code":"AR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845256,
+    "gn:latitude":-28.48262,
+    "gn:longitude":-63.27624,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mail\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mail\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845256,
+        "wk:page":"Mail%C3%ADn"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fcf7cf0bafee79213be8fa3a1562b14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718471,
+            "locality_id":1326499007,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1326499007,
+    "wof:lastmodified":1537584858,
+    "wof:name":"Mailin",
+    "wof:parent_id":1108718471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.27624,
+    -28.48262,
+    -63.27624,
+    -28.48262
+],
+  "geometry": {"coordinates":[-63.27624,-28.48262],"type":"Point"}
+}

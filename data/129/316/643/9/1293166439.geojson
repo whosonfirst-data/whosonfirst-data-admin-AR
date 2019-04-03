@@ -1,0 +1,72 @@
+{
+  "id": 1293166439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31149,-34.80443,-66.31149,-34.80443",
+    "geom:latitude":-34.80443,
+    "geom:longitude":-66.31149,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74056.0",
+    "gn:asciiname":"Usiyal",
+    "gn:country_code":"AR",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833363,
+    "gn:latitude":-34.80443,
+    "gn:longitude":-66.31149,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Usiyal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paradero Usiyal",
+        "Usiyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833363
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d1422da16d7ef107f2da987dd1d757f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718445,
+            "locality_id":1293166439,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1293166439,
+    "wof:lastmodified":1537584834,
+    "wof:name":"Usiyal",
+    "wof:parent_id":1108718445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31149,
+    -34.80443,
+    -66.31149,
+    -34.80443
+],
+  "geometry": {"coordinates":[-66.31149000000001,-34.80443],"type":"Point"}
+}

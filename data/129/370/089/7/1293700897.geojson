@@ -1,0 +1,69 @@
+{
+  "id": 1293700897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.54138,-34.49558,-61.54138,-34.49558",
+    "geom:latitude":-34.49558,
+    "geom:longitude":-61.54138,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6462.0",
+    "gn:asciiname":"Vedia",
+    "gn:country_code":"AR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3833140,
+    "gn:latitude":-34.49558,
+    "gn:longitude":-61.54138,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vedia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833140,
+        "wk:page":"Vedia%2C_Buenos_Aires"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a1e7fe5b682027737aad80dc7eb13b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717999,
+            "locality_id":1293700897,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293700897,
+    "wof:lastmodified":1537486304,
+    "wof:name":"Vedia",
+    "wof:parent_id":1108717999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.54138,
+    -34.49558,
+    -61.54138,
+    -34.49558
+],
+  "geometry": {"coordinates":[-61.54138,-34.49558],"type":"Point"}
+}

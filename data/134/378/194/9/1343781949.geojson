@@ -1,0 +1,68 @@
+{
+  "id": 1343781949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.99585,-30.97429,-58.99585,-30.97429",
+    "geom:latitude":-30.97429,
+    "geom:longitude":-58.99585,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30035.0",
+    "gn:asciiname":"El Cimarron",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3434743,
+    "gn:latitude":-30.97429,
+    "gn:longitude":-58.99585,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Cimarr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434743
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2d125d0b2cc2b5b726bd1c2272a24c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718247,
+            "locality_id":1343781949,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1343781949,
+    "wof:lastmodified":1536780547,
+    "wof:name":"El Cimarron",
+    "wof:parent_id":1108718247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.99585,
+    -30.97429,
+    -58.99585,
+    -30.97429
+],
+  "geometry": {"coordinates":[-58.99585,-30.97429],"type":"Point"}
+}

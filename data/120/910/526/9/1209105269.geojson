@@ -1,0 +1,66 @@
+{
+  "id": 1209105269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.0516,-30.06754,-64.0516,-30.06754",
+    "geom:latitude":-30.06754,
+    "geom:longitude":-64.0516,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14154.0",
+    "gn:asciiname":"Caminiaga",
+    "gn:country_code":"AR",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863312,
+    "gn:latitude":-30.06754,
+    "gn:longitude":-64.0516,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Caminiaga",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cami\u00f1aga",
+        "Caminiaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863312
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"54e5635026cd6104f5c74e1bd10bec9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209105269
+        }
+    ],
+    "wof:id":1209105269,
+    "wof:lastmodified":1537584898,
+    "wof:name":"Caminiaga",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.0516,
+    -30.06754,
+    -64.0516,
+    -30.06754
+],
+  "geometry": {"coordinates":[-64.05159999999999,-30.06754],"type":"Point"}
+}

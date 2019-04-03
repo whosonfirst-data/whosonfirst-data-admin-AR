@@ -1,0 +1,73 @@
+{
+  "id": 1310305481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55007,-42.71905,-70.55007,-42.71905",
+    "geom:latitude":-42.71905,
+    "geom:longitude":-70.55007,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"26014.0",
+    "gn:asciiname":"Gualjaina",
+    "gn:country_code":"AR",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854610,
+    "gn:latitude":-42.71905,
+    "gn:longitude":-70.55007,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gualjaina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualjaina",
+        "Gualjaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854610,
+        "wk:page":"Gualjaina"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"411918fa5125bb22f90020bf5696933e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170125,
+            "locality_id":1310305481,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1310305481,
+    "wof:lastmodified":1537584874,
+    "wof:name":"Gualjaina",
+    "wof:parent_id":421170125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55006999999998,
+    -42.71905,
+    -70.55006999999998,
+    -42.71905
+],
+  "geometry": {"coordinates":[-70.55006999999998,-42.71905],"type":"Point"}
+}

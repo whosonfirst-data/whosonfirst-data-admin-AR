@@ -1,0 +1,108 @@
+{
+  "id": 421195291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8968,-35.81077,-61.8968,-35.81077",
+    "geom:latitude":-35.81077,
+    "geom:longitude":-61.8968,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bf\u03c5\u03b1\u03c7\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0647\u0648\u0627\u062e\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Pehuaj\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u74e6\u970d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841679,
+    "qs:gn_pop":0,
+    "qs:name":"Pehuaj\u00f3",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150423,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467024,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841679,
+        "gp:id":467024,
+        "qs:id":150423,
+        "wd:id":"Q3319248",
+        "wk:page":"Pehuaj\u00f3"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009838,
+    "wof:geomhash":"f3d7460a48d9cd6d6c7306bbb4c869d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718047,
+            "locality_id":421195291,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195291,
+    "wof:lastmodified":1501268865,
+    "wof:name":"Pehuaj\u00f3",
+    "wof:parent_id":1108718047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.8968,
+    -35.81077,
+    -61.8968,
+    -35.81077
+],
+  "geometry": {"coordinates":[-61.8968,-35.81077],"type":"Point"}
+}

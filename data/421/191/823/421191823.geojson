@@ -1,0 +1,109 @@
+{
+  "id": 421191823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65267,-40.11514,-71.65267,-40.11514",
+    "geom:latitude":-40.11514,
+    "geom:longitude":-71.65267,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Departamento de L\u00e1car"
+    ],
+    "name:deu_x_preferred":[
+        "Departamento L\u00e1car"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de L\u00e1car"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1car megye"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di L\u00e1car"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d9\u10d0\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00e1car"
+    ],
+    "name:por_x_preferred":[
+        "L\u00e1car"
+    ],
+    "name:sco_x_preferred":[
+        "L\u00e1car Depairtment"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento L\u00e1car"
+    ],
+    "name:unk_x_variant":[
+        "Hua Hum"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840097,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Hua Hum",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156123,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468974,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421175299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840097,
+        "gp:id":468974,
+        "qs:id":1156123
+    },
+    "wof:country":"AR",
+    "wof:created":1459009711,
+    "wof:geomhash":"aad335817b632034a23bf90a30f9df10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175299,
+            "locality_id":421191823,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421191823,
+    "wof:lastmodified":1501268864,
+    "wof:name":"Puerto Hua Hum",
+    "wof:parent_id":421175299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65267,
+    -40.11514,
+    -71.65267,
+    -40.11514
+],
+  "geometry": {"coordinates":[-71.65267,-40.11514],"type":"Point"}
+}

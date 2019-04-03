@@ -1,0 +1,69 @@
+{
+  "id": 1259761249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.39204,-35.78114,-63.39204,-35.78114",
+    "geom:latitude":-35.78114,
+    "geom:longitude":-63.39204,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42105.0",
+    "gn:asciiname":"Agustoni",
+    "gn:country_code":"AR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866480,
+    "gn:latitude":-35.78114,
+    "gn:longitude":-63.39204,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agustoni",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        421175285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866480,
+        "wk:page":"Agustoni"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"34d76d9b71a7788b8f114cf10d23169a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175285,
+            "locality_id":1259761249,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1259761249,
+    "wof:lastmodified":1537486352,
+    "wof:name":"Agustoni",
+    "wof:parent_id":421175285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.39204,
+    -35.78114,
+    -63.39204,
+    -35.78114
+],
+  "geometry": {"coordinates":[-63.39204,-35.78114],"type":"Point"}
+}

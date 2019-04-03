@@ -1,0 +1,77 @@
+{
+  "id": 1242653693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88333,-23.46667,-62.88333,-23.46667",
+    "geom:latitude":-23.46667,
+    "geom:longitude":-62.88333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"Coronel Juan Sola",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860184,
+    "gn:latitude":-23.46667,
+    "gn:longitude":-62.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coronel Juan Sol\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morillo",
+        "Juan Sol\u00e1",
+        "Morrillo",
+        "Coronel Juan Sol\u00e1 Morillo",
+        "Coronel Juan Sol\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860184,
+        "wk:page":"Coronel_Juan_Sol%C3%A1"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f446c6226dced313bb08cfba7c608124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1242653693,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1242653693,
+    "wof:lastmodified":1537584888,
+    "wof:name":"Coronel Juan Sola",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88333000000001,
+    -23.46667,
+    -62.88333000000001,
+    -23.46667
+],
+  "geometry": {"coordinates":[-62.88333000000001,-23.46667],"type":"Point"}
+}

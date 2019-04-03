@@ -1,0 +1,92 @@
+{
+  "id": 421180057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45016,-31.83125,-63.45016,-31.83125",
+    "geom:latitude":-31.83125,
+    "geom:longitude":-63.45016,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Las Junturas"
+    ],
+    "name:por_x_preferred":[
+        "Las Junturas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Junturas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Junturas"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3848242,
+    "qs:gn_pop":1541,
+    "qs:name":"Las Junturas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":287511,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331191,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848242,
+        "gp:id":331191,
+        "qs:id":287511,
+        "wd:id":"Q9020468"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009243,
+    "wof:geomhash":"fe4750e663cfe8b72ac5de2fbf32b49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":421180057,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421180057,
+    "wof:lastmodified":1513889246,
+    "wof:name":"Las Junturas",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:population":1541,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45016,
+    -31.83125,
+    -63.45016,
+    -31.83125
+],
+  "geometry": {"coordinates":[-63.45016,-31.83125],"type":"Point"}
+}

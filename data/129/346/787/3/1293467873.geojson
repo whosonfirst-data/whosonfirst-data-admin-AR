@@ -1,0 +1,74 @@
+{
+  "id": 1293467873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.41667,-37.56667,-63.41667,-37.56667",
+    "geom:latitude":-37.56667,
+    "geom:longitude":-63.41667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42070.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3835908,
+    "gn:latitude":-37.56667,
+    "gn:longitude":-63.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Santa Teresa",
+        "Santa Teresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835908,
+        "wk:page":"Santa_Teresa%2C_La_Pampa"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e2b5791f57ccc34c2845d2839f934959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718303,
+            "locality_id":1293467873,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1293467873,
+    "wof:lastmodified":1537584839,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":1108718303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.41667,
+    -37.56667,
+    -63.41667,
+    -37.56667
+],
+  "geometry": {"coordinates":[-63.41667,-37.56667],"type":"Point"}
+}

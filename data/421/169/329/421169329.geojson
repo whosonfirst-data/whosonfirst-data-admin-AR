@@ -1,0 +1,100 @@
+{
+  "id": 421169329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74991,-36.98881,-70.74991,-36.98881",
+    "geom:latitude":-36.98881,
+    "geom:longitude":-70.74991,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Las Ovejas"
+    ],
+    "name:dut_x_preferred":[
+        "Las Ovejas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Ovejas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Ovejas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Ovejas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0648\u0648\u06cc\u062c\u0627\u0633"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3847971,
+    "qs:gn_pop":1312,
+    "qs:name":"Las Ovejas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1205125,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331214,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847971,
+        "gp:id":331214,
+        "qs:id":1205125,
+        "wd:id":"Q6492369",
+        "wk:page":"Las Ovejas"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008805,
+    "wof:geomhash":"32ac04620603a1e3371a42a74c970ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718383,
+            "locality_id":421169329,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421169329,
+    "wof:lastmodified":1527716175,
+    "wof:name":"Las Ovejas",
+    "wof:parent_id":1108718383,
+    "wof:placetype":"locality",
+    "wof:population":1312,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74991,
+    -36.98881,
+    -70.74991,
+    -36.98881
+],
+  "geometry": {"coordinates":[-70.74991,-36.98881],"type":"Point"}
+}

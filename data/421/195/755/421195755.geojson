@@ -1,0 +1,123 @@
+{
+  "id": 421195755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.08975,-35.18286,-59.08975,-35.18286",
+    "geom:latitude":-35.18286,
+    "geom:longitude":-59.08975,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Lobos"
+    ],
+    "name:dut_x_preferred":[
+        "Lobos"
+    ],
+    "name:eng_x_preferred":[
+        "Lobos"
+    ],
+    "name:fre_x_preferred":[
+        "Lobos"
+    ],
+    "name:ger_x_preferred":[
+        "Lobos"
+    ],
+    "name:ita_x_preferred":[
+        "Lobos"
+    ],
+    "name:lit_x_preferred":[
+        "Lobosas"
+    ],
+    "name:pol_x_preferred":[
+        "Lobos"
+    ],
+    "name:por_x_preferred":[
+        "Lobos"
+    ],
+    "name:spa_x_preferred":[
+        "Lobos"
+    ],
+    "name:swe_x_preferred":[
+        "Lobos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0431\u043e\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431313,
+    "qs:gn_pop":0,
+    "qs:name":"Lobos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":672513,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466995,
+    "src:geom":"quattroshapes",
+    "wd:elevation":23.0,
+    "wd:latitude":-35.186389,
+    "wd:longitude":-59.096111,
+    "wd:wordcount":1321,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431313,
+        "gp:id":466995,
+        "qs:id":672513,
+        "wd:id":"Q1867123",
+        "wk:page":"Lobos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009858,
+    "wof:geomhash":"2df875aec7d28026ee5cab79895c6505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718007,
+            "locality_id":421195755,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195755,
+    "wof:lastmodified":1534379081,
+    "wof:name":"Lobos",
+    "wof:parent_id":1108718007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.08975,
+    -35.18286,
+    -59.08975,
+    -35.18286
+],
+  "geometry": {"coordinates":[-59.08975,-35.18286],"type":"Point"}
+}

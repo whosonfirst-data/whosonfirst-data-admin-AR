@@ -1,0 +1,79 @@
+{
+  "id": 421193333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.23333,-33.4,-60.23333,-33.4",
+    "geom:latitude":-33.4,
+    "geom:longitude":-60.23333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Campo Salles"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3863016,
+    "qs:gn_pop":0,
+    "qs:name":"Campos Salles",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887637,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464896,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863016,
+        "gp:id":464896,
+        "qs:id":887637
+    },
+    "wof:country":"AR",
+    "wof:created":1459009767,
+    "wof:geomhash":"55cec0b7869014e1fb92b5251075d950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718103,
+            "locality_id":421193333,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421193333,
+    "wof:lastmodified":1501268883,
+    "wof:name":"Campos Salles",
+    "wof:parent_id":1108718103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.23333,
+    -33.4,
+    -60.23333,
+    -33.4
+],
+  "geometry": {"coordinates":[-60.23333,-33.4],"type":"Point"}
+}

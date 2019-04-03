@@ -1,0 +1,66 @@
+{
+  "id": 1209246649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70822,-29.8054,-64.70822,-29.8054",
+    "geom:latitude":-29.8054,
+    "geom:longitude":-64.70822,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14175.0",
+    "gn:asciiname":"Lucio V. Mansilla",
+    "gn:country_code":"AR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845414,
+    "gn:latitude":-29.8054,
+    "gn:longitude":-64.70822,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lucio V. Mansilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lucio V. Mansillo",
+        "Lucio V. Mansilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845414
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7ec12c0bb897d42a132641e5fa3a37fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209246649
+        }
+    ],
+    "wof:id":1209246649,
+    "wof:lastmodified":1537584858,
+    "wof:name":"Lucio V. Mansilla",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70822,
+    -29.8054,
+    -64.70822,
+    -29.8054
+],
+  "geometry": {"coordinates":[-64.70822,-29.8054],"type":"Point"}
+}

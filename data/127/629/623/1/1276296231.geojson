@@ -1,0 +1,68 @@
+{
+  "id": 1276296231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.68683,-29.01626,-59.68683,-29.01626",
+    "geom:latitude":-29.01626,
+    "geom:longitude":-59.68683,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82049.0",
+    "gn:asciiname":"Moussy",
+    "gn:country_code":"AR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430529,
+    "gn:latitude":-29.01626,
+    "gn:longitude":-59.68683,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Moussy",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421183345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430529
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"98838dea6006ae18b5c69869f9d4f407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183345,
+            "locality_id":1276296231,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1276296231,
+    "wof:lastmodified":1536827555,
+    "wof:name":"Moussy",
+    "wof:parent_id":421183345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.68683000000001,
+    -29.01626,
+    -59.68683000000001,
+    -29.01626
+],
+  "geometry": {"coordinates":[-59.68683000000001,-29.01626],"type":"Point"}
+}

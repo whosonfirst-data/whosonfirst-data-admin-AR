@@ -1,0 +1,66 @@
+{
+  "id": 1209529811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.91065,-37.90669,-58.91065,-37.90669",
+    "geom:latitude":-37.90669,
+    "geom:longitude":-58.91065,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6476.0",
+    "gn:asciiname":"Licenciado Matienzo",
+    "gn:country_code":"AR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3431354,
+    "gn:latitude":-37.90669,
+    "gn:longitude":-58.91065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Licenciado Matienzo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L. Matienzo",
+        "Licenciado Matienzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431354
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3fb34870d8d6be3812e847190ca2a957",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209529811
+        }
+    ],
+    "wof:id":1209529811,
+    "wof:lastmodified":1537584822,
+    "wof:name":"Licenciado Matienzo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.91065,
+    -37.90669000000001,
+    -58.91065,
+    -37.90669000000001
+],
+  "geometry": {"coordinates":[-58.91065,-37.90669000000001],"type":"Point"}
+}

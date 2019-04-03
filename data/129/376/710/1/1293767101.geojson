@@ -1,0 +1,72 @@
+{
+  "id": 1293767101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.04102,-25.78557,-54.04102,-25.78557",
+    "geom:latitude":-25.78557,
+    "geom:longitude":-54.04102,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54049.0",
+    "gn:asciiname":"Deseado",
+    "gn:country_code":"AR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435081,
+    "gn:latitude":-25.78557,
+    "gn:longitude":-54.04102,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Deseado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Descado",
+        "Deseado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435081
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4f3e8e11ba4cb9a97983554a0a932f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203245,
+            "locality_id":1293767101,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1293767101,
+    "wof:lastmodified":1537584826,
+    "wof:name":"Deseado",
+    "wof:parent_id":421203245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.04102,
+    -25.78557,
+    -54.04102,
+    -25.78557
+],
+  "geometry": {"coordinates":[-54.04102,-25.78557],"type":"Point"}
+}

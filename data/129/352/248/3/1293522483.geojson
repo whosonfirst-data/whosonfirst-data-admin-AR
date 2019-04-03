@@ -1,0 +1,68 @@
+{
+  "id": 1293522483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,-45.78333,-68.75,-45.78333",
+    "geom:latitude":-45.78333,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"26091.0",
+    "gn:asciiname":"Kilometro 162",
+    "gn:country_code":"AR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853195,
+    "gn:latitude":-45.78333,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kil\u00f3metro 162",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853195
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"89a20367ffc2dd70f921b0eaa9df3e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171529,
+            "locality_id":1293522483,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":1293522483,
+    "wof:lastmodified":1536736658,
+    "wof:name":"Kilometro 162",
+    "wof:parent_id":421171529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    -45.78333,
+    -68.75,
+    -45.78333
+],
+  "geometry": {"coordinates":[-68.75,-45.78333],"type":"Point"}
+}

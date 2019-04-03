@@ -1,0 +1,72 @@
+{
+  "id": 1343620599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65156,-30.39603,-61.65156,-30.39603",
+    "geom:latitude":-30.39603,
+    "geom:longitude":-61.65156,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82091.0",
+    "gn:asciiname":"Curupaity",
+    "gn:country_code":"AR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859566,
+    "gn:latitude":-30.39603,
+    "gn:longitude":-61.65156,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Curupaity",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curupayti",
+        "Curupaity"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859566
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4063bd5f4a82c31f7d4334a4e87b8ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718457,
+            "locality_id":1343620599,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1343620599,
+    "wof:lastmodified":1537584886,
+    "wof:name":"Curupaity",
+    "wof:parent_id":1108718457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65156,
+    -30.39603,
+    -61.65156,
+    -30.39603
+],
+  "geometry": {"coordinates":[-61.65156,-30.39603],"type":"Point"}
+}

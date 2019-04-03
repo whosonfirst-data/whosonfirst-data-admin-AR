@@ -1,0 +1,106 @@
+{
+  "id": 890434711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.85,-23.9,-61.85,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":-61.85,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":10357,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:chi_x_preferred":[
+        "\u56e0\u8d6b\u6d85\u7f85\u83ef\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:fre_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:ger_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:lit_x_preferred":[
+        "Incheniero Chuaresas"
+    ],
+    "name:oci_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:por_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:spa_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:swe_x_preferred":[
+        "Ingeniero Guillermo N. Ju\u00e1rez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0445\u0435\u043d\u044c\u0454\u0440\u043e-\u0425\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Ingeniero G.N. Ju\u00e1rez"
+    ],
+    "qs:name":"Ingeniero Guillermo N. Ju\u00e1rez",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853788,
+        "gp:id":468757,
+        "qs:id":150476,
+        "wd:id":"Q106075"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052037,
+    "wof:geomhash":"a5ea242adbd8d253ea9a97439b06403e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718265,
+            "locality_id":890434711,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":890434711,
+    "wof:lastmodified":1513889205,
+    "wof:name":"Ingeniero Guillermo N. Ju\u00e1rez",
+    "wof:parent_id":1108718265,
+    "wof:placetype":"locality",
+    "wof:population":10357,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.85,
+    -23.9,
+    -61.85,
+    -23.9
+],
+  "geometry": {"coordinates":[-61.85,-23.9],"type":"Point"}
+}

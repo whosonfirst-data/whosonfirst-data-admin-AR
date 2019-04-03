@@ -1,0 +1,111 @@
+{
+  "id": 421171315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.89626,-27.09625,-54.89626,-27.09625",
+    "geom:latitude":-27.09625,
+    "geom:longitude":-54.89626,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:dut_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:eng_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:fra_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:fre_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:por_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:spa_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:swe_x_preferred":[
+        "Arist\u00f3bulo del Valle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0456\u0441\u0442\u043e\u0431\u0443\u043b\u043e-\u0434\u0435\u043b\u044c-\u0412\u0430\u043b\u044c\u0454"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436287,
+    "qs:gn_pop":20683,
+    "qs:name":"Arist\u00f3bulo del Valle",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1235162,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467121,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-27.0952,
+    "wd:longitude":-54.897,
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421183163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436287,
+        "gp:id":467121,
+        "qs:id":1235162,
+        "wd:id":"Q2861426",
+        "wk:page":"Arist\u00f3bulo del Valle (Misiones)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008889,
+    "wof:geomhash":"13a987eb5c4aefd8a3d36f38eb84803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183163,
+            "locality_id":421171315,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421171315,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Arist\u00f3bulo del Valle",
+    "wof:parent_id":421183163,
+    "wof:placetype":"locality",
+    "wof:population":20683,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.89626,
+    -27.09625,
+    -54.89626,
+    -27.09625
+],
+  "geometry": {"coordinates":[-54.89626,-27.09625],"type":"Point"}
+}

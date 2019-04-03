@@ -1,0 +1,98 @@
+{
+  "id": 421198219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.46688,-32.1612,-63.46688,-32.1612",
+    "geom:latitude":-32.1612,
+    "geom:longitude":-63.46688,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "James Craik"
+    ],
+    "name:eng_x_preferred":[
+        "James Craik"
+    ],
+    "name:por_x_preferred":[
+        "James Craik"
+    ],
+    "name:spa_x_preferred":[
+        "James Craik"
+    ],
+    "name:swe_x_preferred":[
+        "James Craik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043c\u0435\u0441-\u041a\u0440\u0430\u0439\u043a"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853562,
+    "qs:gn_pop":4560,
+    "qs:name":"James Oraik",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":180570,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332488,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853562,
+        "gp:id":332488,
+        "qs:id":180570,
+        "wd:id":"Q2732721"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009940,
+    "wof:geomhash":"7a50414791d427e9b0e3cd0d171f4444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":421198219,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421198219,
+    "wof:lastmodified":1513889207,
+    "wof:name":"James Oraik",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:population":4560,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.46688,
+    -32.1612,
+    -63.46688,
+    -32.1612
+],
+  "geometry": {"coordinates":[-63.46688,-32.1612],"type":"Point"}
+}

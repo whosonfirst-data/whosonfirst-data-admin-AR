@@ -1,0 +1,68 @@
+{
+  "id": 1327436393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.41772,-31.75861,-65.41772,-31.75861",
+    "geom:latitude":-31.75861,
+    "geom:longitude":-65.41772,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14126.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"AR",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836914,
+    "gn:latitude":-31.75861,
+    "gn:longitude":-65.41772,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421198475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836914
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"85748cacf49b564f53d8185ac689e14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198475,
+            "locality_id":1327436393,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1327436393,
+    "wof:lastmodified":1536674966,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421198475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.41771999999999,
+    -31.75861,
+    -65.41771999999999,
+    -31.75861
+],
+  "geometry": {"coordinates":[-65.41771999999999,-31.75861],"type":"Point"}
+}

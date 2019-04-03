@@ -1,0 +1,82 @@
+{
+  "id": 421196091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.17255,-34.48194,-64.17255,-34.48194",
+    "geom:latitude":-34.48194,
+    "geom:longitude":-64.17255,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mataldi"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844679,
+    "qs:gn_pop":1714,
+    "qs:name":"Mattaldi",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212404,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467774,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421188041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844679,
+        "gp:id":467774,
+        "qs:id":1212404
+    },
+    "wof:country":"AR",
+    "wof:created":1459009869,
+    "wof:geomhash":"98a6cc8ab820b7e92e3e2505124c2654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188041,
+            "locality_id":421196091,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196091,
+    "wof:lastmodified":1505340746,
+    "wof:name":"Mattaldi",
+    "wof:parent_id":421188041,
+    "wof:placetype":"locality",
+    "wof:population":1714,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.17255,
+    -34.48194,
+    -64.17255,
+    -34.48194
+],
+  "geometry": {"coordinates":[-64.17255,-34.48194],"type":"Point"}
+}

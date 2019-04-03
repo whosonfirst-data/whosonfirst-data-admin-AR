@@ -1,0 +1,68 @@
+{
+  "id": 1343536573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.13112,-32.62487,-66.13112,-32.62487",
+    "geom:latitude":-32.62487,
+    "geom:longitude":-66.13112,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"Las Chacras",
+    "gn:country_code":"AR",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848587,
+    "gn:latitude":-32.62487,
+    "gn:longitude":-66.13112,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Las Chacras",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848587
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6ab78bf3a6cb39032e2883b2aa0dfaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":1343536573,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1343536573,
+    "wof:lastmodified":1536635197,
+    "wof:name":"Las Chacras",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.13112,
+    -32.62487,
+    -66.13112,
+    -32.62487
+],
+  "geometry": {"coordinates":[-66.13112,-32.62487],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309889539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46179,-23.15975,-65.46179,-23.15975",
+    "geom:latitude":-23.15975,
+    "geom:longitude":-65.46179,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"38028.0",
+    "gn:asciiname":"Coraya",
+    "gn:country_code":"AR",
+    "gn:dem":3615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860271,
+    "gn:latitude":-23.15975,
+    "gn:longitude":-65.46179,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coraya",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421204061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860271
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4c1479440cb924363ea0b2309c42da57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204061,
+            "locality_id":1309889539,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1309889539,
+    "wof:lastmodified":1536809988,
+    "wof:name":"Coraya",
+    "wof:parent_id":421204061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46179000000001,
+    -23.15975,
+    -65.46179000000001,
+    -23.15975
+],
+  "geometry": {"coordinates":[-65.46179000000001,-23.15975],"type":"Point"}
+}

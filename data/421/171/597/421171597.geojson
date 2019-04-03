@@ -1,0 +1,76 @@
+{
+  "id": 421171597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.06667,-38.88333,-62.06667,-38.88333",
+    "geom:latitude":-38.88333,
+    "geom:longitude":-62.06667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866224,
+    "qs:gn_pop":0,
+    "qs:name":"Almirante Solier",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263006,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464587,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866224,
+        "gp:id":464587,
+        "qs:id":1263006
+    },
+    "wof:country":"AR",
+    "wof:created":1459008899,
+    "wof:geomhash":"39263744c7c09c7aaa5d6ab8599b7b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717903,
+            "locality_id":421171597,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421171597,
+    "wof:lastmodified":1499925056,
+    "wof:name":"Almirante Solier",
+    "wof:parent_id":1108717903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.06667,
+    -38.88333,
+    -62.06667,
+    -38.88333
+],
+  "geometry": {"coordinates":[-62.06667,-38.88333],"type":"Point"}
+}

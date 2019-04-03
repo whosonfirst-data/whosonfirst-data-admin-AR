@@ -1,0 +1,72 @@
+{
+  "id": 1344228523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.71997,-25.94842,-64.71997,-25.94842",
+    "geom:latitude":-25.94842,
+    "geom:longitude":-64.71997,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66140.0",
+    "gn:asciiname":"Puente de Plata",
+    "gn:country_code":"AR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840181,
+    "gn:latitude":-25.94842,
+    "gn:longitude":-64.71997,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puente de Plata",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puente de Plate",
+        "Puente de Plata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421171483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840181
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e4add69c8b26e60f3ebb77574d02f33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171483,
+            "locality_id":1344228523,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1344228523,
+    "wof:lastmodified":1537584847,
+    "wof:name":"Puente de Plata",
+    "wof:parent_id":421171483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.71996999999999,
+    -25.94842,
+    -64.71996999999999,
+    -25.94842
+],
+  "geometry": {"coordinates":[-64.71996999999999,-25.94842],"type":"Point"}
+}

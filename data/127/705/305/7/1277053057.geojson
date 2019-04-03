@@ -1,0 +1,68 @@
+{
+  "id": 1277053057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.66228,-29.17479,-66.66228,-29.17479",
+    "geom:latitude":-29.17479,
+    "geom:longitude":-66.66228,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46014.0",
+    "gn:asciiname":"Bazan",
+    "gn:country_code":"AR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864451,
+    "gn:latitude":-29.17479,
+    "gn:longitude":-66.66228,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baz\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864451
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d7d182163c9808b2e6afff784131eb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718321,
+            "locality_id":1277053057,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1277053057,
+    "wof:lastmodified":1536808646,
+    "wof:name":"Bazan",
+    "wof:parent_id":1108718321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.66228000000001,
+    -29.17479,
+    -66.66228000000001,
+    -29.17479
+],
+  "geometry": {"coordinates":[-66.66228000000001,-29.17479],"type":"Point"}
+}

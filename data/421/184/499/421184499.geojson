@@ -1,0 +1,144 @@
+{
+  "id": 421184499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.25921,-26.73201,-65.25921,-26.73201",
+    "geom:latitude":-26.73201,
+    "geom:longitude":-65.25921,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0641\u06cc \u0648\u06cc\u062e\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u83f2\u5225\u970d"
+    ],
+    "name:deu_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:dut_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:eng_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0641\u06cc \u0648\u06cc\u062e\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:fre_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:ger_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:ita_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:lit_x_preferred":[
+        "Tafi Vjechas"
+    ],
+    "name:nld_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0641\u06cc \u0648\u06cc\u062e\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:por_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0444\u0456-\u0412'\u0454\u0445\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Taf\u00ed"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3834813,
+    "qs:gn_pop":48459,
+    "qs:name":"Taf\u00ed Viejo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":85,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":85,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1000631,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466886,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-26.733333,
+    "wd:longitude":-65.266667,
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421202257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834813,
+        "gp:id":466886,
+        "qs:id":1000631,
+        "wd:id":"Q2092448",
+        "wk:page":"Taf\u00ed Viejo, Tucum\u00e1n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009412,
+    "wof:geomhash":"bf97f693db92198b3d8a4f88f90fc515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202257,
+            "locality_id":421184499,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421184499,
+    "wof:lastmodified":1527716446,
+    "wof:name":"Taf\u00ed Viejo",
+    "wof:parent_id":421202257,
+    "wof:placetype":"locality",
+    "wof:population":48459,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.25921,
+    -26.73201,
+    -65.25921,
+    -26.73201
+],
+  "geometry": {"coordinates":[-65.25921,-26.73201],"type":"Point"}
+}

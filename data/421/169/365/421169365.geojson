@@ -1,0 +1,92 @@
+{
+  "id": 421169365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.22611,-36.84258,-60.22611,-36.84258",
+    "geom:latitude":-36.84258,
+    "geom:longitude":-60.22611,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Sierra Chica"
+    ],
+    "name:eng_x_preferred":[
+        "Sierra Chica"
+    ],
+    "name:pol_x_preferred":[
+        "Sierra Chica"
+    ],
+    "name:spa_x_preferred":[
+        "Sierra Chica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044c\u0454\u0440\u0440\u0430-\u0427\u0456\u043a\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3835306,
+    "qs:gn_pop":0,
+    "qs:name":"Sierra Chica",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1222503,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466481,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835306,
+        "gp:id":466481,
+        "qs:id":1222503,
+        "wd:id":"Q3389948"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008806,
+    "wof:geomhash":"56f783d3d97f7a16361ed84260cd32c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718043,
+            "locality_id":421169365,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421169365,
+    "wof:lastmodified":1513889546,
+    "wof:name":"Sierra Chica",
+    "wof:parent_id":1108718043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.22611,
+    -36.84258,
+    -60.22611,
+    -36.84258
+],
+  "geometry": {"coordinates":[-60.22611,-36.84258],"type":"Point"}
+}

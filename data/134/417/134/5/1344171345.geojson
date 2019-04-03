@@ -1,0 +1,72 @@
+{
+  "id": 1344171345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.46977,-38.49199,-60.46977,-38.49199",
+    "geom:latitude":-38.49199,
+    "geom:longitude":-60.46977,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6833.0",
+    "gn:asciiname":"Micaela Cascallares",
+    "gn:country_code":"AR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3844289,
+    "gn:latitude":-38.49199,
+    "gn:longitude":-60.46977,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Micaela Cascallares",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M. Cascallares",
+        "Micaela Cascallares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844289
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2751e7c7cef9414897bafe2f116e02a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718125,
+            "locality_id":1344171345,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1344171345,
+    "wof:lastmodified":1537584856,
+    "wof:name":"Micaela Cascallares",
+    "wof:parent_id":1108718125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.46977,
+    -38.49199,
+    -60.46977,
+    -38.49199
+],
+  "geometry": {"coordinates":[-60.46977,-38.49199],"type":"Point"}
+}

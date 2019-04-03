@@ -1,0 +1,72 @@
+{
+  "id": 1260174145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.97941,-27.46574,-56.97941,-27.46574",
+    "geom:latitude":-27.46574,
+    "geom:longitude":-56.97941,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18084.0",
+    "gn:asciiname":"General Uriburu",
+    "gn:country_code":"AR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433776,
+    "gn:latitude":-27.46574,
+    "gn:longitude":-56.97941,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"General Uriburu",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uribur\u00fa",
+        "General Uriburu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421171495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433776
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"391064517e5f430c9477eef8876f50ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171495,
+            "locality_id":1260174145,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1260174145,
+    "wof:lastmodified":1537584824,
+    "wof:name":"General Uriburu",
+    "wof:parent_id":421171495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.97941,
+    -27.46574,
+    -56.97941,
+    -27.46574
+],
+  "geometry": {"coordinates":[-56.97941,-27.46574],"type":"Point"}
+}

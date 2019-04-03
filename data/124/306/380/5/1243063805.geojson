@@ -1,0 +1,68 @@
+{
+  "id": 1243063805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.97945,-25.25021,-57.97945,-25.25021",
+    "geom:latitude":-25.25021,
+    "geom:longitude":-57.97945,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34049.0",
+    "gn:asciiname":"Palma Sola",
+    "gn:country_code":"AR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430215,
+    "gn:latitude":-25.25021,
+    "gn:longitude":-57.97945,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Palma Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430215
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3bb7095044229a82c1a0d425bf381351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718273,
+            "locality_id":1243063805,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1243063805,
+    "wof:lastmodified":1536858842,
+    "wof:name":"Palma Sola",
+    "wof:parent_id":1108718273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.97945,
+    -25.25021,
+    -57.97945,
+    -25.25021
+],
+  "geometry": {"coordinates":[-57.97945,-25.25021],"type":"Point"}
+}

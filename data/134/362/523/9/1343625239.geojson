@@ -1,0 +1,68 @@
+{
+  "id": 1343625239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3364,-23.62379,-63.3364,-23.62379",
+    "geom:latitude":-23.62379,
+    "geom:longitude":-63.3364,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66133.0",
+    "gn:asciiname":"Pozo Verde",
+    "gn:country_code":"AR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840322,
+    "gn:latitude":-23.62379,
+    "gn:longitude":-63.3364,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozo Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840322
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fcf27003def57c9ff88c3334ef0d41c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718417,
+            "locality_id":1343625239,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1343625239,
+    "wof:lastmodified":1537005234,
+    "wof:name":"Pozo Verde",
+    "wof:parent_id":1108718417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3364,
+    -23.62379,
+    -63.3364,
+    -23.62379
+],
+  "geometry": {"coordinates":[-63.3364,-23.62379],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421202541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1479755,-38.891333,-71.1479755,-38.891333",
+    "geom:latitude":-38.891333,
+    "geom:longitude":-71.147976,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "name:fre_x_preferred":[
+        "villa Pehuenia"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Pehuenia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":152,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":152,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224223,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":26795865,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421188059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26795865,
+        "qs:id":224223,
+        "wd:id":"Q2960697"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010121,
+    "wof:geomhash":"4930f5fc090059380191e206a7de420d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188059,
+            "locality_id":421202541,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421202541,
+    "wof:lastmodified":1527716213,
+    "wof:name":"Villa Pehuenia",
+    "wof:parent_id":421188059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1479755,
+    -38.891333,
+    -71.1479755,
+    -38.891333
+],
+  "geometry": {"coordinates":[-71.1479755,-38.891333],"type":"Point"}
+}

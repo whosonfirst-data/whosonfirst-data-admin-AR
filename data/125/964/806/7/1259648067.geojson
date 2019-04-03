@@ -1,0 +1,73 @@
+{
+  "id": 1259648067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02508,-32.87991,-61.02508,-32.87991",
+    "geom:latitude":-32.87991,
+    "geom:longitude":-61.02508,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82119.0",
+    "gn:asciiname":"San Jeronimo Sur",
+    "gn:country_code":"AR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837455,
+    "gn:latitude":-32.87991,
+    "gn:longitude":-61.02508,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Jer\u00f3nimo Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ger\u00f3nimo",
+        "San Jer\u00f3nimo",
+        "San Jer\u00f3nimo Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421169771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837455
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"be5f856e8421c89824d196e4d4bd9f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169771,
+            "locality_id":1259648067,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1259648067,
+    "wof:lastmodified":1537584841,
+    "wof:name":"San Jeronimo Sur",
+    "wof:parent_id":421169771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02508,
+    -32.87991,
+    -61.02508,
+    -32.87991
+],
+  "geometry": {"coordinates":[-61.02508,-32.87991],"type":"Point"}
+}

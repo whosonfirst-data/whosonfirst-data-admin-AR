@@ -1,0 +1,89 @@
+{
+  "id": 421196015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88858,-33.2118,-68.88858,-33.2118",
+    "geom:latitude":-33.2118,
+    "geom:longitude":-68.88858,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ugarteche"
+    ],
+    "name:eng_x_preferred":[
+        "Ugarteche"
+    ],
+    "name:spa_x_preferred":[
+        "Ugarteche"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0433\u0430\u0440\u0442\u0435\u0447\u0435"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833454,
+    "qs:gn_pop":0,
+    "qs:name":"Ugarteche",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046762,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467934,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421169773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833454,
+        "gp:id":467934,
+        "qs:id":1046762,
+        "wd:id":"Q2880133"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009866,
+    "wof:geomhash":"21ac16105c01b61cbca01b2b72e78d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169773,
+            "locality_id":421196015,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421196015,
+    "wof:lastmodified":1513889576,
+    "wof:name":"Ugarteche",
+    "wof:parent_id":421169773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88858,
+    -33.2118,
+    -68.88858,
+    -33.2118
+],
+  "geometry": {"coordinates":[-68.88858,-33.2118],"type":"Point"}
+}

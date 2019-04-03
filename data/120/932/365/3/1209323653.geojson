@@ -1,0 +1,61 @@
+{
+  "id": 1209323653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.45293,-38.72255,-60.45293,-38.72255",
+    "geom:latitude":-38.72255,
+    "geom:longitude":-60.45293,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Copetonas",
+    "gn:country_code":"AR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860291,
+    "gn:latitude":-38.72255,
+    "gn:longitude":-60.45293,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Copetonas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860291
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e8502152a2eca3b609f8f5b59861edd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209323653
+        }
+    ],
+    "wof:id":1209323653,
+    "wof:lastmodified":1536290604,
+    "wof:name":"Copetonas",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.45293,
+    -38.72255,
+    -60.45293,
+    -38.72255
+],
+  "geometry": {"coordinates":[-60.45293,-38.72255],"type":"Point"}
+}

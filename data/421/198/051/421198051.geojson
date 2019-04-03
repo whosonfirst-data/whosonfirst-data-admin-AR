@@ -1,0 +1,107 @@
+{
+  "id": 421198051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.84215,-26.80077,-60.84215,-26.80077",
+    "geom:latitude":-26.80077,
+    "geom:longitude":-60.84215,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u574e\u6ce2\u62c9\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:eng_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:fre_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:ger_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:ita_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:por_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:spa_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e-\u041b\u0430\u0440\u0433\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3863095,
+    "qs:gn_pop":10743,
+    "qs:name":"Campo Largo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":347422,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467542,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863095,
+        "gp:id":467542,
+        "qs:id":347422,
+        "wd:id":"Q2257374"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009934,
+    "wof:geomhash":"be0e00527745c4851aa6dd6dd03ceb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185059,
+            "locality_id":421198051,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421198051,
+    "wof:lastmodified":1513888977,
+    "wof:name":"Campo Largo",
+    "wof:parent_id":421185059,
+    "wof:placetype":"locality",
+    "wof:population":10743,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.84215,
+    -26.80077,
+    -60.84215,
+    -26.80077
+],
+  "geometry": {"coordinates":[-60.84215,-26.80077],"type":"Point"}
+}

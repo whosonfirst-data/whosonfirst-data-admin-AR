@@ -1,0 +1,69 @@
+{
+  "id": 1326544087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.49078,-34.53258,-58.49078,-34.53258",
+    "geom:latitude":-34.53258,
+    "geom:longitude":-58.49078,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6861.0",
+    "gn:asciiname":"Florida",
+    "gn:country_code":"AR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433908,
+    "gn:latitude":-34.53258,
+    "gn:longitude":-58.49078,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433908,
+        "wk:page":"Florida%2C_Buenos_Aires"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9394c61c2cb221dda807859c6c345a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718133,
+            "locality_id":1326544087,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1326544087,
+    "wof:lastmodified":1537486297,
+    "wof:name":"Florida",
+    "wof:parent_id":1108718133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.49078000000001,
+    -34.53258,
+    -58.49078000000001,
+    -34.53258
+],
+  "geometry": {"coordinates":[-58.49078000000001,-34.53258],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 421183195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.67788,-32.88411,-62.67788,-32.88411",
+    "geom:latitude":-32.88411,
+    "geom:longitude":-62.67788,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:eng_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:epo_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:ger_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30b9\u30c6\u30a3\u30cb\u30a2\u30fc\u30ce\u30fb\u30dd\u30c3\u30bb"
+    ],
+    "name:por_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:spa_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:swe_x_preferred":[
+        "Justiniano Posse"
+    ],
+    "name:unk_x_variant":[
+        "J. Posse"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853331,
+    "qs:gn_pop":7406,
+    "qs:name":"Justiniano Posse",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1286048,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466988,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853331,
+        "gp:id":466988,
+        "qs:id":1286048,
+        "wd:id":"Q524744"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009361,
+    "wof:geomhash":"ce069f1e4f10650d8d05af632a2d31e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":421183195,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421183195,
+    "wof:lastmodified":1553816372,
+    "wof:name":"Justiniano Posse",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:population":7406,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.67788,
+    -32.88411,
+    -62.67788,
+    -32.88411
+],
+  "geometry": {"coordinates":[-62.67788,-32.88411],"type":"Point"}
+}

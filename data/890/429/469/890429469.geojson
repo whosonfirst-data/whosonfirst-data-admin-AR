@@ -1,0 +1,117 @@
+{
+  "id": 890429469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.51667,-41.96667,-71.51667,-41.96667",
+    "geom:latitude":-41.96667,
+    "geom:longitude":-71.51667,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":15537,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u535a\u723e\u677e"
+    ],
+    "name:cze_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d1\u05d5\u05dc\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30dc\u30eb\u30bd\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "El Bolsonas"
+    ],
+    "name:por_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:slo_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "El Bols\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0411\u043e\u043b\u044c\u0441\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u535a\u723e\u677e"
+    ],
+    "qs:name":"El Bols\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858765,
+        "gp:id":12523564,
+        "qs:id":1244314,
+        "wd:id":"Q1323928",
+        "wk:page":"El Bols\u00f3n"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051815,
+    "wof:geomhash":"399d7292b853319d18915ca95a8fb632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "locality_id":890429469,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":890429469,
+    "wof:lastmodified":1527792795,
+    "wof:name":"El Bols\u00f3n",
+    "wof:parent_id":421188061,
+    "wof:placetype":"locality",
+    "wof:population":15537,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.51667,
+    -41.96667,
+    -71.51667,
+    -41.96667
+],
+  "geometry": {"coordinates":[-71.51667,-41.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310564739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.95096,-25.96898,-65.95096,-25.96898",
+    "geom:latitude":-25.96898,
+    "geom:longitude":-65.95096,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66154.0",
+    "gn:asciiname":"Animana",
+    "gn:country_code":"AR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865730,
+    "gn:latitude":-25.96898,
+    "gn:longitude":-65.95096,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Animan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Animan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421202253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865730,
+        "wk:page":"Animan%C3%A1"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7f276019043cf3a3963d173c4f422672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202253,
+            "locality_id":1310564739,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1310564739,
+    "wof:lastmodified":1537584902,
+    "wof:name":"Animana",
+    "wof:parent_id":421202253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.95096,
+    -25.96898,
+    -65.95096,
+    -25.96898
+],
+  "geometry": {"coordinates":[-65.95095999999999,-25.96898],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421195333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.92413,-34.01472,-63.92413,-34.01472",
+    "geom:latitude":-34.01472,
+    "geom:longitude":-63.92413,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "General Levalle"
+    ],
+    "name:eng_x_preferred":[
+        "General Levalle"
+    ],
+    "name:por_x_preferred":[
+        "General Levalle"
+    ],
+    "name:spa_x_preferred":[
+        "General Levalle"
+    ],
+    "name:swe_x_preferred":[
+        "General Levalle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041b\u0435\u0432\u0430\u043b\u044c\u0454"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855098,
+    "qs:gn_pop":5492,
+    "qs:name":"General Levalle",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150498,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467243,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421199897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855098,
+        "gp:id":467243,
+        "qs:id":150498,
+        "wd:id":"Q938803"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009840,
+    "wof:geomhash":"0c295ffa17508e0ef578bb93b879ae4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199897,
+            "locality_id":421195333,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421195333,
+    "wof:lastmodified":1513889193,
+    "wof:name":"General Levalle",
+    "wof:parent_id":421199897,
+    "wof:placetype":"locality",
+    "wof:population":5492,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.92413,
+    -34.01472,
+    -63.92413,
+    -34.01472
+],
+  "geometry": {"coordinates":[-63.92413,-34.01472],"type":"Point"}
+}

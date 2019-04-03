@@ -1,0 +1,68 @@
+{
+  "id": 1293747211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.1,-25.28333,-64.1,-25.28333",
+    "geom:latitude":-25.28333,
+    "geom:longitude":-64.1,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"66112.0",
+    "gn:asciiname":"San Jose de la Horqueta",
+    "gn:country_code":"AR",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837237,
+    "gn:latitude":-25.28333,
+    "gn:longitude":-64.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Jos\u00e9 de la Horqueta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421183903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837237
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3e1ce9fb68a8fa3edfb05fcfe5cf4b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183903,
+            "locality_id":1293747211,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293747211,
+    "wof:lastmodified":1536910233,
+    "wof:name":"San Jose de la Horqueta",
+    "wof:parent_id":421183903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.1,
+    -25.28333,
+    -64.1,
+    -25.28333
+],
+  "geometry": {"coordinates":[-64.09999999999999,-25.28333],"type":"Point"}
+}

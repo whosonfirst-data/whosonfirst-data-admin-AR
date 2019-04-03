@@ -1,0 +1,101 @@
+{
+  "id": 421191307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4063,-31.73105,-64.4063,-31.73105",
+    "geom:latitude":-31.73105,
+    "geom:longitude":-64.4063,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Anisacate"
+    ],
+    "name:eng_x_preferred":[
+        "Anisacate"
+    ],
+    "name:ita_x_preferred":[
+        "Anisacate"
+    ],
+    "name:por_x_preferred":[
+        "Anisacate"
+    ],
+    "name:slv_x_preferred":[
+        "Anisacate"
+    ],
+    "name:spa_x_preferred":[
+        "Anisacate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0456\u0441\u0430\u043a\u0430\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Anisacate"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832809,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Anizacate",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1134936,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466719,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832809,
+        "gp:id":466719,
+        "qs:id":1134936,
+        "wd:id":"Q2919174"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009688,
+    "wof:geomhash":"f596922d9dcae45a3dd27b6218d7f5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186301,
+            "locality_id":421191307,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421191307,
+    "wof:lastmodified":1513889584,
+    "wof:name":"Villa Anizacate",
+    "wof:parent_id":421186301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4063,
+    -31.73105,
+    -64.4063,
+    -31.73105
+],
+  "geometry": {"coordinates":[-64.4063,-31.73105],"type":"Point"}
+}

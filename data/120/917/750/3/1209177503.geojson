@@ -1,0 +1,67 @@
+{
+  "id": 1209177503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13499,-29.75614,-69.13499,-29.75614",
+    "geom:latitude":-29.75614,
+    "geom:longitude":-69.13499,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"70049.0",
+    "gn:asciiname":"Carrizalito",
+    "gn:country_code":"AR",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862480,
+    "gn:latitude":-29.75614,
+    "gn:longitude":-69.13499,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Carrizalito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrisalito",
+        "Carrizalillo",
+        "Carrizalito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862480
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"118569c13159b3773faceaa5e487ebe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209177503
+        }
+    ],
+    "wof:id":1209177503,
+    "wof:lastmodified":1537584895,
+    "wof:name":"Carrizalito",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13499,
+    -29.75614,
+    -69.13499,
+    -29.75614
+],
+  "geometry": {"coordinates":[-69.13499,-29.75614],"type":"Point"}
+}

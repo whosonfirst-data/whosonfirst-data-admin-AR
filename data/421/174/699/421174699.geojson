@@ -1,0 +1,95 @@
+{
+  "id": 421174699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.23879,-34.01402,-62.23879,-34.01402",
+    "geom:latitude":-34.01402,
+    "geom:longitude":-62.23879,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Sancti Spiritu"
+    ],
+    "name:eng_x_preferred":[
+        "Sancti Spiritu"
+    ],
+    "name:lat_x_preferred":[
+        "Sancti Spiritus"
+    ],
+    "name:por_x_preferred":[
+        "Sancti Spiritu"
+    ],
+    "name:spa_x_preferred":[
+        "Sancti Spiritu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442\u0456-\u0421\u043f\u0456\u0440\u0456\u0442\u0443"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837816,
+    "qs:gn_pop":0,
+    "qs:name":"Sancti Sp\u00edritu",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":895316,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467414,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421200997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837816,
+        "gp:id":467414,
+        "qs:id":895316,
+        "wd:id":"Q2878133"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009041,
+    "wof:geomhash":"66053b9acca22ecbda6d76618d7fd824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200997,
+            "locality_id":421174699,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421174699,
+    "wof:lastmodified":1513889470,
+    "wof:name":"Sancti Sp\u00edritu",
+    "wof:parent_id":421200997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.23879,
+    -34.01402,
+    -62.23879,
+    -34.01402
+],
+  "geometry": {"coordinates":[-62.23879,-34.01402],"type":"Point"}
+}

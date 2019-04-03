@@ -1,0 +1,86 @@
+{
+  "id": 421172693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.32789,-31.32198,-64.32789,-31.32198",
+    "geom:latitude":-31.32198,
+    "geom:longitude":-64.32789,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Dumesnil"
+    ],
+    "name:fra_x_preferred":[
+        "Dumesnil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043c\u0435\u043d\u0438\u043b\u044c"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3859082,
+    "qs:gn_pop":0,
+    "qs:name":"Dumesnil",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1317848,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465324,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859082,
+        "gp:id":465324,
+        "qs:id":1317848
+    },
+    "wof:country":"AR",
+    "wof:created":1459008951,
+    "wof:geomhash":"08d9387ff42ee4fa4485fadab351a2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421172693,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421172693,
+    "wof:lastmodified":1527716302,
+    "wof:name":"Dumesnil",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.32789,
+    -31.32198,
+    -64.32789,
+    -31.32198
+],
+  "geometry": {"coordinates":[-64.32789,-31.32198],"type":"Point"}
+}

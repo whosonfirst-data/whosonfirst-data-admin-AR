@@ -1,0 +1,73 @@
+{
+  "id": 1226543223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3,-29.05,-65.3,-29.05",
+    "geom:latitude":-29.05,
+    "geom:longitude":-65.3,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10070.0",
+    "gn:asciiname":"Las Tejas",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847767,
+    "gn:latitude":-29.05,
+    "gn:longitude":-65.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Tejas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puestito",
+        "Las Tejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847767
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d57cf31c1550c9fbef33c50fcf3558ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718153,
+            "locality_id":1226543223,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1226543223,
+    "wof:lastmodified":1537584863,
+    "wof:name":"Las Tejas",
+    "wof:parent_id":1108718153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3,
+    -29.05,
+    -65.3,
+    -29.05
+],
+  "geometry": {"coordinates":[-65.3,-29.05],"type":"Point"}
+}

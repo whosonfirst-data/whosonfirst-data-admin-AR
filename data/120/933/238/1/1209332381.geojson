@@ -1,0 +1,65 @@
+{
+  "id": 1209332381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55047,-34.61261,-58.55047,-34.61261",
+    "geom:latitude":-34.61261,
+    "geom:longitude":-58.55047,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6840.0",
+    "gn:asciiname":"Villa Alianza",
+    "gn:country_code":"AR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427475,
+    "gn:latitude":-34.61261,
+    "gn:longitude":-58.55047,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Villa Alianza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Alianza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427475
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"614f1d731b03e760e4e1b2282c4c7312",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209332381
+        }
+    ],
+    "wof:id":1209332381,
+    "wof:lastmodified":1537584814,
+    "wof:name":"Villa Alianza",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55047,
+    -34.61261,
+    -58.55047,
+    -34.61261
+],
+  "geometry": {"coordinates":[-58.55047,-34.61261],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293854793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.12748,-26.86052,-55.12748,-26.86052",
+    "geom:latitude":-26.86052,
+    "geom:longitude":-55.12748,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54077.0",
+    "gn:asciiname":"Puerto Oro Verde",
+    "gn:country_code":"AR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429748,
+    "gn:latitude":-26.86052,
+    "gn:longitude":-55.12748,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Oro Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429748
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"038e7127f100a9001059615a0d96d2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1293854793,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293854793,
+    "wof:lastmodified":1536754808,
+    "wof:name":"Puerto Oro Verde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.12748000000001,
+    -26.86052,
+    -55.12748000000001,
+    -26.86052
+],
+  "geometry": {"coordinates":[-55.12748000000001,-26.86052],"type":"Point"}
+}

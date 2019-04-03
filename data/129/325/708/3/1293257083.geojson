@@ -1,0 +1,68 @@
+{
+  "id": 1293257083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.56667,-51.86667,-70.56667,-51.86667",
+    "geom:latitude":-51.86667,
+    "geom:longitude":-70.56667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78021.0",
+    "gn:asciiname":"Gobernador Moyano",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854974,
+    "gn:latitude":-51.86667,
+    "gn:longitude":-70.56667,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Gobernador Moyano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854974
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"9c5b2ef023a475b2343e950ab77c8629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "locality_id":1293257083,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1293257083,
+    "wof:lastmodified":1536620169,
+    "wof:name":"Gobernador Moyano",
+    "wof:parent_id":421200655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.56667,
+    -51.86667,
+    -70.56667,
+    -51.86667
+],
+  "geometry": {"coordinates":[-70.56667,-51.86667],"type":"Point"}
+}

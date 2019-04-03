@@ -1,0 +1,68 @@
+{
+  "id": 1242582545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.11474,-31.0426,-63.11474,-31.0426",
+    "geom:latitude":-31.0426,
+    "geom:longitude":-63.11474,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14105.0",
+    "gn:asciiname":"Las Averias",
+    "gn:country_code":"AR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848734,
+    "gn:latitude":-31.0426,
+    "gn:longitude":-63.11474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Aver\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421189015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848734
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"913fc499e739de4c9aeceebc2dd46fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189015,
+            "locality_id":1242582545,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1242582545,
+    "wof:lastmodified":1537054133,
+    "wof:name":"Las Averias",
+    "wof:parent_id":421189015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11474000000001,
+    -31.0426,
+    -63.11474000000001,
+    -31.0426
+],
+  "geometry": {"coordinates":[-63.11474000000001,-31.0426],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 421178971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.87243,-32.81313,-63.87243,-32.81313",
+    "geom:latitude":-32.81313,
+    "geom:longitude":-63.87243,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "General Cabrera"
+    ],
+    "name:eng_x_preferred":[
+        "General Cabrera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30ab\u30d6\u30ec\u30fc\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "General Cabrera"
+    ],
+    "name:spa_x_preferred":[
+        "General Cabrera"
+    ],
+    "name:swe_x_preferred":[
+        "General Cabrera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041a\u0430\u0431\u0440\u0435\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Cabrera"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855124,
+    "qs:gn_pop":10351,
+    "qs:name":"General Cabrera",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150500,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466968,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421166595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855124,
+        "gp:id":466968,
+        "qs:id":150500,
+        "wd:id":"Q973090"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009199,
+    "wof:geomhash":"c747e787445b2cc858d9aa85ef5f48d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166595,
+            "locality_id":421178971,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421178971,
+    "wof:lastmodified":1513889192,
+    "wof:name":"General Cabrera",
+    "wof:parent_id":421166595,
+    "wof:placetype":"locality",
+    "wof:population":10351,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.87243,
+    -32.81313,
+    -63.87243,
+    -32.81313
+],
+  "geometry": {"coordinates":[-63.87243,-32.81313],"type":"Point"}
+}

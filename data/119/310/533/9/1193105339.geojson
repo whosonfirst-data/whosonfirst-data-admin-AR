@@ -1,0 +1,68 @@
+{
+  "id": 1193105339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.52396,-27.38506,-65.52396,-27.38506",
+    "geom:latitude":-27.38506,
+    "geom:longitude":-65.52396,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90021.0",
+    "gn:asciiname":"Yucumanita",
+    "gn:country_code":"AR",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832209,
+    "gn:latitude":-27.38506,
+    "gn:longitude":-65.52396,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yucumanita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421178317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832209
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d86986627ff5a8524d0b95ddd0355dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421178317,
+            "locality_id":1193105339,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1193105339,
+    "wof:lastmodified":1536379086,
+    "wof:name":"Yucumanita",
+    "wof:parent_id":421178317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.52396,
+    -27.38506,
+    -65.52396,
+    -27.38506
+],
+  "geometry": {"coordinates":[-65.52396,-27.38506],"type":"Point"}
+}

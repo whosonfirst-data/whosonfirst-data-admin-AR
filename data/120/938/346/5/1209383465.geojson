@@ -1,0 +1,66 @@
+{
+  "id": 1209383465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46536,-53.67084,-68.46536,-53.67084",
+    "geom:latitude":-53.67084,
+    "geom:longitude":-68.46536,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"94007.0",
+    "gn:asciiname":"Castillo",
+    "gn:country_code":"AR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862312,
+    "gn:latitude":-53.67084,
+    "gn:longitude":-68.46536,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Ushuaia",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Secci\u00f3n Castillo",
+        "Castillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862312
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2e4a84f9db6a7b3498c8fe45b8163e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209383465
+        }
+    ],
+    "wof:id":1209383465,
+    "wof:lastmodified":1537584895,
+    "wof:name":"Castillo",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46536,
+    -53.67084000000001,
+    -68.46536,
+    -53.67084000000001
+],
+  "geometry": {"coordinates":[-68.46536,-53.67084000000001],"type":"Point"}
+}

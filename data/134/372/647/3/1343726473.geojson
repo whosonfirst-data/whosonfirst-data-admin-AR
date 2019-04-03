@@ -1,0 +1,68 @@
+{
+  "id": 1343726473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.82368,-33.31121,-60.82368,-33.31121",
+    "geom:latitude":-33.31121,
+    "geom:longitude":-60.82368,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82028.0",
+    "gn:asciiname":"Pavon Arriba",
+    "gn:country_code":"AR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841744,
+    "gn:latitude":-33.31121,
+    "gn:longitude":-60.82368,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pav\u00f3n Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841744
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8616f69f44ce73d5d74950bbc5ce35b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171517,
+            "locality_id":1343726473,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1343726473,
+    "wof:lastmodified":1536858710,
+    "wof:name":"Pavon Arriba",
+    "wof:parent_id":421171517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.82368,
+    -33.31121,
+    -60.82368,
+    -33.31121
+],
+  "geometry": {"coordinates":[-60.82368,-33.31121],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 421191797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21769,-40.12662,-71.21769,-40.12662",
+    "geom:latitude":-40.12662,
+    "geom:longitude":-71.21769,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cerro Chapelco"
+    ],
+    "name:pol_x_preferred":[
+        "Chapelco"
+    ],
+    "name:por_x_preferred":[
+        "Chapelco"
+    ],
+    "name:spa_x_preferred":[
+        "Chapelco"
+    ],
+    "name:swe_x_preferred":[
+        "Chapelco"
+    ],
+    "name:unk_x_variant":[
+        "Bazan"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861704,
+    "qs:gn_pop":0,
+    "qs:name":"Chapelco",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":854,
+    "qs:photos_1k":173,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":854,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156087,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465030,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421175299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861704,
+        "gp:id":465030,
+        "qs:id":1156087,
+        "wd:id":"Q3301092"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009710,
+    "wof:geomhash":"4385f66ee82681a27689e581f8887978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175299,
+            "locality_id":421191797,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421191797,
+    "wof:lastmodified":1527716370,
+    "wof:name":"Chapelco",
+    "wof:parent_id":421175299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21769,
+    -40.12662,
+    -71.21769,
+    -40.12662
+],
+  "geometry": {"coordinates":[-71.21769,-40.12662],"type":"Point"}
+}

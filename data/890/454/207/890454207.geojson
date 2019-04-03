@@ -1,0 +1,82 @@
+{
+  "id": 890454207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.58719,-27.10996,-60.58719,-27.10996",
+    "geom:latitude":-27.10996,
+    "geom:longitude":-60.58719,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":4505,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "La Tigra"
+    ],
+    "name:eng_x_preferred":[
+        "La Tigra"
+    ],
+    "name:por_x_preferred":[
+        "La Tigra"
+    ],
+    "name:spa_x_preferred":[
+        "La Tigra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0422\u0456\u0433\u0440\u0430"
+    ],
+    "qs:name":"La Tigra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847516,
+        "gp:id":331075,
+        "qs:id":585610,
+        "wd:id":"Q1657168"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052891,
+    "wof:geomhash":"9cf15f7972fe6c6fc1262edd83f8647b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718215,
+            "locality_id":890454207,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890454207,
+    "wof:lastmodified":1513889242,
+    "wof:name":"La Tigra",
+    "wof:parent_id":1108718215,
+    "wof:placetype":"locality",
+    "wof:population":4505,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.58719,
+    -27.10996,
+    -60.58719,
+    -27.10996
+],
+  "geometry": {"coordinates":[-60.58719,-27.10996],"type":"Point"}
+}

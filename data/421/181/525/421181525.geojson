@@ -1,0 +1,109 @@
+{
+  "id": 421181525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.82921,-27.48171,-55.82921,-27.48171",
+    "geom:latitude":-27.48171,
+    "geom:longitude":-55.82921,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Garup\u00e1"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433836,
+    "qs:gn_pop":28814,
+    "qs:name":"Garup\u00e1",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":494261,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465435,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433836,
+        "gp:id":465435,
+        "qs:id":494261,
+        "wd:id":"Q5524495",
+        "wk:page":"Garup\u00e1"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009298,
+    "wof:geomhash":"78fd6e2b37ebbbeeafbdc865fcf80f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718367,
+            "locality_id":421181525,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421181525,
+    "wof:lastmodified":1527716333,
+    "wof:name":"Garup\u00e1",
+    "wof:parent_id":1108718367,
+    "wof:placetype":"locality",
+    "wof:population":28814,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.82921,
+    -27.48171,
+    -55.82921,
+    -27.48171
+],
+  "geometry": {"coordinates":[-55.82921,-27.48171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276886417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.31884,-28.10564,-65.31884,-28.10564",
+    "geom:latitude":-28.10564,
+    "geom:longitude":-65.31884,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10098.0",
+    "gn:asciiname":"Banado de Ovanta",
+    "gn:country_code":"AR",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3864862,
+    "gn:latitude":-28.10564,
+    "gn:longitude":-65.31884,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ba\u00f1ado de Ovanta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u00f1ado",
+        "Ba\u00f1ado de Ovanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864862,
+        "wk:page":"Ba%C3%B1ado_de_Ovanta"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"73d128bc1f02544a8b470d47cc798596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718159,
+            "locality_id":1276886417,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1276886417,
+    "wof:lastmodified":1537584900,
+    "wof:name":"Banado de Ovanta",
+    "wof:parent_id":1108718159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.31884000000001,
+    -28.10564,
+    -65.31884000000001,
+    -28.10564
+],
+  "geometry": {"coordinates":[-65.31884000000001,-28.10564],"type":"Point"}
+}

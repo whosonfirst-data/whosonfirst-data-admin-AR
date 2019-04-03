@@ -1,0 +1,68 @@
+{
+  "id": 1243145415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5996,-39.73748,-70.5996,-39.73748",
+    "geom:latitude":-39.73748,
+    "geom:longitude":-70.5996,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"58021.0",
+    "gn:asciiname":"Catan Lil",
+    "gn:country_code":"AR",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862281,
+    "gn:latitude":-39.73748,
+    "gn:longitude":-70.5996,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cat\u00e1n Lil",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862281
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e2feda2cea1a2c2885f5a5ec2e8a07aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718377,
+            "locality_id":1243145415,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1243145415,
+    "wof:lastmodified":1536742447,
+    "wof:name":"Catan Lil",
+    "wof:parent_id":1108718377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5996,
+    -39.73748,
+    -70.5996,
+    -39.73748
+],
+  "geometry": {"coordinates":[-70.5996,-39.73748],"type":"Point"}
+}

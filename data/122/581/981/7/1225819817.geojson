@@ -1,0 +1,68 @@
+{
+  "id": 1225819817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.50471,-47.48779,-66.50471,-47.48779",
+    "geom:latitude":-47.48779,
+    "geom:longitude":-66.50471,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78014.0",
+    "gn:asciiname":"Antonio de Biedma",
+    "gn:country_code":"AR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865651,
+    "gn:latitude":-47.48779,
+    "gn:longitude":-66.50471,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Antonio de Biedma",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865651
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0c594304ee26b5043c719f0974a2e627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":1225819817,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1225819817,
+    "wof:lastmodified":1537049073,
+    "wof:name":"Antonio de Biedma",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.50471,
+    -47.48779,
+    -66.50471,
+    -47.48779
+],
+  "geometry": {"coordinates":[-66.50471,-47.48779],"type":"Point"}
+}

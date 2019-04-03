@@ -1,0 +1,68 @@
+{
+  "id": 1276781389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.76989,-35.49351,-57.76989,-35.49351",
+    "geom:latitude":-35.49351,
+    "geom:longitude":-57.76989,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6218.0",
+    "gn:asciiname":"Don Cipriano",
+    "gn:country_code":"AR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435022,
+    "gn:latitude":-35.49351,
+    "gn:longitude":-57.76989,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Don Cipriano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435022
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a1e9dc59fcbf8e856caa208c253d5a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717915,
+            "locality_id":1276781389,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276781389,
+    "wof:lastmodified":1536675552,
+    "wof:name":"Don Cipriano",
+    "wof:parent_id":1108717915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.76989,
+    -35.49351,
+    -57.76989,
+    -35.49351
+],
+  "geometry": {"coordinates":[-57.76989,-35.49351],"type":"Point"}
+}

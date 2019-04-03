@@ -1,0 +1,95 @@
+{
+  "id": 421197519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.27752,-32.31984,-64.27752,-32.31984",
+    "geom:latitude":-32.31984,
+    "geom:longitude":-64.27752,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
+    "name:eng_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
+    "name:spa_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u041a\u043e\u043d\u0434\u043e\u0440\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "C\u00f3ndores"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3846236,
+    "qs:gn_pop":2720,
+    "qs:name":"Los C\u00f3ndores",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150442,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468733,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3846236,
+        "gp:id":468733,
+        "qs:id":150442,
+        "wd:id":"Q5979637"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009916,
+    "wof:geomhash":"8212aa02a4afa211538312716aed5738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":421197519,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421197519,
+    "wof:lastmodified":1553816385,
+    "wof:name":"Los C\u00f3ndores",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:population":2720,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.27752,
+    -32.31984,
+    -64.27752,
+    -32.31984
+],
+  "geometry": {"coordinates":[-64.27752,-32.31984],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293575657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.80465,-36.90301,-69.80465,-36.90301",
+    "geom:latitude":-36.90301,
+    "geom:longitude":-69.80465,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Butaco",
+    "gn:country_code":"AR",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3863689,
+    "gn:latitude":-36.90301,
+    "gn:longitude":-69.80465,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Butac\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421192925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863689
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0e7fe96cfea126d3c4853a82d6ce5374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421192925,
+            "locality_id":1293575657,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1293575657,
+    "wof:lastmodified":1536660079,
+    "wof:name":"Butaco",
+    "wof:parent_id":421192925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.80465,
+    -36.90301,
+    -69.80465,
+    -36.90301
+],
+  "geometry": {"coordinates":[-69.80465,-36.90301],"type":"Point"}
+}

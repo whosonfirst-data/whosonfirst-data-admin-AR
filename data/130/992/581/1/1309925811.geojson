@@ -1,0 +1,68 @@
+{
+  "id": 1309925811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.90413,-32.59383,-58.90413,-32.59383",
+    "geom:latitude":-32.59383,
+    "geom:longitude":-58.90413,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30056.0",
+    "gn:asciiname":"Escrina",
+    "gn:country_code":"AR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3434127,
+    "gn:latitude":-32.59383,
+    "gn:longitude":-58.90413,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Escri\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434127
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0a3736a7f9506ec0b2a74b5170dbeb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718251,
+            "locality_id":1309925811,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1309925811,
+    "wof:lastmodified":1536758292,
+    "wof:name":"Escrina",
+    "wof:parent_id":1108718251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.90413,
+    -32.59383,
+    -58.90413,
+    -32.59383
+],
+  "geometry": {"coordinates":[-58.90413,-32.59383],"type":"Point"}
+}

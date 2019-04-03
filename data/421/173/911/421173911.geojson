@@ -1,0 +1,100 @@
+{
+  "id": 421173911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.47903,-25.27994,-65.47903,-25.27994",
+    "geom:latitude":-25.27994,
+    "geom:longitude":-65.47903,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:dut_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:eng_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:por_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Moldes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u041c\u043e\u043b\u044c\u0434\u0435\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860179,
+    "qs:gn_pop":0,
+    "qs:name":"Coronel Moldes",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":304382,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467201,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421202255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860179,
+        "gp:id":467201,
+        "qs:id":304382,
+        "wd:id":"Q5172265",
+        "wk:page":"Coronel Moldes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009010,
+    "wof:geomhash":"cdd86a2341187ba08090be396fa1c2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202255,
+            "locality_id":421173911,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421173911,
+    "wof:lastmodified":1527716261,
+    "wof:name":"Coronel Moldes",
+    "wof:parent_id":421202255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.47903,
+    -25.27994,
+    -65.47903,
+    -25.27994
+],
+  "geometry": {"coordinates":[-65.47902999999999,-25.27994],"type":"Point"}
+}

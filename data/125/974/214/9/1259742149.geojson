@@ -1,0 +1,68 @@
+{
+  "id": 1259742149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.31538,-30.0372,-60.31538,-30.0372",
+    "geom:latitude":-30.0372,
+    "geom:longitude":-60.31538,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82112.0",
+    "gn:asciiname":"Pedro Gomez Cello",
+    "gn:country_code":"AR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841686,
+    "gn:latitude":-30.0372,
+    "gn:longitude":-60.31538,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pedro G\u00f3mez Cello",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841686
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"8567bf3cfd4067b9850c88611eb16dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171505,
+            "locality_id":1259742149,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1259742149,
+    "wof:lastmodified":1536982077,
+    "wof:name":"Pedro Gomez Cello",
+    "wof:parent_id":421171505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.31538000000001,
+    -30.0372,
+    -60.31538000000001,
+    -30.0372
+],
+  "geometry": {"coordinates":[-60.31538000000001,-30.0372],"type":"Point"}
+}

@@ -1,0 +1,304 @@
+{
+  "id": 421196341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.53452,-31.5566,-63.53452,-31.5566",
+    "geom:latitude":-31.5566,
+    "geom:longitude":-63.53452,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:arg_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ast_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:baq_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:bar_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:bre_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:cat_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u93ae"
+    ],
+    "name:cos_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:cze_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:dan_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:dut_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:egl_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:eml_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:eng_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:epo_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:est_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:fin_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:fra_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:fre_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:frp_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:fur_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ger_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:gla_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:gle_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:glg_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:gsw_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:hrv_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:hun_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ice_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ido_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ile_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ina_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ind_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ita_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:kon_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:lij_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:lim_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ltz_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:may_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:min_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:mlg_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nap_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nds_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nld_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nno_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nob_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:nrm_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:oci_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:pcd_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:pms_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:pol_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:por_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:roh_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:rum_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:scn_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:sco_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:slo_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:slv_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:spa_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:srd_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:swa_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:swe_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0434\u0435\u043b\u044c-\u0420\u043e\u0441\u0430\u0440\u0456\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Villa de Rosario"
+    ],
+    "name:vec_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:vie_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:vls_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:vol_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:wel_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:wln_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:wol_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u93ae"
+    ],
+    "name:zul_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832765,
+    "qs:gn_pop":0,
+    "qs:name":"Villa del Rosario",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":79,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":79,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046745,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467083,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832765,
+        "gp:id":467083,
+        "qs:id":1046745,
+        "wd:id":"Q2314221",
+        "wk:page":"Villa del Rosario, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009878,
+    "wof:geomhash":"e99488da28822e5d63532a26cc52f5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":421196341,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196341,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Villa del Rosario",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.53452,
+    -31.5566,
+    -63.53452,
+    -31.5566
+],
+  "geometry": {"coordinates":[-63.53452,-31.5566],"type":"Point"}
+}

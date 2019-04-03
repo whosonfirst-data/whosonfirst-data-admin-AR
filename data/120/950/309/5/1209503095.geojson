@@ -1,0 +1,62 @@
+{
+  "id": 1209503095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28605,-36.70353,-65.28605,-36.70353",
+    "geom:latitude":-36.70353,
+    "geom:longitude":-65.28605,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"42098.0",
+    "gn:asciiname":"El Durazno",
+    "gn:country_code":"AR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858103,
+    "gn:latitude":-36.70353,
+    "gn:longitude":-65.28605,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Durazno",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858103
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dff1ca42946088994509cd945537675e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209503095
+        }
+    ],
+    "wof:id":1209503095,
+    "wof:lastmodified":1536285119,
+    "wof:name":"El Durazno",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28605,
+    -36.70353,
+    -65.28605,
+    -36.70353
+],
+  "geometry": {"coordinates":[-65.28605,-36.70353],"type":"Point"}
+}

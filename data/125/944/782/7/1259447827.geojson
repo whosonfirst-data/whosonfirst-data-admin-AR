@@ -1,0 +1,73 @@
+{
+  "id": 1259447827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23893,-47.31532,-67.23893,-47.31532",
+    "geom:latitude":-47.31532,
+    "geom:longitude":-67.23893,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78014.0",
+    "gn:asciiname":"Las Tres Hermanas",
+    "gn:country_code":"AR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847697,
+    "gn:latitude":-47.31532,
+    "gn:longitude":-67.23893,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Tres Hermanas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Las Tres Hermanas",
+        "Tres Hermanas",
+        "Las Tres Hermanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421204075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847697
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3b51eb5abdbb9484eda5fc8a236b5efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204075,
+            "locality_id":1259447827,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1259447827,
+    "wof:lastmodified":1537584862,
+    "wof:name":"Las Tres Hermanas",
+    "wof:parent_id":421204075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23893000000001,
+    -47.31532,
+    -67.23893000000001,
+    -47.31532
+],
+  "geometry": {"coordinates":[-67.23893000000001,-47.31532],"type":"Point"}
+}

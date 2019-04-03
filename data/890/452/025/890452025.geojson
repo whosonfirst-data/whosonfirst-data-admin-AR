@@ -1,0 +1,68 @@
+{
+  "id": 890452025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.67881,-36.6708965,-56.67881,-36.6708965",
+    "geom:latitude":-36.670896,
+    "geom:longitude":-56.67881,
+    "gn:country":"AR",
+    "gp:adm0":23424747,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Costa Azul",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":154,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":154,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56064314,
+        "qs:id":231048,
+        "wk:page":"Costa Azul"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052801,
+    "wof:geomhash":"eb659edfbac04876e9eac2c9fb5b4859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":890452025,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":890452025,
+    "wof:lastmodified":1527734184,
+    "wof:name":"Costa Azul",
+    "wof:parent_id":85668015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.67881,
+    -36.6708965,
+    -56.67881,
+    -36.6708965
+],
+  "geometry": {"coordinates":[-56.67881,-36.6708965],"type":"Point"}
+}

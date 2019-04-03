@@ -1,0 +1,68 @@
+{
+  "id": 1226707837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56694,-27.39773,-65.56694,-27.39773",
+    "geom:latitude":-27.39773,
+    "geom:longitude":-65.56694,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90021.0",
+    "gn:asciiname":"Las Guchas",
+    "gn:country_code":"AR",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848358,
+    "gn:latitude":-27.39773,
+    "gn:longitude":-65.56694,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Guchas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421178317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848358
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6125795fa3a90efb9603e80cd6e7f0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421178317,
+            "locality_id":1226707837,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1226707837,
+    "wof:lastmodified":1536770846,
+    "wof:name":"Las Guchas",
+    "wof:parent_id":421178317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56694,
+    -27.39773,
+    -65.56694,
+    -27.39773
+],
+  "geometry": {"coordinates":[-65.56694,-27.39773],"type":"Point"}
+}

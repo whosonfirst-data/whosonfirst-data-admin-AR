@@ -1,0 +1,68 @@
+{
+  "id": 1276510685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.99754,-26.13417,-64.99754,-26.13417",
+    "geom:latitude":-26.13417,
+    "geom:longitude":-64.99754,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66084.0",
+    "gn:asciiname":"Ceibal",
+    "gn:country_code":"AR",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862176,
+    "gn:latitude":-26.13417,
+    "gn:longitude":-64.99754,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ceibal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862176
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3f1e4d1d4ae5a0e6130c01b8df965ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718409,
+            "locality_id":1276510685,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1276510685,
+    "wof:lastmodified":1537036983,
+    "wof:name":"Ceibal",
+    "wof:parent_id":1108718409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.99754,
+    -26.13417,
+    -64.99754,
+    -26.13417
+],
+  "geometry": {"coordinates":[-64.99754,-26.13417],"type":"Point"}
+}

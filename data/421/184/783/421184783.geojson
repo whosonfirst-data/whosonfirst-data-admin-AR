@@ -1,0 +1,109 @@
+{
+  "id": 421184783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.52498,-27.47428,-54.52498,-27.47428",
+    "geom:latitude":-27.47428,
+    "geom:longitude":-54.52498,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:deu_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:dut_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:fre_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:ger_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:por_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Aurora"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435344,
+    "qs:gn_pop":8407,
+    "qs:name":"Colonia Aurora",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1010200,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465110,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421204837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435344,
+        "gp:id":465110,
+        "qs:id":1010200,
+        "wd:id":"Q908300",
+        "wk:page":"Colonia Aurora"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009422,
+    "wof:geomhash":"6dc20b7c1020edc5ae1e9c2a3ed04b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204837,
+            "locality_id":421184783,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421184783,
+    "wof:lastmodified":1527716449,
+    "wof:name":"Colonia Aurora",
+    "wof:parent_id":421204837,
+    "wof:placetype":"locality",
+    "wof:population":8407,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.52498,
+    -27.47428,
+    -54.52498,
+    -27.47428
+],
+  "geometry": {"coordinates":[-54.52498,-27.47428],"type":"Point"}
+}

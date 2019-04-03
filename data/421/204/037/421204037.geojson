@@ -1,0 +1,88 @@
+{
+  "id": 421204037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-59.016777,-34.563583,-59.016777,-34.563583",
+    "geom:latitude":-34.563583,
+    "geom:longitude":-59.016777,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0631\u0627\u0644 \u0631\u0648\u062f\u0631\u064a\u063a\u064a\u0632"
+    ],
+    "name:ita_x_preferred":[
+        "General Rodr\u00edguez"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10dc\u10d4\u10e0\u10d0\u10da-\u10e0\u10dd\u10d3\u10e0\u10d8\u10d2\u10d4\u10e1\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "General Rodr\u00edguez"
+    ],
+    "name:spa_x_preferred":[
+        "General Rodr\u00edguez"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"General Rodr\u00edguez",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":1331,
+    "qs:photos_1k":270,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1540,
+    "qs:photos_sr":12,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":237426,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070592,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070592,
+        "qs:id":237426
+    },
+    "wof:country":"AR",
+    "wof:created":1459010171,
+    "wof:geomhash":"c62505678fce3dcbf18d52f69b0b2c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204037,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204037,
+    "wof:lastmodified":1475852833,
+    "wof:name":"General Rodr\u00edguez",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.016777,
+    -34.563583,
+    -59.016777,
+    -34.563583
+],
+  "geometry": {"coordinates":[-59.016777,-34.563583],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209600843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.21384,-30.20944,-58.21384,-30.20944",
+    "geom:latitude":-30.20944,
+    "geom:longitude":-58.21384,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"M.E. Lezcano",
+    "gn:country_code":"AR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8055813,
+    "gn:latitude":-30.20944,
+    "gn:longitude":-58.21384,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"M.E. Lezcano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "M.E. Lezcano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8055813
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c7890b5237ac0e0624622d62339ab2d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209600843
+        }
+    ],
+    "wof:id":1209600843,
+    "wof:lastmodified":1537584906,
+    "wof:name":"M.E. Lezcano",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.21384000000001,
+    -30.20944,
+    -58.21384000000001,
+    -30.20944
+],
+  "geometry": {"coordinates":[-58.21384000000001,-30.20944],"type":"Point"}
+}

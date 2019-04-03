@@ -1,0 +1,106 @@
+{
+  "id": 421196215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.13108,-27.5744,-64.13108,-27.5744",
+    "geom:latitude":-27.5744,
+    "geom:longitude":-64.13108,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Clodomira"
+    ],
+    "name:dut_x_preferred":[
+        "Clodomira"
+    ],
+    "name:eng_x_preferred":[
+        "Clodomira"
+    ],
+    "name:fre_x_preferred":[
+        "Clodomira"
+    ],
+    "name:ita_x_preferred":[
+        "Clodomira"
+    ],
+    "name:spa_x_preferred":[
+        "Clodomira"
+    ],
+    "name:swe_x_preferred":[
+        "Clodomira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0434\u043e\u043c\u0456\u0440\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861002,
+    "qs:gn_pop":9043,
+    "qs:name":"Clodomira",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santiago del Estero",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1212226,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467189,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421184161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861002,
+        "gp:id":467189,
+        "qs:id":1212226,
+        "wd:id":"Q3680889",
+        "wk:page":"Clodomira"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009873,
+    "wof:geomhash":"cc3fba7377425ee4735274031d570b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421184161,
+            "locality_id":421196215,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":421196215,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Clodomira",
+    "wof:parent_id":421184161,
+    "wof:placetype":"locality",
+    "wof:population":9043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.13108,
+    -27.5744,
+    -64.13108,
+    -27.5744
+],
+  "geometry": {"coordinates":[-64.13108,-27.5744],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343770775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.16683,-28.44463,-65.16683,-28.44463",
+    "geom:latitude":-28.44463,
+    "geom:longitude":-65.16683,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10056.0",
+    "gn:asciiname":"Los Morteros",
+    "gn:country_code":"AR",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3845883,
+    "gn:latitude":-28.44463,
+    "gn:longitude":-65.16683,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Los Morteros",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845883
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"53ad69911b2445225b2db62f96c4084e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718151,
+            "locality_id":1343770775,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1343770775,
+    "wof:lastmodified":1536796217,
+    "wof:name":"Los Morteros",
+    "wof:parent_id":1108718151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.16683,
+    -28.44463,
+    -65.16683,
+    -28.44463
+],
+  "geometry": {"coordinates":[-65.16683,-28.44463],"type":"Point"}
+}

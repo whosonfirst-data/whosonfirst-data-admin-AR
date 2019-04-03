@@ -1,0 +1,73 @@
+{
+  "id": 1226052259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6,-33.78333,-60.6,-33.78333",
+    "geom:latitude":-33.78333,
+    "geom:longitude":-60.6,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6623.0",
+    "gn:asciiname":"Doce de Agosto",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859292,
+    "gn:latitude":-33.78333,
+    "gn:longitude":-60.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Doce de Agosto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "12 de Agosto",
+        "Doce de Agosto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859292
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"aab0165d09c1a190b87824c5df948a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718051,
+            "locality_id":1226052259,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226052259,
+    "wof:lastmodified":1537584885,
+    "wof:name":"Doce de Agosto",
+    "wof:parent_id":1108718051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6,
+    -33.78333,
+    -60.6,
+    -33.78333
+],
+  "geometry": {"coordinates":[-60.6,-33.78333],"type":"Point"}
+}

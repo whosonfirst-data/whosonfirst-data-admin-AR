@@ -1,0 +1,311 @@
+{
+  "id": 421172809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.58333,-39.03333,-67.58333,-39.03333",
+    "geom:latitude":-39.03333,
+    "geom:longitude":-67.58333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0631\u0627\u0644 \u0631\u0648\u0643\u0627\u060c \u0631\u064a\u0648 \u0646\u064a\u063a\u0631\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u0646\u0631\u0627\u0644 \u0631\u0648\u06a9\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09b0\u09cb\u0995\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f85\u5361\u5c07\u8ecd\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "General Roca"
+    ],
+    "name:deu_x_preferred":[
+        "General Roca"
+    ],
+    "name:dut_x_preferred":[
+        "General Roca"
+    ],
+    "name:eng_x_preferred":[
+        "General Roca"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0631\u0627\u0644 \u0631\u0648\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "General Roca"
+    ],
+    "name:fre_x_preferred":[
+        "General Roca"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d4\u10dc\u10d4\u10e0\u10d0\u10da-\u10e0\u10dd\u10d9\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "General Roca"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b5\u03bd\u03b5\u03c1\u03ac\u03bb \u03a1\u03cc\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0aa8\u0ab0\u0ab2 \u0ab0\u0acb\u0a95\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05e8\u05dc \u05e8\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0928\u0930\u0932 \u0930\u094b\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "General Roca"
+    ],
+    "name:ita_x_preferred":[
+        "General Roca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30ed\u30ab"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0ca8\u0cb0\u0cb2\u0ccd \u0cb0\u0ccb\u0c95\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10dc\u10d4\u10e0\u10d0\u10da-\u10e0\u10dd\u10d9\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub108\ub7f4 \ub85c\uce74"
+    ],
+    "name:lav_x_preferred":[
+        "Heneralroka"
+    ],
+    "name:lit_x_preferred":[
+        "Cheneral Roka"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0928\u0930\u0932 \u0930\u094b\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "General Roca"
+    ],
+    "name:nob_x_preferred":[
+        "General Roca"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0646\u0631\u0627\u0644 \u0631\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "General Roca"
+    ],
+    "name:por_x_preferred":[
+        "General Roca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0dbb\u0ddc\u0d9a\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "General Roca"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de General Roca"
+    ],
+    "name:swe_x_preferred":[
+        "General Roca"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc6\u0ba9\u0bb0\u0bb2\u0bcd \u0bb0\u0bcb\u0b9a\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c28\u0c30\u0c32\u0c4d \u0c30\u0c4b\u0c15\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e22\u0e40\u0e19\u0e2d\u0e23\u0e31\u0e25 \u0e42\u0e23\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "General Roca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0420\u043e\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Fuerte General Roca"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u0646\u0631\u0644 \u0631\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "General Roca"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u5361\u5c07\u8ecd\u5e02"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"R\u00edo Negro",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3855065,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"General Roca",
+    "ne:GN_POP":73212,
+    "ne:GTOPO30":232.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-39.019958,
+    "ne:LONGITUDE":-67.609966,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"General Roca",
+    "ne:MAX_AREAKM":4.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-67.616667,
+    "ne:MAX_BBXMIN":-67.658333,
+    "ne:MAX_BBYMAX":-39.008333,
+    "ne:MAX_BBYMIN":-39.025,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":12.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":3944,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-67.6375,
+    "ne:MEAN_BBYC":-39.016667,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":4.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-67.616667,
+    "ne:MIN_BBXMIN":-67.658333,
+    "ne:MIN_BBYMAX":-39.008333,
+    "ne:MIN_BBYMIN":-39.025,
+    "ne:MIN_PERKM":12.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"General Roca",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"General Roca",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":73212,
+    "ne:POP_MIN":3944,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Salta",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855065,
+    "qs:gn_pop":73212,
+    "qs:name":"General Roca",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":679,
+    "qs:photos_1k":138,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":679,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":274528,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466974,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-39.033333,
+    "wd:longitude":-67.583333,
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855065,
+        "gp:id":466974,
+        "qs:id":274528,
+        "wd:id":"Q52506"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008955,
+    "wof:geomhash":"c3a4aa938e2198d2c6236c622d4338a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421172809,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421172809,
+    "wof:lastmodified":1553816363,
+    "wof:name":"General Roca",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":73212,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.58333,
+    -39.03333,
+    -67.58333,
+    -39.03333
+],
+  "geometry": {"coordinates":[-67.58333,-39.03333],"type":"Point"}
+}

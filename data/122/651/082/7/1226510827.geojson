@@ -1,0 +1,64 @@
+{
+  "id": 1226510827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96667,-54.9,-65.96667,-54.9",
+    "geom:latitude":-54.9,
+    "geom:longitude":-65.96667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"94014.0",
+    "gn:asciiname":"Puerto Espanol",
+    "gn:country_code":"AR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840102,
+    "gn:latitude":-54.9,
+    "gn:longitude":-65.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Espa\u00f1ol",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Ushuaia",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840102
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3c2eabdae490adae9fe050ef64730673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1226510827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226510827,
+    "wof:lastmodified":1537046546,
+    "wof:name":"Puerto Espanol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96667,
+    -54.9,
+    -65.96667,
+    -54.9
+],
+  "geometry": {"coordinates":[-65.96666999999999,-54.9],"type":"Point"}
+}

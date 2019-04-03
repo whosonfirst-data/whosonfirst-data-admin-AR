@@ -1,0 +1,68 @@
+{
+  "id": 1193116511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62674,-32.78081,-68.62674,-32.78081",
+    "geom:latitude":-32.78081,
+    "geom:longitude":-68.62674,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50056.0",
+    "gn:asciiname":"El Vergel",
+    "gn:country_code":"AR",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3856307,
+    "gn:latitude":-32.78081,
+    "gn:longitude":-68.62674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Vergel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856307
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"29c0c61dc88a024816421a67a4f18fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187691,
+            "locality_id":1193116511,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1193116511,
+    "wof:lastmodified":1536367394,
+    "wof:name":"El Vergel",
+    "wof:parent_id":421187691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62674,
+    -32.78081,
+    -68.62674,
+    -32.78081
+],
+  "geometry": {"coordinates":[-68.62674,-32.78081],"type":"Point"}
+}

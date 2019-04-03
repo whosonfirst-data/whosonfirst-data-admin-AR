@@ -1,0 +1,109 @@
+{
+  "id": 421198899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.18774,-31.17548,-58.18774,-31.17548",
+    "geom:latitude":-31.17548,
+    "geom:longitude":-58.18774,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:dut_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:eng_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:fre_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:ger_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:por_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:spa_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:swe_x_preferred":[
+        "Los Charr\u00faas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0427\u0430\u0440\u0440\u0443\u0430\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431188,
+    "qs:gn_pop":3414,
+    "qs:name":"Los Charr\u00faas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1205136,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331325,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431188,
+        "gp:id":331325,
+        "qs:id":1205136,
+        "wd:id":"Q6682609",
+        "wk:page":"Los Charr\u00faas"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009965,
+    "wof:geomhash":"99e56c0ced301c5c9673c572ef98f26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718245,
+            "locality_id":421198899,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421198899,
+    "wof:lastmodified":1527716358,
+    "wof:name":"Los Charr\u00faas",
+    "wof:parent_id":1108718245,
+    "wof:placetype":"locality",
+    "wof:population":3414,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.18774,
+    -31.17548,
+    -58.18774,
+    -31.17548
+],
+  "geometry": {"coordinates":[-58.18774,-31.17548],"type":"Point"}
+}

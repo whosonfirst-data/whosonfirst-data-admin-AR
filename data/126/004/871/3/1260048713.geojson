@@ -1,0 +1,68 @@
+{
+  "id": 1260048713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.02932,-29.06772,-62.02932,-29.06772",
+    "geom:latitude":-29.06772,
+    "geom:longitude":-62.02932,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86042.0",
+    "gn:asciiname":"Pozo Dulce",
+    "gn:country_code":"AR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840415,
+    "gn:latitude":-29.06772,
+    "gn:longitude":-62.02932,
+    "gn:modification_date":"2016-03-20",
+    "gn:name":"Pozo Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840415
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a2476e9c43c9c925300c659bd70ae99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718473,
+            "locality_id":1260048713,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1260048713,
+    "wof:lastmodified":1537036674,
+    "wof:name":"Pozo Dulce",
+    "wof:parent_id":1108718473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.02932,
+    -29.06772,
+    -62.02932,
+    -29.06772
+],
+  "geometry": {"coordinates":[-62.02932,-29.06772],"type":"Point"}
+}

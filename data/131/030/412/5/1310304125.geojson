@@ -1,0 +1,68 @@
+{
+  "id": 1310304125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3676,-31.94432,-63.3676,-31.94432",
+    "geom:latitude":-31.94432,
+    "geom:longitude":-63.3676,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14119.0",
+    "gn:asciiname":"Plaza Colazo",
+    "gn:country_code":"AR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840900,
+    "gn:latitude":-31.94432,
+    "gn:longitude":-63.3676,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Plaza Colazo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840900
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bb2c53d8433861fa9973207970243432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196953,
+            "locality_id":1310304125,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310304125,
+    "wof:lastmodified":1536710219,
+    "wof:name":"Plaza Colazo",
+    "wof:parent_id":421196953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3676,
+    -31.94432,
+    -63.3676,
+    -31.94432
+],
+  "geometry": {"coordinates":[-63.3676,-31.94432],"type":"Point"}
+}

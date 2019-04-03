@@ -1,0 +1,103 @@
+{
+  "id": 421191737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.53717,-32.152361,-61.53717,-32.152361",
+    "geom:latitude":-32.152361,
+    "geom:longitude":-61.53717,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Departament San Mart\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Departamento San Mart\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de San Mart\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "San Mart\u00edn megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u0544\u0561\u0580\u057f\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di San Mart\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento San Mart\u00edn"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Mart\u00edn de Las Escobas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":112717,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070748,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070748,
+        "qs:id":112717
+    },
+    "wof:country":"AR",
+    "wof:created":1459009703,
+    "wof:geomhash":"06acdbcb5269d792346d267cd91ce82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191737,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421191737,
+    "wof:lastmodified":1475852829,
+    "wof:name":"San Mart\u00edn de Las Escobas",
+    "wof:parent_id":85668077,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.53717,
+    -32.152361,
+    -61.53717,
+    -32.152361
+],
+  "geometry": {"coordinates":[-61.53717,-32.152361],"type":"Point"}
+}

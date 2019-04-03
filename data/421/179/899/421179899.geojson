@@ -1,0 +1,153 @@
+{
+  "id": 421179899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.40632,-34.76088,-58.40632,-34.76088",
+    "geom:latitude":-34.76088,
+    "geom:longitude":-58.40632,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0645\u0627\u0633 \u062f\u064a \u0632\u0627\u0645\u0648\u0631\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:ceb_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:epo_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:eus_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0633 \u062f\u0647 \u0633\u0627\u0645\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0574\u0561\u057d \u0564\u0565 \u054d\u0561\u0574\u0578\u0580\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30de\u30b9\u30fb\u30c7\u30fb\u30b5\u30e2\u30fc\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10db\u10d0\u10e1-\u10d3\u10d4-\u10e1\u10d0\u10db\u10dd\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub9c8\uc2a4\ub370\uc0ac\ubaa8\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Lomas de Samora"
+    ],
+    "name:nld_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:pol_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:por_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u0441-\u0434\u0435-\u0421\u0430\u043c\u043e\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:spa_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u0441 \u0434\u0435 \u0417\u0430\u043c\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u0441-\u0434\u0435-\u0421\u0430\u043c\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "L. de Zamora"
+    ],
+    "name:war_x_preferred":[
+        "Lomas de Zamora"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u9a6c\u65af-\u5fb7\u8428\u83ab\u62c9"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431271,
+    "qs:gn_pop":0,
+    "qs:name":"Lomas de Zamora",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":1152,
+    "qs:photos_1k":233,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1152,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":239759,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465703,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421204047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431271,
+        "gp:id":465703,
+        "qs:id":239759,
+        "wd:id":"Q642057",
+        "wk:page":"Lomas de Zamora"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009237,
+    "wof:geomhash":"87298762c3c6148fe852936f643f83f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204047,
+            "locality_id":421179899,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421179899,
+    "wof:lastmodified":1501266404,
+    "wof:name":"Lomas de Zamora",
+    "wof:parent_id":421204047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.40632,
+    -34.76088,
+    -58.40632,
+    -34.76088
+],
+  "geometry": {"coordinates":[-58.40632,-34.76088],"type":"Point"}
+}

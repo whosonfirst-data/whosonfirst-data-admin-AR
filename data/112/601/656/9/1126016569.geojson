@@ -1,0 +1,103 @@
+{
+  "id": 1126016569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.06667,-25.28333,-64.06667,-25.28333",
+    "geom:latitude":-25.28333,
+    "geom:longitude":-64.06667,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10243,
+    "gn:population":10243,
+    "iso:country":"AR",
+    "lbl:latitude":-25.28333,
+    "lbl:longitude":-64.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:eng_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:fre_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:ger_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:por_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:spa_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:swe_x_preferred":[
+        "El Quebrachal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0435\u0431\u0440\u0430\u0447\u0430\u043b\u044c"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3857012,
+    "qs_pg:gn_pop":10243,
+    "qs_pg:name":"El Quebrachal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":585687,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        1108718403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857012,
+        "qs_pg:id":585687,
+        "wd:id":"Q5351959"
+    },
+    "wof:country":"AR",
+    "wof:created":1497300585,
+    "wof:geomhash":"c244fc750e1bf5801b7540f081dadf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718403,
+            "locality_id":1126016569,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1126016569,
+    "wof:lastmodified":1513889160,
+    "wof:name":"El Quebrachal",
+    "wof:parent_id":1108718403,
+    "wof:placetype":"locality",
+    "wof:population":10243,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.06667,
+    -25.28333,
+    -64.06667,
+    -25.28333
+],
+  "geometry": {"coordinates":[-64.06667,-25.28333],"type":"Point"}
+}

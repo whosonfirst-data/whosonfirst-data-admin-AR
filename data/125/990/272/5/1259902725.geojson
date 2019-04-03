@@ -1,0 +1,68 @@
+{
+  "id": 1259902725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.5,-30.55,-63.5,-30.55",
+    "geom:latitude":-30.55,
+    "geom:longitude":-63.5,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14175.0",
+    "gn:asciiname":"Canada Honda",
+    "gn:country_code":"AR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862960,
+    "gn:latitude":-30.55,
+    "gn:longitude":-63.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca\u00f1ada Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862960
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6fd5c6d1cb0be6f99200ff20a5f460a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196955,
+            "locality_id":1259902725,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1259902725,
+    "wof:lastmodified":1536751346,
+    "wof:name":"Canada Honda",
+    "wof:parent_id":421196955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.5,
+    -30.55,
+    -63.5,
+    -30.55
+],
+  "geometry": {"coordinates":[-63.5,-30.55],"type":"Point"}
+}

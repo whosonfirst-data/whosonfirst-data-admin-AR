@@ -1,0 +1,72 @@
+{
+  "id": 1243523359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.47212,-29.23026,-63.47212,-29.23026",
+    "geom:latitude":-29.23026,
+    "geom:longitude":-63.47212,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86140.0",
+    "gn:asciiname":"Ramirez de Velazco",
+    "gn:country_code":"AR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839420,
+    "gn:latitude":-29.23026,
+    "gn:longitude":-63.47212,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ram\u00edrez de Velazco",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ram\u00edrez de Velasco",
+        "Ram\u00edrez de Velazco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839420
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4cb6bb1c76c750f1d98632703a16ab27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718503,
+            "locality_id":1243523359,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1243523359,
+    "wof:lastmodified":1537584845,
+    "wof:name":"Ramirez de Velazco",
+    "wof:parent_id":1108718503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.47212,
+    -29.23026,
+    -63.47212,
+    -29.23026
+],
+  "geometry": {"coordinates":[-63.47212,-29.23026],"type":"Point"}
+}

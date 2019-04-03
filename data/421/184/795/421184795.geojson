@@ -1,0 +1,104 @@
+{
+  "id": 421184795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.78093,-26.60587,-54.78093,-26.60587",
+    "geom:latitude":-26.60587,
+    "geom:longitude":-54.78093,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:dut_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:eng_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:grn_x_preferred":[
+        "Karaguata'y"
+    ],
+    "name:por_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:spa_x_preferred":[
+        "Caraguata\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Caraguatay"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Caraguatay"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435679,
+    "qs:gn_pop":3287,
+    "qs:name":"Caraguatay",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1010271,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468821,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435679,
+        "gp:id":468821,
+        "qs:id":1010271,
+        "wd:id":"Q5037636",
+        "wk:page":"Caraguatay (Argentina)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009422,
+    "wof:geomhash":"3fbe0efdf4a4ab312f089ecb61101cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421184795,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421184795,
+    "wof:lastmodified":1527716451,
+    "wof:name":"Caraguatay",
+    "wof:parent_id":85668079,
+    "wof:placetype":"locality",
+    "wof:population":3287,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.78093,
+    -26.60587,
+    -54.78093,
+    -26.60587
+],
+  "geometry": {"coordinates":[-54.78093,-26.60587],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421174001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60575,-40.80064,-71.60575,-40.80064",
+    "geom:latitude":-40.80064,
+    "geom:longitude":-71.60575,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840091,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Manzano",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":313491,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":331727,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421186305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840091,
+        "gp:id":331727,
+        "qs:id":313491
+    },
+    "wof:country":"AR",
+    "wof:created":1459009016,
+    "wof:geomhash":"ad0be9e563ef2c4c55f1fa0dc6b0a594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186305,
+            "locality_id":421174001,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421174001,
+    "wof:lastmodified":1499925029,
+    "wof:name":"Puerto Manzano",
+    "wof:parent_id":421186305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60575,
+    -40.80064,
+    -71.60575,
+    -40.80064
+],
+  "geometry": {"coordinates":[-71.60575,-40.80064],"type":"Point"}
+}

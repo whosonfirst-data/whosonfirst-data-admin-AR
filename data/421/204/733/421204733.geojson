@@ -1,0 +1,107 @@
+{
+  "id": 421204733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.23724,-30.31053,-61.23724,-30.31053",
+    "geom:latitude":-30.31053,
+    "geom:longitude":-61.23724,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0440\u0456\u0441\u0442\u043e\u0431\u0430\u043b\u044c"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837823,
+    "qs:gn_pop":14286,
+    "qs:name":"San Crist\u00f3bal",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":246349,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332509,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837823,
+        "gp:id":332509,
+        "qs:id":246349,
+        "wd:id":"Q607174"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010196,
+    "wof:geomhash":"a4963d8a08679d52df93d603dc4d452a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718457,
+            "locality_id":421204733,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421204733,
+    "wof:lastmodified":1553816390,
+    "wof:name":"San Crist\u00f3bal",
+    "wof:parent_id":1108718457,
+    "wof:placetype":"locality",
+    "wof:population":14286,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.23724,
+    -30.31053,
+    -61.23724,
+    -30.31053
+],
+  "geometry": {"coordinates":[-61.23724,-30.31053],"type":"Point"}
+}

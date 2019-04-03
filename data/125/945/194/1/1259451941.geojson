@@ -1,0 +1,68 @@
+{
+  "id": 1259451941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70861,-27.73471,-64.70861,-27.73471",
+    "geom:latitude":-27.73471,
+    "geom:longitude":-64.70861,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86049.0",
+    "gn:asciiname":"Dona Luisa",
+    "gn:country_code":"AR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859245,
+    "gn:latitude":-27.73471,
+    "gn:longitude":-64.70861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Do\u00f1a Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859245
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b7ef7f4b20f6aa0ea1bfb6b60a866cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718475,
+            "locality_id":1259451941,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1259451941,
+    "wof:lastmodified":1536904382,
+    "wof:name":"Dona Luisa",
+    "wof:parent_id":1108718475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70861,
+    -27.73471,
+    -64.70861,
+    -27.73471
+],
+  "geometry": {"coordinates":[-64.70860999999999,-27.73471],"type":"Point"}
+}

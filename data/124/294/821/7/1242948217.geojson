@@ -1,0 +1,73 @@
+{
+  "id": 1242948217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.52127,-33.13901,-66.52127,-33.13901",
+    "geom:latitude":-33.13901,
+    "geom:longitude":-66.52127,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74056.0",
+    "gn:asciiname":"San Geronimo",
+    "gn:country_code":"AR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837599,
+    "gn:latitude":-33.13901,
+    "gn:longitude":-66.52127,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Ger\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jer\u00f3nimo",
+        "San Ger\u00f3nimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837599,
+        "wk:page":"San_Ger%C3%B3nimo%2C_San_Luis"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"207bcfb85202bfb6d254d94f030b1116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171231,
+            "locality_id":1242948217,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1242948217,
+    "wof:lastmodified":1537584842,
+    "wof:name":"San Geronimo",
+    "wof:parent_id":421171231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.52127,
+    -33.13901,
+    -66.52127,
+    -33.13901
+],
+  "geometry": {"coordinates":[-66.52127,-33.13901],"type":"Point"}
+}

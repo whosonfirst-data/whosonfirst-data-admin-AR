@@ -1,0 +1,73 @@
+{
+  "id": 1310189551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.8974,-25.84769,-57.8974,-25.84769",
+    "geom:latitude":-25.84769,
+    "geom:longitude":-57.8974,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34014.0",
+    "gn:asciiname":"Colonia Dalmacia",
+    "gn:country_code":"AR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435334,
+    "gn:latitude":-25.84769,
+    "gn:longitude":-57.8974,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Dalmacia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Lindo",
+        "Monte Lindo Grande",
+        "Colonia Dalmacia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        421180291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435334
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cc883f700b8bbb1587a6f0febaa1a528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180291,
+            "locality_id":1310189551,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1310189551,
+    "wof:lastmodified":1537584828,
+    "wof:name":"Colonia Dalmacia",
+    "wof:parent_id":421180291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.8974,
+    -25.84769,
+    -57.8974,
+    -25.84769
+],
+  "geometry": {"coordinates":[-57.8974,-25.84769],"type":"Point"}
+}

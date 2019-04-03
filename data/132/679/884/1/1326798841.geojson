@@ -1,0 +1,68 @@
+{
+  "id": 1326798841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.29297,-26.37082,-65.29297,-26.37082",
+    "geom:latitude":-26.37082,
+    "geom:longitude":-65.29297,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90112.0",
+    "gn:asciiname":"Benjamin Paz",
+    "gn:country_code":"AR",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864310,
+    "gn:latitude":-26.37082,
+    "gn:longitude":-65.29297,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Benjam\u00edn Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864310
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"101bdd98de9e6f57c214555646baa725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718531,
+            "locality_id":1326798841,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1326798841,
+    "wof:lastmodified":1537093775,
+    "wof:name":"Benjamin Paz",
+    "wof:parent_id":1108718531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.29297,
+    -26.37082,
+    -65.29297,
+    -26.37082
+],
+  "geometry": {"coordinates":[-65.29297,-26.37082],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890433223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.29872,-23.96336,-64.29872,-23.96336",
+    "geom:latitude":-23.96336,
+    "geom:longitude":-64.29872,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":5318,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:dut_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:eng_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:fre_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:ita_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:spa_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:swe_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0430-\u0421\u043e\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Palma Sota"
+    ],
+    "qs:name":"Palma Sola",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        1108718279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842268,
+        "gp:id":91815761,
+        "qs:id":585571,
+        "wd:id":"Q1749064",
+        "wk:page":"Palma Sola"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051971,
+    "wof:geomhash":"a40d3d83b56acd6d0401f92e70e26f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718279,
+            "locality_id":890433223,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":890433223,
+    "wof:lastmodified":1527792956,
+    "wof:name":"Palma Sola",
+    "wof:parent_id":1108718279,
+    "wof:placetype":"locality",
+    "wof:population":5318,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.29872,
+    -23.96336,
+    -64.29872,
+    -23.96336
+],
+  "geometry": {"coordinates":[-64.29872,-23.96336],"type":"Point"}
+}

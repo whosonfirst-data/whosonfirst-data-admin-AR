@@ -1,0 +1,112 @@
+{
+  "id": 421173591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.63701,-33.66652,-63.63701,-33.66652",
+    "geom:latitude":-33.66652,
+    "geom:longitude":-63.63701,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Departamento Ju\u00e1rez Celman"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de Ju\u00e1rez Celman"
+    ],
+    "name:hun_x_preferred":[
+        "Ju\u00e1rez Celman megye"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di Ju\u00e1rez Celman"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10d0\u10e0\u10d4\u10e1-\u10e1\u10d4\u10da\u10db\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ju\u00e1rez Celman"
+    ],
+    "name:por_x_preferred":[
+        "Ju\u00e1rez Celman"
+    ],
+    "name:sco_x_preferred":[
+        "Ju\u00e1rez Celman Depairtment"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento Ju\u00e1rez Celman"
+    ],
+    "name:unk_x_variant":[
+        "Huanchilla"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10e3\u10d0\u10e0\u10d4\u10e1-\u10e1\u10d4\u10da\u10db\u10d0\u10dc\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854093,
+    "qs:gn_pop":1020,
+    "qs:name":"Huanchillas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":291509,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468778,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421166595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854093,
+        "gp:id":468778,
+        "qs:id":291509
+    },
+    "wof:country":"AR",
+    "wof:created":1459008991,
+    "wof:geomhash":"36b87c38a7cae2534a856ae42b00e21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166595,
+            "locality_id":421173591,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421173591,
+    "wof:lastmodified":1505340617,
+    "wof:name":"Huanchillas",
+    "wof:parent_id":421166595,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.63701,
+    -33.66652,
+    -63.63701,
+    -33.66652
+],
+  "geometry": {"coordinates":[-63.63701,-33.66652],"type":"Point"}
+}

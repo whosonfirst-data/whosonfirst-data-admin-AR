@@ -1,0 +1,97 @@
+{
+  "id": 421195393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5071,-29.48728,-67.5071,-29.48728",
+    "geom:latitude":-29.48728,
+    "geom:longitude":-67.5071,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vichigasta"
+    ],
+    "name:dut_x_preferred":[
+        "Vichigasta"
+    ],
+    "name:eng_x_preferred":[
+        "Vichigasta"
+    ],
+    "name:spa_x_preferred":[
+        "Vichigasta"
+    ],
+    "name:swe_x_preferred":[
+        "Vichigasta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0447\u0456\u0433\u0430\u0441\u0442\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832940,
+    "qs:gn_pop":0,
+    "qs:name":"Vichigasta",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Rioja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150383,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467944,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421202261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832940,
+        "gp:id":467944,
+        "qs:id":150383,
+        "wd:id":"Q7925260",
+        "wk:page":"Vichigasta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009847,
+    "wof:geomhash":"81822ef4edeb6cd8d91e073fc23b2934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202261,
+            "locality_id":421195393,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":421195393,
+    "wof:lastmodified":1527716122,
+    "wof:name":"Vichigasta",
+    "wof:parent_id":421202261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5071,
+    -29.48728,
+    -67.5071,
+    -29.48728
+],
+  "geometry": {"coordinates":[-67.50709999999999,-29.48728],"type":"Point"}
+}

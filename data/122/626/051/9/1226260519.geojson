@@ -1,0 +1,68 @@
+{
+  "id": 1226260519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.36667,-36.6,-61.36667,-36.6",
+    "geom:latitude":-36.6,
+    "geom:longitude":-61.36667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6105.0",
+    "gn:asciiname":"Villa Lynch",
+    "gn:country_code":"AR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832698,
+    "gn:latitude":-36.6,
+    "gn:longitude":-61.36667,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Villa Lynch",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832698
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d6d3e313a4af060d473574a33774e71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717879,
+            "locality_id":1226260519,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226260519,
+    "wof:lastmodified":1536912724,
+    "wof:name":"Villa Lynch",
+    "wof:parent_id":1108717879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.36666999999999,
+    -36.6,
+    -61.36666999999999,
+    -36.6
+],
+  "geometry": {"coordinates":[-61.36666999999999,-36.6],"type":"Point"}
+}

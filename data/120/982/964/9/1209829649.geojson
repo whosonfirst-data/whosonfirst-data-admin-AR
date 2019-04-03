@@ -1,0 +1,68 @@
+{
+  "id": 1209829649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.34537,-35.52331,-62.34537,-35.52331",
+    "geom:latitude":-35.52331,
+    "geom:longitude":-62.34537,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6154.0",
+    "gn:asciiname":"Husares",
+    "gn:country_code":"AR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853943,
+    "gn:latitude":-35.52331,
+    "gn:longitude":-62.34537,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"H\u00fasares",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853943
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cbe06bbcc15e02427d12e6a7b58ca0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717895,
+            "locality_id":1209829649,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1209829649,
+    "wof:lastmodified":1536369849,
+    "wof:name":"Husares",
+    "wof:parent_id":1108717895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.34537,
+    -35.52330999999999,
+    -62.34537,
+    -35.52330999999999
+],
+  "geometry": {"coordinates":[-62.34537,-35.52330999999999],"type":"Point"}
+}

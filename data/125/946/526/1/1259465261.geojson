@@ -1,0 +1,69 @@
+{
+  "id": 1259465261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67012,-41.4533,-70.67012,-41.4533",
+    "geom:latitude":-41.4533,
+    "geom:longitude":-70.67012,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62056.0",
+    "gn:asciiname":"Las Bayas",
+    "gn:country_code":"AR",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848699,
+    "gn:latitude":-41.4533,
+    "gn:longitude":-70.67012,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Bayas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421199903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848699,
+        "wk:page":"Las_Bayas"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f36c488ad29974136c265b6278d5567b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199903,
+            "locality_id":1259465261,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1259465261,
+    "wof:lastmodified":1537486327,
+    "wof:name":"Las Bayas",
+    "wof:parent_id":421199903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67012,
+    -41.4533,
+    -70.67012,
+    -41.4533
+],
+  "geometry": {"coordinates":[-70.67012,-41.4533],"type":"Point"}
+}

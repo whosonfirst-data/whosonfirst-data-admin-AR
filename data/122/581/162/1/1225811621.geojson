@@ -1,0 +1,68 @@
+{
+  "id": 1225811621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,-28.91667,-68.96667,-28.91667",
+    "geom:latitude":-28.91667,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"70049.0",
+    "gn:asciiname":"Chaparro",
+    "gn:country_code":"AR",
+    "gn:dem":3316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861710,
+    "gn:latitude":-28.91667,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chaparro",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421171511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861710
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"766a88c452f82bd47c2b03bba31bf13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171511,
+            "locality_id":1225811621,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1225811621,
+    "wof:lastmodified":1537060355,
+    "wof:name":"Chaparro",
+    "wof:parent_id":421171511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    -28.91667,
+    -68.96667,
+    -28.91667
+],
+  "geometry": {"coordinates":[-68.96666999999999,-28.91667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343575353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,-36.51667,-61.05,-36.51667",
+    "geom:latitude":-36.51667,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6105.0",
+    "gn:asciiname":"Paula",
+    "gn:country_code":"AR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841760,
+    "gn:latitude":-36.51667,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paula",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841760
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d528987dddf517aeae7f98c91568452c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717879,
+            "locality_id":1343575353,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343575353,
+    "wof:lastmodified":1537074807,
+    "wof:name":"Paula",
+    "wof:parent_id":1108717879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    -36.51667,
+    -61.05,
+    -36.51667
+],
+  "geometry": {"coordinates":[-61.05,-36.51667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293059143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21753,-27.05861,-65.21753,-27.05861",
+    "geom:latitude":-27.05861,
+    "geom:longitude":-65.21753,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90056.0",
+    "gn:asciiname":"Pala Pala",
+    "gn:country_code":"AR",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842331,
+    "gn:latitude":-27.05861,
+    "gn:longitude":-65.21753,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pal\u00e1 Pal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842331
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3fd5e8dc1c345b66746350728f939368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718525,
+            "locality_id":1293059143,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1293059143,
+    "wof:lastmodified":1536908130,
+    "wof:name":"Pala Pala",
+    "wof:parent_id":1108718525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21753000000001,
+    -27.05861,
+    -65.21753000000001,
+    -27.05861
+],
+  "geometry": {"coordinates":[-65.21753000000001,-27.05861],"type":"Point"}
+}

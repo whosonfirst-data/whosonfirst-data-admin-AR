@@ -1,0 +1,68 @@
+{
+  "id": 1310174997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80853,-41.07845,-71.80853,-41.07845",
+    "geom:latitude":-41.07845,
+    "geom:longitude":-71.80853,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62021.0",
+    "gn:asciiname":"Puerto Frias",
+    "gn:country_code":"AR",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840100,
+    "gn:latitude":-41.07845,
+    "gn:longitude":-71.80853,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Fr\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840100
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4630dd184a0373a47bb6accbb50287e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "locality_id":1310174997,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1310174997,
+    "wof:lastmodified":1536896267,
+    "wof:name":"Puerto Frias",
+    "wof:parent_id":421188061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80853,
+    -41.07845,
+    -71.80853,
+    -41.07845
+],
+  "geometry": {"coordinates":[-71.80853,-41.07845],"type":"Point"}
+}

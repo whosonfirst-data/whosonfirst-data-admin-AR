@@ -1,0 +1,101 @@
+{
+  "id": 421191933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16852,-32.5844,-61.16852,-32.5844",
+    "geom:latitude":-32.5844,
+    "geom:longitude":-61.16852,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Totoras"
+    ],
+    "name:eng_x_preferred":[
+        "Totoras"
+    ],
+    "name:por_x_preferred":[
+        "Totoras"
+    ],
+    "name:spa_x_preferred":[
+        "Totoras"
+    ],
+    "name:swe_x_preferred":[
+        "Totoras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0442\u043e\u0440\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Santa Teresa"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833995,
+    "qs:gn_pop":9587,
+    "qs:name":"Totoras",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1163860,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332278,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421203251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833995,
+        "gp:id":332278,
+        "qs:id":1163860,
+        "wd:id":"Q2226504"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009714,
+    "wof:geomhash":"936305688038e243216623884f9ea3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203251,
+            "locality_id":421191933,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421191933,
+    "wof:lastmodified":1553816380,
+    "wof:name":"Totoras",
+    "wof:parent_id":421203251,
+    "wof:placetype":"locality",
+    "wof:population":9587,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16852,
+    -32.5844,
+    -61.16852,
+    -32.5844
+],
+  "geometry": {"coordinates":[-61.16852,-32.5844],"type":"Point"}
+}

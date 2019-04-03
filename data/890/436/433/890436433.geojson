@@ -1,0 +1,195 @@
+{
+  "id": 890436433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46667,-33.66667,-65.46667,-33.66667",
+    "geom:latitude":-33.66667,
+    "geom:longitude":-65.46667,
+    "gn:country":"AR",
+    "gn:fcode":"HSE",
+    "gn:pop":105916,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0645\u0631\u0633\u064a\u062f\u0633\u060c \u0633\u0627\u0646 \u0644\u0648\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0645\u0631\u0633\u062f\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u09ae\u09be\u09b0\u09cd\u09b8\u09bf\u09a1\u09bf\u09b8"
+    ],
+    "name:chi_x_preferred":[
+        "\u6885\u585e\u5fb7\u65af\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:fin_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:fre_x_preferred":[
+        "villa Mercedes"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10db\u10d4\u10e0\u10e1\u10d4\u10d3\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u039c\u03b5\u03c1\u03c3\u03ad\u03bd\u03c4\u03b5\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0abe \u0aae\u0ab0\u0acd\u0ab8\u0abf\u0aa1\u0ac0\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05de\u05e8\u05e1\u05d3\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0940\u092f\u093e \u092e\u0947\u0930\u0938\u0947\u0926\u0947\u091c\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30e1\u30eb\u30bb\u30c7\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe \u0cae\u0cb0\u0ccd\u0cb8\u0cbf\u0ca1\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c\uba54\ub974\uc138\ub370\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Vilja Mersedesa"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Mersedesas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0932\u093e \u092e\u0930\u094d\u0938\u093f\u0921\u0940\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u0645\u0631\u0633\u062f\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:por_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0430-\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dcf \u0db8\u0dbb\u0dca\u0dc3\u0dd2\u0da9\u0dd3\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0459\u0430 \u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe  \u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c47 \u0c2e\u0c46\u0c30\u0c4d\u0c38\u0c3f\u0c21\u0c46\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e25\u0e25\u0e48\u0e32 \u0e40\u0e21\u0e2d\u0e0b\u0e35\u0e40\u0e14\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Mercedes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0645\u0631\u0633\u0688\u06cc\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "qs:name":"Villa Mercedes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421203353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832678,
+        "gp:id":468697,
+        "qs:id":585450,
+        "wd:id":"Q1756745"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052111,
+    "wof:geomhash":"24a8640d556baa57f332a2700c1a7b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203353,
+            "locality_id":890436433,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":890436433,
+    "wof:lastmodified":1534379080,
+    "wof:name":"Villa Mercedes",
+    "wof:parent_id":421203353,
+    "wof:placetype":"locality",
+    "wof:population":105916,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[
+        890452757
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46667,
+    -33.66667,
+    -65.46667,
+    -33.66667
+],
+  "geometry": {"coordinates":[-65.46666999999999,-33.66667],"type":"Point"}
+}

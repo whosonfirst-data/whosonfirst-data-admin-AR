@@ -1,0 +1,79 @@
+{
+  "id": 421187099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68492,-40.73488,-71.68492,-40.73488",
+    "geom:latitude":-40.73488,
+    "geom:longitude":-71.68492,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caprara"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860054,
+    "qs:gn_pop":0,
+    "qs:name":"Correntoso",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":686,
+    "qs:photos_1k":139,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":686,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1080378,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330250,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421186305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860054,
+        "gp:id":330250,
+        "qs:id":1080378
+    },
+    "wof:country":"AR",
+    "wof:created":1459009502,
+    "wof:geomhash":"f5a65cc6bc7b33e69a5b08b85c405d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186305,
+            "locality_id":421187099,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421187099,
+    "wof:lastmodified":1501268875,
+    "wof:name":"Correntoso",
+    "wof:parent_id":421186305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68492,
+    -40.73488,
+    -71.68492,
+    -40.73488
+],
+  "geometry": {"coordinates":[-71.68492000000001,-40.73488],"type":"Point"}
+}

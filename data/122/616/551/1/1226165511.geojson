@@ -1,0 +1,68 @@
+{
+  "id": 1226165511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.1,-29.8,-63.1,-29.8",
+    "geom:latitude":-29.8,
+    "geom:longitude":-63.1,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14112.0",
+    "gn:asciiname":"Taco Pozo",
+    "gn:country_code":"AR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3834841,
+    "gn:latitude":-29.8,
+    "gn:longitude":-63.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Taco Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        1108718165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834841
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e6a20054f8b852a0dfe46a332a1c9836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718165,
+            "locality_id":1226165511,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1226165511,
+    "wof:lastmodified":1537047237,
+    "wof:name":"Taco Pozo",
+    "wof:parent_id":1108718165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.1,
+    -29.8,
+    -63.1,
+    -29.8
+],
+  "geometry": {"coordinates":[-63.1,-29.8],"type":"Point"}
+}

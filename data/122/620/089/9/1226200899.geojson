@@ -1,0 +1,68 @@
+{
+  "id": 1226200899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.97129,-27.42719,-64.97129,-27.42719",
+    "geom:latitude":-27.42719,
+    "geom:longitude":-64.97129,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86147.0",
+    "gn:asciiname":"La Donosa",
+    "gn:country_code":"AR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851734,
+    "gn:latitude":-27.42719,
+    "gn:longitude":-64.97129,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Donosa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421186443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851734
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1b9406e140ee72bdca7ff5e86e2ea924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186443,
+            "locality_id":1226200899,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1226200899,
+    "wof:lastmodified":1536997654,
+    "wof:name":"La Donosa",
+    "wof:parent_id":421186443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.97129,
+    -27.42719,
+    -64.97129,
+    -27.42719
+],
+  "geometry": {"coordinates":[-64.97129,-27.42719],"type":"Point"}
+}

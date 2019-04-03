@@ -1,0 +1,72 @@
+{
+  "id": 1225849137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.74281,-36.20703,-57.74281,-36.20703",
+    "geom:latitude":-36.20703,
+    "geom:longitude":-57.74281,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6238.0",
+    "gn:asciiname":"Sevigne",
+    "gn:country_code":"AR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427969,
+    "gn:latitude":-36.20703,
+    "gn:longitude":-57.74281,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sevign\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seving\u00e9",
+        "Sevign\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427969
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3cab696b5d7426e1cfbffe0806086391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717921,
+            "locality_id":1225849137,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1225849137,
+    "wof:lastmodified":1537584815,
+    "wof:name":"Sevigne",
+    "wof:parent_id":1108717921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.74281,
+    -36.20703,
+    -57.74281,
+    -36.20703
+],
+  "geometry": {"coordinates":[-57.74281,-36.20703],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243360425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.19939,-30.17304,-58.19939,-30.17304",
+    "geom:latitude":-30.17304,
+    "geom:longitude":-58.19939,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"J. Arguello",
+    "gn:country_code":"AR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8055214,
+    "gn:latitude":-30.17304,
+    "gn:longitude":-58.19939,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"J. Arg\u00fcello",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "J. Arg\u00fcello"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8055214
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bbe35fd230d88860a2e6ddf68aef2ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718175,
+            "locality_id":1243360425,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1243360425,
+    "wof:lastmodified":1537584905,
+    "wof:name":"J. Arguello",
+    "wof:parent_id":1108718175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.19939,
+    -30.17304,
+    -58.19939,
+    -30.17304
+],
+  "geometry": {"coordinates":[-58.19939,-30.17304],"type":"Point"}
+}

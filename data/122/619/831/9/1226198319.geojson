@@ -1,0 +1,72 @@
+{
+  "id": 1226198319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.58437,-27.73127,-65.58437,-27.73127",
+    "geom:latitude":-27.73127,
+    "geom:longitude":-65.58437,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90049.0",
+    "gn:asciiname":"Huasa Pampa Norte",
+    "gn:country_code":"AR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854070,
+    "gn:latitude":-27.73127,
+    "gn:longitude":-65.58437,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Huasa Pampa Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huasa Pampa",
+        "Huasa Pampa Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421173251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854070
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5c299019c133839b89c78430e80c47c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421173251,
+            "locality_id":1226198319,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1226198319,
+    "wof:lastmodified":1537584872,
+    "wof:name":"Huasa Pampa Norte",
+    "wof:parent_id":421173251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.58436999999999,
+    -27.73127,
+    -65.58436999999999,
+    -27.73127
+],
+  "geometry": {"coordinates":[-65.58436999999999,-27.73127],"type":"Point"}
+}

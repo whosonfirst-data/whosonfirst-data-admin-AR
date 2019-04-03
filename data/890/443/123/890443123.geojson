@@ -1,0 +1,90 @@
+{
+  "id": 890443123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20863,-38.92598,-69.20863,-38.92598",
+    "geom:latitude":-38.92598,
+    "geom:longitude":-69.20863,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":12273,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:eng_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:fre_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:ger_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:spa_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:swe_x_preferred":[
+        "Plaza Huincul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u0441\u0430-\u0412\u0456\u043d\u043a\u0443\u043b\u044c"
+    ],
+    "qs:name":"Plaza Huincul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":658,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840896,
+        "gp:id":467208,
+        "qs:id":375512,
+        "wd:id":"Q980712",
+        "wk:page":"Plaza Huincul"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052401,
+    "wof:geomhash":"57b3c07e2aacebb70c84d0af19ff0a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169777,
+            "locality_id":890443123,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":890443123,
+    "wof:lastmodified":1527787071,
+    "wof:name":"Plaza Huincul",
+    "wof:parent_id":421169777,
+    "wof:placetype":"locality",
+    "wof:population":12273,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20863,
+    -38.92598,
+    -69.20863,
+    -38.92598
+],
+  "geometry": {"coordinates":[-69.20863,-38.92598],"type":"Point"}
+}

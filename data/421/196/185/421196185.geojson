@@ -1,0 +1,79 @@
+{
+  "id": 421196185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.20692,-28.75964,-68.20692,-28.75964",
+    "geom:latitude":-28.75964,
+    "geom:longitude":-68.20692,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832560,
+    "qs:gn_pop":2834,
+    "qs:name":"Vinchina",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"La Rioja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046733,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467472,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421203243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832560,
+        "gp:id":467472,
+        "qs:id":1046733
+    },
+    "wof:country":"AR",
+    "wof:created":1459009872,
+    "wof:geomhash":"e1cfd1098e758570ee9d6b84d7391c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203243,
+            "locality_id":421196185,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":421196185,
+    "wof:lastmodified":1505340746,
+    "wof:name":"Vinchina",
+    "wof:parent_id":421203243,
+    "wof:placetype":"locality",
+    "wof:population":2834,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.20692,
+    -28.75964,
+    -68.20692,
+    -28.75964
+],
+  "geometry": {"coordinates":[-68.20692,-28.75964],"type":"Point"}
+}

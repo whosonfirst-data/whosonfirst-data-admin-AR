@@ -1,0 +1,82 @@
+{
+  "id": 890439973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.39167,-27.52116,-60.39167,-27.52116",
+    "geom:latitude":-27.52116,
+    "geom:longitude":-60.39167,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2223,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Samuh\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Samuh\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Samuh\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Samuh\u00fa"
+    ],
+    "name:unk_x_variant":[
+        "Samuhi"
+    ],
+    "qs:name":"Samuh\u00fa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838194,
+        "gp:id":91816441,
+        "qs:id":585513,
+        "wd:id":"Q7413040"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052257,
+    "wof:geomhash":"8a0268afbef7fd7558f625a6fa3d3998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718225,
+            "locality_id":890439973,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":890439973,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Samuh\u00fa",
+    "wof:parent_id":1108718225,
+    "wof:placetype":"locality",
+    "wof:population":2223,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.39167,
+    -27.52116,
+    -60.39167,
+    -27.52116
+],
+  "geometry": {"coordinates":[-60.39167,-27.52116],"type":"Point"}
+}

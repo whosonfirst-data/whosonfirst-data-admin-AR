@@ -1,0 +1,89 @@
+{
+  "id": 421171303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.24763,-32.43293,-63.24763,-32.43293",
+    "geom:latitude":-32.43293,
+    "geom:longitude":-63.24763,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041d\u0443\u0435\u0432\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832662,
+    "qs:gn_pop":16841,
+    "qs:name":"Villa Nueva",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1233212,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466765,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832662,
+        "gp:id":466765,
+        "qs:id":1233212,
+        "wd:id":"Q6162298"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008889,
+    "wof:geomhash":"c0e029b3110bef80cdde746389e45988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":421171303,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421171303,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Villa Nueva",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:population":16841,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.24763,
+    -32.43293,
+    -63.24763,
+    -32.43293
+],
+  "geometry": {"coordinates":[-63.24763,-32.43293],"type":"Point"}
+}

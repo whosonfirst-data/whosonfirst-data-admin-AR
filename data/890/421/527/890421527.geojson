@@ -1,0 +1,99 @@
+{
+  "id": 890421527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.6665,-37.13598,-63.6665,-37.13598",
+    "geom:latitude":-37.13598,
+    "geom:longitude":-63.6665,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":4768,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u5361\u6b3d"
+    ],
+    "name:dut_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Macach\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0447\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0627\u0686\u06cc\u0646"
+    ],
+    "qs:name":"Macach\u00edn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3845344,
+        "gp:id":467303,
+        "qs:id":1244309,
+        "wd:id":"Q2911913",
+        "wk:page":"Macach\u00edn"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051397,
+    "wof:geomhash":"bea7e4e921c555f2f0207aeabead5c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718285,
+            "locality_id":890421527,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890421527,
+    "wof:lastmodified":1527782110,
+    "wof:name":"Macach\u00edn",
+    "wof:parent_id":1108718285,
+    "wof:placetype":"locality",
+    "wof:population":4768,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.6665,
+    -37.13598,
+    -63.6665,
+    -37.13598
+],
+  "geometry": {"coordinates":[-63.6665,-37.13598],"type":"Point"}
+}

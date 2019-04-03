@@ -1,0 +1,62 @@
+{
+  "id": 1209418077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22209,-28.58375,-65.22209,-28.58375",
+    "geom:latitude":-28.58375,
+    "geom:longitude":-65.22209,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10056.0",
+    "gn:asciiname":"Albigasta",
+    "gn:country_code":"AR",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866413,
+    "gn:latitude":-28.58375,
+    "gn:longitude":-65.22209,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Albigasta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866413
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"52e35123ee2c9b8c5c6f6255bc40720f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209418077
+        }
+    ],
+    "wof:id":1209418077,
+    "wof:lastmodified":1536287620,
+    "wof:name":"Albigasta",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22209000000001,
+    -28.58375,
+    -65.22209000000001,
+    -28.58375
+],
+  "geometry": {"coordinates":[-65.22209000000001,-28.58375],"type":"Point"}
+}

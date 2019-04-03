@@ -1,0 +1,72 @@
+{
+  "id": 1210020505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.79478,-34.15083,-60.79478,-34.15083",
+    "geom:latitude":-34.15083,
+    "geom:longitude":-60.79478,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6686.0",
+    "gn:asciiname":"Cuatro de Noviembre",
+    "gn:country_code":"AR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3859772,
+    "gn:latitude":-34.15083,
+    "gn:longitude":-60.79478,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cuatro de Noviembre",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "4 de Noviembre",
+        "Cuatro de Noviembre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3859772
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"44ef9034c476742b60bf4f4c2de9692c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718077,
+            "locality_id":1210020505,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1210020505,
+    "wof:lastmodified":1537584887,
+    "wof:name":"Cuatro de Noviembre",
+    "wof:parent_id":1108718077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.79478,
+    -34.15083,
+    -60.79478,
+    -34.15083
+],
+  "geometry": {"coordinates":[-60.79478,-34.15083],"type":"Point"}
+}

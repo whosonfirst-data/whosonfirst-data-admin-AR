@@ -1,0 +1,76 @@
+{
+  "id": 421195133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.44841,-36.30723,-60.44841,-36.30723",
+    "geom:latitude":-36.30723,
+    "geom:longitude":-60.44841,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3837938,
+    "qs:gn_pop":0,
+    "qs:name":"San Bernardo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1255626,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332652,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837938,
+        "gp:id":332652,
+        "qs:id":1255626
+    },
+    "wof:country":"AR",
+    "wof:created":1459009833,
+    "wof:geomhash":"7dd5fc9d0e0283252147e2700e36a69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718115,
+            "locality_id":421195133,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195133,
+    "wof:lastmodified":1499925076,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":1108718115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.44841,
+    -36.30723,
+    -60.44841,
+    -36.30723
+],
+  "geometry": {"coordinates":[-60.44841,-36.30723],"type":"Point"}
+}

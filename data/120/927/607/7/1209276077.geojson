@@ -1,0 +1,67 @@
+{
+  "id": 1209276077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.5,-49.58333,-69.5,-49.58333",
+    "geom:latitude":-49.58333,
+    "geom:longitude":-69.5,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"78007.0",
+    "gn:asciiname":"Corpen",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860159,
+    "gn:latitude":-49.58333,
+    "gn:longitude":-69.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Corpen",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corpen Aike",
+        "Corpen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860159
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0255d22bc49003c29c97a220584530e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209276077
+        }
+    ],
+    "wof:id":1209276077,
+    "wof:lastmodified":1537584887,
+    "wof:name":"Corpen",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.5,
+    -49.58333,
+    -69.5,
+    -49.58333
+],
+  "geometry": {"coordinates":[-69.5,-49.58333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276765733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,-25.85,-67.35,-25.85",
+    "geom:latitude":-25.85,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"10028.0",
+    "gn:asciiname":"Cara Cienaga",
+    "gn:country_code":"AR",
+    "gn:dem":4150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862710,
+    "gn:latitude":-25.85,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cara Ci\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421204055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862710
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c4d974587aa522349d65c4c4283d0b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204055,
+            "locality_id":1276765733,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1276765733,
+    "wof:lastmodified":1536696620,
+    "wof:name":"Cara Cienaga",
+    "wof:parent_id":421204055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    -25.85,
+    -67.35,
+    -25.85
+],
+  "geometry": {"coordinates":[-67.34999999999999,-25.85],"type":"Point"}
+}

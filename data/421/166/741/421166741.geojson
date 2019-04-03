@@ -1,0 +1,103 @@
+{
+  "id": 421166741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.92714,-39.11505,-66.92714,-39.11505",
+    "geom:latitude":-39.11505,
+    "geom:longitude":-66.92714,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chichinales"
+    ],
+    "name:dut_x_preferred":[
+        "Chichinales"
+    ],
+    "name:eng_x_preferred":[
+        "Chichinales"
+    ],
+    "name:spa_x_preferred":[
+        "Chichinales"
+    ],
+    "name:swe_x_preferred":[
+        "Chichinales"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0456\u043d\u0447\u0430\u043b\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Chinchinales"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861528,
+    "qs:gn_pop":4060,
+    "qs:name":"Chichinales",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":271143,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465041,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861528,
+        "gp:id":465041,
+        "qs:id":271143,
+        "wd:id":"Q5096059",
+        "wk:page":"Chichinales"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008701,
+    "wof:geomhash":"f7e75397ac89ec67bdf9fb5b757744c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421166741,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421166741,
+    "wof:lastmodified":1527716104,
+    "wof:name":"Chichinales",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":4060,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.92714,
+    -39.11505,
+    -66.92714,
+    -39.11505
+],
+  "geometry": {"coordinates":[-66.92713999999999,-39.11505],"type":"Point"}
+}

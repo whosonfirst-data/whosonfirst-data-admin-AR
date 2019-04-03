@@ -1,0 +1,115 @@
+{
+  "id": 421195629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.70105,-36.54131,-56.70105,-36.54131",
+    "geom:latitude":-36.54131,
+    "geom:longitude":-56.70105,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:cze_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30c6\u30ec\u30b7\u30fc\u30bf"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Teresita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0422\u0435\u0440\u0435\u0441\u0456\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Balneario Santa Teresa"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428123,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Teresita",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":786,
+    "qs:photos_1k":159,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":786,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":454404,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332679,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428123,
+        "gp:id":332679,
+        "qs:id":454404,
+        "wd:id":"Q2223279",
+        "wk:page":"Santa Teresita, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009854,
+    "wof:geomhash":"4d22db0519bc214bee5594297475be81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717989,
+            "locality_id":421195629,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195629,
+    "wof:lastmodified":1553816383,
+    "wof:name":"Santa Teresita",
+    "wof:parent_id":1108717989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.70105,
+    -36.54131,
+    -56.70105,
+    -36.54131
+],
+  "geometry": {"coordinates":[-56.70105,-36.54131],"type":"Point"}
+}

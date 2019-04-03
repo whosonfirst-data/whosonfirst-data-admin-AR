@@ -1,0 +1,69 @@
+{
+  "id": 1292970491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6353,-40.57028,-70.6353,-40.57028",
+    "geom:latitude":-40.57028,
+    "geom:longitude":-70.6353,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62070.0",
+    "gn:asciiname":"Paso Flores",
+    "gn:country_code":"AR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841866,
+    "gn:latitude":-40.57028,
+    "gn:longitude":-70.6353,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paso Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841866,
+        "wk:page":"Paso_Flores"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c53c3b1e7e827f73d0911d33ad993526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188063,
+            "locality_id":1292970491,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1292970491,
+    "wof:lastmodified":1537486316,
+    "wof:name":"Paso Flores",
+    "wof:parent_id":421188063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6353,
+    -40.57028,
+    -70.6353,
+    -40.57028
+],
+  "geometry": {"coordinates":[-70.6353,-40.57028],"type":"Point"}
+}

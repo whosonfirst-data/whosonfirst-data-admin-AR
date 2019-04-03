@@ -1,0 +1,126 @@
+{
+  "id": 421205329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.97962,-30.75048,-57.97962,-30.75048",
+    "geom:latitude":-30.75048,
+    "geom:longitude":-57.97962,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d7\u05d0\u05e8\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30cf\u30ea"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cachari"
+    ],
+    "name:nld_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Chajar\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0445\u0430\u0440\u0456"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435486,
+    "qs:gn_pop":30655,
+    "qs:name":"Chajar\u00ed",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Entre R\u00edos",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":261295,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466925,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-30.766667,
+    "wd:longitude":-57.983333,
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421181877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435486,
+        "gp:id":466925,
+        "qs:id":261295,
+        "wd:id":"Q2654603",
+        "wk:page":"Chajar\u00ed"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010221,
+    "wof:geomhash":"ce03b094f30a763f9243414d6c7da0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181877,
+            "locality_id":421205329,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":421205329,
+    "wof:lastmodified":1527716222,
+    "wof:name":"Chajar\u00ed",
+    "wof:parent_id":421181877,
+    "wof:placetype":"locality",
+    "wof:population":30655,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.97962,
+    -30.75048,
+    -57.97962,
+    -30.75048
+],
+  "geometry": {"coordinates":[-57.97962,-30.75048],"type":"Point"}
+}

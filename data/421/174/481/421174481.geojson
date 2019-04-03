@@ -1,0 +1,90 @@
+{
+  "id": 421174481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.50899,-34.99889,-67.50899,-34.99889",
+    "geom:latitude":-34.99889,
+    "geom:longitude":-67.50899,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bowen"
+    ],
+    "name:eng_x_preferred":[
+        "Bowen"
+    ],
+    "name:spa_x_preferred":[
+        "Bowen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0432\u0435\u043d"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3863887,
+    "qs:gn_pop":0,
+    "qs:name":"Bowen",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":339627,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467137,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":198,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421166643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3863887,
+        "gp:id":467137,
+        "qs:id":339627,
+        "wd:id":"Q5732903"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009034,
+    "wof:geomhash":"b8fa88f7311b4e12acb5e72b76c34227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166643,
+            "locality_id":421174481,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421174481,
+    "wof:lastmodified":1527716229,
+    "wof:name":"Bowen",
+    "wof:parent_id":421166643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.50899,
+    -34.99889,
+    -67.50899,
+    -34.99889
+],
+  "geometry": {"coordinates":[-67.50899,-34.99889],"type":"Point"}
+}

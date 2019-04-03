@@ -1,0 +1,62 @@
+{
+  "id": 1209013311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.62763,-27.96504,-67.62763,-27.96504",
+    "geom:latitude":-27.96504,
+    "geom:longitude":-67.62763,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10105.0",
+    "gn:asciiname":"El Puesto",
+    "gn:country_code":"AR",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3857029,
+    "gn:latitude":-27.96504,
+    "gn:longitude":-67.62763,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Puesto",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3857029
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b5f6ae3c527cccef19b05c026909d8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209013311
+        }
+    ],
+    "wof:id":1209013311,
+    "wof:lastmodified":1536300375,
+    "wof:name":"El Puesto",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.62763000000001,
+    -27.96504,
+    -67.62763000000001,
+    -27.96504
+],
+  "geometry": {"coordinates":[-67.62763000000001,-27.96504],"type":"Point"}
+}

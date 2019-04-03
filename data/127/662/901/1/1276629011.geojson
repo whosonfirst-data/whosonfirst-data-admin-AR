@@ -1,0 +1,72 @@
+{
+  "id": 1276629011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31982,-31.7639,-61.31982,-31.7639",
+    "geom:latitude":-31.7639,
+    "geom:longitude":-61.31982,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Santa Clara de Buena Vista",
+    "gn:country_code":"AR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836376,
+    "gn:latitude":-31.7639,
+    "gn:longitude":-61.31982,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santa Clara de Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Clara",
+        "Santa Clara de Buena Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836376
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c0be78ec598f304a724ef9da576e73a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1276629011,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1276629011,
+    "wof:lastmodified":1537584840,
+    "wof:name":"Santa Clara de Buena Vista",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31981999999999,
+    -31.7639,
+    -61.31981999999999,
+    -31.7639
+],
+  "geometry": {"coordinates":[-61.31981999999999,-31.7639],"type":"Point"}
+}

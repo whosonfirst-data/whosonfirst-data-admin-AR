@@ -1,0 +1,124 @@
+{
+  "id": 421194797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.68262,-27.56978,-54.68262,-27.56978",
+    "geom:latitude":-27.56978,
+    "geom:longitude":-54.68262,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u74e6\u6ce2\u585e"
+    ],
+    "name:dut_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:eng_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0627 \u067e\u0627\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:fre_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:ita_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0627 \u067e\u0627\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:por_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:spa_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:swe_x_preferred":[
+        "Alba Posse"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u74e6\u6ce2\u585e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3436448,
+    "qs:gn_pop":6652,
+    "qs:name":"Alba Posse",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":925767,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464555,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421204837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436448,
+        "gp:id":464555,
+        "qs:id":925767,
+        "wd:id":"Q2830746",
+        "wk:page":"Alba Posse"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009819,
+    "wof:geomhash":"63b336a1b286b3f83c2dbff0859880a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204837,
+            "locality_id":421194797,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421194797,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Alba Posse",
+    "wof:parent_id":421204837,
+    "wof:placetype":"locality",
+    "wof:population":6652,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.68262,
+    -27.56978,
+    -54.68262,
+    -27.56978
+],
+  "geometry": {"coordinates":[-54.68262,-27.56978],"type":"Point"}
+}

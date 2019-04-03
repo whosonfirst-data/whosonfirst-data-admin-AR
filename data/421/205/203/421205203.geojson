@@ -1,0 +1,127 @@
+{
+  "id": 421205203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.24458,-27.27043,-58.24458,-27.27043",
+    "geom:latitude":-27.27043,
+    "geom:longitude":-58.24458,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u5854\u8482"
+    ],
+    "name:dut_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:oci_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0430\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0442\u0430\u0442\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854\u8482"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433363,
+    "qs:gn_pop":7902,
+    "qs:name":"Itat\u00ed",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":271661,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467985,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421185417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433363,
+        "gp:id":467985,
+        "qs:id":271661,
+        "wd:id":"Q549659",
+        "wk:page":"Itat\u00ed, Corrientes"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010215,
+    "wof:geomhash":"80a90bbdfe7c4fdc7b7168dd93bd8947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185417,
+            "locality_id":421205203,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421205203,
+    "wof:lastmodified":1527716217,
+    "wof:name":"Itat\u00ed",
+    "wof:parent_id":421185417,
+    "wof:placetype":"locality",
+    "wof:population":7902,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.24458,
+    -27.27043,
+    -58.24458,
+    -27.27043
+],
+  "geometry": {"coordinates":[-58.24458,-27.27043],"type":"Point"}
+}

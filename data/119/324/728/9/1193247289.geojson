@@ -1,0 +1,69 @@
+{
+  "id": 1193247289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23792,-26.19907,-64.23792,-26.19907",
+    "geom:latitude":-26.19907,
+    "geom:longitude":-64.23792,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86133.0",
+    "gn:asciiname":"Nueva Esperanza",
+    "gn:country_code":"AR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3842907,
+    "gn:latitude":-26.19907,
+    "gn:longitude":-64.23792,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Nueva Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842907,
+        "wk:page":"Nueva_Esperanza%2C_Santiago_del_Estero"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d92313ee8c261a0dee9c866b4114ec1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718501,
+            "locality_id":1193247289,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1193247289,
+    "wof:lastmodified":1537486318,
+    "wof:name":"Nueva Esperanza",
+    "wof:parent_id":1108718501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23791999999999,
+    -26.19907000000001,
+    -64.23791999999999,
+    -26.19907000000001
+],
+  "geometry": {"coordinates":[-64.23791999999999,-26.19907000000001],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 890453021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.52321,-50.0191,-68.52321,-50.0191",
+    "geom:latitude":-50.0191,
+    "geom:longitude":-68.52321,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":3397,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:epo_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Santa Krusas"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:slo_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Santa Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Santa Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u6e2f"
+    ],
+    "qs:name":"Puerto Santa Cruz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840076,
+        "gp:id":91816012,
+        "qs:id":244599,
+        "wd:id":"Q932809",
+        "wk:page":"Puerto Santa Cruz"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052838,
+    "wof:geomhash":"7a03f4ba1bc3aa551c1c110ed518cad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200653,
+            "locality_id":890453021,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":890453021,
+    "wof:lastmodified":1553816403,
+    "wof:name":"Puerto Santa Cruz",
+    "wof:parent_id":421200653,
+    "wof:placetype":"locality",
+    "wof:population":3397,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.52321,
+    -50.0191,
+    -68.52321,
+    -50.0191
+],
+  "geometry": {"coordinates":[-68.52321000000001,-50.0191],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 421178453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.81255,-22.59588,-63.81255,-22.59588",
+    "geom:latitude":-22.59588,
+    "geom:longitude":-63.81255,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "General Mosconi"
+    ],
+    "name:eng_x_preferred":[
+        "General Mosconi"
+    ],
+    "name:fre_x_preferred":[
+        "General Mosconi"
+    ],
+    "name:por_x_preferred":[
+        "General Mosconi"
+    ],
+    "name:spa_x_preferred":[
+        "General Mosconi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041c\u043e\u0441\u043a\u043e\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Vespucio"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855116,
+    "qs:gn_pop":19811,
+    "qs:name":"General enrique mosconi",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":279894,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465444,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855116,
+        "gp:id":465444,
+        "qs:id":279894,
+        "wd:id":"Q2132246",
+        "wk:page":"General Mosconi, Salta"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009182,
+    "wof:geomhash":"2db75ffbe2ea5576400ca8a4751ff631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":421178453,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421178453,
+    "wof:lastmodified":1513889198,
+    "wof:name":"General enrique mosconi",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:population":19811,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.81255,
+    -22.59588,
+    -63.81255,
+    -22.59588
+],
+  "geometry": {"coordinates":[-63.81255,-22.59588],"type":"Point"}
+}

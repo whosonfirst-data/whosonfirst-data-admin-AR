@@ -1,0 +1,72 @@
+{
+  "id": 1276131497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56795,-28.85136,-65.56795,-28.85136",
+    "geom:latitude":-28.85136,
+    "geom:longitude":-65.56795,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Ipizca",
+    "gn:country_code":"AR",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853722,
+    "gn:latitude":-28.85136,
+    "gn:longitude":-65.56795,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipizca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ipisca",
+        "Ipizca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853722
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"09857cb1ddc71a635690035e6fdca9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718143,
+            "locality_id":1276131497,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1276131497,
+    "wof:lastmodified":1537584871,
+    "wof:name":"Ipizca",
+    "wof:parent_id":1108718143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56795,
+    -28.85136,
+    -65.56795,
+    -28.85136
+],
+  "geometry": {"coordinates":[-65.56795,-28.85136],"type":"Point"}
+}

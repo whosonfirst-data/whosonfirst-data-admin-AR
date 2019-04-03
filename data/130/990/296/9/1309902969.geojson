@@ -1,0 +1,72 @@
+{
+  "id": 1309902969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.40861,-31.98283,-60.40861,-31.98283",
+    "geom:latitude":-31.98283,
+    "geom:longitude":-60.40861,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30021.0",
+    "gn:asciiname":"General Racedo",
+    "gn:country_code":"AR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855069,
+    "gn:latitude":-31.98283,
+    "gn:longitude":-60.40861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"General Racedo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Racedo",
+        "General Racedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421172581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855069
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"64e8307503c6f0344dd7d782c1640ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172581,
+            "locality_id":1309902969,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1309902969,
+    "wof:lastmodified":1537584875,
+    "wof:name":"General Racedo",
+    "wof:parent_id":421172581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.40861,
+    -31.98283,
+    -60.40861,
+    -31.98283
+],
+  "geometry": {"coordinates":[-60.40861,-31.98283],"type":"Point"}
+}

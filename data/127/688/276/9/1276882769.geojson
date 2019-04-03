@@ -1,0 +1,72 @@
+{
+  "id": 1276882769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56549,-38.4472,-61.56549,-38.4472",
+    "geom:latitude":-38.4472,
+    "geom:longitude":-61.56549,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6196.0",
+    "gn:asciiname":"Lartigau",
+    "gn:country_code":"AR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848890,
+    "gn:latitude":-38.4472,
+    "gn:longitude":-61.56549,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lartigau",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larligau",
+        "Lartigau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848890
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e9fd82904c7fc7703338b720527a5cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717907,
+            "locality_id":1276882769,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276882769,
+    "wof:lastmodified":1537584865,
+    "wof:name":"Lartigau",
+    "wof:parent_id":1108717907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56549,
+    -38.4472,
+    -61.56549,
+    -38.4472
+],
+  "geometry": {"coordinates":[-61.56549,-38.4472],"type":"Point"}
+}

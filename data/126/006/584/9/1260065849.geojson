@@ -1,0 +1,70 @@
+{
+  "id": 1260065849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.11101,-30.32516,-58.11101,-30.32516",
+    "geom:latitude":-30.32516,
+    "geom:longitude":-58.11101,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dr. Hidalgo",
+    "gn:country_code":"AR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056257,
+    "gn:latitude":-30.32516,
+    "gn:longitude":-58.11101,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dr. Hidalgo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dr. Hidalgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        1108718175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056257
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"ae947ce1beec0289d487e86837d190a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718175,
+            "locality_id":1260065849,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":1260065849,
+    "wof:lastmodified":1537584906,
+    "wof:name":"Dr. Hidalgo",
+    "wof:parent_id":1108718175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.11101,
+    -30.32516,
+    -58.11101,
+    -30.32516
+],
+  "geometry": {"coordinates":[-58.11101,-30.32516],"type":"Point"}
+}

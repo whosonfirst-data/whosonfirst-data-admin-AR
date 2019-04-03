@@ -1,0 +1,129 @@
+{
+  "id": 421184899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20323,-32.34286,-65.20323,-32.34286",
+    "geom:latitude":-32.34286,
+    "geom:longitude":-65.20323,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u838e\u5fb7\u5b54\u62c9\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rosa del Conlara"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ed\u30b5\u30fb\u30c7\u30fb\u30b3\u30f3\u30e9\u30e9"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Rosa de Konlara"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:por_x_preferred":[
+        "Santa Rosa de Conlara"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosa del Conlara"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa del Conlara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430-\u0434\u0435-\u041a\u043e\u043d\u043b\u0430\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Santa Rosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u838e\u5fb7\u5b54\u62c9\u62c9"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3835941,
+    "qs:gn_pop":4489,
+    "qs:name":"Santa Rosa del Conlara",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Luis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1014348,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332158,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421189001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3835941,
+        "gp:id":332158,
+        "qs:id":1014348,
+        "wd:id":"Q1018381"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009426,
+    "wof:geomhash":"4cecf9137bf5cfc0551650419811a85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189001,
+            "locality_id":421184899,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":421184899,
+    "wof:lastmodified":1527716454,
+    "wof:name":"Santa Rosa del Conlara",
+    "wof:parent_id":421189001,
+    "wof:placetype":"locality",
+    "wof:population":4489,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20323,
+    -32.34286,
+    -65.20323,
+    -32.34286
+],
+  "geometry": {"coordinates":[-65.20323,-32.34286],"type":"Point"}
+}

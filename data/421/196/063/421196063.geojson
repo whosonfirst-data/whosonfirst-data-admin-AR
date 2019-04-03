@@ -1,0 +1,121 @@
+{
+  "id": 421196063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.18463,-33.28205,-62.18463,-33.28205",
+    "geom:latitude":-33.28205,
+    "geom:longitude":-62.18463,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:deu_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:dut_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:eng_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:fre_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:ger_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:hun_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e9\u30eb\u30fb\u30c7\u30fb\u30d6\u30b9\u30c8\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:por_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:spa_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:swe_x_preferred":[
+        "Corral de Bustos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0440\u0430\u043b\u044c-\u0434\u0435-\u0411\u0443\u0441\u0442\u043e\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3860129,
+    "qs:gn_pop":9882,
+    "qs:name":"Corral de Bustos",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046985,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467202,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":611,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860129,
+        "gp:id":467202,
+        "qs:id":1046985,
+        "wd:id":"Q5172720",
+        "wk:page":"Corral de Bustos"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009868,
+    "wof:geomhash":"41c1a05c954b0c21d6619999d2a8ffbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171469,
+            "locality_id":421196063,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421196063,
+    "wof:lastmodified":1527716363,
+    "wof:name":"Corral de Bustos",
+    "wof:parent_id":421171469,
+    "wof:placetype":"locality",
+    "wof:population":9882,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.18463,
+    -33.28205,
+    -62.18463,
+    -33.28205
+],
+  "geometry": {"coordinates":[-62.18463,-33.28205],"type":"Point"}
+}

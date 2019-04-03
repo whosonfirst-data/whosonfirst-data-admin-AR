@@ -1,0 +1,315 @@
+{
+  "id": 421169161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.24016,-32.40751,-63.24016,-32.40751",
+    "geom:latitude":-32.40751,
+    "geom:longitude":-63.24016,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0645\u0627\u0631\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0645\u0627\u0631\u06cc\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09af\u09bc\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:chi_x_preferred":[
+        "\u746a\u9e97\u4e9e\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u0645\u0627\u0631\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "villa Mar\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10db\u10d0\u10e0\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03b3\u03b9\u03b1 \u039c\u03b1\u03c1\u03af\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0abe \u0aae\u0abe\u0ab0\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05de\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d9\u05d6\u05d4 \u05de\u05e8\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0940\u092f\u093e \u092e\u093e\u0930\u093f\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30de\u30ea\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe \u0cae\u0cbe\u0cb0\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10db\u10d0\u10e0\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c \ub9c8\ub9ac\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Viljamarija"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Marija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0932\u093e \u092e\u093e\u0930\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Villa Maria"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Maria"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627 \u0645\u0627\u0631\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0430-\u041c\u0430\u0440\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dcf \u0db8\u0dbb\u0dd2\u0dba\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bae\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c3e \u0c2e\u0c3e\u0c30\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e25\u0e25\u0e48\u0e32 \u0e21\u0e32\u0e40\u0e23\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Maria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041c\u0430\u0440\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0645\u0627\u0631\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Maria"
+    ],
+    "name:zho_x_preferred":[
+        "\u746a\u9e97\u4e9e\u93ae"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"C\u00f3rdoba",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3832694,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Villa Maria",
+    "ne:GN_POP":92453,
+    "ne:GTOPO30":187.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-32.410026,
+    "ne:LONGITUDE":-63.260025,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Villa Maria",
+    "ne:MAX_AREAKM":32.0,
+    "ne:MAX_AREAMI":12.0,
+    "ne:MAX_BBXMAX":-63.2,
+    "ne:MAX_BBXMIN":-63.275,
+    "ne:MAX_BBYMAX":-32.383333,
+    "ne:MAX_BBYMIN":-32.45,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":31.0,
+    "ne:MAX_PERMI":19.0,
+    "ne:MAX_POP10":60949,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-63.239205,
+    "ne:MEAN_BBYC":-32.414394,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":32.0,
+    "ne:MIN_AREAMI":12.0,
+    "ne:MIN_BBXMAX":-63.2,
+    "ne:MIN_BBXMIN":-63.275,
+    "ne:MIN_BBYMAX":-32.383333,
+    "ne:MIN_BBYMIN":-32.45,
+    "ne:MIN_PERKM":31.0,
+    "ne:MIN_PERMI":19.0,
+    "ne:NAME":"Villa Maria",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Villa Maria",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":92453,
+    "ne:POP_MIN":60949,
+    "ne:POP_OTHER":58465,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832694,
+    "qs:gn_pop":92453,
+    "qs:name":"Villa Mar\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":583,
+    "qs:photos_1k":118,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":583,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":274518,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466889,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-32.410278,
+    "wd:longitude":-63.231389,
+    "wd:wordcount":1788,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421186135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832694,
+        "gp:id":466889,
+        "qs:id":274518,
+        "wd:id":"Q2525523",
+        "wk:page":"Villa Mar\u00eda"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008797,
+    "wof:geomhash":"c42acd850856288cc981db889cf1543a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186135,
+            "locality_id":421169161,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421169161,
+    "wof:lastmodified":1553816357,
+    "wof:name":"Villa Mar\u00eda",
+    "wof:parent_id":421186135,
+    "wof:placetype":"locality",
+    "wof:population":92453,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.24016,
+    -32.40751,
+    -63.24016,
+    -32.40751
+],
+  "geometry": {"coordinates":[-63.24016,-32.40751],"type":"Point"}
+}

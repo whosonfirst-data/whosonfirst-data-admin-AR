@@ -1,0 +1,73 @@
+{
+  "id": 1310192251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.5298,-30.50798,-66.5298,-30.50798",
+    "geom:latitude":-30.50798,
+    "geom:longitude":-66.5298,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46056.0",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"AR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3834718,
+    "gn:latitude":-30.50798,
+    "gn:longitude":-66.5298,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosario del Tama",
+        "Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3834718,
+        "wk:page":"Tama_%28La_Rioja%29"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"4aadb6a47f5009be0c6e4312b062f92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718331,
+            "locality_id":1310192251,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1310192251,
+    "wof:lastmodified":1537584836,
+    "wof:name":"Tama",
+    "wof:parent_id":1108718331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.5298,
+    -30.50798,
+    -66.5298,
+    -30.50798
+],
+  "geometry": {"coordinates":[-66.52979999999999,-30.50798],"type":"Point"}
+}

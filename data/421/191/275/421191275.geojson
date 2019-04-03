@@ -1,0 +1,89 @@
+{
+  "id": 421191275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88694,-33.11852,-68.88694,-33.11852",
+    "geom:latitude":-33.11852,
+    "geom:longitude":-68.88694,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Agrelo"
+    ],
+    "name:eng_x_preferred":[
+        "Agrelo"
+    ],
+    "name:spa_x_preferred":[
+        "Agrelo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0440\u0435\u043b\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3866905,
+    "qs:gn_pop":0,
+    "qs:name":"Agrelo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1134802,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464529,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421169773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866905,
+        "gp:id":464529,
+        "qs:id":1134802,
+        "wd:id":"Q5659975"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009687,
+    "wof:geomhash":"a2d824616592ff7255ae9cf54b782ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169773,
+            "locality_id":421191275,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421191275,
+    "wof:lastmodified":1553816379,
+    "wof:name":"Agrelo",
+    "wof:parent_id":421169773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88694,
+    -33.11852,
+    -68.88694,
+    -33.11852
+],
+  "geometry": {"coordinates":[-68.88694,-33.11852],"type":"Point"}
+}

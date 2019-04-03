@@ -1,0 +1,103 @@
+{
+  "id": 421196057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23333,-39.08333,-67.23333,-39.08333",
+    "geom:latitude":-39.08333,
+    "geom:longitude":-67.23333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
+    "name:dut_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
+    "name:eng_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
+    "name:spa_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
+    "name:swe_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0445\u0435\u043d\u044c\u0454\u0440\u043e-\u041b\u0443\u0457\u0441-\u0410-\u0412\u0435\u0440\u0433\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Ingeniero Huergo"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3853782,
+    "qs:gn_pop":6483,
+    "qs:name":"Ingeniero Luis A. Huergo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046940,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468779,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853782,
+        "gp:id":468779,
+        "qs:id":1046940,
+        "wd:id":"Q9008444",
+        "wk:page":"Ingeniero Luis A. Huergo"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009868,
+    "wof:geomhash":"e048224bd368f88d86db9d92f7c76e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421196057,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421196057,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Ingeniero Luis A. Huergo",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":6483,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23333,
+    -39.08333,
+    -67.23333,
+    -39.08333
+],
+  "geometry": {"coordinates":[-67.23333,-39.08333],"type":"Point"}
+}

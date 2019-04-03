@@ -1,0 +1,72 @@
+{
+  "id": 1242896619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75209,-32.81642,-64.75209,-32.81642",
+    "geom:latitude":-32.81642,
+    "geom:longitude":-64.75209,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Las Tapias",
+    "gn:country_code":"AR",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3847770,
+    "gn:latitude":-32.81642,
+    "gn:longitude":-64.75209,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Las Tapias",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapas",
+        "Las Tapias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847770
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"970a567893312b82084f3b4a8f1ad163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1242896619,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1242896619,
+    "wof:lastmodified":1537584863,
+    "wof:name":"Las Tapias",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75209,
+    -32.81642,
+    -64.75209,
+    -32.81642
+],
+  "geometry": {"coordinates":[-64.75209,-32.81642],"type":"Point"}
+}

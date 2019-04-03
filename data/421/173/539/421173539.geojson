@@ -1,0 +1,240 @@
+{
+  "id": 421173539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.11406,-32.17301,-64.11406,-32.17301",
+    "geom:latitude":-32.17301,
+    "geom:longitude":-64.11406,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u062a\u0631\u0633\u064a\u0631\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0648 \u062a\u0631\u0633\u0631\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u7279\u723e\u585e\u7f85"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u062a\u0631\u0633\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05d8\u05e8\u05e1\u05e8\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30bb\u30eb\u30bb\u30ed"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Terseras"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u062a\u0631\u0633\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de R\u00edo Tercero"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Tercero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0422\u0435\u0440\u0441\u0435\u0440\u043e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"C\u00f3rdoba",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3838793,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Rio Tercero",
+    "ne:GN_POP":53389,
+    "ne:GTOPO30":365.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-32.1796,
+    "ne:LONGITUDE":-64.120024,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Rio Tercero",
+    "ne:MAX_AREAKM":24.0,
+    "ne:MAX_AREAMI":9.0,
+    "ne:MAX_BBXMAX":-64.083333,
+    "ne:MAX_BBXMIN":-64.166667,
+    "ne:MAX_BBYMAX":-32.141667,
+    "ne:MAX_BBYMIN":-32.191667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":31.0,
+    "ne:MAX_PERMI":19.0,
+    "ne:MAX_POP10":22710,
+    "ne:MAX_POP20":22710,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-64.123359,
+    "ne:MEAN_BBYC":-32.171843,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":24.0,
+    "ne:MIN_AREAMI":9.0,
+    "ne:MIN_BBXMAX":-64.083333,
+    "ne:MIN_BBXMIN":-64.166667,
+    "ne:MIN_BBYMAX":-32.141667,
+    "ne:MIN_BBYMIN":-32.191667,
+    "ne:MIN_PERKM":31.0,
+    "ne:MIN_PERMI":19.0,
+    "ne:NAME":"Rio Tercero",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Rio Tercero",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":53389,
+    "ne:POP_MIN":22710,
+    "ne:POP_OTHER":22710,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Cordoba",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3838793,
+    "qs:gn_pop":53389,
+    "qs:name":"R\u00edo Tercero",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":453,
+    "qs:photos_1k":92,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":453,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":508006,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467401,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-32.183333,
+    "wd:longitude":-64.1,
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838793,
+        "gp:id":467401,
+        "qs:id":508006,
+        "wd:id":"Q994351",
+        "wk:page":"R\u00edo Tercero, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008989,
+    "wof:geomhash":"c0b846407feebcc75d474089d19f45a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171465,
+            "locality_id":421173539,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421173539,
+    "wof:lastmodified":1527716257,
+    "wof:name":"R\u00edo Tercero",
+    "wof:parent_id":421171465,
+    "wof:placetype":"locality",
+    "wof:population":53389,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.11406,
+    -32.17301,
+    -64.11406,
+    -32.17301
+],
+  "geometry": {"coordinates":[-64.11405999999999,-32.17301],"type":"Point"}
+}

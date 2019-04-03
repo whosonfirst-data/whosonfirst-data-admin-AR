@@ -1,0 +1,68 @@
+{
+  "id": 1343840735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34038,-37.96809,-70.34038,-37.96809",
+    "geom:latitude":-37.96809,
+    "geom:longitude":-70.34038,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58063.0",
+    "gn:asciiname":"Huncal",
+    "gn:country_code":"AR",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3853952,
+    "gn:latitude":-37.96809,
+    "gn:longitude":-70.34038,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Huncal",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        1108718381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3853952
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c286ef115ce629fc43e4e0c96fa51f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718381,
+            "locality_id":1343840735,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1343840735,
+    "wof:lastmodified":1536695303,
+    "wof:name":"Huncal",
+    "wof:parent_id":1108718381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34038000000001,
+    -37.96809,
+    -70.34038000000001,
+    -37.96809
+],
+  "geometry": {"coordinates":[-70.34038000000001,-37.96809],"type":"Point"}
+}

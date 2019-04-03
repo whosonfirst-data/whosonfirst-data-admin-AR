@@ -1,0 +1,68 @@
+{
+  "id": 1343368535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.11775,-36.4784,-60.11775,-36.4784",
+    "geom:latitude":-36.4784,
+    "geom:longitude":-60.11775,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6798.0",
+    "gn:asciiname":"Altona",
+    "gn:country_code":"AR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866043,
+    "gn:latitude":-36.4784,
+    "gn:longitude":-60.11775,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Altona",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866043
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c20da1f1481e120e12bcc24a48a0685c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718115,
+            "locality_id":1343368535,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343368535,
+    "wof:lastmodified":1536877958,
+    "wof:name":"Altona",
+    "wof:parent_id":1108718115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.11775,
+    -36.4784,
+    -60.11775,
+    -36.4784
+],
+  "geometry": {"coordinates":[-60.11775,-36.4784],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125777745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.74693,-30.24057,-68.74693,-30.24057",
+    "geom:latitude":-30.24057,
+    "geom:longitude":-68.74693,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":21018,
+    "gn:population":21018,
+    "iso:country":"AR",
+    "lbl:latitude":-30.24057,
+    "lbl:longitude":-68.74693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:lit_x_preferred":[
+        "San Chose de Cha\u010dalis"
+    ],
+    "name:unk_x_variant":[
+        "J\u00e1chal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u54c8\u67e5\u723e"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3837240,
+    "qs_pg:gn_pop":21018,
+    "qs_pg:name":"San Jos\u00e9 de J\u00e1chal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":848410,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421166623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837240,
+        "qs_pg:id":848410
+    },
+    "wof:country":"AR",
+    "wof:created":1497290337,
+    "wof:geomhash":"cd6b00524eadeb9932f9ebda8eccd064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166623,
+            "locality_id":1125777745,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1125777745,
+    "wof:lastmodified":1509391381,
+    "wof:name":"San Jos\u00e9 de J\u00e1chal",
+    "wof:parent_id":421166623,
+    "wof:placetype":"locality",
+    "wof:population":21018,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.74693,
+    -30.24057,
+    -68.74693,
+    -30.24057
+],
+  "geometry": {"coordinates":[-68.74693000000001,-30.24057],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 421191803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.45,-25.66667,-54.45,-25.66667",
+    "geom:latitude":-25.66667,
+    "geom:longitude":-54.45,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Iguaz\u00fa-Wasserf\u00e4lle"
+    ],
+    "name:eng_x_preferred":[
+        "Iguazu Falls"
+    ],
+    "name:eng_x_variant":[
+        "Iguassu Falls",
+        "Igua\u00e7u Falls"
+    ],
+    "name:fra_x_preferred":[
+        "Chutes d'Iguaz\u00fa"
+    ],
+    "name:fra_x_variant":[
+        "Chutes d'Iguassu"
+    ],
+    "name:grn_x_preferred":[
+        "Chororo Yguasu"
+    ],
+    "name:por_x_preferred":[
+        "Cataratas do Igua\u00e7u"
+    ],
+    "name:spa_x_preferred":[
+        "Cataratas del Iguaz\u00fa"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435588,
+    "qs:gn_pop":0,
+    "qs:name":"Cataratas del Iguaz\u00fa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156093,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464981,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421198471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435588,
+        "gp:id":464981,
+        "qs:id":1156093
+    },
+    "wof:country":"AR",
+    "wof:created":1459009710,
+    "wof:geomhash":"bafeccede689dab1a2da158162d356a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198471,
+            "locality_id":421191803,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421191803,
+    "wof:lastmodified":1501266409,
+    "wof:name":"Cataratas del Iguaz\u00fa",
+    "wof:parent_id":421198471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.45,
+    -25.66667,
+    -54.45,
+    -25.66667
+],
+  "geometry": {"coordinates":[-54.45,-25.66667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293218153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.87731,-36.05189,-62.87731,-36.05189",
+    "geom:latitude":-36.05189,
+    "geom:longitude":-62.87731,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6826.0",
+    "gn:asciiname":"La Zanja",
+    "gn:country_code":"AR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847126,
+    "gn:latitude":-36.05189,
+    "gn:longitude":-62.87731,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Zanja",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847126
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b5ea6144e1340c66caef14b36bd42f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718123,
+            "locality_id":1293218153,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1293218153,
+    "wof:lastmodified":1536678309,
+    "wof:name":"La Zanja",
+    "wof:parent_id":1108718123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.87731,
+    -36.05189,
+    -62.87731,
+    -36.05189
+],
+  "geometry": {"coordinates":[-62.87731,-36.05189],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1192997753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.71667,-32.75,-68.71667,-32.75",
+    "geom:latitude":-32.75,
+    "geom:longitude":-68.71667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"50049.0",
+    "gn:asciiname":"Francisco Javier Moyano",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855382,
+    "gn:latitude":-32.75,
+    "gn:longitude":-68.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Francisco Javier Moyano",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F.G. Moyano",
+        "F.J. Moyano",
+        "Francisco Javier Moyano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421170121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855382
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"95e363160a16a250ff46841dbad105e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170121,
+            "locality_id":1192997753,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1192997753,
+    "wof:lastmodified":1537584876,
+    "wof:name":"Francisco Javier Moyano",
+    "wof:parent_id":421170121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.71667,
+    -32.75,
+    -68.71667,
+    -32.75
+],
+  "geometry": {"coordinates":[-68.71666999999999,-32.75],"type":"Point"}
+}

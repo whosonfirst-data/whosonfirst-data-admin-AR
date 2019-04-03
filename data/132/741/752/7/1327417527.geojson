@@ -1,0 +1,68 @@
+{
+  "id": 1327417527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.28333,-22.33136,-66.28333,-22.33136",
+    "geom:latitude":-22.33136,
+    "geom:longitude":-66.28333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"38049.0",
+    "gn:asciiname":"Casa Colorada",
+    "gn:country_code":"AR",
+    "gn:dem":4105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862439,
+    "gn:latitude":-22.33136,
+    "gn:longitude":-66.28333,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Casa Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421174423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862439
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f56a8bf7ba10e222d6aac57a0e2dba39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174423,
+            "locality_id":1327417527,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1327417527,
+    "wof:lastmodified":1536702544,
+    "wof:name":"Casa Colorada",
+    "wof:parent_id":421174423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.28333,
+    -22.33136,
+    -66.28333,
+    -22.33136
+],
+  "geometry": {"coordinates":[-66.28333000000001,-22.33136],"type":"Point"}
+}

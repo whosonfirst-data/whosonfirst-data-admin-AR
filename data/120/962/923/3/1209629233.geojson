@@ -1,0 +1,67 @@
+{
+  "id": 1209629233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.38384,-34.80041,-58.38384,-34.80041",
+    "geom:latitude":-34.80041,
+    "geom:longitude":-58.38384,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6028.0",
+    "gn:asciiname":"Adrogue",
+    "gn:country_code":"AR",
+    "gn:dem":28,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10172104,
+    "gn:latitude":-34.80041,
+    "gn:longitude":-58.38384,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Adrogu\u00e9",
+    "gn:population":28265,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10172104,
+        "wk:page":"Adrogu%C3%A9"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e4cd81eccee4d84abc3911a63cf86790",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209629233
+        }
+    ],
+    "wof:id":1209629233,
+    "wof:lastmodified":1537486354,
+    "wof:name":"Adrogue",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:population":28265,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.38384,
+    -34.80041,
+    -58.38384,
+    -34.80041
+],
+  "geometry": {"coordinates":[-58.38384,-34.80041],"type":"Point"}
+}

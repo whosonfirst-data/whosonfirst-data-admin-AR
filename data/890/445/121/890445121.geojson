@@ -1,0 +1,307 @@
+{
+  "id": 890445121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.51637,-32.68478,-61.51637,-32.68478",
+    "geom:latitude":-32.68478,
+    "geom:longitude":-61.51637,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":11317,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:arg_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ast_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:bam_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:baq_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:bar_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0430\u0440\u044d\u0445\u0430\u0441"
+    ],
+    "name:bre_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:cat_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:cos_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:cze_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:dan_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:dut_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:epo_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:est_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:fin_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:frc_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:frp_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:fur_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ger_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:gla_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:gle_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:glg_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:gsw_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05e4\u05e8\u05d7\u05d0\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:hun_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ido_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ile_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ina_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ind_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:jam_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30d1\u30ec\u30cf\u30b9"
+    ],
+    "name:kab_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:kon_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:lav_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:lij_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:lim_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:lit_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ltz_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:may_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:min_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:mlg_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nap_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nds_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nno_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nob_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nrm_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:oci_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:pap_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:pcd_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:pms_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:pol_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:por_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:prg_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:rgn_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:roh_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:rum_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:scn_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:sco_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:slo_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:srd_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:swa_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:tur_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0430\u0440\u0435\u0445\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u067e\u0627\u0631\u06cc\u062c\u0627\u0633\u060c \u0633\u0627\u0646\u0679\u0627 \u0641\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:vie_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:vls_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:vmf_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:vol_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:wel_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:wln_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:wol_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:zul_x_preferred":[
+        "Las Parejas"
+    ],
+    "qs:name":"Las Parejas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847933,
+        "gp:id":332832,
+        "qs:id":1046896,
+        "wd:id":"Q926587"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052497,
+    "wof:geomhash":"8d696f6d4474d0f1d1b9b351fed317af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718449,
+            "locality_id":890445121,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":890445121,
+    "wof:lastmodified":1513889248,
+    "wof:name":"Las Parejas",
+    "wof:parent_id":1108718449,
+    "wof:placetype":"locality",
+    "wof:population":11317,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.51637,
+    -32.68478,
+    -61.51637,
+    -32.68478
+],
+  "geometry": {"coordinates":[-61.51637,-32.68478],"type":"Point"}
+}

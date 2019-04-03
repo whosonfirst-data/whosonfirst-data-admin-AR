@@ -1,0 +1,68 @@
+{
+  "id": 1343619543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08333,-26.78333,-65.08333,-26.78333",
+    "geom:latitude":-26.78333,
+    "geom:longitude":-65.08333,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"Chabela",
+    "gn:country_code":"AR",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861955,
+    "gn:latitude":-26.78333,
+    "gn:longitude":-65.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chabela",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421172497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861955
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"5c9115347977caba95273d101a4ac00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172497,
+            "locality_id":1343619543,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1343619543,
+    "wof:lastmodified":1537013470,
+    "wof:name":"Chabela",
+    "wof:parent_id":421172497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08333,
+    -26.78333,
+    -65.08333,
+    -26.78333
+],
+  "geometry": {"coordinates":[-65.08333,-26.78333],"type":"Point"}
+}

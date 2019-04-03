@@ -1,0 +1,68 @@
+{
+  "id": 1310508911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.27129,-24.47493,-62.27129,-24.47493",
+    "geom:latitude":-24.47493,
+    "geom:longitude":-62.27129,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"22063.0",
+    "gn:asciiname":"San Juancito",
+    "gn:country_code":"AR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3837143,
+    "gn:latitude":-24.47493,
+    "gn:longitude":-62.27129,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Juancito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421191011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3837143
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"99228737c6baeaa84c0c8268f501e652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191011,
+            "locality_id":1310508911,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1310508911,
+    "wof:lastmodified":1536912310,
+    "wof:name":"San Juancito",
+    "wof:parent_id":421191011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.27129,
+    -24.47493,
+    -62.27129,
+    -24.47493
+],
+  "geometry": {"coordinates":[-62.27129,-24.47493],"type":"Point"}
+}

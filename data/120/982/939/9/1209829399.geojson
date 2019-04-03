@@ -1,0 +1,72 @@
+{
+  "id": 1209829399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.53217,-38.63281,-62.53217,-38.63281",
+    "geom:latitude":-38.63281,
+    "geom:longitude":-62.53217,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6056.0",
+    "gn:asciiname":"Alferez San Martin",
+    "gn:country_code":"AR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866330,
+    "gn:latitude":-38.63281,
+    "gn:longitude":-62.53217,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alf\u00e9rez San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Venancio",
+        "Alf\u00e9rez San Mart\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866330
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0777b97e799e28ccbeed5db3cd2d5a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717863,
+            "locality_id":1209829399,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1209829399,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Alferez San Martin",
+    "wof:parent_id":1108717863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.53217,
+    -38.63281,
+    -62.53217,
+    -38.63281
+],
+  "geometry": {"coordinates":[-62.53217,-38.63281],"type":"Point"}
+}

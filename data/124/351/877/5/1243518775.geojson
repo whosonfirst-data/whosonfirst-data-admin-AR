@@ -1,0 +1,68 @@
+{
+  "id": 1243518775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.41667,-29.23333,-60.41667,-29.23333",
+    "geom:latitude":-29.23333,
+    "geom:longitude":-60.41667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82133.0",
+    "gn:asciiname":"La Sarnosa",
+    "gn:country_code":"AR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848742,
+    "gn:latitude":-29.23333,
+    "gn:longitude":-60.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Sarnosa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848742
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"cf9e34a6c0be0a9827c8cd4e91dcb06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718463,
+            "locality_id":1243518775,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1243518775,
+    "wof:lastmodified":1536701628,
+    "wof:name":"La Sarnosa",
+    "wof:parent_id":1108718463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.41667,
+    -29.23333,
+    -60.41667,
+    -29.23333
+],
+  "geometry": {"coordinates":[-60.41667,-29.23333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310605913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.46496,-33.86811,-63.46496,-33.86811",
+    "geom:latitude":-33.86811,
+    "geom:longitude":-63.46496,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14084.0",
+    "gn:asciiname":"Ruiz Diaz de Guzman",
+    "gn:country_code":"AR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838497,
+    "gn:latitude":-33.86811,
+    "gn:longitude":-63.46496,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ruiz D\u00edaz de Guzm\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421199897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838497
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"16d72c0863580d5b3f3354d49ccae690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421199897,
+            "locality_id":1310605913,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310605913,
+    "wof:lastmodified":1536772647,
+    "wof:name":"Ruiz Diaz de Guzman",
+    "wof:parent_id":421199897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.46496,
+    -33.86810999999999,
+    -63.46496,
+    -33.86810999999999
+],
+  "geometry": {"coordinates":[-63.46496,-33.86810999999999],"type":"Point"}
+}

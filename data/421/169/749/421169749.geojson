@@ -1,0 +1,78 @@
+{
+  "id": 421169749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43333,-34.63333,-58.43333,-34.63333",
+    "geom:latitude":-34.63333,
+    "geom:longitude":-58.43333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3434160,
+    "qs:gn_pop":0,
+    "qs:name":"Emilio Mitre",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Ciudad de Buenos Aires",
+    "qs:photos":300,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":300,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238578,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330600,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85668081,
+        102191577,
+        85632505,
+        421174285,
+        1109371863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3434160,
+        "gp:id":330600,
+        "qs:id":238578
+    },
+    "wof:country":"AR",
+    "wof:created":1459008822,
+    "wof:geomhash":"257d2b7e16d57f71a5612c489f362a0e",
+    "wof:hierarchy":[
+        {
+            "borough_id":1109371863,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "locality_id":421174285,
+            "neighbourhood_id":421169749,
+            "region_id":85668081
+        }
+    ],
+    "wof:id":421169749,
+    "wof:lastmodified":1531858333,
+    "wof:name":"Emilio Mitre",
+    "wof:parent_id":1109371863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43333,
+    -34.63333,
+    -58.43333,
+    -34.63333
+],
+  "geometry": {"coordinates":[-58.43333,-34.63333],"type":"Point"}
+}

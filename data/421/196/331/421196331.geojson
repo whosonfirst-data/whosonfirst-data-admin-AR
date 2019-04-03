@@ -1,0 +1,112 @@
+{
+  "id": 421196331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.58091,-27.3674,-55.58091,-27.3674",
+    "geom:latitude":-27.3674,
+    "geom:longitude":-55.58091,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:por_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sant\u2019 Ana"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3428455,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1044593,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332673,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428455,
+        "gp:id":332673,
+        "qs:id":1044593,
+        "wd:id":"Q591204",
+        "wk:page":"Santa Ana (Misiones)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009878,
+    "wof:geomhash":"59e40d222a37dbbb944f4fb77e0b57a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203247,
+            "locality_id":421196331,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421196331,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421203247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.58091,
+    -27.3674,
+    -55.58091,
+    -27.3674
+],
+  "geometry": {"coordinates":[-55.58091,-27.3674],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226543947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.62997,-34.60881,-59.62997,-34.60881",
+    "geom:latitude":-34.60881,
+    "geom:longitude":-59.62997,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6728.0",
+    "gn:asciiname":"Franklin",
+    "gn:country_code":"AR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3433879,
+    "gn:latitude":-34.60881,
+    "gn:longitude":-59.62997,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Franklin",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Franklin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433879
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a81cb58aa208fbf4f90823bd98ed45e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718089,
+            "locality_id":1226543947,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1226543947,
+    "wof:lastmodified":1537584824,
+    "wof:name":"Franklin",
+    "wof:parent_id":1108718089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.62996999999999,
+    -34.60881,
+    -59.62996999999999,
+    -34.60881
+],
+  "geometry": {"coordinates":[-59.62996999999999,-34.60881],"type":"Point"}
+}

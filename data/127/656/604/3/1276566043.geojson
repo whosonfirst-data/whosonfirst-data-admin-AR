@@ -1,0 +1,68 @@
+{
+  "id": 1276566043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.93333,-33.91667,-60.93333,-33.91667",
+    "geom:latitude":-33.91667,
+    "geom:longitude":-60.93333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6686.0",
+    "gn:asciiname":"Villa M. Pomar",
+    "gn:country_code":"AR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832670,
+    "gn:latitude":-33.91667,
+    "gn:longitude":-60.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Villa M. Pomar",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832670
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f85d80b52c0eaed588ebcde7ebdd705c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718077,
+            "locality_id":1276566043,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1276566043,
+    "wof:lastmodified":1536964204,
+    "wof:name":"Villa M. Pomar",
+    "wof:parent_id":1108718077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.93333000000001,
+    -33.91667,
+    -60.93333000000001,
+    -33.91667
+],
+  "geometry": {"coordinates":[-60.93333000000001,-33.91667],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421183127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.60896,-27.5131,-55.60896,-27.5131",
+    "geom:latitude":-27.5131,
+    "geom:longitude":-55.60896,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Cor\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Cerro Cor\u00e1"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435525,
+    "qs:gn_pop":1153,
+    "qs:name":"Cerro Cor\u00e1",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":962543,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467567,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421203247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435525,
+        "gp:id":467567,
+        "qs:id":962543,
+        "wd:id":"Q5064903",
+        "wk:page":"Cerro Cor\u00e1 (Misiones)"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009359,
+    "wof:geomhash":"2111b887dfe3ed38ffe0f92314092c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203247,
+            "locality_id":421183127,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421183127,
+    "wof:lastmodified":1527716491,
+    "wof:name":"Cerro Cor\u00e1",
+    "wof:parent_id":421203247,
+    "wof:placetype":"locality",
+    "wof:population":1153,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.60896,
+    -27.5131,
+    -55.60896,
+    -27.5131
+],
+  "geometry": {"coordinates":[-55.60896,-27.5131],"type":"Point"}
+}

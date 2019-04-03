@@ -1,0 +1,68 @@
+{
+  "id": 1276287745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.26667,-27.96667,-62.26667,-27.96667",
+    "geom:latitude":-27.96667,
+    "geom:longitude":-62.26667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86098.0",
+    "gn:asciiname":"Colonia Josefina",
+    "gn:country_code":"AR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860772,
+    "gn:latitude":-27.96667,
+    "gn:longitude":-62.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Josefina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860772
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"e1295c822060b954c9210cd725a98532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718491,
+            "locality_id":1276287745,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1276287745,
+    "wof:lastmodified":1536838897,
+    "wof:name":"Colonia Josefina",
+    "wof:parent_id":1108718491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.26667,
+    -27.96667,
+    -62.26667,
+    -27.96667
+],
+  "geometry": {"coordinates":[-62.26667,-27.96667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310380549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58623,-34.77904,-66.58623,-34.77904",
+    "geom:latitude":-34.77904,
+    "geom:longitude":-66.58623,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74042.0",
+    "gn:asciiname":"Navia",
+    "gn:country_code":"AR",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843381,
+    "gn:latitude":-34.77904,
+    "gn:longitude":-66.58623,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Navia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843381,
+        "wk:page":"Navia%2C_San_Luis"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"08ad345657a723e88c0cbecf5fa1d4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718443,
+            "locality_id":1310380549,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1310380549,
+    "wof:lastmodified":1537486318,
+    "wof:name":"Navia",
+    "wof:parent_id":1108718443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58623,
+    -34.77904,
+    -66.58623,
+    -34.77904
+],
+  "geometry": {"coordinates":[-66.58623,-34.77904],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276827049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36792,-27.03291,-65.36792,-27.03291",
+    "geom:latitude":-27.03291,
+    "geom:longitude":-65.36792,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90028.0",
+    "gn:asciiname":"Padilla",
+    "gn:country_code":"AR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842414,
+    "gn:latitude":-27.03291,
+    "gn:longitude":-65.36792,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Padilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421182825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842414
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"21faad5070e02f1179a8bff24f37f243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421182825,
+            "locality_id":1276827049,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1276827049,
+    "wof:lastmodified":1536612020,
+    "wof:name":"Padilla",
+    "wof:parent_id":421182825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36792,
+    -27.03291,
+    -65.36792,
+    -27.03291
+],
+  "geometry": {"coordinates":[-65.36792,-27.03291],"type":"Point"}
+}

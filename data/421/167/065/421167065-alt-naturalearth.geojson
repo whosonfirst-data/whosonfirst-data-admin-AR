@@ -1,0 +1,16 @@
+{
+  "id": 421167065,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-ar",
+    "src:geom":"naturalearth",
+    "wof:geomhash":"8b89b2ed145c17999b652e025cd7b606",
+    "wof:id":421167065
+},
+  "bbox": [
+    -67.56658410813026,
+    -28.066621481541176,
+    -67.56658410813026,
+    -28.066621481541176
+],
+  "geometry": {"coordinates":[-67.56658410813026,-28.06662148154118],"type":"Point"}
+}

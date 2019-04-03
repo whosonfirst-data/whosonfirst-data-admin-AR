@@ -1,0 +1,73 @@
+{
+  "id": 1360159139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35369,-48.42183,-67.35369,-48.42183",
+    "geom:latitude":-48.42183,
+    "geom:longitude":-67.35369,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"78042.0",
+    "gn:asciiname":"Florida Negra",
+    "gn:country_code":"AR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855491,
+    "gn:latitude":-48.42183,
+    "gn:longitude":-67.35369,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Florida Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Rio_Gallegos",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Florida Seca",
+        "Estancia Florida Negra",
+        "Florida Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421185323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855491
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"0d20d8858b5898b9f232873ef56e69ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185323,
+            "locality_id":1360159139,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":1360159139,
+    "wof:lastmodified":1537584877,
+    "wof:name":"Florida Negra",
+    "wof:parent_id":421185323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35369,
+    -48.42183,
+    -67.35369,
+    -48.42183
+],
+  "geometry": {"coordinates":[-67.35369,-48.42183],"type":"Point"}
+}

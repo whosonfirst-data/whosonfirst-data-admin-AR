@@ -1,0 +1,72 @@
+{
+  "id": 1343344949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.82399,-26.6798,-54.82399,-26.6798",
+    "geom:latitude":-26.6798,
+    "geom:longitude":-54.82399,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"54077.0",
+    "gn:asciiname":"Puerto Paranay",
+    "gn:country_code":"AR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429746,
+    "gn:latitude":-26.6798,
+    "gn:longitude":-54.82399,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Puerto Paranay",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paranay",
+        "Puerto Paranay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429746
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d49090d8c6639747b3fa33686527511d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718373,
+            "locality_id":1343344949,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":1343344949,
+    "wof:lastmodified":1537584817,
+    "wof:name":"Puerto Paranay",
+    "wof:parent_id":1108718373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.82399,
+    -26.6798,
+    -54.82399,
+    -26.6798
+],
+  "geometry": {"coordinates":[-54.82399,-26.6798],"type":"Point"}
+}

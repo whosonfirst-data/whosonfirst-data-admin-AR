@@ -1,0 +1,100 @@
+{
+  "id": 421183121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56089,-26.80215,-59.56089,-26.80215",
+    "geom:latitude":-26.80215,
+    "geom:longitude":-59.56089,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "name:dut_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "name:eng_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "name:por_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "name:spa_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "name:swe_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435688,
+    "qs:gn_pop":2123,
+    "qs:name":"Capit\u00e1n Solari",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":962514,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464945,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435688,
+        "gp:id":464945,
+        "qs:id":962514,
+        "wd:id":"Q1579019",
+        "wk:page":"Capit\u00e1n Solari, Chaco"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009359,
+    "wof:geomhash":"5945607e4928e72d7e9d04c7496cd916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718227,
+            "locality_id":421183121,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421183121,
+    "wof:lastmodified":1527716492,
+    "wof:name":"Capit\u00e1n Solari",
+    "wof:parent_id":1108718227,
+    "wof:placetype":"locality",
+    "wof:population":2123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56089,
+    -26.80215,
+    -59.56089,
+    -26.80215
+],
+  "geometry": {"coordinates":[-59.56089,-26.80215],"type":"Point"}
+}

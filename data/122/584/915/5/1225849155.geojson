@@ -1,0 +1,68 @@
+{
+  "id": 1225849155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.43378,-36.30483,-59.43378,-36.30483",
+    "geom:latitude":-36.30483,
+    "geom:longitude":-59.43378,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6049.0",
+    "gn:asciiname":"Miramonte",
+    "gn:country_code":"AR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430667,
+    "gn:latitude":-36.30483,
+    "gn:longitude":-59.43378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Miramonte",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430667
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"de9d1fd9155d6a3f1b6d04eeca8610ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717861,
+            "locality_id":1225849155,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1225849155,
+    "wof:lastmodified":1537008000,
+    "wof:name":"Miramonte",
+    "wof:parent_id":1108717861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.43378000000001,
+    -36.30483,
+    -59.43378000000001,
+    -36.30483
+],
+  "geometry": {"coordinates":[-59.43378000000001,-36.30483],"type":"Point"}
+}

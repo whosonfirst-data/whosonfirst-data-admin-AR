@@ -1,0 +1,81 @@
+{
+  "id": 421166775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.03508,-35.00014,-61.03508,-35.00014",
+    "geom:latitude":-35.00014,
+    "geom:longitude":-61.03508,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Los Toldos"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855043,
+    "qs:gn_pop":0,
+    "qs:name":"Gral Viamonte",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":273153,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465455,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855043,
+        "gp:id":465455,
+        "qs:id":273153,
+        "wd:id":"Q644027",
+        "wk:page":"General Viamonte Partido"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008702,
+    "wof:geomhash":"010fb8ae5a15f6c9db0b027371a5a643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717971,
+            "locality_id":421166775,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421166775,
+    "wof:lastmodified":1501268874,
+    "wof:name":"Gral Viamonte",
+    "wof:parent_id":1108717971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.03508,
+    -35.00014,
+    -61.03508,
+    -35.00014
+],
+  "geometry": {"coordinates":[-61.03508,-35.00014],"type":"Point"}
+}

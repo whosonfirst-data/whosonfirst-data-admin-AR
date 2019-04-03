@@ -1,0 +1,72 @@
+{
+  "id": 1192974873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.13563,-27.38905,-64.13563,-27.38905",
+    "geom:latitude":-27.38905,
+    "geom:longitude":-64.13563,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86035.0",
+    "gn:asciiname":"Alli Veremos",
+    "gn:country_code":"AR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3866240,
+    "gn:latitude":-27.38905,
+    "gn:longitude":-64.13563,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"All\u00ed Veremos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahi Veremos",
+        "All\u00ed Veremos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421184161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3866240
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bf4ebfcd43c5e3e666ec92b078f0d6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421184161,
+            "locality_id":1192974873,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1192974873,
+    "wof:lastmodified":1537584903,
+    "wof:name":"Alli Veremos",
+    "wof:parent_id":421184161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.13563,
+    -27.38905,
+    -64.13563,
+    -27.38905
+],
+  "geometry": {"coordinates":[-64.13563000000001,-27.38905],"type":"Point"}
+}

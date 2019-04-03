@@ -1,0 +1,68 @@
+{
+  "id": 1260373253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.38349,-37.49885,-70.38349,-37.49885",
+    "geom:latitude":-37.49885,
+    "geom:longitude":-70.38349,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"58084.0",
+    "gn:asciiname":"Tres Chorros",
+    "gn:country_code":"AR",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3833834,
+    "gn:latitude":-37.49885,
+    "gn:longitude":-70.38349,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tres Chorros",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421169775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833834
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b86eb4dfd78dcb4699962fb41967c0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169775,
+            "locality_id":1260373253,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":1260373253,
+    "wof:lastmodified":1537085463,
+    "wof:name":"Tres Chorros",
+    "wof:parent_id":421169775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.38349000000002,
+    -37.49885,
+    -70.38349000000002,
+    -37.49885
+],
+  "geometry": {"coordinates":[-70.38349000000002,-37.49885],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310203963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.58588,-29.92697,-63.58588,-29.92697",
+    "geom:latitude":-29.92697,
+    "geom:longitude":-63.58588,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14112.0",
+    "gn:asciiname":"Eufrasio Loza",
+    "gn:country_code":"AR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855716,
+    "gn:latitude":-29.92697,
+    "gn:longitude":-63.58588,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eufrasio Loza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candelaria Norte",
+        "Eufrasio Loza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        1108718165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855716
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2a07d2299d0542897ece4a593ebdbb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718165,
+            "locality_id":1310203963,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1310203963,
+    "wof:lastmodified":1537584878,
+    "wof:name":"Eufrasio Loza",
+    "wof:parent_id":1108718165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.58588,
+    -29.92697,
+    -63.58588,
+    -29.92697
+],
+  "geometry": {"coordinates":[-63.58588,-29.92697],"type":"Point"}
+}

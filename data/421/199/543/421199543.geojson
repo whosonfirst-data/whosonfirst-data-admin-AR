@@ -1,0 +1,130 @@
+{
+  "id": 421199543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.70347,-27.03786,-58.70347,-27.03786",
+    "geom:latitude":-27.03786,
+    "geom:longitude":-58.70347,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u840a\u5967\u5167\u85a9"
+    ],
+    "name:deu_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:dut_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:eng_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:fra_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:fre_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:ger_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:ita_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:nld_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:por_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:spa_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:swe_x_preferred":[
+        "La Leonesa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041b\u0435\u043e\u043d\u0435\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u0648\u0646\u06cc\u0633\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u840a\u5967\u5167\u85a9"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3432355,
+    "qs:gn_pop":10067,
+    "qs:name":"La Leonesa",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":194232,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332797,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421185063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432355,
+        "gp:id":332797,
+        "qs:id":194232,
+        "wd:id":"Q1657423",
+        "wk:page":"La Leonesa"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009993,
+    "wof:geomhash":"0fd91b43f109bf384fea0078b895073d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185063,
+            "locality_id":421199543,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421199543,
+    "wof:lastmodified":1527716413,
+    "wof:name":"La Leonesa",
+    "wof:parent_id":421185063,
+    "wof:placetype":"locality",
+    "wof:population":10067,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.70347,
+    -27.03786,
+    -58.70347,
+    -27.03786
+],
+  "geometry": {"coordinates":[-58.70347,-27.03786],"type":"Point"}
+}

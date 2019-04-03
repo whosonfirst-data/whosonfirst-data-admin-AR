@@ -1,0 +1,71 @@
+{
+  "id": 1310716069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55596,-34.53643,-58.55596,-34.53643",
+    "geom:latitude":-34.53643,
+    "geom:longitude":-58.55596,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6371.0",
+    "gn:asciiname":"Villa Gregoria Matorras",
+    "gn:country_code":"AR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147725,
+    "gn:latitude":-34.53643,
+    "gn:longitude":-58.55596,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Villa Gregoria Matorras",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Gregoria Matorras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147725
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"555151410e9edd732fd6cbe9fd50be0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717969,
+            "locality_id":1310716069,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310716069,
+    "wof:lastmodified":1537584908,
+    "wof:name":"Villa Gregoria Matorras",
+    "wof:parent_id":1108717969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55596,
+    -34.53643,
+    -58.55596,
+    -34.53643
+],
+  "geometry": {"coordinates":[-58.55596,-34.53643],"type":"Point"}
+}

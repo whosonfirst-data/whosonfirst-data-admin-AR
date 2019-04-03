@@ -1,0 +1,68 @@
+{
+  "id": 1276322775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4,-22.46667,-65.4,-22.46667",
+    "geom:latitude":-22.46667,
+    "geom:longitude":-65.4,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"38112.0",
+    "gn:asciiname":"Cienaguilla",
+    "gn:country_code":"AR",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861106,
+    "gn:latitude":-22.46667,
+    "gn:longitude":-65.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cienaguilla",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Jujuy",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668041,
+        421174419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861106
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a4b70dc12e7ad0e53fa452bdb680a03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421174419,
+            "locality_id":1276322775,
+            "region_id":85668041
+        }
+    ],
+    "wof:id":1276322775,
+    "wof:lastmodified":1536793202,
+    "wof:name":"Cienaguilla",
+    "wof:parent_id":421174419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4,
+    -22.46667,
+    -65.4,
+    -22.46667
+],
+  "geometry": {"coordinates":[-65.40000000000001,-22.46667],"type":"Point"}
+}

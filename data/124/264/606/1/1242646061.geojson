@@ -1,0 +1,68 @@
+{
+  "id": 1242646061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03891,-27.20889,-63.03891,-27.20889",
+    "geom:latitude":-27.20889,
+    "geom:longitude":-63.03891,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86119.0",
+    "gn:asciiname":"Amama",
+    "gn:country_code":"AR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865964,
+    "gn:latitude":-27.20889,
+    "gn:longitude":-63.03891,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amam\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865964
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"14fab57122e57d3a937535e4ca7e2e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718497,
+            "locality_id":1242646061,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1242646061,
+    "wof:lastmodified":1536965125,
+    "wof:name":"Amama",
+    "wof:parent_id":1108718497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03891,
+    -27.20889,
+    -63.03891,
+    -27.20889
+],
+  "geometry": {"coordinates":[-63.03891,-27.20889],"type":"Point"}
+}

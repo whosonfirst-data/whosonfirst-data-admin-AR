@@ -1,0 +1,75 @@
+{
+  "id": 421203507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7472505,-42.731792,-71.7472505,-42.731792",
+    "geom:latitude":-42.731792,
+    "geom:longitude":-71.747251,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Lago Verde",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":192,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":192,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":232463,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040205,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56040205,
+        "qs:id":232463
+    },
+    "wof:country":"AR",
+    "wof:created":1459010154,
+    "wof:geomhash":"663b6549dd1adf2251846228996bd703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170127,
+            "locality_id":421203507,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421203507,
+    "wof:lastmodified":1499924955,
+    "wof:name":"Lago Verde",
+    "wof:parent_id":421170127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7472505,
+    -42.731792,
+    -71.7472505,
+    -42.731792
+],
+  "geometry": {"coordinates":[-71.74725050000001,-42.731792],"type":"Point"}
+}

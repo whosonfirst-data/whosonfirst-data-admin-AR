@@ -1,0 +1,100 @@
+{
+  "id": 421169677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-26.78333,-65.28333,-26.78333",
+    "geom:latitude":-26.78333,
+    "geom:longitude":-65.28333,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cevil Redondo"
+    ],
+    "name:dut_x_preferred":[
+        "Cevil Redondo"
+    ],
+    "name:eng_x_preferred":[
+        "Cebil Redondo"
+    ],
+    "name:nld_x_preferred":[
+        "Cevil Redondo"
+    ],
+    "name:spa_x_preferred":[
+        "Cebil Redondo"
+    ],
+    "name:swe_x_preferred":[
+        "Cevil Redondo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0431\u0456\u043b\u044c-\u0420\u0435\u0434\u043e\u043d\u0434\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3861958,
+    "qs:gn_pop":0,
+    "qs:name":"Cevil Redondo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Tucum\u00e1n",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228680,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465008,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        421204063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861958,
+        "gp:id":465008,
+        "qs:id":228680,
+        "wd:id":"Q2927134",
+        "wk:page":"Cevil Redondo"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008820,
+    "wof:geomhash":"c7a625b2183bf855df09b77f2e3b7359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204063,
+            "locality_id":421169677,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":421169677,
+    "wof:lastmodified":1527716174,
+    "wof:name":"Cevil Redondo",
+    "wof:parent_id":421204063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -26.78333,
+    -65.28333,
+    -26.78333
+],
+  "geometry": {"coordinates":[-65.28333000000001,-26.78333],"type":"Point"}
+}

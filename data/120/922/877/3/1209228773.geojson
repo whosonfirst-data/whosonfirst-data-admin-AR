@@ -1,0 +1,62 @@
+{
+  "id": 1209228773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.64007,-38.16236,-57.64007,-38.16236",
+    "geom:latitude":-38.16236,
+    "geom:longitude":-57.64007,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6357.0",
+    "gn:asciiname":"La Estafeta",
+    "gn:country_code":"AR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3432598,
+    "gn:latitude":-38.16236,
+    "gn:longitude":-57.64007,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Estafeta",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3432598
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d94f6c37cfe705adacb1d3a746ff59f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209228773
+        }
+    ],
+    "wof:id":1209228773,
+    "wof:lastmodified":1536293707,
+    "wof:name":"La Estafeta",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.64007,
+    -38.16236,
+    -57.64007,
+    -38.16236
+],
+  "geometry": {"coordinates":[-57.64007,-38.16236],"type":"Point"}
+}

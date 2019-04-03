@@ -1,0 +1,68 @@
+{
+  "id": 1259458629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69089,-32.07296,-68.69089,-32.07296",
+    "geom:latitude":-32.07296,
+    "geom:longitude":-68.69089,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"70105.0",
+    "gn:asciiname":"Cienaguita",
+    "gn:country_code":"AR",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3861096,
+    "gn:latitude":-32.07296,
+    "gn:longitude":-68.69089,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cienaguita",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Juan",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        1108718435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3861096
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d0038f0f8bfed351416c2ab22dd54264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718435,
+            "locality_id":1259458629,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1259458629,
+    "wof:lastmodified":1536894302,
+    "wof:name":"Cienaguita",
+    "wof:parent_id":1108718435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69089,
+    -32.07295999999999,
+    -68.69089,
+    -32.07295999999999
+],
+  "geometry": {"coordinates":[-68.69089,-32.07295999999999],"type":"Point"}
+}

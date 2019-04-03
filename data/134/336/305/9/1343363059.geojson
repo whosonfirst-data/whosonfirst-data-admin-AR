@@ -1,0 +1,71 @@
+{
+  "id": 1343363059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.42983,-34.69676,-58.42983,-34.69676",
+    "geom:latitude":-34.69676,
+    "geom:longitude":-58.42983,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6434.0",
+    "gn:asciiname":"Caraza",
+    "gn:country_code":"AR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435666,
+    "gn:latitude":-34.69676,
+    "gn:longitude":-58.42983,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Caraza",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caraza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421179647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435666
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f6eddc4ad8b36e67767e069e904d8d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421179647,
+            "locality_id":1343363059,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343363059,
+    "wof:lastmodified":1537584828,
+    "wof:name":"Caraza",
+    "wof:parent_id":421179647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.42983,
+    -34.69676,
+    -58.42983,
+    -34.69676
+],
+  "geometry": {"coordinates":[-58.42983,-34.69676],"type":"Point"}
+}

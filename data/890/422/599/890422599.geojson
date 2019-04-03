@@ -1,0 +1,84 @@
+{
+  "id": 890422599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.24585,-27.67069,-55.24585,-27.67069",
+    "geom:latitude":-27.67069,
+    "geom:longitude":-55.24585,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":2256,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gobernador L\u00f3pez"
+    ],
+    "name:eng_x_preferred":[
+        "Gobernador L\u00f3pez"
+    ],
+    "name:por_x_preferred":[
+        "Gobernador L\u00f3pez"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernador L\u00f3pez"
+    ],
+    "name:swe_x_preferred":[
+        "Picada Gobernador L\u00f3pez"
+    ],
+    "name:unk_x_variant":[
+        "Gobernador L\u00f3pez"
+    ],
+    "qs:name":"Picada Gobernador L\u00f3pez",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        1108718371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430015,
+        "qs:id":583256,
+        "wd:id":"Q519881"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051455,
+    "wof:geomhash":"33908d41a178505c1995188d4e40e97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718371,
+            "locality_id":890422599,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":890422599,
+    "wof:lastmodified":1513889350,
+    "wof:name":"Picada Gobernador L\u00f3pez",
+    "wof:parent_id":1108718371,
+    "wof:placetype":"locality",
+    "wof:population":2256,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.24585,
+    -27.67069,
+    -55.24585,
+    -27.67069
+],
+  "geometry": {"coordinates":[-55.24585,-27.67069],"type":"Point"}
+}

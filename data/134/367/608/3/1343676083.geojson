@@ -1,0 +1,71 @@
+{
+  "id": 1343676083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43114,-34.77694,-58.43114,-34.77694",
+    "geom:latitude":-34.77694,
+    "geom:longitude":-58.43114,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6490.0",
+    "gn:asciiname":"Santa Catalina",
+    "gn:country_code":"AR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3428414,
+    "gn:latitude":-34.77694,
+    "gn:longitude":-58.43114,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Santa Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Catalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        421204047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3428414
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"6dc0657257ca03d9cb4e9e5b6bfd1455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204047,
+            "locality_id":1343676083,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1343676083,
+    "wof:lastmodified":1537584815,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":421204047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43114,
+    -34.77694,
+    -58.43114,
+    -34.77694
+],
+  "geometry": {"coordinates":[-58.43114,-34.77694],"type":"Point"}
+}

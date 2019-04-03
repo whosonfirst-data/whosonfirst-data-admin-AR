@@ -1,0 +1,232 @@
+{
+  "id": 421191539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55318,-34.6551,-58.55318,-34.6551",
+    "geom:latitude":-34.6551,
+    "geom:longitude":-58.55318,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u064a\u062e\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u0561\u0574\u0578\u057d \u0544\u0565\u056d\u056b\u0561"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u062e\u06cc\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ae\u09cb\u09b8 \u09ae\u09c7\u09b9\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u83ab\u65af\u6885\u5e0c\u4e9e"
+    ],
+    "name:dan_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:dut_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:epo_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u062e\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10db\u10dd\u10e1-\u10db\u10d4\u10ee\u10d8\u10d0"
+    ],
+    "name:glg_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03ac\u03bc\u03bf\u03c2 \u039c\u03ad\u03c7\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0aae\u0acb\u0ab8 \u0aae\u0ac7\u0a9c\u0abf\u0aaf\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092e\u094b\u0938 \u092e\u0940\u0939\u093f\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30e2\u30b9\u30fb\u30e1\u30d2\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0cae\u0ccb\u0cb8\u0ccd \u0cae\u0cc6\u0c9c\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10dd\u10e1-\u10db\u10d4\u10ee\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubaa8\uc2a4 \uba54\ud788\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Ramosmehija"
+    ],
+    "name:lit_x_preferred":[
+        "Ramos Mechijas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u092e\u094b\u0938 \u092e\u0947\u091c\u0947\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Ramos Mejia"
+    ],
+    "name:nah_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:nld_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:nob_x_preferred":[
+        "Ramos Mejia"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u062e\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:rum_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u0441-\u041c\u0435\u0445\u0438\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dcf\u0db8\u0ddd\u0dc3\u0dca \u0db8\u0dd9\u0da2\u0dd2\u0dba\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0bae\u0bcb\u0bb8\u0bcd \u0bae\u0bc6\u0b9c\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c2e\u0c4b\u0c38\u0c4d \u0c2e\u0c46\u0c1c\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e21\u0e2d\u0e2a \u0e40\u0e21\u0e04\u0e34\u0e2d\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Ramos Mejaio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u0441-\u041c\u0435\u0445\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "R. Mej\u00eda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u06cc\u062c\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ramos Mejia"
+    ],
+    "name:war_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u83ab\u65af\u6885\u5e0c\u4e9e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3429617,
+    "qs:gn_pop":0,
+    "qs:name":"Ramos Mej\u00eda",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":427,
+    "qs:photos_1k":87,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":427,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1142063,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466330,
+    "src:geom":"quattroshapes",
+    "wd:elevation":26.0,
+    "wd:latitude":-34.65,
+    "wd:longitude":-58.566667,
+    "wd:wordcount":597,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429617,
+        "gp:id":466330,
+        "qs:id":1142063,
+        "wd:id":"Q2076464",
+        "wk:page":"Ramos Mej\u00eda"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009696,
+    "wof:geomhash":"5c34402a201e2fcf1ab7d6089a527344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717991,
+            "locality_id":421191539,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421191539,
+    "wof:lastmodified":1527716381,
+    "wof:name":"Ramos Mej\u00eda",
+    "wof:parent_id":1108717991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55318,
+    -34.6551,
+    -58.55318,
+    -34.6551
+],
+  "geometry": {"coordinates":[-58.55318,-34.6551],"type":"Point"}
+}

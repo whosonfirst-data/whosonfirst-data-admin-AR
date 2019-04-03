@@ -1,0 +1,111 @@
+{
+  "id": 421193791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22052,-28.39455,-66.22052,-28.39455",
+    "geom:latitude":-28.39455,
+    "geom:longitude":-66.22052,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pom\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Pom\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Villa de Pom\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Pom\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Pom\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Pom\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Villa de Pom\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Pom\u00e1n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0434\u0435-\u041f\u043e\u043c\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Peman"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3840809,
+    "qs:gn_pop":3387,
+    "qs:name":"Pom\u00e1n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Catamarca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":291143,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466144,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        1108718155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840809,
+        "gp:id":466144,
+        "qs:id":291143,
+        "wd:id":"Q2437304",
+        "wk:page":"Villa de Pom\u00e1n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009783,
+    "wof:geomhash":"ceef55ebb509f0ce21117e121c927f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718155,
+            "locality_id":421193791,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":421193791,
+    "wof:lastmodified":1513889352,
+    "wof:name":"Pom\u00e1n",
+    "wof:parent_id":1108718155,
+    "wof:placetype":"locality",
+    "wof:population":3387,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22052,
+    -28.39455,
+    -66.22052,
+    -28.39455
+],
+  "geometry": {"coordinates":[-66.22051999999999,-28.39455],"type":"Point"}
+}

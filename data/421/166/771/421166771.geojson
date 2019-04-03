@@ -1,0 +1,133 @@
+{
+  "id": 421166771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.97977,-27.2077,-54.97977,-27.2077",
+    "geom:latitude":-27.2077,
+    "geom:longitude":-54.97977,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u574e\u6ce2"
+    ],
+    "name:deu_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:dut_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:ger_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:pol_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:por_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:slk_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:slo_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u574e\u6ce2"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435789,
+    "qs:gn_pop":12040,
+    "qs:name":"Campo Grande",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":272415,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467149,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421183163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435789,
+        "gp:id":467149,
+        "qs:id":272415,
+        "wd:id":"Q588681",
+        "wk:page":"Campo Grande, Misiones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008702,
+    "wof:geomhash":"11baa1e81f494ef9cd063b7edcddf1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183163,
+            "locality_id":421166771,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421166771,
+    "wof:lastmodified":1527716104,
+    "wof:name":"Campo Grande",
+    "wof:parent_id":421183163,
+    "wof:placetype":"locality",
+    "wof:population":12040,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.97977,
+    -27.2077,
+    -54.97977,
+    -27.2077
+],
+  "geometry": {"coordinates":[-54.97977,-27.2077],"type":"Point"}
+}

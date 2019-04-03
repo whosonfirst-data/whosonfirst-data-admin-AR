@@ -1,0 +1,68 @@
+{
+  "id": 1259369367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.12768,-33.60098,-69.12768,-33.60098",
+    "geom:latitude":-33.60098,
+    "geom:longitude":-69.12768,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50119.0",
+    "gn:asciiname":"Colonia Las Rosas",
+    "gn:country_code":"AR",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860758,
+    "gn:latitude":-33.60098,
+    "gn:longitude":-69.12768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Las Rosas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421171485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860758
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1093fa008040506ea25b2b6d34884a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171485,
+            "locality_id":1259369367,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1259369367,
+    "wof:lastmodified":1537021653,
+    "wof:name":"Colonia Las Rosas",
+    "wof:parent_id":421171485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.12768,
+    -33.60098,
+    -69.12768,
+    -33.60098
+],
+  "geometry": {"coordinates":[-69.12768,-33.60098],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260038831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.45916,-33.33453,-60.45916,-33.33453",
+    "geom:latitude":-33.33453,
+    "geom:longitude":-60.45916,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82028.0",
+    "gn:asciiname":"Rueda",
+    "gn:country_code":"AR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3838508,
+    "gn:latitude":-33.33453,
+    "gn:longitude":-60.45916,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rueda",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838508
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"856e0e3d34004167f9798099544c717b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171517,
+            "locality_id":1260038831,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1260038831,
+    "wof:lastmodified":1537050377,
+    "wof:name":"Rueda",
+    "wof:parent_id":421171517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.45916,
+    -33.33453,
+    -60.45916,
+    -33.33453
+],
+  "geometry": {"coordinates":[-60.45916,-33.33453],"type":"Point"}
+}

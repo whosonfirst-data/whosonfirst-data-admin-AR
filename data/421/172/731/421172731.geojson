@@ -1,0 +1,133 @@
+{
+  "id": 421172731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.745,-32.74139,-60.745,-32.74139",
+    "geom:latitude":-32.74139,
+    "geom:longitude":-60.745,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:eng_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u0646\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:fre_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:ita_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30ed\u30ec\u30f3\u30bd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub85c\ub80c\uc18c"
+    ],
+    "name:lit_x_preferred":[
+        "San Lorensas"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u0646\u0633\u0648"
+    ],
+    "name:por_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0446\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3948970,
+    "qs:gn_pop":0,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":727,
+    "qs:photos_1k":147,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":727,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1319943,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332479,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":270,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421169771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948970,
+        "gp:id":332479,
+        "qs:id":1319943,
+        "wd:id":"Q52546",
+        "wk:page":"San Lorenzo, Santa Fe"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008953,
+    "wof:geomhash":"fcfa63c63ea6b313570d2b07e9a6f030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421169771,
+            "locality_id":421172731,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421172731,
+    "wof:lastmodified":1527716300,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421169771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.745,
+    -32.74139,
+    -60.745,
+    -32.74139
+],
+  "geometry": {"coordinates":[-60.745,-32.74139],"type":"Point"}
+}

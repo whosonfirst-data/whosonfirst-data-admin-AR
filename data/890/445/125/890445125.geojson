@@ -1,0 +1,96 @@
+{
+  "id": 890445125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.01356,-36.34905,-68.01356,-36.34905",
+    "geom:latitude":-36.34905,
+    "geom:longitude":-68.01356,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":954,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "La Humada"
+    ],
+    "name:eng_x_preferred":[
+        "La Humada"
+    ],
+    "name:fre_x_preferred":[
+        "La Humada"
+    ],
+    "name:ger_x_preferred":[
+        "La Humada"
+    ],
+    "name:por_x_preferred":[
+        "La Humada"
+    ],
+    "name:spa_x_preferred":[
+        "La Humada"
+    ],
+    "name:swe_x_preferred":[
+        "La Humada"
+    ],
+    "name:unk_x_variant":[
+        "La Ahumada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06c1\u0648\u0645\u0627\u0688\u0627"
+    ],
+    "qs:name":"La Humada",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3850732,
+        "gp:id":332596,
+        "qs:id":1046911,
+        "wd:id":"Q9018644",
+        "wk:page":"La Humada"
+    },
+    "wof:country":"AR",
+    "wof:created":1469052498,
+    "wof:geomhash":"60c57d2180dc1b1963b2ffcc0efce29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718301,
+            "locality_id":890445125,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":890445125,
+    "wof:lastmodified":1527792874,
+    "wof:name":"La Humada",
+    "wof:parent_id":1108718301,
+    "wof:placetype":"locality",
+    "wof:population":954,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01356,
+    -36.34905,
+    -68.01356,
+    -36.34905
+],
+  "geometry": {"coordinates":[-68.01356,-36.34905],"type":"Point"}
+}

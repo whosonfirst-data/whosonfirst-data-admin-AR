@@ -1,0 +1,96 @@
+{
+  "id": 421185427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88927,-33.56542,-62.88927,-33.56542",
+    "geom:latitude":-33.56542,
+    "geom:longitude":-62.88927,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Canals"
+    ],
+    "name:eng_x_preferred":[
+        "Canals"
+    ],
+    "name:por_x_preferred":[
+        "Canals"
+    ],
+    "name:spa_x_preferred":[
+        "Canals"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b\u0441"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3862883,
+    "qs:gn_pop":8343,
+    "qs:name":"Canals",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":895301,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467153,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":5919,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421203253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862883,
+        "gp:id":467153,
+        "qs:id":895301,
+        "wd:id":"Q2594504"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009443,
+    "wof:geomhash":"3efda473a1bc3acbcc638a6058da204c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203253,
+            "locality_id":421185427,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421185427,
+    "wof:lastmodified":1527726510,
+    "wof:name":"Canals",
+    "wof:parent_id":421203253,
+    "wof:placetype":"locality",
+    "wof:population":8343,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88927,
+    -33.56542,
+    -62.88927,
+    -33.56542
+],
+  "geometry": {"coordinates":[-62.88927,-33.56542],"type":"Point"}
+}

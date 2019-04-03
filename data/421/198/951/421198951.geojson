@@ -1,0 +1,95 @@
+{
+  "id": 421198951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.9203,-34.34093,-64.9203,-34.34093",
+    "geom:latitude":-34.34093,
+    "geom:longitude":-64.9203,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Villa Valeria"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Valeria"
+    ],
+    "name:por_x_preferred":[
+        "Villa Valeria"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Valeria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0412\u0430\u043b\u0435\u0440\u0456\u044f"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832602,
+    "qs:gn_pop":2525,
+    "qs:name":"Villa Valeria",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212299,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467469,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421188041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832602,
+        "gp:id":467469,
+        "qs:id":1212299,
+        "wd:id":"Q9093936"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009967,
+    "wof:geomhash":"e5ff1bb1f8894c3fd85362471b19c2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188041,
+            "locality_id":421198951,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421198951,
+    "wof:lastmodified":1513889591,
+    "wof:name":"Villa Valeria",
+    "wof:parent_id":421188041,
+    "wof:placetype":"locality",
+    "wof:population":2525,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.9203,
+    -34.34093,
+    -64.9203,
+    -34.34093
+],
+  "geometry": {"coordinates":[-64.9203,-34.34093],"type":"Point"}
+}

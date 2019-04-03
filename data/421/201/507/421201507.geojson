@@ -1,0 +1,100 @@
+{
+  "id": 421201507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.33691,-35.38796,-57.33691,-35.38796",
+    "geom:latitude":-35.38796,
+    "geom:longitude":-57.33691,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ver\u00f3nica"
+    ],
+    "name:eng_x_preferred":[
+        "Ver\u00f3nica"
+    ],
+    "name:epo_x_preferred":[
+        "Veronika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ed\u30cb\u30ab"
+    ],
+    "name:nld_x_preferred":[
+        "Ver\u00f3nica"
+    ],
+    "name:spa_x_preferred":[
+        "Ver\u00f3nica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u043e\u043d\u0456\u043a\u0430"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427511,
+    "qs:gn_pop":0,
+    "qs:name":"Ver\u00f3nica",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":211739,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467076,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":465,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427511,
+        "gp:id":467076,
+        "qs:id":211739,
+        "wd:id":"Q2397551",
+        "wk:page":"Ver\u00f3nica, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010074,
+    "wof:geomhash":"0a81d87810663a7d5a25542668c0e69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718065,
+            "locality_id":421201507,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421201507,
+    "wof:lastmodified":1527716437,
+    "wof:name":"Ver\u00f3nica",
+    "wof:parent_id":1108718065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.33691,
+    -35.38796,
+    -57.33691,
+    -35.38796
+],
+  "geometry": {"coordinates":[-57.33691,-35.38796],"type":"Point"}
+}

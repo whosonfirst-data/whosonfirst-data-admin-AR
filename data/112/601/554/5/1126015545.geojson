@@ -1,0 +1,100 @@
+{
+  "id": 1126015545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.985,-31.23101,-59.985,-31.23101",
+    "geom:latitude":-31.23101,
+    "geom:longitude":-59.985,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5375,
+    "gn:population":5375,
+    "iso:country":"AR",
+    "lbl:latitude":-31.23101,
+    "lbl:longitude":-59.985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Villa Hernandarias"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Hernandarias"
+    ],
+    "name:por_x_preferred":[
+        "Hernandarias"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Hernandarias"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Hernandarias"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0415\u0440\u043d\u0430\u043d\u0434\u0430\u0440'\u044f\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Hernandarias"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3427420,
+    "qs_pg:gn_pop":5375,
+    "qs_pg:name":"Villa Hernandarias",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":583204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421171467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427420,
+        "qs_pg:id":583204,
+        "wd:id":"Q7930352"
+    },
+    "wof:country":"AR",
+    "wof:created":1497300525,
+    "wof:geomhash":"f8163c289abf7410b2c97c5a635b3bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171467,
+            "locality_id":1126015545,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1126015545,
+    "wof:lastmodified":1553816702,
+    "wof:name":"Villa Hernandarias",
+    "wof:parent_id":421171467,
+    "wof:placetype":"locality",
+    "wof:population":5375,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.985,
+    -31.23101,
+    -59.985,
+    -31.23101
+],
+  "geometry": {"coordinates":[-59.985,-31.23101],"type":"Point"}
+}

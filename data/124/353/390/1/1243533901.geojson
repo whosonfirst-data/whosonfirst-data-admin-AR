@@ -1,0 +1,72 @@
+{
+  "id": 1243533901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14015,-35.79463,-70.14015,-35.79463",
+    "geom:latitude":-35.79463,
+    "geom:longitude":-70.14015,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50077.0",
+    "gn:asciiname":"Las Loicas",
+    "gn:country_code":"AR",
+    "gn:dem":1614,
+    "gn:elevation":"1608.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10375647,
+    "gn:latitude":-35.79463,
+    "gn:longitude":-70.14015,
+    "gn:modification_date":"2015-07-06",
+    "gn:name":"Las Loicas",
+    "gn:population":85,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421188043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375647
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"676374029a84eac25789a255c14655c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188043,
+            "locality_id":1243533901,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1243533901,
+    "wof:lastmodified":1536679507,
+    "wof:name":"Las Loicas",
+    "wof:parent_id":421188043,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14015,
+    -35.79463,
+    -70.14015,
+    -35.79463
+],
+  "geometry": {"coordinates":[-70.14015000000001,-35.79463],"type":"Point"}
+}

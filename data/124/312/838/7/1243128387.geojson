@@ -1,0 +1,67 @@
+{
+  "id": 1243128387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45729,-53.29799,-68.45729,-53.29799",
+    "geom:latitude":-53.29799,
+    "geom:longitude":-68.45729,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"94007.0",
+    "gn:asciiname":"San Sebastian",
+    "gn:country_code":"AR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836558,
+    "gn:latitude":-53.29799,
+    "gn:longitude":-68.45729,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"San Sebasti\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Ushuaia",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Sebasti\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3836558
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c21447406e21b02162c1496d5e30fada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1243128387,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243128387,
+    "wof:lastmodified":1537584840,
+    "wof:name":"San Sebastian",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45729,
+    -53.29799000000001,
+    -68.45729,
+    -53.29799000000001
+],
+  "geometry": {"coordinates":[-68.45729,-53.29799000000001],"type":"Point"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 421181513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26869,-31.00919,-64.26869,-31.00919",
+    "geom:latitude":-31.00919,
+    "geom:longitude":-64.26869,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Granja"
+    ],
+    "name:deu_x_preferred":[
+        "La Granja"
+    ],
+    "name:eus_x_preferred":[
+        "La Granja"
+    ],
+    "name:fra_x_preferred":[
+        "La Granja"
+    ],
+    "name:glg_x_preferred":[
+        "La Granja"
+    ],
+    "name:hun_x_preferred":[
+        "La Granja"
+    ],
+    "name:ita_x_preferred":[
+        "La Granja"
+    ],
+    "name:msa_x_preferred":[
+        "La Granja"
+    ],
+    "name:nld_x_preferred":[
+        "La Granja"
+    ],
+    "name:oci_x_preferred":[
+        "La Granja"
+    ],
+    "name:pol_x_preferred":[
+        "La Granja"
+    ],
+    "name:por_x_preferred":[
+        "La Granja"
+    ],
+    "name:ron_x_preferred":[
+        "La Granja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0413\u0440\u0430\u043d\u0445\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La granja"
+    ],
+    "name:swe_x_preferred":[
+        "La Granja"
+    ],
+    "name:vie_x_preferred":[
+        "La Granja"
+    ],
+    "name:war_x_preferred":[
+        "La Granja"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3851072,
+    "qs:gn_pop":2406,
+    "qs:name":"La Granja",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":494212,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":330934,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421194115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851072,
+        "gp:id":330934,
+        "qs:id":494212
+    },
+    "wof:country":"AR",
+    "wof:created":1459009298,
+    "wof:geomhash":"045b683510a9e8168a7a45c34580e1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421194115,
+            "locality_id":421181513,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421181513,
+    "wof:lastmodified":1527716333,
+    "wof:name":"La Granja",
+    "wof:parent_id":421194115,
+    "wof:placetype":"locality",
+    "wof:population":2406,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26869,
+    -31.00919,
+    -64.26869,
+    -31.00919
+],
+  "geometry": {"coordinates":[-64.26869000000001,-31.00919],"type":"Point"}
+}

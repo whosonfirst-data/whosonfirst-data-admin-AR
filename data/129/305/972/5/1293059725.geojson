@@ -1,0 +1,68 @@
+{
+  "id": 1293059725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.55789,-28.37141,-63.55789,-28.37141",
+    "geom:latitude":-28.37141,
+    "geom:longitude":-63.55789,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86028.0",
+    "gn:asciiname":"Percas",
+    "gn:country_code":"AR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841514,
+    "gn:latitude":-28.37141,
+    "gn:longitude":-63.55789,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Percas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841514
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"d5c05e7fc15445d2ad35038beb854237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718471,
+            "locality_id":1293059725,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1293059725,
+    "wof:lastmodified":1536907264,
+    "wof:name":"Percas",
+    "wof:parent_id":1108718471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.55789,
+    -28.37141,
+    -63.55789,
+    -28.37141
+],
+  "geometry": {"coordinates":[-63.55789,-28.37141],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421178267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.92489,-38.95297,-67.92489,-38.95297",
+    "geom:latitude":-38.95297,
+    "geom:longitude":-67.92489,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:dut_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:eng_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:fra_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:fre_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30d5\u30a7\u30eb\u30ca\u30f3\u30c7\u30b9\u30fb\u30aa\u30ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0441-\u041e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:swe_x_preferred":[
+        "General Fern\u00e1ndez Oro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0441-\u041e\u0440\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3855114,
+    "qs:gn_pop":6813,
+    "qs:name":"General Fern\u00e1ndez Oro",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":50491,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465445,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855114,
+        "gp:id":465445,
+        "qs:id":50491,
+        "wd:id":"Q3100497"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009176,
+    "wof:geomhash":"9ecd57adbf53bb0db38fcb9564108190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "locality_id":421178267,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":421178267,
+    "wof:lastmodified":1527717721,
+    "wof:name":"General Fern\u00e1ndez Oro",
+    "wof:parent_id":1108718391,
+    "wof:placetype":"locality",
+    "wof:population":6813,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.92489,
+    -38.95297,
+    -67.92489,
+    -38.95297
+],
+  "geometry": {"coordinates":[-67.92489,-38.95297],"type":"Point"}
+}

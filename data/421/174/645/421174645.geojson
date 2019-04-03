@@ -1,0 +1,105 @@
+{
+  "id": 421174645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.82938,-31.38357,-62.82938,-31.38357",
+    "geom:latitude":-31.38357,
+    "geom:longitude":-62.82938,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El T\u00edo"
+    ],
+    "name:fra_x_preferred":[
+        "El Tio"
+    ],
+    "name:ita_x_preferred":[
+        "El T\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30c6\u30a3\u30aa"
+    ],
+    "name:ron_x_preferred":[
+        "El Tio"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El T\u00edo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7926\u5751\u5927\u53d4"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3856496,
+    "qs:gn_pop":1510,
+    "qs:name":"El T\u00edo",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":890923,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332747,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3856496,
+        "gp:id":332747,
+        "qs:id":890923,
+        "wd:id":"Q14406445"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009039,
+    "wof:geomhash":"dbf3c865564691894c4e511ece6542db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":421174645,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421174645,
+    "wof:lastmodified":1527716225,
+    "wof:name":"El T\u00edo",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:population":1510,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.82938,
+    -31.38357,
+    -62.82938,
+    -31.38357
+],
+  "geometry": {"coordinates":[-62.82938,-31.38357],"type":"Point"}
+}

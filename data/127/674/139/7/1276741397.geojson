@@ -1,0 +1,72 @@
+{
+  "id": 1276741397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.52213,-35.05695,-64.52213,-35.05695",
+    "geom:latitude":-35.05695,
+    "geom:longitude":-64.52213,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"42126.0",
+    "gn:asciiname":"Quetrequen",
+    "gn:country_code":"AR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839628,
+    "gn:latitude":-35.05695,
+    "gn:longitude":-64.52213,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Quetrequ\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quetrequ\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668019,
+        1108718315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839628,
+        "wk:page":"Quetrequ%C3%A9n"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"1e9a31e06fe5fa5946ef257f6ee728e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718315,
+            "locality_id":1276741397,
+            "region_id":85668019
+        }
+    ],
+    "wof:id":1276741397,
+    "wof:lastmodified":1537584845,
+    "wof:name":"Quetrequen",
+    "wof:parent_id":1108718315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.52213,
+    -35.05695,
+    -64.52213,
+    -35.05695
+],
+  "geometry": {"coordinates":[-64.52213,-35.05695],"type":"Point"}
+}

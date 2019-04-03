@@ -1,0 +1,68 @@
+{
+  "id": 1226650705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.05,-30.28333,-64.05,-30.28333",
+    "geom:latitude":-30.28333,
+    "geom:longitude":-64.05,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14175.0",
+    "gn:asciiname":"Corral de Barranca",
+    "gn:country_code":"AR",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860130,
+    "gn:latitude":-30.28333,
+    "gn:longitude":-64.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Corral de Barranca",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860130
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c866ca334a77ef327b979b955bb0ce14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196955,
+            "locality_id":1226650705,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1226650705,
+    "wof:lastmodified":1536851150,
+    "wof:name":"Corral de Barranca",
+    "wof:parent_id":421196955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.05,
+    -30.28333,
+    -64.05,
+    -30.28333
+],
+  "geometry": {"coordinates":[-64.05,-30.28333],"type":"Point"}
+}

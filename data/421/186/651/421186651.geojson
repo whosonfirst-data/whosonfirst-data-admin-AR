@@ -1,0 +1,81 @@
+{
+  "id": 421186651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.016403,-31.705314,-65.016403,-31.705314",
+    "geom:latitude":-31.705314,
+    "geom:longitude":-65.016403,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Alberto Beltr\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Alberto Beltr\u00e1n"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tr\u00e1nsito de San Alberto",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":414,
+    "qs:photos_1k":84,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":414,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075080,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332687,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421198475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":332687,
+        "qs:id":1075080
+    },
+    "wof:country":"AR",
+    "wof:created":1459009487,
+    "wof:geomhash":"9e8a2287d6fe78a8e96bd5661cb44d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198475,
+            "locality_id":421186651,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421186651,
+    "wof:lastmodified":1499925210,
+    "wof:name":"Tr\u00e1nsito de San Alberto",
+    "wof:parent_id":421198475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.016403,
+    -31.705314,
+    -65.016403,
+    -31.705314
+],
+  "geometry": {"coordinates":[-65.016403,-31.705314],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209419191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.38953,-35.00783,-59.38953,-35.00783",
+    "geom:latitude":-35.00783,
+    "geom:longitude":-59.38953,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6574.0",
+    "gn:asciiname":"Anasagasti",
+    "gn:country_code":"AR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3436352,
+    "gn:latitude":-35.00783,
+    "gn:longitude":-59.38953,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anasagasti",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3436352
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"3e5b94e2e74077d92ed28314057d6a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209419191
+        }
+    ],
+    "wof:id":1209419191,
+    "wof:lastmodified":1536287587,
+    "wof:name":"Anasagasti",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.38953000000001,
+    -35.00783,
+    -59.38953000000001,
+    -35.00783
+],
+  "geometry": {"coordinates":[-59.38953000000001,-35.00783],"type":"Point"}
+}

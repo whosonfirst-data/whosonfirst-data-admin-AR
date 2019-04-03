@@ -1,0 +1,72 @@
+{
+  "id": 1193033771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.35658,-38.01144,-58.35658,-38.01144",
+    "geom:latitude":-38.01144,
+    "geom:longitude":-58.35658,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6063.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"AR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429345,
+    "gn:latitude":-38.01144,
+    "gn:longitude":-58.35658,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San August\u00edn",
+        "San Agust\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429345
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fb1681062dc9f0a5152916560b5a37f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717865,
+            "locality_id":1193033771,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193033771,
+    "wof:lastmodified":1537584816,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1108717865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.35658000000001,
+    -38.01144,
+    -58.35658000000001,
+    -38.01144
+],
+  "geometry": {"coordinates":[-58.35658000000001,-38.01144],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276749199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.85,-31.11667,-59.85,-31.11667",
+    "geom:latitude":-31.11667,
+    "geom:longitude":-59.85,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"30070.0",
+    "gn:asciiname":"Pueblo Leguizamon",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3429821,
+    "gn:latitude":-31.11667,
+    "gn:longitude":-59.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pueblo Leguizam\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leguizam\u00f3n",
+        "Pueblo Leguizam\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        421181879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3429821
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"c70e935ccaeab72e296c36546e1ca59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181879,
+            "locality_id":1276749199,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":1276749199,
+    "wof:lastmodified":1537584818,
+    "wof:name":"Pueblo Leguizamon",
+    "wof:parent_id":421181879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.85,
+    -31.11667000000001,
+    -59.85,
+    -31.11667000000001
+],
+  "geometry": {"coordinates":[-59.85,-31.11667000000001],"type":"Point"}
+}

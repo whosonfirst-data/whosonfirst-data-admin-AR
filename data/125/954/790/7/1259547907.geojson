@@ -1,0 +1,68 @@
+{
+  "id": 1259547907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.06349,-29.47546,-60.06349,-29.47546",
+    "geom:latitude":-29.47546,
+    "geom:longitude":-60.06349,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82098.0",
+    "gn:asciiname":"Costa del Toba",
+    "gn:country_code":"AR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237855,
+    "gn:latitude":-29.47546,
+    "gn:longitude":-60.06349,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Costa del Toba",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237855
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dfc381d0ce9371c9deda6b4dffa813a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718459,
+            "locality_id":1259547907,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1259547907,
+    "wof:lastmodified":1536766673,
+    "wof:name":"Costa del Toba",
+    "wof:parent_id":1108718459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.06349,
+    -29.47546,
+    -60.06349,
+    -29.47546
+],
+  "geometry": {"coordinates":[-60.06349,-29.47546],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327351417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1566,-35.4922,-61.1566,-35.4922",
+    "geom:latitude":-35.4922,
+    "geom:longitude":-61.1566,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6588.0",
+    "gn:asciiname":"Galo Llorente",
+    "gn:country_code":"AR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3855251,
+    "gn:latitude":-35.4922,
+    "gn:longitude":-61.1566,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Galo Llorente",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G. Llorente",
+        "Gallo Llorente",
+        "Galo Llorente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3855251
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"22cd2f0c6fff5362494baadf1b6d1153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718041,
+            "locality_id":1327351417,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1327351417,
+    "wof:lastmodified":1537584876,
+    "wof:name":"Galo Llorente",
+    "wof:parent_id":1108718041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1566,
+    -35.4922,
+    -61.1566,
+    -35.4922
+],
+  "geometry": {"coordinates":[-61.1566,-35.4922],"type":"Point"}
+}

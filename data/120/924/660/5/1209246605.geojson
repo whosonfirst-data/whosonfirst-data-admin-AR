@@ -1,0 +1,62 @@
+{
+  "id": 1209246605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.07152,-29.81419,-64.07152,-29.81419",
+    "geom:latitude":-29.81419,
+    "geom:longitude":-64.07152,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14154.0",
+    "gn:asciiname":"Caspi",
+    "gn:country_code":"AR",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862341,
+    "gn:latitude":-29.81419,
+    "gn:longitude":-64.07152,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Caspi",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862341
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a0bef8165e7488034663b2aad4e276ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209246605
+        }
+    ],
+    "wof:id":1209246605,
+    "wof:lastmodified":1536293143,
+    "wof:name":"Caspi",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.07151999999999,
+    -29.814190000000004,
+    -64.07151999999999,
+    -29.814190000000004
+],
+  "geometry": {"coordinates":[-64.07151999999999,-29.81419],"type":"Point"}
+}

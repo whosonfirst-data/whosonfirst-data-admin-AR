@@ -1,0 +1,130 @@
+{
+  "id": 421204609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.53196,-34.66484,-58.53196,-34.66484",
+    "geom:latitude":-34.66484,
+    "geom:longitude":-58.53196,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0633 \u062f\u064a\u0644 \u0645\u064a\u0631\u0627\u062f\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0633 \u062f\u0644 \u0645\u06cc\u0631\u0627\u062f\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u99ac\u65af\u5fb7\u723e\u7c73\u62c9\u591a\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:eng_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0633 \u062f\u0644 \u0645\u06cc\u0631\u0627\u062f\u0648\u0631"
+    ],
+    "name:fre_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:nld_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0633 \u062f\u0644 \u0645\u06cc\u0631\u0627\u062f\u0648\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:sco_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:spa_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:swe_x_preferred":[
+        "Lomas del Mirador"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u0441-\u0434\u0435\u043b\u044c-\u041c\u0456\u0440\u0430\u0434\u043e\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u99ac\u65af\u5fb7\u723e\u7c73\u62c9\u591a\u723e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3431273,
+    "qs:gn_pop":0,
+    "qs:name":"Lomas del Mirador",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":177,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":177,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":242716,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465704,
+    "src:geom":"quattroshapes",
+    "wd:elevation":22.0,
+    "wd:latitude":-34.666667,
+    "wd:longitude":-58.529722,
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3431273,
+        "gp:id":465704,
+        "qs:id":242716,
+        "wd:id":"Q2530296",
+        "wk:page":"Lomas del Mirador"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010192,
+    "wof:geomhash":"ff88e1355e1420a970a4f714b20c1ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717991,
+            "locality_id":421204609,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204609,
+    "wof:lastmodified":1527716187,
+    "wof:name":"Lomas del Mirador",
+    "wof:parent_id":1108717991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.53196,
+    -34.66484,
+    -58.53196,
+    -34.66484
+],
+  "geometry": {"coordinates":[-58.53196,-34.66484],"type":"Point"}
+}

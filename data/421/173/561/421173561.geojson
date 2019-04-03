@@ -1,0 +1,92 @@
+{
+  "id": 421173561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.85612,-30.41873,-57.85612,-30.41873",
+    "geom:latitude":-30.41873,
+    "geom:longitude":-57.85612,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Juan Pujol"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Pujol"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Pujol"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Pujol"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433291,
+    "qs:gn_pop":1487,
+    "qs:name":"Juan Pujol",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Corrientes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":290977,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465630,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421191013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433291,
+        "gp:id":465630,
+        "qs:id":290977,
+        "wd:id":"Q2313682"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008990,
+    "wof:geomhash":"63e89d79b1fe962a7cffc0ae19910646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191013,
+            "locality_id":421173561,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":421173561,
+    "wof:lastmodified":1513889209,
+    "wof:name":"Juan Pujol",
+    "wof:parent_id":421191013,
+    "wof:placetype":"locality",
+    "wof:population":1487,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.85612,
+    -30.41873,
+    -57.85612,
+    -30.41873
+],
+  "geometry": {"coordinates":[-57.85612,-30.41873],"type":"Point"}
+}

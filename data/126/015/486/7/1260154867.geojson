@@ -1,0 +1,68 @@
+{
+  "id": 1260154867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.02263,-28.55505,-60.02263,-28.55505",
+    "geom:latitude":-28.55505,
+    "geom:longitude":-60.02263,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"82133.0",
+    "gn:asciiname":"Golondrina",
+    "gn:country_code":"AR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3854958,
+    "gn:latitude":-28.55505,
+    "gn:longitude":-60.02263,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Golondrina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854958
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"28f5ad1ce1f5b59ffbfed2d172542704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718463,
+            "locality_id":1260154867,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1260154867,
+    "wof:lastmodified":1536886809,
+    "wof:name":"Golondrina",
+    "wof:parent_id":1108718463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.02263000000001,
+    -28.55505,
+    -60.02263000000001,
+    -28.55505
+],
+  "geometry": {"coordinates":[-60.02263000000001,-28.55505],"type":"Point"}
+}

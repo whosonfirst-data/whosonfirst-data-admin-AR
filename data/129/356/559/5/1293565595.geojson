@@ -1,0 +1,68 @@
+{
+  "id": 1293565595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.19224,-32.13435,-68.19224,-32.13435",
+    "geom:latitude":-32.13435,
+    "geom:longitude":-68.19224,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"50056.0",
+    "gn:asciiname":"Capilla del Rosario",
+    "gn:country_code":"AR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862759,
+    "gn:latitude":-32.13435,
+    "gn:longitude":-68.19224,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Capilla del Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Mendoza",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        421187691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862759
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"dd8780ae12ad266a13a2e69c92d0ac07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421187691,
+            "locality_id":1293565595,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":1293565595,
+    "wof:lastmodified":1536674515,
+    "wof:name":"Capilla del Rosario",
+    "wof:parent_id":421187691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.19224,
+    -32.13435,
+    -68.19224,
+    -32.13435
+],
+  "geometry": {"coordinates":[-68.19224,-32.13435],"type":"Point"}
+}

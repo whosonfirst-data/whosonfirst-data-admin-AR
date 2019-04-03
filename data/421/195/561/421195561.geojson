@@ -1,0 +1,106 @@
+{
+  "id": 421195561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.63154,-26.69825,-59.63154,-26.69825",
+    "geom:latitude":-26.69825,
+    "geom:longitude":-59.63154,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:dut_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:eng_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:por_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:spa_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:swe_x_preferred":[
+        "Colonias Unidas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u044c\u044f\u0441-\u0423\u043d\u0456\u0434\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Unidas"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435295,
+    "qs:gn_pop":4093,
+    "qs:name":"Colonias Unidas",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1212236,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467195,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435295,
+        "gp:id":467195,
+        "qs:id":1212236,
+        "wd:id":"Q1579067",
+        "wk:page":"Colonias Unidas, Chaco"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009852,
+    "wof:geomhash":"538f1202bd53fbe42bfbf3b47e129e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718227,
+            "locality_id":421195561,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":421195561,
+    "wof:lastmodified":1527716117,
+    "wof:name":"Colonias Unidas",
+    "wof:parent_id":1108718227,
+    "wof:placetype":"locality",
+    "wof:population":4093,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.63154,
+    -26.69825,
+    -59.63154,
+    -26.69825
+],
+  "geometry": {"coordinates":[-59.63154,-26.69825],"type":"Point"}
+}

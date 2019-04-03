@@ -1,0 +1,73 @@
+{
+  "id": 1193007945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.01667,-24.2,-62.01667,-24.2",
+    "geom:latitude":-24.2,
+    "geom:longitude":-62.01667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"34028.0",
+    "gn:asciiname":"La Florencia",
+    "gn:cc2":"AR",
+    "gn:country_code":"AR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3851268,
+    "gn:latitude":-24.2,
+    "gn:longitude":-62.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Florencia",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Florencia",
+        "La Florencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3851268
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"82bb81706498df09c554cfa44fefa443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718265,
+            "locality_id":1193007945,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":1193007945,
+    "wof:lastmodified":1537584867,
+    "wof:name":"La Florencia",
+    "wof:parent_id":1108718265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.01667,
+    -24.2,
+    -62.01667,
+    -24.2
+],
+  "geometry": {"coordinates":[-62.01667,-24.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193151259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.54078,-37.08222,-62.54078,-37.08222",
+    "geom:latitude":-37.08222,
+    "geom:longitude":-62.54078,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6399.0",
+    "gn:asciiname":"Arroyo Venado",
+    "gn:country_code":"AR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3865382,
+    "gn:latitude":-37.08222,
+    "gn:longitude":-62.54078,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arroyo Venado",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arroyo Nevado",
+        "Arroyo Venado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3865382
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"634b95921f11805fdc7bf8799d507978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717975,
+            "locality_id":1193151259,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1193151259,
+    "wof:lastmodified":1537584901,
+    "wof:name":"Arroyo Venado",
+    "wof:parent_id":1108717975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.54078000000001,
+    -37.08222,
+    -62.54078000000001,
+    -37.08222
+],
+  "geometry": {"coordinates":[-62.54078000000001,-37.08222],"type":"Point"}
+}

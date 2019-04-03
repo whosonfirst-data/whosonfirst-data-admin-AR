@@ -1,0 +1,194 @@
+{
+  "id": 1141906731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.889989056,-35.4459643364,-60.889989056,-35.4459643364",
+    "geom:latitude":-35.445964,
+    "geom:longitude":-60.889989,
+    "iso:country":"AR",
+    "lbl:latitude":-35.445964,
+    "lbl:longitude":-60.889989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0641\u0627 \u062f\u064a \u062e\u0648\u0644\u064a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0647 \u062f\u0647 \u062e\u0648\u0644\u06cc\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e03\u6708\u4e5d\u65e5\u57ce"
+    ],
+    "name:dut_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:eng_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:fre_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:ita_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d9\u30fb\u30c7\u30fb\u30d5\u30ea\u30aa"
+    ],
+    "name:oci_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0647 \u062f\u0647 \u062e\u0648\u0644\u06cc\u0648"
+    ],
+    "name:sco_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de Nueve de Julio"
+    ],
+    "name:swe_x_preferred":[
+        "Nueve de Julio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0435-\u0434\u0435-\u0425\u0443\u043b\u0456\u043e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Argentina",
+    "ne:ADM0_A3":"ARG",
+    "ne:ADM1NAME":"Ciudad de Buenos Aires",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3842881,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Nueve de Julio",
+    "ne:GN_POP":34718,
+    "ne:GTOPO30":83.0,
+    "ne:ISO_A2":"AR",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-35.445964,
+    "ne:LONGITUDE":-60.889989,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Nueve de Julio",
+    "ne:MAX_AREAKM":16.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":-60.858333,
+    "ne:MAX_BBXMIN":-60.916667,
+    "ne:MAX_BBYMAX":-35.425,
+    "ne:MAX_BBYMIN":-35.466667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":22.0,
+    "ne:MAX_PERMI":14.0,
+    "ne:MAX_POP10":18714,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.8875,
+    "ne:MEAN_BBYC":-35.447283,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":16.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":-60.858333,
+    "ne:MIN_BBXMIN":-60.916667,
+    "ne:MIN_BBYMAX":-35.425,
+    "ne:MIN_BBYMIN":-35.466667,
+    "ne:MIN_PERKM":22.0,
+    "ne:MIN_PERMI":14.0,
+    "ne:NAME":"Nueve de Julio",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Nueve de Julio",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":34718,
+    "ne:POP_MIN":18714,
+    "ne:POP_OTHER":18714,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Argentina",
+    "ne:SOV_A3":"ARG",
+    "ne:TIMEZONE":"America/Argentina/Buenos_Aires",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-35.445964,
+    "reversegeo:longitude":-60.889989,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q579199"
+    },
+    "wof:country":"AR",
+    "wof:created":1499130631,
+    "wof:geomhash":"9f64f9df3d1fdc724f187ae7a59da067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718041,
+            "locality_id":1141906731,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1141906731,
+    "wof:lastmodified":1553816735,
+    "wof:name":"Nueve de Julio",
+    "wof:parent_id":1108718041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88998905602023,
+    -35.44596433638839,
+    -60.88998905602023,
+    -35.44596433638839
+],
+  "geometry": {"coordinates":[-60.88998905602023,-35.44596433638839],"type":"Point"}
+}

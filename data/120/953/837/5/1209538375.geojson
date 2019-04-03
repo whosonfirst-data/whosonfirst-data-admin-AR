@@ -1,0 +1,62 @@
+{
+  "id": 1209538375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.11353,-32.47731,-64.11353,-32.47731",
+    "geom:latitude":-32.47731,
+    "geom:longitude":-64.11353,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Las Gamas",
+    "gn:country_code":"AR",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3848378,
+    "gn:latitude":-32.47731,
+    "gn:longitude":-64.11353,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Gamas",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3848378
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"08fb399b7e2033d120bd72e86243f141",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1209538375
+        }
+    ],
+    "wof:id":1209538375,
+    "wof:lastmodified":1536284065,
+    "wof:name":"Las Gamas",
+    "wof:parent_id":85632505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.11353000000001,
+    -32.47731,
+    -64.11353000000001,
+    -32.47731
+],
+  "geometry": {"coordinates":[-64.11353000000001,-32.47731],"type":"Point"}
+}

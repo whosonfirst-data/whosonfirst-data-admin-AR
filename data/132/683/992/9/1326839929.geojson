@@ -1,0 +1,68 @@
+{
+  "id": 1326839929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.24362,-38.43982,-62.24362,-38.43982",
+    "geom:latitude":-38.43982,
+    "geom:longitude":-62.24362,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6056.0",
+    "gn:asciiname":"Naposta",
+    "gn:country_code":"AR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3843435,
+    "gn:latitude":-38.43982,
+    "gn:longitude":-62.24362,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Napost\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3843435
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"f8e404e537e6a00625a216e04a5d70fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717863,
+            "locality_id":1326839929,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1326839929,
+    "wof:lastmodified":1537036015,
+    "wof:name":"Naposta",
+    "wof:parent_id":1108717863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.24361999999999,
+    -38.43982000000001,
+    -62.24361999999999,
+    -38.43982000000001
+],
+  "geometry": {"coordinates":[-62.24361999999999,-38.43982000000001],"type":"Point"}
+}

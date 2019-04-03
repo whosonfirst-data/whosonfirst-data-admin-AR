@@ -1,0 +1,99 @@
+{
+  "id": 421204759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.98097,-40.79828,-62.98097,-40.79828",
+    "geom:latitude":-40.79828,
+    "geom:longitude":-62.98097,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043d \u0434\u0435 \u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
+    ],
+    "name:eng_x_preferred":[
+        "Carmen de Patagones"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05de\u05df \u05d3\u05d4 \u05e4\u05d8\u05d2\u05d5\u05e0\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0574\u0565\u0576 \u0564\u0565 \u054a\u0561\u057f\u0561\u0563\u0578\u0576\u0565\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043d-\u0434\u0435-\u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043d-\u0434\u0435-\u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Carmen de Patagones"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3862583,
+    "qs:gn_pop":0,
+    "qs:name":"Patagones",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":190,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":190,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":247412,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466919,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862583,
+        "gp:id":466919,
+        "qs:id":247412,
+        "wd:id":"Q2342211",
+        "wk:page":"Carmen de Patagones"
+    },
+    "wof:country":"AR",
+    "wof:created":1459010197,
+    "wof:geomhash":"3e1a4eadbe86156d061c5a077ca9c739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718045,
+            "locality_id":421204759,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421204759,
+    "wof:lastmodified":1501268883,
+    "wof:name":"Patagones",
+    "wof:parent_id":1108718045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.98097,
+    -40.79828,
+    -62.98097,
+    -40.79828
+],
+  "geometry": {"coordinates":[-62.98097,-40.79828],"type":"Point"}
+}

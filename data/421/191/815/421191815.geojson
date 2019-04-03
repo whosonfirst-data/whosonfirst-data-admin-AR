@@ -1,0 +1,86 @@
+{
+  "id": 421191815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73592,-25.89126,-65.73592,-25.89126",
+    "geom:latitude":-25.89126,
+    "geom:longitude":-65.73592,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Cruces"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833827,
+    "qs:gn_pop":0,
+    "qs:name":"Tres Cruces",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Salta",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156116,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466641,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":273,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421197591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833827,
+        "gp:id":466641,
+        "qs:id":1156116
+    },
+    "wof:country":"AR",
+    "wof:created":1459009710,
+    "wof:geomhash":"f18039ac1857475d3a94f2f4c964c789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421197591,
+            "locality_id":421191815,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":421191815,
+    "wof:lastmodified":1527716384,
+    "wof:name":"Tres Cruces",
+    "wof:parent_id":421197591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73592,
+    -25.89126,
+    -65.73592,
+    -25.89126
+],
+  "geometry": {"coordinates":[-65.73591999999999,-25.89126],"type":"Point"}
+}

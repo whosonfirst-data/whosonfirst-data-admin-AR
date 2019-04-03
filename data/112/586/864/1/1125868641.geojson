@@ -1,0 +1,96 @@
+{
+  "id": 1125868641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26784,-41.02993,-70.26784,-41.02993",
+    "geom:latitude":-41.02993,
+    "geom:longitude":-70.26784,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1306,
+    "gn:population":1306,
+    "iso:country":"AR",
+    "lbl:latitude":-41.02993,
+    "lbl:longitude":-70.26784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Comallo"
+    ],
+    "name:eng_x_preferred":[
+        "Comallo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10db\u10d0\u10da\u10d8\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Comallo"
+    ],
+    "name:swe_x_preferred":[
+        "Comallo"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3860475,
+    "qs_pg:gn_pop":1306,
+    "qs_pg:name":"Comallo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":585708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860475,
+        "qs_pg:id":585708,
+        "wd:id":"Q1954924"
+    },
+    "wof:country":"AR",
+    "wof:created":1497294172,
+    "wof:geomhash":"b7d1f8e1f58bd651ae16955d2c1cd512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188063,
+            "locality_id":1125868641,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1125868641,
+    "wof:lastmodified":1534379082,
+    "wof:name":"Comallo",
+    "wof:parent_id":421188063,
+    "wof:placetype":"locality",
+    "wof:population":1306,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141906739
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26784,
+    -41.02993,
+    -70.26784,
+    -41.02993
+],
+  "geometry": {"coordinates":[-70.26784000000001,-41.02993],"type":"Point"}
+}

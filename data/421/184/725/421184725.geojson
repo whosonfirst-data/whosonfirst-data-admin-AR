@@ -1,0 +1,106 @@
+{
+  "id": 421184725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.6984,-34.54675,-58.6984,-34.54675",
+    "geom:latitude":-34.54675,
+    "geom:longitude":-58.6984,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u064a\u0632 \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:dut_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:eng_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:fre_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:por_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:spa_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "name:swe_x_preferred":[
+        "Mu\u00f1iz"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3430513,
+    "qs:gn_pop":0,
+    "qs:name":"Mu\u00f1iz",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1003905,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465907,
+    "src:geom":"quattroshapes",
+    "wd:elevation":23.0,
+    "wd:latitude":-34.533333,
+    "wd:longitude":-58.7,
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430513,
+        "gp:id":465907,
+        "qs:id":1003905,
+        "wd:id":"Q9293647",
+        "wk:page":"Mu\u00f1iz, Buenos Aires"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009420,
+    "wof:geomhash":"4ec7b02d40f1d62965edfbbfe78079f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718101,
+            "locality_id":421184725,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421184725,
+    "wof:lastmodified":1527716448,
+    "wof:name":"Mu\u00f1iz",
+    "wof:parent_id":1108718101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.6984,
+    -34.54675,
+    -58.6984,
+    -34.54675
+],
+  "geometry": {"coordinates":[-58.6984,-34.54675],"type":"Point"}
+}

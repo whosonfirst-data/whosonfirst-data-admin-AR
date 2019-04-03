@@ -1,0 +1,75 @@
+{
+  "id": 421193705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.232055,-39.779255,-71.232055,-39.779255",
+    "geom:latitude":-39.779255,
+    "geom:longitude":-71.232055,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Huechu Lauquen",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":985370,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":56040584,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421196937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56040584,
+        "qs:id":985370
+    },
+    "wof:country":"AR",
+    "wof:created":1459009780,
+    "wof:geomhash":"342ebc606e84c76a825394623cf07836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196937,
+            "locality_id":421193705,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421193705,
+    "wof:lastmodified":1499925033,
+    "wof:name":"Huechu Lauquen",
+    "wof:parent_id":421196937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.232055,
+    -39.779255,
+    -71.232055,
+    -39.779255
+],
+  "geometry": {"coordinates":[-71.232055,-39.779255],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125856007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.91898,-26.06468,-59.91898,-26.06468",
+    "geom:latitude":-26.06468,
+    "geom:longitude":-59.91898,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11588,
+    "gn:population":11588,
+    "iso:country":"AR",
+    "lbl:latitude":-26.06468,
+    "lbl:longitude":-59.91898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pampa del Indio"
+    ],
+    "name:eng_x_preferred":[
+        "Pampa del Indio"
+    ],
+    "name:por_x_preferred":[
+        "Pampa del Indio"
+    ],
+    "name:spa_x_preferred":[
+        "Pampa del Indio"
+    ],
+    "name:swe_x_preferred":[
+        "Pampa del Indio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u0430-\u0434\u0435\u043b\u044c-\u0406\u043d\u0434\u0456\u043e"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3430180,
+    "qs_pg:gn_pop":11588,
+    "qs_pg:name":"Pampa del Indio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":583248,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        1108718207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3430180,
+        "qs_pg:id":583248,
+        "wd:id":"Q1656045"
+    },
+    "wof:country":"AR",
+    "wof:created":1497293622,
+    "wof:geomhash":"e4dfd794297e3bcb6311cb18b3623394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718207,
+            "locality_id":1125856007,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":1125856007,
+    "wof:lastmodified":1513889347,
+    "wof:name":"Pampa del Indio",
+    "wof:parent_id":1108718207,
+    "wof:placetype":"locality",
+    "wof:population":11588,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.91898,
+    -26.06468,
+    -59.91898,
+    -26.06468
+],
+  "geometry": {"coordinates":[-59.91898,-26.06468],"type":"Point"}
+}

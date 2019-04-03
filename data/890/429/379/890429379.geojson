@@ -1,0 +1,98 @@
+{
+  "id": 890429379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.1224,-30.39552,-64.1224,-30.39552",
+    "geom:latitude":-30.39552,
+    "geom:longitude":-64.1224,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
+    "gn:pop":1161,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5716\u502b\u5df4\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:fre_x_preferred":[
+        "villa Tulumba"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:por_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:unk_x_variant":[
+        "Tulumba"
+    ],
+    "qs:name":"Villa Tulumba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"-30.4",
+    "wd:longitude":"-64.116666666",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421196955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832607,
+        "gp:id":91862871,
+        "qs:id":96606,
+        "wd:id":"Q3111419",
+        "wk:page":"Villa Tulumba"
+    },
+    "wof:country":"AR",
+    "wof:created":1469051812,
+    "wof:geomhash":"9fcfb3861f96cbcec9a58cabfaf2d236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421196955,
+            "locality_id":890429379,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":890429379,
+    "wof:lastmodified":1527792790,
+    "wof:name":"Villa Tulumba",
+    "wof:parent_id":421196955,
+    "wof:placetype":"locality",
+    "wof:population":1161,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.1224,
+    -30.39552,
+    -64.1224,
+    -30.39552
+],
+  "geometry": {"coordinates":[-64.1224,-30.39552],"type":"Point"}
+}

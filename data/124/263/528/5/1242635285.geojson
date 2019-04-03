@@ -1,0 +1,68 @@
+{
+  "id": 1242635285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36331,-26.2068,-65.36331,-26.2068",
+    "geom:latitude":-26.2068,
+    "geom:longitude":-65.36331,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90112.0",
+    "gn:asciiname":"Zarate",
+    "gn:country_code":"AR",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832109,
+    "gn:latitude":-26.2068,
+    "gn:longitude":-65.36331,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Z\u00e1rate",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668059,
+        1108718531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832109
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"102a0db28bc109432e3f10f63819d696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718531,
+            "locality_id":1242635285,
+            "region_id":85668059
+        }
+    ],
+    "wof:id":1242635285,
+    "wof:lastmodified":1536980214,
+    "wof:name":"Zarate",
+    "wof:parent_id":1108718531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36331,
+    -26.2068,
+    -65.36331,
+    -26.2068
+],
+  "geometry": {"coordinates":[-65.36331,-26.2068],"type":"Point"}
+}

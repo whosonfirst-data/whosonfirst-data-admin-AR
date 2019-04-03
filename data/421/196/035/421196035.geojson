@@ -1,0 +1,77 @@
+{
+  "id": 421196035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.56229,-33.05338,-68.56229,-33.05338",
+    "geom:latitude":-33.05338,
+    "geom:longitude":-68.56229,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3842265,
+    "qs:gn_pop":0,
+    "qs:name":"Palmira",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Mendoza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046850,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467020,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668007,
+        1108718359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842265,
+        "gp:id":467020,
+        "qs:id":1046850
+    },
+    "wof:country":"AR",
+    "wof:created":1459009867,
+    "wof:geomhash":"046d333f955fcb9daf694a54c7e2d97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718359,
+            "locality_id":421196035,
+            "region_id":85668007
+        }
+    ],
+    "wof:id":421196035,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Palmira",
+    "wof:parent_id":1108718359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.56229,
+    -33.05338,
+    -68.56229,
+    -33.05338
+],
+  "geometry": {"coordinates":[-68.56229,-33.05338],"type":"Point"}
+}

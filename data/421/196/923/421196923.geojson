@@ -1,0 +1,76 @@
+{
+  "id": 421196923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61667,-31.51667,-68.61667,-31.51667",
+    "geom:latitude":-31.51667,
+    "geom:longitude":-68.61667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3844791,
+    "qs:gn_pop":0,
+    "qs:name":"Marquesado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":832406,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":465796,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421205537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3844791,
+        "gp:id":465796,
+        "qs:id":832406
+    },
+    "wof:country":"AR",
+    "wof:created":1459009897,
+    "wof:geomhash":"5ffbda33c4dcc562271537f6199ffbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421205537,
+            "locality_id":421196923,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":421196923,
+    "wof:lastmodified":1499924842,
+    "wof:name":"Marquesado",
+    "wof:parent_id":421205537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61667,
+    -31.51667,
+    -68.61667,
+    -31.51667
+],
+  "geometry": {"coordinates":[-68.61667,-31.51667],"type":"Point"}
+}

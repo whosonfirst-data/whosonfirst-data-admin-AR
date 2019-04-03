@@ -1,0 +1,90 @@
+{
+  "id": 421183907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-57.0135495,-37.099002,-57.0135495,-37.099002",
+    "geom:latitude":-37.099002,
+    "geom:longitude":-57.01355,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Juan Madariaga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bd\u03b5\u03c1\u03ac\u03bb \u03a7\u03bf\u03c5\u03ac\u03bd \u039c\u03b1\u03b4\u03b1\u03c1\u03b9\u03ac\u03b3\u03b1"
+    ],
+    "name:sco_x_preferred":[
+        "General Juan Madariaga"
+    ],
+    "name:spa_x_preferred":[
+        "General Juan Madariaga"
+    ],
+    "name:swe_x_preferred":[
+        "General Juan Madariaga"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"General Juan Madariaga",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":985976,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":20070975,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070975,
+        "qs:id":985976,
+        "wd:id":"Q5531985"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009391,
+    "wof:geomhash":"83d802849b4e3af22d2dcabd63871151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421183907,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421183907,
+    "wof:lastmodified":1527716487,
+    "wof:name":"General Juan Madariaga",
+    "wof:parent_id":85668015,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.0135495,
+    -37.099002,
+    -57.0135495,
+    -37.099002
+],
+  "geometry": {"coordinates":[-57.0135495,-37.099002],"type":"Point"}
+}

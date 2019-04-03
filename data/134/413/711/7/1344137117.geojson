@@ -1,0 +1,68 @@
+{
+  "id": 1344137117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.62139,-28.22444,-68.62139,-28.22444",
+    "geom:latitude":-28.22444,
+    "geom:longitude":-68.62139,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"46098.0",
+    "gn:asciiname":"Yegua Quemada",
+    "gn:country_code":"AR",
+    "gn:dem":4021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949809,
+    "gn:latitude":-28.22444,
+    "gn:longitude":-68.62139,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yegua Quemada",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421203243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949809
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"093d593744f891d7fd20be9f1e88ff9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203243,
+            "locality_id":1344137117,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1344137117,
+    "wof:lastmodified":1536765379,
+    "wof:name":"Yegua Quemada",
+    "wof:parent_id":421203243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.62139,
+    -28.22444,
+    -68.62139,
+    -28.22444
+],
+  "geometry": {"coordinates":[-68.62139000000001,-28.22444],"type":"Point"}
+}

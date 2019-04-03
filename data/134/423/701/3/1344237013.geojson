@@ -1,0 +1,68 @@
+{
+  "id": 1344237013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.11667,-28.65,-68.11667,-28.65",
+    "geom:latitude":-28.65,
+    "geom:longitude":-68.11667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46098.0",
+    "gn:asciiname":"Pozuelos",
+    "gn:country_code":"AR",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3840313,
+    "gn:latitude":-28.65,
+    "gn:longitude":-68.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pozuelos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        421203243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3840313
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"abc61c6669afbf45cad0f435d0fdf3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421203243,
+            "locality_id":1344237013,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1344237013,
+    "wof:lastmodified":1536618730,
+    "wof:name":"Pozuelos",
+    "wof:parent_id":421203243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.11667,
+    -28.65,
+    -68.11667,
+    -28.65
+],
+  "geometry": {"coordinates":[-68.11667,-28.65],"type":"Point"}
+}

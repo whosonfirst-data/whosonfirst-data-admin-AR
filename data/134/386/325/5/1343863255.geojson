@@ -1,0 +1,68 @@
+{
+  "id": 1343863255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.36222,-31.24861,-62.36222,-31.24861",
+    "geom:latitude":-31.24861,
+    "geom:longitude":-62.36222,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"14140.0",
+    "gn:asciiname":"Colonia Marina",
+    "gn:country_code":"AR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860753,
+    "gn:latitude":-31.24861,
+    "gn:longitude":-62.36222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colonia Marina",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421171463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3860753
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"b9b538092f8ba897e53d7d6c5343671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171463,
+            "locality_id":1343863255,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1343863255,
+    "wof:lastmodified":1536662544,
+    "wof:name":"Colonia Marina",
+    "wof:parent_id":421171463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.36221999999999,
+    -31.24861,
+    -62.36221999999999,
+    -31.24861
+],
+  "geometry": {"coordinates":[-62.36221999999999,-31.24861],"type":"Point"}
+}

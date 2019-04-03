@@ -1,0 +1,79 @@
+{
+  "id": 421198331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.49341,-35.76952,-58.49341,-35.76952",
+    "geom:latitude":-35.76952,
+    "geom:longitude":-58.49341,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "General Belgrano"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3433817,
+    "qs:gn_pop":0,
+    "qs:name":"Gral Belgrano",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":181914,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466967,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3433817,
+        "gp:id":466967,
+        "qs:id":181914
+    },
+    "wof:country":"AR",
+    "wof:created":1459009944,
+    "wof:geomhash":"93deb26b911838fb62f2205cb177a1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717945,
+            "locality_id":421198331,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421198331,
+    "wof:lastmodified":1501266406,
+    "wof:name":"Gral Belgrano",
+    "wof:parent_id":1108717945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.49341,
+    -35.76952,
+    -58.49341,
+    -35.76952
+],
+  "geometry": {"coordinates":[-58.49341,-35.76952],"type":"Point"}
+}

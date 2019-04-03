@@ -1,0 +1,72 @@
+{
+  "id": 1310263755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01643,-31.36548,-61.01643,-31.36548",
+    "geom:latitude":-31.36548,
+    "geom:longitude":-61.01643,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"82070.0",
+    "gn:asciiname":"Cavour",
+    "gn:country_code":"AR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3862217,
+    "gn:latitude":-31.36548,
+    "gn:longitude":-61.01643,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cavour",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Cavour",
+        "Cavour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421180885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3862217
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"354e6c61aee7e69b1a74d0bca0839092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180885,
+            "locality_id":1310263755,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1310263755,
+    "wof:lastmodified":1537584895,
+    "wof:name":"Cavour",
+    "wof:parent_id":421180885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01643000000001,
+    -31.36548,
+    -61.01643000000001,
+    -31.36548
+],
+  "geometry": {"coordinates":[-61.01643000000001,-31.36548],"type":"Point"}
+}

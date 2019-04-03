@@ -1,0 +1,68 @@
+{
+  "id": 1226725063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.16667,-35.95,-66.16667,-35.95",
+    "geom:latitude":-35.95,
+    "geom:longitude":-66.16667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"74042.0",
+    "gn:asciiname":"Nueva Constitucion",
+    "gn:country_code":"AR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3842919,
+    "gn:latitude":-35.95,
+    "gn:longitude":-66.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nueva Constituci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        1108718443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3842919
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"026b717118e7a752acb7504008f0a913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718443,
+            "locality_id":1226725063,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1226725063,
+    "wof:lastmodified":1536745078,
+    "wof:name":"Nueva Constitucion",
+    "wof:parent_id":1108718443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.16667,
+    -35.95,
+    -66.16667,
+    -35.95
+],
+  "geometry": {"coordinates":[-66.16667,-35.95],"type":"Point"}
+}

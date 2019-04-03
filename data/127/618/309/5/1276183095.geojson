@@ -1,0 +1,68 @@
+{
+  "id": 1276183095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.7,-25.7,-63.7,-25.7",
+    "geom:latitude":-25.7,
+    "geom:longitude":-63.7,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86056.0",
+    "gn:asciiname":"Vinal Viejo",
+    "gn:country_code":"AR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3832564,
+    "gn:latitude":-25.7,
+    "gn:longitude":-63.7,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vinal Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        1108718477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832564
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"a09ce6c2860c65ab7b68b66a4f639c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718477,
+            "locality_id":1276183095,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":1276183095,
+    "wof:lastmodified":1536979680,
+    "wof:name":"Vinal Viejo",
+    "wof:parent_id":1108718477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.7,
+    -25.7,
+    -63.7,
+    -25.7
+],
+  "geometry": {"coordinates":[-63.7,-25.7],"type":"Point"}
+}

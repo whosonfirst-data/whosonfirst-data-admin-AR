@@ -1,0 +1,68 @@
+{
+  "id": 1242600519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.10489,-32.535,-64.10489,-32.535",
+    "geom:latitude":-32.535,
+    "geom:longitude":-64.10489,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"14098.0",
+    "gn:asciiname":"Las Penas Sur",
+    "gn:country_code":"AR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3847914,
+    "gn:latitude":-32.535,
+    "gn:longitude":-64.10489,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Las Pe\u00f1as Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Cordoba",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421185481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847914
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"fc9ee96139bb47de74b5bde03db9a658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421185481,
+            "locality_id":1242600519,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":1242600519,
+    "wof:lastmodified":1537029393,
+    "wof:name":"Las Penas Sur",
+    "wof:parent_id":421185481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.10489,
+    -32.535,
+    -64.10489,
+    -32.535
+],
+  "geometry": {"coordinates":[-64.10489,-32.535],"type":"Point"}
+}

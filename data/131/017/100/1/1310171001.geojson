@@ -1,0 +1,72 @@
+{
+  "id": 1310171001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56557,-32.09088,-65.56557,-32.09088",
+    "geom:latitude":-32.09088,
+    "geom:longitude":-65.56557,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74049.0",
+    "gn:asciiname":"Balde de Escudero",
+    "gn:country_code":"AR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3864939,
+    "gn:latitude":-32.09088,
+    "gn:longitude":-65.56557,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balde de Escudero",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Evita",
+        "Balde de Escudero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421189001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3864939
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2fe099ea909a1b15ce9360dd5155b31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189001,
+            "locality_id":1310171001,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1310171001,
+    "wof:lastmodified":1537584900,
+    "wof:name":"Balde de Escudero",
+    "wof:parent_id":421189001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56557,
+    -32.09088,
+    -65.56557,
+    -32.09088
+],
+  "geometry": {"coordinates":[-65.56556999999999,-32.09088],"type":"Point"}
+}

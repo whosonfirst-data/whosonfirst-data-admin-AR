@@ -1,0 +1,90 @@
+{
+  "id": 421195323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.41667,-37.03333,-62.41667,-37.03333",
+    "geom:latitude":-37.03333,
+    "geom:longitude":-62.41667,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guamin\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Guamin\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Guamin\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Guamin\u00ed"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3854604,
+    "qs:gn_pop":0,
+    "qs:name":"Guamin\u00ed",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":124,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":124,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150489,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466980,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3854604,
+        "gp:id":466980,
+        "qs:id":150489,
+        "wd:id":"Q1973966",
+        "wk:page":"Guamin\u00ed"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009839,
+    "wof:geomhash":"0a0b30f2c36f4d3191b8199dc9995665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717975,
+            "locality_id":421195323,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421195323,
+    "wof:lastmodified":1499925077,
+    "wof:name":"Guamin\u00ed",
+    "wof:parent_id":1108717975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.41667,
+    -37.03333,
+    -62.41667,
+    -37.03333
+],
+  "geometry": {"coordinates":[-62.41667,-37.03333],"type":"Point"}
+}

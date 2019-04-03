@@ -1,0 +1,106 @@
+{
+  "id": 1125777737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46821,-30.63353,-67.46821,-30.63353",
+    "geom:latitude":-30.63353,
+    "geom:longitude":-67.46821,
+    "gn:gn_country":"AR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6864,
+    "gn:population":6864,
+    "iso:country":"AR",
+    "lbl:latitude":-30.63353,
+    "lbl:longitude":-67.46821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u5967\u53e4\u65af\u6c40\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "San Agust\u00edn de Valle F\u00e9rtil"
+    ],
+    "name:eng_x_preferred":[
+        "San Agust\u00edn de Valle F\u00e9rtil"
+    ],
+    "name:fre_x_preferred":[
+        "villa San Agust\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Villa San Agust\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Villa San Agust\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Villa San Agust\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u0421\u0430\u043d-\u0410\u0433\u0443\u0441\u0442\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Villa San Agust\u00edn"
+    ],
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3838158,
+    "qs_pg:gn_pop":6864,
+    "qs_pg:name":"San Agust\u00edn de Valle F\u00e9rtil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":848412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667997,
+        421172583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3838158,
+        "qs_pg:id":848412,
+        "wd:id":"Q3558742"
+    },
+    "wof:country":"AR",
+    "wof:created":1497290336,
+    "wof:geomhash":"6b14d65958bd1dd2c6f217df3fab6214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172583,
+            "locality_id":1125777737,
+            "region_id":85667997
+        }
+    ],
+    "wof:id":1125777737,
+    "wof:lastmodified":1513889422,
+    "wof:name":"San Agust\u00edn de Valle F\u00e9rtil",
+    "wof:parent_id":421172583,
+    "wof:placetype":"locality",
+    "wof:population":6864,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46821,
+    -30.63353,
+    -67.46821,
+    -30.63353
+],
+  "geometry": {"coordinates":[-67.46821,-30.63353],"type":"Point"}
+}

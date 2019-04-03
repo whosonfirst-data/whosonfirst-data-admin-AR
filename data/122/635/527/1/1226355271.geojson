@@ -1,0 +1,73 @@
+{
+  "id": 1226355271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.96782,-27.49264,-66.96782,-27.49264",
+    "geom:latitude":-27.49264,
+    "geom:longitude":-66.96782,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"10035.0",
+    "gn:asciiname":"La Cienaga",
+    "gn:country_code":"AR",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852022,
+    "gn:latitude":-27.49264,
+    "gn:longitude":-66.96782,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"La Ci\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Catamarca",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cienega",
+        "Ci\u00e9naga",
+        "La Ci\u00e9naga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421204045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852022
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"30ea6d282bce6ddab9c2fd6709dabd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421204045,
+            "locality_id":1226355271,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":1226355271,
+    "wof:lastmodified":1537584868,
+    "wof:name":"La Cienaga",
+    "wof:parent_id":421204045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.96781999999999,
+    -27.49264,
+    -66.96781999999999,
+    -27.49264
+],
+  "geometry": {"coordinates":[-66.96781999999999,-27.49264],"type":"Point"}
+}

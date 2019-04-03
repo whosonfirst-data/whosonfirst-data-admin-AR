@@ -1,0 +1,72 @@
+{
+  "id": 1226319775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.17581,-28.595,-69.17581,-28.595",
+    "geom:latitude":-28.595,
+    "geom:longitude":-69.17581,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"46077.0",
+    "gn:asciiname":"Ranchillos",
+    "gn:country_code":"AR",
+    "gn:dem":3696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3839401,
+    "gn:latitude":-28.595,
+    "gn:longitude":-69.17581,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ranchillos",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/La_Rioja",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ranchillo",
+        "Ranchillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668045,
+        1108718337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3839401
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"bfbe7ae57a90835521a1945b7ceb342a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718337,
+            "locality_id":1226319775,
+            "region_id":85668045
+        }
+    ],
+    "wof:id":1226319775,
+    "wof:lastmodified":1537584845,
+    "wof:name":"Ranchillos",
+    "wof:parent_id":1108718337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.17581,
+    -28.595,
+    -69.17581,
+    -28.595
+],
+  "geometry": {"coordinates":[-69.17581,-28.595],"type":"Point"}
+}

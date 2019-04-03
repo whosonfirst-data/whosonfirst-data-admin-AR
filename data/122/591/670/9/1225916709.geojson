@@ -1,0 +1,69 @@
+{
+  "id": 1225916709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93601,-38.83119,-64.93601,-38.83119",
+    "geom:latitude":-38.83119,
+    "geom:longitude":-64.93601,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"62063.0",
+    "gn:asciiname":"Pichi Mahuida",
+    "gn:country_code":"AR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3841358,
+    "gn:latitude":-38.83119,
+    "gn:longitude":-64.93601,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pichi Mahuida",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841358,
+        "wk:page":"Pichi_Mahuida"
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"07d3c7cc4dd5314e2b77747b59f94ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718393,
+            "locality_id":1225916709,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":1225916709,
+    "wof:lastmodified":1537486315,
+    "wof:name":"Pichi Mahuida",
+    "wof:parent_id":1108718393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93601,
+    -38.83119,
+    -64.93601,
+    -38.83119
+],
+  "geometry": {"coordinates":[-64.93601,-38.83119],"type":"Point"}
+}

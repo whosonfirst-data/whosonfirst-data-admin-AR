@@ -1,0 +1,100 @@
+{
+  "id": 421173551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.01901,-27.46108,-55.01901,-27.46108",
+    "geom:latitude":-27.46108,
+    "geom:longitude":-55.01901,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Campo Ram\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3435765,
+    "qs:gn_pop":10088,
+    "qs:name":"Campo Ram\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Misiones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":290754,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":464891,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668079,
+        421198473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435765,
+        "gp:id":464891,
+        "qs:id":290754,
+        "wd:id":"Q2918968",
+        "wk:page":"Campo Ram\u00f3n"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008989,
+    "wof:geomhash":"4062729babba2f5f69fecca0fae3a13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421198473,
+            "locality_id":421173551,
+            "region_id":85668079
+        }
+    ],
+    "wof:id":421173551,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Campo Ram\u00f3n",
+    "wof:parent_id":421198473,
+    "wof:placetype":"locality",
+    "wof:population":10088,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.01901,
+    -27.46108,
+    -55.01901,
+    -27.46108
+],
+  "geometry": {"coordinates":[-55.01901,-27.46108],"type":"Point"}
+}

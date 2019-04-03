@@ -1,0 +1,68 @@
+{
+  "id": 1310370887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.09723,-32.32622,-67.09723,-32.32622",
+    "geom:latitude":-32.32622,
+    "geom:longitude":-67.09723,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"74007.0",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"AR",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3858586,
+    "gn:latitude":-32.32622,
+    "gn:longitude":-67.09723,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/San_Luis",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668029,
+        421171473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3858586
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"7d34c6e3456cf67105b5c0075a50e3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171473,
+            "locality_id":1310370887,
+            "region_id":85668029
+        }
+    ],
+    "wof:id":1310370887,
+    "wof:lastmodified":1536611251,
+    "wof:name":"El Carmen",
+    "wof:parent_id":421171473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.09723000000001,
+    -32.32622,
+    -67.09723000000001,
+    -32.32622
+],
+  "geometry": {"coordinates":[-67.09723000000001,-32.32622],"type":"Point"}
+}

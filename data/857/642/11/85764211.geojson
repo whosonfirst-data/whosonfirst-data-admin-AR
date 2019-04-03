@@ -1,0 +1,103 @@
+{
+  "id": 85764211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":489937.905749,
+    "geom:bbox":"-60.670961,-32.930057,-60.670961,-32.930057",
+    "geom:latitude":-32.930057,
+    "geom:longitude":-60.670961,
+    "gn:id":"",
+    "iso:country":"AR",
+    "lbl:latitude":-32.930057,
+    "lbl:longitude":-60.670961,
+    "mps:latitude":-32.933079,
+    "mps:longitude":-60.669634,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Moreno"
+    ],
+    "name:unk_x_variant":[
+        "Moreno"
+    ],
+    "qs:gn_adm0_cc":"AR",
+    "qs:gn_id":0,
+    "qs:gn_local":3838583,
+    "qs:local_max":4639,
+    "qs:local_sum":17736,
+    "qs:localhoods":14,
+    "qs:name":"Moreno",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:name_adm2":"Rosario",
+    "qs:name_local":"Rosario",
+    "qs:photo_max":480,
+    "qs:photo_sum":605,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424747,
+    "qs:woe_adm1":2344695,
+    "qs:woe_adm2":20070927,
+    "qs:woe_lau":0,
+    "qs:woe_local":466862,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        421171509,
+        85668077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":331517,
+        "qs:id":319710
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"10c8a685987aac2201ea87ca22da0907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":-1,
+            "neighbourhood_id":85764211,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":85764211,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858886,
+    "wof:name":"Moreno",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.670961,
+    -32.930057,
+    -60.670961,
+    -32.930057
+],
+  "geometry": {"coordinates":[-60.670961,-32.930057],"type":"Point"}
+}

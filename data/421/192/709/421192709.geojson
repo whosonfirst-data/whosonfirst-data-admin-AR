@@ -1,0 +1,106 @@
+{
+  "id": 421192709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.65014,-34.96577,-58.65014,-34.96577",
+    "geom:latitude":-34.96577,
+    "geom:longitude":-58.65014,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:dut_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:eng_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:fre_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:ger_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:por_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:spa_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:swe_x_preferred":[
+        "Vicente Casares"
+    ],
+    "name:unk_x_variant":[
+        "V. Casares"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3427506,
+    "qs:gn_pop":0,
+    "qs:name":"Vicente Casares",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Buenos Aires",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1172976,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466703,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427506,
+        "gp:id":466703,
+        "qs:id":1172976,
+        "wd:id":"Q7925132",
+        "wk:page":"Vicente Casares"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009745,
+    "wof:geomhash":"8f450f5dbdcc10a7700a775b01891135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717887,
+            "locality_id":421192709,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":421192709,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Vicente Casares",
+    "wof:parent_id":1108717887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.65014,
+    -34.96577,
+    -58.65014,
+    -34.96577
+],
+  "geometry": {"coordinates":[-58.65014,-34.96577],"type":"Point"}
+}

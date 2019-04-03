@@ -1,0 +1,91 @@
+{
+  "id": 421171985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06797,-42.41225,-71.06797,-42.41225",
+    "geom:latitude":-42.41225,
+    "geom:longitude":-71.06797,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Leleque"
+    ],
+    "name:nld_x_preferred":[
+        "Leleque"
+    ],
+    "name:spa_x_preferred":[
+        "Leleque"
+    ],
+    "name:unk_x_variant":[
+        "Cholila"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3847073,
+    "qs:gn_pop":0,
+    "qs:name":"Leleque",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":150449,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467295,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421170125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3847073,
+        "gp:id":467295,
+        "qs:id":150449,
+        "wd:id":"Q2515820",
+        "wk:page":"Leleque"
+    },
+    "wof:country":"AR",
+    "wof:created":1459008915,
+    "wof:geomhash":"9a370a2799875e9900879e48d3d1470b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170125,
+            "locality_id":421171985,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421171985,
+    "wof:lastmodified":1527726487,
+    "wof:name":"Leleque",
+    "wof:parent_id":421170125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06797,
+    -42.41225,
+    -71.06797,
+    -42.41225
+],
+  "geometry": {"coordinates":[-71.06797,-42.41225],"type":"Point"}
+}

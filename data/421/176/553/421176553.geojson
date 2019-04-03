@@ -1,0 +1,116 @@
+{
+  "id": 421176553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.80149,-33.53733,-60.80149,-33.53733",
+    "geom:latitude":-33.53733,
+    "geom:longitude":-60.80149,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0441\u0438\u043e\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Departamento Constituci\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Peyrano"
+    ],
+    "name:eng_x_preferred":[
+        "Peyrano"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9partement de Constituci\u00f3n"
+    ],
+    "name:hun_x_preferred":[
+        "Constituci\u00f3n megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u057d\u057f\u056b\u057f\u0578\u0582\u057d\u056b\u0578\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento di Constituci\u00f3n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e1\u10e2\u10d8\u10e2\u10e3\u10e1\u10d8\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Departamento Constituci\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0439\u0440\u0430\u043d\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841426,
+    "qs:gn_pop":0,
+    "qs:name":"Peyrano",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Santa Fe",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1046835,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":467835,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        421171517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841426,
+        "gp:id":467835,
+        "qs:id":1046835,
+        "wd:id":"Q2114371"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009112,
+    "wof:geomhash":"287f425b76ef56a80f41ba23f0c53ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171517,
+            "locality_id":421176553,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":421176553,
+    "wof:lastmodified":1513889349,
+    "wof:name":"Peyrano",
+    "wof:parent_id":421171517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.80149,
+    -33.53733,
+    -60.80149,
+    -33.53733
+],
+  "geometry": {"coordinates":[-60.80149,-33.53733],"type":"Point"}
+}

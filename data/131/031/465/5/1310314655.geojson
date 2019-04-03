@@ -1,0 +1,71 @@
+{
+  "id": 1310314655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36027,-34.4448,-59.36027,-34.4448",
+    "geom:latitude":-34.4448,
+    "geom:longitude":-59.36027,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6728.0",
+    "gn:asciiname":"Cucullu",
+    "gn:country_code":"AR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3435153,
+    "gn:latitude":-34.4448,
+    "gn:longitude":-59.36027,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Cucull\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Buenos_Aires",
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cucull\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3435153
+    },
+    "wof:country":"AR",
+    "wof:geomhash":"2af260a8acb5f7ea3c10b354f61d6fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718089,
+            "locality_id":1310314655,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":1310314655,
+    "wof:lastmodified":1537584826,
+    "wof:name":"Cucullu",
+    "wof:parent_id":1108718089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36026999999999,
+    -34.4448,
+    -59.36026999999999,
+    -34.4448
+],
+  "geometry": {"coordinates":[-59.36026999999999,-34.4448],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421194747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.48084,-31.11732,-64.48084,-31.11732",
+    "geom:latitude":-31.11732,
+    "geom:longitude":-64.48084,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:eng_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:fra_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:fre_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:por_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:spa_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0454-\u0415\u0440\u043c\u043e\u0441\u043e"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3833211,
+    "qs:gn_pop":5486,
+    "qs:name":"Valle Hermoso",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":117,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":117,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":906652,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466692,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421170503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3833211,
+        "gp:id":466692,
+        "qs:id":906652,
+        "wd:id":"Q9092406",
+        "wk:page":"Valle Hermoso, C\u00f3rdoba"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009818,
+    "wof:geomhash":"c52d54b992df23d6ef30c41d54619cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170503,
+            "locality_id":421194747,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421194747,
+    "wof:lastmodified":1527716132,
+    "wof:name":"Valle Hermoso",
+    "wof:parent_id":421170503,
+    "wof:placetype":"locality",
+    "wof:population":5486,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.48084,
+    -31.11732,
+    -64.48084,
+    -31.11732
+],
+  "geometry": {"coordinates":[-64.48084,-31.11732],"type":"Point"}
+}

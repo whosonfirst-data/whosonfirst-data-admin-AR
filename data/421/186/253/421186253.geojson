@@ -1,0 +1,96 @@
+{
+  "id": 421186253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9,-38.66667,-70.9,-38.66667",
+    "geom:latitude":-38.66667,
+    "geom:longitude":-70.9,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Pas de Pino Hachado"
+    ],
+    "name:ceb_x_preferred":[
+        "Paso de Pino Hachado"
+    ],
+    "name:lmo_x_preferred":[
+        "Pass de Pino Hachado"
+    ],
+    "name:por_x_preferred":[
+        "Passo de Pino Hachado"
+    ],
+    "name:spa_x_preferred":[
+        "Paso de Pino Hachado"
+    ],
+    "name:swe_x_preferred":[
+        "Paso de Pino Hachado"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3841079,
+    "qs:gn_pop":0,
+    "qs:name":"Pino Hachado",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Neuqu\u00e9n",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1062840,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":466126,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421202309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3841079,
+        "gp:id":466126,
+        "qs:id":1062840,
+        "wd:id":"Q7196378"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009475,
+    "wof:geomhash":"74088aabcb642552f21cb739bb7457c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421202309,
+            "locality_id":421186253,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":421186253,
+    "wof:lastmodified":1527716318,
+    "wof:name":"Pino Hachado",
+    "wof:parent_id":421202309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9,
+    -38.66667,
+    -70.9,
+    -38.66667
+],
+  "geometry": {"coordinates":[-70.90000000000001,-38.66667],"type":"Point"}
+}

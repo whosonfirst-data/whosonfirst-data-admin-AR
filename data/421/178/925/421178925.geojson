@@ -1,0 +1,92 @@
+{
+  "id": 421178925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86234,-33.20105,-63.86234,-33.20105",
+    "geom:latitude":-33.20105,
+    "geom:longitude":-63.86234,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Villa Reducci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Reducci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Reducci\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Reducci\u00f3n"
+    ],
+    "qs:gn_country":"AR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3832648,
+    "qs:gn_pop":1467,
+    "qs:name":"Villa Reducci\u00f3n",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"C\u00f3rdoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":291496,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":468737,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668031,
+        421166595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3832648,
+        "gp:id":468737,
+        "qs:id":291496,
+        "wd:id":"Q11071461"
+    },
+    "wof:country":"AR",
+    "wof:created":1459009198,
+    "wof:geomhash":"83e4a4bf4ddf37c9fd047a89442202de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421166595,
+            "locality_id":421178925,
+            "region_id":85668031
+        }
+    ],
+    "wof:id":421178925,
+    "wof:lastmodified":1513889590,
+    "wof:name":"Villa Reducci\u00f3n",
+    "wof:parent_id":421166595,
+    "wof:placetype":"locality",
+    "wof:population":1467,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86234,
+    -33.20105,
+    -63.86234,
+    -33.20105
+],
+  "geometry": {"coordinates":[-63.86234,-33.20105],"type":"Point"}
+}

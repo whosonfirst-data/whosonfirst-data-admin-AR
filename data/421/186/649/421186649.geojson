@@ -1,0 +1,76 @@
+{
+  "id": 421186649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.758181,-42.079287,-63.758181,-42.079287",
+    "geom:latitude":-42.079287,
+    "geom:longitude":-63.758181,
+    "iso:country":"AR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Loberia",
+    "qs:name_adm0":"Argentina",
+    "qs:name_adm1":"Chubut",
+    "qs:photos":493,
+    "qs:photos_1k":100,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":493,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075067,
+    "qs:woe_adm0":23424747,
+    "qs:woe_id":332629,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        1108718233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":332629,
+        "qs:id":1075067
+    },
+    "wof:country":"AR",
+    "wof:created":1459009487,
+    "wof:geomhash":"0041895c9104b3c5af2586fd8f261fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718233,
+            "locality_id":421186649,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":421186649,
+    "wof:lastmodified":1527716316,
+    "wof:name":"Loberia",
+    "wof:parent_id":1108718233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ar",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.758181,
+    -42.079287,
+    -63.758181,
+    -42.079287
+],
+  "geometry": {"coordinates":[-63.758181,-42.079287],"type":"Point"}
+}
