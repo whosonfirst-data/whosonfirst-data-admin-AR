@@ -10,6 +10,12 @@
     "geom:latitude":-34.513091,
     "geom:longitude":-58.776417,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Jose C Paz Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.51563,
     "lbl:longitude":-58.777147,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717985,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"Jose C Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

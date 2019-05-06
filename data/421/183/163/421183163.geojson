@@ -10,6 +10,12 @@
     "geom:latitude":-27.142932,
     "geom:longitude":-54.802886,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Cainguas Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.125252,
     "lbl:longitude":-54.823837,
     "meso:admin_1":"Misiones",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421183163,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1554759257,
     "wof:name":"Cainguas",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

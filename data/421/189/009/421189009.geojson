@@ -10,6 +10,12 @@
     "geom:latitude":-32.771255,
     "geom:longitude":-60.226084,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Victoria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.75526,
     "lbl:longitude":-60.273375,
     "meso:admin_1":"Entre Rios",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421189009,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554759261,
     "wof:name":"Victoria",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

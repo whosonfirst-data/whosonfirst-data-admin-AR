@@ -10,6 +10,12 @@
     "geom:latitude":-33.328889,
     "geom:longitude":-64.494471,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Cuarto Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.399764,
     "lbl:longitude":-64.569955,
     "meso:admin_1":"Cordoba",
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":421185481,
-    "wof:lastmodified":1536616031,
+    "wof:lastmodified":1554759259,
     "wof:name":"Rio Cuarto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

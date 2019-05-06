@@ -10,6 +10,12 @@
     "geom:latitude":-36.29841,
     "geom:longitude":-61.149734,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.318681,
     "lbl:longitude":-61.158681,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717879,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Bolivar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

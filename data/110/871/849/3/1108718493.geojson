@@ -10,6 +10,12 @@
     "geom:latitude":-28.600812,
     "geom:longitude":-64.316196,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Loreto Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.559257,
     "lbl:longitude":-64.371936,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718493,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759563,
     "wof:name":"Loreto",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

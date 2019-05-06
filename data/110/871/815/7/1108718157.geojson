@@ -10,6 +10,12 @@
     "geom:latitude":-26.785774,
     "geom:longitude":-66.261836,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.90981,
     "lbl:longitude":-66.255537,
     "meso:admin_1":"Catamarca",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718157,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759554,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-32.582978,
     "geom:longitude":-67.888537,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lavalle Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.549729,
     "lbl:longitude":-67.72117,
     "meso:admin_1":"Mendoza",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421187691,
-    "wof:lastmodified":1536616037,
+    "wof:lastmodified":1554759260,
     "wof:name":"Lavalle",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

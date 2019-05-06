@@ -10,6 +10,12 @@
     "geom:latitude":-31.709838,
     "geom:longitude":-64.305306,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.677647,
     "lbl:longitude":-64.215921,
     "meso:admin_1":"Cordoba",
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":421186301,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1554759259,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

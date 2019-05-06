@@ -10,6 +10,12 @@
     "geom:latitude":-36.395858,
     "geom:longitude":-66.557349,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chalileo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.395,
     "lbl:longitude":-66.557571,
     "meso:admin_1":"La Pampa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718299,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759558,
     "wof:name":"Chalileo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

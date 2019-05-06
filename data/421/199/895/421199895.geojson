@@ -10,6 +10,12 @@
     "geom:latitude":-39.701835,
     "geom:longitude":-68.484778,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "El Cuy Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-39.540812,
     "lbl:longitude":-68.325731,
     "meso:admin_1":"Rio Negro",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421199895,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1554759264,
     "wof:name":"El Cuy",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

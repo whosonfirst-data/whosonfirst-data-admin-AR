@@ -10,6 +10,12 @@
     "geom:latitude":-43.323361,
     "geom:longitude":-70.34883,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Langui\u00f1eo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-43.307034,
     "lbl:longitude":-70.271771,
     "meso:admin_1":"Chubut",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421175301,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1554759256,
     "wof:name":"Langui\u00f1eo",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

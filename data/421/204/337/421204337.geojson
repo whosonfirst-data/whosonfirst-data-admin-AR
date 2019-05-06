@@ -10,6 +10,12 @@
     "geom:latitude":-28.205172,
     "geom:longitude":-56.198193,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santo Tome Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.19651,
     "lbl:longitude":-56.157278,
     "meso:admin_1":"Corrientes",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421204337,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1554759268,
     "wof:name":"Santo Tome",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.755449,
     "geom:longitude":-58.423524,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lomas De Zamora Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.761672,
     "lbl:longitude":-58.429884,
     "meso:admin_1":"Buenos Aires",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421204047,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1555220348,
     "wof:name":"Lomas De Zamora",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

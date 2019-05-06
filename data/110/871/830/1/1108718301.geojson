@@ -10,6 +10,12 @@
     "geom:latitude":-36.400911,
     "geom:longitude":-67.689544,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chical Co Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.405,
     "lbl:longitude":-67.689409,
     "meso:admin_1":"La Pampa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718301,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759557,
     "wof:name":"Chical Co",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

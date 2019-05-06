@@ -10,6 +10,12 @@
     "geom:latitude":-34.998263,
     "geom:longitude":-61.050379,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Viamonte Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.008594,
     "lbl:longitude":-61.026962,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717971,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"General Viamonte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

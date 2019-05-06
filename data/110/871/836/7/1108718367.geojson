@@ -10,6 +10,12 @@
     "geom:latitude":-27.545502,
     "geom:longitude":-55.857067,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Capital - Posadas Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.510681,
     "lbl:longitude":-55.891202,
     "meso:admin_1":"Misiones",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718367,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1555091984,
     "wof:name":"Capital",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

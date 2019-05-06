@@ -10,6 +10,12 @@
     "geom:latitude":-23.121356,
     "geom:longitude":-62.137548,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ramon Lista Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.213466,
     "lbl:longitude":-62.106895,
     "meso:admin_1":"Formosa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718275,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Ramon Lista",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

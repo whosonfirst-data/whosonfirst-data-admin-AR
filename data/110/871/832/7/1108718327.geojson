@@ -10,6 +10,12 @@
     "geom:latitude":-30.167606,
     "geom:longitude":-65.95623,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chamical Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.144093,
     "lbl:longitude":-65.956225,
     "meso:admin_1":"La Rioja",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718327,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759557,
     "wof:name":"Chamical",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

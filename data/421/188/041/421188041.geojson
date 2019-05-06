@@ -10,6 +10,12 @@
     "geom:latitude":-34.614961,
     "geom:longitude":-64.376311,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Roca Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-34.606665,
     "lbl:longitude":-64.447201,
     "meso:admin_1":"Cordoba",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188041,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1554759260,
     "wof:name":"General Roca",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

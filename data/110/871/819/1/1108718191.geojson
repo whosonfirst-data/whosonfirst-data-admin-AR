@@ -10,6 +10,12 @@
     "geom:latitude":-29.998042,
     "geom:longitude":-58.746013,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Sauce Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.007464,
     "lbl:longitude":-58.768088,
     "meso:admin_1":"Corrientes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718191,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759556,
     "wof:name":"Sauce",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

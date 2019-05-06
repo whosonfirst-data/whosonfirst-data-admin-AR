@@ -10,6 +10,12 @@
     "geom:latitude":-32.930269,
     "geom:longitude":-68.892598,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Godoy Cruz Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.928379,
     "lbl:longitude":-68.883073,
     "meso:admin_1":"Mendoza",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421198469,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1554759263,
     "wof:name":"Godoy Cruz",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

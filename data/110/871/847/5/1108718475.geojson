@@ -10,6 +10,12 @@
     "geom:latitude":-27.876413,
     "geom:longitude":-64.438159,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Capital - Santiago del Estero Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.87079,
     "lbl:longitude":-64.390823,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718475,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1555091985,
     "wof:name":"Capital",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

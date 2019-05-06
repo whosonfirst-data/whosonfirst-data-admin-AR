@@ -10,6 +10,12 @@
     "geom:latitude":-25.044861,
     "geom:longitude":-66.195655,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Cachi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.09866,
     "lbl:longitude":-66.073868,
     "meso:admin_1":"Salta",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421166803,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1554759250,
     "wof:name":"Cachi",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-31.270898,
     "geom:longitude":-58.226445,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Concordia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.261091,
     "lbl:longitude":-58.193672,
     "meso:admin_1":"Entre Rios",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1108718245,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"Concordia",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

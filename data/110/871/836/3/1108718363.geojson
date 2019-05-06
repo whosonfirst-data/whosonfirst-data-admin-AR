@@ -10,6 +10,12 @@
     "geom:latitude":-33.617383,
     "geom:longitude":-67.963233,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.628499,
     "lbl:longitude":-68.001782,
     "meso:admin_1":"Mendoza",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718363,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

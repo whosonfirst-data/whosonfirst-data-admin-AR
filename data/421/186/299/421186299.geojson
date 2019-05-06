@@ -10,6 +10,12 @@
     "geom:latitude":-24.141246,
     "geom:longitude":-66.208326,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Poma Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.766066,
     "lbl:longitude":-66.186019,
     "meso:admin_1":"Salta",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421186299,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1554759259,
     "wof:name":"La Poma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

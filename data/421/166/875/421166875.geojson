@@ -10,6 +10,12 @@
     "geom:latitude":-31.233594,
     "geom:longitude":-61.657563,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Castellanos Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.225416,
     "lbl:longitude":-61.648832,
     "meso:admin_1":"Santa Fe",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421166875,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1554759250,
     "wof:name":"Castellanos",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

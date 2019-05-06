@@ -10,6 +10,12 @@
     "geom:latitude":-26.46921,
     "geom:longitude":-58.561141,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Laishi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.553213,
     "lbl:longitude":-58.426436,
     "meso:admin_1":"Formosa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718263,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Laishi",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-25.370471,
     "geom:longitude":-58.063374,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Pilcomayo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.322084,
     "lbl:longitude":-58.055287,
     "meso:admin_1":"Formosa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718273,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Pilcomayo",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

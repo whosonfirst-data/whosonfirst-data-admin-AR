@@ -10,6 +10,12 @@
     "geom:latitude":-28.044812,
     "geom:longitude":-62.543067,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Juan F Ibarra Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.074565,
     "lbl:longitude":-62.543268,
     "meso:admin_1":"Santiago Del Estero",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718491,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759562,
     "wof:name":"Juan F Ibarra",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

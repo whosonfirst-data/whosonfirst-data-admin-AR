@@ -10,6 +10,12 @@
     "geom:latitude":-34.910302,
     "geom:longitude":-57.827472,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Berisso Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.904276,
     "lbl:longitude":-57.834994,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717877,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Berisso",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

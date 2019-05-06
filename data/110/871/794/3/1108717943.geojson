@@ -10,6 +10,12 @@
     "geom:latitude":-34.237551,
     "geom:longitude":-61.283978,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Arenales Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.249788,
     "lbl:longitude":-61.289575,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717943,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220428,
     "wof:name":"General Arenales",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-37.034663,
     "geom:longitude":-58.442427,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ayacucho Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.03905,
     "lbl:longitude":-58.561445,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717859,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

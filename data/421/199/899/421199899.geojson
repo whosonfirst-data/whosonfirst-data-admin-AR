@@ -10,6 +10,12 @@
     "geom:latitude":-36.880041,
     "geom:longitude":-70.286438,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chos Malal Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.898423,
     "lbl:longitude":-70.281789,
     "meso:admin_1":"Neuquen",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1554759264,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

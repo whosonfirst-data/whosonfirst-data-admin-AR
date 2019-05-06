@@ -10,6 +10,12 @@
     "geom:latitude":-27.11293,
     "geom:longitude":-65.641756,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Monteros Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.109136,
     "lbl:longitude":-65.611938,
     "meso:admin_1":"Tucuman",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421183901,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1554759258,
     "wof:name":"Monteros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

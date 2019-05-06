@@ -10,6 +10,12 @@
     "geom:latitude":-26.819502,
     "geom:longitude":-60.017759,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "25 de Mayo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.836508,
     "lbl:longitude":-60.021327,
     "meso:admin_1":"Chaco",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718231,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1555220433,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

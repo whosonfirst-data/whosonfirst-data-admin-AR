@@ -10,6 +10,12 @@
     "geom:latitude":-28.673434,
     "geom:longitude":-59.52763,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Obligado Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.643414,
     "lbl:longitude":-59.466815,
     "meso:admin_1":"Santa Fe",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421183345,
-    "wof:lastmodified":1536616011,
+    "wof:lastmodified":1554759258,
     "wof:name":"General Obligado",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

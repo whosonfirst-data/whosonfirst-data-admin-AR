@@ -10,6 +10,12 @@
     "geom:latitude":-31.641642,
     "geom:longitude":-66.146431,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.6,
     "lbl:longitude":-66.021828,
     "meso:admin_1":"La Rioja",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718341,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759559,
     "wof:name":"General San Martin",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

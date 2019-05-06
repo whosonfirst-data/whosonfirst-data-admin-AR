@@ -10,6 +10,12 @@
     "geom:latitude":-27.438142,
     "geom:longitude":-57.624639,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Beron De Astrada Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.474103,
     "lbl:longitude":-57.581234,
     "meso:admin_1":"Corrientes",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718169,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759554,
     "wof:name":"Beron De Astrada",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

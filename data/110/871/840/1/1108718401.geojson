@@ -10,6 +10,12 @@
     "geom:latitude":-41.133257,
     "geom:longitude":-68.90594,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "25 de Mayo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-41.221027,
     "lbl:longitude":-68.905323,
     "meso:admin_1":"Rio Negro",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718401,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1555220433,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

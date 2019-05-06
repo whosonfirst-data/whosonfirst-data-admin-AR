@@ -10,6 +10,12 @@
     "geom:latitude":-26.377087,
     "geom:longitude":-59.488325,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Libertador General San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.370844,
     "lbl:longitude":-59.596185,
     "meso:admin_1":"Chaco",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718207,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

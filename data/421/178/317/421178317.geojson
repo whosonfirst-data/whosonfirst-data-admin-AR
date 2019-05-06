@@ -10,6 +10,12 @@
     "geom:latitude":-27.269838,
     "geom:longitude":-65.811084,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chicligasta Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.255677,
     "lbl:longitude":-65.890685,
     "meso:admin_1":"Tucuman",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421178317,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1554759256,
     "wof:name":"Chicligasta",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

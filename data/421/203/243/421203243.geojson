@@ -10,6 +10,12 @@
     "geom:latitude":-28.316278,
     "geom:longitude":-68.525019,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Vinchina Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.331146,
     "lbl:longitude":-68.524909,
     "meso:admin_1":"La Rioja",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421203243,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1554759265,
     "wof:name":"Vinchina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

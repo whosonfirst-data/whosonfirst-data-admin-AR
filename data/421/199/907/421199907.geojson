@@ -10,6 +10,12 @@
     "geom:latitude":-26.672721,
     "geom:longitude":-53.952486,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.605314,
     "lbl:longitude":-53.97738,
     "meso:admin_1":"Misiones",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":421199907,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1554759264,
     "wof:name":"San Pedro",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

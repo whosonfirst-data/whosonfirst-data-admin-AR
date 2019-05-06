@@ -10,6 +10,12 @@
     "geom:latitude":-24.992463,
     "geom:longitude":-65.397794,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Cerrillos Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.986487,
     "lbl:longitude":-65.407849,
     "meso:admin_1":"Salta",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421171213,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1554759252,
     "wof:name":"Cerrillos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

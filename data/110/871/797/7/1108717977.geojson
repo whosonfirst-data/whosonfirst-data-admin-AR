@@ -10,6 +10,12 @@
     "geom:latitude":-36.258967,
     "geom:longitude":-61.659152,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Hipolito Yrigoyen Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.280742,
     "lbl:longitude":-61.664838,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717977,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"Hipolito Yrigoyen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

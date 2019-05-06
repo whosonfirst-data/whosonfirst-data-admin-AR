@@ -10,6 +10,12 @@
     "geom:latitude":-28.773377,
     "geom:longitude":-56.890982,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.849037,
     "lbl:longitude":-56.8982,
     "meso:admin_1":"Corrientes",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421189963,
-    "wof:lastmodified":1536616077,
+    "wof:lastmodified":1554759261,
     "wof:name":"San Martin",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

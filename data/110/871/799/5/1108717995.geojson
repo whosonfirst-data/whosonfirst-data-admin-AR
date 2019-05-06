@@ -10,6 +10,12 @@
     "geom:latitude":-37.515582,
     "geom:longitude":-60.76885,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Laprida Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.524467,
     "lbl:longitude":-60.693407,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717995,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220429,
     "wof:name":"Laprida",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

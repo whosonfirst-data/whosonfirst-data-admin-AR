@@ -10,6 +10,12 @@
     "geom:latitude":-27.487062,
     "geom:longitude":-64.7605,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Hondo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.476302,
     "lbl:longitude":-64.780374,
     "meso:admin_1":"Santiago Del Estero",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421186443,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1554759260,
     "wof:name":"Rio Hondo",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.889042,
     "geom:longitude":-54.913985,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Libertador General San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.8677,
     "lbl:longitude":-54.887228,
     "meso:admin_1":"Misiones",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718373,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

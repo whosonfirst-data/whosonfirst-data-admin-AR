@@ -10,6 +10,12 @@
     "geom:latitude":-26.800557,
     "geom:longitude":-59.518479,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Sargento Cabral Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.894302,
     "lbl:longitude":-59.494589,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718227,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"Sargento Cabral",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

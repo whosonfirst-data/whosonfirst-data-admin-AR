@@ -10,6 +10,12 @@
     "geom:latitude":-31.519759,
     "geom:longitude":-68.461154,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.519259,
     "lbl:longitude":-68.461154,
     "meso:admin_1":"San Juan",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718431,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

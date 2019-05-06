@@ -10,6 +10,12 @@
     "geom:latitude":-46.834547,
     "geom:longitude":-70.631514,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lago Buenos Aires Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-46.703465,
     "lbl:longitude":-70.422325,
     "meso:admin_1":"Santa Cruz",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421170133,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1554759251,
     "wof:name":"Lago Buenos Aires",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.407405,
     "geom:longitude":-59.884674,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Carmen De Areco Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.396545,
     "lbl:longitude":-59.88465,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717897,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220427,
     "wof:name":"Carmen De Areco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

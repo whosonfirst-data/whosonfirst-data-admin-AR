@@ -10,6 +10,12 @@
     "geom:latitude":-38.26758,
     "geom:longitude":-65.076308,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lihuel Calel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.260316,
     "lbl:longitude":-65.076165,
     "meso:admin_1":"La Pampa",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188213,
-    "wof:lastmodified":1536616050,
+    "wof:lastmodified":1554759261,
     "wof:name":"Lihuel Calel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

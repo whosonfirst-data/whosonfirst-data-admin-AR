@@ -10,6 +10,12 @@
     "geom:latitude":-32.202688,
     "geom:longitude":-59.781571,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Nogoya Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.192598,
     "lbl:longitude":-59.788544,
     "meso:admin_1":"Entre Rios",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421171273,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1554759252,
     "wof:name":"Nogoya",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

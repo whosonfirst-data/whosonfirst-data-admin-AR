@@ -10,6 +10,12 @@
     "geom:latitude":-34.874249,
     "geom:longitude":-62.401524,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Florentino Ameghino Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.845624,
     "lbl:longitude":-62.449542,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717937,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Florentino Ameghino",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

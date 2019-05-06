@@ -10,6 +10,12 @@
     "geom:latitude":-38.570123,
     "geom:longitude":-70.374117,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Picunches Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.6161,
     "lbl:longitude":-70.448113,
     "meso:admin_1":"Neuquen",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202309,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1554759265,
     "wof:name":"Picunches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

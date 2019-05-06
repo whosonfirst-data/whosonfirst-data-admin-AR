@@ -10,6 +10,12 @@
     "geom:latitude":-38.098376,
     "geom:longitude":-69.012485,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "A\u00f1elo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.107412,
     "lbl:longitude":-69.160582,
     "meso:admin_1":"Neuquen",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421170123,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1554759251,
     "wof:name":"A\u00f1elo",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

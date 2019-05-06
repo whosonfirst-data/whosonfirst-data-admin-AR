@@ -10,6 +10,12 @@
     "geom:latitude":-34.94414,
     "geom:longitude":-68.382091,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-34.848573,
     "lbl:longitude":-68.356655,
     "meso:admin_1":"Mendoza",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421188045,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1554759260,
     "wof:name":"San Rafael",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

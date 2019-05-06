@@ -10,6 +10,12 @@
     "geom:latitude":-22.136071,
     "geom:longitude":-66.230765,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Catalina Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.086575,
     "lbl:longitude":-66.118694,
     "meso:admin_1":"Jujuy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718281,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.193518,
     "geom:longitude":-60.787547,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rojas Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.219053,
     "lbl:longitude":-60.76557,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718077,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"Rojas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

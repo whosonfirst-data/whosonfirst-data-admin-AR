@@ -10,6 +10,12 @@
     "geom:latitude":-37.966344,
     "geom:longitude":-57.742727,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Pueyrredon Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.954822,
     "lbl:longitude":-57.702538,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717963,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"General Pueyrredon",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

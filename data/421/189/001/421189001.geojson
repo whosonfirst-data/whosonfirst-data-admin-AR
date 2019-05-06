@@ -10,6 +10,12 @@
     "geom:latitude":-32.216795,
     "geom:longitude":-65.394342,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Junin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.11428,
     "lbl:longitude":-65.501439,
     "meso:admin_1":"San Luis",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421189001,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554759261,
     "wof:name":"Junin",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

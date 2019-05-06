@@ -10,6 +10,12 @@
     "geom:latitude":-22.939334,
     "geom:longitude":-65.934729,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Cochinoca Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.904282,
     "lbl:longitude":-65.944177,
     "meso:admin_1":"Jujuy",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421185367,
-    "wof:lastmodified":1536616029,
+    "wof:lastmodified":1554759259,
     "wof:name":"Cochinoca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

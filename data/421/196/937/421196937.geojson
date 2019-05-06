@@ -10,6 +10,12 @@
     "geom:latitude":-39.794586,
     "geom:longitude":-71.259385,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Huiliches Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-39.777883,
     "lbl:longitude":-71.259179,
     "meso:admin_1":"Neuquen",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421196937,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1554759263,
     "wof:name":"Huiliches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

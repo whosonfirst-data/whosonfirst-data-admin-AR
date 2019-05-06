@@ -10,6 +10,12 @@
     "geom:latitude":-54.03409,
     "geom:longitude":-67.899259,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Grande Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-54.11223,
     "lbl:longitude":-68.072537,
     "meso:admin_1":"Tierra Del Fuego",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421175153,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1554759255,
     "wof:name":"Rio Grande",
     "wof:parent_id":85667995,
     "wof:placetype":"county",

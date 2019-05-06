@@ -10,6 +10,12 @@
     "geom:latitude":-34.437376,
     "geom:longitude":-59.472025,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Andres De Giles Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.443955,
     "lbl:longitude":-59.472012,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718089,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"San Andres De Giles",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

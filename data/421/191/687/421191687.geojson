@@ -10,6 +10,12 @@
     "geom:latitude":-34.679307,
     "geom:longitude":-58.341166,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Avellaneda Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.678356,
     "lbl:longitude":-58.341159,
     "meso:admin_1":"Buenos Aires",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1536616098,
+    "wof:lastmodified":1555220347,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.075411,
     "geom:longitude":-69.097082,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-34.022878,
     "lbl:longitude":-69.03979,
     "meso:admin_1":"Mendoza",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421195857,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554759263,
     "wof:name":"San Carlos",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

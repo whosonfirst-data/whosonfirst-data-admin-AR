@@ -10,6 +10,12 @@
     "geom:latitude":-31.54798,
     "geom:longitude":-68.638087,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rivadavia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.553376,
     "lbl:longitude":-68.649906,
     "meso:admin_1":"San Juan",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421205537,
-    "wof:lastmodified":1536616172,
+    "wof:lastmodified":1554759269,
     "wof:name":"Rivadavia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-49.831977,
     "geom:longitude":-72.045334,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lago Argentino Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-49.794184,
     "lbl:longitude":-72.165614,
     "meso:admin_1":"Santa Cruz",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":421183349,
-    "wof:lastmodified":1536616012,
+    "wof:lastmodified":1554759258,
     "wof:name":"Lago Argentino",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

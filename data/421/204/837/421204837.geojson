@@ -10,6 +10,12 @@
     "geom:latitude":-27.376393,
     "geom:longitude":-54.634855,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "25 de Mayo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.369325,
     "lbl:longitude":-54.686782,
     "meso:admin_1":"Misiones",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421204837,
-    "wof:lastmodified":1536616167,
+    "wof:lastmodified":1555220348,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

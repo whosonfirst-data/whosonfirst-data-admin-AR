@@ -10,6 +10,12 @@
     "geom:latitude":-28.178408,
     "geom:longitude":-64.277563,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Silipica Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.208745,
     "lbl:longitude":-64.277528,
     "meso:admin_1":"Santiago Del Estero",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718517,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759563,
     "wof:name":"Silipica",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.424104,
     "geom:longitude":-65.29167,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Simoca Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.407779,
     "lbl:longitude":-65.316459,
     "meso:admin_1":"Tucuman",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421182827,
-    "wof:lastmodified":1536615989,
+    "wof:lastmodified":1554759257,
     "wof:name":"Simoca",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

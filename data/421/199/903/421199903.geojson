@@ -10,6 +10,12 @@
     "geom:latitude":-41.739124,
     "geom:longitude":-70.40249,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "\u00d1orquinco Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-41.701992,
     "lbl:longitude":-70.402711,
     "meso:admin_1":"Rio Negro",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421199903,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1554759264,
     "wof:name":"\u00d1orquinco",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

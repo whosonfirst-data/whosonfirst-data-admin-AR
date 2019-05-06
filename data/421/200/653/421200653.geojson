@@ -10,6 +10,12 @@
     "geom:latitude":-49.947122,
     "geom:longitude":-69.443466,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Corpen Aike Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-50.039997,
     "lbl:longitude":-69.621208,
     "meso:admin_1":"Santa Cruz",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421200653,
-    "wof:lastmodified":1536616135,
+    "wof:lastmodified":1554759264,
     "wof:name":"Corpen Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

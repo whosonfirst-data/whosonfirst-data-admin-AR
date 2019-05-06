@@ -10,6 +10,12 @@
     "geom:latitude":-32.708372,
     "geom:longitude":-61.273527,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Iriondo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.658244,
     "lbl:longitude":-61.266847,
     "meso:admin_1":"Santa Fe",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421203251,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1554759266,
     "wof:name":"Iriondo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

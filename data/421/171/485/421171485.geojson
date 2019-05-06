@@ -10,6 +10,12 @@
     "geom:latitude":-33.62223,
     "geom:longitude":-69.507888,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tunuyan Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.625,
     "lbl:longitude":-69.499189,
     "meso:admin_1":"Mendoza",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171485,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Tunuyan",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-28.584629,
     "geom:longitude":-62.32857,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Taboada Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.609261,
     "lbl:longitude":-62.341206,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718483,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759562,
     "wof:name":"General Taboada",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

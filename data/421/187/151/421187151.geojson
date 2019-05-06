@@ -10,6 +10,12 @@
     "geom:latitude":-24.563102,
     "geom:longitude":-65.436962,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Caldera Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.577601,
     "lbl:longitude":-65.441111,
     "meso:admin_1":"Salta",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421187151,
-    "wof:lastmodified":1536616037,
+    "wof:lastmodified":1554759260,
     "wof:name":"La Caldera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

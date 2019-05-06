@@ -10,6 +10,12 @@
     "geom:latitude":-27.35014,
     "geom:longitude":-59.25779,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Libertad Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.33827,
     "lbl:longitude":-59.236698,
     "meso:admin_1":"Chaco",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421173247,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1554759255,
     "wof:name":"Libertad",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

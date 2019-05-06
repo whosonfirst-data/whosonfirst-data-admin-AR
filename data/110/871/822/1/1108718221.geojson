@@ -10,6 +10,12 @@
     "geom:latitude":-27.1678,
     "geom:longitude":-58.959746,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "1\u00b0 de Mayo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.231228,
     "lbl:longitude":-58.923168,
     "meso:admin_1":"Chaco",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718221,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1555220433,
     "wof:name":"1\u00b0 De Mayo",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

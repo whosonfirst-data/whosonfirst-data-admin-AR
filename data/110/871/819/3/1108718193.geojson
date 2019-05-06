@@ -10,6 +10,12 @@
     "geom:latitude":-27.118559,
     "geom:longitude":-61.308622,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chacabuco Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.096153,
     "lbl:longitude":-61.345693,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718193,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759554,
     "wof:name":"Chacabuco",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

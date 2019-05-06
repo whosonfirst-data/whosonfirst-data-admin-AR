@@ -10,6 +10,12 @@
     "geom:latitude":-33.60991,
     "geom:longitude":-58.97372,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Islas del Ibicuy Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.637034,
     "lbl:longitude":-59.02968,
     "meso:admin_1":"Entre Rios",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171503,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1555091984,
     "wof:name":"Islas Del Ibicuy",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

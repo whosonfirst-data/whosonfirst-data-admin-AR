@@ -10,6 +10,12 @@
     "geom:latitude":-28.099856,
     "geom:longitude":-63.43,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Sarmiento Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.037204,
     "lbl:longitude":-63.509964,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718515,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759563,
     "wof:name":"Sarmiento",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

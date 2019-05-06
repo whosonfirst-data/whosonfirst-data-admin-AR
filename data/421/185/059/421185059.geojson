@@ -10,6 +10,12 @@
     "geom:latitude":-26.738437,
     "geom:longitude":-60.756604,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Independencia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.729676,
     "lbl:longitude":-60.760397,
     "meso:admin_1":"Chaco",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421185059,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1554759258,
     "wof:name":"Independencia",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

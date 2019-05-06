@@ -10,6 +10,12 @@
     "geom:latitude":-27.457478,
     "geom:longitude":-55.582016,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Candelaria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.446069,
     "lbl:longitude":-55.607674,
     "meso:admin_1":"Misiones",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421203247,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1554759265,
     "wof:name":"Candelaria",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

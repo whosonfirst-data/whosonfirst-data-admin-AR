@@ -10,6 +10,12 @@
     "geom:latitude":-31.623946,
     "geom:longitude":-68.959384,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Zonda Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.7,
     "lbl:longitude":-68.935611,
     "meso:admin_1":"San Juan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421194777,
-    "wof:lastmodified":1536616116,
+    "wof:lastmodified":1554759263,
     "wof:name":"Zonda",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

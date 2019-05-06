@@ -10,6 +10,12 @@
     "geom:latitude":-29.771349,
     "geom:longitude":-64.1316,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Sobremonte Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.762957,
     "lbl:longitude":-64.138477,
     "meso:admin_1":"Cordoba",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718167,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759554,
     "wof:name":"Sobremonte",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

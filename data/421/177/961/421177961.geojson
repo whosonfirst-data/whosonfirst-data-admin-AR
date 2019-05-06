@@ -10,6 +10,12 @@
     "geom:latitude":-32.069815,
     "geom:longitude":-65.145248,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Javier Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.07747,
     "lbl:longitude":-65.086472,
     "meso:admin_1":"Cordoba",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421177961,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1554759256,
     "wof:name":"San Javier",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

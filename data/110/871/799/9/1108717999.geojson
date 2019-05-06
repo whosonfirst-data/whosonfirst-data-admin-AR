@@ -10,6 +10,12 @@
     "geom:latitude":-34.498084,
     "geom:longitude":-61.613227,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Leandro N Alem Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.503747,
     "lbl:longitude":-61.619958,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717999,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220429,
     "wof:name":"Leandro N Alem",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

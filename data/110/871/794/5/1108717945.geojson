@@ -10,6 +10,12 @@
     "geom:latitude":-35.835433,
     "geom:longitude":-58.697788,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Belgrano Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.912753,
     "lbl:longitude":-58.584879,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717945,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220428,
     "wof:name":"General Belgrano",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

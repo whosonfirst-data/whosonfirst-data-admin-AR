@@ -10,6 +10,12 @@
     "geom:latitude":-31.707686,
     "geom:longitude":-65.157697,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Alberto Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.682752,
     "lbl:longitude":-65.026855,
     "meso:admin_1":"Cordoba",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421198475,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1554759263,
     "wof:name":"San Alberto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

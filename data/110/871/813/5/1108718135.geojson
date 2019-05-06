@@ -10,6 +10,12 @@
     "geom:latitude":-37.375326,
     "geom:longitude":-57.068723,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Villa Gesell Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.395636,
     "lbl:longitude":-57.079001,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718135,
-    "wof:lastmodified":1536615532,
+    "wof:lastmodified":1555220432,
     "wof:name":"Villa Gesell",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

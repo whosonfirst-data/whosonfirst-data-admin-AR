@@ -10,6 +10,12 @@
     "geom:latitude":-27.027231,
     "geom:longitude":-54.267686,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Guarani Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.026155,
     "lbl:longitude":-54.267676,
     "meso:admin_1":"Misiones",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":421175303,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1554759256,
     "wof:name":"Guarani",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

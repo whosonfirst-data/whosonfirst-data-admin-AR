@@ -10,6 +10,12 @@
     "geom:latitude":-26.593975,
     "geom:longitude":-65.888727,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tafi Del Valle Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.478549,
     "lbl:longitude":-65.907639,
     "meso:admin_1":"Tucuman",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421186297,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1554759259,
     "wof:name":"Tafi Del Valle",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

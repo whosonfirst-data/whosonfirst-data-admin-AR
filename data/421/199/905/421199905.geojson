@@ -10,6 +10,12 @@
     "geom:latitude":-43.812879,
     "geom:longitude":-67.240307,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Martires Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-43.856061,
     "lbl:longitude":-67.240303,
     "meso:admin_1":"Chubut",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421199905,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1554759264,
     "wof:name":"Martires",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.841998,
     "geom:longitude":-58.669298,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Empedrado Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.815147,
     "lbl:longitude":-58.66272,
     "meso:admin_1":"Corrientes",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421189019,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554759261,
     "wof:name":"Empedrado",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

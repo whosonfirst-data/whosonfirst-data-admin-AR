@@ -10,6 +10,12 @@
     "geom:latitude":-34.618589,
     "geom:longitude":-60.354203,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chacabuco Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.643726,
     "lbl:longitude":-60.470578,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717913,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Chacabuco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

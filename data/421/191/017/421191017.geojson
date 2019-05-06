@@ -10,6 +10,12 @@
     "geom:latitude":-28.662019,
     "geom:longitude":-58.592082,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Roque Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.718109,
     "lbl:longitude":-58.699951,
     "meso:admin_1":"Corrientes",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421191017,
-    "wof:lastmodified":1536616084,
+    "wof:lastmodified":1554759262,
     "wof:name":"San Roque",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

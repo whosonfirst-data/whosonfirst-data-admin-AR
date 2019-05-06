@@ -10,6 +10,12 @@
     "geom:latitude":-29.480011,
     "geom:longitude":-62.798035,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Mitre Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.485397,
     "lbl:longitude":-62.769083,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718495,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759562,
     "wof:name":"Mitre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

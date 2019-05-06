@@ -10,6 +10,12 @@
     "geom:latitude":-31.420505,
     "geom:longitude":-66.678566,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rosario Vera Pe\u00f1aloza Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.400223,
     "lbl:longitude":-66.670382,
     "meso:admin_1":"La Rioja",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718347,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Rosario Vera Pe\u00f1aloza",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

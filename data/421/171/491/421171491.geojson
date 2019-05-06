@@ -10,6 +10,12 @@
     "geom:latitude":-31.452026,
     "geom:longitude":-65.434125,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Pocho Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.43,
     "lbl:longitude":-65.43407,
     "meso:admin_1":"Cordoba",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421171491,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Pocho",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

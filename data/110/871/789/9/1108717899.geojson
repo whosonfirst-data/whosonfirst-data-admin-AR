@@ -10,6 +10,12 @@
     "geom:latitude":-36.04148,
     "geom:longitude":-57.660614,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Castelli Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.984692,
     "lbl:longitude":-57.5159,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717899,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220427,
     "wof:name":"Castelli",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

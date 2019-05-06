@@ -10,6 +10,12 @@
     "geom:latitude":-32.161103,
     "geom:longitude":-66.570757,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ayacucho Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.143403,
     "lbl:longitude":-66.65879,
     "meso:admin_1":"San Luis",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171473,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759252,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

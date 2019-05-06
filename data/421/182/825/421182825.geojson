@@ -10,6 +10,12 @@
     "geom:latitude":-26.976037,
     "geom:longitude":-65.478914,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Famailla Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.967453,
     "lbl:longitude":-65.476288,
     "meso:admin_1":"Tucuman",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421182825,
-    "wof:lastmodified":1536615989,
+    "wof:lastmodified":1554759257,
     "wof:name":"Famailla",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

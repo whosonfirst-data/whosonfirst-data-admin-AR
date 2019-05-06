@@ -10,6 +10,12 @@
     "geom:latitude":-31.081604,
     "geom:longitude":-68.884168,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ullum Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.079715,
     "lbl:longitude":-68.953586,
     "meso:admin_1":"San Juan",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718437,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Ullum",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-35.510514,
     "geom:longitude":-58.769721,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Monte Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.503357,
     "lbl:longitude":-58.748142,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718027,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Monte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

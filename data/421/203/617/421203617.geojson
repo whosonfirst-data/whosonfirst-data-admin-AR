@@ -10,6 +10,12 @@
     "geom:latitude":-27.545396,
     "geom:longitude":-66.356711,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Andalgala Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.556436,
     "lbl:longitude":-66.364606,
     "meso:admin_1":"Catamarca",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421203617,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554759266,
     "wof:name":"Andalgala",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

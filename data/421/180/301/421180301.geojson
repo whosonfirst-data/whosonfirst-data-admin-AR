@@ -10,6 +10,12 @@
     "geom:latitude":-24.547787,
     "geom:longitude":-65.854174,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rosario De Lerma Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.414468,
     "lbl:longitude":-65.916199,
     "meso:admin_1":"Salta",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421180301,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1554759257,
     "wof:name":"Rosario De Lerma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

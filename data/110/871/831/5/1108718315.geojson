@@ -10,6 +10,12 @@
     "geom:latitude":-35.404652,
     "geom:longitude":-64.80441,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rancul Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-35.405,
     "lbl:longitude":-64.800181,
     "meso:admin_1":"La Pampa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718315,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759558,
     "wof:name":"Rancul",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

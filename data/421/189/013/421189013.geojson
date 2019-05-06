@@ -10,6 +10,12 @@
     "geom:latitude":-28.599023,
     "geom:longitude":-65.707279,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Valle Viejo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.584255,
     "lbl:longitude":-65.709418,
     "meso:admin_1":"Catamarca",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421189013,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554759261,
     "wof:name":"Valle Viejo",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

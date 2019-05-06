@@ -10,6 +10,12 @@
     "geom:latitude":-38.390032,
     "geom:longitude":-59.587153,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Cayetano Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-38.332092,
     "lbl:longitude":-59.581554,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718095,
-    "wof:lastmodified":1536615532,
+    "wof:lastmodified":1555220431,
     "wof:name":"San Cayetano",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

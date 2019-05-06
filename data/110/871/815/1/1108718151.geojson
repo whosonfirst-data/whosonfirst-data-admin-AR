@@ -10,6 +10,12 @@
     "geom:latitude":-28.430234,
     "geom:longitude":-65.359248,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "El Alto Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.421497,
     "lbl:longitude":-65.364363,
     "meso:admin_1":"Catamarca",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718151,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759553,
     "wof:name":"El Alto",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

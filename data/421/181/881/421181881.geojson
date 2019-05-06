@@ -10,6 +10,12 @@
     "geom:latitude":-35.229292,
     "geom:longitude":-63.660121,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chapaleufu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-35.23,
     "lbl:longitude":-63.660188,
     "meso:admin_1":"La Pampa",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421181881,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1554759257,
     "wof:name":"Chapaleufu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

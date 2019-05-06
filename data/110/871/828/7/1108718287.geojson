@@ -10,6 +10,12 @@
     "geom:latitude":-38.679911,
     "geom:longitude":-63.886696,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Caleu Caleu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.648403,
     "lbl:longitude":-63.875719,
     "meso:admin_1":"La Pampa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718287,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759558,
     "wof:name":"Caleu Caleu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

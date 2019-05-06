@@ -10,6 +10,12 @@
     "geom:latitude":-43.273048,
     "geom:longitude":-66.172502,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Gaiman Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-43.323015,
     "lbl:longitude":-66.084881,
     "meso:admin_1":"Chubut",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421170131,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1554759251,
     "wof:name":"Gaiman",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

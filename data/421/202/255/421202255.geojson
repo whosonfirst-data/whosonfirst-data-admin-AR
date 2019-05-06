@@ -10,6 +10,12 @@
     "geom:latitude":-25.437971,
     "geom:longitude":-65.58143,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Vi\u00f1a Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.384365,
     "lbl:longitude":-65.610638,
     "meso:admin_1":"Salta",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202255,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1554759265,
     "wof:name":"La Vi\u00f1a",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

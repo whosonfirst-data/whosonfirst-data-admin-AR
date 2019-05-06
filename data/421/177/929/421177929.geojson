@@ -10,6 +10,12 @@
     "geom:latitude":-35.639702,
     "geom:longitude":-64.21351,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Trenel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-35.642299,
     "lbl:longitude":-64.217144,
     "meso:admin_1":"La Pampa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421177929,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1554759256,
     "wof:name":"Trenel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

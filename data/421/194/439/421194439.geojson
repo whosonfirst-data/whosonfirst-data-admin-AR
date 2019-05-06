@@ -10,6 +10,12 @@
     "geom:latitude":-33.104432,
     "geom:longitude":-59.608149,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Gualeguay Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.893452,
     "lbl:longitude":-59.550088,
     "meso:admin_1":"Entre Rios",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421194439,
-    "wof:lastmodified":1536616115,
+    "wof:lastmodified":1554759263,
     "wof:name":"Gualeguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

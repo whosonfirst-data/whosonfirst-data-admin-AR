@@ -10,6 +10,12 @@
     "geom:latitude":-26.669237,
     "geom:longitude":-60.17302,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Quitilipi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.574664,
     "lbl:longitude":-60.106252,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718223,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"Quitilipi",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

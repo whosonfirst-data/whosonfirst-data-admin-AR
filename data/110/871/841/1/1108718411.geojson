@@ -10,6 +10,12 @@
     "geom:latitude":-24.642666,
     "geom:longitude":-67.339654,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Los Andes Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.640394,
     "lbl:longitude":-67.339758,
     "meso:admin_1":"Salta",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718411,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759561,
     "wof:name":"Los Andes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

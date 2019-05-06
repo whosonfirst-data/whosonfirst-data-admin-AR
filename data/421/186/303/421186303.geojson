@@ -10,6 +10,12 @@
     "geom:latitude":-32.208341,
     "geom:longitude":-64.607654,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Calamuchita Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.193771,
     "lbl:longitude":-64.637318,
     "meso:admin_1":"Cordoba",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421186303,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1554759259,
     "wof:name":"Calamuchita",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

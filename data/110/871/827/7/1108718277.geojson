@@ -10,6 +10,12 @@
     "geom:latitude":-24.194242,
     "geom:longitude":-65.126127,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Palpala Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.194752,
     "lbl:longitude":-65.143814,
     "meso:admin_1":"Jujuy",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718277,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Palpala",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

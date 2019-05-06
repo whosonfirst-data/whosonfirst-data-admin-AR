@@ -10,6 +10,12 @@
     "geom:latitude":-45.345704,
     "geom:longitude":-69.004035,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Sarmiento Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-45.345,
     "lbl:longitude":-69.004082,
     "meso:admin_1":"Chubut",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421171529,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1554759254,
     "wof:name":"Sarmiento",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

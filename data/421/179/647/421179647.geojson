@@ -10,6 +10,12 @@
     "geom:latitude":-34.705689,
     "geom:longitude":-58.394785,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lanus Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.706012,
     "lbl:longitude":-58.403499,
     "meso:admin_1":"Buenos Aires",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421179647,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1555220345,
     "wof:name":"Lanus",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

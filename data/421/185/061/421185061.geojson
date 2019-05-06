@@ -10,6 +10,12 @@
     "geom:latitude":-28.332949,
     "geom:longitude":-65.731118,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Fray Mamerto Esquiu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.337843,
     "lbl:longitude":-65.732326,
     "meso:admin_1":"Catamarca",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421185061,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1554759258,
     "wof:name":"Fray Mamerto Esquiu",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

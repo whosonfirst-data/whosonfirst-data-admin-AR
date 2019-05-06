@@ -10,6 +10,12 @@
     "geom:latitude":-31.181681,
     "geom:longitude":-68.123406,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Angaco Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.185,
     "lbl:longitude":-68.116926,
     "meso:admin_1":"San Juan",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718419,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Angaco",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

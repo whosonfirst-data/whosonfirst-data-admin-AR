@@ -10,6 +10,12 @@
     "geom:latitude":-33.925751,
     "geom:longitude":-61.945517,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Lopez Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.895,
     "lbl:longitude":-61.928421,
     "meso:admin_1":"Santa Fe",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421200997,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1554759265,
     "wof:name":"General Lopez",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

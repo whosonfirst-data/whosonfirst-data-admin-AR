@@ -10,6 +10,12 @@
     "geom:latitude":-34.878244,
     "geom:longitude":-58.259376,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Florencio Varela Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.853542,
     "lbl:longitude":-58.245653,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717935,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Florencio Varela",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

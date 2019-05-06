@@ -10,6 +10,12 @@
     "geom:latitude":-30.577395,
     "geom:longitude":-65.93197,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Belgrano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.57,
     "lbl:longitude":-65.923168,
     "meso:admin_1":"La Rioja",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718333,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759559,
     "wof:name":"General Belgrano",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-29.389494,
     "geom:longitude":-63.335786,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Quebrachos Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.388513,
     "lbl:longitude":-63.328726,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718503,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759563,
     "wof:name":"Quebrachos",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

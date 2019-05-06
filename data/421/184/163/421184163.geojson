@@ -10,6 +10,12 @@
     "geom:latitude":-29.31237,
     "geom:longitude":-62.470579,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Aguirre Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.434629,
     "lbl:longitude":-62.417481,
     "meso:admin_1":"Santiago Del Estero",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421184163,
-    "wof:lastmodified":1536616018,
+    "wof:lastmodified":1554759258,
     "wof:name":"Aguirre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-31.503802,
     "geom:longitude":-67.543424,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Caucete Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.489775,
     "lbl:longitude":-67.626293,
     "meso:admin_1":"San Juan",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718423,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Caucete",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

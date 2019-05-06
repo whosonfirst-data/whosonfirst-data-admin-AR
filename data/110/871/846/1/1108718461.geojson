@@ -10,6 +10,12 @@
     "geom:latitude":-32.014575,
     "geom:longitude":-61.808278,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.02,
     "lbl:longitude":-61.816568,
     "meso:admin_1":"Santa Fe",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718461,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759562,
     "wof:name":"San Martin",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

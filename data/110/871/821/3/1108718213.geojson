@@ -10,6 +10,12 @@
     "geom:latitude":-26.946002,
     "geom:longitude":-61.264567,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "9 de Julio Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.953555,
     "lbl:longitude":-61.264533,
     "meso:admin_1":"Chaco",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718213,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1555220433,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

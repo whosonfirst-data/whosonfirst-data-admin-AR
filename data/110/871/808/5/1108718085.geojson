@@ -10,6 +10,12 @@
     "geom:latitude":-34.269902,
     "geom:longitude":-60.305033,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Salto Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.292838,
     "lbl:longitude":-60.334701,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718085,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"Salto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-25.82977,
     "geom:longitude":-66.186494,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.777981,
     "lbl:longitude":-66.141384,
     "meso:admin_1":"Salta",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202253,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1554759265,
     "wof:name":"San Carlos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

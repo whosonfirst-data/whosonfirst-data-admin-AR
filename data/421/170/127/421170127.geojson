@@ -10,6 +10,12 @@
     "geom:latitude":-43.069839,
     "geom:longitude":-71.455412,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Futaleufu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-43.19892,
     "lbl:longitude":-71.321181,
     "meso:admin_1":"Chubut",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421170127,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1554759251,
     "wof:name":"Futaleufu",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

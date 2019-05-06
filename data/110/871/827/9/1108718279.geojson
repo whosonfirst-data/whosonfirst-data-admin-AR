@@ -10,6 +10,12 @@
     "geom:latitude":-24.007887,
     "geom:longitude":-64.402734,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.997461,
     "lbl:longitude":-64.408338,
     "meso:admin_1":"Jujuy",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718279,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

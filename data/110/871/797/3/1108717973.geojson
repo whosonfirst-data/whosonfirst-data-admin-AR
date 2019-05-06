@@ -10,6 +10,12 @@
     "geom:latitude":-34.766462,
     "geom:longitude":-62.949085,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Villegas Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.77205,
     "lbl:longitude":-62.994284,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717973,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"General Villegas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-45.340603,
     "geom:longitude":-70.640633,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Senguer Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-45.332733,
     "lbl:longitude":-70.640182,
     "meso:admin_1":"Chubut",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171527,
-    "wof:lastmodified":1536615930,
+    "wof:lastmodified":1554759254,
     "wof:name":"Rio Senguer",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

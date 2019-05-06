@@ -10,6 +10,12 @@
     "geom:latitude":-40.953411,
     "geom:longitude":-65.369635,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-40.721881,
     "lbl:longitude":-65.44088,
     "meso:admin_1":"Rio Negro",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718395,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759560,
     "wof:name":"San Antonio",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

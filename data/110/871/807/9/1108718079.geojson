@@ -10,6 +10,12 @@
     "geom:latitude":-35.480773,
     "geom:longitude":-59.359742,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Roque Perez Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.509446,
     "lbl:longitude":-59.252266,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718079,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"Roque Perez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

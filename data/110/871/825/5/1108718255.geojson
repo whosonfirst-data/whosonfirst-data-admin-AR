@@ -10,6 +10,12 @@
     "geom:latitude":-31.561639,
     "geom:longitude":-58.468406,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Salvador Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.603707,
     "lbl:longitude":-58.404764,
     "meso:admin_1":"Entre Rios",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1108718255,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"San Salvador",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-29.556992,
     "geom:longitude":-57.249849,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Paso De Los Libres Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.535998,
     "lbl:longitude":-57.220537,
     "meso:admin_1":"Corrientes",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171499,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Paso De Los Libres",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.930297,
     "geom:longitude":-64.29797,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Jimenez Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.918029,
     "lbl:longitude":-64.402489,
     "meso:admin_1":"Santiago Del Estero",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718489,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759563,
     "wof:name":"Jimenez",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

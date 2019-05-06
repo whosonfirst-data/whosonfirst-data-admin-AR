@@ -10,6 +10,12 @@
     "geom:latitude":-31.20186,
     "geom:longitude":-68.449473,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Albardon Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.195262,
     "lbl:longitude":-68.436998,
     "meso:admin_1":"San Juan",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421198377,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1554759263,
     "wof:name":"Albardon",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

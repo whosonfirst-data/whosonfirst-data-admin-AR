@@ -10,6 +10,12 @@
     "geom:latitude":-27.887449,
     "geom:longitude":-56.787334,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ituzaingo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.96969,
     "lbl:longitude":-57.028561,
     "meso:admin_1":"Corrientes",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421171495,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

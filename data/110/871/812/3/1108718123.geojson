@@ -10,6 +10,12 @@
     "geom:latitude":-36.055786,
     "geom:longitude":-62.634051,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Trenque Lauquen Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.078778,
     "lbl:longitude":-62.642783,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718123,
-    "wof:lastmodified":1536615532,
+    "wof:lastmodified":1555220432,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

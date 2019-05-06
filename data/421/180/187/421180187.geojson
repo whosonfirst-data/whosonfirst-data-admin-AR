@@ -10,6 +10,12 @@
     "geom:latitude":-26.655722,
     "geom:longitude":-54.560631,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Montecarlo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.652679,
     "lbl:longitude":-54.564774,
     "meso:admin_1":"Misiones",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421180187,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1554759256,
     "wof:name":"Montecarlo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

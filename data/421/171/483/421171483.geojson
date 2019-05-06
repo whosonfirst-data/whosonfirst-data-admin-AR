@@ -10,6 +10,12 @@
     "geom:latitude":-25.871953,
     "geom:longitude":-64.725353,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rosario De La Frontera Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.872366,
     "lbl:longitude":-64.671643,
     "meso:admin_1":"Salta",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171483,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Rosario De La Frontera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

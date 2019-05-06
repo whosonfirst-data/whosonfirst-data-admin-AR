@@ -10,6 +10,12 @@
     "geom:latitude":-36.202166,
     "geom:longitude":-58.340841,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Pila Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.217262,
     "lbl:longitude":-58.334425,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718053,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"Pila",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

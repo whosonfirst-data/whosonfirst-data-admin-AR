@@ -10,6 +10,12 @@
     "geom:latitude":-44.031181,
     "geom:longitude":-68.685487,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Paso De Indios Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-44.015,
     "lbl:longitude":-68.6856,
     "meso:admin_1":"Chubut",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421166647,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1554759248,
     "wof:name":"Paso De Indios",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

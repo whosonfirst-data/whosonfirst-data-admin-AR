@@ -10,6 +10,12 @@
     "geom:latitude":-27.743309,
     "geom:longitude":-60.659677,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Mayor Luis J. Fontana Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.682551,
     "lbl:longitude":-60.733399,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718211,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"Mayor Luis J. Fontana",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

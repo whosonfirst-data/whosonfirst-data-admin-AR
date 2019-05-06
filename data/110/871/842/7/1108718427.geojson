@@ -10,6 +10,12 @@
     "geom:latitude":-31.680046,
     "geom:longitude":-68.467211,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rawson Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.677606,
     "lbl:longitude":-68.469053,
     "meso:admin_1":"San Juan",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718427,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Rawson",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

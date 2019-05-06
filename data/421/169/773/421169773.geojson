@@ -10,6 +10,12 @@
     "geom:latitude":-33.038534,
     "geom:longitude":-69.443472,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lujan De Cuyo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.850877,
     "lbl:longitude":-69.453896,
     "meso:admin_1":"Mendoza",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421169773,
-    "wof:lastmodified":1536615901,
+    "wof:lastmodified":1554759250,
     "wof:name":"Lujan De Cuyo",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

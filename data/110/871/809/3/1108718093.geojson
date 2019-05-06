@@ -10,6 +10,12 @@
     "geom:latitude":-34.221332,
     "geom:longitude":-59.519822,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Antonio De Areco Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.230524,
     "lbl:longitude":-59.502387,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718093,
-    "wof:lastmodified":1536615532,
+    "wof:lastmodified":1555220431,
     "wof:name":"San Antonio De Areco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

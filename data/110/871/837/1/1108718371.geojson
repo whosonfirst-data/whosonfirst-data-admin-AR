@@ -10,6 +10,12 @@
     "geom:latitude":-27.624619,
     "geom:longitude":-55.385928,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Leandro N. Alem Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.626741,
     "lbl:longitude":-55.381156,
     "meso:admin_1":"Misiones",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718371,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Leandro N. Alem",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

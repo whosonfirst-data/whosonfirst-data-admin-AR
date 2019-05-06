@@ -10,6 +10,12 @@
     "geom:latitude":-28.178428,
     "geom:longitude":-58.623757,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Saladas Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.186942,
     "lbl:longitude":-58.618232,
     "meso:admin_1":"Corrientes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718185,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"Saladas",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.860769,
     "geom:longitude":-65.434938,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lules Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.889618,
     "lbl:longitude":-65.355191,
     "meso:admin_1":"Tucuman",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421175289,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1554759255,
     "wof:name":"Lules",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

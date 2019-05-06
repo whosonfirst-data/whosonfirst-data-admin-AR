@@ -10,6 +10,12 @@
     "geom:latitude":-36.157117,
     "geom:longitude":-69.313445,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Malarg\u00fce Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.152013,
     "lbl:longitude":-69.219266,
     "meso:admin_1":"Mendoza",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421188043,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1554759261,
     "wof:name":"Malarg\u00fce",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

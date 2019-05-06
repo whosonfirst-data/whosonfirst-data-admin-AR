@@ -10,6 +10,12 @@
     "geom:latitude":-33.146839,
     "geom:longitude":-68.476762,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Junin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.124207,
     "lbl:longitude":-68.458025,
     "meso:admin_1":"Mendoza",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718355,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Junin",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

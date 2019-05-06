@@ -10,6 +10,12 @@
     "geom:latitude":-22.621233,
     "geom:longitude":-66.543318,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rinconada Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.631207,
     "lbl:longitude":-66.666344,
     "meso:admin_1":"Jujuy",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421174423,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1554759255,
     "wof:name":"Rinconada",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

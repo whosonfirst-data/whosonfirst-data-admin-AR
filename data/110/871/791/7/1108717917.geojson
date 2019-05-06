@@ -10,6 +10,12 @@
     "geom:latitude":-34.915553,
     "geom:longitude":-59.958991,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chivilcoy Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.904854,
     "lbl:longitude":-59.98271,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717917,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Chivilcoy",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

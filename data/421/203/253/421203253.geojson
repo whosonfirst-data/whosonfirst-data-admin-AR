@@ -10,6 +10,12 @@
     "geom:latitude":-32.892632,
     "geom:longitude":-62.799093,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Union Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.889175,
     "lbl:longitude":-62.806526,
     "meso:admin_1":"Cordoba",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":421203253,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1554759265,
     "wof:name":"Union",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

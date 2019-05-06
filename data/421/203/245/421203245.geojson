@@ -10,6 +10,12 @@
     "geom:latitude":-26.008552,
     "geom:longitude":-53.967296,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Manuel Belgrano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.000196,
     "lbl:longitude":-54.010204,
     "meso:admin_1":"Misiones",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421203245,
-    "wof:lastmodified":1536616151,
+    "wof:lastmodified":1554759265,
     "wof:name":"General Manuel Belgrano",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

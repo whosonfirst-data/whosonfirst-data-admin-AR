@@ -10,6 +10,12 @@
     "geom:latitude":-44.422948,
     "geom:longitude":-66.128865,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Florentino Ameghino Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-44.438999,
     "lbl:longitude":-66.146968,
     "meso:admin_1":"Chubut",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718237,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759555,
     "wof:name":"Florentino Ameghino",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

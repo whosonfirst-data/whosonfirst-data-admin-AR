@@ -10,6 +10,12 @@
     "geom:latitude":-28.478335,
     "geom:longitude":-58.921891,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Bella Vista Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.453082,
     "lbl:longitude":-58.886771,
     "meso:admin_1":"Corrientes",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421191015,
-    "wof:lastmodified":1536616084,
+    "wof:lastmodified":1554759262,
     "wof:name":"Bella Vista",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

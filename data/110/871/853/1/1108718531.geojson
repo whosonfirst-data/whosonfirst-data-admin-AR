@@ -10,6 +10,12 @@
     "geom:latitude":-26.343789,
     "geom:longitude":-65.40557,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Trancas Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.332316,
     "lbl:longitude":-65.411976,
     "meso:admin_1":"Tucuman",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718531,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759564,
     "wof:name":"Trancas",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

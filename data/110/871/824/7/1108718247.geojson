@@ -10,6 +10,12 @@
     "geom:latitude":-30.970468,
     "geom:longitude":-58.888463,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Federal Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.924378,
     "lbl:longitude":-58.850422,
     "meso:admin_1":"Entre Rios",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718247,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"Federal",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

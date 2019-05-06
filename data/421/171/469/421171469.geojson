@@ -10,6 +10,12 @@
     "geom:latitude":-33.027677,
     "geom:longitude":-62.280117,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Marcos Juarez Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.037333,
     "lbl:longitude":-62.228606,
     "meso:admin_1":"Cordoba",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171469,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Marcos Juarez",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

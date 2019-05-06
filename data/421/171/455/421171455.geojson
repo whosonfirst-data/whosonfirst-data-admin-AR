@@ -10,6 +10,12 @@
     "geom:latitude":-29.044173,
     "geom:longitude":-57.782488,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Mercedes Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.05302,
     "lbl:longitude":-57.852775,
     "meso:admin_1":"Corrientes",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171455,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1554759252,
     "wof:name":"Mercedes",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-27.983834,
     "geom:longitude":-64.867995,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Guasayan Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.968665,
     "lbl:longitude":-64.87441,
     "meso:admin_1":"Santiago Del Estero",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718485,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759562,
     "wof:name":"Guasayan",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

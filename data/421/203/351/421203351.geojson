@@ -10,6 +10,12 @@
     "geom:latitude":-30.728153,
     "geom:longitude":-63.983312,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Totoral Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.723738,
     "lbl:longitude":-63.911931,
     "meso:admin_1":"Cordoba",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421203351,
-    "wof:lastmodified":1536616152,
+    "wof:lastmodified":1554759266,
     "wof:name":"Totoral",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

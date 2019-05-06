@@ -10,6 +10,12 @@
     "geom:latitude":-32.441499,
     "geom:longitude":-58.584725,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Uruguay Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.389546,
     "lbl:longitude":-58.501438,
     "meso:admin_1":"Entre Rios",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421198481,
-    "wof:lastmodified":1536616127,
+    "wof:lastmodified":1554759264,
     "wof:name":"Uruguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-33.341649,
     "geom:longitude":-63.610767,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Juarez Celman Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.449866,
     "lbl:longitude":-63.561645,
     "meso:admin_1":"Cordoba",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421166595,
-    "wof:lastmodified":1536615892,
+    "wof:lastmodified":1554759247,
     "wof:name":"Juarez Celman",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-34.55167,
     "geom:longitude":-58.690896,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.562363,
     "lbl:longitude":-58.71041,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718101,
-    "wof:lastmodified":1536615532,
+    "wof:lastmodified":1555220432,
     "wof:name":"San Miguel",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

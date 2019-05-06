@@ -10,6 +10,12 @@
     "geom:latitude":-32.156187,
     "geom:longitude":-61.048188,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Jeronimo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.153401,
     "lbl:longitude":-61.055991,
     "meso:admin_1":"Santa Fe",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421188015,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1554759260,
     "wof:name":"San Jeronimo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-42.366321,
     "geom:longitude":-70.711016,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Cushamen Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-42.429199,
     "lbl:longitude":-70.822811,
     "meso:admin_1":"Chubut",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421170125,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1554759251,
     "wof:name":"Cushamen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

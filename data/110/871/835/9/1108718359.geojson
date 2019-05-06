@@ -10,6 +10,12 @@
     "geom:latitude":-32.90975,
     "geom:longitude":-68.285305,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.893885,
     "lbl:longitude":-68.290137,
     "meso:admin_1":"Mendoza",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718359,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"San Martin",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.865074,
     "geom:longitude":-63.837774,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Anta Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-24.765343,
     "lbl:longitude":-63.756267,
     "meso:admin_1":"Salta",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718403,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759560,
     "wof:name":"Anta",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

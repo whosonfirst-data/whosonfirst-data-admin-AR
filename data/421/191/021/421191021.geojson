@@ -10,6 +10,12 @@
     "geom:latitude":-31.056663,
     "geom:longitude":-60.126479,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Garay Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.026257,
     "lbl:longitude":-60.126351,
     "meso:admin_1":"Santa Fe",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421191021,
-    "wof:lastmodified":1536616084,
+    "wof:lastmodified":1554759262,
     "wof:name":"Garay",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

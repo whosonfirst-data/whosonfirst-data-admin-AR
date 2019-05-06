@@ -10,6 +10,12 @@
     "geom:latitude":-37.397915,
     "geom:longitude":-69.402663,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Pehuenches Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-37.431537,
     "lbl:longitude":-69.388805,
     "meso:admin_1":"Neuquen",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421192925,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1554759262,
     "wof:name":"Pehuenches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

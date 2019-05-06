@@ -10,6 +10,12 @@
     "geom:latitude":-33.106845,
     "geom:longitude":-65.900439,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Coronel Pringles Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.126475,
     "lbl:longitude":-65.869979,
     "meso:admin_1":"San Luis",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171477,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759252,
     "wof:name":"Coronel Pringles",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

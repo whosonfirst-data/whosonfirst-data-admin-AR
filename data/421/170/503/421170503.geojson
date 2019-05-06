@@ -10,6 +10,12 @@
     "geom:latitude":-31.219037,
     "geom:longitude":-64.590865,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Punilla Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.271813,
     "lbl:longitude":-64.576447,
     "meso:admin_1":"Cordoba",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421170503,
-    "wof:lastmodified":1536615910,
+    "wof:lastmodified":1554759251,
     "wof:name":"Punilla",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

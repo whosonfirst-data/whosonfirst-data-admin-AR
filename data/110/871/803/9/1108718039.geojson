@@ -10,6 +10,12 @@
     "geom:latitude":-38.25734,
     "geom:longitude":-59.166651,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Necochea Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-38.435267,
     "lbl:longitude":-59.071182,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718039,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Necochea",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

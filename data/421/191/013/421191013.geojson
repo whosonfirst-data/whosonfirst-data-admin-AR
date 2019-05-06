@@ -10,6 +10,12 @@
     "geom:latitude":-30.220332,
     "geom:longitude":-57.838038,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Monte Caseros Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.238526,
     "lbl:longitude":-57.818169,
     "meso:admin_1":"Corrientes",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421191013,
-    "wof:lastmodified":1536616084,
+    "wof:lastmodified":1554759261,
     "wof:name":"Monte Caseros",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

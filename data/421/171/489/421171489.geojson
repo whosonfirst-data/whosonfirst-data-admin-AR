@@ -10,6 +10,12 @@
     "geom:latitude":-22.795277,
     "geom:longitude":-64.915308,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Iruya Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.79888,
     "lbl:longitude":-64.92338,
     "meso:admin_1":"Salta",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421171489,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759252,
     "wof:name":"Iruya",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

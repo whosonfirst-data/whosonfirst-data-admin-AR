@@ -10,6 +10,12 @@
     "geom:latitude":-35.145668,
     "geom:longitude":-58.691412,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ca\u00f1uelas Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.109825,
     "lbl:longitude":-58.726574,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717887,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Ca\u00f1uelas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

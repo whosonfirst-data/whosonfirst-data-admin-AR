@@ -10,6 +10,12 @@
     "geom:latitude":-28.904229,
     "geom:longitude":-63.296118,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Salavina Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.882639,
     "lbl:longitude":-63.33187,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718511,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759563,
     "wof:name":"Salavina",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

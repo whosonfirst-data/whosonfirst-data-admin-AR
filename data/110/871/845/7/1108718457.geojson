@@ -10,6 +10,12 @@
     "geom:latitude":-30.230748,
     "geom:longitude":-61.360608,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.285058,
     "lbl:longitude":-61.514073,
     "meso:admin_1":"Santa Fe",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718457,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759562,
     "wof:name":"San Cristobal",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

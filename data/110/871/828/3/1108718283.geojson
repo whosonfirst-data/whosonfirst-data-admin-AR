@@ -10,6 +10,12 @@
     "geom:latitude":-23.467295,
     "geom:longitude":-65.011854,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Valle Grande Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.486305,
     "lbl:longitude":-65.014458,
     "meso:admin_1":"Jujuy",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718283,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Valle Grande",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

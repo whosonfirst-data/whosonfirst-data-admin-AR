@@ -10,6 +10,12 @@
     "geom:latitude":-31.318286,
     "geom:longitude":-61.109731,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Las Colonias Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.528032,
     "lbl:longitude":-61.115962,
     "meso:admin_1":"Santa Fe",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421180885,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1554759257,
     "wof:name":"Las Colonias",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

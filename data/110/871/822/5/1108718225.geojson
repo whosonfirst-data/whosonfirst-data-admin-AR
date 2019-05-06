@@ -10,6 +10,12 @@
     "geom:latitude":-27.394051,
     "geom:longitude":-60.366967,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.357143,
     "lbl:longitude":-60.370027,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718225,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

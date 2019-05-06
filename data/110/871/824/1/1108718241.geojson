@@ -10,6 +10,12 @@
     "geom:latitude":-42.438381,
     "geom:longitude":-67.175996,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Telsen Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-42.443029,
     "lbl:longitude":-67.175873,
     "meso:admin_1":"Chubut",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718241,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759555,
     "wof:name":"Telsen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

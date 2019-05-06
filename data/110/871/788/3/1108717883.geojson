@@ -10,6 +10,12 @@
     "geom:latitude":-35.221309,
     "geom:longitude":-58.175932,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Brandsen Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.221911,
     "lbl:longitude":-58.203124,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717883,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Brandsen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

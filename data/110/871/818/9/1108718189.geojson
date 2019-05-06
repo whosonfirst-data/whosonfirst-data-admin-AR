@@ -10,6 +10,12 @@
     "geom:latitude":-27.84175,
     "geom:longitude":-57.405009,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.832601,
     "lbl:longitude":-57.465097,
     "meso:admin_1":"Corrientes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718189,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"San Miguel",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

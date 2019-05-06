@@ -10,6 +10,12 @@
     "geom:latitude":-33.291753,
     "geom:longitude":-69.301538,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tupungato Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.263852,
     "lbl:longitude":-69.309112,
     "meso:admin_1":"Mendoza",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":421171271,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1554759252,
     "wof:name":"Tupungato",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-35.427503,
     "geom:longitude":-57.395763,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Punta Indio Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.420721,
     "lbl:longitude":-57.317282,
     "meso:admin_1":"Buenos Aires",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1108718065,
-    "wof:lastmodified":1536615531,
+    "wof:lastmodified":1555220431,
     "wof:name":"Punta Indio",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-36.67016,
     "geom:longitude":-64.68506,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Toay Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.707284,
     "lbl:longitude":-64.766555,
     "meso:admin_1":"La Pampa",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421177957,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1554759256,
     "wof:name":"Toay",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-38.065912,
     "geom:longitude":-70.313756,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Loncopue Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.058126,
     "lbl:longitude":-70.185458,
     "meso:admin_1":"Neuquen",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718381,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759560,
     "wof:name":"Loncopue",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-32.726712,
     "geom:longitude":-65.198502,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chacabuco Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.718081,
     "lbl:longitude":-65.15675,
     "meso:admin_1":"San Luis",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718441,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Chacabuco",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-32.578594,
     "geom:longitude":-65.70982,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Libertador General San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.589116,
     "lbl:longitude":-65.702501,
     "meso:admin_1":"San Luis",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718447,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759562,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

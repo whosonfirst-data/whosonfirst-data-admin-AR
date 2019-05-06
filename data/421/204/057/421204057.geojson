@@ -10,6 +10,12 @@
     "geom:latitude":-30.399739,
     "geom:longitude":-64.597419,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ischilin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.365,
     "lbl:longitude":-64.653914,
     "meso:admin_1":"Cordoba",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421204057,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1554759266,
     "wof:name":"Ischilin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

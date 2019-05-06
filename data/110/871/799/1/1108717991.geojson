@@ -10,6 +10,12 @@
     "geom:latitude":-34.770401,
     "geom:longitude":-58.626367,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Matanza Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.704796,
     "lbl:longitude":-58.572809,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717991,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"La Matanza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-39.131441,
     "geom:longitude":-71.046988,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Alumine Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-39.14081,
     "lbl:longitude":-71.055092,
     "meso:admin_1":"Neuquen",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421188059,
-    "wof:lastmodified":1536616048,
+    "wof:lastmodified":1554759260,
     "wof:name":"Alumine",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

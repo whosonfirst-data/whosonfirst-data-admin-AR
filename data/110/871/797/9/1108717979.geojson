@@ -10,6 +10,12 @@
     "geom:latitude":-34.599172,
     "geom:longitude":-58.648832,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Hurlingham Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.597677,
     "lbl:longitude":-58.648837,
     "meso:admin_1":"Buenos Aires",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1108717979,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"Hurlingham",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-23.743461,
     "geom:longitude":-65.696343,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tumbaya Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.662802,
     "lbl:longitude":-65.721226,
     "meso:admin_1":"Jujuy",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421201001,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1554759265,
     "wof:name":"Tumbaya",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

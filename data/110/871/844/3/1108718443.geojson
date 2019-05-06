@@ -10,6 +10,12 @@
     "geom:latitude":-35.368641,
     "geom:longitude":-65.816295,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Gobernador Dupuy Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-35.355,
     "lbl:longitude":-65.775584,
     "meso:admin_1":"San Luis",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718443,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Gobernador Dupuy",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

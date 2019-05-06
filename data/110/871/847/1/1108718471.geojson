@@ -10,6 +10,12 @@
     "geom:latitude":-28.563799,
     "geom:longitude":-63.187298,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Avellaneda Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.481822,
     "lbl:longitude":-63.226673,
     "meso:admin_1":"Santiago Del Estero",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718471,
-    "wof:lastmodified":1536615541,
+    "wof:lastmodified":1554759561,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

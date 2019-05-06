@@ -10,6 +10,12 @@
     "geom:latitude":-22.374131,
     "geom:longitude":-64.902405,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Santa Victoria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.333187,
     "lbl:longitude":-65.019426,
     "meso:admin_1":"Salta",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421181251,
-    "wof:lastmodified":1536615968,
+    "wof:lastmodified":1554759257,
     "wof:name":"Santa Victoria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

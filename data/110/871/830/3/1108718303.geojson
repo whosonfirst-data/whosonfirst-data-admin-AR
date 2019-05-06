@@ -10,6 +10,12 @@
     "geom:latitude":-37.495082,
     "geom:longitude":-63.775387,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Guatrache Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-37.494108,
     "lbl:longitude":-63.775382,
     "meso:admin_1":"La Pampa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718303,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759558,
     "wof:name":"Guatrache",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

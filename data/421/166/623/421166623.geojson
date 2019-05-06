@@ -10,6 +10,12 @@
     "geom:latitude":-30.353991,
     "geom:longitude":-68.433327,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Jachal Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.423535,
     "lbl:longitude":-68.418705,
     "meso:admin_1":"San Juan",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421166623,
-    "wof:lastmodified":1536615892,
+    "wof:lastmodified":1554759247,
     "wof:name":"Jachal",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

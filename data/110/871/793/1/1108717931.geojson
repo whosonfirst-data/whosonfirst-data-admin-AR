@@ -10,6 +10,12 @@
     "geom:latitude":-34.296019,
     "geom:longitude":-59.155035,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Exaltacion De La Cruz Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.313902,
     "lbl:longitude":-59.120482,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717931,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Exaltacion De La Cruz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

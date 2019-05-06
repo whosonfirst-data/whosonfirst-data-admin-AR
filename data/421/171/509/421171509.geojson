@@ -10,6 +10,12 @@
     "geom:latitude":-33.13,
     "geom:longitude":-60.710984,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rosario Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-33.130656,
     "lbl:longitude":-60.711033,
     "meso:admin_1":"Santa Fe",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171509,
-    "wof:lastmodified":1536615930,
+    "wof:lastmodified":1554759253,
     "wof:name":"Rosario",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

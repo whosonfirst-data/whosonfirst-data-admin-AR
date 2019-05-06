@@ -10,6 +10,12 @@
     "geom:latitude":-32.309158,
     "geom:longitude":-59.279216,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tala Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.324342,
     "lbl:longitude":-59.298563,
     "meso:admin_1":"Entre Rios",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718257,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759556,
     "wof:name":"Tala",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

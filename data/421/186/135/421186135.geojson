@@ -10,6 +10,12 @@
     "geom:latitude":-32.525155,
     "geom:longitude":-63.257296,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.636735,
     "lbl:longitude":-63.323693,
     "meso:admin_1":"Cordoba",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421186135,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1554759259,
     "wof:name":"General San Martin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

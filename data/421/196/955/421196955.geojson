@@ -10,6 +10,12 @@
     "geom:latitude":-30.210944,
     "geom:longitude":-63.832574,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tulumba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.251492,
     "lbl:longitude":-63.942578,
     "meso:admin_1":"Cordoba",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421196955,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1554759263,
     "wof:name":"Tulumba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

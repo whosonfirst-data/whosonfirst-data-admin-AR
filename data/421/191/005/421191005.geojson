@@ -10,6 +10,12 @@
     "geom:latitude":-28.109405,
     "geom:longitude":-65.674122,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Paclin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.09727,
     "lbl:longitude":-65.663448,
     "meso:admin_1":"Catamarca",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421191005,
-    "wof:lastmodified":1536616083,
+    "wof:lastmodified":1554759261,
     "wof:name":"Paclin",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

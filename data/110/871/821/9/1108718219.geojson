@@ -10,6 +10,12 @@
     "geom:latitude":-27.04755,
     "geom:longitude":-59.774949,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Presidencia De La Plaza Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.083522,
     "lbl:longitude":-59.774938,
     "meso:admin_1":"Chaco",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108718219,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"Presidencia De La Plaza",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

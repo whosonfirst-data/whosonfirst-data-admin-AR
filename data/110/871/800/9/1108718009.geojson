@@ -10,6 +10,12 @@
     "geom:latitude":-34.569107,
     "geom:longitude":-59.158823,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Lujan Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.553634,
     "lbl:longitude":-59.174615,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718009,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Lujan",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

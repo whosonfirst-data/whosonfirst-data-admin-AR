@@ -10,6 +10,12 @@
     "geom:latitude":-37.987696,
     "geom:longitude":-63.944141,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Hucal Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-37.99196,
     "lbl:longitude":-63.944136,
     "meso:admin_1":"La Pampa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421181665,
-    "wof:lastmodified":1536615968,
+    "wof:lastmodified":1554759257,
     "wof:name":"Hucal",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

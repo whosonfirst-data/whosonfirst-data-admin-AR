@@ -10,6 +10,12 @@
     "geom:latitude":-27.335939,
     "geom:longitude":-61.474342,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "12 de Octubre Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.295198,
     "lbl:longitude":-61.529315,
     "meso:admin_1":"Chaco",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718195,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1555220433,
     "wof:name":"12 De Octubre",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

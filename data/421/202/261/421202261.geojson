@@ -10,6 +10,12 @@
     "geom:latitude":-29.394223,
     "geom:longitude":-67.428329,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chilecito Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-29.4,
     "lbl:longitude":-67.428216,
     "meso:admin_1":"La Rioja",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202261,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1554759265,
     "wof:name":"Chilecito",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-30.115062,
     "geom:longitude":-67.335697,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Independencia Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.161172,
     "lbl:longitude":-67.267556,
     "meso:admin_1":"La Rioja",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718345,
-    "wof:lastmodified":1536615538,
+    "wof:lastmodified":1554759559,
     "wof:name":"Independencia",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-37.040024,
     "geom:longitude":-63.775114,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Atreuco Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-37.038137,
     "lbl:longitude":-63.775161,
     "meso:admin_1":"La Pampa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718285,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1554759557,
     "wof:name":"Atreuco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

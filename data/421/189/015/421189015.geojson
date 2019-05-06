@@ -10,6 +10,12 @@
     "geom:latitude":-31.034903,
     "geom:longitude":-63.441655,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Primero Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.002751,
     "lbl:longitude":-63.432643,
     "meso:admin_1":"Cordoba",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421189015,
-    "wof:lastmodified":1536616074,
+    "wof:lastmodified":1554759261,
     "wof:name":"Rio Primero",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

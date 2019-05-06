@@ -10,6 +10,12 @@
     "geom:latitude":-28.192603,
     "geom:longitude":-63.819113,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Martin Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.194387,
     "lbl:longitude":-63.825072,
     "meso:admin_1":"Santiago Del Estero",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718513,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759562,
     "wof:name":"San Martin",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

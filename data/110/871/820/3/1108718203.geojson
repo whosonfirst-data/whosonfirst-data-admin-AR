@@ -10,6 +10,12 @@
     "geom:latitude":-26.848719,
     "geom:longitude":-61.071582,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Belgrano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.805706,
     "lbl:longitude":-61.097758,
     "meso:admin_1":"Chaco",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718203,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759554,
     "wof:name":"General Belgrano",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

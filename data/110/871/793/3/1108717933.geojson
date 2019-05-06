@@ -10,6 +10,12 @@
     "geom:latitude":-34.877009,
     "geom:longitude":-58.565203,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ezeiza Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.87393,
     "lbl:longitude":-58.570549,
     "meso:admin_1":"Buenos Aires",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1108717933,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Ezeiza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

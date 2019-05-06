@@ -10,6 +10,12 @@
     "geom:latitude":-28.410399,
     "geom:longitude":-65.836222,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Capital - Catamarca Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.408844,
     "lbl:longitude":-65.836224,
     "meso:admin_1":"Catamarca",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718149,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1555091984,
     "wof:name":"Capital",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

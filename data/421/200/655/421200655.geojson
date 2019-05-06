@@ -10,6 +10,12 @@
     "geom:latitude":-51.413185,
     "geom:longitude":-70.566403,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "G\u00fcer Aike Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-51.370104,
     "lbl:longitude":-70.567052,
     "meso:admin_1":"Santa Cruz",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421200655,
-    "wof:lastmodified":1536616135,
+    "wof:lastmodified":1554759264,
     "wof:name":"G\u00fcer Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

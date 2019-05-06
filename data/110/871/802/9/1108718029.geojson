@@ -10,6 +10,12 @@
     "geom:latitude":-38.964591,
     "geom:longitude":-61.293186,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Monte Hermoso Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-38.971075,
     "lbl:longitude":-61.293509,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718029,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Monte Hermoso",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

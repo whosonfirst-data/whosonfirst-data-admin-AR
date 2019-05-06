@@ -10,6 +10,12 @@
     "geom:latitude":-27.687205,
     "geom:longitude":-57.814525,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Paz Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.688754,
     "lbl:longitude":-57.814549,
     "meso:admin_1":"Corrientes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718177,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"General Paz",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

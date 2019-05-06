@@ -10,6 +10,12 @@
     "geom:latitude":-34.637594,
     "geom:longitude":-58.688328,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Ituzaingo Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.635313,
     "lbl:longitude":-58.687728,
     "meso:admin_1":"Buenos Aires",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1108717981,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

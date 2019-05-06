@@ -10,6 +10,12 @@
     "geom:latitude":-31.458425,
     "geom:longitude":-69.835912,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Calingasta Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.481478,
     "lbl:longitude":-69.821877,
     "meso:admin_1":"San Juan",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171513,
-    "wof:lastmodified":1536615930,
+    "wof:lastmodified":1554759254,
     "wof:name":"Calingasta",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

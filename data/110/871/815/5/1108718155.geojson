@@ -10,6 +10,12 @@
     "geom:latitude":-28.206484,
     "geom:longitude":-66.407359,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Poman Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.149771,
     "lbl:longitude":-66.331926,
     "meso:admin_1":"Catamarca",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718155,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759553,
     "wof:name":"Poman",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

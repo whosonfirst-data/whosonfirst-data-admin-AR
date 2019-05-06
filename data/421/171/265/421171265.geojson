@@ -10,6 +10,12 @@
     "geom:latitude":-23.520652,
     "geom:longitude":-66.661983,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Susques Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-23.503401,
     "lbl:longitude":-66.717338,
     "meso:admin_1":"Jujuy",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421171265,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1554759252,
     "wof:name":"Susques",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

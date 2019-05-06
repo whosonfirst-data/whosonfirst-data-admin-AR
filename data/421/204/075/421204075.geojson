@@ -10,6 +10,12 @@
     "geom:latitude":-47.331408,
     "geom:longitude":-68.031485,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Deseado Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-47.193522,
     "lbl:longitude":-68.432249,
     "meso:admin_1":"Santa Cruz",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421204075,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1554759267,
     "wof:name":"Deseado",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.08537,
     "geom:longitude":-65.164891,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Candelaria Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.098972,
     "lbl:longitude":-65.187425,
     "meso:admin_1":"Salta",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718409,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759560,
     "wof:name":"La Candelaria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

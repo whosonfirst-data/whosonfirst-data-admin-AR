@@ -10,6 +10,12 @@
     "geom:latitude":-31.150469,
     "geom:longitude":-64.150107,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Colon Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.14009,
     "lbl:longitude":-64.1557,
     "meso:admin_1":"Cordoba",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421194115,
-    "wof:lastmodified":1536616114,
+    "wof:lastmodified":1554759262,
     "wof:name":"Colon",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-41.497897,
     "geom:longitude":-71.531611,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Bariloche Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-41.514704,
     "lbl:longitude":-71.531623,
     "meso:admin_1":"Rio Negro",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421188061,
-    "wof:lastmodified":1536616048,
+    "wof:lastmodified":1554759261,
     "wof:name":"Bariloche",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

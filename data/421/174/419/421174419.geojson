@@ -10,6 +10,12 @@
     "geom:latitude":-22.291307,
     "geom:longitude":-65.565897,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Yavi Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-22.281745,
     "lbl:longitude":-65.558368,
     "meso:admin_1":"Jujuy",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421174419,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1554759255,
     "wof:name":"Yavi",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

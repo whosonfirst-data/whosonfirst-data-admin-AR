@@ -10,6 +10,12 @@
     "geom:latitude":-37.58503,
     "geom:longitude":-59.888989,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Benito Juarez Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.606227,
     "lbl:longitude":-59.73005,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717871,
-    "wof:lastmodified":1536615527,
+    "wof:lastmodified":1555220427,
     "wof:name":"Benito Juarez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

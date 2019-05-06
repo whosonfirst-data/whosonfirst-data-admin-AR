@@ -10,6 +10,12 @@
     "geom:latitude":-34.667487,
     "geom:longitude":-62.039545,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Pinto Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.693336,
     "lbl:longitude":-62.033229,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717961,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"General Pinto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-26.786792,
     "geom:longitude":-60.461075,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Comandante Fernandez Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-26.786247,
     "lbl:longitude":-60.457506,
     "meso:admin_1":"Chaco",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171501,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Comandante Fernandez",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

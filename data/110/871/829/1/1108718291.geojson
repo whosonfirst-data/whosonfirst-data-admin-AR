@@ -10,6 +10,12 @@
     "geom:latitude":-36.505641,
     "geom:longitude":-64.190382,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Capital - Santa Rosa Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-36.492395,
     "lbl:longitude":-64.185013,
     "meso:admin_1":"La Pampa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718291,
-    "wof:lastmodified":1536615536,
+    "wof:lastmodified":1555091984,
     "wof:name":"Capital",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

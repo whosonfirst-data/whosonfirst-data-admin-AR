@@ -10,6 +10,12 @@
     "geom:latitude":-35.465838,
     "geom:longitude":-58.389429,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "General Paz Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.463979,
     "lbl:longitude":-58.356674,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108717959,
-    "wof:lastmodified":1536615529,
+    "wof:lastmodified":1555220429,
     "wof:name":"General Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

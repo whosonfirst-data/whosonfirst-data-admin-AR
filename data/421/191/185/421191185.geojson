@@ -10,6 +10,12 @@
     "geom:latitude":-38.92501,
     "geom:longitude":-69.841146,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Zapala Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-38.92027,
     "lbl:longitude":-69.796217,
     "meso:admin_1":"Neuquen",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421191185,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554759262,
     "wof:name":"Zapala",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

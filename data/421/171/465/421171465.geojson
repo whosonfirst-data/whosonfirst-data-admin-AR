@@ -10,6 +10,12 @@
     "geom:latitude":-32.295052,
     "geom:longitude":-63.777508,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Tercero Arriba Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.256629,
     "lbl:longitude":-63.736769,
     "meso:admin_1":"Cordoba",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171465,
-    "wof:lastmodified":1536615929,
+    "wof:lastmodified":1554759253,
     "wof:name":"Tercero Arriba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

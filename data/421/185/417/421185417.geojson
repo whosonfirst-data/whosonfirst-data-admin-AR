@@ -10,6 +10,12 @@
     "geom:latitude":-27.333205,
     "geom:longitude":-58.087936,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Itati Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.331522,
     "lbl:longitude":-58.177479,
     "meso:admin_1":"Corrientes",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421185417,
-    "wof:lastmodified":1536616030,
+    "wof:lastmodified":1554759258,
     "wof:name":"Itati",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

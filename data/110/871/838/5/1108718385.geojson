@@ -10,6 +10,12 @@
     "geom:latitude":-39.403456,
     "geom:longitude":-69.426848,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Picun Leufu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-39.472908,
     "lbl:longitude":-69.486376,
     "meso:admin_1":"Neuquen",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718385,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759559,
     "wof:name":"Picun Leufu",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

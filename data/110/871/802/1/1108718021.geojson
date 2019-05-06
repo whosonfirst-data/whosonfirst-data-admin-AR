@@ -10,6 +10,12 @@
     "geom:latitude":-34.813091,
     "geom:longitude":-58.848541,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Marcos Paz Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.802372,
     "lbl:longitude":-58.837233,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718021,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Marcos Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

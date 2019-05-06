@@ -10,6 +10,12 @@
     "geom:latitude":-27.450478,
     "geom:longitude":-65.751838,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Rio Chico Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.444066,
     "lbl:longitude":-65.751946,
     "meso:admin_1":"Tucuman",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718527,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759564,
     "wof:name":"Rio Chico",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

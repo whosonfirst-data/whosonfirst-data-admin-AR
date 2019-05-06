@@ -10,6 +10,12 @@
     "geom:latitude":-28.909495,
     "geom:longitude":-65.901522,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Capayan Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-28.939447,
     "lbl:longitude":-65.835068,
     "meso:admin_1":"Catamarca",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718147,
-    "wof:lastmodified":1536615533,
+    "wof:lastmodified":1554759553,
     "wof:name":"Capayan",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

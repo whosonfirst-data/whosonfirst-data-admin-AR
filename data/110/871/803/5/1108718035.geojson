@@ -10,6 +10,12 @@
     "geom:latitude":-35.03122,
     "geom:longitude":-59.429919,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Navarro Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.024844,
     "lbl:longitude":-59.435601,
     "meso:admin_1":"Buenos Aires",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718035,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Navarro",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

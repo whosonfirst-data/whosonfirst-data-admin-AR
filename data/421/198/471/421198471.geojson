@@ -10,6 +10,12 @@
     "geom:latitude":-25.875011,
     "geom:longitude":-54.401332,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Iguazu Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.896673,
     "lbl:longitude":-54.398326,
     "meso:admin_1":"Misiones",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421198471,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1554759263,
     "wof:name":"Iguazu",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

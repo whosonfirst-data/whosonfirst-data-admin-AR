@@ -10,6 +10,12 @@
     "geom:latitude":-36.856374,
     "geom:longitude":-60.671038,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Olavarria Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.772256,
     "lbl:longitude":-60.671057,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718043,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"Olavarria",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

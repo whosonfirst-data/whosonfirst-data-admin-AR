@@ -10,6 +10,12 @@
     "geom:latitude":-33.886685,
     "geom:longitude":-61.06281,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Colon Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-33.905697,
     "lbl:longitude":-61.066947,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108717901,
-    "wof:lastmodified":1536615528,
+    "wof:lastmodified":1555220428,
     "wof:name":"Colon",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

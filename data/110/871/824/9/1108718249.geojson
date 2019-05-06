@@ -10,6 +10,12 @@
     "geom:latitude":-30.401493,
     "geom:longitude":-58.715348,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Feliciano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.427843,
     "lbl:longitude":-58.708312,
     "meso:admin_1":"Entre Rios",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718249,
-    "wof:lastmodified":1536615535,
+    "wof:lastmodified":1554759556,
     "wof:name":"Feliciano",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

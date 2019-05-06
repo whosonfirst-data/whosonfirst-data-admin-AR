@@ -10,6 +10,12 @@
     "geom:latitude":-32.612879,
     "geom:longitude":-61.703577,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Belgrano Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-32.599044,
     "lbl:longitude":-61.683922,
     "meso:admin_1":"Santa Fe",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718449,
-    "wof:lastmodified":1536615540,
+    "wof:lastmodified":1554759561,
     "wof:name":"Belgrano",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-35.480956,
     "geom:longitude":-60.974601,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "9 de Julio Partido"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.484384,
     "lbl:longitude":-60.97473,
     "meso:admin_1":"Buenos Aires",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718041,
-    "wof:lastmodified":1536615530,
+    "wof:lastmodified":1555220430,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

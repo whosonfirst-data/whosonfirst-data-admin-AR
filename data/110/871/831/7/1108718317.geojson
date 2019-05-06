@@ -10,6 +10,12 @@
     "geom:latitude":-35.230414,
     "geom:longitude":-64.213829,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Realico Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-35.230349,
     "lbl:longitude":-64.213769,
     "meso:admin_1":"La Pampa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718317,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759558,
     "wof:name":"Realico",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

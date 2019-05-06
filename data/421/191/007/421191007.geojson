@@ -10,6 +10,12 @@
     "geom:latitude":-29.979725,
     "geom:longitude":-59.201121,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Esquina Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-30.028673,
     "lbl:longitude":-59.236691,
     "meso:admin_1":"Corrientes",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421191007,
-    "wof:lastmodified":1536616083,
+    "wof:lastmodified":1554759262,
     "wof:name":"Esquina",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

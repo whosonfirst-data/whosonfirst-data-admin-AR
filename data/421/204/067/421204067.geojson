@@ -10,6 +10,12 @@
     "geom:latitude":-25.145311,
     "geom:longitude":-65.609096,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Chicoana Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-25.112087,
     "lbl:longitude":-65.630344,
     "meso:admin_1":"Salta",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421204067,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1554759267,
     "wof:name":"Chicoana",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

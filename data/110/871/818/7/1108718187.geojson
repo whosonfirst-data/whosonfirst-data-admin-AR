@@ -10,6 +10,12 @@
     "geom:latitude":-27.560103,
     "geom:longitude":-58.279943,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "San Luis Del Palmar Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.566626,
     "lbl:longitude":-58.313045,
     "meso:admin_1":"Corrientes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718187,
-    "wof:lastmodified":1536615534,
+    "wof:lastmodified":1554759555,
     "wof:name":"San Luis Del Palmar",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

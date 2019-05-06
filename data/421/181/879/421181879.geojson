@@ -10,6 +10,12 @@
     "geom:latitude":-30.87904,
     "geom:longitude":-59.491841,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "La Paz Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-31.102818,
     "lbl:longitude":-59.570368,
     "meso:admin_1":"Entre Rios",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421181879,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1554759257,
     "wof:name":"La Paz",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

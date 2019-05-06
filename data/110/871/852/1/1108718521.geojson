@@ -10,6 +10,12 @@
     "geom:latitude":-27.713891,
     "geom:longitude":-65.254887,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Graneros Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-27.735505,
     "lbl:longitude":-65.227498,
     "meso:admin_1":"Tucuman",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718521,
-    "wof:lastmodified":1536615542,
+    "wof:lastmodified":1554759563,
     "wof:name":"Graneros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

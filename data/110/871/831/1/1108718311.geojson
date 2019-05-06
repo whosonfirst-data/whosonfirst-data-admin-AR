@@ -10,6 +10,12 @@
     "geom:latitude":-37.439329,
     "geom:longitude":-67.594987,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Puelen Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-37.257061,
     "lbl:longitude":-67.583794,
     "meso:admin_1":"La Pampa",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108718311,
-    "wof:lastmodified":1536615537,
+    "wof:lastmodified":1554759559,
     "wof:name":"Puelen",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

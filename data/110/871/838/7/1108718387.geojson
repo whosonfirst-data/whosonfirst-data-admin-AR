@@ -10,6 +10,12 @@
     "geom:latitude":-39.410558,
     "geom:longitude":-66.205151,
     "iso:country":"AR",
+    "label:eng_x_preferred_longname":[
+        "Avellaneda Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
     "lbl:latitude":-39.332766,
     "lbl:longitude":-66.003993,
     "meso:admin_1":"Rio Negro",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108718387,
-    "wof:lastmodified":1536615539,
+    "wof:lastmodified":1554759560,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668025,
     "wof:placetype":"county",
