@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Alberto"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.682752,
     "lbl:longitude":-65.026855,
     "meso:admin_1":"Cordoba",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421198475,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898148,
     "wof:name":"San Alberto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

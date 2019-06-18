@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Zonda"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.7,
     "lbl:longitude":-68.935611,
     "meso:admin_1":"San Juan",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421194777,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898142,
     "wof:name":"Zonda",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

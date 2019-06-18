@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento \u00d1orquinc\u00f3"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-41.701992,
     "lbl:longitude":-70.402711,
     "meso:admin_1":"Rio Negro",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421199903,
-    "wof:lastmodified":1554759264,
+    "wof:lastmodified":1560898149,
     "wof:name":"\u00d1orquinco",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

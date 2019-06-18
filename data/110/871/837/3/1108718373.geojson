@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Libertador General San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.8677,
     "lbl:longitude":-54.887228,
     "meso:admin_1":"Misiones",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718373,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898138,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

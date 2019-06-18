@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Las Colonias"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.528032,
     "lbl:longitude":-61.115962,
     "meso:admin_1":"Santa Fe",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421180885,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898144,
     "wof:name":"Las Colonias",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.408844,
     "lbl:longitude":-65.836224,
     "meso:admin_1":"Catamarca",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718149,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560898135,
     "wof:name":"Capital",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

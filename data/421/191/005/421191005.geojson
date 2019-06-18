@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Pacl\u00edn"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.09727,
     "lbl:longitude":-65.663448,
     "meso:admin_1":"Catamarca",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421191005,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898149,
     "wof:name":"Paclin",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

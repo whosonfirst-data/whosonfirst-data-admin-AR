@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Coll\u00f3n Cur\u00e1"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-40.096147,
     "lbl:longitude":-70.345404,
     "meso:admin_1":"Neuquen",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421185485,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898154,
     "wof:name":"Collon Cura",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

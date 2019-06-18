@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rawson"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.677606,
     "lbl:longitude":-68.469053,
     "meso:admin_1":"San Juan",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718427,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898128,
     "wof:name":"Rawson",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

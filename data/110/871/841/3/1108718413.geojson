@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Oran"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-23.756879,
     "lbl:longitude":-63.809351,
     "meso:admin_1":"Salta",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718413,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898133,
     "wof:name":"Oran",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

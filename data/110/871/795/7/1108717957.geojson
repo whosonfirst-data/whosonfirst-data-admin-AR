@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido General Lavalle"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.635743,
     "lbl:longitude":-56.94792,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717957,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560898132,
     "wof:name":"General Lavalle",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

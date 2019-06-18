@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Lago L\u00e1car"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-40.339033,
     "lbl:longitude":-71.172547,
     "meso:admin_1":"Neuquen",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421175299,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898148,
     "wof:name":"Lacar",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

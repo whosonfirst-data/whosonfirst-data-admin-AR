@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Parana"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.66973,
     "lbl:longitude":-60.04026,
     "meso:admin_1":"Entre Rios",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421171467,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898154,
     "wof:name":"Parana",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

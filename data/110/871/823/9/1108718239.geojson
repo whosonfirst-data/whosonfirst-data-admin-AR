@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Gastre"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-42.716416,
     "lbl:longitude":-68.90767,
     "meso:admin_1":"Chubut",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718239,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898134,
     "wof:name":"Gastre",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Atreuco"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-37.038137,
     "lbl:longitude":-63.775161,
     "meso:admin_1":"La Pampa",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718285,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898128,
     "wof:name":"Atreuco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

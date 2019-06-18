@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Alberti"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.035592,
     "lbl:longitude":-60.282704,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717853,
-    "wof:lastmodified":1555220427,
+    "wof:lastmodified":1560898132,
     "wof:name":"Alberti",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Sanagasta"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.169932,
     "lbl:longitude":-67.068302,
     "meso:admin_1":"La Rioja",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718351,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898130,
     "wof:name":"Sanagasta",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

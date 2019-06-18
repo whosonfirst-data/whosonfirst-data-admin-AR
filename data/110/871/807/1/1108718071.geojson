@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Rauch"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.536128,
     "lbl:longitude":-58.899327,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718071,
-    "wof:lastmodified":1555220431,
+    "wof:lastmodified":1560898137,
     "wof:name":"Rauch",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

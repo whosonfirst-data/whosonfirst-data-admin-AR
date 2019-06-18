@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Gaiman"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-43.323015,
     "lbl:longitude":-66.084881,
     "meso:admin_1":"Chubut",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421170131,
-    "wof:lastmodified":1554759251,
+    "wof:lastmodified":1560898151,
     "wof:name":"Gaiman",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

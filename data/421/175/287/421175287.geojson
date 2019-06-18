@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Jose De San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-22.679026,
     "lbl:longitude":-63.670005,
     "meso:admin_1":"Salta",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421175287,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898147,
     "wof:name":"General Jose De San Martin",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

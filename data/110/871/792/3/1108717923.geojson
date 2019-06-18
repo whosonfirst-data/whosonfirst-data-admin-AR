@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Ensenada"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.839447,
     "lbl:longitude":-57.991156,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717923,
-    "wof:lastmodified":1555220428,
+    "wof:lastmodified":1560898133,
     "wof:name":"Ensenada",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

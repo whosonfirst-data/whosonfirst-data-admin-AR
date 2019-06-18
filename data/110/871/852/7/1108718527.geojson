@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rio Chico"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.444066,
     "lbl:longitude":-65.751946,
     "meso:admin_1":"Tucuman",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718527,
-    "wof:lastmodified":1554759564,
+    "wof:lastmodified":1560898139,
     "wof:name":"Rio Chico",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

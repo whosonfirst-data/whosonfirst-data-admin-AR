@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Famailla"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.967453,
     "lbl:longitude":-65.476288,
     "meso:admin_1":"Tucuman",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421182825,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898152,
     "wof:name":"Famailla",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

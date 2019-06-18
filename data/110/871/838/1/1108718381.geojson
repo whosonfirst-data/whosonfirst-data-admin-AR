@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Loncopue"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-38.058126,
     "lbl:longitude":-70.185458,
     "meso:admin_1":"Neuquen",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718381,
-    "wof:lastmodified":1554759560,
+    "wof:lastmodified":1560898137,
     "wof:name":"Loncopue",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

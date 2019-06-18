@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Guemes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.017692,
     "lbl:longitude":-61.755208,
     "meso:admin_1":"Chaco",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421191011,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898149,
     "wof:name":"General Guemes",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

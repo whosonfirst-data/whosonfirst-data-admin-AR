@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Calamuchita"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.193771,
     "lbl:longitude":-64.637318,
     "meso:admin_1":"Cordoba",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421186303,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898146,
     "wof:name":"Calamuchita",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

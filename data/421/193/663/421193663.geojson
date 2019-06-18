@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Goya"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.451605,
     "lbl:longitude":-59.274748,
     "meso:admin_1":"Corrientes",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421193663,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898142,
     "wof:name":"Goya",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

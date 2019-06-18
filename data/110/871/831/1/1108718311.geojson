@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Puelen"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-37.257061,
     "lbl:longitude":-67.583794,
     "meso:admin_1":"La Pampa",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718311,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898137,
     "wof:name":"Puelen",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

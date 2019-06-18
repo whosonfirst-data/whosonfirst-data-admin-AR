@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rawson"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-43.072222,
     "lbl:longitude":-65.131113,
     "meso:admin_1":"Chubut",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":421172183,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898146,
     "wof:name":"Rawson",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

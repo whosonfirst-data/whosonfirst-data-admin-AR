@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Tala"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.324342,
     "lbl:longitude":-59.298563,
     "meso:admin_1":"Entre Rios",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718257,
-    "wof:lastmodified":1554759556,
+    "wof:lastmodified":1560898136,
     "wof:name":"Tala",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

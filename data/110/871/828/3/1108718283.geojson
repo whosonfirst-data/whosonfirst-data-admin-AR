@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Valle Grande"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-23.486305,
     "lbl:longitude":-65.014458,
     "meso:admin_1":"Jujuy",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718283,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898128,
     "wof:name":"Valle Grande",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Conesa"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-40.155,
     "lbl:longitude":-64.30322,
     "meso:admin_1":"Rio Negro",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718389,
-    "wof:lastmodified":1554759560,
+    "wof:lastmodified":1560898137,
     "wof:name":"Conesa",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

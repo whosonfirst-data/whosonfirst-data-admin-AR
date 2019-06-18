@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Pinamar"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.123513,
     "lbl:longitude":-56.883137,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718059,
-    "wof:lastmodified":1555220431,
+    "wof:lastmodified":1560898132,
     "wof:name":"Pinamar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

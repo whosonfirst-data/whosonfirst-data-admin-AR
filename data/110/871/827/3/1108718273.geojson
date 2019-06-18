@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Pilcomayo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.322084,
     "lbl:longitude":-58.055287,
     "meso:admin_1":"Formosa",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718273,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898127,
     "wof:name":"Pilcomayo",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

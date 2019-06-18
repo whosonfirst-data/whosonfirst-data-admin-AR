@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Volc\u00e1n Antofagasta"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.953135,
     "lbl:longitude":-67.69718,
     "meso:admin_1":"Catamarca",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421204055,
-    "wof:lastmodified":1554759267,
+    "wof:lastmodified":1560898142,
     "wof:name":"Antofagasta De La Sierra",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General G\u00fcemes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-24.727149,
     "lbl:longitude":-64.919183,
     "meso:admin_1":"Salta",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421191593,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898148,
     "wof:name":"General G\u00fcemes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

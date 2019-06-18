@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Hucal"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-37.99196,
     "lbl:longitude":-63.944136,
     "meso:admin_1":"La Pampa",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421181665,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898147,
     "wof:name":"Hucal",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

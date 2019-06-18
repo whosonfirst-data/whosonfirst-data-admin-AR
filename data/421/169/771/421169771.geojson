@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Lorenzo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.935605,
     "lbl:longitude":-61.007226,
     "meso:admin_1":"Santa Fe",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421169771,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898142,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

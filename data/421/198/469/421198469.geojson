@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Godoy Cruz"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.928379,
     "lbl:longitude":-68.883073,
     "meso:admin_1":"Mendoza",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421198469,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898148,
     "wof:name":"Godoy Cruz",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

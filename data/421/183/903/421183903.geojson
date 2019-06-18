@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Metan"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.369149,
     "lbl:longitude":-64.401559,
     "meso:admin_1":"Salta",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421183903,
-    "wof:lastmodified":1554759258,
+    "wof:lastmodified":1560898152,
     "wof:name":"Metan",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

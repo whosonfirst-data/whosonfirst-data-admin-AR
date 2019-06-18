@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Belgrano"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.746554,
     "lbl:longitude":-66.715876,
     "meso:admin_1":"San Luis",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171231,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898154,
     "wof:name":"Belgrano",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

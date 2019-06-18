@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento 9 De Julio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.953555,
     "lbl:longitude":-61.264533,
     "meso:admin_1":"Chaco",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718213,
-    "wof:lastmodified":1555220433,
+    "wof:lastmodified":1560898129,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

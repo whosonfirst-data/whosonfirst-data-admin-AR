@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento \u00d1orqu\u00edn"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-37.659315,
     "lbl:longitude":-70.666309,
     "meso:admin_1":"Neuquen",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421169775,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898142,
     "wof:name":"\u00d1orquin",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

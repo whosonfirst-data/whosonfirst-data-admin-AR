@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.510681,
     "lbl:longitude":-55.891202,
     "meso:admin_1":"Misiones",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718367,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560898137,
     "wof:name":"Capital",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

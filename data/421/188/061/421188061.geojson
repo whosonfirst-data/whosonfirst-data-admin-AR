@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Carlos de Bariloche"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-41.514704,
     "lbl:longitude":-71.531623,
     "meso:admin_1":"Rio Negro",
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":421188061,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898146,
     "wof:name":"Bariloche",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

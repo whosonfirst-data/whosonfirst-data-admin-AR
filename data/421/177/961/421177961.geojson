@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Javier"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.07747,
     "lbl:longitude":-65.086472,
     "meso:admin_1":"Cordoba",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421177961,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898151,
     "wof:name":"San Javier",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

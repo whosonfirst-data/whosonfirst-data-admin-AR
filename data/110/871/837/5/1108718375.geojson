@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Javier"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.786055,
     "lbl:longitude":-55.153991,
     "meso:admin_1":"Misiones",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718375,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898138,
     "wof:name":"San Javier",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

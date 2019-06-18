@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Lules"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.889618,
     "lbl:longitude":-65.355191,
     "meso:admin_1":"Tucuman",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421175289,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898147,
     "wof:name":"Lules",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

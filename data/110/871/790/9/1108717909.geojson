@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Coronel Suarez"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.536151,
     "lbl:longitude":-61.882303,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108717909,
-    "wof:lastmodified":1555220428,
+    "wof:lastmodified":1560898125,
     "wof:name":"Coronel Suarez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

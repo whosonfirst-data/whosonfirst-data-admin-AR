@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ischil\u00edn"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.365,
     "lbl:longitude":-64.653914,
     "meso:admin_1":"Cordoba",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421204057,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560898143,
     "wof:name":"Ischilin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

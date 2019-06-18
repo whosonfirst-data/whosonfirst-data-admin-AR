@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.87079,
     "lbl:longitude":-64.390823,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718475,
-    "wof:lastmodified":1555091985,
+    "wof:lastmodified":1560898135,
     "wof:name":"Capital",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

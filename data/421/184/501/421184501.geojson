@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chimbas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.474991,
     "lbl:longitude":-68.518743,
     "meso:admin_1":"San Juan",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421184501,
-    "wof:lastmodified":1554759258,
+    "wof:lastmodified":1560898150,
     "wof:name":"Chimbas",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

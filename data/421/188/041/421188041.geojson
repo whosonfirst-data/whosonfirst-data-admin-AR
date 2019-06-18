@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Roca"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-34.606665,
     "lbl:longitude":-64.447201,
     "meso:admin_1":"Cordoba",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421188041,
-    "wof:lastmodified":1554759260,
+    "wof:lastmodified":1560898145,
     "wof:name":"General Roca",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

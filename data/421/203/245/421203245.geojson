@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Manuel Belgrano"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.000196,
     "lbl:longitude":-54.010204,
     "meso:admin_1":"Misiones",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421203245,
-    "wof:lastmodified":1554759265,
+    "wof:lastmodified":1560898143,
     "wof:name":"General Manuel Belgrano",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rosario"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.130656,
     "lbl:longitude":-60.711033,
     "meso:admin_1":"Santa Fe",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171509,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Rosario",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Patagones"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-40.184251,
     "lbl:longitude":-62.919627,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718045,
-    "wof:lastmodified":1555220430,
+    "wof:lastmodified":1560898130,
     "wof:name":"Patagones",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

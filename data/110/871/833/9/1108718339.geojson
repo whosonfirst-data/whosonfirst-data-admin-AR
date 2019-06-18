@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Ocampo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.01,
     "lbl:longitude":-66.057871,
     "meso:admin_1":"La Rioja",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718339,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898131,
     "wof:name":"General Ocampo",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

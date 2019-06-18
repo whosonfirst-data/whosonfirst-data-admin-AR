@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-36.492395,
     "lbl:longitude":-64.185013,
     "meso:admin_1":"La Pampa",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718291,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560898127,
     "wof:name":"Capital",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

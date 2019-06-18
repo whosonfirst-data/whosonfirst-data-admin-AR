@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento El Cuy"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-39.540812,
     "lbl:longitude":-68.325731,
     "meso:admin_1":"Rio Negro",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421199895,
-    "wof:lastmodified":1554759264,
+    "wof:lastmodified":1560898149,
     "wof:name":"El Cuy",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

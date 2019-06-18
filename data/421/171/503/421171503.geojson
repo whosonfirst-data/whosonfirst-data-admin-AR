@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Islas Del Ibicuy"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.637034,
     "lbl:longitude":-59.02968,
     "meso:admin_1":"Entre Rios",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171503,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560898152,
     "wof:name":"Islas Del Ibicuy",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

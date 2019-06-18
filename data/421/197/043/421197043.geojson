@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Coronel Felipe Varela"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.443913,
     "lbl:longitude":-68.339688,
     "meso:admin_1":"La Rioja",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421197043,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898149,
     "wof:name":"Coronel Felipe Varela",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

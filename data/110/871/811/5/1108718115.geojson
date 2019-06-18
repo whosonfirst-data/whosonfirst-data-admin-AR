@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Tapalque"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.47,
     "lbl:longitude":-60.183244,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718115,
-    "wof:lastmodified":1555220432,
+    "wof:lastmodified":1560898128,
     "wof:name":"Tapalque",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

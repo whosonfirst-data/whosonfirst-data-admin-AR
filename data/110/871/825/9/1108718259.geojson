@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Villaguay"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.71078,
     "lbl:longitude":-59.045901,
     "meso:admin_1":"Entre Rios",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718259,
-    "wof:lastmodified":1554759556,
+    "wof:lastmodified":1560898136,
     "wof:name":"Villaguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

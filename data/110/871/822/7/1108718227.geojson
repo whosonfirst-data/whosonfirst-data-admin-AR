@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Sargento Cabral"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.894302,
     "lbl:longitude":-59.494589,
     "meso:admin_1":"Chaco",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718227,
-    "wof:lastmodified":1554759556,
+    "wof:lastmodified":1560898136,
     "wof:name":"Sargento Cabral",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Carlos"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-34.022878,
     "lbl:longitude":-69.03979,
     "meso:admin_1":"Mendoza",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421195857,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898141,
     "wof:name":"San Carlos",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

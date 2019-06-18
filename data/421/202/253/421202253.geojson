@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Carlos"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.777981,
     "lbl:longitude":-66.141384,
     "meso:admin_1":"Salta",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421202253,
-    "wof:lastmodified":1554759265,
+    "wof:lastmodified":1560898144,
     "wof:name":"San Carlos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

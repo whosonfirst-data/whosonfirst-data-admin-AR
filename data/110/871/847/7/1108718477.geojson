@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Copo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.95125,
     "lbl:longitude":-62.743476,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718477,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898135,
     "wof:name":"Copo",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

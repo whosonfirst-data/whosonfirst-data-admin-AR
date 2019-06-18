@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Guaymall\u00e9n"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.893583,
     "lbl:longitude":-68.720857,
     "meso:admin_1":"Mendoza",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421171949,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898153,
     "wof:name":"Guaymallen",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

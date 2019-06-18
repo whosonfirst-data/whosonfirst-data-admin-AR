@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Alberdi"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.54,
     "lbl:longitude":-62.710714,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718465,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898133,
     "wof:name":"Alberdi",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

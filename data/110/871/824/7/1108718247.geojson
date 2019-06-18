@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Federal"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.924378,
     "lbl:longitude":-58.850422,
     "meso:admin_1":"Entre Rios",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718247,
-    "wof:lastmodified":1554759556,
+    "wof:lastmodified":1560898134,
     "wof:name":"Federal",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

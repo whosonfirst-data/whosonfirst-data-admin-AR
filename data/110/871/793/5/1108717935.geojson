@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Florencio Varela"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.853542,
     "lbl:longitude":-58.245653,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717935,
-    "wof:lastmodified":1555220428,
+    "wof:lastmodified":1560898132,
     "wof:name":"Florencio Varela",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

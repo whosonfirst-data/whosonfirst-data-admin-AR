@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Sarmiento"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.111761,
     "lbl:longitude":-68.698773,
     "meso:admin_1":"San Juan",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718435,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898129,
     "wof:name":"Sarmiento",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

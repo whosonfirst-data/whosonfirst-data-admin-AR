@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Bella Vista"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.453082,
     "lbl:longitude":-58.886771,
     "meso:admin_1":"Corrientes",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421191015,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898148,
     "wof:name":"Bella Vista",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

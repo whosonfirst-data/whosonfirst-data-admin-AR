@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General La Madrid"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.636735,
     "lbl:longitude":-63.323693,
     "meso:admin_1":"Cordoba",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421186135,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898146,
     "wof:name":"General San Martin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

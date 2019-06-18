@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Curuzu Cuatia"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.650692,
     "lbl:longitude":-58.27782,
     "meso:admin_1":"Corrientes",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718175,
-    "wof:lastmodified":1554759554,
+    "wof:lastmodified":1560898129,
     "wof:name":"Curuzu Cuatia",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

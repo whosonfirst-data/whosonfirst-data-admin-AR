@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Futaleuf\u00fa"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-43.19892,
     "lbl:longitude":-71.321181,
     "meso:admin_1":"Chubut",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421170127,
-    "wof:lastmodified":1554759251,
+    "wof:lastmodified":1560898151,
     "wof:name":"Futaleufu",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Guatrache"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-37.494108,
     "lbl:longitude":-63.775382,
     "meso:admin_1":"La Pampa",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718303,
-    "wof:lastmodified":1554759558,
+    "wof:lastmodified":1560898139,
     "wof:name":"Guatrache",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

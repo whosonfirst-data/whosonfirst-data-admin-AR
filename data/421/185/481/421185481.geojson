@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento R\u00edo Cuarto"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.399764,
     "lbl:longitude":-64.569955,
     "meso:admin_1":"Cordoba",
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":421185481,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898155,
     "wof:name":"Rio Cuarto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

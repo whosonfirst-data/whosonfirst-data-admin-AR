@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.881044,
     "lbl:longitude":-68.908186,
     "meso:admin_1":"Mendoza",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718353,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560898130,
     "wof:name":"Capital",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

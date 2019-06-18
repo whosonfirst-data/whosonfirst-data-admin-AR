@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Victoria"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.75526,
     "lbl:longitude":-60.273375,
     "meso:admin_1":"Entre Rios",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421189009,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898145,
     "wof:name":"Victoria",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Escalante"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-45.228094,
     "lbl:longitude":-67.724605,
     "meso:admin_1":"Chubut",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421169779,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898142,
     "wof:name":"Escalante",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

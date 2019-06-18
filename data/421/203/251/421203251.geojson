@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Iriondo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.658244,
     "lbl:longitude":-61.266847,
     "meso:admin_1":"Santa Fe",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421203251,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560898143,
     "wof:name":"Iriondo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

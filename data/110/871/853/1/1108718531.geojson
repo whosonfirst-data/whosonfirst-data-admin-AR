@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Trancas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.332316,
     "lbl:longitude":-65.411976,
     "meso:admin_1":"Tucuman",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718531,
-    "wof:lastmodified":1554759564,
+    "wof:lastmodified":1560898138,
     "wof:name":"Trancas",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

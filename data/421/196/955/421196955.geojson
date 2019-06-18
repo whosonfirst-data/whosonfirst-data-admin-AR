@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Tulumba"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.251492,
     "lbl:longitude":-63.942578,
     "meso:admin_1":"Cordoba",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421196955,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898148,
     "wof:name":"Tulumba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

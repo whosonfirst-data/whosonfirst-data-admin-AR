@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Bolivar"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.318681,
     "lbl:longitude":-61.158681,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108717879,
-    "wof:lastmodified":1555220427,
+    "wof:lastmodified":1560898140,
     "wof:name":"Bolivar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

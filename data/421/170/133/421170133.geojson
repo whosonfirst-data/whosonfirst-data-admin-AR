@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Lago Buenos Aires"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-46.703465,
     "lbl:longitude":-70.422325,
     "meso:admin_1":"Santa Cruz",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421170133,
-    "wof:lastmodified":1554759251,
+    "wof:lastmodified":1560898150,
     "wof:name":"Lago Buenos Aires",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

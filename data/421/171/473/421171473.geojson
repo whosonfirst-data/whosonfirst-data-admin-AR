@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ayacucho"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.143403,
     "lbl:longitude":-66.65879,
     "meso:admin_1":"San Luis",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171473,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898154,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

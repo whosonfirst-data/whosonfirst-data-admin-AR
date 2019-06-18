@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ojo De Agua"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.235274,
     "lbl:longitude":-64.043933,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718499,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898135,
     "wof:name":"Ojo De Agua",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

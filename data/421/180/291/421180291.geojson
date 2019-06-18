@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Formosa"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.905379,
     "lbl:longitude":-58.32477,
     "meso:admin_1":"Formosa",
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":421180291,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898144,
     "wof:name":"Formosa",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

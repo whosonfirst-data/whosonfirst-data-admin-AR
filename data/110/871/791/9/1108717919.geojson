@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido Daireaux"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.690381,
     "lbl:longitude":-61.850801,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717919,
-    "wof:lastmodified":1555220428,
+    "wof:lastmodified":1560898126,
     "wof:name":"Daireaux",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

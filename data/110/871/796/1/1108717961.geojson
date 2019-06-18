@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido General Pinto"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.693336,
     "lbl:longitude":-62.033229,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717961,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560898126,
     "wof:name":"General Pinto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

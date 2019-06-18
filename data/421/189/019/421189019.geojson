@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Empedrado"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.815147,
     "lbl:longitude":-58.66272,
     "meso:admin_1":"Corrientes",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421189019,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898145,
     "wof:name":"Empedrado",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

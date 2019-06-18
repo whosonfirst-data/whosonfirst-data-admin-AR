@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Alumin\u00e9"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-39.14081,
     "lbl:longitude":-71.055092,
     "meso:admin_1":"Neuquen",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421188059,
-    "wof:lastmodified":1554759260,
+    "wof:lastmodified":1560898146,
     "wof:name":"Alumine",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

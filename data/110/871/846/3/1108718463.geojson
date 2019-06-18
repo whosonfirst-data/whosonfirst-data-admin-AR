@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Vera"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.783354,
     "lbl:longitude":-60.467643,
     "meso:admin_1":"Santa Fe",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718463,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898133,
     "wof:name":"Vera",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

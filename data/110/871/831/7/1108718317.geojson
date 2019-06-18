@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Realico"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-35.230349,
     "lbl:longitude":-64.213769,
     "meso:admin_1":"La Pampa",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718317,
-    "wof:lastmodified":1554759558,
+    "wof:lastmodified":1560898137,
     "wof:name":"Realico",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

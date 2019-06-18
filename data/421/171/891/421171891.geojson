@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Cosme"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.348709,
     "lbl:longitude":-58.544464,
     "meso:admin_1":"Corrientes",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421171891,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898154,
     "wof:name":"San Cosme",
     "wof:parent_id":85668071,
     "wof:placetype":"county",
