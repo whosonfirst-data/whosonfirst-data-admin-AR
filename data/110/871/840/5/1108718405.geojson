@@ -10,11 +10,17 @@
     "geom:latitude":-24.900603,
     "geom:longitude":-65.271925,
     "iso:country":"AR",
+    "label:eng_x_preferred_disambiguation":[
+        "Capital (Salta) Department"
+    ],
     "label:eng_x_preferred_longname":[
-        "Capital - Salta Department"
+        "Capital Department"
     ],
     "label:eng_x_preferred_placetype":[
         "department"
+    ],
+    "label:eng_x_variant_longname":[
+        "Capital - Salta Department"
     ],
     "label:spa_x_preferred_longname":[
         "Departamento Capital"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108718405,
-    "wof:lastmodified":1560898135,
+    "wof:lastmodified":1560901001,
     "wof:name":"Capital",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

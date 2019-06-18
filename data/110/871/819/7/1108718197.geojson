@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departmento 2 de Abril"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.638457,
     "lbl:longitude":-61.380663,
     "meso:admin_1":"Chaco",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108718197,
-    "wof:lastmodified":1560898129,
+    "wof:lastmodified":1560900996,
     "wof:name":"2 De Abril",
     "wof:parent_id":85668063,
     "wof:placetype":"county",
