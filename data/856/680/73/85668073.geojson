@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Entre R\u00edos"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-32.298751,
     "lbl:longitude":-59.353459,
     "mps:latitude":-32.196611,
@@ -377,7 +383,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550305,
+    "wof:lastmodified":1560895765,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

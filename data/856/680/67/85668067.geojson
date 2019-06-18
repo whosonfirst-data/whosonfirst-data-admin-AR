@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.732466,
-    "geom:area_square_m":75502554022.973618,
+    "geom:area_square_m":75502554022.972626,
     "geom:bbox":"-62.3494701501,-26.8787483452,-57.55515,-22.4721160488",
     "geom:latitude":-24.897333,
     "geom:longitude":-59.931035,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Formosa"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-25.045409,
     "lbl:longitude":-59.766831,
@@ -364,7 +370,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814709,
+    "wof:lastmodified":1560895615,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

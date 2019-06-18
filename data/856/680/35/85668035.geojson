@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Catamarca"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-27.195075,
     "lbl:longitude":-67.158848,
     "mps:latitude":-27.200342,
@@ -379,7 +385,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550308,
+    "wof:lastmodified":1560895615,
     "wof:name":"Catamarca",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chubut"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-43.999571,
     "lbl:longitude":-68.525633,
     "mps:latitude":-43.999547,
@@ -391,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550315,
+    "wof:lastmodified":1560895618,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

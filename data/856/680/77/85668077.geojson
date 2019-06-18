@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.547892,
-    "geom:area_square_m":133338117994.478516,
+    "geom:area_square_m":133338117994.48378,
     "geom:bbox":"-62.8743776067,-34.3899529414,-58.8789157731,-27.9905951303",
     "geom:latitude":-30.706456,
     "geom:longitude":-60.949684,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Santa Fe"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-30.326928,
     "lbl:longitude":-60.814713,
@@ -376,7 +382,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814709,
+    "wof:lastmodified":1560895619,
     "wof:name":"Santa Fe",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
