@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Mar Chiquita"
+        "Partido de Mar Chiquita"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108718017,
-    "wof:lastmodified":1560898139,
+    "wof:lastmodified":1560901507,
     "wof:name":"Mar Chiquita",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

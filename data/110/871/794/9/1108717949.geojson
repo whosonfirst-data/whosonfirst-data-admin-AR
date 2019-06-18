@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido General Guido"
+        "Partido de General Guido"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108717949,
-    "wof:lastmodified":1560898132,
+    "wof:lastmodified":1560901505,
     "wof:name":"General Guido",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

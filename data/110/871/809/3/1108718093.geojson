@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido San Antonio De Areco"
+        "Partido de San Antonio De Areco"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108718093,
-    "wof:lastmodified":1560898138,
+    "wof:lastmodified":1560901507,
     "wof:name":"San Antonio De Areco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

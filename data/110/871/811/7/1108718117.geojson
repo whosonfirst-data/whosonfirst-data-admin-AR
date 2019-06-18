@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Tigre"
+        "Partido de Tigre"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108718117,
-    "wof:lastmodified":1560898127,
+    "wof:lastmodified":1560901503,
     "wof:name":"Tigre",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

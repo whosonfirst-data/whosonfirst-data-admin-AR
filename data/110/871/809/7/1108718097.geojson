@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido San Fernando"
+        "Partido de San Fernando"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108718097,
-    "wof:lastmodified":1560898138,
+    "wof:lastmodified":1560901507,
     "wof:name":"San Fernando",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

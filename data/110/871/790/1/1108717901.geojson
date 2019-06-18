@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Colon"
+        "Partido de Colon"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108717901,
-    "wof:lastmodified":1560898125,
+    "wof:lastmodified":1560901502,
     "wof:name":"Colon",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

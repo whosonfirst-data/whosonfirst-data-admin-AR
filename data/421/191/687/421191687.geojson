@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Avellaneda"
+        "Partido de Avellaneda"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1560901510,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

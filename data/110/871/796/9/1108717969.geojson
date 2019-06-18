@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido General San Martin"
+        "Partido de General San Martin"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108717969,
-    "wof:lastmodified":1560898126,
+    "wof:lastmodified":1560901503,
     "wof:name":"General San Martin",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

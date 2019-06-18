@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido General Villegas"
+        "Partido de General Villegas"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108717973,
-    "wof:lastmodified":1560898125,
+    "wof:lastmodified":1560901502,
     "wof:name":"General Villegas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

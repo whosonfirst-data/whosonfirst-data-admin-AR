@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Lanus"
+        "Partido de Lanus"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":421179647,
-    "wof:lastmodified":1560898152,
+    "wof:lastmodified":1560901510,
     "wof:name":"Lanus",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido General Pinto"
+        "Partido de General Pinto"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108717961,
-    "wof:lastmodified":1560898126,
+    "wof:lastmodified":1560901503,
     "wof:name":"General Pinto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

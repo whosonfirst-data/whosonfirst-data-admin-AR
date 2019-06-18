@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido Trenque Lauquen"
+        "Partido de Trenque Lauquen"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108718123,
-    "wof:lastmodified":1560898134,
+    "wof:lastmodified":1560901506,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

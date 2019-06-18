@@ -17,7 +17,7 @@
         "partido"
     ],
     "label:spa_x_preferred_longname":[
-        "Partido 25 De Mayo"
+        "Partido de 25 De Mayo"
     ],
     "label:spa_x_preferred_placetype":[
         "partido"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108718131,
-    "wof:lastmodified":1560898136,
+    "wof:lastmodified":1560901506,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",
