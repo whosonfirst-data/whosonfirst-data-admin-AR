@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Poman"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.149771,
     "lbl:longitude":-66.331926,
     "meso:admin_1":"Catamarca",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718155,
-    "wof:lastmodified":1554759553,
+    "wof:lastmodified":1560898135,
     "wof:name":"Poman",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

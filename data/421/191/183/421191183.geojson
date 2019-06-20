@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Cruz Del Eje"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.665494,
     "lbl:longitude":-65.121656,
     "meso:admin_1":"Cordoba",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421191183,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898149,
     "wof:name":"Cruz Del Eje",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

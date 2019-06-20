@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de General Villegas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.77205,
     "lbl:longitude":-62.994284,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717973,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560901502,
     "wof:name":"General Villegas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

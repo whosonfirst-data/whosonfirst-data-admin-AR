@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Juan Martin De Pueyrredon"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-34.373326,
     "lbl:longitude":-66.381147,
     "meso:admin_1":"San Luis",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718445,
-    "wof:lastmodified":1555091985,
+    "wof:lastmodified":1560898130,
     "wof:name":"Juan Martin De Pueyrredon",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

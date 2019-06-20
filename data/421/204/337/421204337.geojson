@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Santo Tom\u00e9"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.19651,
     "lbl:longitude":-56.157278,
     "meso:admin_1":"Corrientes",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421204337,
-    "wof:lastmodified":1554759268,
+    "wof:lastmodified":1560898142,
     "wof:name":"Santo Tome",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

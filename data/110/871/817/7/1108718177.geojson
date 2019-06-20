@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Paz"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.688754,
     "lbl:longitude":-57.814549,
     "meso:admin_1":"Corrientes",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718177,
-    "wof:lastmodified":1554759555,
+    "wof:lastmodified":1560898128,
     "wof:name":"General Paz",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

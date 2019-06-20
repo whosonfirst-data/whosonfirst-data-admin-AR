@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Justo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.232512,
     "lbl:longitude":-60.422547,
     "meso:admin_1":"Santa Fe",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421171505,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898152,
     "wof:name":"San Justo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

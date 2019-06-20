@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento M\u00e1rtires"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-43.856061,
     "lbl:longitude":-67.240303,
     "meso:admin_1":"Chubut",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421199905,
-    "wof:lastmodified":1554759264,
+    "wof:lastmodified":1560898149,
     "wof:name":"Martires",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

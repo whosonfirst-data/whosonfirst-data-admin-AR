@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Concepcion"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.906504,
     "lbl:longitude":-55.463369,
     "meso:admin_1":"Misiones",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718369,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898137,
     "wof:name":"Concepcion",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

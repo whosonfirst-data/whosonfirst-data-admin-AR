@@ -21,6 +21,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chaco"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-26.701452,
     "lbl:longitude":-60.5939,
     "mps:latitude":-26.830045,
@@ -384,7 +390,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550295,
+    "wof:lastmodified":1560895619,
     "wof:name":"Chaco",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Libertador General San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.589116,
     "lbl:longitude":-65.702501,
     "meso:admin_1":"San Luis",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718447,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898129,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

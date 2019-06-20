@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Minas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-36.88761,
     "lbl:longitude":-70.790685,
     "meso:admin_1":"Neuquen",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718383,
-    "wof:lastmodified":1554759560,
+    "wof:lastmodified":1560898137,
     "wof:name":"Minas",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

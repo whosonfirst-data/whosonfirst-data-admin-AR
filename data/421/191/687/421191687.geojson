@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Avellaneda"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.678356,
     "lbl:longitude":-58.341159,
     "meso:admin_1":"Buenos Aires",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1560901510,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

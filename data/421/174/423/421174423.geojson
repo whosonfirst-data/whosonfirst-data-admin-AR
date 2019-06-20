@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rinconada"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-22.631207,
     "lbl:longitude":-66.666344,
     "meso:admin_1":"Jujuy",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421174423,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898144,
     "wof:name":"Rinconada",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

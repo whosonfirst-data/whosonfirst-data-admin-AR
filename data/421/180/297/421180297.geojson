@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Ignacio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.169813,
     "lbl:longitude":-55.30842,
     "meso:admin_1":"Misiones",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421180297,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898144,
     "wof:name":"San Ignacio",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

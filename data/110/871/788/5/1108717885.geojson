@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Campana"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.160492,
     "lbl:longitude":-58.880014,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717885,
-    "wof:lastmodified":1555220427,
+    "wof:lastmodified":1560901508,
     "wof:name":"Campana",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

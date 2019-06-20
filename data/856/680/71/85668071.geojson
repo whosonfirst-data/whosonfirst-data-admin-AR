@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Corrientes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-28.684571,
     "lbl:longitude":-57.799607,
     "mps:latitude":-28.703902,
@@ -367,7 +373,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550296,
+    "wof:lastmodified":1560895620,
     "wof:name":"Corrientes",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

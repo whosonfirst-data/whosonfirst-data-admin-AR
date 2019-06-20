@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Andalgala"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.556436,
     "lbl:longitude":-66.364606,
     "meso:admin_1":"Catamarca",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421203617,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560898143,
     "wof:name":"Andalgala",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

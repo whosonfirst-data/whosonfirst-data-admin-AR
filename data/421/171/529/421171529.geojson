@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Sarmiento"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-45.345,
     "lbl:longitude":-69.004082,
     "meso:admin_1":"Chubut",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421171529,
-    "wof:lastmodified":1554759254,
+    "wof:lastmodified":1560898153,
     "wof:name":"Sarmiento",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

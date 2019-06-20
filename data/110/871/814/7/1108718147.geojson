@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capayan"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.939447,
     "lbl:longitude":-65.835068,
     "meso:admin_1":"Catamarca",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718147,
-    "wof:lastmodified":1554759553,
+    "wof:lastmodified":1560898136,
     "wof:name":"Capayan",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

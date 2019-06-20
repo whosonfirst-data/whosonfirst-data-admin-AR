@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Zapala"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-38.92027,
     "lbl:longitude":-69.796217,
     "meso:admin_1":"Neuquen",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421191185,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898149,
     "wof:name":"Zapala",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de San Fernando"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.144965,
     "lbl:longitude":-58.548723,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718097,
-    "wof:lastmodified":1555220432,
+    "wof:lastmodified":1560901507,
     "wof:name":"San Fernando",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

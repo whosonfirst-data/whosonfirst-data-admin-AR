@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.893885,
     "lbl:longitude":-68.290137,
     "meso:admin_1":"Mendoza",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718359,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898130,
     "wof:name":"San Martin",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

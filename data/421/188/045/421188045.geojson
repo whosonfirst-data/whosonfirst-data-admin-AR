@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Rafael"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-34.848573,
     "lbl:longitude":-68.356655,
     "meso:admin_1":"Mendoza",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421188045,
-    "wof:lastmodified":1554759260,
+    "wof:lastmodified":1560898145,
     "wof:name":"San Rafael",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

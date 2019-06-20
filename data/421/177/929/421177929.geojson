@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Trenel"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-35.642299,
     "lbl:longitude":-64.217144,
     "meso:admin_1":"La Pampa",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421177929,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898151,
     "wof:name":"Trenel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

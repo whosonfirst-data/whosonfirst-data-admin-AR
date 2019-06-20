@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Sobremonte"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.762957,
     "lbl:longitude":-64.138477,
     "meso:admin_1":"Cordoba",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718167,
-    "wof:lastmodified":1554759554,
+    "wof:lastmodified":1560898127,
     "wof:name":"Sobremonte",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

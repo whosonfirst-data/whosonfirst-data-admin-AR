@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Bel\u00e9n"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.144974,
     "lbl:longitude":-66.931062,
     "meso:admin_1":"Catamarca",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":421204045,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560898142,
     "wof:name":"Belen",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

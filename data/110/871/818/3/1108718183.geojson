@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Mburucuy\u00e1"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.991518,
     "lbl:longitude":-58.204799,
     "meso:admin_1":"Corrientes",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108718183,
-    "wof:lastmodified":1555037333,
+    "wof:lastmodified":1560898126,
     "wof:name":"Mburucuya",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

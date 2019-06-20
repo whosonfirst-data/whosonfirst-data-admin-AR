@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Los Lagos"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-40.777191,
     "lbl:longitude":-71.487567,
     "meso:admin_1":"Neuquen",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421186305,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898146,
     "wof:name":"Los Lagos",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

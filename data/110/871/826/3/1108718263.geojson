@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Laishi"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.553213,
     "lbl:longitude":-58.426436,
     "meso:admin_1":"Formosa",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718263,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898129,
     "wof:name":"Laishi",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

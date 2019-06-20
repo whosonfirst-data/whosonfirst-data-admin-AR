@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.530789,
-    "geom:area_square_m":91626242282.117645,
+    "geom:area_square_m":91626242282.120499,
     "geom:bbox":"-69.6301657328,-32.000664984,-65.4222469148,-27.7117536869",
     "geom:latitude":-29.685721,
     "geom:longitude":-67.181616,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de La Rioja"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-29.427881,
     "lbl:longitude":-67.149268,
@@ -368,7 +374,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814709,
+    "wof:lastmodified":1560895616,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

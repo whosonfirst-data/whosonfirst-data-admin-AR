@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chalileo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-36.395,
     "lbl:longitude":-66.557571,
     "meso:admin_1":"La Pampa",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718299,
-    "wof:lastmodified":1554759558,
+    "wof:lastmodified":1560898127,
     "wof:name":"Chalileo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -10,11 +10,23 @@
     "geom:latitude":-26.833234,
     "geom:longitude":-65.217489,
     "iso:country":"AR",
+    "label:eng_x_preferred_disambiguation":[
+        "Capital (Tucum\u00e1n) Department"
+    ],
     "label:eng_x_preferred_longname":[
-        "Capital - Tucum\u00e1n Department"
+        "Capital Department"
     ],
     "label:eng_x_preferred_placetype":[
         "department"
+    ],
+    "label:eng_x_variant_longname":[
+        "Capital - Tucum\u00e1n Department"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
     ],
     "lbl:latitude":-26.829923,
     "lbl:longitude":-65.216596,
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1108718529,
-    "wof:lastmodified":1555091985,
+    "wof:lastmodified":1560901003,
     "wof:name":"Capital",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

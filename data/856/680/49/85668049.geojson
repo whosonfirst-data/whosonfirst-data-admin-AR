@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Salta"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-25.254364,
     "lbl:longitude":-65.639507,
     "mps:latitude":-25.284383,
@@ -373,7 +379,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550301,
+    "wof:lastmodified":1560895620,
     "wof:name":"Salta",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

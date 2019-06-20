@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Confluencia"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-38.832085,
     "lbl:longitude":-68.804478,
     "meso:admin_1":"Neuquen",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421169777,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898142,
     "wof:name":"Confluencia",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

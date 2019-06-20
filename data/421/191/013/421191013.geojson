@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Monte Caseros"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.238526,
     "lbl:longitude":-57.818169,
     "meso:admin_1":"Corrientes",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421191013,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898148,
     "wof:name":"Monte Caseros",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

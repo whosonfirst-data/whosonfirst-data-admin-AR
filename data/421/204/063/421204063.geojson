@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Yerba Buena"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.783116,
     "lbl:longitude":-65.319688,
     "meso:admin_1":"Tucuman",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421204063,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560898142,
     "wof:name":"Yerba Buena",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

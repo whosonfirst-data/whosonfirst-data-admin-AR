@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Juan Bautista Alberdi"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.610664,
     "lbl:longitude":-65.824144,
     "meso:admin_1":"Tucuman",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421173249,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898145,
     "wof:name":"Juan Bautista Alberdi",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

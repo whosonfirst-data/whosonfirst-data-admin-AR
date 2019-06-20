@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Constituci\u00f3n"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.422356,
     "lbl:longitude":-60.791266,
     "meso:admin_1":"Santa Fe",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421171517,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Constitucion",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

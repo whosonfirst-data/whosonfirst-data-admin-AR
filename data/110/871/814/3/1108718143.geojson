@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ancasti"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.876969,
     "lbl:longitude":-65.500784,
     "meso:admin_1":"Catamarca",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718143,
-    "wof:lastmodified":1554759553,
+    "wof:lastmodified":1560898136,
     "wof:name":"Ancasti",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.302778,
-    "geom:area_square_m":88117661945.707031,
+    "geom:area_square_m":88117661945.712051,
     "geom:bbox":"-70.57059,-32.6271005563,-66.6764826295,-28.3801242405",
     "geom:latitude":-30.861567,
     "geom:longitude":-68.89455,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de San Juan"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-30.894837,
     "lbl:longitude":-68.865461,
@@ -357,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814707,
+    "wof:lastmodified":1560895622,
     "wof:name":"San Juan",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

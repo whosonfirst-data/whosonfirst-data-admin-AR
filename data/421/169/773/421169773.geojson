@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Lujan De Cuyo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.850877,
     "lbl:longitude":-69.453896,
     "meso:admin_1":"Mendoza",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421169773,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898142,
     "wof:name":"Lujan De Cuyo",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

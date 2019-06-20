@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Javier"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.120194,
     "lbl:longitude":-59.85733,
     "meso:admin_1":"Santa Fe",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718459,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898128,
     "wof:name":"San Javier",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

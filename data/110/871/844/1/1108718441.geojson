@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chacabuco"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.718081,
     "lbl:longitude":-65.15675,
     "meso:admin_1":"San Luis",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718441,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898129,
     "wof:name":"Chacabuco",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

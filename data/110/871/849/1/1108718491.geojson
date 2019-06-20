@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Juan F Ibarra"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.074565,
     "lbl:longitude":-62.543268,
     "meso:admin_1":"Santiago Del Estero",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718491,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898135,
     "wof:name":"Juan F Ibarra",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

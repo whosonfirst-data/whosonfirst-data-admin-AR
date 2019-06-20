@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Tehuelches"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-44.22,
     "lbl:longitude":-70.576717,
     "meso:admin_1":"Chubut",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421166645,
-    "wof:lastmodified":1554759250,
+    "wof:lastmodified":1560898141,
     "wof:name":"Tehuelches",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

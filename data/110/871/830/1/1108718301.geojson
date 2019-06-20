@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chical Co"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-36.405,
     "lbl:longitude":-67.689409,
     "meso:admin_1":"La Pampa",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718301,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898138,
     "wof:name":"Chical Co",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

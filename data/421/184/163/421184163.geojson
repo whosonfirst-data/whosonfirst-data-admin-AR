@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Aguirre"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.434629,
     "lbl:longitude":-62.417481,
     "meso:admin_1":"Santiago Del Estero",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421184163,
-    "wof:lastmodified":1554759258,
+    "wof:lastmodified":1560898150,
     "wof:name":"Aguirre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

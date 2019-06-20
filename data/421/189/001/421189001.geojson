@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Junin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.11428,
     "lbl:longitude":-65.501439,
     "meso:admin_1":"San Luis",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421189001,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898145,
     "wof:name":"Junin",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

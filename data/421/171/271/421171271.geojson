@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Volc\u00e1n Tupungato"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.263852,
     "lbl:longitude":-69.309112,
     "meso:admin_1":"Mendoza",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":421171271,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898154,
     "wof:name":"Tupungato",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

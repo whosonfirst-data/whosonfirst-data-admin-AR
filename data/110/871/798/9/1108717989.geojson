@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de La Costa"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-36.913386,
     "lbl:longitude":-56.717843,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717989,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560901502,
     "wof:name":"La Costa",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Cristobal"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.285058,
     "lbl:longitude":-61.514073,
     "meso:admin_1":"Santa Fe",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718457,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898128,
     "wof:name":"San Cristobal",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

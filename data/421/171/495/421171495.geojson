@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ituzaing\u00f3"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.96969,
     "lbl:longitude":-57.028561,
     "meso:admin_1":"Corrientes",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421171495,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898154,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Pocho"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.43,
     "lbl:longitude":-65.43407,
     "meso:admin_1":"Cordoba",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421171491,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Pocho",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

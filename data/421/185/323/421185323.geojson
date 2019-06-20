@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Magallanes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-48.92,
     "lbl:longitude":-68.467379,
     "meso:admin_1":"Santa Cruz",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421185323,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898154,
     "wof:name":"Magallanes",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

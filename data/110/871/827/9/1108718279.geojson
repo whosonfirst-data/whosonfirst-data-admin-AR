@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Santa Barbara"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-23.997461,
     "lbl:longitude":-64.408338,
     "meso:admin_1":"Jujuy",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718279,
-    "wof:lastmodified":1554759557,
+    "wof:lastmodified":1560898126,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

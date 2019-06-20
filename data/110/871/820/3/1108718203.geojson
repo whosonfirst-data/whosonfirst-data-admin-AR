@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Belgrano"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.805706,
     "lbl:longitude":-61.097758,
     "meso:admin_1":"Chaco",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718203,
-    "wof:lastmodified":1554759554,
+    "wof:lastmodified":1560898127,
     "wof:name":"General Belgrano",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

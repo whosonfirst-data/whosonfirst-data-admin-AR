@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Calingasta"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.481478,
     "lbl:longitude":-69.821877,
     "meso:admin_1":"San Juan",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171513,
-    "wof:lastmodified":1554759254,
+    "wof:lastmodified":1560898154,
     "wof:name":"Calingasta",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

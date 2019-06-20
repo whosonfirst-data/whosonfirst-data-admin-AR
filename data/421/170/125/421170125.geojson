@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Cushamen"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-42.429199,
     "lbl:longitude":-70.822811,
     "meso:admin_1":"Chubut",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421170125,
-    "wof:lastmodified":1554759251,
+    "wof:lastmodified":1560898151,
     "wof:name":"Cushamen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.657537,
-    "geom:area_square_m":149093466881.701752,
+    "geom:area_square_m":149093466881.69754,
     "geom:bbox":"-70.58369,-37.5740837081,-66.4785468257,-31.9967737565",
     "geom:latitude":-34.63014,
     "geom:longitude":-68.583055,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mendoza"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-34.497391,
     "lbl:longitude":-68.338814,
@@ -376,7 +382,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814707,
+    "wof:lastmodified":1560895617,
     "wof:name":"Mendoza",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento La Paz"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.102818,
     "lbl:longitude":-59.570368,
     "meso:admin_1":"Entre Rios",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421181879,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898147,
     "wof:name":"La Paz",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

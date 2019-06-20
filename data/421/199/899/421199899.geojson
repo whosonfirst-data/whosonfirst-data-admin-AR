@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chos Malal"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-36.898423,
     "lbl:longitude":-70.281789,
     "meso:admin_1":"Neuquen",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1554759264,
+    "wof:lastmodified":1560898149,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

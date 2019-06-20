@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de 9 De Julio"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.484384,
     "lbl:longitude":-60.97473,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718041,
-    "wof:lastmodified":1555220430,
+    "wof:lastmodified":1560901504,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

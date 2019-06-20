@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Lopez"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.895,
     "lbl:longitude":-61.928421,
     "meso:admin_1":"Santa Fe",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421200997,
-    "wof:lastmodified":1554759265,
+    "wof:lastmodified":1560898150,
     "wof:name":"General Lopez",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

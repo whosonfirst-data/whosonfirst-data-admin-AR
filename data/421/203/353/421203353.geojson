@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Pedernera"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.907713,
     "lbl:longitude":-65.574587,
     "meso:admin_1":"San Luis",
@@ -32,41 +38,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_preferred":[
-        "\u0643\u0644\u0627\u0633\u064a\u0643\u0648 \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646"
-    ],
-    "name:bul_x_preferred":[
-        "\u0421\u0443\u043f\u0435\u0440\u043a\u043b\u0430\u0441\u0438\u043a\u043e"
-    ],
-    "name:cat_x_preferred":[
-        "Supercl\u00e0ssic del futbol argent\u00ed"
-    ],
-    "name:deu_x_preferred":[
-        "Supercl\u00e1sico"
-    ],
     "name:eng_x_preferred":[
         "General Pedernera"
     ],
     "name:eng_x_variant":[
         "General Pedernera"
-    ],
-    "name:fin_x_preferred":[
-        "Supercl\u00e1sico"
-    ],
-    "name:fra_x_preferred":[
-        "Supercl\u00e1sico"
-    ],
-    "name:heb_x_preferred":[
-        "\u05d4\u05e1\u05d5\u05e4\u05e8 \u05e7\u05dc\u05d0\u05e1\u05d9\u05e7\u05d5"
-    ],
-    "name:ita_x_preferred":[
-        "Supercl\u00e1sico"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30b9\u30fc\u30da\u30eb\u30af\u30e9\u30b7\u30b3"
-    ],
-    "name:spa_x_preferred":[
-        "Supercl\u00e1sico del f\u00fatbol argentino"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -126,7 +102,7 @@
         }
     ],
     "wof:id":421203353,
-    "wof:lastmodified":1554759266,
+    "wof:lastmodified":1560901005,
     "wof:name":"General Pedernera",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

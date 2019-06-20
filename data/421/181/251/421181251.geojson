@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Santa Victoria"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-22.333187,
     "lbl:longitude":-65.019426,
     "meso:admin_1":"Salta",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421181251,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898147,
     "wof:name":"Santa Victoria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

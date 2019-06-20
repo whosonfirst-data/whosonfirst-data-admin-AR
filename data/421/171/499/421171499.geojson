@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Paso De Los Libres"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.535998,
     "lbl:longitude":-57.220537,
     "meso:admin_1":"Corrientes",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171499,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Paso De Los Libres",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

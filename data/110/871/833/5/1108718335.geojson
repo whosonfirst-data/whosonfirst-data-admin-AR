@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Juan F. Quiroga"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.836851,
     "lbl:longitude":-66.858596,
     "meso:admin_1":"La Rioja",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718335,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898131,
     "wof:name":"General Juan F. Quiroga",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

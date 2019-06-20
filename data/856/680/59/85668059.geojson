@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Tucum\u00e1n"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-26.89092,
     "lbl:longitude":-65.295813,
     "mps:latitude":-26.847438,
@@ -383,7 +389,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550294,
+    "wof:lastmodified":1560895615,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Alvear"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.821618,
     "lbl:longitude":-56.486895,
     "meso:admin_1":"Corrientes",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421182717,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898152,
     "wof:name":"General Alvear",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

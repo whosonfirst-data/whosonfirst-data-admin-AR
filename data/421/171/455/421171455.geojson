@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Mercedes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.05302,
     "lbl:longitude":-57.852775,
     "meso:admin_1":"Corrientes",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421171455,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898153,
     "wof:name":"Mercedes",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

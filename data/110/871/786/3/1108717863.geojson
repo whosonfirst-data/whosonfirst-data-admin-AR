@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Bahia Blanca"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-38.622157,
     "lbl:longitude":-62.215508,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108717863,
-    "wof:lastmodified":1555220427,
+    "wof:lastmodified":1560901508,
     "wof:name":"Bahia Blanca",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

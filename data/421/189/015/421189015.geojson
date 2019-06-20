@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rio Primero"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.002751,
     "lbl:longitude":-63.432643,
     "meso:admin_1":"Cordoba",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421189015,
-    "wof:lastmodified":1554759261,
+    "wof:lastmodified":1560898145,
     "wof:name":"Rio Primero",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

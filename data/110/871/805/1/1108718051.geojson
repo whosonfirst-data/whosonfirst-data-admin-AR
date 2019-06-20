@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Pergamino"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-33.874503,
     "lbl:longitude":-60.538275,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718051,
-    "wof:lastmodified":1555220431,
+    "wof:lastmodified":1560901504,
     "wof:name":"Pergamino",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

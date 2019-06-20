@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Cruz Alta"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.915,
     "lbl:longitude":-64.974939,
     "meso:admin_1":"Tucuman",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421172497,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898146,
     "wof:name":"Cruz Alta",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

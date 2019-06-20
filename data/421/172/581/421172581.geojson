@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Diamante"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.172373,
     "lbl:longitude":-60.511396,
     "meso:admin_1":"Entre Rios",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421172581,
-    "wof:lastmodified":1554759255,
+    "wof:lastmodified":1560898146,
     "wof:name":"Diamante",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

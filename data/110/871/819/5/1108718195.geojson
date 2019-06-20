@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento 12 De Octubre"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.295198,
     "lbl:longitude":-61.529315,
     "meso:admin_1":"Chaco",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718195,
-    "wof:lastmodified":1555220433,
+    "wof:lastmodified":1560898129,
     "wof:name":"12 De Octubre",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

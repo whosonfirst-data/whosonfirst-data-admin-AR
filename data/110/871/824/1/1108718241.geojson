@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Telsen"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-42.443029,
     "lbl:longitude":-67.175873,
     "meso:admin_1":"Chubut",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718241,
-    "wof:lastmodified":1554759555,
+    "wof:lastmodified":1560898134,
     "wof:name":"Telsen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

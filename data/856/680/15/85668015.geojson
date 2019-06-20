@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.805396,
-    "geom:area_square_m":305388348411.289307,
+    "geom:area_square_m":305388348411.278503,
     "geom:bbox":"-63.3913724217,-41.037918091,-56.66708374,-33.2574630467",
     "geom:latitude":-36.675118,
     "geom:longitude":-60.556011,
@@ -20,6 +20,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Buenos Aires"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-36.488662,
     "lbl:longitude":-60.283523,
@@ -401,7 +407,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814708,
+    "wof:lastmodified":1560895619,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

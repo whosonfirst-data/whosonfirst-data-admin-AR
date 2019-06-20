@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Caseros"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.222354,
     "lbl:longitude":-61.489492,
     "meso:admin_1":"Santa Fe",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421171507,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Caseros",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Esquina"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-30.028673,
     "lbl:longitude":-59.236691,
     "meso:admin_1":"Corrientes",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421191007,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898149,
     "wof:name":"Esquina",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

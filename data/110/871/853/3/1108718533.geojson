@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Ushuaia"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-54.792557,
     "lbl:longitude":-66.557895,
     "meso:admin_1":"Tierra Del Fuego",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718533,
-    "wof:lastmodified":1554759564,
+    "wof:lastmodified":1560898138,
     "wof:name":"Ushuaia",
     "wof:parent_id":85667995,
     "wof:placetype":"county",

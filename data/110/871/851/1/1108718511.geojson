@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Salavina"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.882639,
     "lbl:longitude":-63.33187,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718511,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898131,
     "wof:name":"Salavina",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

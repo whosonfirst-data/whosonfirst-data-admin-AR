@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Presidente Peron"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.938785,
     "lbl:longitude":-58.425025,
     "meso:admin_1":"Buenos Aires",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108718061,
-    "wof:lastmodified":1555220431,
+    "wof:lastmodified":1561052166,
     "wof:name":"Presidente Peron",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

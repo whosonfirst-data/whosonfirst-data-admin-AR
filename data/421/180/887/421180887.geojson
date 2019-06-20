@@ -11,10 +11,22 @@
     "geom:longitude":-64.183764,
     "iso:country":"AR",
     "label:eng_x_preferred_longname":[
-        "Capital \u2013 C\u00f3rdoba Department"
+        "Capital Department"
     ],
     "label:eng_x_preferred_placetype":[
         "department"
+    ],
+    "label:spa_x_preferred_disambiguation":[
+        "Capital (C\u00f3rdoba) Department"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
+    "label:spa_x_variant_longname":[
+        "Capital - C\u00f3rdoba Department"
     ],
     "lbl:latitude":-31.415,
     "lbl:longitude":-64.183781,
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421180887,
-    "wof:lastmodified":1555091984,
+    "wof:lastmodified":1560901003,
     "wof:name":"Capital",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

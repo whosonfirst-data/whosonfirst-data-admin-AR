@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de San Cayetano"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-38.332092,
     "lbl:longitude":-59.581554,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718095,
-    "wof:lastmodified":1555220431,
+    "wof:lastmodified":1560901507,
     "wof:name":"San Cayetano",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

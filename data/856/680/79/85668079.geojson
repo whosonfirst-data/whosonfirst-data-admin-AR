@@ -21,6 +21,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Misiones"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-26.718552,
     "lbl:longitude":-54.269192,
     "mps:latitude":-26.759178,
@@ -368,7 +374,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550298,
+    "wof:lastmodified":1560895619,
     "wof:name":"Misiones",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Jose C Paz"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.51563,
     "lbl:longitude":-58.777147,
     "meso:admin_1":"Buenos Aires",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108717985,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560901503,
     "wof:name":"Jose C Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

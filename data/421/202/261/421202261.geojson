@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Chilecito"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-29.4,
     "lbl:longitude":-67.428216,
     "meso:admin_1":"La Rioja",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421202261,
-    "wof:lastmodified":1554759265,
+    "wof:lastmodified":1560898144,
     "wof:name":"Chilecito",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Pellegrini"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.304921,
     "lbl:longitude":-64.12525,
     "meso:admin_1":"Santiago Del Estero",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718501,
-    "wof:lastmodified":1554759563,
+    "wof:lastmodified":1560898130,
     "wof:name":"Pellegrini",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

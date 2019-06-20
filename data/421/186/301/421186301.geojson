@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Santa Maria"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.677647,
     "lbl:longitude":-64.215921,
     "meso:admin_1":"Cordoba",
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":421186301,
-    "wof:lastmodified":1554759259,
+    "wof:lastmodified":1560898146,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

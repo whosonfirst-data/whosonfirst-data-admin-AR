@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Albardon"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.195262,
     "lbl:longitude":-68.436998,
     "meso:admin_1":"San Juan",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421198377,
-    "wof:lastmodified":1554759263,
+    "wof:lastmodified":1560898148,
     "wof:name":"Albardon",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

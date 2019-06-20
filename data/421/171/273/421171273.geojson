@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Nogoya"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.192598,
     "lbl:longitude":-59.788544,
     "meso:admin_1":"Entre Rios",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421171273,
-    "wof:lastmodified":1554759252,
+    "wof:lastmodified":1560898152,
     "wof:name":"Nogoya",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

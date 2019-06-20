@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Roca"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-38.665965,
     "lbl:longitude":-67.621142,
     "meso:admin_1":"Rio Negro",
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":1108718391,
-    "wof:lastmodified":1555037332,
+    "wof:lastmodified":1560898139,
     "wof:name":"General Roca",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

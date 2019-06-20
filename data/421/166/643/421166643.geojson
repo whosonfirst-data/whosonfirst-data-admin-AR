@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento General Alvear"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-35.176698,
     "lbl:longitude":-67.068288,
     "meso:admin_1":"Mendoza",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421166643,
-    "wof:lastmodified":1554759249,
+    "wof:lastmodified":1560898141,
     "wof:name":"General Alvear",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

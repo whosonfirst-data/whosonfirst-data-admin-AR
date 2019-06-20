@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento La Capital"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.331188,
     "lbl:longitude":-60.64729,
     "meso:admin_1":"Santa Fe",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718453,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898128,
     "wof:name":"La Capital",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

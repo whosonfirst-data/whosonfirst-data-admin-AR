@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.35538,
-    "geom:area_square_m":75606929249.702072,
+    "geom:area_square_m":75606929249.704971,
     "geom:bbox":"-67.4761740521,-36.008014918,-64.8817345389,-31.8334728343",
     "geom:latitude":-33.750061,
     "geom:longitude":-66.034059,
@@ -19,6 +19,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de San Luis"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
     ],
     "lbl:latitude":-33.0836,
     "lbl:longitude":-66.138686,
@@ -361,7 +367,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814708,
+    "wof:lastmodified":1560895616,
     "wof:name":"San Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

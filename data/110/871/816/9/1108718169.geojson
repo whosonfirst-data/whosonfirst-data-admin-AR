@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Beron De Astrada"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-27.474103,
     "lbl:longitude":-57.581234,
     "meso:admin_1":"Corrientes",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718169,
-    "wof:lastmodified":1554759554,
+    "wof:lastmodified":1560898127,
     "wof:name":"Beron De Astrada",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de San Salvador"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-34.832178,
     "lbl:longitude":-58.47672,
     "meso:admin_1":"Buenos Aires",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1108717927,
-    "wof:lastmodified":1555220428,
+    "wof:lastmodified":1561052161,
     "wof:name":"Esteban Echeverria",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

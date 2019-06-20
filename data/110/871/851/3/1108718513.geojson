@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.194387,
     "lbl:longitude":-63.825072,
     "meso:admin_1":"Santiago Del Estero",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718513,
-    "wof:lastmodified":1554759562,
+    "wof:lastmodified":1560898131,
     "wof:name":"San Martin",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

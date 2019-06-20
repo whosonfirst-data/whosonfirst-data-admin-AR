@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Colon"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.14009,
     "lbl:longitude":-64.1557,
     "meso:admin_1":"Cordoba",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421194115,
-    "wof:lastmodified":1554759262,
+    "wof:lastmodified":1560898142,
     "wof:name":"Colon",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

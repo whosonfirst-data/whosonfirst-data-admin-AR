@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Picun Leufu"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-39.472908,
     "lbl:longitude":-69.486376,
     "meso:admin_1":"Neuquen",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718385,
-    "wof:lastmodified":1554759559,
+    "wof:lastmodified":1560898137,
     "wof:name":"Picun Leufu",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

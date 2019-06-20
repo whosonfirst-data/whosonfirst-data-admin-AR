@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jujuy"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-22.750935,
     "lbl:longitude":-66.149046,
     "mps:latitude":-22.833789,
@@ -373,7 +379,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550304,
+    "wof:lastmodified":1560895619,
     "wof:name":"Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

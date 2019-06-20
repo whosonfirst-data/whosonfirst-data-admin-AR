@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Adolfo Alsina"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-37.18,
     "lbl:longitude":-63.060191,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717849,
-    "wof:lastmodified":1555220427,
+    "wof:lastmodified":1560901505,
     "wof:name":"Adolfo Alsina",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

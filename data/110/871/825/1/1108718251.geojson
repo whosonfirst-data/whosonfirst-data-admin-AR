@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Gualeguaychu"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.052555,
     "lbl:longitude":-58.805783,
     "meso:admin_1":"Entre Rios",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718251,
-    "wof:lastmodified":1554759556,
+    "wof:lastmodified":1560898136,
     "wof:name":"Gualeguaychu",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Tunuyan"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-33.625,
     "lbl:longitude":-69.499189,
     "meso:admin_1":"Mendoza",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421171485,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898152,
     "wof:name":"Tunuyan",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

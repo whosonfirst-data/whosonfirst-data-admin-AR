@@ -20,6 +20,12 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Santa Cruz"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "provincia"
+    ],
     "lbl:latitude":-48.113341,
     "lbl:longitude":-69.949563,
     "mps:latitude":-48.553214,
@@ -381,7 +387,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550314,
+    "wof:lastmodified":1560895621,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

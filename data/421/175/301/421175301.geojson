@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Langui\u00f1eo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-43.307034,
     "lbl:longitude":-70.271771,
     "meso:admin_1":"Chubut",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421175301,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898147,
     "wof:name":"Langui\u00f1eo",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Montecarlo"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-26.652679,
     "lbl:longitude":-54.564774,
     "meso:admin_1":"Misiones",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421180187,
-    "wof:lastmodified":1554759256,
+    "wof:lastmodified":1560898144,
     "wof:name":"Montecarlo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

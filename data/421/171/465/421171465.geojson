@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Tercero Arriba"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-32.256629,
     "lbl:longitude":-63.736769,
     "meso:admin_1":"Cordoba",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171465,
-    "wof:lastmodified":1554759253,
+    "wof:lastmodified":1560898153,
     "wof:name":"Tercero Arriba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

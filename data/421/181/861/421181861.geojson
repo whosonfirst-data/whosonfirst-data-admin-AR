@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Araucan\u00eda"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-28.488592,
     "lbl:longitude":-66.71331,
     "meso:admin_1":"La Rioja",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421181861,
-    "wof:lastmodified":1554759257,
+    "wof:lastmodified":1560898147,
     "wof:name":"Arauco",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

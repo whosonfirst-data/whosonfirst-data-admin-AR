@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Rancul"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-35.405,
     "lbl:longitude":-64.800181,
     "meso:admin_1":"La Pampa",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718315,
-    "wof:lastmodified":1554759558,
+    "wof:lastmodified":1560898137,
     "wof:name":"Rancul",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

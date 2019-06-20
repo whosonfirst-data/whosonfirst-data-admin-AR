@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Gobernador Dupuy"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-35.355,
     "lbl:longitude":-65.775584,
     "meso:admin_1":"San Luis",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718443,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898130,
     "wof:name":"Gobernador Dupuy",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

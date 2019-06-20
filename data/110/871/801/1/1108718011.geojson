@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de Magdalena"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.121884,
     "lbl:longitude":-57.685073,
     "meso:admin_1":"Buenos Aires",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108718011,
-    "wof:lastmodified":1555220430,
+    "wof:lastmodified":1561052179,
     "wof:name":"Magdalena",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

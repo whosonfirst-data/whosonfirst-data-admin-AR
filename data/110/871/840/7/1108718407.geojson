@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento Guachipas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-25.745797,
     "lbl:longitude":-65.460937,
     "meso:admin_1":"Salta",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108718407,
-    "wof:lastmodified":1554759560,
+    "wof:lastmodified":1560898135,
     "wof:name":"Guachipas",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

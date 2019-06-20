@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento San Martin"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-31.515703,
     "lbl:longitude":-68.19967,
     "meso:admin_1":"San Juan",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108718429,
-    "wof:lastmodified":1554759561,
+    "wof:lastmodified":1560898128,
     "wof:name":"San Martin",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

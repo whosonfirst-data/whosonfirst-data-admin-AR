@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "partido"
     ],
+    "label:spa_x_preferred_longname":[
+        "Partido de General Viamonte"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "partido"
+    ],
     "lbl:latitude":-35.008594,
     "lbl:longitude":-61.026962,
     "meso:admin_1":"Buenos Aires",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108717971,
-    "wof:lastmodified":1555220429,
+    "wof:lastmodified":1560901502,
     "wof:name":"General Viamonte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",
