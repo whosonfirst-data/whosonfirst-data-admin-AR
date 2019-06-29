@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Machagai"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u67e5\u84cb"
-    ],
-    "name:dut_x_preferred":[
-        "Machagai"
-    ],
     "name:eng_x_preferred":[
         "Machagai"
     ],
     "name:fra_x_preferred":[
-        "Machagai"
-    ],
-    "name:fre_x_preferred":[
         "Machagai"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421176559,
-    "wof:lastmodified":1527726468,
+    "wof:lastmodified":1561793261,
     "wof:name":"Machagai",
     "wof:parent_id":1108718231,
     "wof:placetype":"locality",

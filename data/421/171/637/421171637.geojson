@@ -16,7 +16,7 @@
     "name:ceb_x_preferred":[
         "Tres Algarrobos"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Tres Algarrobos"
     ],
     "name:eng_x_preferred":[
@@ -25,7 +25,7 @@
     "name:epo_x_preferred":[
         "Tres Algarrobos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tres Algarrobos"
     ],
     "name:heb_x_preferred":[
@@ -51,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0441-\u0410\u043b\u044c\u0433\u0430\u0440\u0440\u043e\u0431\u043e\u0441"
-    ],
-    "name:wel_x_preferred":[
-        "Tres Algarrobos"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421171637,
-    "wof:lastmodified":1527726496,
+    "wof:lastmodified":1561793262,
     "wof:name":"Tres Algarrobos",
     "wof:parent_id":1108717895,
     "wof:placetype":"locality",

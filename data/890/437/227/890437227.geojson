@@ -21,19 +21,13 @@
     "name:cat_x_preferred":[
         "A\u00f1atuya"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c3c\u4e9e\u5716\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "A\u00f1atuya"
     ],
     "name:eng_x_preferred":[
         "A\u00f1atuya"
     ],
-    "name:fre_x_preferred":[
-        "A\u00f1atuya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00f1atuya"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +37,9 @@
         "Anjatuja"
     ],
     "name:mlg_x_preferred":[
+        "A\u00f1atuya"
+    ],
+    "name:nld_x_preferred":[
         "A\u00f1atuya"
     ],
     "name:por_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "U\u00f1atuya"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c3c\u4e9e\u5716\u4e9e"
     ],
     "qs:name":"A\u00f1atuya",
     "qs:photos_9r":0,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":890437227,
-    "wof:lastmodified":1527729748,
+    "wof:lastmodified":1561793266,
     "wof:name":"A\u00f1atuya",
     "wof:parent_id":1108718483,
     "wof:placetype":"locality",

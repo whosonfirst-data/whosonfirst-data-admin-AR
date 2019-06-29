@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Los Cardales"
     ],
-    "name:dut_x_preferred":[
-        "Los Cardales"
-    ],
     "name:eng_x_preferred":[
         "Los Cardales"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421204547,
-    "wof:lastmodified":1527716187,
+    "wof:lastmodified":1561793233,
     "wof:name":"Los Cardales",
     "wof:parent_id":1108717931,
     "wof:placetype":"locality",

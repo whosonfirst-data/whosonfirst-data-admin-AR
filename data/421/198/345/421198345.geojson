@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Piran\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u62c9\u5167"
-    ],
     "name:deu_x_preferred":[
-        "Piran\u00e9"
-    ],
-    "name:dut_x_preferred":[
         "Piran\u00e9"
     ],
     "name:eng_x_preferred":[
         "Piran\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Piran\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Piran\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Piran\u00e9"
     ],
     "name:grn_x_preferred":[
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421198345,
-    "wof:lastmodified":1527716358,
+    "wof:lastmodified":1561793248,
     "wof:name":"Piran\u00e9",
     "wof:parent_id":421200145,
     "wof:placetype":"locality",

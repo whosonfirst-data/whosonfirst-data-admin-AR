@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Hasenkamp"
     ],
-    "name:baq_x_preferred":[
-        "Hasenkamp"
-    ],
     "name:bar_x_preferred":[
         "Hasenkamp"
     ],
@@ -37,19 +34,19 @@
     "name:ceb_x_preferred":[
         "Hasenkamp"
     ],
+    "name:ces_x_preferred":[
+        "Hasenkamp"
+    ],
     "name:cos_x_preferred":[
         "Hasenkamp"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hasenkamp"
     ],
     "name:dan_x_preferred":[
         "Hasenkamp"
     ],
     "name:deu_x_preferred":[
-        "Hasenkamp"
-    ],
-    "name:dut_x_preferred":[
         "Hasenkamp"
     ],
     "name:eng_x_preferred":[
@@ -61,19 +58,19 @@
     "name:est_x_preferred":[
         "Hasenkamp"
     ],
+    "name:eus_x_preferred":[
+        "Hasenkamp"
+    ],
     "name:fin_x_preferred":[
         "Hasenkamp"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hasenkamp"
     ],
     "name:frp_x_preferred":[
         "Hasenkamp"
     ],
     "name:fur_x_preferred":[
-        "Hasenkamp"
-    ],
-    "name:ger_x_preferred":[
         "Hasenkamp"
     ],
     "name:gla_x_preferred":[
@@ -94,9 +91,6 @@
     "name:hun_x_preferred":[
         "Hasenkamp"
     ],
-    "name:ice_x_preferred":[
-        "Hasenkamp"
-    ],
     "name:ido_x_preferred":[
         "Hasenkamp"
     ],
@@ -107,6 +101,9 @@
         "Hasenkamp"
     ],
     "name:ind_x_preferred":[
+        "Hasenkamp"
+    ],
+    "name:isl_x_preferred":[
         "Hasenkamp"
     ],
     "name:ita_x_preferred":[
@@ -127,19 +124,22 @@
     "name:ltz_x_preferred":[
         "Hasenkamp"
     ],
-    "name:may_x_preferred":[
-        "Hasenkamp"
-    ],
     "name:min_x_preferred":[
         "Hasenkamp"
     ],
     "name:mlg_x_preferred":[
         "Hasenkamp"
     ],
+    "name:msa_x_preferred":[
+        "Hasenkamp"
+    ],
     "name:nap_x_preferred":[
         "Hasenkamp"
     ],
     "name:nds_x_preferred":[
+        "Hasenkamp"
+    ],
+    "name:nld_x_preferred":[
         "Hasenkamp"
     ],
     "name:nno_x_preferred":[
@@ -169,7 +169,7 @@
     "name:roh_x_preferred":[
         "Hasenkamp"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hasenkamp"
     ],
     "name:scn_x_preferred":[
@@ -178,7 +178,7 @@
     "name:sco_x_preferred":[
         "Hasenkamp"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hasenkamp"
     ],
     "name:slv_x_preferred":[
@@ -209,9 +209,6 @@
         "Hasenkamp"
     ],
     "name:vol_x_preferred":[
-        "Hasenkamp"
-    ],
-    "name:wel_x_preferred":[
         "Hasenkamp"
     ],
     "name:wln_x_preferred":[
@@ -271,7 +268,7 @@
         }
     ],
     "wof:id":421201885,
-    "wof:lastmodified":1527716438,
+    "wof:lastmodified":1561793256,
     "wof:name":"Hasenkamp",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

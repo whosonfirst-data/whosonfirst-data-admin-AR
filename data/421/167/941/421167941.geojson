@@ -13,22 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u514b\u9b6f\u65af\u5fb7\u723e\u57c3\u8d6b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cruz del Eje"
     ],
     "name:eng_x_preferred":[
         "Cruz del Eje"
     ],
-    "name:fre_x_preferred":[
-        "Cruz del Eje"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cruz del Eje"
     ],
     "name:ita_x_preferred":[
+        "Cruz del Eje"
+    ],
+    "name:nld_x_preferred":[
         "Cruz del Eje"
     ],
     "name:por_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0441-\u0434\u0435\u043b\u044c-\u0415\u0445\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u9b6f\u65af\u5fb7\u723e\u57c3\u8d6b"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":421167941,
-    "wof:lastmodified":1527716156,
+    "wof:lastmodified":1561793229,
     "wof:name":"Cruz del Eje",
     "wof:parent_id":421191183,
     "wof:placetype":"locality",

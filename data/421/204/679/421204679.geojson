@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Granadero Baigorria"
     ],
-    "name:dut_x_preferred":[
-        "Granadero Baigorria"
-    ],
     "name:eng_x_preferred":[
         "Granadero Baigorria"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30ca\u30c7\u30ed\u30fb\u30d0\u30a4\u30b4\u30ea\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Granadero Baigorria"
     ],
     "name:por_x_preferred":[
         "Granadero Baigorria"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421204679,
-    "wof:lastmodified":1527716186,
+    "wof:lastmodified":1561793233,
     "wof:name":"Granadero Baigorria",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Villa Elisa"
     ],
-    "name:dut_x_preferred":[
-        "Villa Elisa"
-    ],
     "name:eng_x_preferred":[
         "Villa Elisa"
     ],
     "name:fra_x_preferred":[
-        "Villa Elisa"
-    ],
-    "name:fre_x_preferred":[
         "Villa Elisa"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421177371,
-    "wof:lastmodified":1527716481,
+    "wof:lastmodified":1561793258,
     "wof:name":"Villa Elisa",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

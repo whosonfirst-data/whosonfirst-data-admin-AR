@@ -18,23 +18,20 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u0643\u0627\u0633\u062a\u064a\u0644\u064a\u060c \u062a\u0634\u0627\u0643\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u4f55\u585e\u5361\u65af\u7279\u5229"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Juan Jos\u00e9 Castelli"
     ],
     "name:eng_x_preferred":[
         "Juan Jos\u00e9 Castelli"
     ],
-    "name:fre_x_preferred":[
-        "Juan Jos\u00e9 Castelli"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Juan Jos\u00e9 Castelli"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05d0\u05df \u05d7\u05d5\u05e1\u05d4 \u05e7\u05e1\u05d8\u05dc\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Juan Jos\u00e9 Castelli"
     ],
     "name:por_x_preferred":[
         "Juan Jos\u00e9 Castelli"
@@ -50,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "J.J. Castelli"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5b89\u4f55\u585e\u5361\u65af\u7279\u5229"
     ],
     "qs:name":"Castelli",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890429389,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561793267,
     "wof:name":"Castelli",
     "wof:parent_id":421191011,
     "wof:placetype":"locality",

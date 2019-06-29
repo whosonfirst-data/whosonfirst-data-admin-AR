@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Las Parejas"
     ],
-    "name:baq_x_preferred":[
-        "Las Parejas"
-    ],
     "name:bar_x_preferred":[
         "Las Parejas"
     ],
@@ -42,16 +39,19 @@
     "name:cat_x_preferred":[
         "Las Parejas"
     ],
+    "name:ces_x_preferred":[
+        "Las Parejas"
+    ],
     "name:cos_x_preferred":[
         "Las Parejas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Las Parejas"
     ],
     "name:dan_x_preferred":[
         "Las Parejas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Las Parejas"
     ],
     "name:eng_x_preferred":[
@@ -63,22 +63,22 @@
     "name:est_x_preferred":[
         "Las Parejas"
     ],
+    "name:eus_x_preferred":[
+        "Las Parejas"
+    ],
     "name:fin_x_preferred":[
         "Las Parejas"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Parejas"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Las Parejas"
     ],
     "name:frp_x_preferred":[
         "Las Parejas"
     ],
     "name:fur_x_preferred":[
-        "Las Parejas"
-    ],
-    "name:ger_x_preferred":[
         "Las Parejas"
     ],
     "name:gla_x_preferred":[
@@ -144,19 +144,22 @@
     "name:ltz_x_preferred":[
         "Las Parejas"
     ],
-    "name:may_x_preferred":[
-        "Las Parejas"
-    ],
     "name:min_x_preferred":[
         "Las Parejas"
     ],
     "name:mlg_x_preferred":[
         "Las Parejas"
     ],
+    "name:msa_x_preferred":[
+        "Las Parejas"
+    ],
     "name:nap_x_preferred":[
         "Las Parejas"
     ],
     "name:nds_x_preferred":[
+        "Las Parejas"
+    ],
+    "name:nld_x_preferred":[
         "Las Parejas"
     ],
     "name:nno_x_preferred":[
@@ -195,7 +198,7 @@
     "name:roh_x_preferred":[
         "Las Parejas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Las Parejas"
     ],
     "name:scn_x_preferred":[
@@ -204,7 +207,7 @@
     "name:sco_x_preferred":[
         "Las Parejas"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Las Parejas"
     ],
     "name:spa_x_preferred":[
@@ -241,9 +244,6 @@
         "Las Parejas"
     ],
     "name:vol_x_preferred":[
-        "Las Parejas"
-    ],
-    "name:wel_x_preferred":[
         "Las Parejas"
     ],
     "name:wln_x_preferred":[
@@ -286,7 +286,7 @@
         }
     ],
     "wof:id":890445121,
-    "wof:lastmodified":1513889248,
+    "wof:lastmodified":1561793268,
     "wof:name":"Las Parejas",
     "wof:parent_id":1108718449,
     "wof:placetype":"locality",

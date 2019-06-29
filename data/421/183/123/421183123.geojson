@@ -19,19 +19,10 @@
     "name:ceb_x_preferred":[
         "Intendente Alvear"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u97cb\u4e9e\u723e\u8ecd\u9700\u90e8\u9577\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Intendente Alvear"
-    ],
     "name:eng_x_preferred":[
         "Intendente Alvear"
     ],
     "name:fra_x_preferred":[
-        "Intendente Alvear"
-    ],
-    "name:fre_x_preferred":[
         "Intendente Alvear"
     ],
     "name:lit_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421183123,
-    "wof:lastmodified":1527717699,
+    "wof:lastmodified":1561793259,
     "wof:name":"Intendente Alvear",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

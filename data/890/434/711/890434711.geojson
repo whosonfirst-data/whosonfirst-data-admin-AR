@@ -18,23 +18,20 @@
     "name:cat_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u8d6b\u6d85\u7f85\u83ef\u96f7\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
     "name:eng_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
-    "name:fre_x_preferred":[
-        "Ingeniero Ju\u00e1rez"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
     "name:lit_x_preferred":[
         "Incheniero Chuaresas"
+    ],
+    "name:nld_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
     ],
     "name:oci_x_preferred":[
         "Ingeniero Ju\u00e1rez"
@@ -53,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Ingeniero G.N. Ju\u00e1rez"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u8d6b\u6d85\u7f85\u83ef\u96f7\u65af"
     ],
     "qs:name":"Ingeniero Guillermo N. Ju\u00e1rez",
     "qs:photos_9r":0,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":890434711,
-    "wof:lastmodified":1513889205,
+    "wof:lastmodified":1561793268,
     "wof:name":"Ingeniero Guillermo N. Ju\u00e1rez",
     "wof:parent_id":1108718265,
     "wof:placetype":"locality",

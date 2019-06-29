@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0633\u064a\u0633\u062a\u064a\u0646\u0633\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0565\u057d\u056b\u057d\u057f\u0565\u0576\u057d\u056b\u0561"
-    ],
     "name:aym_x_preferred":[
         "Resistencia"
     ],
     "name:azb_x_preferred":[
         "\u0631\u0632\u06cc\u0633\u062a\u0646\u0633\u06cc\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Resistencia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u044d\u0441\u0456\u0441\u0442\u044d\u043d\u0441\u0456\u044f"
@@ -43,10 +37,10 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0441\u0438\u0441\u0442\u0435\u043d\u0441\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u897f\u65af\u6ed5\u897f\u4e9a"
+    "name:ces_x_preferred":[
+        "Resistencia"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Resistencia"
     ],
     "name:dan_x_preferred":[
@@ -55,13 +49,16 @@
     "name:deu_x_preferred":[
         "Resistencia"
     ],
-    "name:dut_x_preferred":[
-        "Resistencia"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03c3\u03b9\u03c3\u03c4\u03ad\u03bd\u03c4\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Resistencia"
     ],
     "name:epo_x_preferred":[
+        "Resistencia"
+    ],
+    "name:eus_x_preferred":[
         "Resistencia"
     ],
     "name:fas_x_preferred":[
@@ -73,20 +70,8 @@
     "name:fra_x_preferred":[
         "Resistencia"
     ],
-    "name:fre_x_preferred":[
-        "Resistencia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d4\u10e1\u10d8\u10e1\u10e2\u10d4\u10dc\u10e1\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Resistencia"
-    ],
     "name:glg_x_preferred":[
         "Resistencia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b5\u03c3\u03b9\u03c3\u03c4\u03ad\u03bd\u03c4\u03c3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0a9d\u0abf\u0ab8\u0acd\u0a9f\u0ac7\u0aa8\u0acd\u0ab8\u0abf\u0aaf\u0abe"
@@ -139,7 +124,7 @@
     "name:mar_x_preferred":[
         "\u0930\u0947\u0938\u093f\u0938\u094d\u091f\u0947\u0928\u094d\u0938\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Resistencia"
     ],
     "name:mwl_x_preferred":[
@@ -156,9 +141,6 @@
     ],
     "name:nor_x_preferred":[
         "Resistencia"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0632\u06cc\u0633\u062a\u0646\u0633\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0633\u06cc\u0633\u062a\u06cc\u0646\u0627"
@@ -184,7 +166,7 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd9\u0dc3\u0dd2\u0dc3\u0dca \u0da7\u0dd9\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Resistencia"
     ],
     "name:spa_x_preferred":[
@@ -221,9 +203,6 @@
         "Resistencia"
     ],
     "name:war_x_preferred":[
-        "Resistencia"
-    ],
-    "name:wel_x_preferred":[
         "Resistencia"
     ],
     "name:zho_x_preferred":[
@@ -354,7 +333,7 @@
         }
     ],
     "wof:id":890434765,
-    "wof:lastmodified":1527792943,
+    "wof:lastmodified":1561793268,
     "wof:name":"Resistencia",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

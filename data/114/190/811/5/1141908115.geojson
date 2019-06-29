@@ -19,16 +19,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u062a\u0634\u0627\u0644\u064a\u0632"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sunchales"
     ],
     "name:eng_x_preferred":[
         "Sunchales"
     ],
-    "name:fre_x_preferred":[
-        "Sunchales"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sunchales"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f3\u30c1\u30e3\u30ec\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Sunchales"
     ],
     "name:pol_x_preferred":[
         "Sunchales"
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1141908115,
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1561793311,
     "wof:name":"Sunchales",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

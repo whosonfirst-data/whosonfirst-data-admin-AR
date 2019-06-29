@@ -19,19 +19,10 @@
     "name:ceb_x_preferred":[
         "Crespo"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u96f7\u65af\u6ce2"
-    ],
-    "name:dut_x_preferred":[
-        "Crespo"
-    ],
     "name:eng_x_preferred":[
         "Crespo"
     ],
     "name:fra_x_preferred":[
-        "Crespo"
-    ],
-    "name:fre_x_preferred":[
         "Crespo"
     ],
     "name:glg_x_preferred":[
@@ -63,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u0441\u043f\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u96f7\u65af\u6ce2"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -112,7 +106,7 @@
         }
     ],
     "wof:id":421196061,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561793251,
     "wof:name":"Crespo",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

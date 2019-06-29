@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Ibarlucea"
     ],
-    "name:dut_x_preferred":[
-        "Ibarlucea"
-    ],
     "name:eng_x_preferred":[
         "Ibarlucea"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421193489,
-    "wof:lastmodified":1527716149,
+    "wof:lastmodified":1561793229,
     "wof:name":"Ibarlucea",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Jun\u00edn de los Andes"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5be7\u5fb7\u6d1b\u65af\u5b89\u7b2c\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Jun\u00edn de los Andes"
-    ],
-    "name:dut_x_preferred":[
         "Jun\u00edn de los Andes"
     ],
     "name:eng_x_preferred":[
         "Jun\u00edn de los Andes"
     ],
     "name:fra_x_preferred":[
-        "Jun\u00edn de los Andes"
-    ],
-    "name:fre_x_preferred":[
-        "Jun\u00edn de los Andes"
-    ],
-    "name:ger_x_preferred":[
         "Jun\u00edn de los Andes"
     ],
     "name:grn_x_preferred":[
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":421204625,
-    "wof:lastmodified":1527716184,
+    "wof:lastmodified":1561793232,
     "wof:name":"Jun\u00edn de Los Andes",
     "wof:parent_id":421196937,
     "wof:placetype":"locality",

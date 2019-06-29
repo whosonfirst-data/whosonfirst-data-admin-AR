@@ -37,14 +37,8 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u057f\u0561"
-    ],
     "name:aym_x_preferred":[
         "Salta jisk'a suyu"
-    ],
-    "name:baq_x_preferred":[
-        "Saltako probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043b\u044c\u0442\u0430"
@@ -61,20 +55,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Salta"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u5854\u7701"
+    "name:ces_x_preferred":[
+        "Salta"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Salta"
-    ],
     "name:dan_x_preferred":[
         "Provincia de Salta"
     ],
-    "name:dut_x_preferred":[
-        "Salta"
+    "name:deu_x_preferred":[
+        "Provinz Salta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Salta"
@@ -91,23 +85,20 @@
     "name:est_x_preferred":[
         "Salta provints"
     ],
+    "name:eus_x_preferred":[
+        "Saltako probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0627\u0644\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Saltan maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Salta"
     ],
     "name:glg_x_preferred":[
         "Provincia de Salta"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bb\u03c4\u03b1"
     ],
     "name:grn_x_preferred":[
         "Salta"
@@ -121,6 +112,9 @@
     "name:hin_x_preferred":[
         "\u0938\u093e\u0932\u094d\u091f\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u057f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Salta"
     ],
@@ -132,6 +126,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0cb2\u0ccd\u0c9f\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc0b4\ud0c0 \uc8fc"
@@ -148,26 +145,26 @@
     "name:lmo_x_preferred":[
         "Salta"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043b\u0442\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0932\u094d\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043b\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Salta"
     ],
     "name:nan_x_preferred":[
         "Salta S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Salta"
     ],
     "name:nob_x_preferred":[
         "Salta"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Salta"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0627\u0644\u062a\u0627"
     ],
     "name:pms_x_preferred":[
         "Salta"
@@ -184,7 +181,7 @@
     "name:que_x_preferred":[
         "Salta wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Salta"
     ],
     "name:rus_x_preferred":[
@@ -199,7 +196,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0dbd\u0dca\u0da7\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Salta"
     ],
     "name:spa_x_preferred":[
@@ -255,6 +252,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10da\u10e2\u10d0\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u5854\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -379,7 +379,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895620,
+    "wof:lastmodified":1561793147,
     "wof:name":"Salta",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

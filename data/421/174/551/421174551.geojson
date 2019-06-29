@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Arequito"
-    ],
     "name:ceb_x_preferred":[
-        "Arequito"
-    ],
-    "name:dut_x_preferred":[
         "Arequito"
     ],
     "name:eng_x_preferred":[
@@ -29,9 +23,6 @@
         "Arequito"
     ],
     "name:fra_x_preferred":[
-        "Arequito"
-    ],
-    "name:fre_x_preferred":[
         "Arequito"
     ],
     "name:heb_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421174551,
-    "wof:lastmodified":1527716223,
+    "wof:lastmodified":1561793235,
     "wof:name":"Arequito",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u063a\u0627\u0633\u062a\u0631"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u65af\u7279\u96f7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gastre"
     ],
     "name:eng_x_preferred":[
         "Gastre"
     ],
-    "name:fre_x_preferred":[
-        "Gastre"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gastre"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "Gastr\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Gastre"
     ],
     "name:por_x_preferred":[
         "Gastre"
@@ -46,6 +43,9 @@
     ],
     "name:spa_x_preferred":[
         "Gastre"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u65af\u7279\u96f7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1141908041,
-    "wof:lastmodified":1513889192,
+    "wof:lastmodified":1561793311,
     "wof:name":"Gastre",
     "wof:parent_id":1108718239,
     "wof:placetype":"locality",

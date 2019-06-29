@@ -16,20 +16,17 @@
     "name:ceb_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
-    "name:dut_x_preferred":[
-        "Jard\u00edn Am\u00e9rica"
-    ],
     "name:eng_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
     "name:fra_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
-    "name:fre_x_preferred":[
-        "Jard\u00edn Am\u00e9rica"
-    ],
     "name:lit_x_preferred":[
         "Chardin Amerika"
+    ],
+    "name:nld_x_preferred":[
+        "Jard\u00edn Am\u00e9rica"
     ],
     "name:por_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421176137,
-    "wof:lastmodified":1527726474,
+    "wof:lastmodified":1561793261,
     "wof:name":"Jard\u00edn Am\u00e9rica",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

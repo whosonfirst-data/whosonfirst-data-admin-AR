@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u79d1\u65af\u5316\u96f7\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Marcos Ju\u00e1rez"
-    ],
-    "name:dut_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
     "name:eng_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
     "name:fra_x_preferred":[
-        "Marcos Ju\u00e1rez"
-    ],
-    "name:fre_x_preferred":[
-        "Marcos Ju\u00e1rez"
-    ],
-    "name:ger_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421177677,
-    "wof:lastmodified":1527716484,
+    "wof:lastmodified":1561793259,
     "wof:name":"Marcos Ju\u00e1rez",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

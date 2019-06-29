@@ -17,16 +17,10 @@
     "name:ceb_x_preferred":[
         "Ingeniero Jacobacci"
     ],
-    "name:dut_x_preferred":[
-        "Ingeniero Jacobacci"
-    ],
     "name:eng_x_preferred":[
         "Ingeniero Jacobacci"
     ],
     "name:fra_x_preferred":[
-        "Ingeniero Jacobacci"
-    ],
-    "name:fre_x_preferred":[
         "Ingeniero Jacobacci"
     ],
     "name:ita_x_preferred":[
@@ -198,7 +192,7 @@
         }
     ],
     "wof:id":421168279,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561793217,
     "wof:name":"Ingeniero Jacobacci",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

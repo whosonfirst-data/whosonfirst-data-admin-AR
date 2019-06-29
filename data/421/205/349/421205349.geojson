@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Las Heras"
     ],
-    "name:dut_x_preferred":[
-        "Las Heras"
-    ],
     "name:eng_x_preferred":[
         "Las Heras"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Heras"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":421205349,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561793235,
     "wof:name":"Las Heras",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

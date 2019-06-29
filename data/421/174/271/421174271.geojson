@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Ranelagh"
     ],
-    "name:dut_x_preferred":[
-        "Ranelagh"
-    ],
     "name:eng_x_preferred":[
         "Ranelagh"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421174271,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1561793238,
     "wof:name":"Ranelagh",
     "wof:parent_id":1108717873,
     "wof:placetype":"locality",

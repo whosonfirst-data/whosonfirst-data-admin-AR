@@ -40,9 +40,6 @@
     "name:aym_x_preferred":[
         "Entre R\u00edos jisk'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Entre R\u00edosko probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043d\u0442\u0440\u044d-\u0420\u044b\u0430\u0441"
     ],
@@ -64,20 +61,17 @@
     "name:ces_x_preferred":[
         "Entre R\u00edos"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
-    ],
     "name:cym_x_preferred":[
-        "Entre R\u00edos"
-    ],
-    "name:cze_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:dan_x_preferred":[
         "Entre R\u00edos"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Entre R\u00edos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bd\u03c4\u03c1\u03b5 \u03a1\u03af\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Entre Rios"
@@ -92,23 +86,20 @@
     "name:epo_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:eus_x_preferred":[
+        "Entre R\u00edosko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
+    ],
     "name:fin_x_preferred":[
         "Entre R\u00edosin maakunta"
     ],
-    "name:fre_x_preferred":[
-        "Entre R\u00edos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10e2\u10e0\u10d4-\u10e0\u10d8\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:glg_x_preferred":[
         "Provincia de Entre R\u00edos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03bd\u03c4\u03c1\u03b5 \u03a1\u03af\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ac7 \u0ab0\u0abf\u0aaf\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -134,6 +125,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0c82\u0c9f\u0ccd\u0cb0\u0cc6 \u0cb0\u0cc8\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10e2\u10e0\u10d4-\u10e0\u10d8\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc5d4\ud2b8\ub808\ub9ac\uc624\uc2a4 \uc8fc"
     ],
@@ -146,26 +140,26 @@
     "name:lmo_x_preferred":[
         "Entre Rios"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u043d\u0442\u0440\u0435 \u0420\u0438\u043e\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0902\u0924\u094d\u0930\u0947 \u0930\u093f\u092f\u094b\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0415\u043d\u0442\u0440\u0435 \u0420\u0438\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Entre R\u00edos"
     ],
     "name:nan_x_preferred":[
         "Entre R\u00edos S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Entre R\u00edos"
     ],
     "name:nob_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia d'Entre R\u00edos"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
     ],
     "name:pms_x_preferred":[
         "Entre Rios"
@@ -182,7 +176,7 @@
     "name:que_x_preferred":[
         "Entre R\u00edos wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Entre R\u00edos"
     ],
     "name:rus_x_preferred":[
@@ -197,7 +191,7 @@
     "name:sin_x_preferred":[
         "\u0d91\u0db1\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2 \u0dbb\u0dba\u0ddc\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:slv_x_preferred":[
@@ -257,8 +251,8 @@
     "name:war_x_preferred":[
         "Entre R\u00edos"
     ],
-    "name:wel_x_preferred":[
-        "Entre R\u00edos"
+    "name:zho_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -383,7 +377,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895765,
+    "wof:lastmodified":1561793142,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

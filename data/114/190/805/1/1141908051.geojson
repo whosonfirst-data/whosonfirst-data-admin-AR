@@ -16,22 +16,13 @@
     "lbl:longitude":-70.266574,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
-    ],
-    "name:chi_x_preferred":[
-        "\u55ac\u65af\u99ac\u62c9\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chos Malal"
     ],
     "name:eng_x_preferred":[
         "Chos Malal"
     ],
-    "name:fre_x_preferred":[
-        "Chos Malal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chos Malal"
     ],
     "name:glg_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:grn_x_preferred":[
         "Chos Malal"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
     ],
     "name:ita_x_preferred":[
         "Chos Malal"
@@ -49,13 +43,16 @@
     "name:lit_x_preferred":[
         "\u010cos Malalis"
     ],
+    "name:nld_x_preferred":[
+        "Chos Malal"
+    ],
     "name:oci_x_preferred":[
         "Chos Malal"
     ],
     "name:por_x_preferred":[
         "Chos Malal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chos Malal"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u65af\u99ac\u62c9\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1141908051,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561793311,
     "wof:name":"Chos Malal",
     "wof:parent_id":421199899,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:fas_x_preferred":[
         "\u0648\u0631\u0648\u0631\u06a9\u0648"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0648\u0631\u06a9\u0648"
-    ],
     "name:spa_x_preferred":[
         "Varvarco"
     ],
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":421177093,
-    "wof:lastmodified":1527716485,
+    "wof:lastmodified":1561793259,
     "wof:name":"Varvarco",
     "wof:parent_id":1108718383,
     "wof:placetype":"locality",

@@ -16,16 +16,16 @@
     "name:ceb_x_preferred":[
         "General Vedia"
     ],
-    "name:dut_x_preferred":[
-        "General Vedia"
-    ],
     "name:eng_x_preferred":[
         "General Vedia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "General Vedia"
     ],
     "name:ita_x_preferred":[
+        "General Vedia"
+    ],
+    "name:nld_x_preferred":[
         "General Vedia"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":421196221,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1561793249,
     "wof:name":"General Vedia",
     "wof:parent_id":421185063,
     "wof:placetype":"locality",

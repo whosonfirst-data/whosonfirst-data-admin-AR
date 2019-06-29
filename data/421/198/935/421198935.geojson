@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:baq_x_preferred":[
-        "Beltr\u00e1n"
-    ],
     "name:bar_x_preferred":[
         "Beltr\u00e1n"
     ],
@@ -40,16 +37,19 @@
     "name:ceb_x_preferred":[
         "Beltr\u00e1n"
     ],
+    "name:ces_x_preferred":[
+        "Beltr\u00e1n"
+    ],
     "name:cos_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:dan_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "Beltr\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Beltr\u00e1n"
+    ],
     "name:fin_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:frp_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:fur_x_preferred":[
-        "Beltr\u00e1n"
-    ],
-    "name:ger_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:gla_x_preferred":[
@@ -136,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:may_x_preferred":[
-        "Beltr\u00e1n"
-    ],
     "name:min_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:mlg_x_preferred":[
         "Beltr\u00e1n"
     ],
+    "name:msa_x_preferred":[
+        "Beltr\u00e1n"
+    ],
     "name:nap_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:nds_x_preferred":[
+        "Beltr\u00e1n"
+    ],
+    "name:nld_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:nno_x_preferred":[
@@ -187,7 +190,7 @@
     "name:roh_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:scn_x_preferred":[
@@ -196,7 +199,7 @@
     "name:sco_x_preferred":[
         "Beltr\u00e1n"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -230,9 +233,6 @@
         "Beltr\u00e1n"
     ],
     "name:vol_x_preferred":[
-        "Beltr\u00e1n"
-    ],
-    "name:wel_x_preferred":[
         "Beltr\u00e1n"
     ],
     "name:wln_x_preferred":[
@@ -292,7 +292,7 @@
         }
     ],
     "wof:id":421198935,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1561793248,
     "wof:name":"Beltr\u00e1n",
     "wof:parent_id":1108718509,
     "wof:placetype":"locality",

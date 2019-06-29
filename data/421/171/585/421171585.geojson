@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "La Caldera"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5361\u723e\u5fb7\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "La Caldera"
-    ],
-    "name:dut_x_preferred":[
         "La Caldera"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "La Caldera"
     ],
     "name:fra_x_preferred":[
-        "La Caldera"
-    ],
-    "name:fre_x_preferred":[
-        "La Caldera"
-    ],
-    "name:ger_x_preferred":[
         "La Caldera"
     ],
     "name:nld_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421171585,
-    "wof:lastmodified":1527726497,
+    "wof:lastmodified":1561793262,
     "wof:name":"La Caldera",
     "wof:parent_id":421187151,
     "wof:placetype":"locality",

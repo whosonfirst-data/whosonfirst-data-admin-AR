@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Quitilipi"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u8482\u5229\u76ae"
-    ],
-    "name:dut_x_preferred":[
-        "Quitilipi"
-    ],
     "name:eng_x_preferred":[
         "Quitilipi"
     ],
     "name:fra_x_preferred":[
-        "Quitilipi"
-    ],
-    "name:fre_x_preferred":[
         "Quitilipi"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421168411,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561793217,
     "wof:name":"Quitilipi",
     "wof:parent_id":1108718223,
     "wof:placetype":"locality",

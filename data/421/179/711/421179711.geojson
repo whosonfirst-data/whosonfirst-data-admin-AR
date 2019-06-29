@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Goya"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Goya"
-    ],
-    "name:dut_x_preferred":[
         "Goya"
     ],
     "name:eng_x_preferred":[
@@ -39,15 +33,6 @@
         "\u06af\u0648\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
-        "Goya"
-    ],
-    "name:fre_x_preferred":[
-        "Goya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Goya"
     ],
     "name:heb_x_preferred":[
@@ -67,9 +52,6 @@
     ],
     "name:nld_x_preferred":[
         "Goya"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Goya"
@@ -237,7 +219,7 @@
         }
     ],
     "wof:id":421179711,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561793259,
     "wof:name":"Goya",
     "wof:parent_id":421193663,
     "wof:placetype":"locality",

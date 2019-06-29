@@ -19,19 +19,10 @@
     "name:ceb_x_preferred":[
         "Laboulaye"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6c83\u62c9\u8036"
-    ],
-    "name:dut_x_preferred":[
-        "Laboulaye"
-    ],
     "name:eng_x_preferred":[
         "Laboulaye"
     ],
     "name:fra_x_preferred":[
-        "Laboulaye"
-    ],
-    "name:fre_x_preferred":[
         "Laboulaye"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421175271,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561793246,
     "wof:name":"Laboulaye",
     "wof:parent_id":421199897,
     "wof:placetype":"locality",

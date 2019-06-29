@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Santa Rosa de R\u00edo Primero"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u7f85\u85a9\u5fb7\u91cc\u5967\u666e\u91cc\u6885\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Rosa de R\u00edo Primero"
-    ],
     "name:eng_x_preferred":[
         "Santa Rosa de R\u00edo Primero"
     ],
     "name:fra_x_preferred":[
-        "Santa Rosa de R\u00edo Primero"
-    ],
-    "name:fre_x_preferred":[
         "Santa Rosa de R\u00edo Primero"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421198367,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1561793248,
     "wof:name":"Santa Rosa de R\u00edo Primero",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

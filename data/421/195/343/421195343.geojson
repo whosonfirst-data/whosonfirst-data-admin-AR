@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Cinco Saltos"
     ],
-    "name:dut_x_preferred":[
-        "Cinco Saltos"
-    ],
     "name:eng_x_preferred":[
         "Cinco Saltos"
     ],
     "name:fra_x_preferred":[
-        "Cinco Saltos"
-    ],
-    "name:fre_x_preferred":[
         "Cinco Saltos"
     ],
     "name:heb_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421195343,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561793227,
     "wof:name":"Cinco Saltos",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

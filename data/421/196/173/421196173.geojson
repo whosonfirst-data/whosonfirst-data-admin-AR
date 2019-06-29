@@ -16,13 +16,13 @@
     "name:ceb_x_preferred":[
         "General Las Heras"
     ],
-    "name:dut_x_preferred":[
-        "General Las Heras"
-    ],
     "name:eng_x_preferred":[
         "General Las Heras"
     ],
     "name:ita_x_preferred":[
+        "General Las Heras"
+    ],
+    "name:nld_x_preferred":[
         "General Las Heras"
     ],
     "name:spa_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421196173,
-    "wof:lastmodified":1513889200,
+    "wof:lastmodified":1561793250,
     "wof:name":"Gral Las Heras",
     "wof:parent_id":1108717955,
     "wof:placetype":"locality",

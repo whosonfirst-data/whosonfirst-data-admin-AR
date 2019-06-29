@@ -40,14 +40,8 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0628\u0648\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u0582\u0562\u0578\u0582\u057f"
-    ],
     "name:aym_x_preferred":[
         "Chubut jisk'a suyu"
-    ],
-    "name:baq_x_preferred":[
-        "Chubuteko probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0443\u0431\u0443\u0442"
@@ -64,17 +58,20 @@
     "name:cat_x_preferred":[
         "Chubut"
     ],
-    "name:chi_x_preferred":[
-        "\u4e18\u5e03\u7279\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chubut"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Chubut"
     ],
     "name:dan_x_preferred":[
         "Chubut"
     ],
-    "name:dut_x_preferred":[
-        "Chubut"
+    "name:deu_x_preferred":[
+        "Provinz Chubut"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03c3\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Chubut"
@@ -88,17 +85,17 @@
     "name:epo_x_preferred":[
         "\u0108ubutio"
     ],
+    "name:eus_x_preferred":[
+        "Chubuteko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0686\u0648\u0628\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Chubutin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chubut"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10d1\u10e3\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Chubut"
     ],
     "name:gla_x_preferred":[
         "Chubut"
@@ -108,9 +105,6 @@
     ],
     "name:glv_x_preferred":[
         "Queiggey Chubut"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03c3\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Chubut"
@@ -127,11 +121,14 @@
     "name:hun_x_preferred":[
         "Chubut tartom\u00e1ny"
     ],
-    "name:ice_x_preferred":[
-        "Chubut-fylki"
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0582\u0562\u0578\u0582\u057f"
     ],
     "name:ind_x_preferred":[
         "Provinsi Chubut"
+    ],
+    "name:isl_x_preferred":[
+        "Chubut-fylki"
     ],
     "name:ita_x_preferred":[
         "provincia del Chubut"
@@ -141,6 +138,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cc1\u0cac\u0cc1\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10d1\u10e3\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ucd94\ubd80\ud2b8 \uc8fc"
@@ -157,13 +157,13 @@
     "name:lmo_x_preferred":[
         "Chubut"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0443\u0431\u0443\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u0941\u092c\u0941\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u0431\u0443\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Chubut"
     ],
     "name:nah_x_preferred":[
@@ -171,6 +171,9 @@
     ],
     "name:nan_x_preferred":[
         "Chubut S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Chubut"
     ],
     "name:nob_x_preferred":[
         "Chubut"
@@ -180,9 +183,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0427\u0443\u0431\u0443\u0442"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0686\u0648\u0628\u0648\u062a"
     ],
     "name:pms_x_preferred":[
         "Chubut"
@@ -199,7 +199,7 @@
     "name:que_x_preferred":[
         "Chubut wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Chubut"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +214,7 @@
     "name:sin_x_preferred":[
         "\u0da0\u0dd4\u0db6\u0dd4\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chubut"
     ],
     "name:slv_x_preferred":[
@@ -271,8 +271,8 @@
     "name:war_x_preferred":[
         "Chubut"
     ],
-    "name:wel_x_preferred":[
-        "Talaith Chubut"
+    "name:zho_x_preferred":[
+        "\u4e18\u5e03\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -397,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895618,
+    "wof:lastmodified":1561793145,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

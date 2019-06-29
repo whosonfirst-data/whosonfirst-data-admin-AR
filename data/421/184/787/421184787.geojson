@@ -16,14 +16,14 @@
     "name:ceb_x_preferred":[
         "Pronunciamiento"
     ],
-    "name:dut_x_preferred":[
-        "Pronunciamiento"
-    ],
     "name:eng_x_preferred":[
         "Pronunciamiento"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0440\u043e\u043d\u04af\u043d\u0441\u0438\u0430\u043c\u0438\u044d\u043d\u0442\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Pronunciamiento"
     ],
     "name:por_x_preferred":[
         "Pronunciamiento"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421184787,
-    "wof:lastmodified":1527716456,
+    "wof:lastmodified":1561793257,
     "wof:name":"Pronunciamiento",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

@@ -37,12 +37,6 @@
     "mps:longitude":-59.774938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9\u666e\u62c9\u85a9\u7e3d\u7d71\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Presidencia de la Plaza"
-    ],
     "name:eng_x_preferred":[
         "Presidencia de la Plaza"
     ],
@@ -50,10 +44,13 @@
         "Presidente de la Plaza",
         "Presidencia de la Plaza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Presidencia de la Plaza"
     ],
     "name:ita_x_preferred":[
+        "Presidencia de la Plaza"
+    ],
+    "name:nld_x_preferred":[
         "Presidencia de la Plaza"
     ],
     "name:por_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0456\u0434\u0435\u043d\u0441\u044c\u044f-\u0434\u0435-\u043b\u0430-\u041f\u043b\u0430\u0441\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u666e\u62c9\u85a9\u7e3d\u7d71\u93ae"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108718219,
-    "wof:lastmodified":1560898129,
+    "wof:lastmodified":1561793199,
     "wof:name":"Presidencia De La Plaza",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

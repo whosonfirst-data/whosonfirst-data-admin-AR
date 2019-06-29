@@ -16,7 +16,7 @@
     "name:ceb_x_preferred":[
         "Turdera"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Turdera"
     ],
     "name:eng_x_preferred":[
@@ -25,11 +25,8 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u0631\u062f\u0631\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Turdera"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u062f\u0631\u0627"
     ],
     "name:sco_x_preferred":[
         "Turdera"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421192279,
-    "wof:lastmodified":1527716113,
+    "wof:lastmodified":1561793220,
     "wof:name":"Turdera",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

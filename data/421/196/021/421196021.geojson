@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Simoca"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u83ab\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Simoca"
-    ],
-    "name:dut_x_preferred":[
         "Simoca"
     ],
     "name:eng_x_preferred":[
         "Simoca"
     ],
-    "name:fre_x_preferred":[
-        "Simoca"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Simoca"
     ],
     "name:ita_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421196021,
-    "wof:lastmodified":1513889547,
+    "wof:lastmodified":1561793251,
     "wof:name":"Simoca",
     "wof:parent_id":421182827,
     "wof:placetype":"locality",

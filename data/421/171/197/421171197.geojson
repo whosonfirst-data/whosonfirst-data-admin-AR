@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "General Campos"
     ],
-    "name:dut_x_preferred":[
-        "General Campos"
-    ],
     "name:eng_x_preferred":[
         "General Campos"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421171197,
-    "wof:lastmodified":1527726490,
+    "wof:lastmodified":1561793262,
     "wof:name":"General Campos",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

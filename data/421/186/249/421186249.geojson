@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Sierra de los Padres"
     ],
-    "name:dut_x_preferred":[
-        "Sierra de los Padres"
-    ],
     "name:eng_x_preferred":[
         "Sierra de los Padres"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421186249,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1561793244,
     "wof:name":"Sierra de Los Padres",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

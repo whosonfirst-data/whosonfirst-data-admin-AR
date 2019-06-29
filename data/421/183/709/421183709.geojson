@@ -16,14 +16,14 @@
     "name:ceb_x_preferred":[
         "Puerto Vilelas"
     ],
-    "name:dut_x_preferred":[
-        "Puerto Vilelas"
-    ],
     "name:eng_x_preferred":[
         "Puerto Vilelas"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d3\u30e9\u30ec\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Vilelas"
     ],
     "name:por_x_preferred":[
         "Puerto Vilelas"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421183709,
-    "wof:lastmodified":1527716488,
+    "wof:lastmodified":1561793259,
     "wof:name":"Puerto Vilelas",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

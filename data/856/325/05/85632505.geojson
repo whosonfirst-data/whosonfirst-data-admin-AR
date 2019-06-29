@@ -35,9 +35,6 @@
     "name:aka_x_preferred":[
         "Agy\u025bntina"
     ],
-    "name:alb_x_preferred":[
-        "Argjentina"
-    ],
     "name:als_x_preferred":[
         "Argentinien"
     ],
@@ -55,9 +52,6 @@
     ],
     "name:arg_x_preferred":[
         "Archentina"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0563\u0565\u0576\u057f\u056b\u0576\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u062c\u0646\u062a\u064a\u0646"
@@ -91,9 +85,6 @@
     ],
     "name:bam_x_variant":[
         "Arizantin"
-    ],
-    "name:baq_x_preferred":[
-        "Argentina"
     ],
     "name:bar_x_preferred":[
         "Argentinien"
@@ -140,9 +131,6 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0436\u0435\u043d\u0442\u0438\u043d\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u044d"
     ],
@@ -166,9 +154,6 @@
     ],
     "name:che_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u6839\u5ef7"
     ],
     "name:chr_x_preferred":[
         "\u13a0\u13e5\u13c2\u13d8\u13c2\u13a0"
@@ -194,9 +179,6 @@
     "name:cym_x_preferred":[
         "Yr Ariannin"
     ],
-    "name:cze_x_preferred":[
-        "Argentina"
-    ],
     "name:dan_x_preferred":[
         "Argentina"
     ],
@@ -217,9 +199,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Argentini\u00eb"
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f62\u0f0b\u0f47\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f53"
@@ -275,9 +254,6 @@
     "name:fra_x_preferred":[
         "Argentine"
     ],
-    "name:fre_x_preferred":[
-        "Argentine"
-    ],
     "name:frp_x_preferred":[
         "Argentena"
     ],
@@ -299,12 +275,6 @@
     "name:gan_x_preferred":[
         "\u963f\u6839\u5ef7"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Argentinien"
-    ],
     "name:gla_x_preferred":[
         "An Argantain"
     ],
@@ -325,9 +295,6 @@
     ],
     "name:gom_x_preferred":[
         "\u0906\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03b3\u03b5\u03bd\u03c4\u03b9\u03bd\u03ae"
     ],
     "name:grn_x_preferred":[
         "Arhent\u00edna"
@@ -383,9 +350,6 @@
     ],
     "name:ibo_x_preferred":[
         "Argentina"
-    ],
-    "name:ice_x_preferred":[
-        "Argent\u00edna"
     ],
     "name:ido_x_preferred":[
         "Arjentinia"
@@ -549,9 +513,6 @@
     "name:lzh_x_preferred":[
         "\u963f\u6839\u5ef7"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u0905\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
     ],
@@ -562,17 +523,11 @@
         "\u0d05\u0d30\u0d4d\u200d\u0d1c\u0d28\u0d4d\u0d31\u0d40\u0d28",
         "\u0d05\u0d30\u0d4d\u200d\u0d1c\u0d28\u0d4d\u200d\u0d31\u0d40\u0d28"
     ],
-    "name:mao_x_preferred":[
-        "\u0100ketina"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u091c\u0947\u0928\u094d\u091f\u093f\u0928\u093e"
     ],
     "name:mar_x_variant":[
         "\u0905\u0930\u094d\u091c\u0947\u0902\u091f\u093f\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Argentina"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0435"
@@ -706,9 +661,6 @@
     "name:pdc_x_preferred":[
         "Artschenti"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
-    ],
     "name:pfl_x_preferred":[
         "Argentinje"
     ],
@@ -754,9 +706,6 @@
     "name:rue_x_preferred":[
         "\u0410\u0440\u0491\u0435\u043d\u0442\u0438\u043d\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Argentina"
-    ],
     "name:run_x_preferred":[
         "Argentine"
     ],
@@ -798,9 +747,6 @@
         "\u0d86\u0dbb\u0dca\u0da2\u0dd9\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
-        "Argent\u00edna"
-    ],
-    "name:slo_x_preferred":[
         "Argent\u00edna"
     ],
     "name:slv_x_preferred":[
@@ -900,9 +846,6 @@
     "name:tha_x_variant":[
         "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f62\u0f0b\u0f47\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f53\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u12a0\u122d\u1300\u1295\u1272\u1293"
     ],
@@ -983,9 +926,6 @@
     "name:war_x_preferred":[
         "Argentina"
     ],
-    "name:wel_x_preferred":[
-        "Yr Ariannin"
-    ],
     "name:wln_x_preferred":[
         "\u00c5rdjintene"
     ],
@@ -1023,9 +963,6 @@
         "Argentina"
     ],
     "name:zho_x_preferred":[
-        "\u963f\u6839\u5ef7"
-    ],
-    "name:zho_x_variant":[
         "\u963f\u6839\u5ef7"
     ],
     "name:zho_yue_x_preferred":[
@@ -1182,7 +1119,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059216,
+    "wof:lastmodified":1561793149,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

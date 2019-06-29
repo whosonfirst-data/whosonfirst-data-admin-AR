@@ -19,13 +19,13 @@
     "name:deu_x_preferred":[
         "Medrano"
     ],
-    "name:dut_x_preferred":[
-        "Medrano"
-    ],
     "name:eng_x_preferred":[
         "Medrano"
     ],
     "name:ita_x_preferred":[
+        "Medrano"
+    ],
+    "name:nld_x_preferred":[
         "Medrano"
     ],
     "name:por_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421196925,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561793250,
     "wof:name":"Medrano",
     "wof:parent_id":421173921,
     "wof:placetype":"locality",

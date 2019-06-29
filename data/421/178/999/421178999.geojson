@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Cach\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Cachi"
-    ],
-    "name:dut_x_preferred":[
         "Cachi"
     ],
     "name:eng_x_preferred":[
         "Cachi"
     ],
     "name:fra_x_preferred":[
-        "Cachi"
-    ],
-    "name:fre_x_preferred":[
-        "Cachi"
-    ],
-    "name:ger_x_preferred":[
         "Cachi"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421178999,
-    "wof:lastmodified":1527717718,
+    "wof:lastmodified":1561793259,
     "wof:name":"Cach\u00ed",
     "wof:parent_id":421166803,
     "wof:placetype":"locality",

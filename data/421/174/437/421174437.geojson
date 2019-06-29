@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Yala"
     ],
-    "name:dut_x_preferred":[
-        "Yala"
-    ],
     "name:eng_x_preferred":[
         "Yala"
     ],
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":421174437,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1561793236,
     "wof:name":"Yala",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

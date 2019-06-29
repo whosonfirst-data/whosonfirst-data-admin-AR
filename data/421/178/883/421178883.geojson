@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:baq_x_preferred":[
-        "Aleman\u00eda"
-    ],
     "name:bar_x_preferred":[
         "Aleman\u00eda"
     ],
@@ -40,16 +37,19 @@
     "name:cat_x_preferred":[
         "Alam\u00e0nia"
     ],
+    "name:ces_x_preferred":[
+        "Aleman\u00eda"
+    ],
     "name:cos_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:dan_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "Alemannia"
     ],
+    "name:eus_x_preferred":[
+        "Aleman\u00eda"
+    ],
     "name:fin_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:fra_x_preferred":[
         "Royaume alaman"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Aleman\u00eda"
     ],
     "name:frp_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:fur_x_preferred":[
-        "Aleman\u00eda"
-    ],
-    "name:ger_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +100,6 @@
     "name:hun_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:ice_x_preferred":[
-        "Aleman\u00eda"
-    ],
     "name:ido_x_preferred":[
         "Aleman\u00eda"
     ],
@@ -113,6 +110,9 @@
         "Aleman\u00eda"
     ],
     "name:ind_x_preferred":[
+        "Aleman\u00eda"
+    ],
+    "name:isl_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:ita_x_preferred":[
@@ -133,13 +133,13 @@
     "name:ltz_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:may_x_preferred":[
-        "Aleman\u00eda"
-    ],
     "name:min_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:mlg_x_preferred":[
+        "Aleman\u00eda"
+    ],
+    "name:msa_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:nap_x_preferred":[
@@ -150,6 +150,9 @@
     ],
     "name:nld_x_preferred":[
         "Allemanni\u00eb"
+    ],
+    "name:nld_x_variant":[
+        "Aleman\u00eda"
     ],
     "name:nno_x_preferred":[
         "Aleman\u00eda"
@@ -178,7 +181,7 @@
     "name:roh_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:rus_x_preferred":[
@@ -190,7 +193,7 @@
     "name:sco_x_preferred":[
         "Aleman\u00eda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:slv_x_preferred":[
@@ -221,9 +224,6 @@
         "Aleman\u00eda"
     ],
     "name:vol_x_preferred":[
-        "Aleman\u00eda"
-    ],
-    "name:wel_x_preferred":[
         "Aleman\u00eda"
     ],
     "name:wln_x_preferred":[
@@ -281,7 +281,7 @@
         }
     ],
     "wof:id":421178883,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1561793260,
     "wof:name":"Alemania",
     "wof:parent_id":1108718407,
     "wof:placetype":"locality",

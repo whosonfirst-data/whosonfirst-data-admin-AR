@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Melincu\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u6797\u5eab\u57c3"
-    ],
-    "name:dut_x_preferred":[
-        "Melincu\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Melincu\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Melincu\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "Melincu\u00e9"
     ],
     "name:nld_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421174453,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1561793237,
     "wof:name":"Melincu\u00e9",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

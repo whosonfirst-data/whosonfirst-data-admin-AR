@@ -15,22 +15,19 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u5854\u7c73\u65af\u57fa\u93ae"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Atamisqui"
     ],
     "name:eng_x_preferred":[
         "Villa Atamisqui"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Atamisqui"
     ],
-    "name:ger_x_preferred":[
+    "name:ita_x_preferred":[
         "Villa Atamisqui"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Atamisqui"
     ],
     "name:spa_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:unk_x_variant":[
         "Atamisqui"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854\u7c73\u65af\u57fa\u93ae"
     ],
     "qs:name":"Villa Atamisqui",
     "qs:photos_9r":0,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890436435,
-    "wof:lastmodified":1527735405,
+    "wof:lastmodified":1561793266,
     "wof:name":"Villa Atamisqui",
     "wof:parent_id":1108718467,
     "wof:placetype":"locality",

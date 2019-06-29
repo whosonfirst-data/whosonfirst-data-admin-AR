@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "General Lagos"
     ],
-    "name:dut_x_preferred":[
-        "General Lagos"
-    ],
     "name:eng_x_preferred":[
         "General Lagos"
     ],
@@ -113,7 +110,7 @@
         }
     ],
     "wof:id":421191295,
-    "wof:lastmodified":1527716376,
+    "wof:lastmodified":1561793253,
     "wof:name":"General Lagos",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

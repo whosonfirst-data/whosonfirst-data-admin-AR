@@ -19,19 +19,13 @@
     "name:deu_x_preferred":[
         "Pichanal"
     ],
-    "name:dut_x_preferred":[
-        "Pichanal"
-    ],
     "name:eng_x_preferred":[
         "Pichanal"
     ],
     "name:fra_x_preferred":[
         "Pichanal"
     ],
-    "name:fre_x_preferred":[
-        "Pichanal"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Pichanal"
     ],
     "name:por_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421174511,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561793237,
     "wof:name":"Pichanal",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",

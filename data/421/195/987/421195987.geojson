@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Aranguren"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Aranguren"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Aranguren"
     ],
     "name:spa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421195987,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561793226,
     "wof:name":"Aranguren",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Florentino Ameghino"
     ],
-    "name:dut_x_preferred":[
-        "Florentino Ameghino"
-    ],
     "name:eng_x_preferred":[
         "Florentino Ameghino"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421182635,
-    "wof:lastmodified":1527726434,
+    "wof:lastmodified":1561793260,
     "wof:name":"Florentino Ameghino",
     "wof:parent_id":421198473,
     "wof:placetype":"locality",

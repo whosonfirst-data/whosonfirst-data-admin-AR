@@ -19,19 +19,16 @@
     "name:deu_x_preferred":[
         "Villa Giardino"
     ],
-    "name:dut_x_preferred":[
-        "Villa Giardino"
-    ],
     "name:eng_x_preferred":[
         "Villa Giardino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Giardino"
     ],
-    "name:ger_x_preferred":[
+    "name:ita_x_preferred":[
         "Villa Giardino"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Giardino"
     ],
     "name:por_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421191309,
-    "wof:lastmodified":1527716370,
+    "wof:lastmodified":1561793252,
     "wof:name":"Villa Giardino",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Pinamar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pinamar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03bd\u03b1\u03bc\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Pinamar"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "Pinamar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pinamar"
-    ],
-    "name:ger_x_preferred":[
-        "Pinamar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03bd\u03b1\u03bc\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0aa8\u0abe\u0aae\u0abe\u0ab0"
@@ -70,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u092a\u0940\u0902\u092e\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pinamar"
+    ],
+    "name:nld_x_preferred":[
         "Pinamar"
     ],
     "name:nob_x_preferred":[
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":421195631,
-    "wof:lastmodified":1513889351,
+    "wof:lastmodified":1561793225,
     "wof:name":"Pinamar",
     "wof:parent_id":1108718059,
     "wof:placetype":"locality",

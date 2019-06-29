@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Francisco \u00c1lvarez"
     ],
-    "name:dut_x_preferred":[
-        "Francisco \u00c1lvarez"
-    ],
     "name:eng_x_preferred":[
         "Francisco \u00c1lvarez"
     ],
@@ -32,6 +29,9 @@
         "Francisco \u00c1lvarez"
     ],
     "name:ita_x_preferred":[
+        "Francisco \u00c1lvarez"
+    ],
+    "name:nld_x_preferred":[
         "Francisco \u00c1lvarez"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421201545,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1561793256,
     "wof:name":"Francisco \u00c1lvarez",
     "wof:parent_id":1108718031,
     "wof:placetype":"locality",

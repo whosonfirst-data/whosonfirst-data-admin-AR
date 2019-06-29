@@ -22,26 +22,20 @@
     "name:ceb_x_preferred":[
         "Los Polvorines"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u6ce2\u6c83\u6797"
-    ],
-    "name:dut_x_preferred":[
-        "Los Polvorines"
-    ],
     "name:eng_x_preferred":[
         "Los Polvorines"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0633 \u067e\u0648\u0644\u0648\u0648\u0631\u06cc\u0646\u0633"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Polvorines"
     ],
     "name:ita_x_preferred":[
         "Los Polvorines"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0633 \u067e\u0648\u0644\u0648\u0648\u0631\u06cc\u0646\u0633"
+    "name:nld_x_preferred":[
+        "Los Polvorines"
     ],
     "name:por_x_preferred":[
         "Los Polvorines"
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":421191537,
-    "wof:lastmodified":1527716381,
+    "wof:lastmodified":1561793253,
     "wof:name":"Los Polvorines",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Coronel Vidal"
     ],
-    "name:dut_x_preferred":[
-        "Coronel Vidal"
-    ],
     "name:eng_x_preferred":[
         "Coronel Vidal"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421196177,
-    "wof:lastmodified":1527716369,
+    "wof:lastmodified":1561793252,
     "wof:name":"Coronel Vidal",
     "wof:parent_id":1108718017,
     "wof:placetype":"locality",

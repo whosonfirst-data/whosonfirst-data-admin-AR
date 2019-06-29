@@ -22,26 +22,20 @@
     "name:ceb_x_preferred":[
         "Munro"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "Munro"
-    ],
     "name:eng_x_preferred":[
         "Munro"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u0631\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Munro"
     ],
     "name:ita_x_preferred":[
         "Munro"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Munro"
     ],
     "name:por_x_preferred":[
         "Munro"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421171311,
-    "wof:lastmodified":1527726498,
+    "wof:lastmodified":1561793262,
     "wof:name":"Munro",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

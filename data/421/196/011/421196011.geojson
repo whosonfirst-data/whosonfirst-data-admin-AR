@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Valcheta"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u5207\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Valcheta"
-    ],
-    "name:dut_x_preferred":[
         "Valcheta"
     ],
     "name:eng_x_preferred":[
         "Valcheta"
     ],
     "name:fra_x_preferred":[
-        "Valcheta"
-    ],
-    "name:fre_x_preferred":[
-        "Valcheta"
-    ],
-    "name:ger_x_preferred":[
         "Valcheta"
     ],
     "name:jpn_x_preferred":[
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421196011,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1561793251,
     "wof:name":"Valcheta",
     "wof:parent_id":1108718399,
     "wof:placetype":"locality",

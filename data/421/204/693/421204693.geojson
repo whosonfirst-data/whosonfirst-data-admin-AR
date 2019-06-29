@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Ceres"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u96f7\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Ceres"
-    ],
     "name:eng_x_preferred":[
         "Ceres"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ceres"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +39,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u96f7\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421204693,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561793232,
     "wof:name":"Ceres",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Villa del Dique"
     ],
-    "name:dut_x_preferred":[
-        "Villa del Dique"
-    ],
     "name:eng_x_preferred":[
         "Villa del Dique"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421166753,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1561793217,
     "wof:name":"Villa del Dique",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

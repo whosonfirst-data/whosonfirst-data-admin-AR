@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Corzuela"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8607\u57c3\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Corzuela"
-    ],
-    "name:dut_x_preferred":[
         "Corzuela"
     ],
     "name:eng_x_preferred":[
         "Corzuela"
     ],
     "name:fra_x_preferred":[
-        "Corzuela"
-    ],
-    "name:fre_x_preferred":[
-        "Corzuela"
-    ],
-    "name:ger_x_preferred":[
         "Corzuela"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421195337,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561793221,
     "wof:name":"Corzuela",
     "wof:parent_id":1108718203,
     "wof:placetype":"locality",

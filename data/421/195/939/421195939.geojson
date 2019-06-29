@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Hernando"
     ],
-    "name:dut_x_preferred":[
-        "Hernando"
-    ],
     "name:eng_x_preferred":[
         "Hernando"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421195939,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561793221,
     "wof:name":"Hernando",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

@@ -21,14 +21,8 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u063a\u0627\u0644\u064a\u063a\u0648\u0633\u060c \u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0578 \u0533\u0561\u056c\u0575\u0565\u0563\u0578\u057d"
-    ],
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0648\u0642\u0627\u0644\u0642\u0648\u0633"
-    ],
-    "name:baq_x_preferred":[
-        "R\u00edo Gallegos"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993 \u0997\u09cd\u09af\u09be\u09af\u09bc\u09c7\u0997\u09cb\u09b8"
@@ -42,10 +36,10 @@
     "name:cat_x_preferred":[
         "R\u00edo Gallegos"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5965\u52a0\u8036\u6208\u65af"
+    "name:ces_x_preferred":[
+        "R\u00edo Gallegos"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "R\u00edo Gallegos"
     ],
     "name:dan_x_preferred":[
@@ -54,8 +48,8 @@
     "name:deu_x_preferred":[
         "R\u00edo Gallegos"
     ],
-    "name:dut_x_preferred":[
-        "R\u00edo Gallegos"
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03b1\u03bb\u03ad\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "R\u00edo Gallegos"
@@ -66,6 +60,9 @@
     "name:eus_x_preferred":[
         "Rio Gallegos"
     ],
+    "name:eus_x_variant":[
+        "R\u00edo Gallegos"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0648\u06af\u0627\u0644\u06af\u0648\u0633"
     ],
@@ -75,20 +72,8 @@
     "name:fra_x_preferred":[
         "R\u00edo Gallegos"
     ],
-    "name:fre_x_preferred":[
-        "R\u00edo Gallegos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dd-\u10d2\u10d0\u10da\u10d8\u10d4\u10d2\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00edo Gallegos"
-    ],
     "name:glg_x_preferred":[
         "R\u00edo Gallegos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03bf \u039a\u03b1\u03bb\u03ad\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:grn_x_preferred":[
         "R\u00edo Gallegos"
@@ -138,10 +123,13 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0913 \u0917\u0945\u0932\u0947\u0917\u0949\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rio Gallegos"
     ],
     "name:nah_x_preferred":[
+        "R\u00edo Gallegos"
+    ],
+    "name:nld_x_preferred":[
         "R\u00edo Gallegos"
     ],
     "name:nob_x_preferred":[
@@ -149,9 +137,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0420\u0438\u043e-\u0413\u0430\u043b\u044c\u0435\u0433\u043e\u0441"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0648\u06af\u0627\u0644\u06af\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0648 \u06af\u0627\u0644\u06cc\u06af\u0648\u0633"
@@ -171,7 +156,7 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd2\u0dba\u0ddd \u0d9c\u0dbd\u0dcf\u0d9c\u0ddc\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "R\u00edo Gallegos"
     ],
     "name:slv_x_preferred":[
@@ -209,9 +194,6 @@
     ],
     "name:war_x_preferred":[
         "Rio Gallegos"
-    ],
-    "name:wel_x_preferred":[
-        "R\u00edo Gallegos"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5965\u52a0\u8036\u6208\u65af"
@@ -339,7 +321,7 @@
         }
     ],
     "wof:id":890445117,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561793268,
     "wof:name":"R\u00edo Gallegos",
     "wof:parent_id":421200655,
     "wof:placetype":"locality",

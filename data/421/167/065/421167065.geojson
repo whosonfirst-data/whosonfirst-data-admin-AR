@@ -20,13 +20,7 @@
     "name:cat_x_preferred":[
         "Tinogasta"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u8afe\u52a0\u65af\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Tinogasta"
-    ],
-    "name:dut_x_preferred":[
         "Tinogasta"
     ],
     "name:ell_x_preferred":[
@@ -37,15 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Tinogasta"
-    ],
-    "name:fre_x_preferred":[
-        "Tinogasta"
-    ],
-    "name:ger_x_preferred":[
-        "Tinogasta"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03bd\u03bf\u03b3\u03ac\u03c3\u03c4\u03b1"
     ],
     "name:ita_x_preferred":[
         "Tinogasta"
@@ -217,7 +202,7 @@
         }
     ],
     "wof:id":421167065,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793229,
     "wof:name":"Tinogasta",
     "wof:parent_id":1108718161,
     "wof:placetype":"locality",

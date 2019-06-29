@@ -17,25 +17,13 @@
     "name:ceb_x_preferred":[
         "Victoria"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u591a\u5229\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Victoria"
-    ],
-    "name:dut_x_preferred":[
         "Victoria"
     ],
     "name:eng_x_preferred":[
         "Victoria"
     ],
     "name:fra_x_preferred":[
-        "Victoria"
-    ],
-    "name:fre_x_preferred":[
-        "Victoria"
-    ],
-    "name:ger_x_preferred":[
         "Victoria"
     ],
     "name:ita_x_preferred":[
@@ -212,7 +200,7 @@
         }
     ],
     "wof:id":421169163,
-    "wof:lastmodified":1527716171,
+    "wof:lastmodified":1561793230,
     "wof:name":"Victoria",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

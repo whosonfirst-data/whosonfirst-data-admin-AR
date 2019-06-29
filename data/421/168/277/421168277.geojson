@@ -16,19 +16,13 @@
     "name:ceb_x_preferred":[
         "Santo Tom\u00e9"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santo Tom\u00e9"
     ],
     "name:eng_x_preferred":[
         "Santo Tom\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Santo Tom\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Santo Tom\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Santo Tom\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421168277,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561793217,
     "wof:name":"Santo Tom\u00e9",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

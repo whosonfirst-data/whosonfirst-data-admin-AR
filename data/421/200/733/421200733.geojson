@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Las Toninas"
     ],
-    "name:dut_x_preferred":[
-        "Las Toninas"
-    ],
     "name:eng_x_preferred":[
         "Las Toninas"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421200733,
-    "wof:lastmodified":1527716426,
+    "wof:lastmodified":1561793256,
     "wof:name":"Las Toninas",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

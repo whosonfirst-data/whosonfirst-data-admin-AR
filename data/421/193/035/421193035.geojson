@@ -19,20 +19,14 @@
     "name:deu_x_preferred":[
         "Villa Regina"
     ],
-    "name:dut_x_preferred":[
-        "Villa Regina"
-    ],
     "name:eng_x_preferred":[
         "Villa Regina"
     ],
     "name:fra_x_preferred":[
         "Villa Regina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Regina"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Regina"
     ],
     "name:ita_x_preferred":[
         "Villa Regina"
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":421193035,
-    "wof:lastmodified":1527716150,
+    "wof:lastmodified":1561793229,
     "wof:name":"Villa Regina",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

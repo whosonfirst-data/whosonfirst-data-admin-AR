@@ -16,16 +16,16 @@
     "name:deu_x_preferred":[
         "Tranv\u00eda del Este"
     ],
-    "name:dut_x_preferred":[
-        "San Antonio Este"
-    ],
     "name:eng_x_preferred":[
         "San Antonio Este"
     ],
     "name:fra_x_preferred":[
         "Tranv\u00eda del Este"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
+        "San Antonio Este"
+    ],
+    "name:nld_x_preferred":[
         "San Antonio Este"
     ],
     "name:oci_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":421191641,
-    "wof:lastmodified":1513889359,
+    "wof:lastmodified":1561793253,
     "wof:name":"Puerto San Antonio Este",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

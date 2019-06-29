@@ -22,19 +22,13 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u0644\u064a\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u056b\u057a\u0578\u056c\u0565\u057f\u056b"
-    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u067e\u0648\u06cc\u062a\u06cc"
     ],
     "name:cat_x_preferred":[
         "Cipolletti"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u6ce2\u5217\u8482"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cipolletti"
     ],
     "name:eng_x_preferred":[
@@ -43,13 +37,7 @@
     "name:fas_x_preferred":[
         "\u0633\u06cc\u067e\u0648\u06cc\u062a\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Cipolletti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10de\u10dd\u10da\u10d8\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cipolletti"
     ],
     "name:heb_x_preferred":[
@@ -70,8 +58,8 @@
     "name:lit_x_preferred":[
         "\u010cipoletis"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u067e\u0648\u06cc\u062a\u06cc"
+    "name:nld_x_preferred":[
+        "Cipolletti"
     ],
     "name:pol_x_preferred":[
         "Cipolletti"
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":1125907463,
-    "wof:lastmodified":1513889083,
+    "wof:lastmodified":1561793270,
     "wof:name":"Cipolletti",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

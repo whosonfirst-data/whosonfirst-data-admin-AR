@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Villa Mar\u00eda Grande"
     ],
-    "name:dut_x_preferred":[
-        "Mar\u00eda Grande"
-    ],
     "name:eng_x_preferred":[
         "Mar\u00eda Grande"
     ],
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421175127,
-    "wof:lastmodified":1527716339,
+    "wof:lastmodified":1561793246,
     "wof:name":"Villa Mar\u00eda Grande",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

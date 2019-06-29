@@ -25,19 +25,13 @@
     "name:cym_x_preferred":[
         "Dolavon"
     ],
-    "name:cze_x_preferred":[
-        "Dolavon"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dolavon"
     ],
     "name:eng_x_preferred":[
         "Dolavon"
     ],
-    "name:fre_x_preferred":[
-        "Dolavon"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dolavon"
     ],
     "name:ita_x_preferred":[
@@ -58,9 +52,6 @@
     "name:slk_x_preferred":[
         "Dolavon"
     ],
-    "name:slo_x_preferred":[
-        "Dolavon"
-    ],
     "name:spa_x_preferred":[
         "Dolavon"
     ],
@@ -72,9 +63,6 @@
     ],
     "name:unk_x_variant":[
         "Colonia Dolav\u00f3n"
-    ],
-    "name:wel_x_preferred":[
-        "Dolavon"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":421195777,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561793223,
     "wof:name":"Dolav\u00f3n",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

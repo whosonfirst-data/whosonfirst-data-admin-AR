@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "La Leonesa"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u840a\u5967\u5167\u85a9"
-    ],
     "name:deu_x_preferred":[
-        "La Leonesa"
-    ],
-    "name:dut_x_preferred":[
         "La Leonesa"
     ],
     "name:eng_x_preferred":[
         "La Leonesa"
     ],
     "name:fra_x_preferred":[
-        "La Leonesa"
-    ],
-    "name:fre_x_preferred":[
-        "La Leonesa"
-    ],
-    "name:ger_x_preferred":[
         "La Leonesa"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421199543,
-    "wof:lastmodified":1527716413,
+    "wof:lastmodified":1561793255,
     "wof:name":"La Leonesa",
     "wof:parent_id":421185063,
     "wof:placetype":"locality",

@@ -20,35 +20,29 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0648\u06cc\u0644\u06a9\u0648\u06cc"
     ],
-    "name:baq_x_preferred":[
-        "Chivilcoy"
-    ],
-    "name:chi_x_preferred":[
-        "\u5947\u7dad\u723e\u79d1\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chivilcoy"
     ],
     "name:eng_x_preferred":[
         "Chivilcoy"
     ],
+    "name:eus_x_preferred":[
+        "Chivilcoy"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0648\u06cc\u0644\u06a9\u0648\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Chivilcoy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chivilcoy"
     ],
     "name:ita_x_preferred":[
         "Chivilcoy"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Chivilcoy"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u0648\u06cc\u0644\u06a9\u0648\u06cc"
+    "name:oci_x_preferred":[
+        "Chivilcoy"
     ],
     "name:pol_x_preferred":[
         "Chivilcoy"
@@ -211,7 +205,7 @@
         }
     ],
     "wof:id":421169171,
-    "wof:lastmodified":1527716176,
+    "wof:lastmodified":1561793231,
     "wof:name":"Chivilcoy",
     "wof:parent_id":1108717917,
     "wof:placetype":"locality",

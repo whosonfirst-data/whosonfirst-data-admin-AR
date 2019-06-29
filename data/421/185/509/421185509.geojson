@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Fray Luis A. Beltr\u00e1n"
     ],
-    "name:dut_x_preferred":[
-        "Fray Luis Beltr\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Fray Luis Beltr\u00e1n"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421185509,
-    "wof:lastmodified":1527726508,
+    "wof:lastmodified":1561793263,
     "wof:name":"Fray Luis A. Beltr\u00e1n",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

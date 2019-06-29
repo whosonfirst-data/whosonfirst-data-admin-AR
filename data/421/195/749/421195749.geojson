@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Carlos Pellegrini"
     ],
-    "name:dut_x_preferred":[
-        "Carlos Pellegrini"
-    ],
     "name:eng_x_preferred":[
         "Carlos Pellegrini"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421195749,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561793223,
     "wof:name":"Carlos Pellegrini",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

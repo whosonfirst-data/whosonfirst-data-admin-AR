@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Chicoana"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u79d1\u963f\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Chicoana"
-    ],
-    "name:dut_x_preferred":[
         "Chicoana"
     ],
     "name:eng_x_preferred":[
         "Chicoana"
     ],
     "name:fra_x_preferred":[
-        "Chicoana"
-    ],
-    "name:fre_x_preferred":[
-        "Chicoana"
-    ],
-    "name:ger_x_preferred":[
         "Chicoana"
     ],
     "name:nld_x_preferred":[
@@ -102,7 +90,7 @@
         }
     ],
     "wof:id":421200073,
-    "wof:lastmodified":1513889012,
+    "wof:lastmodified":1561793256,
     "wof:name":"Chicoana",
     "wof:parent_id":421204067,
     "wof:placetype":"locality",

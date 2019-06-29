@@ -16,13 +16,13 @@
     "name:cat_x_preferred":[
         "Casalegno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Casalegno"
     ],
     "name:eng_x_preferred":[
         "Casalegno"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Casalegno"
     ],
     "name:spa_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421196433,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561793251,
     "wof:name":"Casalegno",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

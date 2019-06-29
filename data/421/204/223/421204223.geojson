@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "La Lucila"
     ],
-    "name:dut_x_preferred":[
-        "La Lucila"
-    ],
     "name:eng_x_preferred":[
         "La Lucila"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421204223,
-    "wof:lastmodified":1527716185,
+    "wof:lastmodified":1561793232,
     "wof:name":"La Lucila",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

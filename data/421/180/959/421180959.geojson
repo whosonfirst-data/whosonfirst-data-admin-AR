@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "San Pedro de Colalao"
     ],
-    "name:dut_x_preferred":[
-        "San Pedro de Colalao"
-    ],
     "name:eng_x_preferred":[
         "San Pedro de Colalao"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421180959,
-    "wof:lastmodified":1527716238,
+    "wof:lastmodified":1561793239,
     "wof:name":"San Pedro de Colalao",
     "wof:parent_id":1108718531,
     "wof:placetype":"locality",

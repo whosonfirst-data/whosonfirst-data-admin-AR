@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:baq_x_preferred":[
-        "Villa del Rosario"
-    ],
     "name:bar_x_preferred":[
         "Villa del Rosario"
     ],
@@ -37,19 +34,19 @@
     "name:ceb_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u85a9\u91cc\u5967\u93ae"
+    "name:ces_x_preferred":[
+        "Villa del Rosario"
     ],
     "name:cos_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Villa del Rosario"
     ],
     "name:dan_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa del Rosario"
     ],
     "name:egl_x_preferred":[
@@ -67,22 +64,19 @@
     "name:est_x_preferred":[
         "Villa del Rosario"
     ],
+    "name:eus_x_preferred":[
+        "Villa del Rosario"
+    ],
     "name:fin_x_preferred":[
         "Villa del Rosario"
     ],
     "name:fra_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:fre_x_preferred":[
-        "Villa del Rosario"
-    ],
     "name:frp_x_preferred":[
         "Villa del Rosario"
     ],
     "name:fur_x_preferred":[
-        "Villa del Rosario"
-    ],
-    "name:ger_x_preferred":[
         "Villa del Rosario"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +97,6 @@
     "name:hun_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:ice_x_preferred":[
-        "Villa del Rosario"
-    ],
     "name:ido_x_preferred":[
         "Villa del Rosario"
     ],
@@ -116,6 +107,9 @@
         "Villa del Rosario"
     ],
     "name:ind_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:isl_x_preferred":[
         "Villa del Rosario"
     ],
     "name:ita_x_preferred":[
@@ -133,13 +127,13 @@
     "name:ltz_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:may_x_preferred":[
-        "Villa del Rosario"
-    ],
     "name:min_x_preferred":[
         "Villa del Rosario"
     ],
     "name:mlg_x_preferred":[
+        "Villa del Rosario"
+    ],
+    "name:msa_x_preferred":[
         "Villa del Rosario"
     ],
     "name:nap_x_preferred":[
@@ -178,7 +172,7 @@
     "name:roh_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Villa del Rosario"
     ],
     "name:scn_x_preferred":[
@@ -187,7 +181,7 @@
     "name:sco_x_preferred":[
         "Villa del Rosario"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Villa del Rosario"
     ],
     "name:slv_x_preferred":[
@@ -221,9 +215,6 @@
         "Villa del Rosario"
     ],
     "name:vol_x_preferred":[
-        "Villa del Rosario"
-    ],
-    "name:wel_x_preferred":[
         "Villa del Rosario"
     ],
     "name:wln_x_preferred":[
@@ -285,7 +276,7 @@
         }
     ],
     "wof:id":421196341,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1561793250,
     "wof:name":"Villa del Rosario",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

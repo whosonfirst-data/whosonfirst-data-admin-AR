@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Sierra de la Ventana"
     ],
-    "name:dut_x_preferred":[
-        "Sierra de La Ventana"
-    ],
     "name:eng_x_preferred":[
         "Sierra de La Ventana"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421197023,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1561793254,
     "wof:name":"Sierra de la Ventana",
     "wof:parent_id":1108718121,
     "wof:placetype":"locality",

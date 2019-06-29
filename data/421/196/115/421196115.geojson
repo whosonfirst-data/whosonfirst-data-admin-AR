@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Ituzaing\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5716\u85a9\u56e0\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Ituzaing\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Ituzaing\u00f3"
     ],
     "name:eng_x_preferred":[
         "Ituzaing\u00f3"
     ],
     "name:fra_x_preferred":[
-        "Ituzaing\u00f3"
-    ],
-    "name:fre_x_preferred":[
-        "Ituzaing\u00f3"
-    ],
-    "name:ger_x_preferred":[
         "Ituzaing\u00f3"
     ],
     "name:grn_x_preferred":[
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":421196115,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561793252,
     "wof:name":"Ituzaing\u00f3",
     "wof:parent_id":421171495,
     "wof:placetype":"locality",

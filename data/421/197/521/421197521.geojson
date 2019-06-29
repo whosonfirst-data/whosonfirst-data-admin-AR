@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Hersilia"
     ],
-    "name:dut_x_preferred":[
-        "Hersilia"
-    ],
     "name:ell_x_preferred":[
         "\u0395\u03c1\u03c3\u03b9\u03bb\u03af\u03b1"
     ],
@@ -37,7 +34,7 @@
     "name:fra_x_preferred":[
         "Hersilie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Hersilia"
     ],
     "name:ita_x_preferred":[
@@ -123,7 +120,7 @@
         }
     ],
     "wof:id":421197521,
-    "wof:lastmodified":1527716403,
+    "wof:lastmodified":1561793254,
     "wof:name":"Hersilia",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

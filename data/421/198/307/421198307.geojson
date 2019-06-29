@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Margarita Bel\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u746a\u52a0\u9e97\u5854\u8c9d\u502b"
-    ],
     "name:deu_x_preferred":[
-        "Margarita Bel\u00e9n"
-    ],
-    "name:dut_x_preferred":[
         "Margarita Bel\u00e9n"
     ],
     "name:eng_x_preferred":[
         "Margarita Bel\u00e9n"
     ],
     "name:fra_x_preferred":[
-        "Margarita Bel\u00e9n"
-    ],
-    "name:fre_x_preferred":[
-        "Margarita Bel\u00e9n"
-    ],
-    "name:ger_x_preferred":[
         "Margarita Bel\u00e9n"
     ],
     "name:jpn_x_preferred":[
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421198307,
-    "wof:lastmodified":1527716347,
+    "wof:lastmodified":1561793246,
     "wof:name":"Margarita Bel\u00e9n",
     "wof:parent_id":1108718221,
     "wof:placetype":"locality",

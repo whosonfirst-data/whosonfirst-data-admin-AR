@@ -16,22 +16,19 @@
     "name:cat_x_preferred":[
         "Rosario de la Frontera"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u85a9\u91cc\u5967\u5fb7\u62c9\u5f17\u9f8d\u7279\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Rosario de la Frontera"
-    ],
     "name:eng_x_preferred":[
         "Rosario de la Frontera"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rosario de la Frontera"
     ],
     "name:ita_x_preferred":[
         "Rosario de la Frontera"
     ],
     "name:lit_x_preferred":[
+        "Rosario de la Frontera"
+    ],
+    "name:nld_x_preferred":[
         "Rosario de la Frontera"
     ],
     "name:oci_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u0430\u0440\u0456\u043e-\u0434\u0435-\u043b\u0430-\u0424\u0440\u043e\u043d\u0442\u0435\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u5fb7\u62c9\u5f17\u9f8d\u7279\u62c9"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421195125,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561793226,
     "wof:name":"Rosario de la Frontera",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",

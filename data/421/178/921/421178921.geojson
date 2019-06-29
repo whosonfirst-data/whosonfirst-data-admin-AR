@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Presidencia de la Plaza"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9\u666e\u62c9\u85a9\u7e3d\u7d71\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Presidencia de la Plaza"
-    ],
     "name:eng_x_preferred":[
         "Presidencia de la Plaza"
     ],
     "name:fra_x_preferred":[
         "Presidencia de la Plaza"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Presidencia de la Plaza"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Presidencia de la Plaza"
     ],
     "name:por_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421178921,
-    "wof:lastmodified":1527717729,
+    "wof:lastmodified":1561793260,
     "wof:name":"Presidencia de la Plaza",
     "wof:parent_id":1108718219,
     "wof:placetype":"locality",

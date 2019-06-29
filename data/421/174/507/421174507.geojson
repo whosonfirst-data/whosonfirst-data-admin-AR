@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "San Isidro"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f0a\u897f\u5fb7\u7f85"
-    ],
-    "name:dut_x_preferred":[
-        "San Isidro"
-    ],
     "name:eng_x_preferred":[
         "San Isidro"
     ],
     "name:fra_x_preferred":[
         "San Isidro"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "San Isidro"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "San Isidro"
     ],
     "name:por_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421174507,
-    "wof:lastmodified":1527716228,
+    "wof:lastmodified":1561793237,
     "wof:name":"San Isidro",
     "wof:parent_id":421189013,
     "wof:placetype":"locality",

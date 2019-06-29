@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Mar del Tuy\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "Mar del Tuy\u00fa"
-    ],
     "name:eng_x_preferred":[
         "Mar del Tuy\u00fa"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421204611,
-    "wof:lastmodified":1527716180,
+    "wof:lastmodified":1561793232,
     "wof:name":"Mar del Tuy\u00fa",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

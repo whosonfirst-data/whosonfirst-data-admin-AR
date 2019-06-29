@@ -16,22 +16,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:chi_x_preferred":[
-        "\u4f69\u91cc\u6258\u83ab\u96f7\u8afe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Perito Moreno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Perito Moreno"
     ],
     "name:eng_x_preferred":[
         "Perito Moreno"
     ],
-    "name:fre_x_preferred":[
-        "Perito Moreno"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Perito Moreno"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Perito Morenas"
+    ],
+    "name:nld_x_preferred":[
+        "Perito Moreno"
     ],
     "name:pol_x_preferred":[
         "Perito Moreno"
@@ -55,7 +52,7 @@
     "name:sco_x_preferred":[
         "Perito Moreno"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Perito Moreno"
     ],
     "name:spa_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Lago Buenos Aires"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u91cc\u6258\u83ab\u96f7\u8afe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":890429471,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793267,
     "wof:name":"Perito Moreno",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",

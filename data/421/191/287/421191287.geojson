@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Colonia Carlos Pellegrini"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Colonia Carlos Pellegrini"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Colonia Carlos Pellegrini"
     ],
     "name:spa_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":421191287,
-    "wof:lastmodified":1527716373,
+    "wof:lastmodified":1561793252,
     "wof:name":"Colonia Carlos Pellegrini",
     "wof:parent_id":421171455,
     "wof:placetype":"locality",

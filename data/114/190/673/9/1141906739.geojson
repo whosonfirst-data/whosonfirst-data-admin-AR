@@ -16,14 +16,14 @@
     "lbl:longitude":-70.266574,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:dut_x_preferred":[
-        "Comallo"
-    ],
     "name:eng_x_preferred":[
         "Comallo"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d9\u10dd\u10db\u10d0\u10da\u10d8\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Comallo"
     ],
     "name:spa_x_preferred":[
         "Comallo"
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":1141906739,
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1561793311,
     "wof:name":"Comallo",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

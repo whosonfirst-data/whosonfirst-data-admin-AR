@@ -22,17 +22,14 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09cd\u09aa\u09be\u09b0\u09b2\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u73c0\u5229"
-    ],
     "name:dan_x_preferred":[
         "Temperley"
     ],
     "name:deu_x_preferred":[
         "Temperley"
     ],
-    "name:dut_x_preferred":[
-        "Temperley"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bc\u03c0\u03b5\u03c1\u03bb\u03b5\u03ca"
     ],
     "name:eng_x_preferred":[
         "Temperley"
@@ -48,18 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Temperley"
-    ],
-    "name:fre_x_preferred":[
-        "Temperley"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10db\u10de\u10d4\u10e0\u10da\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Temperley"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ad\u03bc\u03c0\u03b5\u03c1\u03bb\u03b5\u03ca"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aae\u0acd\u0aaa\u0ab0\u0acd\u0ab2\u0ac7"
@@ -94,9 +79,6 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u092e\u094d\u092a\u0930\u094d\u0932\u0940"
     ],
-    "name:may_x_preferred":[
-        "Temperley"
-    ],
     "name:msa_x_preferred":[
         "Temperley"
     ],
@@ -105,9 +87,6 @@
     ],
     "name:nob_x_preferred":[
         "Temperley"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u067e\u0631\u0644\u0626\u06cc"
     ],
     "name:pol_x_preferred":[
         "Temperley"
@@ -204,7 +183,7 @@
         }
     ],
     "wof:id":421178163,
-    "wof:lastmodified":1527717724,
+    "wof:lastmodified":1561793260,
     "wof:name":"Temperley",
     "wof:parent_id":421204047,
     "wof:placetype":"locality",

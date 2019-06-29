@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Guerrico"
     ],
-    "name:ger_x_preferred":[
-        "Guerrico"
-    ],
     "name:hun_x_preferred":[
         "Guerrico"
     ],
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":421169851,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1561793230,
     "wof:name":"Guerrico",
     "wof:parent_id":1108718051,
     "wof:placetype":"locality",

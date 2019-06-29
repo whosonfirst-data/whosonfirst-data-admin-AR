@@ -22,22 +22,13 @@
     "name:ceb_x_preferred":[
         "Trancas"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u862d\u5361\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Trancas"
-    ],
-    "name:dut_x_preferred":[
         "Trancas"
     ],
     "name:eng_x_preferred":[
         "Trancas"
     ],
-    "name:fre_x_preferred":[
-        "Trancas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Trancas"
     ],
     "name:ita_x_preferred":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421168271,
-    "wof:lastmodified":1534379080,
+    "wof:lastmodified":1561793217,
     "wof:name":"Trancas",
     "wof:parent_id":1108718531,
     "wof:placetype":"locality",

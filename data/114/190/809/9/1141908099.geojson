@@ -20,25 +20,13 @@
     "name:ceb_x_preferred":[
         "Cerrillos"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u91cc\u7565\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Cerrillos"
-    ],
-    "name:dut_x_preferred":[
         "Cerrillos"
     ],
     "name:eng_x_preferred":[
         "Cerrillos"
     ],
     "name:fra_x_preferred":[
-        "Cerrillos"
-    ],
-    "name:fre_x_preferred":[
-        "Cerrillos"
-    ],
-    "name:ger_x_preferred":[
         "Cerrillos"
     ],
     "name:ita_x_preferred":[
@@ -185,7 +173,7 @@
         }
     ],
     "wof:id":1141908099,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561793313,
     "wof:name":"Cerrillos",
     "wof:parent_id":421171213,
     "wof:placetype":"locality",

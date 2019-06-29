@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "La Verde"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "La Verde"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "La Verde"
     ],
     "name:por_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421191511,
-    "wof:lastmodified":1527716380,
+    "wof:lastmodified":1561793253,
     "wof:name":"La Verde",
     "wof:parent_id":1108718205,
     "wof:placetype":"locality",

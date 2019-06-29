@@ -16,16 +16,13 @@
     "name:ceb_x_preferred":[
         "Villa El Choc\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Villa El Choc\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "Villa El Choc\u00f3n"
     ],
     "name:fra_x_preferred":[
         "Villa El Choc\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa El Choc\u00f3n"
     ],
     "name:nld_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421184827,
-    "wof:lastmodified":1527716444,
+    "wof:lastmodified":1561793257,
     "wof:name":"Villa El Choc\u00f3n",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

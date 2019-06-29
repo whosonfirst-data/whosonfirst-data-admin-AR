@@ -19,19 +19,13 @@
     "name:ceb_x_preferred":[
         "Villa La Angostura"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5b89\u6208\u65af\u5716\u62c9\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Villa La Angostura"
-    ],
     "name:eng_x_preferred":[
         "Villa La Angostura"
     ],
     "name:fra_x_preferred":[
         "Villa La Angostura"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa La Angostura"
     ],
     "name:heb_x_preferred":[
@@ -118,7 +112,7 @@
         }
     ],
     "wof:id":421174833,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1561793237,
     "wof:name":"Villa la Angostura",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

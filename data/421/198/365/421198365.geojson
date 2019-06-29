@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Villa Uni\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u5c3c\u7fc1\u93ae"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Villa Uni\u00f3n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Uni\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +28,13 @@
     "name:fra_x_preferred":[
         "Villa Uni\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Villa Uni\u00f3n"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Uni\u00f3n"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d6'\u05d4 \u05d0\u05d5\u05e0\u05d9\u05d5\u05df"
     ],
     "name:ita_x_preferred":[
+        "Villa Uni\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "Villa Uni\u00f3n"
     ],
     "name:por_x_preferred":[
@@ -49,7 +43,7 @@
     "name:sco_x_preferred":[
         "Villa Uni\u00f3n"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Villa Uni\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -113,7 +107,7 @@
         }
     ],
     "wof:id":421198365,
-    "wof:lastmodified":1513889590,
+    "wof:lastmodified":1561793246,
     "wof:name":"Villa Uni\u00f3n",
     "wof:parent_id":421197043,
     "wof:placetype":"locality",

@@ -40,9 +40,6 @@
     "name:aym_x_preferred":[
         "Santiago del Estero jisk'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Santiago del Esteroko probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d\u0442'\u044f\u0433\u0430-\u0434\u044d\u043b\u044c-\u042d\u0441\u0442\u044d\u0440\u0430"
     ],
@@ -58,17 +55,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Santiago del Estero"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5730\u4e9a\u54e5\uff0d\u5fb7\u5c14\u57c3\u65af\u7279\u7f57\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Santiago del Estero"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Santiago del Estero"
     ],
     "name:dan_x_preferred":[
         "Provincia de Santiago del Estero"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santiago del Estero"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03ba\u03bf \u03bd\u03c4\u03b5\u03bb \u0395\u03c3\u03c4\u03ad\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Santiago del Estero"
@@ -82,23 +82,20 @@
     "name:epo_x_preferred":[
         "Provinco Santiago del Estero"
     ],
+    "name:eus_x_preferred":[
+        "Santiago del Esteroko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Santiago del Esteron maakunta"
     ],
-    "name:fre_x_preferred":[
-        "Santiago del Estero"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santiago del Estero"
     ],
     "name:glg_x_preferred":[
         "Provincia de Santiago del Estero"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03ba\u03bf \u03bd\u03c4\u03b5\u03bb \u0395\u03c3\u03c4\u03ad\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac5\u0a82\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb \u0aa1\u0ac7\u0ab2 \u0a8d\u0ab8\u0acd\u0a9f\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -121,6 +118,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0cbf\u0caf\u0cbe\u0c97\u0cca \u0ca1\u0cc6\u0cb2\u0ccd \u0c8e\u0cb8\u0ccd\u0c9f\u0cb0\u0ccb \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4\u10da-\u10d4\u10e1\u10e2\u10d4\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud2f0\uc544\uace0\ub378\uc5d0\uc2a4\ud14c\ub85c \uc8fc"
     ],
@@ -133,29 +133,29 @@
     "name:lmo_x_preferred":[
         "Santiago del Estero"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u0442\u0458\u0430\u0433\u043e \u0434\u0435\u043b \u0415\u0441\u0442\u0435\u0440\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093f\u092f\u093e\u0917\u094b \u0926\u0947\u0932 \u090f\u0938\u094d\u0924\u0947\u0930\u094b"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Santiago del Estero"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0458\u0430\u0433\u043e \u0434\u0435\u043b \u0415\u0441\u0442\u0435\u0440\u043e"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435\u0440\u043e \u043c\u0443\u0436"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Santiago del Estero"
+    ],
     "name:nan_x_preferred":[
         "Santiago del Estero S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago del Estero"
     ],
     "name:nob_x_preferred":[
         "Santiago del Estero"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Santiago del Estero"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0646 \u062a\u06cc\u0627\u06af\u0648 \u062f\u06cc\u0644 \u0627\u0633\u062a\u06cc\u0631\u0648"
@@ -169,7 +169,7 @@
     "name:que_x_preferred":[
         "Santiago del Estero wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Santiago del Estero"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +184,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dd2\u0dba\u0dcf\u0d9c\u0ddd \u0da9\u0dd9\u0dbd\u0dca \u0d91\u0dc3\u0dca\u0da7\u0dd9\u0dbb\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Santiago del Estero"
     ],
     "name:spa_x_preferred":[
@@ -238,8 +238,8 @@
     "name:war_x_preferred":[
         "Santiago del Estero"
     ],
-    "name:wel_x_preferred":[
-        "Talaith Santiago del Estero"
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\uff0d\u5fb7\u5c14\u57c3\u65af\u7279\u7f57\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -365,7 +365,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895618,
+    "wof:lastmodified":1561793144,
     "wof:name":"Santiago del Estero",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

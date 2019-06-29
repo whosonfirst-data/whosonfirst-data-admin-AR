@@ -16,19 +16,16 @@
     "name:deu_x_preferred":[
         "Villa Allende"
     ],
-    "name:dut_x_preferred":[
-        "Villa Allende"
-    ],
     "name:eng_x_preferred":[
         "Villa Allende"
     ],
     "name:fra_x_preferred":[
         "Villa Allende"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Allende"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Allende"
     ],
     "name:por_x_preferred":[
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421203295,
-    "wof:lastmodified":1527716193,
+    "wof:lastmodified":1561793233,
     "wof:name":"Villa Allende",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

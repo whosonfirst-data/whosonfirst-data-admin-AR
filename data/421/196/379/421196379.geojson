@@ -19,28 +19,13 @@
     "name:ces_x_preferred":[
         "Camarones"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u99ac\u7f85\u5167\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Camarones"
-    ],
     "name:deu_x_preferred":[
-        "Camarones"
-    ],
-    "name:dut_x_preferred":[
         "Camarones"
     ],
     "name:eng_x_preferred":[
         "Camarones"
     ],
     "name:fra_x_preferred":[
-        "Camarones"
-    ],
-    "name:fre_x_preferred":[
-        "Camarones"
-    ],
-    "name:ger_x_preferred":[
         "Camarones"
     ],
     "name:ita_x_preferred":[
@@ -62,9 +47,6 @@
         "Camarones"
     ],
     "name:slk_x_preferred":[
-        "Camarones"
-    ],
-    "name:slo_x_preferred":[
         "Camarones"
     ],
     "name:spa_x_preferred":[
@@ -124,7 +106,7 @@
         }
     ],
     "wof:id":421196379,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1561793250,
     "wof:name":"Camarones",
     "wof:parent_id":1108718237,
     "wof:placetype":"locality",

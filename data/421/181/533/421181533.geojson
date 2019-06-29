@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Suardi"
     ],
-    "name:dut_x_preferred":[
-        "Suardi"
-    ],
     "name:eng_x_preferred":[
         "Suardi"
     ],
@@ -167,7 +164,7 @@
         }
     ],
     "wof:id":421181533,
-    "wof:lastmodified":1527716320,
+    "wof:lastmodified":1561793244,
     "wof:name":"Suardi",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

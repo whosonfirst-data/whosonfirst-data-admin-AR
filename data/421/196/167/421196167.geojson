@@ -22,19 +22,13 @@
     "name:ceb_x_preferred":[
         "Mariano Acosta"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u91cc\u4e9e\u8afe\u963f\u79d1\u65af\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Mariano Acosta"
-    ],
     "name:eng_x_preferred":[
         "Mariano Acosta"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mariano Acosta"
     ],
     "name:ita_x_preferred":[
@@ -42,9 +36,6 @@
     ],
     "name:nld_x_preferred":[
         "Mariano Acosta"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
     ],
     "name:por_x_preferred":[
         "Mariano Acosta"
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421196167,
-    "wof:lastmodified":1527716361,
+    "wof:lastmodified":1561793249,
     "wof:name":"Mariano Acosta",
     "wof:parent_id":1108718025,
     "wof:placetype":"locality",

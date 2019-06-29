@@ -16,19 +16,13 @@
     "name:ceb_x_preferred":[
         "Villa del Totoral"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u6258\u62c9\u723e\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Villa del Totoral"
-    ],
     "name:eng_x_preferred":[
         "Villa del Totoral"
     ],
     "name:fra_x_preferred":[
         "Villa del Totoral"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa del Totoral"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421198313,
-    "wof:lastmodified":1527716353,
+    "wof:lastmodified":1561793247,
     "wof:name":"Villa del Totoral",
     "wof:parent_id":421203351,
     "wof:placetype":"locality",

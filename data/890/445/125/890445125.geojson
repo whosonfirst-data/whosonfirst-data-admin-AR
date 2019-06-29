@@ -15,16 +15,16 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Humada"
     ],
     "name:eng_x_preferred":[
         "La Humada"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Humada"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "La Humada"
     ],
     "name:por_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890445125,
-    "wof:lastmodified":1527792874,
+    "wof:lastmodified":1561793268,
     "wof:name":"La Humada",
     "wof:parent_id":1108718301,
     "wof:placetype":"locality",

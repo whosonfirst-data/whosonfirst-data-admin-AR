@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "General Galarza"
     ],
-    "name:dut_x_preferred":[
-        "General Galarza"
-    ],
     "name:eng_x_preferred":[
         "General Galarza"
     ],
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421195083,
-    "wof:lastmodified":1527716118,
+    "wof:lastmodified":1561793222,
     "wof:name":"General Galarza",
     "wof:parent_id":421194439,
     "wof:placetype":"locality",

@@ -17,17 +17,11 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0633\u0644\u0641\u0627\u062f\u0648\u0631 \u062f\u064a \u062e\u0648\u062e\u0648\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580 \u0564\u0565 \u053d\u0578\u0582\u056d\u0578\u0582\u0575"
-    ],
     "name:aym_x_preferred":[
         "San Salvador de Jujuy"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631 \u062f\u0647 \u062e\u0648\u062e\u0648\u0626\u06cc"
-    ],
-    "name:baq_x_preferred":[
-        "San Salvador de Jujuy"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440-\u0434\u044d-\u0416\u0443\u0436\u0443\u0439"
@@ -50,20 +44,14 @@
     "name:ces_x_preferred":[
         "San Salvador de Jujuy"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u8428\u5c14\u74e6\u591a-\u5fb7\u80e1\u80e1\u4f0a"
-    ],
-    "name:cze_x_preferred":[
-        "San Salvador de Jujuy"
-    ],
     "name:dan_x_preferred":[
         "San Salvador de Jujuy"
     ],
     "name:deu_x_preferred":[
         "San Salvador de Jujuy"
     ],
-    "name:dut_x_preferred":[
-        "San Salvador de Jujuy"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a3\u03b1\u03bb\u03b2\u03b1\u03bd\u03c4\u03cc\u03c1 \u03bd\u03c4\u03b5 \u03a7\u03bf\u03c5\u03c7\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "San Salvador de Jujuy"
@@ -83,20 +71,8 @@
     "name:fra_x_preferred":[
         "San Salvador de Jujuy"
     ],
-    "name:fre_x_preferred":[
-        "San Salvador de Jujuy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10e1\u10d0\u10da\u10d5\u10d0\u10d3\u10dd\u10e0-\u10d3\u10d4-\u10ee\u10e3\u10ee\u10e3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "San Salvador de Jujuy"
-    ],
     "name:glg_x_preferred":[
         "San Salvador de Jujuy"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a3\u03b1\u03bb\u03b2\u03b1\u03bd\u03c4\u03cc\u03c1 \u03bd\u03c4\u03b5 \u03a7\u03bf\u03c5\u03c7\u03bf\u03cd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0ab8\u0ab2\u0acd\u0ab5\u0aa1\u0acb\u0ab0 \u0aa1\u0ac7 \u0a9c\u0ac1\u0a9c\u0ac1\u0aaf"
@@ -146,7 +122,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0938\u093e\u0932\u094d\u0935\u093e\u0921\u094b\u0930 \u0921\u0940 \u091c\u0942\u091c\u0942\u092f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Salvador de Jujuy"
     ],
     "name:nah_x_preferred":[
@@ -164,9 +140,6 @@
     "name:oci_x_preferred":[
         "San Salvador de Jujuy"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631 \u062f\u0647 \u062e\u0648\u062e\u0648\u0626\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646 \u0633\u0644\u0648\u0627\u062f\u0648\u0631 \u062f\u06cc \u062c\u0648\u062c\u0648\u0626\u06d2"
     ],
@@ -182,9 +155,6 @@
     "name:ron_x_preferred":[
         "San Salvador de Jujuy"
     ],
-    "name:rum_x_preferred":[
-        "San Salvador de Jujuy"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440-\u0434\u0435-\u0416\u0443\u0436\u0443\u0439"
     ],
@@ -197,9 +167,6 @@
         "\u0dc3\u0dd0\u0db1\u0dca \u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dca \u0da9\u0dd2 \u0da2\u0dd4\u0da2\u0dd4\u0dba\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "San Salvador de Jujuy"
-    ],
-    "name:slo_x_preferred":[
         "San Salvador de Jujuy"
     ],
     "name:slv_x_preferred":[
@@ -388,7 +355,7 @@
         }
     ],
     "wof:id":421185855,
-    "wof:lastmodified":1527726511,
+    "wof:lastmodified":1561793263,
     "wof:name":"San Salvador de Jujuy",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

@@ -24,14 +24,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578 \u0544\u0561\u0564\u0580\u056b\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u06cc\u0646"
-    ],
-    "name:baq_x_preferred":[
-        "Puerto Madryn"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09ae\u09be\u09a6\u09cd\u09b0\u09bf\u09a8"
@@ -39,8 +33,8 @@
     "name:bre_x_preferred":[
         "Puerto Madryn"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5fb7\u6797\u6e2f"
+    "name:ces_x_preferred":[
+        "Puerto Madryn"
     ],
     "name:cym_x_preferred":[
         "Puerto Madryn"
@@ -48,16 +42,10 @@
     "name:cym_x_variant":[
         "Porth Madryn"
     ],
-    "name:cze_x_preferred":[
-        "Puerto Madryn"
-    ],
     "name:dan_x_preferred":[
         "Puerto Madryn"
     ],
     "name:deu_x_preferred":[
-        "Puerto Madryn"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Madryn"
     ],
     "name:ell_x_preferred":[
@@ -81,15 +69,6 @@
     "name:fra_x_preferred":[
         "Puerto Madryn"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Madryn"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Madryn"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03ac\u03b4\u03c1\u03b9\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0aae\u0ac7\u0aa1\u0acd\u0ab0\u0ac0\u0aa8"
     ],
@@ -104,6 +83,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0582\u0580\u0565\u057f\u0578 \u0544\u0561\u0564\u0580\u056b\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578 \u0544\u0561\u0564\u0580\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Puerto Madryn"
@@ -129,7 +111,7 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092e\u093e\u0921\u094d\u0930\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puerto Madryn"
     ],
     "name:nld_x_preferred":[
@@ -137,9 +119,6 @@
     ],
     "name:nob_x_preferred":[
         "Puerto Madryn"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Puerto Madryn"
@@ -153,7 +132,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0ddd\u0dbb\u0dca\u0da7\u0ddd \u0db8\u0dd0\u0da9\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Puerto Madryn"
     ],
     "name:spa_x_preferred":[
@@ -185,9 +164,6 @@
     ],
     "name:vie_x_preferred":[
         "Puerto Madryn"
-    ],
-    "name:wel_x_preferred":[
-        "Porth Madryn"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5fb7\u6797\u6e2f"
@@ -325,7 +301,7 @@
         }
     ],
     "wof:id":1141906713,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793312,
     "wof:name":"Puerto Madryn",
     "wof:parent_id":1108718233,
     "wof:placetype":"locality",

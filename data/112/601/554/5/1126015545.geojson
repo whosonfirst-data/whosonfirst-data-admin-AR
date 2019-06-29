@@ -19,10 +19,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Villa Hernandarias"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Hernandarias"
     ],
     "name:por_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126015545,
-    "wof:lastmodified":1553816702,
+    "wof:lastmodified":1561793270,
     "wof:name":"Villa Hernandarias",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

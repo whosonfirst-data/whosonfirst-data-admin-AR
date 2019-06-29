@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Las Grutas"
     ],
-    "name:dut_x_preferred":[
-        "Las Grutas"
-    ],
     "name:eng_x_preferred":[
         "Las Grutas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Grutas"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Las Grutas"
     ],
     "name:spa_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421204551,
-    "wof:lastmodified":1527716177,
+    "wof:lastmodified":1561793231,
     "wof:name":"Las Grutas",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

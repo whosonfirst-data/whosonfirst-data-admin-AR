@@ -20,17 +20,17 @@
     "name:azb_x_preferred":[
         "\u0686\u0627\u0633\u06a9\u0648\u0645\u0648\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u65af\u79d1\u7a46\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:dan_x_preferred":[
         "Chascom\u00fas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chascom\u00fas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c3\u03ba\u03bf\u03bc\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Chascom\u00fas"
@@ -38,17 +38,14 @@
     "name:fao_x_preferred":[
         "Chascom\u00fas"
     ],
-    "name:fre_x_preferred":[
-        "Chascom\u00fas"
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0633\u06a9\u0648\u0645\u0648\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:glg_x_preferred":[
         "Chascom\u00fas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03c3\u03ba\u03bf\u03bc\u03bf\u03cd\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05e1\u05e7\u05d5\u05de\u05d5\u05e1"
@@ -62,14 +59,14 @@
     "name:lit_x_preferred":[
         "\u010caskomusas"
     ],
+    "name:nld_x_preferred":[
+        "Chascom\u00fas"
+    ],
     "name:nno_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:nob_x_preferred":[
         "Chascom\u00fas"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0633\u06a9\u0648\u0645\u0648\u0633"
     ],
     "name:por_x_preferred":[
         "Chascom\u00fas"
@@ -77,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u0441\u043a\u043e\u043c\u0443\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0441\u043a\u043e\u043c\u0443\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u65af\u79d1\u7a46\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1141908073,
-    "wof:lastmodified":1513889011,
+    "wof:lastmodified":1561793313,
     "wof:name":"Chascomus",
     "wof:parent_id":1108717915,
     "wof:placetype":"locality",

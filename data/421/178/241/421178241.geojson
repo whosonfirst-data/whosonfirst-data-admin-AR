@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "La Pare"
     ],
-    "name:dut_x_preferred":[
-        "La Para"
-    ],
     "name:eng_x_preferred":[
         "La Para"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10de\u10d0\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "La Para"
     ],
     "name:nno_x_preferred":[
         "La Para"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":421178241,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1561793260,
     "wof:name":"La Para",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Diamante"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u4e9e\u66fc\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Diamante"
-    ],
     "name:eng_x_preferred":[
         "Diamante"
     ],
     "name:fra_x_preferred":[
-        "Diamante"
-    ],
-    "name:fre_x_preferred":[
         "Diamante"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421204757,
-    "wof:lastmodified":1527716184,
+    "wof:lastmodified":1561793232,
     "wof:name":"Diamante",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

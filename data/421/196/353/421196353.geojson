@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Laguna Limpia"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Laguna Limpia"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Laguna Limpia"
     ],
     "name:por_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421196353,
-    "wof:lastmodified":1527716360,
+    "wof:lastmodified":1561793249,
     "wof:name":"Laguna Limpia",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

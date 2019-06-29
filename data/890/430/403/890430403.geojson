@@ -18,20 +18,17 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u064a\u0643\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u723e\u5c3c\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Guernica"
-    ],
     "name:eng_x_preferred":[
         "Guernica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guernica"
     ],
     "name:jpn_x_preferred":[
         "\u30b2\u30eb\u30cb\u30ab"
+    ],
+    "name:nld_x_preferred":[
+        "Guernica"
     ],
     "name:por_x_preferred":[
         "Guernica"
@@ -41,6 +38,9 @@
     ],
     "name:swe_x_preferred":[
         "Guernica"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u723e\u5c3c\u5361"
     ],
     "qs:name":"Guernica",
     "qs:photos_9r":0,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":890430403,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793266,
     "wof:name":"Guernica",
     "wof:parent_id":1108718061,
     "wof:placetype":"locality",

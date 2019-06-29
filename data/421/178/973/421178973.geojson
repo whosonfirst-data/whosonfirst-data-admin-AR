@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "G\u00e1lvez"
     ],
-    "name:dut_x_preferred":[
-        "G\u00e1lvez"
-    ],
     "name:eng_x_preferred":[
         "G\u00e1lvez"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421178973,
-    "wof:lastmodified":1527717728,
+    "wof:lastmodified":1561793260,
     "wof:name":"G\u00e1lvez",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

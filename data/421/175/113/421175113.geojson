@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sampacho"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sampacho"
     ],
     "name:por_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":421175113,
-    "wof:lastmodified":1513889422,
+    "wof:lastmodified":1561793246,
     "wof:name":"Sampacho",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

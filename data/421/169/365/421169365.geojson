@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sierra Chica"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sierra Chica"
     ],
     "name:pol_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":421169365,
-    "wof:lastmodified":1513889546,
+    "wof:lastmodified":1561793230,
     "wof:name":"Sierra Chica",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

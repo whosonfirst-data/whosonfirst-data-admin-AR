@@ -16,16 +16,10 @@
     "name:afr_x_preferred":[
         "Arias"
     ],
-    "name:alb_x_preferred":[
-        "Arias"
-    ],
     "name:arg_x_preferred":[
         "Arias"
     ],
     "name:ast_x_preferred":[
-        "Arias"
-    ],
-    "name:baq_x_preferred":[
         "Arias"
     ],
     "name:bar_x_preferred":[
@@ -40,19 +34,22 @@
     "name:ceb_x_preferred":[
         "Arias"
     ],
+    "name:ces_x_preferred":[
+        "Arias"
+    ],
     "name:cos_x_preferred":[
         "Arias"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Arias"
     ],
     "name:dan_x_preferred":[
         "Arias"
     ],
-    "name:dsb_x_preferred":[
+    "name:deu_x_preferred":[
         "Arias"
     ],
-    "name:dut_x_preferred":[
+    "name:dsb_x_preferred":[
         "Arias"
     ],
     "name:eml_x_preferred":[
@@ -67,22 +64,22 @@
     "name:est_x_preferred":[
         "Arias"
     ],
+    "name:eus_x_preferred":[
+        "Arias"
+    ],
     "name:fao_x_preferred":[
         "Arias"
     ],
     "name:fin_x_preferred":[
         "Arias"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arias"
     ],
     "name:frr_x_preferred":[
         "Arias"
     ],
     "name:fry_x_preferred":[
-        "Arias"
-    ],
-    "name:ger_x_preferred":[
         "Arias"
     ],
     "name:glg_x_preferred":[
@@ -100,10 +97,10 @@
     "name:hun_x_preferred":[
         "Arias"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Arias"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Arias"
     ],
     "name:ita_x_preferred":[
@@ -148,7 +145,7 @@
     "name:roh_x_preferred":[
         "Arias"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arias"
     ],
     "name:scn_x_preferred":[
@@ -157,13 +154,16 @@
     "name:sco_x_preferred":[
         "Arias"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Arias"
     ],
     "name:slv_x_preferred":[
         "Arias"
     ],
     "name:spa_x_preferred":[
+        "Arias"
+    ],
+    "name:sqi_x_preferred":[
         "Arias"
     ],
     "name:srd_x_preferred":[
@@ -182,9 +182,6 @@
         "\u0410\u0440'\u044f\u0441"
     ],
     "name:vls_x_preferred":[
-        "Arias"
-    ],
-    "name:wel_x_preferred":[
         "Arias"
     ],
     "name:wln_x_preferred":[
@@ -238,7 +235,7 @@
         }
     ],
     "wof:id":421173779,
-    "wof:lastmodified":1527716257,
+    "wof:lastmodified":1561793240,
     "wof:name":"Arias",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

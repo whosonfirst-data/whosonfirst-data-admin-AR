@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "Tolosa"
     ],
-    "name:dut_x_preferred":[
-        "Tolosa"
-    ],
     "name:eng_x_preferred":[
         "Tolosa"
     ],
@@ -116,7 +113,7 @@
         }
     ],
     "wof:id":421202039,
-    "wof:lastmodified":1527716207,
+    "wof:lastmodified":1561793234,
     "wof:name":"Tolosa",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

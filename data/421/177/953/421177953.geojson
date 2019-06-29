@@ -26,13 +26,7 @@
     "name:ceb_x_preferred":[
         "General Pico"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u79d1\u5c07\u8ecd\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "General Pico"
-    ],
-    "name:dut_x_preferred":[
         "General Pico"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "\u062e\u0646\u0631\u0627\u0644 \u067e\u06cc\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
-        "General Pico"
-    ],
-    "name:fre_x_preferred":[
-        "General Pico"
-    ],
-    "name:ger_x_preferred":[
         "General Pico"
     ],
     "name:heb_x_preferred":[
@@ -64,9 +52,6 @@
     ],
     "name:oci_x_preferred":[
         "General Pico"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0646\u0631\u0627\u0644 \u067e\u06cc\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "General Pico"
@@ -232,7 +217,7 @@
         }
     ],
     "wof:id":421177953,
-    "wof:lastmodified":1527716476,
+    "wof:lastmodified":1561793258,
     "wof:name":"General Pico",
     "wof:parent_id":421175285,
     "wof:placetype":"locality",

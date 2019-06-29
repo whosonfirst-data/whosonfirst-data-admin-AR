@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Moj\u00f3n Grande"
     ],
-    "name:dut_x_preferred":[
-        "Moj\u00f3n Grande"
-    ],
     "name:eng_x_preferred":[
         "Moj\u00f3n Grande"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421173565,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561793240,
     "wof:name":"Moj\u00f3n Grande",
     "wof:parent_id":1108718375,
     "wof:placetype":"locality",

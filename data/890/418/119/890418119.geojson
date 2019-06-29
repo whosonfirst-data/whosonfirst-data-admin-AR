@@ -15,23 +15,23 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Veinticinco de Mayo"
     ],
     "name:eng_x_preferred":[
         "Veinticinco de Mayo"
     ],
-    "name:fre_x_preferred":[
-        "Veinticinco de Mayo"
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u0645\u0627\u06cc\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Veinticinco de Mayo"
     ],
     "name:ita_x_preferred":[
         "Veinticinco de Mayo"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u0645\u0627\u06cc\u0648"
+    "name:nld_x_preferred":[
+        "Veinticinco de Mayo"
     ],
     "name:pol_x_preferred":[
         "Veinticinco de Mayo"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890418119,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1561793268,
     "wof:name":"Veinticinco de Mayo",
     "wof:parent_id":421204837,
     "wof:placetype":"locality",

@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Larroque"
     ],
-    "name:dut_x_preferred":[
-        "Larroque"
-    ],
     "name:eng_x_preferred":[
         "Larroque"
     ],
     "name:fra_x_preferred":[
         "Larroque"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Larroque"
     ],
     "name:por_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421174403,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561793238,
     "wof:name":"Larroque",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

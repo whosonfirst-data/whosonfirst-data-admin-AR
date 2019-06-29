@@ -17,12 +17,6 @@
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u65af\u8482\u5716\u897f\u7fc1\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Villa Constituci\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "Villa Constituci\u00f3n"
     ],
@@ -32,7 +26,7 @@
     "name:fra_x_preferred":[
         "Villa Constituci\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Constituci\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -43,9 +37,6 @@
     ],
     "name:nld_x_preferred":[
         "Villa Constituci\u00f3n"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u06cc\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Villa Constituci\u00f3n"
@@ -207,7 +198,7 @@
         }
     ],
     "wof:id":421204623,
-    "wof:lastmodified":1527716185,
+    "wof:lastmodified":1561793233,
     "wof:name":"Villa Constituci\u00f3n",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

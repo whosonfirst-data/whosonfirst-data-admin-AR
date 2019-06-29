@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u99ac\u4e01\u5fb7\u6d1b\u65af\u5b89\u7b2c\u65af"
-    ],
     "name:deu_x_preferred":[
-        "San Mart\u00edn de los Andes"
-    ],
-    "name:dut_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
     "name:eng_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
     "name:fra_x_preferred":[
-        "San Mart\u00edn de los Andes"
-    ],
-    "name:fre_x_preferred":[
-        "San Mart\u00edn de los Andes"
-    ],
-    "name:ger_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
     "name:grn_x_preferred":[
@@ -52,9 +40,6 @@
     "name:lit_x_preferred":[
         "And\u0173 San Martinas"
     ],
-    "name:may_x_preferred":[
-        "San Mart\u00edn de los Andes"
-    ],
     "name:msa_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d-\u0414\u0435-\u041b\u043e\u0441-\u0410\u043d\u0434\u0435\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "San Mart\u00edn de los Andes"
     ],
     "name:spa_x_preferred":[
@@ -137,7 +122,7 @@
         }
     ],
     "wof:id":421193963,
-    "wof:lastmodified":1527716139,
+    "wof:lastmodified":1561793228,
     "wof:name":"San Mart\u00edn de Los Andes",
     "wof:parent_id":421175299,
     "wof:placetype":"locality",

@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0545\u0561\u057a\u0565\u0575\u0578\u0582"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042f\u043f\u0435\u044e"
     ],
@@ -28,8 +25,8 @@
     "name:deu_x_preferred":[
         "Yapey\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "Yapey\u00fa"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c0\u03b5\u03b3\u03b9\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Yapey\u00fa"
@@ -40,14 +37,8 @@
     "name:fra_x_preferred":[
         "Yapey\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Yapey\u00fa"
-    ],
-    "name:ger_x_preferred":[
-        "Yapey\u00fa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03c0\u03b5\u03b3\u03b9\u03bf\u03cd"
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u057a\u0565\u0575\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Yapey\u00fa"
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":421198279,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561793248,
     "wof:name":"Yapeyu",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

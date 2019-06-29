@@ -16,16 +16,13 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0442\u044d\u0440\u0430\u0441"
     ],
-    "name:cze_x_preferred":[
-        "Morteros"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Morteros"
     ],
     "name:eng_x_preferred":[
         "Morteros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Morteros"
     ],
     "name:heb_x_preferred":[
@@ -49,7 +46,7 @@
     "name:por_x_preferred":[
         "Morteros"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Morteros"
     ],
     "name:spa_x_preferred":[
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421195971,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561793223,
     "wof:name":"Morteros",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

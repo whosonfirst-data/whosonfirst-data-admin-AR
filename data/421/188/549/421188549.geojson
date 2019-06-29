@@ -16,13 +16,13 @@
     "name:deu_x_preferred":[
         "Las Toscas"
     ],
-    "name:dut_x_preferred":[
-        "Las Toscas"
-    ],
     "name:eng_x_preferred":[
         "Las Toscas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Las Toscas"
+    ],
+    "name:nld_x_preferred":[
         "Las Toscas"
     ],
     "name:por_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421188549,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1561793241,
     "wof:name":"Las Toscas",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

@@ -19,25 +19,16 @@
     "name:ceb_x_preferred":[
         "Cosqu\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u65af\u91d1"
-    ],
     "name:deu_x_preferred":[
-        "Cosqu\u00edn"
-    ],
-    "name:dut_x_preferred":[
         "Cosqu\u00edn"
     ],
     "name:eng_x_preferred":[
         "Cosqu\u00edn"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0633\u06a9\u06cc\u0646\u060c \u06a9\u0648\u0631\u062f\u0648\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
-        "Cosqu\u00edn"
-    ],
-    "name:fre_x_preferred":[
-        "Cosqu\u00edn"
-    ],
-    "name:ger_x_preferred":[
         "Cosqu\u00edn"
     ],
     "name:ita_x_preferred":[
@@ -48,9 +39,6 @@
     ],
     "name:nld_x_preferred":[
         "Cosqu\u00edn"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0633\u06a9\u06cc\u0646\u060c \u06a9\u0648\u0631\u062f\u0648\u0628\u0627"
     ],
     "name:pol_x_preferred":[
         "Cosqu\u00edn"
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":421172437,
-    "wof:lastmodified":1527716301,
+    "wof:lastmodified":1561793242,
     "wof:name":"Cosqu\u00edn",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

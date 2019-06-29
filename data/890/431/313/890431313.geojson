@@ -15,19 +15,16 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5b54\u585e\u666e\u897f\u7fc1\u5fb7\u62c9\u8b1d\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Concepci\u00f3n de la Sierra"
-    ],
     "name:eng_x_preferred":[
         "Concepci\u00f3n de la Sierra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Concepci\u00f3n de la Sierra"
     ],
     "name:ita_x_preferred":[
+        "Concepci\u00f3n de la Sierra"
+    ],
+    "name:nld_x_preferred":[
         "Concepci\u00f3n de la Sierra"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u0439\u043e\u043d-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0454\u0440\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u585e\u666e\u897f\u7fc1\u5fb7\u62c9\u8b1d\u62c9"
     ],
     "qs:name":"Concepci\u00f3n de la Sierra",
     "qs:photos_9r":0,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890431313,
-    "wof:lastmodified":1527735414,
+    "wof:lastmodified":1561793266,
     "wof:name":"Concepci\u00f3n de la Sierra",
     "wof:parent_id":1108718369,
     "wof:placetype":"locality",

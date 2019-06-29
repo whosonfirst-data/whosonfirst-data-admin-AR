@@ -16,16 +16,16 @@
     "name:ceb_x_preferred":[
         "Santo Pip\u00f3"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santo Pip\u00f3"
     ],
     "name:eng_x_preferred":[
         "Santo Pip\u00f3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santo Pip\u00f3"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Santo Pip\u00f3"
     ],
     "name:por_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":421191931,
-    "wof:lastmodified":1527716370,
+    "wof:lastmodified":1561793252,
     "wof:name":"Santo Pip\u00f3",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

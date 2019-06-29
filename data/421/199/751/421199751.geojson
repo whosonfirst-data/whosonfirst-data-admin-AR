@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Famaill\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u9081\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Famaill\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Famaill\u00e1"
     ],
     "name:eng_x_preferred":[
         "Famaill\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Famaill\u00e1"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Famaill\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421199751,
-    "wof:lastmodified":1527716415,
+    "wof:lastmodified":1561793255,
     "wof:name":"Famaill\u00e1",
     "wof:parent_id":421182825,
     "wof:placetype":"locality",

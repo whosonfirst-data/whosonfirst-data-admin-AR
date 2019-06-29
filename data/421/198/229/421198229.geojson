@@ -22,16 +22,13 @@
     "name:dan_x_preferred":[
         "Las Perdices"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Las Perdices"
     ],
     "name:eng_x_preferred":[
         "Las Perdices"
     ],
-    "name:fre_x_preferred":[
-        "Las Perdices"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Perdices"
     ],
     "name:ind_x_preferred":[
@@ -43,10 +40,13 @@
     "name:nds_x_preferred":[
         "Las Perdices"
     ],
+    "name:nld_x_preferred":[
+        "Las Perdices"
+    ],
     "name:por_x_preferred":[
         "Las Perdices"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Las Perdices"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421198229,
-    "wof:lastmodified":1513889248,
+    "wof:lastmodified":1561793247,
     "wof:name":"Las Perdices",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

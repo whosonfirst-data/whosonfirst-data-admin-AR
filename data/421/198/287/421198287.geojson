@@ -19,13 +19,13 @@
     "name:deu_x_preferred":[
         "Achira"
     ],
-    "name:dut_x_preferred":[
-        "Achiras"
-    ],
     "name:eng_x_preferred":[
         "Achiras"
     ],
     "name:glg_x_preferred":[
+        "Achiras"
+    ],
+    "name:nld_x_preferred":[
         "Achiras"
     ],
     "name:pol_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":421198287,
-    "wof:lastmodified":1527716348,
+    "wof:lastmodified":1561793247,
     "wof:name":"Achiras",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

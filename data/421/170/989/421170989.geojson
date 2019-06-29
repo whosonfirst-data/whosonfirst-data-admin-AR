@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5b89\u5361\u65af\u8482"
-    ],
-    "name:dut_x_preferred":[
-        "Ancasti"
-    ],
     "name:eng_x_preferred":[
         "Ancasti"
     ],
@@ -28,14 +22,11 @@
     "name:fra_x_preferred":[
         "Ancasti"
     ],
-    "name:fre_x_preferred":[
-        "Ancasti"
-    ],
     "name:ita_x_preferred":[
         "Ancasti"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u06a9\u0633\u062a\u06cc"
+    "name:nld_x_preferred":[
+        "Ancasti"
     ],
     "name:por_x_preferred":[
         "Ancasti"
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421170989,
-    "wof:lastmodified":1527716475,
+    "wof:lastmodified":1561793258,
     "wof:name":"Ancasti",
     "wof:parent_id":1108718143,
     "wof:placetype":"locality",

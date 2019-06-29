@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Colonia San Bartolom\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Colonia San Bartolom\u00e9"
     ],
     "name:por_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1126028449,
-    "wof:lastmodified":1513889129,
+    "wof:lastmodified":1561793269,
     "wof:name":"Colonia San Bartolom\u00e9",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

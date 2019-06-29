@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Balde"
     ],
-    "name:dut_x_preferred":[
-        "Balde"
-    ],
     "name:eng_x_preferred":[
         "Balde"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421195353,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561793220,
     "wof:name":"Balde",
     "wof:parent_id":1108718445,
     "wof:placetype":"locality",
