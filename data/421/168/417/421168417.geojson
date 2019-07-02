@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Ca\u00f1ada de G\u00f3mez"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5c3c\u4e9e\u9054\u5fb7\u6208\u6885\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Ca\u00f1ada de G\u00f3mez"
-    ],
     "name:eng_x_preferred":[
         "Ca\u00f1ada de G\u00f3mez"
     ],
     "name:fra_x_preferred":[
-        "Ca\u00f1ada de G\u00f3mez"
-    ],
-    "name:fre_x_preferred":[
         "Ca\u00f1ada de G\u00f3mez"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421168417,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561793217,
     "wof:name":"Ca\u00f1ada de G\u00f3mez",
     "wof:parent_id":421203251,
     "wof:placetype":"locality",

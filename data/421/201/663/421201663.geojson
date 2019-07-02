@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Quem\u00fa Quem\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u7a46\u514b\u7a46"
-    ],
-    "name:dut_x_preferred":[
-        "Quem\u00fa Quem\u00fa"
-    ],
     "name:eng_x_preferred":[
         "Quem\u00fa Quem\u00fa"
     ],
     "name:fra_x_preferred":[
-        "Quem\u00fa Quem\u00fa"
-    ],
-    "name:fre_x_preferred":[
         "Quem\u00fa Quem\u00fa"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421201663,
-    "wof:lastmodified":1527716440,
+    "wof:lastmodified":1561793256,
     "wof:name":"Quem\u00fa Quem\u00fa",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

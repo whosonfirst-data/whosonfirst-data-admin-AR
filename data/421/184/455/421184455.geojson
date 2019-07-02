@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Villaguay"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9e\u74dc\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Villaguay"
-    ],
-    "name:dut_x_preferred":[
         "Villaguay"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "\u0648\u06cc\u06cc\u0627\u06af\u0648\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Villaguay"
-    ],
-    "name:fre_x_preferred":[
-        "Villaguay"
-    ],
-    "name:ger_x_preferred":[
         "Villaguay"
     ],
     "name:ita_x_preferred":[
@@ -51,9 +39,6 @@
     ],
     "name:nld_x_preferred":[
         "Villaguay"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u06cc\u0627\u06af\u0648\u0627\u06cc"
     ],
     "name:por_x_preferred":[
         "Villaguay"
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":421184455,
-    "wof:lastmodified":1527716446,
+    "wof:lastmodified":1561793257,
     "wof:name":"Villaguay",
     "wof:parent_id":1108718259,
     "wof:placetype":"locality",

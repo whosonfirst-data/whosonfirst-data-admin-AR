@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Balneario El C\u00f3ndor"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balneario El C\u00f3ndor"
     ],
     "name:eng_x_preferred":[
-        "Balneario El C\u00f3ndor"
-    ],
-    "name:ger_x_preferred":[
         "Balneario El C\u00f3ndor"
     ],
     "name:nld_x_preferred":[
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421174443,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1561793238,
     "wof:name":"Balneario El C\u00f3ndor",
     "wof:parent_id":421186207,
     "wof:placetype":"locality",

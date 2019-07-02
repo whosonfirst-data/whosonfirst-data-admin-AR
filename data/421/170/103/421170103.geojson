@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Iruya"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u9b6f\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Iruya"
-    ],
-    "name:dut_x_preferred":[
         "Iruya"
     ],
     "name:eng_x_preferred":[
         "Iruya"
     ],
     "name:fra_x_preferred":[
-        "Iruya"
-    ],
-    "name:fre_x_preferred":[
-        "Iruya"
-    ],
-    "name:ger_x_preferred":[
         "Iruya"
     ],
     "name:nld_x_preferred":[
@@ -95,7 +83,7 @@
         }
     ],
     "wof:id":421170103,
-    "wof:lastmodified":1513889206,
+    "wof:lastmodified":1561793258,
     "wof:name":"Iruya",
     "wof:parent_id":421171489,
     "wof:placetype":"locality",

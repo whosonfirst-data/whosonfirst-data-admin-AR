@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Capilla del Monte"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u76ae\u4e9e\u5fb7\u723e\u8499\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Capilla del Monte"
-    ],
-    "name:dut_x_preferred":[
         "Capilla del Monte"
     ],
     "name:eng_x_preferred":[
         "Capilla del Monte"
     ],
-    "name:fre_x_preferred":[
-        "Capilla del Monte"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Capilla del Monte"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421195641,
-    "wof:lastmodified":1527716124,
+    "wof:lastmodified":1561793225,
     "wof:name":"Capilla del Monte",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

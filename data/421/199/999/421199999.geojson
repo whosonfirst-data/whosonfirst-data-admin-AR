@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
-    "name:dut_x_preferred":[
-        "Vicu\u00f1a Mackenna"
-    ],
     "name:eng_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
     "name:por_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421199999,
-    "wof:lastmodified":1527716410,
+    "wof:lastmodified":1561793254,
     "wof:name":"Vicu\u00f1a Mackenna",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

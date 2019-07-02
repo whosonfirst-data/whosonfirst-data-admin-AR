@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Departamento Marcos Ju\u00e1rez"
     ],
-    "name:dut_x_preferred":[
-        "Guatimoz\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Guatimoz\u00edn"
     ],
@@ -39,6 +36,9 @@
     ],
     "name:nld_x_preferred":[
         "Marcos Ju\u00e1rez"
+    ],
+    "name:nld_x_variant":[
+        "Guatimoz\u00edn"
     ],
     "name:por_x_preferred":[
         "Marcos Ju\u00e1rez"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":421195321,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561793226,
     "wof:name":"Guatimoz\u00edn",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

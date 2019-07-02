@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u96f7\u73bb\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Laborde"
-    ],
-    "name:dut_x_preferred":[
         "Laborde"
     ],
     "name:eng_x_preferred":[
@@ -28,14 +22,11 @@
     "name:fra_x_preferred":[
         "Laborde"
     ],
-    "name:fre_x_preferred":[
-        "Laborde"
-    ],
-    "name:ger_x_preferred":[
-        "Laborde"
-    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30dc\u30eb\u30c7"
+    ],
+    "name:nld_x_preferred":[
+        "Laborde"
     ],
     "name:oci_x_preferred":[
         "Laborde"
@@ -57,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Las Liebres"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u73bb\u7279"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421195679,
-    "wof:lastmodified":1527716124,
+    "wof:lastmodified":1561793225,
     "wof:name":"Laborde",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

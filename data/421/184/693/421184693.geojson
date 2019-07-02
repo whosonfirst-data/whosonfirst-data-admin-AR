@@ -25,17 +25,14 @@
     "name:ceb_x_preferred":[
         "Burzaco"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u723e\u85a9\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Burzaco"
     ],
     "name:deu_x_preferred":[
         "Burzaco"
     ],
-    "name:dut_x_preferred":[
-        "Burzaco"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03b6\u03ac\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Burzaco"
@@ -46,17 +43,8 @@
     "name:fin_x_preferred":[
         "Burzaco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Burzaco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e0\u10e1\u10d0\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Burzaco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c1\u03b6\u03ac\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab0\u0acd\u0a9d\u0abe\u0a95\u0acb"
@@ -91,7 +79,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0930\u094d\u091c\u093c\u0945\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Burzaco"
     ],
     "name:nld_x_preferred":[
@@ -99,9 +87,6 @@
     ],
     "name:nob_x_preferred":[
         "Burzaco"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631\u0633\u0627\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Burzaco"
@@ -198,7 +183,7 @@
         }
     ],
     "wof:id":421184693,
-    "wof:lastmodified":1527716446,
+    "wof:lastmodified":1561793257,
     "wof:name":"Burzaco",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

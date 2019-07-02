@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Villa Amelia"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Villa Amelia"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Amelia"
     ],
     "name:swe_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421171879,
-    "wof:lastmodified":1527726493,
+    "wof:lastmodified":1561793262,
     "wof:name":"Villa Amelia",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

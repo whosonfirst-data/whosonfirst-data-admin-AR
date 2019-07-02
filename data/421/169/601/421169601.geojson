@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0643\u0648\u0627\u0631\u062a\u0648\u060c \u0642\u0631\u0637\u0628\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0578 \u053f\u0578\u0582\u0561\u0580\u057f\u0578"
-    ],
     "name:aze_x_preferred":[
         "Rio-Kuarto"
     ],
@@ -35,17 +32,14 @@
     "name:ceb_x_preferred":[
         "R\u00edo Cuarto"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5965\u5938\u5c14\u6258"
-    ],
     "name:dan_x_preferred":[
         "R\u00edo Cuarto"
     ],
     "name:deu_x_preferred":[
         "R\u00edo Cuarto"
     ],
-    "name:dut_x_preferred":[
-        "R\u00edo Cuarto"
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03bf\u03c5\u03ac\u03c1\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "R\u00edo Cuarto"
@@ -62,20 +56,8 @@
     "name:fra_x_preferred":[
         "R\u00edo Cuarto"
     ],
-    "name:fre_x_preferred":[
-        "R\u00edo Cuarto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dd-\u10d9\u10e3\u10d0\u10e0\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00edo Cuarto"
-    ],
     "name:glg_x_preferred":[
         "R\u00edo Cuarto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03bf \u039a\u03bf\u03c5\u03ac\u03c1\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb \u0a95\u0ac1\u0a86\u0ab0\u0acd\u0a9f\u0acb"
@@ -119,14 +101,14 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0913 \u0915\u0941\u0906\u0930\u094d\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rio Cuarto"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00edo Cuarto"
     ],
     "name:nob_x_preferred":[
         "R\u00edo Cuarto"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0648 \u06a9\u0648\u0627\u0631\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "R\u00edo Cuarto"
@@ -134,7 +116,7 @@
     "name:por_x_preferred":[
         "R\u00edo Cuarto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u00edo Cuarto"
     ],
     "name:rus_x_preferred":[
@@ -322,7 +304,7 @@
         }
     ],
     "wof:id":421169601,
-    "wof:lastmodified":1527716174,
+    "wof:lastmodified":1561793231,
     "wof:name":"R\u00edo Cuarto",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

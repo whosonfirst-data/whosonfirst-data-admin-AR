@@ -17,19 +17,16 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0643\u064a\u0646 \u063a\u0648\u0646\u0632\u0627\u0644\u064a\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u5091\u6606\u5ca1\u85a9\u96f7\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
     "name:eng_x_preferred":[
         "Joaqu\u00edn V. Gonz\u00e1lez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
     "name:por_x_preferred":[
@@ -43,6 +40,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0430\u043a\u0456\u043d-\u0412\u0456\u043a\u0442\u043e\u0440-\u0413\u043e\u043d\u0441\u0430\u043b\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u6606\u5ca1\u85a9\u96f7\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1141906765,
-    "wof:lastmodified":1513889208,
+    "wof:lastmodified":1561793312,
     "wof:name":"Joaquin V. Gonzalez",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

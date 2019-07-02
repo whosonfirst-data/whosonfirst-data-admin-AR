@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0627\u0633\u060c \u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062f\u064a\u0644 \u0627\u0633\u062a\u064a\u0631\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u91cc\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fr\u00edas"
     ],
     "name:eng_x_preferred":[
         "Fr\u00edas"
     ],
-    "name:fre_x_preferred":[
-        "Fr\u00edas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fr\u00edas"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "Friasas"
+    ],
+    "name:nld_x_preferred":[
+        "Fr\u00edas"
     ],
     "name:por_x_preferred":[
         "Fr\u00edas"
@@ -49,6 +46,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0456\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u91cc\u4e9e\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1141908103,
-    "wof:lastmodified":1553816737,
+    "wof:lastmodified":1561793311,
     "wof:name":"Frias",
     "wof:parent_id":1108718153,
     "wof:placetype":"locality",

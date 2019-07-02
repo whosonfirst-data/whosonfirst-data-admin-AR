@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Matheu"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Matheu"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Matheu"
     ],
     "name:sco_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421176687,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561793261,
     "wof:name":"Matheu",
     "wof:parent_id":1108717925,
     "wof:placetype":"locality",

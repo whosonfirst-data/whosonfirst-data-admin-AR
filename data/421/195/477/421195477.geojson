@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Almafuerte"
     ],
-    "name:baq_x_preferred":[
-        "Almafuerte"
-    ],
     "name:bar_x_preferred":[
         "Almafuerte"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Almafuerte"
     ],
+    "name:ces_x_preferred":[
+        "Almafuerte"
+    ],
     "name:cos_x_preferred":[
         "Almafuerte"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Almafuerte"
     ],
     "name:dan_x_preferred":[
         "Almafuerte"
     ],
     "name:deu_x_preferred":[
-        "Almafuerte"
-    ],
-    "name:dut_x_preferred":[
         "Almafuerte"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +58,22 @@
     "name:est_x_preferred":[
         "Almafuerte"
     ],
+    "name:eus_x_preferred":[
+        "Almafuerte"
+    ],
     "name:fin_x_preferred":[
         "Almafuerte"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Almafuerte"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Almafuerte"
     ],
     "name:frp_x_preferred":[
         "Almafuerte"
     ],
     "name:fur_x_preferred":[
-        "Almafuerte"
-    ],
-    "name:ger_x_preferred":[
         "Almafuerte"
     ],
     "name:gla_x_preferred":[
@@ -136,13 +133,13 @@
     "name:ltz_x_preferred":[
         "Almafuerte"
     ],
-    "name:may_x_preferred":[
-        "Almafuerte"
-    ],
     "name:min_x_preferred":[
         "Almafuerte"
     ],
     "name:mlg_x_preferred":[
+        "Almafuerte"
+    ],
+    "name:msa_x_preferred":[
         "Almafuerte"
     ],
     "name:nap_x_preferred":[
@@ -190,7 +187,7 @@
     "name:roh_x_preferred":[
         "Almafuerte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Almafuerte"
     ],
     "name:scn_x_preferred":[
@@ -199,7 +196,7 @@
     "name:sco_x_preferred":[
         "Almafuerte"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Almafuerte"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +230,6 @@
         "Almafuerte"
     ],
     "name:vol_x_preferred":[
-        "Almafuerte"
-    ],
-    "name:wel_x_preferred":[
         "Almafuerte"
     ],
     "name:wln_x_preferred":[
@@ -298,7 +292,7 @@
         }
     ],
     "wof:id":421195477,
-    "wof:lastmodified":1527716118,
+    "wof:lastmodified":1561793222,
     "wof:name":"Almafuerte",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

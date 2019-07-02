@@ -16,9 +16,6 @@
     "name:deu_x_preferred":[
         "Departamento General San Mart\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Arroyo Cabral"
-    ],
     "name:eng_x_preferred":[
         "Arroyo Cabral"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:nld_x_preferred":[
         "General San Mart\u00edn"
+    ],
+    "name:nld_x_variant":[
+        "Arroyo Cabral"
     ],
     "name:nob_x_preferred":[
         "Arroyo Cabral"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":421183119,
-    "wof:lastmodified":1513888938,
+    "wof:lastmodified":1561793259,
     "wof:name":"Arroyo Cabral",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

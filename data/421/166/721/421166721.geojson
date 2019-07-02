@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Villa Paranacito"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u7d0d\u897f\u6258\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "Villa Paranacito"
-    ],
-    "name:dut_x_preferred":[
         "Villa Paranacito"
     ],
     "name:eng_x_preferred":[
@@ -31,11 +25,8 @@
     "name:fra_x_preferred":[
         "Villa Paranacito"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Paranacito"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Paranacito"
     ],
     "name:ita_x_preferred":[
         "Villa Paranacito"
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421166721,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1561793219,
     "wof:name":"Villa Paranacito",
     "wof:parent_id":421171503,
     "wof:placetype":"locality",

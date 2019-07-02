@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a\u0646\u062a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u057c\u056b\u0565\u0576\u057f\u0565\u057d"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0631\u06cc\u0646\u062a\u0633"
-    ],
-    "name:baq_x_preferred":[
-        "Corrientes"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0440\u044b\u0435\u043d\u0442\u044d\u0441"
@@ -40,10 +34,7 @@
     "name:cat_x_preferred":[
         "Corrientes"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8fde\u7279\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Corrientes"
     ],
     "name:dan_x_preferred":[
@@ -52,13 +43,16 @@
     "name:deu_x_preferred":[
         "Corrientes"
     ],
-    "name:dut_x_preferred":[
-        "Corrientes"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03b9\u03ad\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Corrientes"
     ],
     "name:epo_x_preferred":[
+        "Corrientes"
+    ],
+    "name:eus_x_preferred":[
         "Corrientes"
     ],
     "name:fas_x_preferred":[
@@ -70,20 +64,8 @@
     "name:fra_x_preferred":[
         "Corrientes"
     ],
-    "name:fre_x_preferred":[
-        "Corrientes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d8\u10d4\u10dc\u10e2\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Corrientes"
-    ],
     "name:glg_x_preferred":[
         "Corrientes"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03b9\u03ad\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:grn_x_preferred":[
         "Taragui"
@@ -96,6 +78,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0930\u093f\u092f\u0947\u0928\u094d\u091f\u0947\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057c\u056b\u0565\u0576\u057f\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Corrientes"
@@ -127,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0930\u093f\u090f\u0902\u091f\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Corrientes"
     ],
     "name:nah_x_preferred":[
@@ -144,9 +129,6 @@
     ],
     "name:oci_x_preferred":[
         "Corrientes"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u06cc\u0646\u062a\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u0631\u06cc\u0626\u0646\u062a\u0633"
@@ -169,7 +151,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0dd9\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Corrientes"
     ],
     "name:spa_x_preferred":[
@@ -343,7 +325,7 @@
         }
     ],
     "wof:id":890442849,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793268,
     "wof:name":"Corrientes",
     "wof:parent_id":1108718171,
     "wof:placetype":"locality",

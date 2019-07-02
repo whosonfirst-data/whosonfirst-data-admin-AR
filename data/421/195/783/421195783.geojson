@@ -22,16 +22,10 @@
     "name:deu_x_preferred":[
         "Mar de Aj\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Mar de Aj\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Mar de Aj\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Mar de Aj\u00f3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mar de Aj\u00f3"
     ],
     "name:jpn_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421195783,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561793223,
     "wof:name":"Mar de Aj\u00f3",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

@@ -13,34 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053c\u0561 \u053f\u056b\u0561\u056f\u0561"
-    ],
     "name:cat_x_preferred":[
         "La Quiaca"
     ],
     "name:ceb_x_preferred":[
         "La Quiaca"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u57fa\u4e9e\u5361"
-    ],
     "name:deu_x_preferred":[
-        "La Quiaca"
-    ],
-    "name:dut_x_preferred":[
         "La Quiaca"
     ],
     "name:eng_x_preferred":[
         "La Quiaca"
     ],
     "name:fra_x_preferred":[
-        "La Quiaca"
-    ],
-    "name:fre_x_preferred":[
-        "La Quiaca"
-    ],
-    "name:ger_x_preferred":[
         "La Quiaca"
     ],
     "name:heb_x_preferred":[
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":421174281,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1561793236,
     "wof:name":"La Quiaca",
     "wof:parent_id":421174419,
     "wof:placetype":"locality",

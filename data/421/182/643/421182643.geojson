@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Loreto"
     ],
-    "name:dut_x_preferred":[
-        "Loreto"
-    ],
     "name:eng_x_preferred":[
         "Loreto"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421182643,
-    "wof:lastmodified":1527726428,
+    "wof:lastmodified":1561793260,
     "wof:name":"Loreto",
     "wof:parent_id":421203247,
     "wof:placetype":"locality",

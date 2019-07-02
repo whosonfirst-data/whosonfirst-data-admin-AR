@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Palo Santo"
-    ],
     "name:eng_x_preferred":[
         "Palo Santo"
     ],
@@ -24,6 +21,9 @@
     ],
     "name:lit_x_preferred":[
         "Palo santo"
+    ],
+    "name:nld_x_preferred":[
+        "Palo Santo"
     ],
     "name:nor_x_preferred":[
         "Palo santo"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421195463,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1561793222,
     "wof:name":"Palo Santo",
     "wof:parent_id":421200145,
     "wof:placetype":"locality",

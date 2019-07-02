@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Santa Rosa de Calamuchita"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Rosa de Calamuchita"
     ],
     "name:eng_x_preferred":[
         "Santa Rosa de Calamuchita"
     ],
-    "name:fre_x_preferred":[
-        "Santa Rosa de Calamuchita"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Rosa de Calamuchita"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421200019,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561793256,
     "wof:name":"Santa Rosa de Calamuchita",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

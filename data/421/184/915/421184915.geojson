@@ -25,14 +25,11 @@
     "name:ceb_x_preferred":[
         "Rafael Castillo"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6590\u723e\u5361\u65af\u8482\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Rafael Castillo"
     ],
-    "name:dut_x_preferred":[
-        "Rafael Castillo"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c6\u03b1\u03ad\u03bb \u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Rafael Castillo"
@@ -46,14 +43,8 @@
     "name:fin_x_preferred":[
         "Rafael Castillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rafael Castillo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e4\u10d0\u10d4\u10da-\u10d9\u10d0\u10e1\u10e2\u10d8\u10da\u10d8\u10dd"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03c6\u03b1\u03ad\u03bb \u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aab\u0ac7\u0ab2 \u0a95\u0ac7\u0ab8\u0acd\u0a9f\u0abf\u0ab2\u0acb"
@@ -88,14 +79,14 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u092b\u0947\u0932 \u0915\u0945\u0938\u094d\u091f\u093f\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Rafael Castillo"
+    ],
+    "name:nld_x_preferred":[
         "Rafael Castillo"
     ],
     "name:nob_x_preferred":[
         "Rafael Castillo"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0641\u0627\u0626\u0644 \u06a9\u0627\u0633\u062a\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Rafael Castillo"
@@ -195,7 +186,7 @@
         }
     ],
     "wof:id":421184915,
-    "wof:lastmodified":1527716448,
+    "wof:lastmodified":1561793257,
     "wof:name":"Rafael Castillo",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

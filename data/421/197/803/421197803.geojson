@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Trevelin"
-    ],
     "name:bre_x_preferred":[
         "Trevelin"
     ],
@@ -25,9 +22,6 @@
     "name:cym_x_preferred":[
         "Trevelin"
     ],
-    "name:dut_x_preferred":[
-        "Trevelin"
-    ],
     "name:eng_x_preferred":[
         "Trevelin"
     ],
@@ -35,9 +29,6 @@
         "Trevelin"
     ],
     "name:fra_x_preferred":[
-        "Trevel\u00edn"
-    ],
-    "name:fre_x_preferred":[
         "Trevel\u00edn"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +57,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0432\u0435\u043b\u0456\u043d"
-    ],
-    "name:wel_x_preferred":[
-        "Trevelin"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421197803,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1561793254,
     "wof:name":"Trevel\u00edn",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

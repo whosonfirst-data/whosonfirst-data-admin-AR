@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u062a\u0627 \u0623\u0648\u0644\u064a\u0641\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u056c\u0565\u057f\u0561 \u0555\u056c\u056b\u057e\u056b\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0644\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
     ],
@@ -31,13 +28,7 @@
     "name:ces_x_preferred":[
         "Caleta Olivia"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u840a\u5854\u5967\u5229\u7dad\u4e9e"
-    ],
     "name:cym_x_preferred":[
-        "Caleta Olivia"
-    ],
-    "name:cze_x_preferred":[
         "Caleta Olivia"
     ],
     "name:dan_x_preferred":[
@@ -46,8 +37,8 @@
     "name:deu_x_preferred":[
         "Caleta Olivia"
     ],
-    "name:dut_x_preferred":[
-        "Caleta Olivia"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ad\u03c4\u03b1 \u039f\u03bb\u03af\u03b2\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Caleta Olivia"
@@ -63,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Caleta Olivia"
-    ],
-    "name:fre_x_preferred":[
-        "Caleta Olivia"
-    ],
-    "name:ger_x_preferred":[
-        "Caleta Olivia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03ad\u03c4\u03b1 \u039f\u03bb\u03af\u03b2\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab2\u0ac7\u0a9f\u0abe \u0a93\u0ab2\u0ac0\u0ab5\u0abf\u0a86"
@@ -109,14 +91,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0932\u094d\u091f\u093e \u0913\u0932\u093f\u0935\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Caleta Olivia"
+    ],
+    "name:nld_x_preferred":[
         "Caleta Olivia"
     ],
     "name:nob_x_preferred":[
         "Caleta Olivia"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0644\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Caleta Olivia"
@@ -131,9 +113,6 @@
         "\u0d9a\u0dd0\u0dbd\u0dda\u0da7\u0dcf \u0d94\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Caleta Olivia"
-    ],
-    "name:slo_x_preferred":[
         "Caleta Olivia"
     ],
     "name:spa_x_preferred":[
@@ -161,9 +140,6 @@
         "\u06a9\u0627\u0644\u06cc\u062a\u0627 \u0627\u0648\u0644\u06cc\u0648\u06cc\u0627"
     ],
     "name:vie_x_preferred":[
-        "Caleta Olivia"
-    ],
-    "name:wel_x_preferred":[
         "Caleta Olivia"
     ],
     "name:zho_x_preferred":[
@@ -219,7 +195,7 @@
         }
     ],
     "wof:id":421197531,
-    "wof:lastmodified":1527716404,
+    "wof:lastmodified":1561793254,
     "wof:name":"Caleta Olivia",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

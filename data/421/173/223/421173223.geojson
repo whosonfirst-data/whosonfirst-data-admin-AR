@@ -16,19 +16,16 @@
     "name:ceb_x_preferred":[
         "El Corcovado"
     ],
-    "name:dut_x_preferred":[
-        "Corcovado"
-    ],
     "name:eng_x_preferred":[
         "Corcovado"
     ],
     "name:fra_x_preferred":[
         "Corcovado"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Corcovado"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Corcovado"
     ],
     "name:spa_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421173223,
-    "wof:lastmodified":1527716259,
+    "wof:lastmodified":1561793240,
     "wof:name":"Corcovado",
     "wof:parent_id":421175301,
     "wof:placetype":"locality",

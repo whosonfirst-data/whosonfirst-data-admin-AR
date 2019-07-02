@@ -15,19 +15,16 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u963f\u5229\u79d1"
-    ],
-    "name:dut_x_preferred":[
-        "Realic\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Realic\u00f3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Realic\u00f3"
     ],
     "name:ita_x_preferred":[
+        "Realic\u00f3"
+    ],
+    "name:nld_x_preferred":[
         "Realic\u00f3"
     ],
     "name:por_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0430\u043b\u0456\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u963f\u5229\u79d1"
     ],
     "qs:name":"Realic\u00f3",
     "qs:photos_9r":0,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890439943,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561793266,
     "wof:name":"Realic\u00f3",
     "wof:parent_id":1108718317,
     "wof:placetype":"locality",

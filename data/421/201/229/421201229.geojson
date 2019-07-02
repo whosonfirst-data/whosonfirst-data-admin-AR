@@ -25,16 +25,13 @@
     "name:deu_x_preferred":[
         "Puente del Inca"
     ],
-    "name:dut_x_preferred":[
-        "Puente del Inca"
-    ],
     "name:eng_x_preferred":[
         "Puente del Inca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puente del Inca"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Puente del Inca"
     ],
     "name:oci_x_preferred":[
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":421201229,
-    "wof:lastmodified":1527716432,
+    "wof:lastmodified":1561793256,
     "wof:name":"Puente del Inca",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

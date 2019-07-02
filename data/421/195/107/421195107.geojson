@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "Fr\u00edas"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u91cc\u4e9e\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Fr\u00edas"
-    ],
-    "name:dut_x_preferred":[
         "Fr\u00edas"
     ],
     "name:eng_x_preferred":[
         "Fr\u00edas"
     ],
     "name:fra_x_preferred":[
-        "Fr\u00edas"
-    ],
-    "name:fre_x_preferred":[
-        "Fr\u00edas"
-    ],
-    "name:ger_x_preferred":[
         "Fr\u00edas"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421195107,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561793224,
     "wof:name":"Fr\u00edas",
     "wof:parent_id":1108718479,
     "wof:placetype":"locality",

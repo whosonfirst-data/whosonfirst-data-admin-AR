@@ -14,31 +14,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
-    ],
     "name:ceb_x_preferred":[
         "Chos Malal"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u65af\u99ac\u62c9\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Chos Malal"
-    ],
-    "name:dut_x_preferred":[
         "Chos Malal"
     ],
     "name:eng_x_preferred":[
         "Chos Malal"
     ],
     "name:fra_x_preferred":[
-        "Chos Malal"
-    ],
-    "name:fre_x_preferred":[
-        "Chos Malal"
-    ],
-    "name:ger_x_preferred":[
         "Chos Malal"
     ],
     "name:glg_x_preferred":[
@@ -69,9 +54,6 @@
         "Chos Malal"
     ],
     "name:ron_x_preferred":[
-        "Chos Malal"
-    ],
-    "name:rum_x_preferred":[
         "Chos Malal"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +213,7 @@
         }
     ],
     "wof:id":421199995,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561793255,
     "wof:name":"Chos Malal",
     "wof:parent_id":421199899,
     "wof:placetype":"locality",

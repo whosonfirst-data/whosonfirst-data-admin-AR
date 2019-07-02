@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Col\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9686"
-    ],
     "name:deu_x_preferred":[
-        "Col\u00f3n"
-    ],
-    "name:dut_x_preferred":[
         "Col\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "Col\u00f3n"
     ],
     "name:fra_x_preferred":[
-        "Col\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Col\u00f3n"
-    ],
-    "name:ger_x_preferred":[
         "Col\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -72,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Col\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9686"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -122,7 +113,7 @@
         }
     ],
     "wof:id":421195103,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561793220,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

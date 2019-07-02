@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Huinca Renanc\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Huinca Renanc\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Huinca Renanc\u00f3"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421199151,
-    "wof:lastmodified":1527716410,
+    "wof:lastmodified":1561793254,
     "wof:name":"Huinca Renanc\u00f3",
     "wof:parent_id":421188041,
     "wof:placetype":"locality",

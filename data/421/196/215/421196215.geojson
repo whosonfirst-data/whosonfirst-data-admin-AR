@@ -16,16 +16,16 @@
     "name:ceb_x_preferred":[
         "Clodomira"
     ],
-    "name:dut_x_preferred":[
-        "Clodomira"
-    ],
     "name:eng_x_preferred":[
         "Clodomira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Clodomira"
     ],
     "name:ita_x_preferred":[
+        "Clodomira"
+    ],
+    "name:nld_x_preferred":[
         "Clodomira"
     ],
     "name:spa_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421196215,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1561793251,
     "wof:name":"Clodomira",
     "wof:parent_id":421184161,
     "wof:placetype":"locality",

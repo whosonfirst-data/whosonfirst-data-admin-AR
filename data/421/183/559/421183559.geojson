@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Departamento San Javier"
     ],
-    "name:dut_x_preferred":[
-        "Villa de Las Rosas"
-    ],
     "name:eng_x_preferred":[
         "Villa de Las Rosas"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:nld_x_preferred":[
         "San Javier"
+    ],
+    "name:nld_x_variant":[
+        "Villa de Las Rosas"
     ],
     "name:por_x_preferred":[
         "San Javier"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":421183559,
-    "wof:lastmodified":1513889587,
+    "wof:lastmodified":1561793259,
     "wof:name":"Villa Las Rosas",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

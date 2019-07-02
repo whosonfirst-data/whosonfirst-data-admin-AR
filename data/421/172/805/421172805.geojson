@@ -17,14 +17,8 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0631\u064a\u0648\u062e\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561 \u054c\u056b\u0578\u056d\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u0644\u0627 \u0631\u06cc\u0648\u062e\u0627\u060c \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
-    ],
-    "name:baq_x_preferred":[
-        "La Rioja"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430-\u0420\u044b\u0451\u0445\u0430"
@@ -41,10 +35,10 @@
     "name:ceb_x_preferred":[
         "La Rioja"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u91cc\u5967\u54c8"
+    "name:ces_x_preferred":[
+        "La Rioja"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "La Rioja"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "La Rioja"
     ],
-    "name:dut_x_preferred":[
-        "La Rioja"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a1\u03b9\u03cc\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Rioja"
@@ -74,20 +68,8 @@
     "name:fra_x_preferred":[
         "La Rioja"
     ],
-    "name:fre_x_preferred":[
-        "La Rioja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10e0\u10d8\u10dd\u10ee\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "La Rioja"
-    ],
     "name:glg_x_preferred":[
         "A Rioxa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a1\u03b9\u03cc\u03c7\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0ab0\u0abf\u0aaf\u0acb\u0a9d\u0abe"
@@ -128,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u0930\u093f\u092f\u093e\u091c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "La Rioja"
     ],
     "name:nah_x_preferred":[
@@ -142,9 +124,6 @@
     ],
     "name:nor_x_preferred":[
         "La Rioja"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627 \u0631\u06cc\u0648\u062e\u0627\u060c \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
     ],
     "name:pms_x_preferred":[
         "La Rioja"
@@ -162,9 +141,6 @@
         "La Rioja llaqta"
     ],
     "name:ron_x_preferred":[
-        "La Rioja"
-    ],
-    "name:rum_x_preferred":[
         "La Rioja"
     ],
     "name:rus_x_preferred":[
@@ -207,9 +183,6 @@
         "La Rioja"
     ],
     "name:war_x_preferred":[
-        "La Rioja"
-    ],
-    "name:wel_x_preferred":[
         "La Rioja"
     ],
     "name:zho_x_preferred":[
@@ -357,7 +330,7 @@
         }
     ],
     "wof:id":421172805,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1561793242,
     "wof:name":"La Rioja",
     "wof:parent_id":1108718321,
     "wof:placetype":"locality",

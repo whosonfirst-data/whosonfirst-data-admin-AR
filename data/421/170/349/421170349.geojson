@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Taf\u00ed del Valle"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u83f2\u5fb7\u723e\u74e6\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "Taf\u00ed del Valle"
-    ],
-    "name:dut_x_preferred":[
         "Taf\u00ed del Valle"
     ],
     "name:eng_x_preferred":[
         "Taf\u00ed del Valle"
     ],
     "name:fra_x_preferred":[
-        "Taf\u00ed del Valle"
-    ],
-    "name:fre_x_preferred":[
-        "Taf\u00ed del Valle"
-    ],
-    "name:ger_x_preferred":[
         "Taf\u00ed del Valle"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +96,7 @@
         }
     ],
     "wof:id":421170349,
-    "wof:lastmodified":1513889548,
+    "wof:lastmodified":1561793258,
     "wof:name":"Taf\u00ed del Valle",
     "wof:parent_id":421186297,
     "wof:placetype":"locality",

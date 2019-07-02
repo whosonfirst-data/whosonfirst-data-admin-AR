@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Pilcaniyeu"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u723e\u5361\u5c3c\u8036\u70cf"
-    ],
-    "name:dut_x_preferred":[
-        "Pilcaniyeu"
-    ],
     "name:eng_x_preferred":[
         "Pilcaniyeu"
     ],
     "name:fra_x_preferred":[
-        "Pilcaniyeu"
-    ],
-    "name:fre_x_preferred":[
         "Pilcaniyeu"
     ],
     "name:nld_x_preferred":[
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421176551,
-    "wof:lastmodified":1513889350,
+    "wof:lastmodified":1561793261,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

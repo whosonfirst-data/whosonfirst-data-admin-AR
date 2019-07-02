@@ -19,13 +19,10 @@
     "name:ceb_x_preferred":[
         "Manuel B. Gonnet"
     ],
-    "name:dut_x_preferred":[
-        "Manuel B. Gonnet"
-    ],
     "name:eng_x_preferred":[
         "Manuel B. Gonnet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Manuel B. Gonnet"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421204123,
-    "wof:lastmodified":1527716187,
+    "wof:lastmodified":1561793233,
     "wof:name":"Manuel B. Gonnet",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

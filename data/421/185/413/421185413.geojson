@@ -19,20 +19,17 @@
     "name:azb_x_preferred":[
         "\u0631\u0627\u0641\u0627\u0626\u0644 \u06a9\u0627\u0644\u0633\u0627\u062f\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6590\u723e\u5361\u723e\u85a9\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "Rafael Calzada"
-    ],
     "name:eng_x_preferred":[
         "Rafael Calzada"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u0644 \u06a9\u0627\u0644\u0633\u0627\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Rafael Calzada"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0641\u0627\u0626\u0644 \u06a9\u0627\u0644\u0633\u0627\u062f\u0627"
+    "name:nld_x_preferred":[
+        "Rafael Calzada"
     ],
     "name:pol_x_preferred":[
         "Rafael Calzada"
@@ -51,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Villa Calzada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6590\u723e\u5361\u723e\u85a9\u9054"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421185413,
-    "wof:lastmodified":1527726502,
+    "wof:lastmodified":1561793263,
     "wof:name":"Rafael Calzada",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

@@ -22,22 +22,13 @@
     "name:ceb_x_preferred":[
         "Pampa del Infierno"
     ],
-    "name:chi_x_preferred":[
-        "\u6f58\u5e15\u5fb7\u56e0\u83f2\u723e\u8afe"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pampa del Infierno"
     ],
     "name:eng_x_preferred":[
         "Pampa del Infierno"
     ],
     "name:fra_x_preferred":[
-        "Pampa del Infierno"
-    ],
-    "name:fre_x_preferred":[
-        "Pampa del Infierno"
-    ],
-    "name:ger_x_preferred":[
         "Pampa del Infierno"
     ],
     "name:ita_x_preferred":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421199805,
-    "wof:lastmodified":1534379080,
+    "wof:lastmodified":1561793255,
     "wof:name":"Pampa del Infierno",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

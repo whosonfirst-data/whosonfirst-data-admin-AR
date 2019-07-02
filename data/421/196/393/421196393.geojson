@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "General Pinto"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "General Pinto"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "General Pinto"
     ],
     "name:spa_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421196393,
-    "wof:lastmodified":1513889201,
+    "wof:lastmodified":1561793251,
     "wof:name":"Gral Pinto",
     "wof:parent_id":1108717961,
     "wof:placetype":"locality",

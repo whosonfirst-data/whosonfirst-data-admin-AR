@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "San Carlos Centro"
     ],
-    "name:dut_x_preferred":[
-        "San Carlos Centro"
-    ],
     "name:eng_x_preferred":[
         "San Carlos Centro"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421188551,
-    "wof:lastmodified":1527716273,
+    "wof:lastmodified":1561793241,
     "wof:name":"San Carlos Centro",
     "wof:parent_id":421180885,
     "wof:placetype":"locality",

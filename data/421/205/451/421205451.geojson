@@ -16,9 +16,6 @@
     "name:deu_x_preferred":[
         "Batan"
     ],
-    "name:dut_x_preferred":[
-        "Bat\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Bat\u00e1n"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:nld_x_preferred":[
         "Batan"
+    ],
+    "name:nld_x_variant":[
+        "Bat\u00e1n"
     ],
     "name:pol_x_preferred":[
         "Batan"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421205451,
-    "wof:lastmodified":1527716220,
+    "wof:lastmodified":1561793235,
     "wof:name":"Bat\u00e1n",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

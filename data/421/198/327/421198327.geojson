@@ -19,28 +19,16 @@
     "name:ceb_x_preferred":[
         "Fern\u00e1ndez"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u5357\u5fb7\u8332"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fern\u00e1ndez"
     ],
     "name:deu_x_preferred":[
-        "Fern\u00e1ndez"
-    ],
-    "name:dut_x_preferred":[
         "Fern\u00e1ndez"
     ],
     "name:eng_x_preferred":[
         "Fern\u00e1ndez"
     ],
     "name:fra_x_preferred":[
-        "Fern\u00e1ndez"
-    ],
-    "name:fre_x_preferred":[
-        "Fern\u00e1ndez"
-    ],
-    "name:ger_x_preferred":[
         "Fern\u00e1ndez"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +96,7 @@
         }
     ],
     "wof:id":421198327,
-    "wof:lastmodified":1527716358,
+    "wof:lastmodified":1561793248,
     "wof:name":"Fern\u00e1ndez",
     "wof:parent_id":1108718509,
     "wof:placetype":"locality",

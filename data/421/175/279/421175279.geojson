@@ -22,16 +22,10 @@
     "name:deu_x_preferred":[
         "Ballesteros"
     ],
-    "name:dut_x_preferred":[
-        "Ballesteros"
-    ],
     "name:eng_x_preferred":[
         "Ballesteros"
     ],
     "name:fra_x_preferred":[
-        "Ballesteros"
-    ],
-    "name:ger_x_preferred":[
         "Ballesteros"
     ],
     "name:ita_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":421175279,
-    "wof:lastmodified":1527716343,
+    "wof:lastmodified":1561793246,
     "wof:name":"Ballesteros",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

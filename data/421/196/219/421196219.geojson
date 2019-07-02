@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Burruyac\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u9b6f\u4e9e\u5eab"
-    ],
     "name:deu_x_preferred":[
-        "Burruyac\u00fa"
-    ],
-    "name:dut_x_preferred":[
         "Burruyac\u00fa"
     ],
     "name:eng_x_preferred":[
         "Burruyac\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Burruyac\u00fa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Burruyac\u00fa"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421196219,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1561793249,
     "wof:name":"Burruyac\u00fa",
     "wof:parent_id":1108718519,
     "wof:placetype":"locality",

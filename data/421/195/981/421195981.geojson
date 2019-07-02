@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Villa Ca\u00f1\u00e1s"
     ],
-    "name:dut_x_preferred":[
-        "Villa Ca\u00f1\u00e1s"
-    ],
     "name:eng_x_preferred":[
         "Villa Ca\u00f1\u00e1s"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421195981,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1561793226,
     "wof:name":"Villa Ca\u00f1\u00e1s",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

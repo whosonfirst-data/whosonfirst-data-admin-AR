@@ -19,22 +19,13 @@
     "name:ceb_x_preferred":[
         "Bel\u00e9n de Escobar"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u502b\u57c3\u65af\u79d1\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Bel\u00e9n de Escobar"
-    ],
-    "name:dut_x_preferred":[
         "Bel\u00e9n de Escobar"
     ],
     "name:eng_x_preferred":[
         "Bel\u00e9n de Escobar"
     ],
-    "name:fre_x_preferred":[
-        "Bel\u00e9n de Escobar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bel\u00e9n de Escobar"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Bel\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u502b\u57c3\u65af\u79d1\u5df4"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -113,7 +107,7 @@
         }
     ],
     "wof:id":421186597,
-    "wof:lastmodified":1513889173,
+    "wof:lastmodified":1561793244,
     "wof:name":"Escobar",
     "wof:parent_id":1108717925,
     "wof:placetype":"locality",

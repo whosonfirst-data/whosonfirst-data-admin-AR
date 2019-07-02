@@ -22,13 +22,7 @@
     "name:ceb_x_preferred":[
         "Grand Bourg"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u6717\u5821"
-    ],
     "name:deu_x_preferred":[
-        "Grand Bourg"
-    ],
-    "name:dut_x_preferred":[
         "Grand Bourg"
     ],
     "name:eng_x_preferred":[
@@ -37,20 +31,14 @@
     "name:fas_x_preferred":[
         "\u06af\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u06af"
     ],
-    "name:fre_x_preferred":[
-        "Grand Bourg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d1\u10dd\u10e3\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand Bourg"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d1\u10dd\u10e3\u10e0\u10d2\u10d8"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u06af"
+    "name:nld_x_preferred":[
+        "Grand Bourg"
     ],
     "name:sco_x_preferred":[
         "Grand Bourg"
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":421198301,
-    "wof:lastmodified":1527716347,
+    "wof:lastmodified":1561793247,
     "wof:name":"Grand Bourg",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
     "name:sco_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421181413,
-    "wof:lastmodified":1527716322,
+    "wof:lastmodified":1561793245,
     "wof:name":"Trist\u00e1n Su\u00e1rez",
     "wof:parent_id":1108717933,
     "wof:placetype":"locality",

@@ -56,9 +56,6 @@
     "name:ces_x_preferred":[
         "Reconquista"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u5b54\u57fa\u65af\u5854"
-    ],
     "name:cym_x_preferred":[
         "Reconquista"
     ],
@@ -66,9 +63,6 @@
         "Reconquista"
     ],
     "name:deu_x_preferred":[
-        "Reconquista"
-    ],
-    "name:dut_x_preferred":[
         "Reconquista"
     ],
     "name:ell_x_preferred":[
@@ -89,23 +83,17 @@
     "name:fas_x_preferred":[
         "\u0628\u0627\u0632\u067e\u0633\u200c\u06af\u06cc\u0631\u06cc \u0622\u0646\u062f\u0644\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0631\u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Reconquista"
     ],
     "name:fra_x_preferred":[
         "Reconquista"
     ],
-    "name:fre_x_preferred":[
-        "Reconquista"
-    ],
     "name:fry_x_preferred":[
         "Rekonkwista"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d4\u10d9\u10dd\u10dc\u10d9\u10d8\u10e1\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Reconquista"
     ],
     "name:gle_x_preferred":[
         "An Athghabh\u00e1il"
@@ -191,9 +179,6 @@
     "name:oci_x_preferred":[
         "Reconqu\u00e8sta"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u062a\u0631\u062f\u0627\u062f"
     ],
@@ -207,9 +192,6 @@
         "Reconquista"
     ],
     "name:ron_x_preferred":[
-        "Reconquista"
-    ],
-    "name:rum_x_preferred":[
         "Reconquista"
     ],
     "name:rus_x_preferred":[
@@ -262,6 +244,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6536\u5fa9\u5931\u5730\u904b\u52d5"
+    ],
+    "name:zho_x_variant":[
+        "\u96f7\u5b54\u57fa\u65af\u5854"
     ],
     "name:zho_yue_x_preferred":[
         "\u6536\u5fa9\u5931\u5730\u904b\u52d5"
@@ -405,7 +390,7 @@
         }
     ],
     "wof:id":421174653,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561793238,
     "wof:name":"Reconquista",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

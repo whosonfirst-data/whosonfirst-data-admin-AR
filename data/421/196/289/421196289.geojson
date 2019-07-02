@@ -19,28 +19,13 @@
     "name:ceb_x_preferred":[
         "Luj\u00e1n de Cuyo"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u6f22\u5fb7\u5eab\u7d04"
-    ],
     "name:deu_x_preferred":[
-        "Luj\u00e1n de Cuyo"
-    ],
-    "name:dut_x_preferred":[
         "Luj\u00e1n de Cuyo"
     ],
     "name:eng_x_preferred":[
         "Luj\u00e1n de Cuyo"
     ],
     "name:fra_x_preferred":[
-        "Luj\u00e1n de Cuyo"
-    ],
-    "name:fre_x_preferred":[
-        "Luj\u00e1n de Cuyo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10ee\u10d0\u10dc-\u10d3\u10d4-\u10d9\u10e3\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Luj\u00e1n de Cuyo"
     ],
     "name:hun_x_preferred":[
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Luj\u00e1n de Cuyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6f22\u5fb7\u5eab\u7d04"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":421196289,
-    "wof:lastmodified":1513889252,
+    "wof:lastmodified":1561793249,
     "wof:name":"Luj\u00e1n de Cuyo",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

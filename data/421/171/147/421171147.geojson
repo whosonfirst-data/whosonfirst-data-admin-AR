@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
-    "name:dut_x_preferred":[
-        "Capit\u00e1n Berm\u00fadez"
-    ],
     "name:eng_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
     "name:heb_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d4\u30bf\u30f3\u30fb\u30d9\u30eb\u30e0\u30c7\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Capit\u00e1n Berm\u00fadez"
     ],
     "name:por_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421171147,
-    "wof:lastmodified":1527726499,
+    "wof:lastmodified":1561793263,
     "wof:name":"Capit\u00e1n Berm\u00fadez",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

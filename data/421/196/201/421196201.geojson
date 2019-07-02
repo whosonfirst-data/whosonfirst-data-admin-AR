@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "La Carlota"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5361\u723e\u6d1b\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "La Carlota"
-    ],
     "name:eng_x_preferred":[
         "La Carlota"
     ],
     "name:fra_x_preferred":[
-        "La Carlota"
-    ],
-    "name:fre_x_preferred":[
         "La Carlota"
     ],
     "name:heb_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":421196201,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561793251,
     "wof:name":"La Carlota",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

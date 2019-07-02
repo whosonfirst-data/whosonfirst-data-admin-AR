@@ -16,16 +16,13 @@
     "name:ceb_x_preferred":[
         "Firmat"
     ],
-    "name:dut_x_preferred":[
-        "Firmat"
-    ],
     "name:eng_x_preferred":[
         "Firmat"
     ],
     "name:epo_x_preferred":[
         "Firmat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Firmat"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421179717,
-    "wof:lastmodified":1527717716,
+    "wof:lastmodified":1561793259,
     "wof:name":"Firmat",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

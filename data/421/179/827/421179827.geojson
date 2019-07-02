@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "San Esteban"
     ],
-    "name:dut_x_preferred":[
-        "San Esteban"
-    ],
     "name:eng_x_preferred":[
         "San Esteban"
     ],
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":421179827,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561793259,
     "wof:name":"San Esteban",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

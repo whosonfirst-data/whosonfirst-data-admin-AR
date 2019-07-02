@@ -16,23 +16,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Ushuaia"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0634\u0648\u0627\u064a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0577\u0578\u0582\u0561\u0575\u0561"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0627\u06cc\u0627"
     ],
     "name:aze_x_preferred":[
         "U\u015fuaya"
-    ],
-    "name:baq_x_preferred":[
-        "Ushuaia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0448\u0443\u0430\u044f"
@@ -49,22 +40,19 @@
     "name:cat_x_preferred":[
         "Ushuaia"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u65af\u6000\u4e9a"
+    "name:ces_x_preferred":[
+        "Ushuaia"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0634\u0648\u0627\u06cc\u06d5"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ushuaia"
     ],
     "name:dan_x_preferred":[
         "Ushuaia"
     ],
     "name:deu_x_preferred":[
-        "Ushuaia"
-    ],
-    "name:dut_x_preferred":[
         "Ushuaia"
     ],
     "name:ell_x_preferred":[
@@ -79,11 +67,17 @@
     "name:est_x_preferred":[
         "Ushuaia"
     ],
+    "name:eus_x_preferred":[
+        "Ushuaia"
+    ],
     "name:fao_x_preferred":[
         "Ushuaia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0627\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0634\u0648\u0622\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Ushuaia"
@@ -91,23 +85,11 @@
     "name:fra_x_preferred":[
         "Ushua\u00efa"
     ],
-    "name:fre_x_preferred":[
-        "Ushua\u00efa"
-    ],
     "name:fry_x_preferred":[
-        "Ushuaia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e8\u10e3\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Ushuaia"
     ],
     "name:glg_x_preferred":[
         "Ushuaia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c3\u03bf\u03c5\u03ac\u03b9\u03b1"
     ],
     "name:grn_x_preferred":[
         "Ushuaia"
@@ -163,13 +145,13 @@
     "name:lit_x_preferred":[
         "U\u0161uaja"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u0448\u0443\u0430\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0936\u0941\u0906\u0907\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0423\u0448\u0443\u0430\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Ushuaia"
     ],
     "name:nah_x_preferred":[
@@ -190,9 +172,6 @@
     "name:oss_x_preferred":[
         "\u0423\u0448\u0443\u0430\u044f"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0634\u0648\u0622\u06cc\u0627"
-    ],
     "name:pih_x_preferred":[
         "Ushuaia"
     ],
@@ -205,7 +184,7 @@
     "name:por_x_preferred":[
         "Ushuaia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ushuaia"
     ],
     "name:rus_x_preferred":[
@@ -217,13 +196,16 @@
     "name:sin_x_preferred":[
         "\u0d8c\u0dc1\u0dca\u0dc0\u0dba\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ushuaia"
     ],
     "name:slv_x_preferred":[
         "Ushuaia"
     ],
     "name:spa_x_preferred":[
+        "Ushuaia"
+    ],
+    "name:sqi_x_preferred":[
         "Ushuaia"
     ],
     "name:srp_x_preferred":[
@@ -254,9 +236,6 @@
         "Ushuaia"
     ],
     "name:war_x_preferred":[
-        "Ushuaia"
-    ],
-    "name:wel_x_preferred":[
         "Ushuaia"
     ],
     "name:zho_x_preferred":[
@@ -395,7 +374,7 @@
         }
     ],
     "wof:id":890435489,
-    "wof:lastmodified":1527793051,
+    "wof:lastmodified":1561793269,
     "wof:name":"Ushuaia",
     "wof:parent_id":1108718533,
     "wof:placetype":"locality",

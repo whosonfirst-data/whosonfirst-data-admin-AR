@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Puerto Leoni"
     ],
-    "name:dut_x_preferred":[
-        "Puerto Leoni"
-    ],
     "name:eng_x_preferred":[
         "Puerto Leoni"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421171203,
-    "wof:lastmodified":1527726484,
+    "wof:lastmodified":1561793261,
     "wof:name":"Puerto Leoni",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

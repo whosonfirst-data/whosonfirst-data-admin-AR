@@ -22,7 +22,7 @@
     "name:bre_x_preferred":[
         "Villa Gobernador G\u00e1lvez"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Gobernador G\u00e1lvez"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +31,7 @@
     "name:epo_x_preferred":[
         "Villa Gobernador G\u00e1lvez"
     ],
-    "name:fre_x_preferred":[
-        "Villa Gobernador G\u00e1lvez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d2\u10dd\u10d1\u10d4\u10e0\u10dc\u10d0\u10d3\u10dd\u10e0-\u10d2\u10d0\u10da\u10d5\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Villa Gobernador G\u00e1lvez"
     ],
     "name:heb_x_preferred":[
@@ -54,6 +48,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Gobernador Galvesas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Gobernador G\u00e1lvez"
     ],
     "name:por_x_preferred":[
         "Villa Gobernador G\u00e1lvez"
@@ -117,7 +114,7 @@
         }
     ],
     "wof:id":421193425,
-    "wof:lastmodified":1527716140,
+    "wof:lastmodified":1561793228,
     "wof:name":"Gobernador G\u00e1lvez",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

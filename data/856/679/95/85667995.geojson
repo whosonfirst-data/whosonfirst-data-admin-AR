@@ -37,14 +37,8 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u064a\u064a\u0631\u0627 \u062f\u064a\u0644 \u0641\u0648\u064a\u063a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0580\u0578 \u0535\u0580\u056f\u056b\u0580"
-    ],
     "name:aym_x_preferred":[
         "Ninasuyu jisk'a suyu"
-    ],
-    "name:baq_x_preferred":[
-        "Suaren Lurraldea"
     ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0417\u044f\u043c\u043b\u044f"
@@ -61,10 +55,10 @@
     "name:cat_x_preferred":[
         "Terra del Foc"
     ],
-    "name:chi_x_preferred":[
-        "\u706b\u5730\u5c9b\u7701"
+    "name:ces_x_preferred":[
+        "Tierra del Fuego"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tierra del Fuego"
     ],
     "name:dan_x_preferred":[
@@ -77,8 +71,11 @@
     "name:deu_x_preferred":[
         "Feuerland"
     ],
-    "name:dut_x_preferred":[
-        "Vuurland"
+    "name:deu_x_variant":[
+        "Provinz Tierra del Fuego"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03ad\u03c1\u03b1 \u03bd\u03c4\u03b5\u03bb \u03a6\u03bf\u03c5\u03ad\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Tierra del Fuego"
@@ -96,26 +93,20 @@
     "name:est_x_preferred":[
         "Tulemaa provints"
     ],
+    "name:eus_x_preferred":[
+        "Suaren Lurraldea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tulimaa"
     ],
     "name:fra_x_preferred":[
         "Terre de Feu"
     ],
-    "name:fre_x_preferred":[
-        "Terre de Feu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10ea\u10ee\u10da\u10dd\u10d5\u10d0\u10dc\u10d8 \u10db\u10d8\u10ec\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Tierra del Fuego"
-    ],
     "name:glg_x_preferred":[
         "Terra do Fogo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03ad\u03c1\u03b1 \u03bd\u03c4\u03b5\u03bb \u03a6\u03bf\u03c5\u03ad\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0a8f\u0ab0\u0abe \u0aa1\u0ac7\u0ab2 \u0aab\u0ac1\u0a8f\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -125,6 +116,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u093f\u090f\u0930\u093e \u0921\u0947\u0932 \u092b\u093c\u0941\u090f\u0917\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0580\u0578 \u0535\u0580\u056f\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tierra del Fuego"
@@ -138,6 +132,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0cbf\u0caf\u0cc6\u0cb0\u0cbe \u0ca1\u0cc6\u0cb2\u0ccd \u0cab\u0ccd\u0caf\u0cc2\u0c97\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10ea\u10ee\u10da\u10dd\u10d5\u10d0\u10dc\u10d8 \u10db\u10d8\u10ec\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud2f0\uc5d0\ub77c \ub378 \ud478\uc5d0\uace0"
     ],
@@ -147,13 +144,13 @@
     "name:lit_x_preferred":[
         "Ugnies \u017dem\u0117s"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0433\u043d\u0435\u043d\u0430 \u0417\u0435\u043c\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093f\u090f\u0930\u093e \u0926\u0947\u0932 \u092b\u094d\u0935\u0947\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0433\u043d\u0435\u043d\u0430 \u0417\u0435\u043c\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Tierra del Fuego"
     ],
     "name:nan_x_preferred":[
@@ -180,9 +177,6 @@
     "name:oss_x_preferred":[
         "\u0410\u0440\u0442\u044b \u0417\u00e6\u0445\u0445"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
-    ],
     "name:pms_x_preferred":[
         "T\u00e8ra d\u00ebl Feu"
     ],
@@ -195,7 +189,7 @@
     "name:que_x_preferred":[
         "Ninasuyu wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Tierra del Fuego"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +204,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dba\u0dd9\u0dbb\u0dcf \u0da9\u0dd9\u0dbd\u0dca \u0dc6\u0dd4\u0d91\u0d9c\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tierra del Fuego"
     ],
     "name:slv_x_preferred":[
@@ -276,11 +270,11 @@
     "name:war_x_preferred":[
         "Tierra del Fuego"
     ],
-    "name:wel_x_preferred":[
-        "Tierra del Fuego"
-    ],
     "name:zho_x_preferred":[
         "\u706b\u5730\u7fa4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u706b\u5730\u5c9b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -405,7 +399,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895621,
+    "wof:lastmodified":1561793154,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

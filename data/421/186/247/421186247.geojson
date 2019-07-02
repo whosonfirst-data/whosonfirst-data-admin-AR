@@ -19,22 +19,16 @@
     "name:ceb_x_preferred":[
         "Barranqueras"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u862d\u514b\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Barranqueras"
-    ],
     "name:eng_x_preferred":[
         "Barranqueras"
     ],
     "name:fra_x_preferred":[
         "Barranqueras"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Barranqueras"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Barranqueras"
     ],
     "name:pol_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421186247,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1561793244,
     "wof:name":"Barranqueras",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

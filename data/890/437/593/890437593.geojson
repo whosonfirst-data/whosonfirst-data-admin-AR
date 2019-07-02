@@ -21,14 +21,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0644\u0648\u062a\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u053f\u0561\u057c\u056c\u0578\u057d \u0564\u0565 \u0532\u0561\u0580\u056b\u056c\u0578\u0579\u0565"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0644\u0648\u0686\u0647"
-    ],
-    "name:baq_x_preferred":[
-        "Bariloche"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8 \u09a6\u09c7 \u09ac\u09cd\u09af\u09be\u09b0\u09bf\u09b2\u09cb\u099a\u09c7"
@@ -39,13 +33,13 @@
     "name:cat_x_preferred":[
         "San Carlos de Bariloche"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5361\u6d1b\u65af-\u5fb7\u5df4\u91cc\u6d1b\u5207"
+    "name:ces_x_preferred":[
+        "San Carlos de Bariloche"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0644\u06c6\u0686\u06cc"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "San Carlos de Bariloche"
     ],
     "name:dan_x_preferred":[
@@ -57,8 +51,8 @@
     "name:deu_x_variant":[
         "San Carlos de Bariloche"
     ],
-    "name:dut_x_preferred":[
-        "Bariloche"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03b9\u03bb\u03cc\u03c7\u03b5"
     ],
     "name:eng_x_preferred":[
         "San Carlos de Bariloche"
@@ -68,6 +62,9 @@
     ],
     "name:epo_x_preferred":[
         "Barilo\u0109e"
+    ],
+    "name:eus_x_preferred":[
+        "Bariloche"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0644\u0648\u0686\u0647"
@@ -80,18 +77,6 @@
     ],
     "name:fra_x_variant":[
         "Bariloche"
-    ],
-    "name:fre_x_preferred":[
-        "San Carlos de Bariloche"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10d3\u10d4-\u10d1\u10d0\u10e0\u10d8\u10da\u10dd\u10e9\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bariloche"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03b9\u03bb\u03cc\u03c7\u03b5"
     ],
     "name:grn_x_preferred":[
         "Bariloche"
@@ -110,9 +95,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053f\u0561\u057c\u056c\u0578\u057d \u0564\u0565 \u0532\u0561\u0580\u056b\u056c\u0578\u0579\u0565"
-    ],
-    "name:ice_x_preferred":[
-        "Bariloche"
     ],
     "name:ind_x_preferred":[
         "San Carlos de Bariloche"
@@ -144,7 +126,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0915\u093e\u0930\u094d\u0932\u094b\u0938 \u0921\u0940 \u092c\u0930\u093f\u0932\u094b\u091a\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Carlos de Bariloche"
     ],
     "name:nld_x_preferred":[
@@ -156,16 +138,13 @@
     "name:oci_x_preferred":[
         "San Carlos de Bariloche"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u06cc\u0644\u0648\u0686\u0647"
-    ],
     "name:pol_x_preferred":[
         "Bariloche"
     ],
     "name:por_x_preferred":[
         "Bariloche"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San Carlos de Bariloche"
     ],
     "name:rus_x_preferred":[
@@ -177,7 +156,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0d9a\u0dcf\u0dbd\u0ddd\u0dc3\u0dca \u0da9\u0dd2 \u0db6\u0dd0\u0dbb\u0dd2\u0dbd\u0ddd\u0da0\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "San Carlos de Bariloche"
     ],
     "name:slv_x_preferred":[
@@ -208,9 +187,6 @@
         "\u0633\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633 \u062f\u06d2 \u0628\u0627\u0631\u06cc\u0644\u0648\u0686\u06cc"
     ],
     "name:vie_x_preferred":[
-        "San Carlos de Bariloche"
-    ],
-    "name:wel_x_preferred":[
         "San Carlos de Bariloche"
     ],
     "name:zho_x_preferred":[
@@ -251,7 +227,7 @@
         }
     ],
     "wof:id":890437593,
-    "wof:lastmodified":1513889424,
+    "wof:lastmodified":1561793266,
     "wof:name":"San Carlos de Bariloche",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

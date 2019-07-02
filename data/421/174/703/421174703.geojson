@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Salsacate"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u723e\u85a9\u5361\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Salsacate"
-    ],
     "name:eng_x_preferred":[
         "Salsacate"
     ],
     "name:fra_x_preferred":[
-        "Salsacate"
-    ],
-    "name:fre_x_preferred":[
         "Salsacate"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421174703,
-    "wof:lastmodified":1527716228,
+    "wof:lastmodified":1561793238,
     "wof:name":"Salsacate",
     "wof:parent_id":421171491,
     "wof:placetype":"locality",

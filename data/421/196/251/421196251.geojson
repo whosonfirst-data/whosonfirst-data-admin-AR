@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:baq_x_preferred":[
-        "\u00c1lvarez"
-    ],
     "name:bar_x_preferred":[
         "\u00c1lvarez"
     ],
@@ -40,16 +37,19 @@
     "name:ceb_x_preferred":[
         "\u00c1lvarez"
     ],
+    "name:ces_x_preferred":[
+        "\u00c1lvarez"
+    ],
     "name:cos_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:dan_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "\u00c1lvarez"
     ],
+    "name:eus_x_preferred":[
+        "\u00c1lvarez"
+    ],
     "name:fin_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:frp_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:fur_x_preferred":[
-        "\u00c1lvarez"
-    ],
-    "name:ger_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:gla_x_preferred":[
@@ -136,13 +136,13 @@
     "name:ltz_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:may_x_preferred":[
-        "\u00c1lvarez"
-    ],
     "name:min_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:mlg_x_preferred":[
+        "\u00c1lvarez"
+    ],
+    "name:msa_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:nap_x_preferred":[
@@ -190,7 +190,7 @@
     "name:roh_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:scn_x_preferred":[
@@ -199,7 +199,7 @@
     "name:sco_x_preferred":[
         "\u00c1lvarez"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +233,6 @@
         "\u00c1lvarez"
     ],
     "name:vol_x_preferred":[
-        "\u00c1lvarez"
-    ],
-    "name:wel_x_preferred":[
         "\u00c1lvarez"
     ],
     "name:wln_x_preferred":[
@@ -294,7 +291,7 @@
         }
     ],
     "wof:id":421196251,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1561793250,
     "wof:name":"\u00c1lvarez",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

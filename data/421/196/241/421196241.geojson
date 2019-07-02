@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Puerto Pir\u00e1mides"
     ],
-    "name:dut_x_preferred":[
-        "Puerto Pir\u00e1mides"
-    ],
     "name:eng_x_preferred":[
         "Puerto Pir\u00e1mides"
     ],
     "name:fra_x_preferred":[
-        "Puerto Pir\u00e1mides"
-    ],
-    "name:fre_x_preferred":[
         "Puerto Pir\u00e1mides"
     ],
     "name:ita_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421196241,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1561793251,
     "wof:name":"Puerto Pir\u00e1mides",
     "wof:parent_id":1108718233,
     "wof:placetype":"locality",

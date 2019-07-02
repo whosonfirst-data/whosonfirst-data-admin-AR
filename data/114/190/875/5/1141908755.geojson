@@ -26,28 +26,16 @@
     "name:ceb_x_preferred":[
         "Esquel"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u514b\u723e"
-    ],
     "name:cym_x_preferred":[
         "Esquel"
     ],
     "name:deu_x_preferred":[
         "Esquel"
     ],
-    "name:dut_x_preferred":[
-        "Esquel"
-    ],
     "name:eng_x_preferred":[
         "Esquel"
     ],
     "name:fra_x_preferred":[
-        "Esquel"
-    ],
-    "name:fre_x_preferred":[
-        "Esquel"
-    ],
-    "name:ger_x_preferred":[
         "Esquel"
     ],
     "name:heb_x_preferred":[
@@ -61,9 +49,6 @@
     ],
     "name:lit_x_preferred":[
         "Eskelis"
-    ],
-    "name:may_x_preferred":[
-        "Esquel"
     ],
     "name:msa_x_preferred":[
         "Esquel"
@@ -88,9 +73,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043a\u0435\u043b\u044c"
-    ],
-    "name:wel_x_preferred":[
-        "Esquel"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u514b\u723e"
@@ -219,7 +201,7 @@
         }
     ],
     "wof:id":1141908755,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1561793311,
     "wof:name":"Esquel",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

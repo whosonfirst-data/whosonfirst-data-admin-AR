@@ -16,13 +16,13 @@
     "name:cat_x_preferred":[
         "Bermejo"
     ],
-    "name:dut_x_preferred":[
-        "Bermejo"
-    ],
     "name:eng_x_preferred":[
         "Bermejo"
     ],
     "name:glg_x_preferred":[
+        "Bermejo"
+    ],
+    "name:nld_x_preferred":[
         "Bermejo"
     ],
     "name:spa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421173903,
-    "wof:lastmodified":1513888943,
+    "wof:lastmodified":1561793240,
     "wof:name":"Bermejo",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

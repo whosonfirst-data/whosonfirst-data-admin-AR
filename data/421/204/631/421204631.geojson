@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Villa Gesell"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Gesell"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u0393\u03ba\u03ad\u03c3\u03b5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Villa Gesell"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "Villa Gesell"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Gesell"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Gesell"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03bb\u03b1 \u0393\u03ba\u03ad\u03c3\u03b5\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe \u0a97\u0ac7\u0ab8\u0ac7\u0ab2"
@@ -70,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u091c\u0940\u0938\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Villa Gesell"
+    ],
+    "name:nld_x_preferred":[
         "Villa Gesell"
     ],
     "name:nob_x_preferred":[
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":421204631,
-    "wof:lastmodified":1513889587,
+    "wof:lastmodified":1561793233,
     "wof:name":"Villa Gesell",
     "wof:parent_id":1108718135,
     "wof:placetype":"locality",

@@ -18,16 +18,10 @@
     "name:arg_x_preferred":[
         "Recreo"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0565\u056f\u0580\u0565\u0578"
-    ],
     "name:cat_x_preferred":[
         "Recreo"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u514b\u96f7\u5967"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Recreo"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +30,7 @@
     "name:epo_x_preferred":[
         "Recreo"
     ],
-    "name:fre_x_preferred":[
-        "Recreo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Recreo"
     ],
     "name:glg_x_preferred":[
@@ -63,6 +54,9 @@
     "name:lit_x_preferred":[
         "Rekreo"
     ],
+    "name:nld_x_preferred":[
+        "Recreo"
+    ],
     "name:pol_x_preferred":[
         "Recreo"
     ],
@@ -72,7 +66,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u043a\u0440\u0435\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Recreo"
     ],
     "name:spa_x_preferred":[
@@ -119,7 +113,7 @@
         }
     ],
     "wof:id":890439941,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561793265,
     "wof:name":"Recreo",
     "wof:parent_id":1108718153,
     "wof:placetype":"locality",

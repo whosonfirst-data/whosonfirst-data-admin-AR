@@ -28,17 +28,17 @@
     "name:ceb_x_preferred":[
         "Caseros"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u585e\u7f85\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Caseros"
     ],
     "name:dan_x_preferred":[
         "Caseros"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Caseros"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03b5\u03c1\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Caseros"
@@ -49,17 +49,8 @@
     "name:fin_x_preferred":[
         "Caseros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Caseros"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e1\u10d4\u10e0\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Caseros"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03b5\u03c1\u03cc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab8\u0ac7\u0ab0\u0acb\u0ab8"
@@ -94,7 +85,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0938\u0930\u094b\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Caseros"
     ],
     "name:nld_x_preferred":[
@@ -102,9 +93,6 @@
     ],
     "name:nob_x_preferred":[
         "Caseros"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0633\u0631\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Caseros"
@@ -203,7 +191,7 @@
         }
     ],
     "wof:id":421191533,
-    "wof:lastmodified":1527716370,
+    "wof:lastmodified":1561793252,
     "wof:name":"Caseros",
     "wof:parent_id":421188023,
     "wof:placetype":"locality",

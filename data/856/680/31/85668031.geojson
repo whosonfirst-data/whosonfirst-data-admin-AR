@@ -37,14 +37,8 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0564\u0578\u057e\u0561"
-    ],
     "name:aym_x_preferred":[
         "Cordoba"
-    ],
-    "name:baq_x_preferred":[
-        "C\u00f3rdobako probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u043e\u0440\u0434\u0430\u0432\u0430"
@@ -67,20 +61,17 @@
     "name:ces_x_preferred":[
         "C\u00f3rdoba"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5c14\u591a\u74e6\u7701"
-    ],
     "name:cym_x_preferred":[
         "Talaith C\u00f3rdoba"
-    ],
-    "name:cze_x_preferred":[
-        "C\u00f3rdoba"
     ],
     "name:dan_x_preferred":[
         "C\u00f3rdoba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "C\u00f3rdoba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03bd\u03c4\u03bf\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cordoba"
@@ -99,23 +90,20 @@
     "name:est_x_preferred":[
         "C\u00f3rdoba provints"
     ],
+    "name:eus_x_preferred":[
+        "C\u00f3rdobako probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u0631\u062f\u0648\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "C\u00f3rdoban maakunta"
     ],
-    "name:fre_x_preferred":[
-        "C\u00f3rdoba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:glg_x_preferred":[
         "Provincia de C\u00f3rdoba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03c1\u03bd\u03c4\u03bf\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acd\u0aa1\u0acb\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -128,6 +116,9 @@
     ],
     "name:hun_x_preferred":[
         "C\u00f3rdoba tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0564\u0578\u057e\u0561"
     ],
     "name:ina_x_preferred":[
         "Provincia Cordoba"
@@ -144,6 +135,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb0\u0ccd\u0ca1\u0cca\u0cac\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ub3c4\ubc14"
     ],
@@ -159,17 +153,20 @@
     "name:lmo_x_preferred":[
         "C\u00f2rdoba"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0440\u0434\u043e\u0431\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u094d\u0926\u094b\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah C\u00f3rdoba"
     ],
     "name:nan_x_preferred":[
         "C\u00f3rdoba S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00f3rdoba"
     ],
     "name:nob_x_preferred":[
         "C\u00f3rdoba"
@@ -179,9 +176,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041a\u043e\u0440\u0434\u043e\u0432\u00e6"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u0631\u062f\u0648\u0628\u0627"
     ],
     "name:pms_x_preferred":[
         "C\u00f2rdoba"
@@ -198,7 +192,7 @@
     "name:que_x_preferred":[
         "C\u00f3rdoba wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia C\u00f3rdoba"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +207,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0dca\u0da9\u0ddc\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:spa_x_colloquial":[
@@ -273,11 +267,11 @@
     "name:war_x_preferred":[
         "Provincia de C\u00f3rdoba"
     ],
-    "name:wel_x_preferred":[
-        "Talaith C\u00f3rdoba"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u5c14\u591a\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u5c14\u591a\u74e6\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -402,7 +396,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895618,
+    "wof:lastmodified":1561793144,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -16,10 +16,10 @@
     "name:ast_x_preferred":[
         "Arturo Segu\u00ed"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Arturo Segu\u00ed"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Arturo Segu\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":421191281,
-    "wof:lastmodified":1513888938,
+    "wof:lastmodified":1561793252,
     "wof:name":"Arturo Segu\u00ed",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

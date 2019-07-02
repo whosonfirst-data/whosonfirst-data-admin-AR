@@ -16,19 +16,19 @@
     "name:afr_x_preferred":[
         "Villa General Belgrano"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa General Belgrano"
     ],
     "name:eng_x_preferred":[
         "Villa General Belgrano"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa General Belgrano"
     ],
-    "name:ger_x_preferred":[
+    "name:ita_x_preferred":[
         "Villa General Belgrano"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa General Belgrano"
     ],
     "name:por_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":421196915,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1561793250,
     "wof:name":"Villa General Belgrano",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

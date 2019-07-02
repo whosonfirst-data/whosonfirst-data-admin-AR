@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Isla Verde"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Isla Verde"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Isla Verde"
     ],
     "name:por_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":421173689,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561793240,
     "wof:name":"Isla Verde",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

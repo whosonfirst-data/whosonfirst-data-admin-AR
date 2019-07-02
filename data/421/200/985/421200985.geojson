@@ -22,19 +22,13 @@
     "name:cat_x_preferred":[
         "Trenque Lauquen"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u502b\u514b\u52de\u80af"
-    ],
-    "name:dut_x_preferred":[
-        "Trenque Lauquen"
-    ],
     "name:eng_x_preferred":[
         "Trenque Lauquen"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Trenque Lauquen"
     ],
     "name:heb_x_preferred":[
@@ -46,11 +40,11 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30ec\u30f3\u30b1\u30fb\u30e9\u30a6\u30b1\u30f3"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Trenque Lauquen"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    "name:oci_x_preferred":[
+        "Trenque Lauquen"
     ],
     "name:por_x_preferred":[
         "Trenque Lauquen"
@@ -120,7 +114,7 @@
         }
     ],
     "wof:id":421200985,
-    "wof:lastmodified":1527716425,
+    "wof:lastmodified":1561793256,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

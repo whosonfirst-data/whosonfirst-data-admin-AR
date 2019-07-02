@@ -44,14 +44,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0565\u0576\u0578\u057d \u0531\u0575\u0580\u0565\u057d"
-    ],
     "name:aym_x_preferred":[
         "Buenos Aires jisk'a suyu"
-    ],
-    "name:baq_x_preferred":[
-        "Buenos Airesko probintzia"
     ],
     "name:bar_x_preferred":[
         "Provinz Buenos Aires"
@@ -71,11 +65,11 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Buenos Aires"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Buenos Aires"
     ],
     "name:dan_x_preferred":[
         "Provincia de Buenos Aires"
@@ -83,8 +77,11 @@
     "name:deu_x_preferred":[
         "Bundesdistrikt"
     ],
-    "name:dut_x_preferred":[
-        "Buenos Aires"
+    "name:deu_x_variant":[
+        "Provinz Buenos Aires"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Autonomous City of Buenos Aires"
@@ -101,6 +98,12 @@
     "name:est_x_preferred":[
         "Buenos Airese provints"
     ],
+    "name:eus_x_preferred":[
+        "Buenos Airesko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Buenos Aires"
     ],
@@ -114,20 +117,8 @@
     "name:fra_x_preferred":[
         "Buenos Aires"
     ],
-    "name:fre_x_preferred":[
-        "Buenos Aires"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10d4\u10dc\u10dd\u10e1-\u10d0\u10d8\u10e0\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Buenos Aires"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Bos Aires"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
     ],
     "name:grn_x_preferred":[
         "Buenos Aires Tet\u00e3mini"
@@ -147,6 +138,9 @@
     "name:hun_x_preferred":[
         "Buenos Aires tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0565\u0576\u0578\u057d \u0531\u0575\u0580\u0565\u057d"
+    ],
     "name:ido_x_preferred":[
         "Provinco di Buenos Aires"
     ],
@@ -165,6 +159,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0caf\u0cc2\u0ca8\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d4\u10dc\u10dd\u10e1-\u10d0\u10d8\u10e0\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubd80\uc5d0\ub178\uc2a4\uc544\uc774\ub808\uc2a4"
     ],
@@ -180,23 +177,26 @@
     "name:lmo_x_preferred":[
         "Buenos Aires"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u0435\u043d\u043e\u0441 \u0410\u0438\u0440\u0435\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u090f\u0928\u094b\u0938 \u0906\u0907\u0930\u0947\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Provinsi Buenos Aires"
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0435\u043d\u043e\u0441 \u0410\u0438\u0440\u0435\u0441"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 \u043c\u0443\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Provinsi Buenos Aires"
     ],
     "name:nah_x_preferred":[
         "Hu\u0113y\u0101ltep\u0113tl Buenos Aires"
     ],
     "name:nan_x_preferred":[
         "Buenos Aires S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Buenos Aires"
     ],
     "name:nob_x_preferred":[
         "Buenos Aires"
@@ -213,9 +213,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
-    ],
     "name:pms_x_preferred":[
         "Buenos Aires"
     ],
@@ -231,7 +228,7 @@
     "name:que_x_preferred":[
         "Buenos Aires wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Buenos Aires"
     ],
     "name:rus_x_preferred":[
@@ -246,7 +243,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0dc0\u0db1\u0ddd\u0dc3\u0dca \u0d85\u0dba\u0dbb\u0dca\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Buenos Aires"
     ],
     "name:spa_x_colloquial":[
@@ -308,14 +305,12 @@
     "name:war_x_preferred":[
         "Provincia de Buenos Aires"
     ],
-    "name:wel_x_preferred":[
-        "Talaith Buenos Aires"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
     ],
     "name:zho_x_variant":[
-        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af"
+        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af",
+        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -441,7 +436,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895616,
+    "wof:lastmodified":1561793143,
     "wof:name":"Ciudad de Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

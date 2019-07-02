@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Coronel Belisle"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Coronel Belisle"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Coronel Belisle"
     ],
     "name:spa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421173557,
-    "wof:lastmodified":1527716254,
+    "wof:lastmodified":1561793240,
     "wof:name":"Coronel Belisle",
     "wof:parent_id":1108718387,
     "wof:placetype":"locality",

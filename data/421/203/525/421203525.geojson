@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0643\u0627\u0631\u0644\u0648\u0633 \u0628\u0627\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u056c\u0575\u0561 \u053f\u0561\u057c\u056c\u0578\u057d \u054a\u0561\u057d"
-    ],
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0627 \u06a9\u0627\u0631\u0644\u0648\u0633 \u067e\u0627\u0633"
     ],
@@ -29,13 +26,7 @@
     "name:ceb_x_preferred":[
         "Villa Carlos Paz"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6d1b\u65af\u5e15\u65af\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "Villa Carlos Paz"
-    ],
-    "name:dut_x_preferred":[
         "Villa Carlos Paz"
     ],
     "name:eng_x_preferred":[
@@ -53,14 +44,8 @@
     "name:fra_x_preferred":[
         "Villa Carlos Paz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Carlos Paz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10de\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Carlos Paz"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d6'\u05d4 \u05e7\u05e8\u05dc\u05d5\u05e1 \u05e4\u05d0\u05e1"
@@ -94,9 +79,6 @@
     ],
     "name:oci_x_preferred":[
         "Villa Carlos Paz"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u06cc\u0627 \u06a9\u0627\u0631\u0644\u0648\u0633 \u067e\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Villa Carlos Paz"
@@ -268,7 +250,7 @@
         }
     ],
     "wof:id":421203525,
-    "wof:lastmodified":1527716202,
+    "wof:lastmodified":1561793234,
     "wof:name":"Villa Carlos Paz",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

@@ -19,20 +19,17 @@
     "name:deu_x_preferred":[
         "Comandante Luis Piedra Buena"
     ],
-    "name:dut_x_preferred":[
-        "Comandante Luis Piedrabuena"
-    ],
     "name:eng_x_preferred":[
         "Comandante Luis Piedrabuena"
-    ],
-    "name:ger_x_preferred":[
-        "Comandante Luis Piedra Buena"
     ],
     "name:ita_x_preferred":[
         "Comandante Luis Piedra Buena"
     ],
     "name:lit_x_preferred":[
         "Komandante Luis Piedra Buena"
+    ],
+    "name:nld_x_preferred":[
+        "Comandante Luis Piedrabuena"
     ],
     "name:nob_x_preferred":[
         "Comandante Luis Piedrabuena"
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421197377,
-    "wof:lastmodified":1527716403,
+    "wof:lastmodified":1561793254,
     "wof:name":"Comandante Luis Piedra Buena",
     "wof:parent_id":421200653,
     "wof:placetype":"locality",

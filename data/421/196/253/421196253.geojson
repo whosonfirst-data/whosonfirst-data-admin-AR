@@ -16,16 +16,16 @@
     "name:ceb_x_preferred":[
         "Villa Mantero"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Mantero"
     ],
     "name:eng_x_preferred":[
         "Villa Mantero"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Mantero"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa Mantero"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":421196253,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1561793251,
     "wof:name":"Villa Mantero",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

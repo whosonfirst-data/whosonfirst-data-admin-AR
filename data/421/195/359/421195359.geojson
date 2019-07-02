@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Lucas Gonz\u00e1lez"
     ],
-    "name:dut_x_preferred":[
-        "Lucas Gonz\u00e1lez"
-    ],
     "name:eng_x_preferred":[
         "Lucas Gonz\u00e1lez"
     ],
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421195359,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561793224,
     "wof:name":"Lucas Gonz\u00e1lez",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

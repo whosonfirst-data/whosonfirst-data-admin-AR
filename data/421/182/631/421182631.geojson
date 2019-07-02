@@ -16,16 +16,16 @@
     "name:ceb_x_preferred":[
         "Campo Viera"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Campo Viera"
     ],
     "name:eng_x_preferred":[
         "Campo Viera"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Campo Viera"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Campo Viera"
     ],
     "name:por_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":421182631,
-    "wof:lastmodified":1527726462,
+    "wof:lastmodified":1561793260,
     "wof:name":"Campo Viera",
     "wof:parent_id":421198473,
     "wof:placetype":"locality",

@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "La Paz"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5df4\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "La Paz"
-    ],
     "name:eng_x_preferred":[
         "La Paz"
     ],
     "name:fra_x_preferred":[
-        "La Paz"
-    ],
-    "name:fre_x_preferred":[
         "La Paz"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":421168379,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561793216,
     "wof:name":"La Paz",
     "wof:parent_id":421181879,
     "wof:placetype":"locality",

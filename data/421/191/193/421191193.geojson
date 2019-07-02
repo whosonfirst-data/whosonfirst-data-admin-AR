@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0633\u062a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576 \u053d\u0578\u0582\u057d\u057f\u0578"
-    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0633\u062a\u0648"
     ],
@@ -28,14 +25,14 @@
     "name:ceb_x_preferred":[
         "San Justo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u65af\u6258"
-    ],
     "name:dan_x_preferred":[
         "San Justo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Justo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03cd\u03c3\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Justo"
@@ -51,18 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "San Justo"
-    ],
-    "name:fre_x_preferred":[
-        "San Justo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10e1\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "San Justo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03cd\u03c3\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ab8\u0acd\u0a9f\u0acb"
@@ -103,7 +88,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u091c\u0938\u094d\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Justo"
     ],
     "name:nld_x_preferred":[
@@ -115,9 +100,6 @@
     "name:nob_x_preferred":[
         "San Justo"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u062e\u0648\u0633\u062a\u0648"
-    ],
     "name:pol_x_preferred":[
         "San Justo"
     ],
@@ -125,9 +107,6 @@
         "San Justo"
     ],
     "name:ron_x_preferred":[
-        "San Justo"
-    ],
-    "name:rum_x_preferred":[
         "San Justo"
     ],
     "name:rus_x_preferred":[
@@ -216,7 +195,7 @@
         }
     ],
     "wof:id":421191193,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1561793252,
     "wof:name":"San Justo",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Santa Eufemia"
     ],
-    "name:dut_x_preferred":[
-        "Santa Eufemia"
-    ],
     "name:eng_x_preferred":[
         "Santa Eufemia"
     ],
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421195395,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561793224,
     "wof:name":"Santa Eufemia",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

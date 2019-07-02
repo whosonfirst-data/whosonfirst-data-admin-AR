@@ -16,13 +16,13 @@
     "name:cat_x_preferred":[
         "Alejandro Roca"
     ],
-    "name:dut_x_preferred":[
-        "Alejandro Roca"
-    ],
     "name:eng_x_preferred":[
         "Alejandro Roca"
     ],
     "name:glg_x_preferred":[
+        "Alejandro Roca"
+    ],
+    "name:nld_x_preferred":[
         "Alejandro Roca"
     ],
     "name:por_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421178927,
-    "wof:lastmodified":1513888932,
+    "wof:lastmodified":1561793260,
     "wof:name":"Alejandro Roca",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

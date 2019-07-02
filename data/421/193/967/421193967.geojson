@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Chacabuco"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5361\u5e03\u79d1"
-    ],
-    "name:cze_x_preferred":[
-        "Chacabuco"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Chacabuco"
     ],
     "name:eng_x_preferred":[
@@ -36,9 +30,6 @@
         "\u0686\u0627\u06a9\u0627\u0628\u0648\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
-        "Chacabuco"
-    ],
-    "name:fre_x_preferred":[
         "Chacabuco"
     ],
     "name:heb_x_preferred":[
@@ -55,9 +46,6 @@
     ],
     "name:nob_x_preferred":[
         "Chacabuco"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u06a9\u0627\u0628\u0648\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Chacabuco"
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":421193967,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1561793228,
     "wof:name":"Chacabuco",
     "wof:parent_id":1108717913,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0641\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0561 \u0556\u0565"
-    ],
     "name:aym_x_preferred":[
-        "Santa Fe"
-    ],
-    "name:baq_x_preferred":[
         "Santa Fe"
     ],
     "name:bel_x_preferred":[
@@ -41,10 +35,10 @@
     "name:cat_x_preferred":[
         "Santa Fe"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u83f2"
+    "name:ces_x_preferred":[
+        "Santa Fe"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Santa Fe"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "Santa Fe"
     ],
-    "name:dut_x_preferred":[
-        "Santa Fe"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Santa Fe"
@@ -62,8 +56,14 @@
     "name:epo_x_preferred":[
         "Santa Fe de la Vera Cruz"
     ],
+    "name:eus_x_preferred":[
+        "Santa Fe"
+    ],
     "name:ext_x_preferred":[
         "Santa Fe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0641\u0647"
     ],
     "name:fin_x_preferred":[
         "Santa Fe"
@@ -71,20 +71,8 @@
     "name:fra_x_preferred":[
         "Santa Fe"
     ],
-    "name:fre_x_preferred":[
-        "Santa Fe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e4\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Fe"
-    ],
     "name:glg_x_preferred":[
         "Santa Fe"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a6\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0aab\u0ac7"
@@ -101,6 +89,9 @@
     "name:hun_x_preferred":[
         "Santa Fe"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0556\u0565"
+    ],
     "name:ido_x_preferred":[
         "Santa Fe"
     ],
@@ -115,6 +106,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0c82\u0ca4\u0cbe \u0cab\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e4\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\ud398"
@@ -134,7 +128,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u092b\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Fe"
     ],
     "name:nah_x_preferred":[
@@ -148,9 +142,6 @@
     ],
     "name:oci_x_preferred":[
         "Santa Fe"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u062a\u0627 \u0641\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0641\u06d2"
@@ -167,9 +158,6 @@
     "name:ron_x_preferred":[
         "Santa Fe"
     ],
-    "name:rum_x_preferred":[
-        "Santa Fe"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435"
     ],
@@ -179,7 +167,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0dc6\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Santa Fe"
     ],
     "name:slv_x_preferred":[
@@ -221,8 +209,8 @@
     "name:war_x_preferred":[
         "Santa Fe"
     ],
-    "name:wel_x_preferred":[
-        "Santa Fe"
+    "name:zho_x_preferred":[
+        "\u5723\u83f2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -363,7 +351,7 @@
         }
     ],
     "wof:id":421174279,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561793238,
     "wof:name":"Santa fe de la vera cruz",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

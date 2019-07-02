@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Naschel"
     ],
-    "name:dut_x_preferred":[
-        "Naschel"
-    ],
     "name:eng_x_preferred":[
         "Naschel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naschel"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Naschel"
     ],
     "name:spa_x_preferred":[
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421191831,
-    "wof:lastmodified":1527716385,
+    "wof:lastmodified":1561793253,
     "wof:name":"Naschel",
     "wof:parent_id":1108718441,
     "wof:placetype":"locality",

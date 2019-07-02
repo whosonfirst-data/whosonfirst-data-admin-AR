@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "S\u00e1enz Pe\u00f1a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00e1enz Pe\u00f1a"
     ],
     "name:eng_x_preferred":[
-        "S\u00e1enz Pe\u00f1a"
-    ],
-    "name:ger_x_preferred":[
         "S\u00e1enz Pe\u00f1a"
     ],
     "name:jpn_x_preferred":[
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421192277,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1561793220,
     "wof:name":"S\u00e1enz Pe\u00f1a",
     "wof:parent_id":421188023,
     "wof:placetype":"locality",

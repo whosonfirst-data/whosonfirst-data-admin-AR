@@ -19,13 +19,13 @@
     "name:deu_x_preferred":[
         "Alvear"
     ],
-    "name:dut_x_preferred":[
-        "Alvear"
-    ],
     "name:eng_x_preferred":[
         "Alvear"
     ],
     "name:fra_x_preferred":[
+        "Alvear"
+    ],
+    "name:nld_x_preferred":[
         "Alvear"
     ],
     "name:por_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421185983,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1561793263,
     "wof:name":"Alvear",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

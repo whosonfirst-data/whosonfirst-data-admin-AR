@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:baq_x_preferred":[
-        "Tolomb\u00f3n"
-    ],
     "name:bar_x_preferred":[
         "Tolomb\u00f3n"
     ],
@@ -37,19 +34,19 @@
     "name:ceb_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u9686\u90a6"
+    "name:ces_x_preferred":[
+        "Tolomb\u00f3n"
     ],
     "name:cos_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:dan_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:egl_x_preferred":[
@@ -67,19 +64,19 @@
     "name:est_x_preferred":[
         "Tolomb\u00f3n"
     ],
+    "name:eus_x_preferred":[
+        "Tolomb\u00f3n"
+    ],
     "name:fin_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:frp_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:fur_x_preferred":[
-        "Tolomb\u00f3n"
-    ],
-    "name:ger_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +97,6 @@
     "name:hun_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:ice_x_preferred":[
-        "Tolomb\u00f3n"
-    ],
     "name:ido_x_preferred":[
         "Tolomb\u00f3n"
     ],
@@ -113,6 +107,9 @@
         "Tolomb\u00f3n"
     ],
     "name:ind_x_preferred":[
+        "Tolomb\u00f3n"
+    ],
+    "name:isl_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:ita_x_preferred":[
@@ -130,13 +127,13 @@
     "name:ltz_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:may_x_preferred":[
-        "Tolomb\u00f3n"
-    ],
     "name:min_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:mlg_x_preferred":[
+        "Tolomb\u00f3n"
+    ],
+    "name:msa_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:nap_x_preferred":[
@@ -175,7 +172,7 @@
     "name:roh_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:scn_x_preferred":[
@@ -184,7 +181,7 @@
     "name:sco_x_preferred":[
         "Tolomb\u00f3n"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:slv_x_preferred":[
@@ -212,9 +209,6 @@
         "Tolomb\u00f3n"
     ],
     "name:vol_x_preferred":[
-        "Tolomb\u00f3n"
-    ],
-    "name:wel_x_preferred":[
         "Tolomb\u00f3n"
     ],
     "name:wln_x_preferred":[
@@ -276,7 +270,7 @@
         }
     ],
     "wof:id":421195993,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561793224,
     "wof:name":"Tolomb\u00f3n",
     "wof:parent_id":421197591,
     "wof:placetype":"locality",

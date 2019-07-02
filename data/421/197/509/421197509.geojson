@@ -16,14 +16,11 @@
     "name:ceb_x_preferred":[
         "Teodelina"
     ],
-    "name:dut_x_preferred":[
-        "Teodelina"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Teodelina"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03bd\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d5\u05d3\u05dc\u05d9\u05e0\u05d4"
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421197509,
-    "wof:lastmodified":1527716405,
+    "wof:lastmodified":1561793254,
     "wof:name":"Teodolina",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

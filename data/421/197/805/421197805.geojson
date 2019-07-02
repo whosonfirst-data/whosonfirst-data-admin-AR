@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Suncho Corral"
     ],
-    "name:chi_x_preferred":[
-        "\u5b6b\u55ac\u79d1\u62c9\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Suncho Corral"
-    ],
-    "name:dut_x_preferred":[
         "Suncho Corral"
     ],
     "name:eng_x_preferred":[
         "Suncho Corral"
     ],
     "name:fra_x_preferred":[
-        "Suncho Corral"
-    ],
-    "name:fre_x_preferred":[
-        "Suncho Corral"
-    ],
-    "name:ger_x_preferred":[
         "Suncho Corral"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421197805,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1561793254,
     "wof:name":"Suncho Corral",
     "wof:parent_id":1108718491,
     "wof:placetype":"locality",

@@ -22,16 +22,7 @@
     "name:ces_x_preferred":[
         "Puerto San Juli\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5229\u5b89\u6e2f"
-    ],
-    "name:cze_x_preferred":[
-        "Puerto San Juli\u00e1n"
-    ],
     "name:deu_x_preferred":[
-        "Puerto San Juli\u00e1n"
-    ],
-    "name:dut_x_preferred":[
         "Puerto San Juli\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
         "Puerto San Juli\u00e1n"
     ],
     "name:fra_x_preferred":[
-        "Puerto San Juli\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto San Juli\u00e1n"
-    ],
-    "name:ger_x_preferred":[
         "Puerto San Juli\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -70,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445\u0442\u0430 \u0421\u0432\u044f\u0442\u043e\u0433\u043e \u042e\u043b\u0438\u0430\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Puerto San Juli\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -84,6 +69,9 @@
     ],
     "name:unk_x_variant":[
         "Puerto San Juli\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5229\u5b89\u6e2f"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":421204627,
-    "wof:lastmodified":1527716179,
+    "wof:lastmodified":1561793231,
     "wof:name":"San Juli\u00e1n",
     "wof:parent_id":421185323,
     "wof:placetype":"locality",

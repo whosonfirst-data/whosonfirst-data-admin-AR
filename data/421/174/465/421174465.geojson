@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Wanda"
     ],
-    "name:dut_x_preferred":[
-        "Wanda"
-    ],
     "name:eng_x_preferred":[
         "Wanda"
     ],
@@ -28,7 +25,7 @@
     "name:fra_x_preferred":[
         "Wanda"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Wanda"
     ],
     "name:por_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":421174465,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1561793237,
     "wof:name":"Wanda",
     "wof:parent_id":421198471,
     "wof:placetype":"locality",

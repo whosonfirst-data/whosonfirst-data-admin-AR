@@ -24,14 +24,14 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u09ae\u09be\u09b0\u09cd\u09b8\u09bf\u09a1\u09bf\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u585e\u5fb7\u65af\u93ae"
-    ],
     "name:dan_x_preferred":[
         "Villa Mercedes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa Mercedes"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u039c\u03b5\u03c1\u03c3\u03ad\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Villa Mercedes"
@@ -42,17 +42,8 @@
     "name:fin_x_preferred":[
         "Villa Mercedes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Mercedes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10db\u10d4\u10e0\u10e1\u10d4\u10d3\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Mercedes"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03bb\u03b1 \u039c\u03b5\u03c1\u03c3\u03ad\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe \u0aae\u0ab0\u0acd\u0ab8\u0abf\u0aa1\u0ac0\u0a9d"
@@ -90,14 +81,14 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u092e\u0930\u094d\u0938\u093f\u0921\u0940\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Villa Mercedes"
+    ],
+    "name:nld_x_preferred":[
         "Villa Mercedes"
     ],
     "name:nob_x_preferred":[
         "Villa Mercedes"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u06cc\u0627 \u0645\u0631\u0633\u062f\u0633"
     ],
     "name:pol_x_preferred":[
         "Villa Mercedes"
@@ -182,7 +173,7 @@
         }
     ],
     "wof:id":890452757,
-    "wof:lastmodified":1534379080,
+    "wof:lastmodified":1561793266,
     "wof:name":"Villa Mercedes",
     "wof:parent_id":421203353,
     "wof:placetype":"locality",

@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Colonia Aurora"
     ],
-    "name:dut_x_preferred":[
-        "Colonia Aurora"
-    ],
     "name:eng_x_preferred":[
         "Colonia Aurora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Colonia Aurora"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Colonia Aurora"
     ],
     "name:por_x_preferred":[
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421184783,
-    "wof:lastmodified":1527716449,
+    "wof:lastmodified":1561793257,
     "wof:name":"Colonia Aurora",
     "wof:parent_id":421204837,
     "wof:placetype":"locality",

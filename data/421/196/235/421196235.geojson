@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Jeppener"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Jeppener"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Jeppener"
     ],
     "name:por_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421196235,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1561793249,
     "wof:name":"Jeppener",
     "wof:parent_id":1108717883,
     "wof:placetype":"locality",

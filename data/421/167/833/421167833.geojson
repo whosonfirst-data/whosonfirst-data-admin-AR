@@ -16,17 +16,11 @@
     "name:ceb_x_preferred":[
         "San Clemente del Tuy\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "San Clemente del Tuy\u00fa"
-    ],
     "name:eng_x_preferred":[
         "San Clemente del Tuy\u00fa"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30af\u30ec\u30e1\u30f3\u30c6\u30fb\u30c7\u30eb\u30fb\u30c8\u30a5\u30e6"
-    ],
-    "name:may_x_preferred":[
-        "San Clemente del Tuy\u00fa"
     ],
     "name:msa_x_preferred":[
         "San Clemente del Tuy\u00fa"
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421167833,
-    "wof:lastmodified":1527716156,
+    "wof:lastmodified":1561793229,
     "wof:name":"San Clemente del Tuy\u00fa",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

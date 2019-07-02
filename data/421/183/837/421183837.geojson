@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Campo Quijano"
     ],
-    "name:dut_x_preferred":[
-        "Campo Quijano"
-    ],
     "name:eng_x_preferred":[
         "Campo Quijano"
     ],
     "name:fra_x_preferred":[
-        "Campo Quijano"
-    ],
-    "name:fre_x_preferred":[
         "Campo Quijano"
     ],
     "name:nld_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421183837,
-    "wof:lastmodified":1527717697,
+    "wof:lastmodified":1561793259,
     "wof:name":"Campo Quijano",
     "wof:parent_id":421180301,
     "wof:placetype":"locality",

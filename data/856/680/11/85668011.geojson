@@ -37,14 +37,8 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u0643\u0648\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0565\u0578\u0582\u056f\u0565\u0576"
-    ],
     "name:aym_x_preferred":[
         "Neuqu\u00e9n jisk'a suyu"
-    ],
-    "name:baq_x_preferred":[
-        "Neuquengo probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u0435\u045e\u043a\u0435\u043d"
@@ -67,20 +61,17 @@
     "name:ces_x_preferred":[
         "Neuqu\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u5185\u4e4c\u80af\u7701"
-    ],
     "name:cym_x_preferred":[
         "Talaith Neuqu\u00e9n"
-    ],
-    "name:cze_x_preferred":[
-        "Neuqu\u00e9n"
     ],
     "name:dan_x_preferred":[
         "Provincia de Neuqu\u00e9n"
     ],
-    "name:dut_x_preferred":[
-        "Neuqu\u00e9n"
+    "name:deu_x_preferred":[
+        "Provinz Neuqu\u00e9n"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u039d\u03b5\u03bf\u03c5\u03ba\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Neuquen"
@@ -95,23 +86,20 @@
     "name:epo_x_preferred":[
         "Provinco Ne\u016dkeno"
     ],
+    "name:eus_x_preferred":[
+        "Neuquengo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0646\u0626\u0648\u06a9\u0646"
+    ],
     "name:fin_x_preferred":[
         "Neuqu\u00e9nin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Neuqu\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d4\u10e3\u10d9\u10d4\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Neuqu\u00e9n"
     ],
     "name:glg_x_preferred":[
         "Provincia de Neuqu\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u039d\u03b5\u03bf\u03c5\u03ba\u03ad\u03bd"
     ],
     "name:grn_x_preferred":[
         "Tet\u00e3vore Neuqu\u00e9n"
@@ -131,6 +119,9 @@
     "name:hun_x_preferred":[
         "Neuqu\u00e9n tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0578\u0582\u056f\u0565\u0576"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Neuqu\u00e9n"
     ],
@@ -142,6 +133,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0ccd\u0caf\u0cc2\u0c95\u0ccd\u0cb5\u0cc6\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10e3\u10d9\u10d4\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub124\uc6b0\ucf04 \uc8fc"
@@ -158,17 +152,20 @@
     "name:lmo_x_preferred":[
         "Neuqu\u00e9n"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0435\u0443\u043a\u0432\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0947\u0909\u0915\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0443\u043a\u0432\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Neuqu\u00e9n"
     ],
     "name:nan_x_preferred":[
         "Neuqu\u00e9n S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Neuqu\u00e9n"
     ],
     "name:nob_x_preferred":[
         "Neuqu\u00e9n"
@@ -178,9 +175,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041d\u0435\u0443\u043a\u0435\u043d"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0646\u0626\u0648\u06a9\u0646"
     ],
     "name:pms_x_preferred":[
         "Neuqu\u00e9n"
@@ -197,7 +191,7 @@
     "name:que_x_preferred":[
         "Neuqu\u00e9n wamani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Neuqu\u00e9n"
     ],
     "name:rus_x_preferred":[
@@ -212,7 +206,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dd4\u0d91\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Neuqu\u00e9n"
     ],
     "name:spa_x_colloquial":[
@@ -271,8 +265,8 @@
     "name:war_x_preferred":[
         "Neuqu\u00e9n"
     ],
-    "name:wel_x_preferred":[
-        "Talaith Neuqu\u00e9n"
+    "name:zho_x_preferred":[
+        "\u5185\u4e4c\u80af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -397,7 +391,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1560895615,
+    "wof:lastmodified":1561793140,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

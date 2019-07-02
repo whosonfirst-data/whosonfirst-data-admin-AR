@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Villa de Soto Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Villa de Soto"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Villa de Soto"
     ],
     "name:por_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421198953,
-    "wof:lastmodified":1527716347,
+    "wof:lastmodified":1561793247,
     "wof:name":"Villa de Soto",
     "wof:parent_id":421191183,
     "wof:placetype":"locality",

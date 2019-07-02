@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u064a\u0641\u0627\u062f\u0627\u0641\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0574\u0578\u0580\u0578\u0564\u0578 \u054c\u056b\u057e\u0561\u0564\u0561\u057e\u056b\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Comodoro Rivadavia"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09cb\u09a1\u09cb\u09b0\u09cb \u09b0\u09bf\u09ad\u09be\u09a1\u09be\u09ad\u09bf\u09af\u09bc\u09be"
@@ -44,13 +38,10 @@
     "name:ceb_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u74e6\u8fbe\u7ef4\u4e9a\u6d77\u519b\u51c6\u5c06\u57ce"
-    ],
-    "name:cym_x_preferred":[
+    "name:ces_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Comodoro Rivadavia"
     ],
     "name:dan_x_preferred":[
@@ -59,8 +50,8 @@
     "name:deu_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:dut_x_preferred":[
-        "Comodoro Rivadavia"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03bf\u03bd\u03c4\u03cc\u03c1\u03bf \u03a1\u03b9\u03b2\u03b1\u03bd\u03c4\u03ac\u03b2\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Comodoro Rivadavia"
@@ -80,17 +71,8 @@
     "name:fra_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:fre_x_preferred":[
-        "Comodoro Rivadavia"
-    ],
-    "name:ger_x_preferred":[
-        "Comodoro Rivadavia"
-    ],
     "name:glg_x_preferred":[
         "Comodoro Rivadavia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03bf\u03bd\u03c4\u03cc\u03c1\u03bf \u03a1\u03b9\u03b2\u03b1\u03bd\u03c4\u03ac\u03b2\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aae\u0acb\u0aa1\u0acb\u0ab0\u0acb \u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0abe\u0ab5\u0abf\u0aaf\u0abe"
@@ -131,7 +113,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u092e\u094b\u0921\u094b\u0930\u094b \u0930\u093f\u0935\u093e\u0926\u093e\u0935\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Comodoro Rivadavia"
     ],
     "name:nld_x_preferred":[
@@ -143,9 +125,6 @@
     "name:nor_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0631\u06cc\u0648\u0627\u062f\u0627\u0648\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Comodoro Rivadavia"
     ],
@@ -155,9 +134,6 @@
     "name:ron_x_preferred":[
         "Comodoro Rivadavia"
     ],
-    "name:rum_x_preferred":[
-        "Comodoro Rivadavia"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e-\u0420\u0438\u0432\u0430\u0434\u0430\u0432\u0438\u044f"
     ],
@@ -165,9 +141,6 @@
         "\u0d9a\u0ddc\u0db8\u0ddc\u0da9\u0ddd\u0dbb\u0ddd \u0dbb\u0dd2\u0dc0\u0dcf\u0da9\u0dc0\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Comodoro Rivadavia"
-    ],
-    "name:slo_x_preferred":[
         "Comodoro Rivadavia"
     ],
     "name:spa_x_preferred":[
@@ -204,9 +177,6 @@
         "Comodoro Rivadavia"
     ],
     "name:war_x_preferred":[
-        "Comodoro Rivadavia"
-    ],
-    "name:wel_x_preferred":[
         "Comodoro Rivadavia"
     ],
     "name:zho_x_preferred":[
@@ -355,7 +325,7 @@
         }
     ],
     "wof:id":421174025,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1561793236,
     "wof:name":"Comodoro Rivadavia",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

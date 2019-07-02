@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "La Falda"
     ],
-    "name:dut_x_preferred":[
-        "La Falda"
-    ],
     "name:eng_x_preferred":[
         "La Falda"
     ],
     "name:fra_x_preferred":[
-        "La Falda"
-    ],
-    "name:fre_x_preferred":[
-        "La Falda"
-    ],
-    "name:ger_x_preferred":[
         "La Falda"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421195741,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1561793223,
     "wof:name":"La Falda",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

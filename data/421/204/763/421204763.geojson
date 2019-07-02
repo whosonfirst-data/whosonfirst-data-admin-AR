@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Leandro N. Alem"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6602\u5fb7\u7f85\u963f\u840a\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "Leandro N. Alem"
-    ],
     "name:eng_x_preferred":[
         "Leandro N. Alem"
     ],
     "name:fra_x_preferred":[
         "Leandro N. Alem"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Leandro N. Alem"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Leandro N. Alem"
     ],
     "name:pol_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":421204763,
-    "wof:lastmodified":1527716177,
+    "wof:lastmodified":1561793231,
     "wof:name":"Leandro N. Alem",
     "wof:parent_id":1108718371,
     "wof:placetype":"locality",

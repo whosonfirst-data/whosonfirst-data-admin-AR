@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Lucila del Mar"
     ],
-    "name:dut_x_preferred":[
-        "La Lucila del Mar"
-    ],
     "name:eng_x_preferred":[
         "La Lucila del Mar"
     ],
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":421171153,
-    "wof:lastmodified":1527726489,
+    "wof:lastmodified":1561793262,
     "wof:name":"La Lucila del Mar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

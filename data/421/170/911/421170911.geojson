@@ -25,9 +25,6 @@
     "name:fra_x_preferred":[
         "Theobald"
     ],
-    "name:fre_x_preferred":[
-        "Theobald"
-    ],
     "name:hbs_x_preferred":[
         "Theobald"
     ],
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":421170911,
-    "wof:lastmodified":1527716474,
+    "wof:lastmodified":1561793258,
     "wof:name":"Theobald",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

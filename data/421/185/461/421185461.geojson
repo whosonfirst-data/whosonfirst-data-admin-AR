@@ -13,17 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5df4\u897f\u5229\u5967\u6d85\u5df4\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Villa Basilio Nievas"
-    ],
     "name:eng_x_preferred":[
         "Villa Basilio Nievas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Basilio Nievas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Basilio Nievas"
     ],
     "name:por_x_preferred":[
         "Villa Basilio Nievas"
@@ -36,6 +33,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0411\u0430\u0441\u0456\u043b\u0456\u043e-\u041d\u044c\u0454\u0432\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u897f\u5229\u5967\u6d85\u5df4\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421185461,
-    "wof:lastmodified":1513889585,
+    "wof:lastmodified":1561793263,
     "wof:name":"Villa Basilio Nievas",
     "wof:parent_id":421205537,
     "wof:placetype":"locality",

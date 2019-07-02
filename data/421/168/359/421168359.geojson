@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "Tilcara"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u723e\u5361\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Tilcara"
-    ],
-    "name:dut_x_preferred":[
         "Tilcara"
     ],
     "name:eng_x_preferred":[
         "Tilcara"
     ],
     "name:fra_x_preferred":[
-        "Tilcara"
-    ],
-    "name:fre_x_preferred":[
-        "Tilcara"
-    ],
-    "name:ger_x_preferred":[
         "Tilcara"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421168359,
-    "wof:lastmodified":1513889565,
+    "wof:lastmodified":1561793217,
     "wof:name":"Tilcara",
     "wof:parent_id":421191805,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Chajar\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Chajar\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Chajar\u00ed"
     ],
     "name:fra_x_preferred":[
-        "Chajar\u00ed"
-    ],
-    "name:fre_x_preferred":[
         "Chajar\u00ed"
     ],
     "name:heb_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421205329,
-    "wof:lastmodified":1527716222,
+    "wof:lastmodified":1561793235,
     "wof:name":"Chajar\u00ed",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

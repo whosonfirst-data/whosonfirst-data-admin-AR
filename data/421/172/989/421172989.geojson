@@ -16,13 +16,13 @@
     "name:ast_x_preferred":[
         "Gorina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Joaqu\u00edn Gorina"
     ],
     "name:eng_x_preferred":[
         "Joaqu\u00edn Gorina"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Joaqu\u00edn Gorina"
     ],
     "name:spa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421172989,
-    "wof:lastmodified":1513889208,
+    "wof:lastmodified":1561793243,
     "wof:name":"Joaqu\u00edn Gorina",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

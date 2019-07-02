@@ -19,13 +19,10 @@
     "name:ceb_x_preferred":[
         "Fraile Pintado"
     ],
-    "name:dut_x_preferred":[
-        "Fraile Pintado"
-    ],
     "name:eng_x_preferred":[
         "Fraile Pintado"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fraile Pintado"
     ],
     "name:ita_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421182637,
-    "wof:lastmodified":1527726459,
+    "wof:lastmodified":1561793260,
     "wof:name":"Fraile Pintado",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

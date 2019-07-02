@@ -16,19 +16,16 @@
     "name:ceb_x_preferred":[
         "Jacinto Arauz"
     ],
-    "name:dut_x_preferred":[
-        "Jacinto Ar\u00e1uz"
-    ],
     "name:eng_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
     "name:fra_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
     "name:por_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421195081,
-    "wof:lastmodified":1527716123,
+    "wof:lastmodified":1561793225,
     "wof:name":"Jacinto Arauz",
     "wof:parent_id":421181665,
     "wof:placetype":"locality",

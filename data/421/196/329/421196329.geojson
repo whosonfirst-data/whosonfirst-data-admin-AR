@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Urdinarrain"
     ],
-    "name:dut_x_preferred":[
-        "Urdinarrain"
-    ],
     "name:eng_x_preferred":[
         "Urdinarrain"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421196329,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561793252,
     "wof:name":"Urdinarrain",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

@@ -25,12 +25,6 @@
     "name:ceb_x_preferred":[
         "Mart\u00ednez"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e01\u5167\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Mart\u00ednez"
-    ],
     "name:eng_x_preferred":[
         "Mart\u00ednez"
     ],
@@ -40,12 +34,6 @@
     "name:fra_x_preferred":[
         "Mart\u00ednez"
     ],
-    "name:fre_x_preferred":[
-        "Mart\u00ednez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10e2\u10d8\u10dc\u10d4\u10e1\u10d8"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d9\u05e0\u05e1"
     ],
@@ -54,9 +42,6 @@
     ],
     "name:nld_x_preferred":[
         "Mart\u00ednez"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u062a\u06cc\u0646\u0633"
     ],
     "name:sco_x_preferred":[
         "Mart\u00ednez"
@@ -69,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0456\u043d\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e01\u5167\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421178069,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561793260,
     "wof:name":"Mart\u00ednez",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Ap\u00f3stoles"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6ce2\u65af\u6258\u840a\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ap\u00f3stoles"
     ],
     "name:eng_x_preferred":[
         "Ap\u00f3stoles"
     ],
     "name:fra_x_preferred":[
-        "Ap\u00f3stoles"
-    ],
-    "name:fre_x_preferred":[
-        "Ap\u00f3stoles"
-    ],
-    "name:ger_x_preferred":[
         "Ap\u00f3stoles"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +32,9 @@
         "Apostolesas"
     ],
     "name:mwl_x_preferred":[
+        "Ap\u00f3stoles"
+    ],
+    "name:nld_x_preferred":[
         "Ap\u00f3stoles"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":421174033,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561793238,
     "wof:name":"Ap\u00f3stoles",
     "wof:parent_id":1108718365,
     "wof:placetype":"locality",

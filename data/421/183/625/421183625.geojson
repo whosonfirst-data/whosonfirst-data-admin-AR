@@ -16,28 +16,13 @@
     "mz:is_current":0,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u057d \u053c\u0561\u056d\u0561\u057d"
-    ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u62c9\u54c8\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Las Lajas"
-    ],
-    "name:dut_x_preferred":[
         "Las Lajas"
     ],
     "name:eng_x_preferred":[
         "Las Lajas"
     ],
     "name:fra_x_preferred":[
-        "Las Lajas"
-    ],
-    "name:fre_x_preferred":[
-        "Las Lajas"
-    ],
-    "name:ger_x_preferred":[
         "Las Lajas"
     ],
     "name:glg_x_preferred":[
@@ -51,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Las Lachasas"
+    ],
+    "name:nld_x_preferred":[
+        "Las Lajas"
     ],
     "name:por_x_preferred":[
         "Las Lajas"
@@ -210,7 +198,7 @@
         }
     ],
     "wof:id":421183625,
-    "wof:lastmodified":1534379080,
+    "wof:lastmodified":1561793259,
     "wof:name":"Las Lajas",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",

@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Chichinales"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Chichinales"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Chichinales"
     ],
     "name:spa_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421166741,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1561793218,
     "wof:name":"Chichinales",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

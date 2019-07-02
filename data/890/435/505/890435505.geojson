@@ -16,16 +16,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:chi_x_preferred":[
-        "\u7dad\u514b\u6258\u91cc\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Victorica"
-    ],
     "name:eng_x_preferred":[
         "Victorica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Victorica"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +27,9 @@
     ],
     "name:lit_x_preferred":[
         "Viktorika"
+    ],
+    "name:nld_x_preferred":[
+        "Victorica"
     ],
     "name:por_x_preferred":[
         "Victorica"
@@ -48,6 +45,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u514b\u6258\u91cc\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":890435505,
-    "wof:lastmodified":1527793044,
+    "wof:lastmodified":1561793268,
     "wof:name":"Victorica",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

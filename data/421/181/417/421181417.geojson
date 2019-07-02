@@ -22,14 +22,11 @@
     "name:ceb_x_preferred":[
         "Federaci\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u5fb7\u62c9\u897f\u7fc1"
-    ],
     "name:dan_x_preferred":[
         "Federaci\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Federaci\u00f3n"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03bd\u03c4\u03b5\u03c1\u03b1\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Federaci\u00f3n"
@@ -39,12 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Federaci\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Federaci\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b5\u03bd\u03c4\u03b5\u03c1\u03b1\u03c3\u03b9\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0aa1\u0ac7\u0ab0\u0ac7\u0ab8\u0abf\u0a93\u0aa8"
@@ -76,7 +67,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0947\u0921\u0947\u0930\u0938\u0940\u0913\u0902\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Federacion"
     ],
     "name:nld_x_preferred":[
@@ -174,7 +165,7 @@
         }
     ],
     "wof:id":421181417,
-    "wof:lastmodified":1513889175,
+    "wof:lastmodified":1561793245,
     "wof:name":"Federaci\u00f3n",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

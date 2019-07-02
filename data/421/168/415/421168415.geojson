@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "De\u00e1n Funes"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5b89\u5bcc\u5167\u65af"
-    ],
     "name:deu_x_preferred":[
-        "De\u00e1n Funes"
-    ],
-    "name:dut_x_preferred":[
         "De\u00e1n Funes"
     ],
     "name:eng_x_preferred":[
         "De\u00e1n Funes"
     ],
     "name:fra_x_preferred":[
-        "De\u00e1n Funes"
-    ],
-    "name:fre_x_preferred":[
-        "De\u00e1n Funes"
-    ],
-    "name:ger_x_preferred":[
         "De\u00e1n Funes"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +102,7 @@
         }
     ],
     "wof:id":421168415,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561793216,
     "wof:name":"De\u00e1n Funes",
     "wof:parent_id":421204057,
     "wof:placetype":"locality",

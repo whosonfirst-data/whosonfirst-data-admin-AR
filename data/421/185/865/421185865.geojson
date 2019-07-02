@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "R\u00edo Ceballos"
     ],
-    "name:dut_x_preferred":[
-        "R\u00edo Ceballos"
-    ],
     "name:eng_x_preferred":[
         "R\u00edo Ceballos"
     ],
-    "name:fre_x_preferred":[
-        "R\u00edo Ceballos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00edo Ceballos"
     ],
     "name:glg_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421185865,
-    "wof:lastmodified":1527726510,
+    "wof:lastmodified":1561793263,
     "wof:name":"R\u00edo Ceballos",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

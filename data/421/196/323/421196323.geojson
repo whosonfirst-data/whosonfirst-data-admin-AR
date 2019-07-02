@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Oncativo"
     ],
-    "name:chi_x_preferred":[
-        "\u7fc1\u5361\u8482\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Oncativo"
-    ],
     "name:eng_x_preferred":[
         "Oncativo capital"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oncativo"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +39,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043d\u043a\u0430\u0442\u0456\u0432\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u5361\u8482\u6c83"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421196323,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1561793250,
     "wof:name":"Oncativo",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

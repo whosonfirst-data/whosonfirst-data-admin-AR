@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Santa Ana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Ana"
     ],
     "name:por_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421173599,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561793240,
     "wof:name":"Santa Ana",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

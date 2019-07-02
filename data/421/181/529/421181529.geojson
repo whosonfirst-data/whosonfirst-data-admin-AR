@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Itacaruar\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Itacaruar\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Itacaruar\u00e9"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421181529,
-    "wof:lastmodified":1527716325,
+    "wof:lastmodified":1561793245,
     "wof:name":"Itacaruar\u00e9",
     "wof:parent_id":1108718375,
     "wof:placetype":"locality",

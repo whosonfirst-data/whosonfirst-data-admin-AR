@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Coquimbito"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Coquimbito"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Coquimbito"
     ],
     "name:spa_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":421174267,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1561793237,
     "wof:name":"Coquimbito",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

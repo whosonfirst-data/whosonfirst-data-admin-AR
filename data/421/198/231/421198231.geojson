@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "San Salvador"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u85a9\u723e\u74e6\u591a"
-    ],
     "name:deu_x_preferred":[
-        "San Salvador"
-    ],
-    "name:dut_x_preferred":[
         "San Salvador"
     ],
     "name:eng_x_preferred":[
         "San Salvador"
     ],
     "name:fra_x_preferred":[
-        "San Salvador"
-    ],
-    "name:fre_x_preferred":[
-        "San Salvador"
-    ],
-    "name:ger_x_preferred":[
         "San Salvador"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +97,7 @@
         }
     ],
     "wof:id":421198231,
-    "wof:lastmodified":1527716356,
+    "wof:lastmodified":1561793248,
     "wof:name":"San Salvador",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Juan Bautista Alberdi"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b89\u5305\u8482\u65af\u5854\u963f\u723e\u97cb\u8fea"
-    ],
     "name:deu_x_preferred":[
-        "Juan Bautista Alberdi"
-    ],
-    "name:dut_x_preferred":[
         "Juan Bautista Alberdi"
     ],
     "name:eng_x_preferred":[
         "Juan Bautista Alberdi"
     ],
-    "name:fre_x_preferred":[
-        "Juan Bautista Alberdi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Juan Bautista Alberdi"
     ],
     "name:ita_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":421175661,
-    "wof:lastmodified":1527716338,
+    "wof:lastmodified":1561793246,
     "wof:name":"Juan Bautista Alberdi",
     "wof:parent_id":421173249,
     "wof:placetype":"locality",

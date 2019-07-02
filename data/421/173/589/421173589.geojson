@@ -22,9 +22,6 @@
     "name:fra_x_preferred":[
         "Zelaya"
     ],
-    "name:fre_x_preferred":[
-        "Zelaya"
-    ],
     "name:spa_x_preferred":[
         "Zelaya"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421173589,
-    "wof:lastmodified":1527716257,
+    "wof:lastmodified":1561793240,
     "wof:name":"Zelaya",
     "wof:parent_id":1108718057,
     "wof:placetype":"locality",

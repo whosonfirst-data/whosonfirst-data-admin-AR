@@ -22,38 +22,29 @@
     "name:ben_x_preferred":[
         "\u0993\u09b2\u09cd\u09ad\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u74e6\u91cc\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Olavarr\u00eda"
     ],
     "name:dan_x_preferred":[
         "Olavarr\u00eda"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Olavarr\u00eda"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bb\u03b1\u03b2\u03ac\u03c1\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Olavarr\u00eda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u0648\u0627\u0631\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Olavarr\u00eda"
     ],
     "name:fra_x_preferred":[
         "Olavarr\u00eda"
-    ],
-    "name:fre_x_preferred":[
-        "Olavarr\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10da\u10d0\u10d5\u10d0\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Olavarr\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bb\u03b1\u03b2\u03ac\u03c1\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab2\u0abe\u0ab5\u0ab0\u0abf\u0aaf\u0abe"
@@ -76,6 +67,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0cb2\u0cbe\u0cb5\u0cb0\u0ccd\u0cb0\u0cbf\u0caf\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10d0\u10d5\u10d0\u10e0\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc62c\ub77c\ubc14\ub9ac\uc544"
     ],
@@ -88,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u0913\u0932\u093e\u0935\u093e\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Olavarria"
     ],
     "name:nld_x_preferred":[
@@ -96,9 +90,6 @@
     ],
     "name:nob_x_preferred":[
         "Olavarria"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u0627\u0648\u0627\u0631\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Olavarr\u00eda"
@@ -118,7 +109,7 @@
     "name:sin_x_preferred":[
         "\u0d95\u0dbd\u0dc0\u0dbb\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Olavarr\u00eda"
     ],
     "name:spa_x_preferred":[
@@ -150,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Olavarria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u74e6\u91cc\u4e9e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -195,7 +189,7 @@
         }
     ],
     "wof:id":421172035,
-    "wof:lastmodified":1513888935,
+    "wof:lastmodified":1561793243,
     "wof:name":"Alvaro Barros",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

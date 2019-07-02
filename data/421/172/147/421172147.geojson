@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Capilla del Se\u00f1or"
     ],
-    "name:dut_x_preferred":[
-        "Capilla del Se\u00f1or"
-    ],
     "name:eng_x_preferred":[
         "Capilla del Se\u00f1or"
     ],
     "name:fra_x_preferred":[
-        "Capilla del Se\u00f1or"
-    ],
-    "name:fre_x_preferred":[
         "Capilla del Se\u00f1or"
     ],
     "name:glg_x_preferred":[
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":421172147,
-    "wof:lastmodified":1527716310,
+    "wof:lastmodified":1561793243,
     "wof:name":"Capilla del Se\u00f1or",
     "wof:parent_id":1108717931,
     "wof:placetype":"locality",

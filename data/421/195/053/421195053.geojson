@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Viale"
     ],
-    "name:baq_x_preferred":[
-        "Viale"
-    ],
     "name:bar_x_preferred":[
         "Viale"
     ],
@@ -40,16 +37,19 @@
     "name:ceb_x_preferred":[
         "Viale"
     ],
+    "name:ces_x_preferred":[
+        "Viale"
+    ],
     "name:cos_x_preferred":[
         "Viale"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Viale"
     ],
     "name:dan_x_preferred":[
         "Viale"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Viale"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "Viale"
     ],
+    "name:eus_x_preferred":[
+        "Viale"
+    ],
     "name:fin_x_preferred":[
         "Viale"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Viale"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Viale"
     ],
     "name:frp_x_preferred":[
         "Viale"
     ],
     "name:fur_x_preferred":[
-        "Viale"
-    ],
-    "name:ger_x_preferred":[
         "Viale"
     ],
     "name:gla_x_preferred":[
@@ -136,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Viale"
     ],
-    "name:may_x_preferred":[
-        "Viale"
-    ],
     "name:min_x_preferred":[
         "Viale"
     ],
     "name:mlg_x_preferred":[
         "Viale"
     ],
+    "name:msa_x_preferred":[
+        "Viale"
+    ],
     "name:nap_x_preferred":[
         "Viale"
     ],
     "name:nds_x_preferred":[
+        "Viale"
+    ],
+    "name:nld_x_preferred":[
         "Viale"
     ],
     "name:nno_x_preferred":[
@@ -187,7 +190,7 @@
     "name:roh_x_preferred":[
         "Viale"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Viale"
     ],
     "name:scn_x_preferred":[
@@ -196,7 +199,7 @@
     "name:sco_x_preferred":[
         "Viale"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Viale"
     ],
     "name:spa_x_preferred":[
@@ -230,9 +233,6 @@
         "Viale"
     ],
     "name:vol_x_preferred":[
-        "Viale"
-    ],
-    "name:wel_x_preferred":[
         "Viale"
     ],
     "name:wln_x_preferred":[
@@ -292,7 +292,7 @@
         }
     ],
     "wof:id":421195053,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1561793222,
     "wof:name":"Viale",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

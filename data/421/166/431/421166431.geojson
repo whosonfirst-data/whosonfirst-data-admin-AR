@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "La Toma"
     ],
-    "name:baq_x_preferred":[
-        "La Toma"
-    ],
     "name:bar_x_preferred":[
         "La Toma"
     ],
@@ -37,22 +34,19 @@
     "name:ceb_x_preferred":[
         "La Toma"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6258\u99ac"
+    "name:ces_x_preferred":[
+        "La Toma"
     ],
     "name:cos_x_preferred":[
         "La Toma"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "La Toma"
     ],
     "name:dan_x_preferred":[
         "La Toma"
     ],
     "name:deu_x_preferred":[
-        "La Toma"
-    ],
-    "name:dut_x_preferred":[
         "La Toma"
     ],
     "name:eng_x_preferred":[
@@ -64,22 +58,19 @@
     "name:est_x_preferred":[
         "La Toma"
     ],
+    "name:eus_x_preferred":[
+        "La Toma"
+    ],
     "name:fin_x_preferred":[
         "La Toma"
     ],
     "name:fra_x_preferred":[
         "La Toma"
     ],
-    "name:fre_x_preferred":[
-        "La Toma"
-    ],
     "name:frp_x_preferred":[
         "La Toma"
     ],
     "name:fur_x_preferred":[
-        "La Toma"
-    ],
-    "name:ger_x_preferred":[
         "La Toma"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +91,6 @@
     "name:hun_x_preferred":[
         "La Toma"
     ],
-    "name:ice_x_preferred":[
-        "La Toma"
-    ],
     "name:ido_x_preferred":[
         "La Toma"
     ],
@@ -113,6 +101,9 @@
         "La Toma"
     ],
     "name:ind_x_preferred":[
+        "La Toma"
+    ],
+    "name:isl_x_preferred":[
         "La Toma"
     ],
     "name:ita_x_preferred":[
@@ -133,13 +124,13 @@
     "name:ltz_x_preferred":[
         "La Toma"
     ],
-    "name:may_x_preferred":[
-        "La Toma"
-    ],
     "name:min_x_preferred":[
         "La Toma"
     ],
     "name:mlg_x_preferred":[
+        "La Toma"
+    ],
+    "name:msa_x_preferred":[
         "La Toma"
     ],
     "name:nap_x_preferred":[
@@ -178,7 +169,7 @@
     "name:roh_x_preferred":[
         "La Toma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "La Toma"
     ],
     "name:scn_x_preferred":[
@@ -187,7 +178,7 @@
     "name:sco_x_preferred":[
         "La Toma"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "La Toma"
     ],
     "name:slv_x_preferred":[
@@ -224,9 +215,6 @@
         "La Toma"
     ],
     "name:vol_x_preferred":[
-        "La Toma"
-    ],
-    "name:wel_x_preferred":[
         "La Toma"
     ],
     "name:wln_x_preferred":[
@@ -289,7 +277,7 @@
         }
     ],
     "wof:id":421166431,
-    "wof:lastmodified":1527716103,
+    "wof:lastmodified":1561793218,
     "wof:name":"La Toma",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

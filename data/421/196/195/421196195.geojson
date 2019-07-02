@@ -16,10 +16,10 @@
     "name:deu_x_preferred":[
         "M\u00e9danos"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "M\u00e9danos"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "M\u00e9danos"
     ],
     "name:por_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421196195,
-    "wof:lastmodified":1527716360,
+    "wof:lastmodified":1561793249,
     "wof:name":"M\u00e9danos",
     "wof:parent_id":1108718137,
     "wof:placetype":"locality",

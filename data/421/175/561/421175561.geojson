@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Nogoy\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u6208\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Nogoy\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Basavilbaso"
     ],
     "name:fra_x_preferred":[
-        "Nogoy\u00e1"
-    ],
-    "name:fre_x_preferred":[
         "Nogoy\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -98,7 +89,7 @@
         }
     ],
     "wof:id":421175561,
-    "wof:lastmodified":1513889344,
+    "wof:lastmodified":1561793245,
     "wof:name":"Nogoy\u00e1",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

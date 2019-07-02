@@ -16,16 +16,13 @@
     "name:ceb_x_preferred":[
         "El Tr\u00e9bol"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Tr\u00e9bol"
     ],
     "name:eng_x_preferred":[
         "El Tr\u00e9bol"
     ],
-    "name:fre_x_preferred":[
-        "El Tr\u00e9bol"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "El Tr\u00e9bol"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421178979,
-    "wof:lastmodified":1527717722,
+    "wof:lastmodified":1561793260,
     "wof:name":"El Tr\u00e9bol",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

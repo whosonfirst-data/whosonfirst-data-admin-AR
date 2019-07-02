@@ -16,25 +16,16 @@
     "name:ceb_x_preferred":[
         "La Cocha"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u79d1\u67e5"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Cocha"
     ],
     "name:deu_x_preferred":[
         "La Cocha"
     ],
-    "name:dut_x_preferred":[
-        "La Cocha"
-    ],
     "name:eng_x_preferred":[
         "La Cocha"
     ],
-    "name:fre_x_preferred":[
-        "La Cocha"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Cocha"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421196199,
-    "wof:lastmodified":1513889218,
+    "wof:lastmodified":1561793251,
     "wof:name":"La Cocha",
     "wof:parent_id":421173251,
     "wof:placetype":"locality",

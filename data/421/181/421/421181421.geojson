@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "General Enrique Godoy"
     ],
-    "name:dut_x_preferred":[
-        "General Enrique Godoy"
-    ],
     "name:eng_x_preferred":[
         "General Enrique Godoy"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421181421,
-    "wof:lastmodified":1527716327,
+    "wof:lastmodified":1561793245,
     "wof:name":"General Enrique Godoy",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

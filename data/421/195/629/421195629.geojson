@@ -16,23 +16,20 @@
     "name:ceb_x_preferred":[
         "Santa Teresita"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Santa Teresita"
     ],
     "name:deu_x_preferred":[
         "Santa Teresita"
     ],
-    "name:dut_x_preferred":[
-        "Santa Teresita"
-    ],
     "name:eng_x_preferred":[
-        "Santa Teresita"
-    ],
-    "name:ger_x_preferred":[
         "Santa Teresita"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30c6\u30ec\u30b7\u30fc\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Teresita"
     ],
     "name:pol_x_preferred":[
         "Santa Teresita"
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421195629,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561793222,
     "wof:name":"Santa Teresita",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

@@ -16,13 +16,13 @@
     "name:ast_x_preferred":[
         "Ringuelet"
     ],
-    "name:dut_x_preferred":[
-        "Ringuelet"
-    ],
     "name:eng_x_preferred":[
         "Ringuelet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Ringuelet"
+    ],
+    "name:nld_x_preferred":[
         "Ringuelet"
     ],
     "name:por_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421166723,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561793218,
     "wof:name":"Ringuelet",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

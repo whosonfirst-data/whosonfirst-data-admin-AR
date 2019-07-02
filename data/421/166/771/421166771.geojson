@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Campo Grande"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u574e\u6ce2"
-    ],
     "name:deu_x_preferred":[
-        "Campo Grande"
-    ],
-    "name:dut_x_preferred":[
         "Campo Grande"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Campo Grande"
     ],
-    "name:fre_x_preferred":[
-        "Campo Grande"
-    ],
-    "name:ger_x_preferred":[
-        "Campo Grande"
-    ],
     "name:ita_x_preferred":[
+        "Campo Grande"
+    ],
+    "name:nld_x_preferred":[
         "Campo Grande"
     ],
     "name:pol_x_preferred":[
@@ -47,9 +38,6 @@
         "Campo Grande"
     ],
     "name:slk_x_preferred":[
-        "Campo Grande"
-    ],
-    "name:slo_x_preferred":[
         "Campo Grande"
     ],
     "name:spa_x_preferred":[
@@ -112,7 +100,7 @@
         }
     ],
     "wof:id":421166771,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1561793218,
     "wof:name":"Campo Grande",
     "wof:parent_id":421183163,
     "wof:placetype":"locality",

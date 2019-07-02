@@ -13,20 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u80e1\u5be7"
-    ],
-    "name:dut_x_preferred":[
-        "Jun\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Jun\u00edn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jun\u00edn"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30cb\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Jun\u00edn"
     ],
     "name:por_x_preferred":[
         "Jun\u00edn"
@@ -39,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "Villa Jun\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5be7"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421174643,
-    "wof:lastmodified":1513889217,
+    "wof:lastmodified":1561793236,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":1108718355,
     "wof:placetype":"locality",
