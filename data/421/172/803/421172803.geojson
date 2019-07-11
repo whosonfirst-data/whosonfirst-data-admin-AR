@@ -20,17 +20,32 @@
     "name:ceb_x_preferred":[
         "Lincoln"
     ],
+    "name:deu_x_preferred":[
+        "Lincoln"
+    ],
+    "name:eng_x_preferred":[
+        "Lincoln"
+    ],
     "name:fra_x_preferred":[
         "Lincoln"
     ],
     "name:ita_x_preferred":[
         "Lincoln"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b3\u30eb\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Lincoln"
     ],
     "name:pol_x_preferred":[
         "Lincoln"
+    ],
+    "name:por_x_preferred":[
+        "Lincoln"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d"
     ],
     "name:san_x_preferred":[
         "\u0932\u093f\u0902\u0915\u0928\u094d"
@@ -41,8 +56,17 @@
     "name:swe_x_preferred":[
         "Lincoln"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u043a\u043e\u043b\u044c\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0646\u06a9\u0646\u060c \u0628\u06cc\u0648\u0646\u0633 \u0622\u0626\u0631\u0633 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0646\u06a9\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u80af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -187,7 +211,7 @@
         }
     ],
     "wof:id":421172803,
-    "wof:lastmodified":1527716302,
+    "wof:lastmodified":1562866740,
     "wof:name":"Lincoln",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loventu\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Loventue"
+    ],
+    "name:spa_x_preferred":[
+        "Loventu\u00e9"
+    ],
     "name:und_x_variant":[
         "Loventuel",
         "Loventu\u00e9"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1277064769,
-    "wof:lastmodified":1537584858,
+    "wof:lastmodified":1562865916,
     "wof:name":"Loventue",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

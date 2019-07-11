@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Dolavon"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0430\u0432\u043e\u043d"
+    ],
     "name:sco_x_preferred":[
         "Dolavon"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Colonia Dolav\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u62c9\u8c50"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421195777,
-    "wof:lastmodified":1561793223,
+    "wof:lastmodified":1562866555,
     "wof:name":"Dolav\u00f3n",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

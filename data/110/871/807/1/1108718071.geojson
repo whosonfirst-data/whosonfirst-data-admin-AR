@@ -37,10 +37,49 @@
     "mps:longitude":-58.899327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rauch"
+    ],
+    "name:deu_x_preferred":[
+        "Rauch"
+    ],
     "name:eng_x_preferred":[
         "Rauch"
     ],
     "name:eng_x_variant":[
+        "Rauch"
+    ],
+    "name:fra_x_preferred":[
+        "Rauch"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05d5\u05da"
+    ],
+    "name:hun_x_preferred":[
+        "Rauch"
+    ],
+    "name:ita_x_preferred":[
+        "Rauch"
+    ],
+    "name:nds_x_preferred":[
+        "Rauch"
+    ],
+    "name:nld_x_preferred":[
+        "Rauch"
+    ],
+    "name:ron_x_preferred":[
+        "Rauch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Rauch"
+    ],
+    "name:spa_x_preferred":[
+        "Rauch"
+    ],
+    "name:swe_x_preferred":[
         "Rauch"
     ],
     "src:geom":"meso",
@@ -78,7 +117,7 @@
         }
     ],
     "wof:id":1108718071,
-    "wof:lastmodified":1560901506,
+    "wof:lastmodified":1562866311,
     "wof:name":"Rauch",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0623\u0646\u0637\u0648\u0646\u064a\u0648 \u0623\u0648\u064a\u0633\u062a\u064a"
+    ],
     "name:cat_x_preferred":[
         "San Antonio Oeste"
     ],
@@ -26,20 +29,35 @@
     "name:deu_x_preferred":[
         "San Antonio Oeste"
     ],
+    "name:eng_x_preferred":[
+        "San Antonio Oeste"
+    ],
     "name:fra_x_preferred":[
         "San Antonio Oeste"
     ],
     "name:ita_x_preferred":[
         "San Antonio Oeste"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30aa\u30a8\u30b9\u30c6"
+    ],
     "name:lit_x_preferred":[
         "San Antonio Oest\u0117"
+    ],
+    "name:lit_x_variant":[
+        "San Antonijo Oest\u0117"
     ],
     "name:nld_x_preferred":[
         "San Antonio Oeste"
     ],
+    "name:pol_x_preferred":[
+        "San Antonio Oeste"
+    ],
     "name:por_x_preferred":[
         "San Antonio Oeste"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e-\u041e\u044d\u0441\u0442\u0435"
     ],
     "name:slk_x_preferred":[
         "San Antonio Oeste"
@@ -49,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "San Antonio Oeste"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0456\u043e-\u041e\u0435\u0441\u0442\u0435"
     ],
     "name:unk_x_variant":[
         "Puerto San Antonio Oeste"
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":421172339,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1562866735,
     "wof:name":"San Antonio Oeste",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

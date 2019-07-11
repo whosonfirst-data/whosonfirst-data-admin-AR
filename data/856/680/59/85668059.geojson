@@ -40,11 +40,21 @@
     "name:aym_x_preferred":[
         "Tukuman jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u0645\u0627\u0646 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u0443\u043a\u0443\u043c\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u0443\u043a\u0443\u043c\u0430\u043d",
+        "\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u0995\u09c1\u09ae\u09cd\u09af\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c1\u0995\u09c1\u09ae\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Tucum\u00e1n"
@@ -63,6 +73,9 @@
     ],
     "name:dan_x_preferred":[
         "Provincia de Tucum\u00e1n"
+    ],
+    "name:dan_x_variant":[
+        "Tucum\u00e1n"
     ],
     "name:deu_x_preferred":[
         "Provinz Tucum\u00e1n"
@@ -83,11 +96,17 @@
     "name:epo_x_preferred":[
         "Provincia de Tucum\u00e1n"
     ],
+    "name:epo_x_variant":[
+        "Tukumano"
+    ],
     "name:eus_x_preferred":[
         "Tucum\u00e1ngo probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Tucum\u00e1nin maakunta"
@@ -97,6 +116,9 @@
     ],
     "name:glg_x_preferred":[
         "Provincia de Tucum\u00e1n"
+    ],
+    "name:glg_x_variant":[
+        "Tucum\u00e1n"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0a95\u0ac1\u0aae\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -124,6 +146,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud22c\ucfe0\ub9cc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud22c\ucfe0\ub9cc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Tucum\u00e1n"
     ],
     "name:lav_x_preferred":[
         "Tukumanas province"
@@ -155,8 +183,14 @@
     "name:nob_x_preferred":[
         "Tucum\u00e1n"
     ],
+    "name:nor_x_preferred":[
+        "Tucum\u00e1n"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Tucum\u00e1n"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
     ],
     "name:pms_x_preferred":[
         "Tucuman"
@@ -178,6 +212,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Tucum\u00e1n"
     ],
     "name:sco_x_preferred":[
         "Tucum\u00e1n"
@@ -238,6 +275,9 @@
     ],
     "name:tur_x_preferred":[
         "Tucum\u00e1n eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "Tucum\u00e1n"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
@@ -383,7 +423,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793139,
+    "wof:lastmodified":1562865741,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

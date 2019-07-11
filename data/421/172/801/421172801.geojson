@@ -131,6 +131,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e25\u0e32\u0e1a\u0e32\u0e23\u0e4c\u0e23\u0e35\u0e2d\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e25\u0e32\u0e1a\u0e32\u0e23\u0e4c\u0e23\u0e34\u0e2d\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Olavarr\u00eda"
     ],
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421172801,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866750,
     "wof:name":"Olavarr\u00eda",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

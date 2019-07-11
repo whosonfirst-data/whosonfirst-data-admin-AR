@@ -27,6 +27,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gua\u00f1acos"
+    ],
     "name:und_x_variant":[
         "Guanaco",
         "Gua\u00f1acos"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276951187,
-    "wof:lastmodified":1537584874,
+    "wof:lastmodified":1562865965,
     "wof:name":"Guanacos",
     "wof:parent_id":1108718383,
     "wof:placetype":"locality",

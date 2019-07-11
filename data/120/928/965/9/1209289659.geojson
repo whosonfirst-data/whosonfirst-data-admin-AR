@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Juan Llerena"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Llerena"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Llerena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209289659,
-    "wof:lastmodified":1537486330,
+    "wof:lastmodified":1562866147,
     "wof:name":"Juan Llerena",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

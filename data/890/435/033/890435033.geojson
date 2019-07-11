@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oro Verde"
+    ],
     "name:eng_x_preferred":[
         "Oro Verde"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890435033,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867141,
     "wof:name":"Oro Verde",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

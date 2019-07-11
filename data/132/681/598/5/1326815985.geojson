@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Betbeder"
+    ],
+    "name:spa_x_preferred":[
+        "Betbeder"
+    ],
     "name:und_x_variant":[
         "Belbeder",
         "Betbeder"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326815985,
-    "wof:lastmodified":1537584829,
+    "wof:lastmodified":1562865483,
     "wof:name":"Betbeder",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

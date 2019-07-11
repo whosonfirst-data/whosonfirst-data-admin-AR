@@ -28,6 +28,12 @@
     "name:por_x_preferred":[
         "Pilcaniyeu"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b\u044c\u043a\u0430\u043d\u044c\u0435\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0438\u043b\u044c\u043a\u0430\u043d\u0438\u0435\u0443"
+    ],
     "name:spa_x_preferred":[
         "Pilcaniyeu"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421176551,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867020,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

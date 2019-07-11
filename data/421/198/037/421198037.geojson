@@ -40,6 +40,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0648\u06cc\u0646\u0627\u060c \u0633\u0627\u0644\u0679\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0648\u06cc\u0646\u0627"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u7dad\u5c3c\u4e9e"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421198037,
-    "wof:lastmodified":1561793247,
+    "wof:lastmodified":1562866805,
     "wof:name":"La Vi\u00f1a",
     "wof:parent_id":421202255,
     "wof:placetype":"locality",

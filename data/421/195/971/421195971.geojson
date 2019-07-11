@@ -16,7 +16,13 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0442\u044d\u0440\u0430\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Morteros"
+    ],
     "name:ces_x_preferred":[
+        "Morteros"
+    ],
+    "name:dan_x_preferred":[
         "Morteros"
     ],
     "name:eng_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421195971,
-    "wof:lastmodified":1561793223,
+    "wof:lastmodified":1562866553,
     "wof:name":"Morteros",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u043e \u041c\u0430\u0439\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u043e-\u041c\u0430\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "R\u00edo Mayo"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421192999,
-    "wof:lastmodified":1561793219,
+    "wof:lastmodified":1562866530,
     "wof:name":"R\u00edo Mayo",
     "wof:parent_id":421171527,
     "wof:placetype":"locality",

@@ -29,7 +29,22 @@
     "name:deu_x_preferred":[
         "Villa Urquiza"
     ],
+    "name:eng_x_preferred":[
+        "Villa Urquiza"
+    ],
     "name:fra_x_preferred":[
+        "Villa Urquiza"
+    ],
+    "name:fra_x_variant":[
+        "villa Urquiza"
+    ],
+    "name:glg_x_preferred":[
+        "Villa Urquiza"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0548\u0582\u0580\u056f\u056b\u057d\u0561"
+    ],
+    "name:ita_x_preferred":[
         "Villa Urquiza"
     ],
     "name:jpn_x_preferred":[
@@ -121,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536864462,
+    "wof:lastmodified":1562865735,
     "wof:name":"Villa Urquiza",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

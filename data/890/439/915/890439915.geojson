@@ -18,6 +18,9 @@
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09b0\u09cd\u09b0\u09c1\u0995\u09b9\u09cb\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Garruchos"
+    ],
     "name:deu_x_preferred":[
         "Garruchos"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890439915,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867092,
     "wof:name":"Garruchos",
     "wof:parent_id":102059431,
     "wof:placetype":"locality",

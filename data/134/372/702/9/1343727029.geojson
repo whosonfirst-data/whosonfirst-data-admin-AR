@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koluel Kayke"
+    ],
+    "name:ita_x_preferred":[
+        "Koluel Kayke"
+    ],
+    "name:spa_x_preferred":[
+        "Koluel Kayke"
+    ],
+    "name:swe_x_preferred":[
+        "Koluel Kayke"
+    ],
     "name:und_x_variant":[
         "Kaluel Kaike",
         "Kohi el Kayke",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343727029,
-    "wof:lastmodified":1537584869,
+    "wof:lastmodified":1562865701,
     "wof:name":"Koluel Kayke",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

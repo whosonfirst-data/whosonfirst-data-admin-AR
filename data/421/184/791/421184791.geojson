@@ -28,8 +28,14 @@
     "name:por_x_preferred":[
         "Puerto Ibicuy"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u0438\u043a\u0443\u0439"
+    ],
     "name:spa_x_preferred":[
         "Puerto Ibicuy"
+    ],
+    "name:spa_x_variant":[
+        "Ibicuy"
     ],
     "name:swe_x_preferred":[
         "Puerto Ibicuy"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421184791,
-    "wof:lastmodified":1561793257,
+    "wof:lastmodified":1562866956,
     "wof:name":"Puerto Ibicuy",
     "wof:parent_id":421171503,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Diadema Argentina"
+    ],
+    "name:spa_x_preferred":[
+        "Diadema Argentina"
+    ],
+    "name:swe_x_preferred":[
+        "Diadema Argentina"
+    ],
     "name:und_x_variant":[
         "Diadema",
         "Diadema Argentina"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310525553,
-    "wof:lastmodified":1537584886,
+    "wof:lastmodified":1562866366,
     "wof:name":"Diadema Argentina",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Monte Dinero"
+    ],
+    "name:fra_x_preferred":[
+        "Monte Dinero"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Dineras"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Dinero"
+    ],
     "name:und_x_variant":[
         "Estancia Monte Dinero",
         "Monte Dinero"
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1293065913,
-    "wof:lastmodified":1537584855,
+    "wof:lastmodified":1562865808,
     "wof:name":"Monte Dinero",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

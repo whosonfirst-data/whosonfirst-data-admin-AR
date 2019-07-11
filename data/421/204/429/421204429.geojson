@@ -22,6 +22,9 @@
     "name:heb_x_preferred":[
         "\u05e6'\u05d1\u05d0\u05e1"
     ],
+    "name:ita_x_preferred":[
+        "Chab\u00e1s"
+    ],
     "name:nld_x_preferred":[
         "Chab\u00e1s"
     ],
@@ -31,8 +34,14 @@
     "name:spa_x_preferred":[
         "Juan Chab\u00e1s"
     ],
+    "name:spa_x_variant":[
+        "Chab\u00e1s"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0431\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u5df4\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":421204429,
-    "wof:lastmodified":1561793233,
+    "wof:lastmodified":1562866634,
     "wof:name":"Chab\u00e1s",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

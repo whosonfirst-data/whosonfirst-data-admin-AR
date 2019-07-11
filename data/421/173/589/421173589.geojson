@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Zelaya"
     ],
+    "name:ces_x_preferred":[
+        "Zelaya"
+    ],
     "name:eng_x_preferred":[
         "Zelaya"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421173589,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866714,
     "wof:name":"Zelaya",
     "wof:parent_id":1108718057,
     "wof:placetype":"locality",

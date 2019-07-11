@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u0633\u0627\u0646 \u062c\u0648\u0644\u064a\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Puerto San Juli\u00e1n"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto San Juli\u00e1n"
+    ],
     "name:ceb_x_preferred":[
         "San Juli\u00e1n"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445\u0442\u0430 \u0421\u0432\u044f\u0442\u043e\u0433\u043e \u042e\u043b\u0438\u0430\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0421\u0430\u043d-\u0425\u0443\u043b\u0438\u0430\u043d"
     ],
     "name:slk_x_preferred":[
         "Puerto San Juli\u00e1n"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421204627,
-    "wof:lastmodified":1561793231,
+    "wof:lastmodified":1562866622,
     "wof:name":"San Juli\u00e1n",
     "wof:parent_id":421185323,
     "wof:placetype":"locality",

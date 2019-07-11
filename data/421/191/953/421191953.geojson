@@ -22,6 +22,9 @@
     "name:por_x_preferred":[
         "General Deheza"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0414\u0435\u0435\u0441\u0430"
+    ],
     "name:spa_x_preferred":[
         "General Deheza"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421191953,
-    "wof:lastmodified":1561793252,
+    "wof:lastmodified":1562866875,
     "wof:name":"General Deheza",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

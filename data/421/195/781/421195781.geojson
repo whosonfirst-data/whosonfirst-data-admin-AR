@@ -16,10 +16,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u063a \u062a\u0634\u0627\u0645\u0628\u0632"
     ],
+    "name:ceb_x_preferred":[
+        "Longchamps"
+    ],
     "name:eng_x_preferred":[
         "Longchamps"
     ],
     "name:fra_x_preferred":[
+        "Longchamps"
+    ],
+    "name:ita_x_preferred":[
         "Longchamps"
     ],
     "name:jpn_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:por_x_preferred":[
         "Longchamps"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0433\u0447\u0430\u043c\u043f\u0441"
     ],
     "name:spa_x_preferred":[
         "Longchamps"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421195781,
-    "wof:lastmodified":1561793226,
+    "wof:lastmodified":1562866569,
     "wof:name":"Longchamps",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

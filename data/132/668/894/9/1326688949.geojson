@@ -26,6 +26,24 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Miguel Torres"
+    ],
+    "name:fra_x_preferred":[
+        "Miguel Torres"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uac94 \ud1a0\ub808\uc2a4"
+    ],
+    "name:por_x_preferred":[
+        "Miguel Torres"
+    ],
+    "name:spa_x_preferred":[
+        "Miguel Torres"
+    ],
+    "name:swe_x_preferred":[
+        "Miguel Torres"
+    ],
     "name:und_x_variant":[
         "Cora",
         "Pueblo Miguel Torres",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326688949,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1562865507,
     "wof:name":"Miguel Torres",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

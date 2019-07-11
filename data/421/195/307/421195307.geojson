@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Los Antiguos"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0410\u043d\u0442\u0438\u0433\u0443\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Los Antiguos"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421195307,
-    "wof:lastmodified":1561793220,
+    "wof:lastmodified":1562866534,
     "wof:name":"Los Antiguos",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",

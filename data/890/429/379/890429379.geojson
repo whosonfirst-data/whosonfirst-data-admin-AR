@@ -15,11 +15,17 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Villa Tulumba"
+    ],
     "name:eng_x_preferred":[
         "Villa Tulumba"
     ],
     "name:fra_x_preferred":[
         "villa Tulumba"
+    ],
+    "name:fra_x_variant":[
+        "Villa Tulumba"
     ],
     "name:ita_x_preferred":[
         "Villa Tulumba"
@@ -29,6 +35,9 @@
     ],
     "name:por_x_preferred":[
         "Villa Tulumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0422\u0443\u043b\u0443\u043c\u0431\u0430"
     ],
     "name:spa_x_preferred":[
         "Villa Tulumba"
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890429379,
-    "wof:lastmodified":1561793267,
+    "wof:lastmodified":1562867120,
     "wof:name":"Villa Tulumba",
     "wof:parent_id":421196955,
     "wof:placetype":"locality",

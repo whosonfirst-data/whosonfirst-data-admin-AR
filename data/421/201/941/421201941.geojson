@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Los Gigantes"
     ],
+    "name:hun_x_preferred":[
+        "Los Gigantes"
+    ],
     "name:nld_x_preferred":[
         "Los Gigantes"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421201941,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1562866949,
     "wof:name":"Los Gigantes",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

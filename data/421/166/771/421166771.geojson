@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Campo Grande"
     ],
+    "name:ces_x_preferred":[
+        "Campo Grande"
+    ],
     "name:deu_x_preferred":[
         "Campo Grande"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421166771,
-    "wof:lastmodified":1561793218,
+    "wof:lastmodified":1562866524,
     "wof:name":"Campo Grande",
     "wof:parent_id":421183163,
     "wof:placetype":"locality",

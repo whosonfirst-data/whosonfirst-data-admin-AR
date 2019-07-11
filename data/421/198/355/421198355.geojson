@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Guavirav\u00ed"
     ],
+    "name:spa_x_preferred":[
+        "Guavirav\u00ed"
+    ],
     "name:swe_x_preferred":[
         "Guavirav\u00ed"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421198355,
-    "wof:lastmodified":1561793247,
+    "wof:lastmodified":1562866800,
     "wof:name":"Guavirav\u00ed",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

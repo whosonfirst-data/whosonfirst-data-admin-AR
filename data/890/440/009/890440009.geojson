@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "General Manuel J. Campos"
+    ],
     "name:deu_x_preferred":[
         "General Manuel Campos"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:nld_x_preferred":[
         "General Manuel Campos"
+    ],
+    "name:nld_x_variant":[
+        "Generaal Manuel Campos"
     ],
     "name:por_x_preferred":[
         "General Manuel Campos"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890440009,
-    "wof:lastmodified":1561793264,
+    "wof:lastmodified":1562867074,
     "wof:name":"General Manuel J. Campos",
     "wof:parent_id":1108718303,
     "wof:placetype":"locality",

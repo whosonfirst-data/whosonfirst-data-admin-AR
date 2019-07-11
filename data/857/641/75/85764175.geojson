@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14142769.624477,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.65822,-32.944825,-60.65822,-32.944825",
     "geom:latitude":-32.944825,
     "geom:longitude":-60.65822,
@@ -28,6 +28,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Liniers"
+    ],
+    "name:fra_x_preferred":[
+        "Liniers"
+    ],
+    "name:ita_x_preferred":[
+        "Liniers"
+    ],
+    "name:lat_x_preferred":[
+        "Liniers"
+    ],
+    "name:lit_x_preferred":[
+        "Linjersas"
+    ],
+    "name:oci_x_preferred":[
+        "Liniers"
+    ],
+    "name:por_x_preferred":[
+        "Liniers"
+    ],
+    "name:sco_x_preferred":[
+        "Liniers"
+    ],
     "name:spa_x_preferred":[
         "Liniers"
     ],
@@ -113,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379083,
+    "wof:lastmodified":1562865737,
     "wof:name":"Liniers",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

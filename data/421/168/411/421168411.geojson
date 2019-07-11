@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Quitilipi"
     ],
+    "name:pol_x_preferred":[
+        "Quitilipi"
+    ],
     "name:por_x_preferred":[
         "Quitilipi"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421168411,
-    "wof:lastmodified":1561793217,
+    "wof:lastmodified":1562866517,
     "wof:name":"Quitilipi",
     "wof:parent_id":1108718223,
     "wof:placetype":"locality",

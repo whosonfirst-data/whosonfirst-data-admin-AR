@@ -40,8 +40,14 @@
     "name:aym_x_preferred":[
         "San Luis jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0632 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d-\u041b\u0443\u0456\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0456\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09cb\u09af\u09be\u09a8 \u09b2\u09c1\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -79,11 +85,17 @@
     "name:epo_x_preferred":[
         "Provincia de San Luis"
     ],
+    "name:epo_x_variant":[
+        "Provinco San Luis"
+    ],
     "name:eus_x_preferred":[
         "San Luisko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "San Luisin maakunta"
@@ -102,6 +114,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0932\u0941\u0908 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d"
     ],
     "name:ind_x_preferred":[
         "Provinsi San Luis"
@@ -123,6 +138,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ub8e8\uc774\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub8e8\uc774\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Luis"
     ],
     "name:lav_x_preferred":[
         "Sanluisas province"
@@ -151,8 +172,14 @@
     "name:nob_x_preferred":[
         "San Luis"
     ],
+    "name:nor_x_preferred":[
+        "San Luis"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de San Luis"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
     ],
     "name:pms_x_preferred":[
         "San Luis"
@@ -222,6 +249,9 @@
     ],
     "name:tur_x_preferred":[
         "San Luis eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "San Luis"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
@@ -367,7 +397,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793141,
+    "wof:lastmodified":1562865747,
     "wof:name":"San Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

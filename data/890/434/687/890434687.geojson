@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ataliva Roca"
+    ],
     "name:eng_x_preferred":[
         "Ataliva Roca"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890434687,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867132,
     "wof:name":"Ataliva Roca",
     "wof:parent_id":1108718319,
     "wof:placetype":"locality",

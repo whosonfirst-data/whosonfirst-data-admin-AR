@@ -41,6 +41,9 @@
     "name:bpy_x_preferred":[
         "\u0995\u09cd\u09b0\u09c1\u099c \u0986\u09b2\u09cd\u099f\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Cruz Alta"
+    ],
     "name:eng_x_preferred":[
         "Cruz Alta"
     ],
@@ -57,6 +60,9 @@
         "\u041a\u0440\u0443\u0441-\u0410\u043b\u0442\u0430"
     ],
     "name:spa_x_preferred":[
+        "Cruz Alta"
+    ],
+    "name:swe_x_preferred":[
         "Cruz Alta"
     ],
     "qs:gn_country":null,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421172497,
-    "wof:lastmodified":1560898146,
+    "wof:lastmodified":1562866739,
     "wof:name":"Cruz Alta",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

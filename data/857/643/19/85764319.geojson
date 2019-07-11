@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000914,
-    "geom:area_square_m":9298106.500329,
+    "geom:area_square_m":9298106.50034,
     "geom:bbox":"-58.5025259134,-34.6917921802,-58.4506411432,-34.6575154679",
     "geom:latitude":-34.674993,
     "geom:longitude":-58.476167,
@@ -30,11 +30,23 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Villa Lugano"
+    ],
     "name:deu_x_preferred":[
+        "Villa Lugano"
+    ],
+    "name:eng_x_preferred":[
         "Villa Lugano"
     ],
     "name:fra_x_preferred":[
         "Villa Lugano"
+    ],
+    "name:fra_x_variant":[
+        "villa Lugano"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056c\u0561 \u053c\u0578\u0582\u0563\u0561\u0576\u0578"
     ],
     "name:ita_x_preferred":[
         "Villa Lugano"
@@ -51,6 +63,12 @@
     "name:lmo_x_preferred":[
         "Villa Lugano"
     ],
+    "name:mlg_x_preferred":[
+        "Villa Lugano"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Lugano"
+    ],
     "name:por_x_preferred":[
         "Villa Lugano"
     ],
@@ -58,6 +76,9 @@
         "Villa Lugano"
     ],
     "name:spa_x_preferred":[
+        "Villa Lugano"
+    ],
+    "name:swe_x_preferred":[
         "Villa Lugano"
     ],
     "name:unk_x_variant":[
@@ -146,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865707,
     "wof:name":"Villa Lugano",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Puerto Belgrano"
+    ],
+    "name:ceb_x_preferred":[
+        "Base Naval Puerto Belgrano"
+    ],
     "name:deu_x_preferred":[
         "Puerto Belgrano"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:spa_x_preferred":[
         "Puerto Belgrano"
+    ],
+    "name:spa_x_variant":[
+        "Base Naval Puerto Belgrano"
     ],
     "name:swe_x_preferred":[
         "Base Naval Puerto Belgrano"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421193751,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1562866588,
     "wof:name":"Puerto Belgrano",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

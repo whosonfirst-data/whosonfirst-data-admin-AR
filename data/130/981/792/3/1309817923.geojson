@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "G\u00f3mez"
+    ],
+    "name:spa_x_preferred":[
+        "G\u00f3mez"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00f3mez"
+    ],
     "name:und_x_variant":[
         "G\u00f3mez"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309817923,
-    "wof:lastmodified":1537584824,
+    "wof:lastmodified":1562866503,
     "wof:name":"Gomez",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

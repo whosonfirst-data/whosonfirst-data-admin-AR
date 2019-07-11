@@ -46,8 +46,14 @@
     "name:por_x_preferred":[
         "Constituci\u00f3n"
     ],
+    "name:por_x_variant":[
+        "Peyrano"
+    ],
     "name:spa_x_preferred":[
         "Departamento Constituci\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Peyrano"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0439\u0440\u0430\u043d\u043e"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421176553,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867026,
     "wof:name":"Peyrano",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

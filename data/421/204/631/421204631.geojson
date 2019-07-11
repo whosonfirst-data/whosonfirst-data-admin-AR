@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be \u0997\u09c7\u09b8\u09c7\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Villa Gesell"
+    ],
     "name:dan_x_preferred":[
         "Villa Gesell"
     ],
@@ -115,6 +118,9 @@
     "name:vie_x_preferred":[
         "Villa Gesell"
     ],
+    "name:zho_x_preferred":[
+        "\u683c\u585e\u723e\u5225\u5885"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3427431,
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421204631,
-    "wof:lastmodified":1561793233,
+    "wof:lastmodified":1562866640,
     "wof:name":"Villa Gesell",
     "wof:parent_id":1108718135,
     "wof:placetype":"locality",

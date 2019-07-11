@@ -13,22 +13,61 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u043d\u0456\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043d\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:ceb_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Jun\u00edn"
     ],
     "name:fra_x_preferred":[
         "Jun\u00edn"
     ],
+    "name:ita_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30cb\u30f3"
     ],
+    "name:lit_x_preferred":[
+        "Chuninas"
+    ],
+    "name:mlg_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:nld_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:nor_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:pol_x_preferred":[
         "Jun\u00edn"
     ],
     "name:por_x_preferred":[
         "Jun\u00edn"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043d\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:slv_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:spa_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:swe_x_preferred":[
         "Jun\u00edn"
     ],
     "name:ukr_x_preferred":[
@@ -85,7 +124,7 @@
         }
     ],
     "wof:id":421174643,
-    "wof:lastmodified":1561793236,
+    "wof:lastmodified":1562866667,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":1108718355,
     "wof:placetype":"locality",

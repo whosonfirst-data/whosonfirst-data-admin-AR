@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Las Parejas"
     ],
+    "name:ceb_x_preferred":[
+        "Las Parejas"
+    ],
     "name:ces_x_preferred":[
         "Las Parejas"
     ],
@@ -201,6 +204,9 @@
     "name:ron_x_preferred":[
         "Las Parejas"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0430\u0440\u0435\u0445\u0430\u0441"
+    ],
     "name:scn_x_preferred":[
         "Las Parejas"
     ],
@@ -230,6 +236,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0631\u06cc\u062c\u0627\u0633\u060c \u0633\u0627\u0646\u0679\u0627 \u0641\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u067e\u0627\u0631\u06cc\u062c\u0627\u0633"
     ],
     "name:vec_x_preferred":[
         "Las Parejas"
@@ -286,7 +295,7 @@
         }
     ],
     "wof:id":890445121,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867127,
     "wof:name":"Las Parejas",
     "wof:parent_id":1108718449,
     "wof:placetype":"locality",

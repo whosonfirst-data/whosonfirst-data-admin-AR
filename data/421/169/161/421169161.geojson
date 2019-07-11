@@ -23,7 +23,13 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Vila Mar\u00eda"
+    ],
     "name:ceb_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "name:ces_x_preferred":[
         "Villa Mar\u00eda"
     ],
     "name:dan_x_preferred":[
@@ -106,6 +112,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043b\u043b\u0430-\u041c\u0430\u0440\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041c\u0430\u0440\u0438\u044f"
     ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dd2\u0dbd\u0dcf \u0db8\u0dbb\u0dd2\u0dba\u0dcf"
@@ -282,7 +291,7 @@
         }
     ],
     "wof:id":421169161,
-    "wof:lastmodified":1561793230,
+    "wof:lastmodified":1562866599,
     "wof:name":"Villa Mar\u00eda",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

@@ -43,6 +43,12 @@
     "name:eng_x_variant":[
         "Escobar"
     ],
+    "name:spa_x_preferred":[
+        "Escobar"
+    ],
+    "name:swe_x_preferred":[
+        "Escobar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108717925,
-    "wof:lastmodified":1560901505,
+    "wof:lastmodified":1562866284,
     "wof:name":"Escobar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

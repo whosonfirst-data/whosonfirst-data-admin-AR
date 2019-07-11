@@ -41,8 +41,14 @@
     "name:aym_x_preferred":[
         "Chaku jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u06a9\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0430\u043a\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0427\u0430\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u0995\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -92,6 +98,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0686\u0627\u06a9\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0686\u0627\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chacon maakunta"
     ],
@@ -134,14 +143,26 @@
     "name:kor_x_preferred":[
         "\ucc28\ucf54 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucc28\ucf54\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chaco"
+    ],
     "name:lat_x_preferred":[
         "Tzacum"
+    ],
+    "name:lat_x_variant":[
+        "Chaco"
     ],
     "name:lav_x_preferred":[
         "\u010cako province"
     ],
     "name:lit_x_preferred":[
         "\u010ciako provincija"
+    ],
+    "name:lit_x_variant":[
+        "\u010cako provincija"
     ],
     "name:lmo_x_preferred":[
         "Chaco"
@@ -170,8 +191,14 @@
     "name:nob_x_preferred":[
         "Chaco"
     ],
+    "name:nor_x_preferred":[
+        "Chaco"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia deu Chaco"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0430\u043a\u043e"
     ],
     "name:pms_x_preferred":[
         "Chaco"
@@ -242,6 +269,9 @@
     "name:tur_x_preferred":[
         "Chaco eyaleti"
     ],
+    "name:tur_x_variant":[
+        "Chaco"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043a\u043e"
     ],
@@ -262,6 +292,12 @@
     ],
     "name:war_x_preferred":[
         "Chaco"
+    ],
+    "name:wuu_x_preferred":[
+        "\u67e5\u79d1\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u67e5\u54e5\u7701"
     ],
     "name:zho_x_preferred":[
         "\u67e5\u79d1\u7701"
@@ -390,7 +426,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793146,
+    "wof:lastmodified":1562865764,
     "wof:name":"Chaco",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

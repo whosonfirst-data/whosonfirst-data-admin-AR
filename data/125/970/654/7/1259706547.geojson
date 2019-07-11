@@ -26,6 +26,48 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u0437\u043e\u043d\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Aus\u00f2nia"
+    ],
+    "name:ceb_x_preferred":[
+        "Ausonia"
+    ],
+    "name:deu_x_preferred":[
+        "Ausonia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c5\u03c3\u03bf\u03bd\u03af\u03b1"
+    ],
+    "name:eus_x_preferred":[
+        "Ausonia"
+    ],
+    "name:ita_x_preferred":[
+        "Ausonia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30bd\u30cb\u30a2"
+    ],
+    "name:lat_x_preferred":[
+        "Ausonia"
+    ],
+    "name:nds_x_preferred":[
+        "Ausonia"
+    ],
+    "name:pol_x_preferred":[
+        "Ausonia"
+    ],
+    "name:por_x_preferred":[
+        "Ausonia"
+    ],
+    "name:scn_x_preferred":[
+        "Ausonia"
+    ],
+    "name:swe_x_preferred":[
+        "Ausonia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1259706547,
-    "wof:lastmodified":1537032490,
+    "wof:lastmodified":1562867316,
     "wof:name":"Ausonia",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

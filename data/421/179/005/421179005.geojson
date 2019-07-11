@@ -26,7 +26,8 @@
         "D\u00e9partement d'Albard\u00f3n"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement d'Albard\u00f3n"
+        "d\u00e9partement d'Albard\u00f3n",
+        "Albard\u00f3n"
     ],
     "name:hun_x_preferred":[
         "Albard\u00f3n megye"
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421179005,
-    "wof:lastmodified":1561793259,
+    "wof:lastmodified":1562866998,
     "wof:name":"Albard\u00f3n",
     "wof:parent_id":421198377,
     "wof:placetype":"locality",

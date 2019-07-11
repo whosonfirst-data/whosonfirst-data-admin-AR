@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Alejandro Roca"
     ],
+    "name:ceb_x_preferred":[
+        "Alejandro Roca"
+    ],
     "name:eng_x_preferred":[
         "Alejandro Roca"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421178927,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867009,
     "wof:name":"Alejandro Roca",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

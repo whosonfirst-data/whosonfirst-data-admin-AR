@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pituil"
+    ],
+    "name:spa_x_preferred":[
+        "Pituil"
+    ],
+    "name:swe_x_preferred":[
+        "Pituil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1344034767,
-    "wof:lastmodified":1537486315,
+    "wof:lastmodified":1562865678,
     "wof:name":"Pituil",
     "wof:parent_id":1108718329,
     "wof:placetype":"locality",

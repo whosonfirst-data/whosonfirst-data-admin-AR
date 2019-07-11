@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amama"
+    ],
+    "name:deu_x_preferred":[
+        "Amama"
+    ],
+    "name:eus_x_preferred":[
+        "Amama"
+    ],
+    "name:swe_x_preferred":[
+        "Amama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242646061,
-    "wof:lastmodified":1536965125,
+    "wof:lastmodified":1562867266,
     "wof:name":"Amama",
     "wof:parent_id":1108718497,
     "wof:placetype":"locality",

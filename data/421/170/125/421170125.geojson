@@ -44,9 +44,6 @@
     "name:eng_x_preferred":[
         "Cushamen"
     ],
-    "name:eng_x_variant":[
-        "Cushamen"
-    ],
     "name:fra_x_preferred":[
         "Cushamen"
     ],
@@ -58,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Cushamen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u043c\u0435\u043d"
     ],
     "name:spa_x_preferred":[
         "Cushamen"
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":421170125,
-    "wof:lastmodified":1560898151,
+    "wof:lastmodified":1562866979,
     "wof:name":"Cushamen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

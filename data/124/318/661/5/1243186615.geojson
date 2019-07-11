@@ -26,6 +26,27 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Villa Martelli"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Martelli"
+    ],
+    "name:por_x_preferred":[
+        "Villa Martelli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041c\u0430\u0440\u0442\u0435\u043b\u043b\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Martelli"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Martelli"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Martelli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1243186615,
-    "wof:lastmodified":1537486353,
+    "wof:lastmodified":1562867269,
     "wof:name":"Villa Martelli",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

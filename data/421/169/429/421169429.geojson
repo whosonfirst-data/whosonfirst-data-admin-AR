@@ -52,6 +52,9 @@
     "name:spa_x_preferred":[
         "Aim\u00e9 Bonpland"
     ],
+    "name:spa_x_variant":[
+        "Bonpland"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3435989,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421169429,
-    "wof:lastmodified":1561793230,
+    "wof:lastmodified":1562866611,
     "wof:name":"Bonpland",
     "wof:parent_id":421203247,
     "wof:placetype":"locality",

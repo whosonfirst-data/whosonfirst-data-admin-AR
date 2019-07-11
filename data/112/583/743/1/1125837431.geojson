@@ -28,6 +28,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a4\u09cd\u09b0\u09be\u09b2 \u0995\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Cutral-C\u00f3"
+    ],
     "name:dan_x_preferred":[
         "Cutral C\u00f3"
     ],
@@ -55,6 +58,9 @@
     "name:hin_x_preferred":[
         "\u0915\u0942\u091f\u0930\u093e\u0907\u0932 \u0915"
     ],
+    "name:hun_x_preferred":[
+        "Cutral Co"
+    ],
     "name:ind_x_preferred":[
         "Cutral C\u00f3"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u091f\u094d\u0930\u0932 \u0915\u0949"
+    ],
+    "name:mlg_x_preferred":[
+        "Cutral-C\u00f3"
     ],
     "name:msa_x_preferred":[
         "Cutral Co"
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":1125837431,
-    "wof:lastmodified":1561793271,
+    "wof:lastmodified":1562867161,
     "wof:name":"Cutral-C\u00f3",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

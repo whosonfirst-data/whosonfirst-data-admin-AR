@@ -56,6 +56,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u06c1\u06cc\u0631\u0627\u0633\u060c \u0645\u06cc\u0646\u0688\u0648\u0632\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u06c1\u06cc\u0631\u0627\u0633"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u57c3\u62c9\u65af"
     ],
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421195101,
-    "wof:lastmodified":1561793225,
+    "wof:lastmodified":1562866562,
     "wof:name":"Las Heras",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

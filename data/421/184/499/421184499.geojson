@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Taf\u00ed Viejo"
     ],
+    "name:ces_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
     "name:deu_x_preferred":[
         "Taf\u00ed Viejo"
     ],
@@ -44,6 +47,9 @@
         "Taf\u00ed Viejo"
     ],
     "name:por_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:slk_x_preferred":[
         "Taf\u00ed Viejo"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421184499,
-    "wof:lastmodified":1561793257,
+    "wof:lastmodified":1562866958,
     "wof:name":"Taf\u00ed Viejo",
     "wof:parent_id":421202257,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0643\u064a\u0646 \u063a\u0648\u0646\u0632\u0627\u0644\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
     "name:deu_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
+    "name:deu_x_variant":[
+        "Joaqu\u00edn Victor Gonz\u00e1lez"
     ],
     "name:eng_x_preferred":[
         "Joaqu\u00edn V. Gonz\u00e1lez"
@@ -34,11 +40,20 @@
     "name:nld_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
+    "name:pol_x_preferred":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
+    ],
     "name:por_x_preferred":[
         "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0441\u0430\u043b\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
         "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
+    "name:spa_x_variant":[
+        "Joaqu\u00edn V\u00edctor Gonz\u00e1lez"
     ],
     "name:swe_x_preferred":[
         "Joaqu\u00edn V. Gonz\u00e1lez"
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":1125809365,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867147,
     "wof:name":"Joaqu\u00edn V. Gonz\u00e1lez",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

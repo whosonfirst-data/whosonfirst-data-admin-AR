@@ -34,8 +34,14 @@
     "name:fra_x_preferred":[
         "Andalgal\u00e1"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d3\u05dc\u05d2\u05dc\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Andalgal\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c0\u30eb\u30ac\u30e9"
     ],
     "name:nld_x_preferred":[
         "Andalgal\u00e1"
@@ -44,6 +50,9 @@
         "Andalgal\u00e1"
     ],
     "name:nor_x_preferred":[
+        "Andalgal\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Andalgal\u00e1"
     ],
     "name:por_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421185229,
-    "wof:lastmodified":1561793263,
+    "wof:lastmodified":1562867059,
     "wof:name":"Andalgal\u00e1",
     "wof:parent_id":421203617,
     "wof:placetype":"locality",

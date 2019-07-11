@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Departamento de San Justo"
     ],
+    "name:ceb_x_variant":[
+        "Sacanta"
+    ],
     "name:deu_x_preferred":[
         "Departamento San Justo"
     ],
@@ -40,14 +43,23 @@
     "name:por_x_preferred":[
         "San Justo"
     ],
+    "name:por_x_variant":[
+        "Sacanta"
+    ],
     "name:sco_x_preferred":[
         "San Justo Depairtment"
     ],
     "name:spa_x_preferred":[
         "Departamento San Justo"
     ],
+    "name:spa_x_variant":[
+        "Sacanta"
+    ],
     "name:swe_x_preferred":[
         "Departamento de San Justo"
+    ],
+    "name:swe_x_variant":[
+        "Sacanta"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043a\u0430\u043d\u0442\u0430"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421200533,
-    "wof:lastmodified":1561793255,
+    "wof:lastmodified":1562866930,
     "wof:name":"Sacanta",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

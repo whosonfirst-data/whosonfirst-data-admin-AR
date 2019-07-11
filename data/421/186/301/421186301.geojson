@@ -53,6 +53,9 @@
     "name:cat_x_preferred":[
         "Santa Maria"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Maria"
+    ],
     "name:ces_x_preferred":[
         "Santa Maria"
     ],
@@ -134,6 +137,9 @@
     ],
     "name:sco_x_preferred":[
         "Santa Maria"
+    ],
+    "name:slk_x_preferred":[
+        "Santa Mar\u00eda"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041c\u0430\u0440\u0438\u0458\u0430"
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":421186301,
-    "wof:lastmodified":1560898146,
+    "wof:lastmodified":1562866756,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

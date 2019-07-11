@@ -30,6 +30,9 @@
         "Majaditas",
         "Majadita"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u54c8\u8fea\u5854\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276417693,
-    "wof:lastmodified":1537584858,
+    "wof:lastmodified":1562866001,
     "wof:name":"Majadita",
     "wof:parent_id":1108718337,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1385731.709346,
+    "geom:area_square_m":1385731.709345,
     "geom:bbox":"-58.4887935721,-34.591723568,-58.4708152687,-34.5791249658",
     "geom:latitude":-34.585523,
     "geom:longitude":-58.479121,
@@ -32,8 +32,14 @@
     "name:deu_x_preferred":[
         "Parque Chas"
     ],
+    "name:eng_x_preferred":[
+        "Parque Chas"
+    ],
     "name:fra_x_preferred":[
         "Parque Chas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u056f\u0565 \u0549\u0561\u057d"
     ],
     "name:ita_x_preferred":[
         "Parque Chas"
@@ -43,6 +49,9 @@
     ],
     "name:lit_x_preferred":[
         "Parke \u010casas"
+    ],
+    "name:nld_x_preferred":[
+        "Parque Chas"
     ],
     "name:por_x_preferred":[
         "Parque Chas"
@@ -138,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1562865717,
     "wof:name":"Parque Chas",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

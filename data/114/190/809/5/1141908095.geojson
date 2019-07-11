@@ -14,6 +14,27 @@
     "lbl:longitude":-66.31666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chamical"
+    ],
+    "name:fra_x_preferred":[
+        "Chamical"
+    ],
+    "name:ita_x_preferred":[
+        "Chamical"
+    ],
+    "name:pol_x_preferred":[
+        "Chamical"
+    ],
+    "name:por_x_preferred":[
+        "Chamical"
+    ],
+    "name:spa_x_preferred":[
+        "Chamical"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u99ac\u5361\u723e"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
     "ne:ADM0_A3":"ARG",
@@ -131,7 +152,7 @@
         }
     ],
     "wof:id":1141908095,
-    "wof:lastmodified":1508889542,
+    "wof:lastmodified":1562867520,
     "wof:name":"Chamical",
     "wof:parent_id":1108718327,
     "wof:placetype":"locality",

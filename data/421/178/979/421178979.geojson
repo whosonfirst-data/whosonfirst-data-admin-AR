@@ -28,11 +28,17 @@
     "name:hun_x_preferred":[
         "El Tr\u00e9bol"
     ],
+    "name:ita_x_preferred":[
+        "El Tr\u00e9bol"
+    ],
     "name:nld_x_preferred":[
         "El Tr\u00e9bol"
     ],
     "name:por_x_preferred":[
         "El Tr\u00e9bol"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0440\u0435\u0431\u043e\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "El Tr\u00e9bol"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421178979,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867004,
     "wof:name":"El Tr\u00e9bol",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

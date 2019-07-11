@@ -17,6 +17,9 @@
     "name:ceb_x_preferred":[
         "Victoria"
     ],
+    "name:ces_x_preferred":[
+        "Victoria"
+    ],
     "name:deu_x_preferred":[
         "Victoria"
     ],
@@ -33,6 +36,9 @@
         "Viktorija"
     ],
     "name:nld_x_preferred":[
+        "Victoria"
+    ],
+    "name:pol_x_preferred":[
         "Victoria"
     ],
     "name:por_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1\u060c \u0627\u0646\u062a\u0631\u06d2 \u0631\u06cc\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u591a\u5229\u4e9e"
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":421169163,
-    "wof:lastmodified":1561793230,
+    "wof:lastmodified":1562866610,
     "wof:name":"Victoria",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

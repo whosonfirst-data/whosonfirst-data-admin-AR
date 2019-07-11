@@ -17,13 +17,34 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u064a\u0644\u060c \u0645\u0646\u062f\u0648\u0632\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8 \u09b0\u09be\u09ab\u09be\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "San Rafael"
+    ],
     "name:ceb_x_preferred":[
         "San Rafael"
     ],
     "name:ces_x_preferred":[
         "San Rafael"
     ],
+    "name:dan_x_preferred":[
+        "San Rafael"
+    ],
     "name:deu_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a1\u03b1\u03c6\u03b1\u03ad\u03bb"
+    ],
+    "name:eng_x_preferred":[
         "San Rafael"
     ],
     "name:epo_x_preferred":[
@@ -32,22 +53,61 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
     ],
+    "name:fin_x_preferred":[
+        "San Rafael"
+    ],
     "name:fra_x_preferred":[
         "San Rafael"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0ab0\u0aab\u0ac7\u0ab2"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05e8\u05e4\u05d0\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0930\u093e\u092b\u0947\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ind_x_preferred":[
+        "San Rafael"
+    ],
     "name:ita_x_preferred":[
         "San Rafael"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cb0\u0cbe\u0cab\u0cc6\u0cb2\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10e0\u10d0\u10e4\u10d0\u10d4\u10da\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uc0cc \ub77c\ud30c\uc5d8"
+    ],
+    "name:lav_x_preferred":[
+        "Sanrafaela"
+    ],
     "name:lit_x_preferred":[
         "San Rafaelis"
     ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0930\u093e\u092b\u0947\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "San Rafael"
+    ],
     "name:nld_x_preferred":[
+        "San Rafael"
+    ],
+    "name:nob_x_preferred":[
+        "San Rafael"
+    ],
+    "name:oci_x_preferred":[
         "San Rafael"
     ],
     "name:pol_x_preferred":[
@@ -59,6 +119,12 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dbb\u0dc6\u0dcf\u0dba\u0dd9\u0dbd\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "San Rafael"
+    ],
     "name:spa_x_preferred":[
         "San Rafael"
     ],
@@ -68,8 +134,26 @@
     "name:swe_x_preferred":[
         "San Rafael"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb0\u0baa\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c30\u0c3e\u0c2b\u0c46\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e1b\u0e42\u0e14\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646 \u0631\u0627\u0641\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "San Rafael"
     ],
     "name:war_x_preferred":[
         "San Rafael"
@@ -219,7 +303,7 @@
         }
     ],
     "wof:id":421202307,
-    "wof:lastmodified":1527716203,
+    "wof:lastmodified":1562866650,
     "wof:name":"San Rafael",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

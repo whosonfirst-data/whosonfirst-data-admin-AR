@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Centenario"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576\u057f\u0565\u0576\u0561\u0580\u056b\u0578"
+    ],
     "name:nld_x_preferred":[
         "Centenario"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421178995,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867006,
     "wof:name":"Centenario",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

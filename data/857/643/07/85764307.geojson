@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":3614407.718324,
+    "geom:area_square_m":3614407.71832,
     "geom:bbox":"-58.4589348008,-34.6076156443,-58.4233672222,-34.5886677008",
     "geom:latitude":-34.598834,
     "geom:longitude":-58.442722,
@@ -35,8 +35,20 @@
     "name:deu_x_preferred":[
         "Villa Crespo"
     ],
+    "name:eng_x_preferred":[
+        "Villa Crespo"
+    ],
     "name:fra_x_preferred":[
         "Villa Crespo"
+    ],
+    "name:fra_x_variant":[
+        "villa Crespo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d4 \u05e7\u05e8\u05e1\u05e4\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056c\u0561 \u053f\u0580\u0565\u057d\u057a\u0578"
     ],
     "name:ita_x_preferred":[
         "Villa Crespo"
@@ -144,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379087,
+    "wof:lastmodified":1562865707,
     "wof:name":"Villa Crespo",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

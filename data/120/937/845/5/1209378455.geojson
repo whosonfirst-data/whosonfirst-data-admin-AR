@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tobantirenda"
+    ],
+    "name:spa_x_preferred":[
+        "Tobantirenda"
+    ],
     "name:und_x_variant":[
         "Tobatirenda",
         "Tobantirenda"
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209378455,
-    "wof:lastmodified":1537584835,
+    "wof:lastmodified":1562866049,
     "wof:name":"Tobantirenda",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

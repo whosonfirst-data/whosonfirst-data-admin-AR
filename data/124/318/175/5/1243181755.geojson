@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Goyeneche"
+    ],
+    "name:fra_x_preferred":[
+        "Goyeneche"
+    ],
     "name:spa_x_preferred":[
         "Goyeneche"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243181755,
-    "wof:lastmodified":1537584824,
+    "wof:lastmodified":1562867269,
     "wof:name":"Goyeneche",
     "wof:parent_id":1108718027,
     "wof:placetype":"locality",

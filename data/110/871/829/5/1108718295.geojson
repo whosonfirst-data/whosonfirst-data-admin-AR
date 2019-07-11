@@ -43,6 +43,12 @@
     "name:eng_x_variant":[
         "Conhelo"
     ],
+    "name:por_x_preferred":[
+        "Conhelo"
+    ],
+    "name:spa_x_preferred":[
+        "Conhelo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108718295,
-    "wof:lastmodified":1560898127,
+    "wof:lastmodified":1562866248,
     "wof:name":"Conhelo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

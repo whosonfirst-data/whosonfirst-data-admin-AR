@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Margarita Bel\u00e9n"
     ],
+    "name:ita_x_preferred":[
+        "Margarita Bel\u00e9n"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30ac\u30ea\u30fc\u30bf\u30fb\u30d9\u30ec\u30f3"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198307,
-    "wof:lastmodified":1561793246,
+    "wof:lastmodified":1562866797,
     "wof:name":"Margarita Bel\u00e9n",
     "wof:parent_id":1108718221,
     "wof:placetype":"locality",

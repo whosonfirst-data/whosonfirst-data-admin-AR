@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Las Junturas"
+    ],
     "name:eng_x_preferred":[
         "Las Junturas"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421180057,
-    "wof:lastmodified":1513889246,
+    "wof:lastmodified":1562866705,
     "wof:name":"Las Junturas",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

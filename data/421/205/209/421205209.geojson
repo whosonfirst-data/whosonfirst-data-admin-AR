@@ -23,7 +23,8 @@
         "D\u00e9partement de San Mart\u00edn"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de San Mart\u00edn"
+        "d\u00e9partement de San Mart\u00edn",
+        "San Mart\u00edn"
     ],
     "name:hun_x_preferred":[
         "San Mart\u00edn megye"
@@ -36,6 +37,9 @@
     ],
     "name:por_x_preferred":[
         "San Mart\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d"
     ],
     "name:slk_x_preferred":[
         "San Mart\u00edn"
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421205209,
-    "wof:lastmodified":1561793235,
+    "wof:lastmodified":1562866663,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108718429,
     "wof:placetype":"locality",

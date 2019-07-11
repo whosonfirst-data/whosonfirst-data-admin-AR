@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santiago Temple"
+    ],
     "name:eng_x_preferred":[
         "Santiago Temple"
     ],
@@ -28,8 +31,14 @@
     "name:por_x_preferred":[
         "Templo de Santiago"
     ],
+    "name:por_x_variant":[
+        "Santiago Temple"
+    ],
     "name:spa_x_preferred":[
         "Templo de Santiago"
+    ],
+    "name:spa_x_variant":[
+        "Santiago Temple"
     ],
     "name:swe_x_preferred":[
         "Santiago Temple"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":421193793,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1562866587,
     "wof:name":"Santiago Temple",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

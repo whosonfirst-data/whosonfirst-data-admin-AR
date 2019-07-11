@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Los Penitentes"
     ],
+    "name:spa_x_variant":[
+        "Penitentes"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421202179,
-    "wof:lastmodified":1561793234,
+    "wof:lastmodified":1562866658,
     "wof:name":"Los Penitentes",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

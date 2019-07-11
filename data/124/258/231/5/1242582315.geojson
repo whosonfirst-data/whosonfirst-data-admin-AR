@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Oleta"
+    ],
+    "name:fra_x_preferred":[
+        "Oleta"
+    ],
+    "name:spa_x_preferred":[
+        "Olaeta"
+    ],
     "name:und_x_variant":[
         "Lagunillas",
         "Olaeta"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242582315,
-    "wof:lastmodified":1537584852,
+    "wof:lastmodified":1562867207,
     "wof:name":"Olaeta",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

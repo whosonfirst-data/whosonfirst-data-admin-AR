@@ -28,6 +28,10 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u044f\u0433\u0430-\u0434\u044d\u043b\u044c-\u042d\u0441\u0442\u044d\u0440\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442'\u044f\u0433\u0430-\u0434\u044d\u043b\u044c-\u042d\u0441\u0442\u044d\u0440\u0430",
+        "\u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430-\u0434\u044d\u043b\u044c-\u042d\u0441\u0442\u044d\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b8 \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb \u09a6\u09c7\u09b2 \u098f\u09b8\u09cd\u09a4\u09c7\u09b0\u09cb"
     ],
@@ -40,7 +44,13 @@
     "name:cat_x_preferred":[
         "Santiago del Estero"
     ],
+    "name:ceb_x_preferred":[
+        "Santiago del Estero"
+    ],
     "name:ces_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:cym_x_preferred":[
         "Santiago del Estero"
     ],
     "name:dan_x_preferred":[
@@ -139,8 +149,14 @@
     "name:nob_x_preferred":[
         "Santiago del Estero"
     ],
+    "name:nor_x_preferred":[
+        "Santiago del Estero"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Santiago del Estero"
+    ],
+    "name:oci_x_variant":[
+        "Santiago del Estero"
     ],
     "name:pms_x_preferred":[
         "Santiago del Estero"
@@ -175,6 +191,9 @@
     "name:spa_x_preferred":[
         "Ciudad de Santiago del Estero"
     ],
+    "name:spa_x_variant":[
+        "Santiago del Estero"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0438\u0458\u0430\u0433\u043e \u0434\u0435\u043b \u0415\u0441\u0442\u0435\u0440\u043e"
     ],
@@ -200,6 +219,9 @@
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648 \u062f\u0644 \u0627\u0633\u062a\u0631\u0648"
     ],
     "name:vie_x_preferred":[
+        "Santiago del Estero"
+    ],
+    "name:vol_x_preferred":[
         "Santiago del Estero"
     ],
     "name:war_x_preferred":[
@@ -342,7 +364,7 @@
         }
     ],
     "wof:id":890437285,
-    "wof:lastmodified":1561793266,
+    "wof:lastmodified":1562867105,
     "wof:name":"Santiago del Estero",
     "wof:parent_id":1108718475,
     "wof:placetype":"locality",

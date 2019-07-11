@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel Hilario Lagos"
+    ],
+    "name:por_x_preferred":[
+        "Coronel Hilario Lagos"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Hilario Lagos"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Hilario Lagos"
+    ],
     "name:und_x_variant":[
         "Aguas Buenas",
         "Coronel H. Lagos",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260271171,
-    "wof:lastmodified":1537584888,
+    "wof:lastmodified":1562866218,
     "wof:name":"Coronel Hilario Lagos",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

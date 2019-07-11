@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Santa Ana"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Ana"
+    ],
     "name:eng_x_preferred":[
         "Santa Ana"
     ],
@@ -26,6 +29,9 @@
         "Santa Ana"
     ],
     "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:swe_x_preferred":[
         "Santa Ana"
     ],
     "qs:gn_country":"AR",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421173599,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866717,
     "wof:name":"Santa Ana",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

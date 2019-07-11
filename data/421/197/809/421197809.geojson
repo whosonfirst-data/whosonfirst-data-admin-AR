@@ -16,6 +16,15 @@
     "name:ceb_x_preferred":[
         "Santa Rosa"
     ],
+    "name:eng_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ed\u30fc\u30b5"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Rosa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430"
     ],
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":421197809,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1562866915,
     "wof:name":"Santa Rosa",
     "wof:parent_id":1108718363,
     "wof:placetype":"locality",

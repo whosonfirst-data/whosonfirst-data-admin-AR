@@ -15,6 +15,9 @@
     "lbl:longitude":-57.57333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mar Del Plata"
+    ],
     "name:eng_x_preferred":[
         "Astor Piazzolla International Airport"
     ],
@@ -43,8 +46,14 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Astor Piazolla"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Astor Piazzolla"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Mar del Plata \"\u00c1stor Piazzolla\""
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Internacional Astor Piazolla"
     ],
     "name:swe_x_preferred":[
         "Mar Del Plata"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":102553577,
-    "wof:lastmodified":1561793126,
+    "wof:lastmodified":1562865588,
     "wof:name":"Mar del Plata Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

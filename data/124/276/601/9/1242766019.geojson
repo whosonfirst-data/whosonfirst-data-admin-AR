@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Relmo"
+    ],
+    "name:por_x_preferred":[
+        "Relmo"
+    ],
+    "name:spa_x_preferred":[
+        "Relmo"
+    ],
+    "name:swe_x_preferred":[
+        "Relmo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242766019,
-    "wof:lastmodified":1537486312,
+    "wof:lastmodified":1562867253,
     "wof:name":"Relmo",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

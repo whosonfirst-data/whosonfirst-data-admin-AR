@@ -29,8 +29,29 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0623\u062f\u064a\u0644\u064a\u0646\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0622\u062f\u0644\u06cc\u0646\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Villa Adelina"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u06cc\u0627 \u0622\u062f\u0644\u06cc\u0646\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Adelina"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Adelina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0410\u0434\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Adelina"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Adelina"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5fb7\u5229\u5a1c\u93ae"
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1310314637,
-    "wof:lastmodified":1537584905,
+    "wof:lastmodified":1562866362,
     "wof:name":"Villa Adelina",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u0645\u0627\u06cc\u0648\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633 \u067e\u0631\u0648\u06cc\u0646\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u06a9\u06cc\u0646\u06a9\u0648 \u062f\u0648 \u0645\u0627\u06cc\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30f3\u30c6\u30a3\u30b7\u30f3\u30b3\u30fb\u30c7\u30fb\u30de\u30e8"
+    ],
     "name:nld_x_preferred":[
         "Veinticinco de Mayo"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "25 de Mayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u6708\u4e8c\u5341\u4e94\u65e5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":890435487,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867139,
     "wof:name":"Veinticinco de Mayo",
     "wof:parent_id":1108718131,
     "wof:placetype":"locality",

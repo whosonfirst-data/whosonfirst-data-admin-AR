@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "Mar de Aj\u00f3"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440-\u0434\u0435-\u0410\u0445\u043e"
+    ],
     "name:spa_x_preferred":[
         "Mar de Aj\u00f3"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195783,
-    "wof:lastmodified":1561793223,
+    "wof:lastmodified":1562866554,
     "wof:name":"Mar de Aj\u00f3",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

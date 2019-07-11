@@ -13,20 +13,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "vaqueiro"
+    ],
     "name:deu_x_preferred":[
+        "Vaquero"
+    ],
+    "name:eng_x_preferred":[
         "Vaquero"
     ],
     "name:fra_x_preferred":[
         "Vaquero"
     ],
+    "name:fra_x_variant":[
+        "vaquero"
+    ],
+    "name:glg_x_preferred":[
+        "vaqueiro"
+    ],
     "name:hun_x_preferred":[
         "Vaquero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30b1\u30a4\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "vaquero"
     ],
     "name:por_x_preferred":[
         "Vaqueiro"
     ],
+    "name:por_x_variant":[
+        "vaqueiro"
+    ],
     "name:scn_x_preferred":[
         "Vaccaru"
+    ],
+    "name:spa_x_preferred":[
+        "vaquero"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u514b\u7f85"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -74,7 +101,7 @@
         }
     ],
     "wof:id":421184813,
-    "wof:lastmodified":1527716452,
+    "wof:lastmodified":1562866966,
     "wof:name":"Vaqueros",
     "wof:parent_id":421187151,
     "wof:placetype":"locality",

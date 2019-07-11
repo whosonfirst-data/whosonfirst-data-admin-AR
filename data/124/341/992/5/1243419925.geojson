@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fort\u00edn El Patria"
+    ],
+    "name:spa_x_preferred":[
+        "Fort\u00edn El Patria"
+    ],
+    "name:swe_x_preferred":[
+        "Fort\u00edn El Patria"
+    ],
     "name:und_x_variant":[
         "El Patria",
         "Dixonville",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243419925,
-    "wof:lastmodified":1537584877,
+    "wof:lastmodified":1562867212,
     "wof:name":"Fortin El Patria",
     "wof:parent_id":1108718443,
     "wof:placetype":"locality",

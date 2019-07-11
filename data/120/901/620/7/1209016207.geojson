@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Colonia Baranda"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Baranda"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Baranda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209016207,
-    "wof:lastmodified":1537486299,
+    "wof:lastmodified":1562866038,
     "wof:name":"Colonia Baranda",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

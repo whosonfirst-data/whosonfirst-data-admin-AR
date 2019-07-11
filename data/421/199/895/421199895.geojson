@@ -47,9 +47,6 @@
     "name:eng_x_preferred":[
         "El Cuy"
     ],
-    "name:eng_x_variant":[
-        "El Cuy"
-    ],
     "name:fra_x_preferred":[
         "El Cuy"
     ],
@@ -58,6 +55,9 @@
     ],
     "name:por_x_preferred":[
         "El Cuy"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0443\u0439"
     ],
     "name:spa_x_preferred":[
         "El Cuy"
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":421199895,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866920,
     "wof:name":"El Cuy",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

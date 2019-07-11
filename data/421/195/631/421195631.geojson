@@ -19,6 +19,12 @@
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a8\u09be\u09ae\u09be\u09b0"
     ],
+    "name:cat_x_preferred":[
+        "Pinamar"
+    ],
+    "name:ceb_x_preferred":[
+        "Pinamar"
+    ],
     "name:dan_x_preferred":[
         "Pinamar"
     ],
@@ -121,6 +127,9 @@
     "name:vie_x_preferred":[
         "Pinamar"
     ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7d0d\u99ac\u723e"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":3429971,
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421195631,
-    "wof:lastmodified":1561793225,
+    "wof:lastmodified":1562866567,
     "wof:name":"Pinamar",
     "wof:parent_id":1108718059,
     "wof:placetype":"locality",

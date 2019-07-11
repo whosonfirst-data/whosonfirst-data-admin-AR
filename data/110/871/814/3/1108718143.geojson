@@ -43,6 +43,27 @@
     "name:eng_x_variant":[
         "Ancasti"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u0633\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ancasti"
+    ],
+    "name:ita_x_preferred":[
+        "Ancasti"
+    ],
+    "name:por_x_preferred":[
+        "Ancasti"
+    ],
+    "name:que_x_preferred":[
+        "Ankasti"
+    ],
+    "name:spa_x_preferred":[
+        "Ancasti"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5361\u65af\u8482"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +99,7 @@
         }
     ],
     "wof:id":1108718143,
-    "wof:lastmodified":1560898136,
+    "wof:lastmodified":1562866303,
     "wof:name":"Ancasti",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

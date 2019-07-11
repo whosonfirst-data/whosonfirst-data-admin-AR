@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Salliquel\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Salliquel\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Salliquel\u00f3"
     ],
@@ -21,6 +27,9 @@
     ],
     "name:spa_x_preferred":[
         "Salliquel\u00f3"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0456\u043a\u0435\u043b\u043e"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":421198337,
-    "wof:lastmodified":1527716347,
+    "wof:lastmodified":1562866799,
     "wof:name":"Salliquel\u00f3",
     "wof:parent_id":1108718087,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Bonpland"
     ],
+    "name:nld_x_preferred":[
+        "Bonpland"
+    ],
     "name:spa_x_preferred":[
         "Bonpland"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421199259,
-    "wof:lastmodified":1527716411,
+    "wof:lastmodified":1562866921,
     "wof:name":"Bonpland",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

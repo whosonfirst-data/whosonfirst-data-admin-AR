@@ -37,10 +37,22 @@
     "mps:longitude":-59.679552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Suipacha"
+    ],
     "name:eng_x_preferred":[
         "Suipacha"
     ],
     "name:eng_x_variant":[
+        "Suipacha"
+    ],
+    "name:nld_x_preferred":[
+        "Suipacha"
+    ],
+    "name:spa_x_preferred":[
+        "Suipacha"
+    ],
+    "name:swe_x_preferred":[
         "Suipacha"
     ],
     "src:geom":"meso",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":1108718111,
-    "wof:lastmodified":1560901503,
+    "wof:lastmodified":1562866250,
     "wof:name":"Suipacha",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

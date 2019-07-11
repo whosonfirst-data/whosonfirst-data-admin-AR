@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "La Pare"
     ],
+    "name:ceb_x_variant":[
+        "La Para"
+    ],
+    "name:dan_x_preferred":[
+        "La Para"
+    ],
     "name:eng_x_preferred":[
         "La Para"
     ],
@@ -40,6 +46,9 @@
     "name:nno_x_preferred":[
         "La Para"
     ],
+    "name:pol_x_preferred":[
+        "La Pare"
+    ],
     "name:por_x_preferred":[
         "La Para"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "La Pare"
+    ],
+    "name:swe_x_variant":[
+        "La Para"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0440\u0430"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":421178241,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867007,
     "wof:name":"La Para",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

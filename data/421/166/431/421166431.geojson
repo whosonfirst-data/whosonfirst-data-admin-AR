@@ -205,6 +205,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0679\u0648\u0645\u0627\u060c \u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0679\u0648\u0645\u0627"
+    ],
     "name:vec_x_preferred":[
         "La Toma"
     ],
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421166431,
-    "wof:lastmodified":1561793218,
+    "wof:lastmodified":1562866523,
     "wof:name":"La Toma",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

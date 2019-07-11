@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Garup\u00e1"
     ],
+    "name:pol_x_preferred":[
+        "Garup\u00e1"
+    ],
     "name:por_x_preferred":[
         "Garup\u00e1"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421181525,
-    "wof:lastmodified":1561793245,
+    "wof:lastmodified":1562866782,
     "wof:name":"Garup\u00e1",
     "wof:parent_id":1108718367,
     "wof:placetype":"locality",

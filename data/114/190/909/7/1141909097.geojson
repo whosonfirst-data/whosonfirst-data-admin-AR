@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0643\u0648\u0644\u0648\u0631\u0627\u062f\u0648\u060c \u0631\u064a\u0648 \u0646\u064a\u063a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0648 \u0643\u0648\u0644\u0648\u0631\u0627\u062f\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Colorado"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Colorado"
     ],
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1141909097,
-    "wof:lastmodified":1561793309,
+    "wof:lastmodified":1562867498,
     "wof:name":"Rio Colorado",
     "wof:parent_id":1108718287,
     "wof:placetype":"locality",

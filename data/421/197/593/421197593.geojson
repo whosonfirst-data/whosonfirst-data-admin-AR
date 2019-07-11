@@ -59,6 +59,12 @@
     "name:fra_x_preferred":[
         "Molinos"
     ],
+    "name:hun_x_preferred":[
+        "Molinos"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056c\u056b\u0576\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Molinos"
     ],
@@ -72,6 +78,12 @@
         "\u041c\u043e\u043b\u0438\u043d\u043e\u0441"
     ],
     "name:spa_x_preferred":[
+        "Molinos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043b\u0438\u043d\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
         "Molinos"
     ],
     "qs:gn_country":null,
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":421197593,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866907,
     "wof:name":"Molinos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

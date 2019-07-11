@@ -41,9 +41,6 @@
     "name:eng_x_preferred":[
         "Deseado"
     ],
-    "name:eng_x_variant":[
-        "Deseado"
-    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":421204075,
-    "wof:lastmodified":1560898143,
+    "wof:lastmodified":1562866634,
     "wof:name":"Deseado",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

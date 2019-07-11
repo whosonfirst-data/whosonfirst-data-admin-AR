@@ -40,8 +40,14 @@
     "name:aym_x_preferred":[
         "Jujuy jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u062e\u0648\u06cc \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0416\u0443\u0436\u0443\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0416\u0443\u0436\u0443\u0439"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u099c\u09c1\u09af\u09bc  \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -82,14 +88,23 @@
     "name:epo_x_preferred":[
         "Jujuy"
     ],
+    "name:epo_x_variant":[
+        "Provinco Jujuy"
+    ],
     "name:est_x_preferred":[
         "Jujuy"
+    ],
+    "name:est_x_variant":[
+        "Jujuy provints"
     ],
     "name:eus_x_preferred":[
         "Jujuyko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u062e\u0648\u062e\u0648\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u062e\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Jujuyn maakunta"
@@ -121,6 +136,9 @@
     "name:ind_x_preferred":[
         "Jujuy"
     ],
+    "name:ind_x_variant":[
+        "Provinsi Jujuy"
+    ],
     "name:ita_x_preferred":[
         "provincia di Jujuy"
     ],
@@ -135,6 +153,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud6c4\ud6c4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud6c4\ud6c4\uc774\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Jujuy"
     ],
     "name:lav_x_preferred":[
         "Huhujas province"
@@ -163,8 +187,14 @@
     "name:nob_x_preferred":[
         "Jujuy"
     ],
+    "name:nor_x_preferred":[
+        "Jujuy"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Jujuy"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0443\u0445\u0443\u0439"
     ],
     "name:pms_x_preferred":[
         "Jujuy"
@@ -232,8 +262,14 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e04\u0e39\u0e04\u0e38\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e06\u0e39\u0e06\u0e38\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Jujuy eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "Jujuy"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0443\u0436\u0443\u0439"
@@ -252,6 +288,9 @@
     ],
     "name:war_x_preferred":[
         "Jujuy"
+    ],
+    "name:wuu_x_preferred":[
+        "\u80e1\u80e1\u4f0a\u7701"
     ],
     "name:zho_x_preferred":[
         "\u80e1\u80e1\u4f0a\u7701"
@@ -379,7 +418,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793146,
+    "wof:lastmodified":1562865767,
     "wof:name":"Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Caleuf\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Caleuf\u00fa"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890434677,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867132,
     "wof:name":"Caleuf\u00fa",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

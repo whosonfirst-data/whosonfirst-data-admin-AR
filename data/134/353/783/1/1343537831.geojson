@@ -26,6 +26,33 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631\u0648 \u0641\u0627\u0631\u063a\u0627\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u062f\u0631\u0648 \u0641\u0627\u0631\u0642\u0627\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:deu_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:fra_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:ita_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:que_x_preferred":[
+        "Pedro Vargas"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Vargas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1343537831,
-    "wof:lastmodified":1536633266,
+    "wof:lastmodified":1562865603,
     "wof:name":"Pedro Vargas",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

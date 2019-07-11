@@ -27,6 +27,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Talleres"
+    ],
     "name:und_x_variant":[
         "Tallares",
         "Kil\u00f3metro 5",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226545927,
-    "wof:lastmodified":1537584837,
+    "wof:lastmodified":1562867480,
     "wof:name":"Talleres",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

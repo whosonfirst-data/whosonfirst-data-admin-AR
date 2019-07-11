@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Escalada"
+    ],
+    "name:eng_x_preferred":[
+        "Escalada"
+    ],
     "name:por_x_preferred":[
         "Escalada"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":421181419,
-    "wof:lastmodified":1527716327,
+    "wof:lastmodified":1562866777,
     "wof:name":"Escalada",
     "wof:parent_id":1108718139,
     "wof:placetype":"locality",

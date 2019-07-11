@@ -29,6 +29,9 @@
     "name:cym_x_preferred":[
         "Esquel"
     ],
+    "name:dan_x_preferred":[
+        "Esquel"
+    ],
     "name:deu_x_preferred":[
         "Esquel"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05e7\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Esquel"
     ],
     "name:ita_x_preferred":[
         "Esquel"
@@ -57,6 +63,9 @@
         "Esquel"
     ],
     "name:oci_x_preferred":[
+        "Esquel"
+    ],
+    "name:pol_x_preferred":[
         "Esquel"
     ],
     "name:por_x_preferred":[
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":1141908755,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867507,
     "wof:name":"Esquel",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

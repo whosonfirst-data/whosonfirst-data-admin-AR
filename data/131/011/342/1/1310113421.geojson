@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zaparinqui"
+    ],
+    "name:spa_x_preferred":[
+        "Zaparinqui"
+    ],
+    "name:swe_x_preferred":[
+        "Zaparinqui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310113421,
-    "wof:lastmodified":1537486301,
+    "wof:lastmodified":1562866388,
     "wof:name":"Zaparinqui",
     "wof:parent_id":421191011,
     "wof:placetype":"locality",

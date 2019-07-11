@@ -25,10 +25,16 @@
     "name:por_x_preferred":[
         "Ranelagh"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0435\u043b\u0430\u0433"
+    ],
     "name:spa_x_preferred":[
         "Ranelagh"
     ],
     "name:swe_x_preferred":[
+        "Ranelagh"
+    ],
+    "name:vie_x_preferred":[
         "Ranelagh"
     ],
     "qs:gn_country":"AR",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421174271,
-    "wof:lastmodified":1561793238,
+    "wof:lastmodified":1562866690,
     "wof:name":"Ranelagh",
     "wof:parent_id":1108717873,
     "wof:placetype":"locality",

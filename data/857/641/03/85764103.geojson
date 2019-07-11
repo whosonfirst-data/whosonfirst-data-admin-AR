@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1280253.086081,
+    "geom:area_square_m":1280253.086082,
     "geom:bbox":"-58.4835597041,-34.5668491476,-58.4664901778,-34.5535338102",
     "geom:latitude":-34.560624,
     "geom:longitude":-58.474944,
@@ -29,6 +29,33 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Coghlan"
+    ],
+    "name:eng_x_preferred":[
+        "Coghlan"
+    ],
+    "name:fra_x_preferred":[
+        "Coghlan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0563\u056c\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Coghlan"
+    ],
+    "name:lat_x_preferred":[
+        "Coghlan"
+    ],
+    "name:lit_x_preferred":[
+        "Koglanas"
+    ],
+    "name:nld_x_preferred":[
+        "Coghlan"
+    ],
+    "name:por_x_preferred":[
+        "Coghlan"
+    ],
     "name:spa_x_preferred":[
         "Coghlan"
     ],
@@ -116,7 +143,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1562865734,
     "wof:name":"Coghlan",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,9 @@
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u062f\u0647"
     ],
+    "name:ceb_x_preferred":[
+        "Wilde"
+    ],
     "name:deu_x_preferred":[
         "Wilde"
     ],
@@ -29,6 +32,9 @@
         "\u0648\u06cc\u0644\u062f\u0647"
     ],
     "name:fra_x_preferred":[
+        "Wilde"
+    ],
+    "name:ita_x_preferred":[
         "Wilde"
     ],
     "name:kat_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421204613,
-    "wof:lastmodified":1561793232,
+    "wof:lastmodified":1562866631,
     "wof:name":"Wilde",
     "wof:parent_id":421191687,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2154173.720341,
+    "geom:area_square_m":2154173.720347,
     "geom:bbox":"-58.4947856336,-34.6246298693,-58.4716211588,-34.6081267543",
     "geom:latitude":-34.616193,
     "geom:longitude":-58.482957,
@@ -30,10 +30,25 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Villa Santa Rita"
+    ],
     "name:deu_x_preferred":[
         "Villa Santa Rita"
     ],
+    "name:eng_x_preferred":[
+        "Villa Santa Rita"
+    ],
     "name:fra_x_preferred":[
+        "Villa Santa Rita"
+    ],
+    "name:fra_x_variant":[
+        "villa Santa Rita"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u054d\u0561\u0576\u057f\u0561 \u054c\u056b\u057f\u0561"
+    ],
+    "name:ita_x_preferred":[
         "Villa Santa Rita"
     ],
     "name:jpn_x_preferred":[
@@ -44,6 +59,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Santa Rita"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Santa Rita"
     ],
     "name:por_x_preferred":[
         "Villa Santa Rita"
@@ -57,6 +75,9 @@
     "name:spa_x_variant":[
         "Villa Sta. Rita",
         "Villa Sta Rita"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Santa Rita"
     ],
     "name:unk_x_variant":[
         "Villa Santa Rita"
@@ -144,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865723,
     "wof:name":"Villa Santa Rita",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

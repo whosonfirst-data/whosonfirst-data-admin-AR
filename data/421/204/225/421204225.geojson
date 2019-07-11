@@ -16,22 +16,70 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0633\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b0\u09bf\u09b8\u09cd\u09af\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u0441\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Berisso"
+    ],
     "name:ceb_x_preferred":[
+        "Berisso"
+    ],
+    "name:dan_x_preferred":[
+        "Berisso"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03af\u03c3\u03c3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Berisso"
+    ],
+    "name:fin_x_preferred":[
         "Berisso"
     ],
     "name:fra_x_preferred":[
         "Berisso"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0ab0\u0ac0\u0ab8\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0948\u0930\u0940\u0938\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Berisso"
+    ],
     "name:ita_x_preferred":[
         "Berisso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ea\u30bd"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0cb0\u0cbf\u0cb8\u0ccd\u0cb8\u0cca"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub9ac\uc18c"
+    ],
+    "name:lav_x_preferred":[
+        "Beriso"
     ],
     "name:lit_x_preferred":[
         "Berisas"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0930\u0940\u0938\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Berisso"
+    ],
     "name:nld_x_preferred":[
+        "Berisso"
+    ],
+    "name:nob_x_preferred":[
         "Berisso"
     ],
     "name:pol_x_preferred":[
@@ -40,7 +88,16 @@
     "name:por_x_preferred":[
         "Berisso"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0438\u0441\u0441\u043e"
+    ],
     "name:sco_x_preferred":[
+        "Berisso"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0dbb\u0dd2\u0dc3\u0dca\u0dc3\u0ddd"
+    ],
+    "name:slk_x_preferred":[
         "Berisso"
     ],
     "name:spa_x_preferred":[
@@ -49,8 +106,29 @@
     "name:swe_x_preferred":[
         "Berisso"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb0\u0bbf\u0bb8\u0bcd\u0bb8\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c30\u0c3f\u0c38\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e35\u0e0b\u0e2d\u0e27\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Berisso"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0456\u0441\u0441\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0633\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Berisso"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u91cc\u7d22"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -99,7 +177,7 @@
         }
     ],
     "wof:id":421204225,
-    "wof:lastmodified":1527716186,
+    "wof:lastmodified":1562866636,
     "wof:name":"Berisso",
     "wof:parent_id":1108717877,
     "wof:placetype":"locality",

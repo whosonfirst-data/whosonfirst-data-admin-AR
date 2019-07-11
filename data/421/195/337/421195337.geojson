@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Corzuela"
     ],
+    "name:pol_x_preferred":[
+        "Corzuela"
+    ],
     "name:por_x_preferred":[
         "Corzuela"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421195337,
-    "wof:lastmodified":1561793221,
+    "wof:lastmodified":1562866538,
     "wof:name":"Corzuela",
     "wof:parent_id":1108718203,
     "wof:placetype":"locality",

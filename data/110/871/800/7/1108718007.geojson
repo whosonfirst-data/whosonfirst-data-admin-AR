@@ -37,10 +37,49 @@
     "mps:longitude":-59.139949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Lobos"
+    ],
+    "name:ceb_x_preferred":[
+        "Lobos"
+    ],
+    "name:deu_x_preferred":[
+        "Lobos"
+    ],
     "name:eng_x_preferred":[
         "Lobos"
     ],
     "name:eng_x_variant":[
+        "Lobos"
+    ],
+    "name:fra_x_preferred":[
+        "Lobos"
+    ],
+    "name:ita_x_preferred":[
+        "Lobos"
+    ],
+    "name:lit_x_preferred":[
+        "Lobosas"
+    ],
+    "name:nld_x_preferred":[
+        "Lobos"
+    ],
+    "name:pol_x_preferred":[
+        "Lobos"
+    ],
+    "name:por_x_preferred":[
+        "Lobos"
+    ],
+    "name:slk_x_preferred":[
+        "Lobos"
+    ],
+    "name:spa_x_preferred":[
+        "Lobos"
+    ],
+    "name:swe_x_preferred":[
         "Lobos"
     ],
     "src:geom":"meso",
@@ -78,7 +117,7 @@
         }
     ],
     "wof:id":1108718007,
-    "wof:lastmodified":1560901506,
+    "wof:lastmodified":1562866309,
     "wof:name":"Lobos",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

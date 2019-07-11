@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Herlitzka"
+    ],
     "name:eng_x_preferred":[
         "Herlitzka"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421171199,
-    "wof:lastmodified":1513889203,
+    "wof:lastmodified":1562867046,
     "wof:name":"Herlitzka",
     "wof:parent_id":1108718187,
     "wof:placetype":"locality",

@@ -29,7 +29,19 @@
     "name:deu_x_preferred":[
         "Villa Pueyrred\u00f3n"
     ],
+    "name:eng_x_preferred":[
+        "Villa Pueyrred\u00f3n"
+    ],
     "name:fra_x_preferred":[
+        "Villa Pueyrred\u00f3n"
+    ],
+    "name:fra_x_variant":[
+        "villa Pueyrred\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u054a\u0578\u0582\u0565\u0575\u0580\u0565\u0564\u0578\u0576"
+    ],
+    "name:ita_x_preferred":[
         "Villa Pueyrred\u00f3n"
     ],
     "name:jpn_x_preferred":[
@@ -40,6 +52,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Puejredonas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Pueyrred\u00f3n"
     ],
     "name:por_x_preferred":[
         "Villa Pueyrred\u00f3n"
@@ -119,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536864463,
+    "wof:lastmodified":1562865721,
     "wof:name":"Villa Pueyrred\u00f3n",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

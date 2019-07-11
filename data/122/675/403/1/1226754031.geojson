@@ -26,9 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u043e-\u0434\u0435-\u0418\u043d\u0434\u044c\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "Paso de los Indios",
         "Paso de Indios"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7d22\u5fb7\u5370\u7b2c\u5967\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226754031,
-    "wof:lastmodified":1537584850,
+    "wof:lastmodified":1562867381,
     "wof:name":"Paso de Indios",
     "wof:parent_id":421166647,
     "wof:placetype":"locality",

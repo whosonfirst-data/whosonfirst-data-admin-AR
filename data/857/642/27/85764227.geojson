@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":4350781.501281,
+    "geom:area_square_m":4350781.501285,
     "geom:bbox":"-58.475953099,-34.5589285242,-58.4492746383,-34.5275410741",
     "geom:latitude":-34.543738,
     "geom:longitude":-58.462859,
@@ -32,8 +32,14 @@
     "name:deu_x_preferred":[
         "N\u00fa\u00f1ez"
     ],
+    "name:eng_x_preferred":[
+        "N\u00fa\u00f1ez"
+    ],
     "name:fra_x_preferred":[
         "N\u00fa\u00f1ez"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0576\u0575\u0565\u057d"
     ],
     "name:ita_x_preferred":[
         "N\u00fa\u00f1ez"
@@ -56,11 +62,20 @@
     "name:por_x_preferred":[
         "N\u00fa\u00f1ez"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043d\u044c\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "N\u00fa\u00f1ez"
+    ],
     "name:spa_x_colloquial":[
         "Nunez",
         "Nunyez"
     ],
     "name:spa_x_preferred":[
+        "N\u00fa\u00f1ez"
+    ],
+    "name:swe_x_preferred":[
         "N\u00fa\u00f1ez"
     ],
     "name:unk_x_variant":[
@@ -148,7 +163,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1562865712,
     "wof:name":"N\u00fa\u00f1ez",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

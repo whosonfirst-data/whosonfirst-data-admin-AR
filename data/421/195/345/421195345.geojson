@@ -34,6 +34,9 @@
     "name:hun_x_preferred":[
         "Charras"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0580\u0580\u0561"
+    ],
     "name:ita_x_preferred":[
         "Charras"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421195345,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1562866570,
     "wof:name":"Charras",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

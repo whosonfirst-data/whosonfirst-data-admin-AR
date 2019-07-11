@@ -37,11 +37,29 @@
     "mps:longitude":-67.565173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Famatina"
+    ],
     "name:eng_x_preferred":[
         "Famatina"
     ],
     "name:eng_x_variant":[
         "Famatina"
+    ],
+    "name:fra_x_preferred":[
+        "Famatina"
+    ],
+    "name:ita_x_preferred":[
+        "Famatina"
+    ],
+    "name:por_x_preferred":[
+        "Famatina"
+    ],
+    "name:spa_x_preferred":[
+        "Famatina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u99ac\u8482\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +96,7 @@
         }
     ],
     "wof:id":1108718329,
-    "wof:lastmodified":1560898131,
+    "wof:lastmodified":1562866270,
     "wof:name":"Famatina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -32,7 +32,19 @@
     "name:deu_x_preferred":[
         "Villa Real"
     ],
+    "name:eng_x_preferred":[
+        "Villa Real"
+    ],
     "name:fra_x_preferred":[
+        "Villa Real"
+    ],
+    "name:fra_x_variant":[
+        "villa Real"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u054c\u0565\u0561\u056c"
+    ],
+    "name:ita_x_preferred":[
         "Villa Real"
     ],
     "name:jpn_x_preferred":[
@@ -135,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379083,
+    "wof:lastmodified":1562865706,
     "wof:name":"Villa Real",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

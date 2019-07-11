@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8521336.025044,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.649796,-32.987355,-60.649796,-32.987355",
     "geom:latitude":-32.987355,
     "geom:longitude":-60.649796,
@@ -122,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379083,
+    "wof:lastmodified":1562865719,
     "wof:name":"Matheu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

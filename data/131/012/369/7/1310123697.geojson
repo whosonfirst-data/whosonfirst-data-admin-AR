@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Colonia Santa Rosa"
+    ],
+    "name:nld_x_preferred":[
+        "Colonia Santa Rosa"
+    ],
+    "name:por_x_preferred":[
+        "Colonia Santa Rosa"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Santa Rosa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1310123697,
-    "wof:lastmodified":1536969920,
+    "wof:lastmodified":1562866338,
     "wof:name":"Colonia Santa Rosa",
     "wof:parent_id":1108718063,
     "wof:placetype":"locality",

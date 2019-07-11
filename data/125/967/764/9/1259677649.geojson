@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chalic\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Chalic\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Chalic\u00e1n"
+    ],
     "name:und_x_variant":[
         "Chalic\u00e1n"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259677649,
-    "wof:lastmodified":1537584894,
+    "wof:lastmodified":1562867339,
     "wof:name":"Chalican",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "General G\u00fcemes"
     ],
+    "name:pol_x_preferred":[
+        "General G\u00fcemes"
+    ],
     "name:por_x_preferred":[
         "General G\u00fcemes"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1141906767,
-    "wof:lastmodified":1561793312,
+    "wof:lastmodified":1562867511,
     "wof:name":"General Guemes",
     "wof:parent_id":421191593,
     "wof:placetype":"locality",

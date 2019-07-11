@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Machagai"
     ],
+    "name:pol_x_preferred":[
+        "Machagai"
+    ],
     "name:por_x_preferred":[
         "Machagai"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421176559,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867021,
     "wof:name":"Machagai",
     "wof:parent_id":1108718231,
     "wof:placetype":"locality",

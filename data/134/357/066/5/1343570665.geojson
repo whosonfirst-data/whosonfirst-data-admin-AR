@@ -26,6 +26,42 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Reial audi\u00e8ncia"
+    ],
+    "name:ces_x_preferred":[
+        "Audiencie"
+    ],
+    "name:deu_x_preferred":[
+        "Real Audiencia"
+    ],
+    "name:fra_x_preferred":[
+        "Audiencia"
+    ],
+    "name:glg_x_preferred":[
+        "Real Audiencia"
+    ],
+    "name:ita_x_preferred":[
+        "Audiencia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30c7\u30a3\u30a8\u30f3\u30b7\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc655\ub9bd\uc2ec\ubb38\uc6d0"
+    ],
+    "name:por_x_preferred":[
+        "Real Audi\u00eancia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0430\u0443\u0434\u0438\u0435\u043d\u0441\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Real Audiencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u7687\u5bb6\u5be9\u554f\u9662"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1343570665,
-    "wof:lastmodified":1537081505,
+    "wof:lastmodified":1562865652,
     "wof:name":"Real Audiencia",
     "wof:parent_id":1108718053,
     "wof:placetype":"locality",

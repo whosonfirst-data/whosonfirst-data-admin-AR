@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Munro"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Munro"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421171311,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1562867055,
     "wof:name":"Munro",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

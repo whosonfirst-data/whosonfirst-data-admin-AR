@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mocoret\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Mocoret\u00e1"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421205035,
-    "wof:lastmodified":1561793235,
+    "wof:lastmodified":1562866664,
     "wof:name":"Mocoret\u00e1",
     "wof:parent_id":421191013,
     "wof:placetype":"locality",

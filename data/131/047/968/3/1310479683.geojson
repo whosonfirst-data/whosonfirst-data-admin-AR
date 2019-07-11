@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mauricio Mayer"
+    ],
+    "name:por_x_preferred":[
+        "Mauricio Mayer"
+    ],
+    "name:spa_x_preferred":[
+        "Mauricio Mayer"
+    ],
+    "name:swe_x_preferred":[
+        "Mauricio Mayer"
+    ],
     "name:und_x_variant":[
         "Mauricio Meyer",
         "Mauricio Mayer"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310479683,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1562866349,
     "wof:name":"Mauricio Mayer",
     "wof:parent_id":1108718295,
     "wof:placetype":"locality",

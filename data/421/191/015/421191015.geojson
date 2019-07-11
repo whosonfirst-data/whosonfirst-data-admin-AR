@@ -38,6 +38,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ceb_x_preferred":[
+        "Bella Vista"
+    ],
     "name:deu_x_preferred":[
         "Bella Vista"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:lit_x_preferred":[
         "Belja Vista"
+    ],
+    "name:nds_x_preferred":[
+        "Bella Vista"
     ],
     "name:nld_x_preferred":[
         "Bella Vista"
@@ -79,6 +88,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u0412\u0438\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bella Vista"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430-\u0412\u0456\u0441\u0442\u0430"
     ],
     "name:vie_x_preferred":[
         "Bella Vista"
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":421191015,
-    "wof:lastmodified":1560898148,
+    "wof:lastmodified":1562866878,
     "wof:name":"Bella Vista",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

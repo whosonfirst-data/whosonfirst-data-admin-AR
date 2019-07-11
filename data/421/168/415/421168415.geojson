@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "De\u00e1n Funes"
     ],
+    "name:hun_x_preferred":[
+        "De\u00e1n Funes"
+    ],
     "name:ita_x_preferred":[
         "De\u00e1n Funes"
     ],
@@ -37,11 +40,20 @@
     "name:nld_x_preferred":[
         "De\u00e1n Funes"
     ],
+    "name:pol_x_preferred":[
+        "De\u00e1n Funes"
+    ],
     "name:por_x_preferred":[
         "De\u00e1n Funes"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0430\u043d-\u0424\u0443\u043d\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de De\u00e1n Funes"
+    ],
+    "name:spa_x_variant":[
+        "De\u00e1n Funes"
     ],
     "name:swe_x_preferred":[
         "De\u00e1n Funes"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":421168415,
-    "wof:lastmodified":1561793216,
+    "wof:lastmodified":1562866512,
     "wof:name":"De\u00e1n Funes",
     "wof:parent_id":421204057,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:oci_x_preferred":[
         "Intendente Alvear"
     ],
+    "name:pol_x_preferred":[
+        "Intendente Alvear"
+    ],
     "name:por_x_preferred":[
         "Intendente Alvear"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421183123,
-    "wof:lastmodified":1561793259,
+    "wof:lastmodified":1562866996,
     "wof:name":"Intendente Alvear",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

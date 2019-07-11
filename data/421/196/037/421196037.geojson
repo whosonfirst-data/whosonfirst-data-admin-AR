@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Nonogasta"
     ],
+    "name:pol_x_preferred":[
+        "Nonogasta"
+    ],
     "name:por_x_preferred":[
         "Nonogasta"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421196037,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866843,
     "wof:name":"Nonogasta",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

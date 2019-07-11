@@ -41,6 +41,21 @@
         "Hurlingham",
         "Mor\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0930\u094d\u0932\u093f\u0902\u0918\u092e"
+    ],
+    "name:nld_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:sco_x_preferred":[
+        "Hurlingham"
+    ],
+    "name:spa_x_preferred":[
+        "Hurlingham"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1108717979,
-    "wof:lastmodified":1560901502,
+    "wof:lastmodified":1562866237,
     "wof:name":"Hurlingham",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

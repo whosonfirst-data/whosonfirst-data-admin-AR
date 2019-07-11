@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Santa Mar\u00eda de Punilla"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0438\u044f-\u0434\u0435-\u041f\u0443\u043d\u0438\u043b\u044c\u044f"
+    ],
     "name:spa_x_preferred":[
         "Santa Mar\u00eda de Punilla"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421167947,
-    "wof:lastmodified":1561793229,
+    "wof:lastmodified":1562866597,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

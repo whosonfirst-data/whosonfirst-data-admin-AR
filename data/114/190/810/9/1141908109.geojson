@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Charata"
     ],
+    "name:pol_x_preferred":[
+        "Charata"
+    ],
     "name:por_x_preferred":[
         "Charata"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1141908109,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867502,
     "wof:name":"Charata",
     "wof:parent_id":1108718193,
     "wof:placetype":"locality",

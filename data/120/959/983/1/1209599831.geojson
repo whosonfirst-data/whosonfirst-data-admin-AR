@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Tres Lagunas"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Lagunas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209599831,
-    "wof:lastmodified":1537486292,
+    "wof:lastmodified":1562866106,
     "wof:name":"Tres Lagunas",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

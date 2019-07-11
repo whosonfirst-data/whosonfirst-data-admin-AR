@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tucumanao"
+    ],
     "name:und_x_variant":[
         "Tucumana",
         "Tucumanao"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243463255,
-    "wof:lastmodified":1537584834,
+    "wof:lastmodified":1562867211,
     "wof:name":"Tucumanao",
     "wof:parent_id":1108718155,
     "wof:placetype":"locality",

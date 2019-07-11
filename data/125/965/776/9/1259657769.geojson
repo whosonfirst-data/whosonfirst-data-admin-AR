@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Josefina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1259657769,
-    "wof:lastmodified":1537486331,
+    "wof:lastmodified":1562867295,
     "wof:name":"Josefina",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Santurce"
+    ],
+    "name:sco_x_preferred":[
+        "Santurce"
+    ],
+    "name:spa_x_preferred":[
+        "Santurce"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259657789,
-    "wof:lastmodified":1537486307,
+    "wof:lastmodified":1562867295,
     "wof:name":"Santurce",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Aimogasta"
     ],
+    "name:pol_x_preferred":[
+        "Aimogasta"
+    ],
     "name:por_x_preferred":[
         "Aimogasta"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421199761,
-    "wof:lastmodified":1561793255,
+    "wof:lastmodified":1562866926,
     "wof:name":"Aimogasta",
     "wof:parent_id":421181861,
     "wof:placetype":"locality",

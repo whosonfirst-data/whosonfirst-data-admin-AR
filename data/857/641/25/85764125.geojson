@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2321155.492561,
+    "geom:area_square_m":2321155.492563,
     "geom:bbox":"-58.4982008802,-34.6389347068,-58.4713029149,-34.6167283414",
     "geom:latitude":-34.627686,
     "geom:longitude":-58.483588,
@@ -29,6 +29,45 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:deu_x_preferred":[
+        "Floresta"
+    ],
+    "name:eng_x_preferred":[
+        "Floresta"
+    ],
+    "name:fra_x_preferred":[
+        "Floresta"
+    ],
+    "name:glg_x_preferred":[
+        "Floresta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05e1\u05d8\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0578\u0580\u0565\u057d\u057f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Floresta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ed\u30ec\u30b9\u30bf"
+    ],
+    "name:lat_x_preferred":[
+        "Floresta"
+    ],
+    "name:lit_x_preferred":[
+        "Floresta"
+    ],
+    "name:nld_x_preferred":[
+        "Floresta"
+    ],
+    "name:por_x_preferred":[
+        "Floresta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0441\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "Floresta"
     ],
@@ -116,7 +155,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379083,
+    "wof:lastmodified":1562865739,
     "wof:name":"Floresta",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

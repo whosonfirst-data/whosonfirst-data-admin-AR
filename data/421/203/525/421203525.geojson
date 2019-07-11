@@ -68,6 +68,9 @@
     "name:lit_x_preferred":[
         "Vilja Karlos Pasas"
     ],
+    "name:mlg_x_preferred":[
+        "Villa Carlos Paz"
+    ],
     "name:nah_x_preferred":[
         "Villa Carlos Paz"
     ],
@@ -75,6 +78,9 @@
         "Villa Carlos Paz"
     ],
     "name:nob_x_preferred":[
+        "Villa Carlos Paz"
+    ],
+    "name:nor_x_preferred":[
         "Villa Carlos Paz"
     ],
     "name:oci_x_preferred":[
@@ -250,7 +256,7 @@
         }
     ],
     "wof:id":421203525,
-    "wof:lastmodified":1561793234,
+    "wof:lastmodified":1562866648,
     "wof:name":"Villa Carlos Paz",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

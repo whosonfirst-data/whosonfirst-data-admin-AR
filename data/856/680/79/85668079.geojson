@@ -41,8 +41,14 @@
     "name:aym_x_preferred":[
         "Misiones jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0633\u06cc\u0648\u0646\u0632 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0456\u0441\u044c\u0451\u043d\u0435\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u0441\u044c\u0451\u043d\u0435\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b6\u09a8\u09c7\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -65,8 +71,14 @@
     "name:dan_x_preferred":[
         "Provincia de Misiones"
     ],
+    "name:dan_x_variant":[
+        "Misiones"
+    ],
     "name:deu_x_preferred":[
         "Misiones"
+    ],
+    "name:deu_x_variant":[
+        "Provinz Misiones"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03c3\u03b9\u03cc\u03bd\u03b5\u03c2"
@@ -88,6 +100,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0645\u06cc\u0633\u06cc\u0648\u0646\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0633\u06cc\u0648\u0646\u0633"
     ],
     "name:fin_x_preferred":[
         "Misionesin maakunta"
@@ -113,6 +128,9 @@
     "name:hun_x_preferred":[
         "Misiones tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057d\u056b\u0578\u0576\u0565\u057d"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Misiones"
     ],
@@ -131,11 +149,20 @@
     "name:kor_x_preferred":[
         "\ubbf8\uc2dc\uc624\ub124\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc2dc\uc624\ub124\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Misiones"
+    ],
     "name:lav_x_preferred":[
         "Misjonesas province"
     ],
     "name:lit_x_preferred":[
         "Misioneso provincija"
+    ],
+    "name:lit_x_variant":[
+        "Misjoneso provincija"
     ],
     "name:lmo_x_preferred":[
         "Misiones"
@@ -156,6 +183,9 @@
         "Misiones"
     ],
     "name:nob_x_preferred":[
+        "Misiones"
+    ],
+    "name:nor_x_preferred":[
         "Misiones"
     ],
     "name:oci_x_preferred":[
@@ -227,8 +257,14 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e21\u0e35\u0e0b\u0e35\u0e42\u0e2d\u0e40\u0e19\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e21\u0e34\u0e0b\u0e34\u0e42\u0e2d\u0e40\u0e19\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Misiones eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "Misiones"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u044c\u0439\u043e\u043d\u0435\u0441"
@@ -247,6 +283,9 @@
     ],
     "name:war_x_preferred":[
         "Misiones"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7c73\u897f\u5965\u5185\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u897f\u5967\u5167\u65af\u7701"
@@ -374,7 +413,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793146,
+    "wof:lastmodified":1562865766,
     "wof:name":"Misiones",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

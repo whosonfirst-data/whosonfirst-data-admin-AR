@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Arroyito"
+    ],
+    "name:spa_x_preferred":[
+        "Arroyito"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0457\u0442\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1309971615,
-    "wof:lastmodified":1536692407,
+    "wof:lastmodified":1562866471,
     "wof:name":"Arroyito",
     "wof:parent_id":421189001,
     "wof:placetype":"locality",

@@ -45,6 +45,12 @@
         "Metan",
         "Met\u00e1n"
     ],
+    "name:nld_x_preferred":[
+        "Met\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Metan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421183903,
-    "wof:lastmodified":1560898152,
+    "wof:lastmodified":1562866992,
     "wof:name":"Metan",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

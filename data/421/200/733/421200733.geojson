@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Las Toninas"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u043e\u043d\u0438\u043d\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Las Toninas"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421200733,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1562866936,
     "wof:name":"Las Toninas",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

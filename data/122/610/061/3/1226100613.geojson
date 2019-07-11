@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gramilla"
+    ],
+    "name:spa_x_preferred":[
+        "Gramilla"
+    ],
+    "name:swe_x_preferred":[
+        "Gramilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226100613,
-    "wof:lastmodified":1537486334,
+    "wof:lastmodified":1562867390,
     "wof:name":"Gramilla",
     "wof:parent_id":421186443,
     "wof:placetype":"locality",

@@ -37,10 +37,28 @@
     "mps:longitude":-61.094259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Coronel Dorrego"
+    ],
     "name:eng_x_preferred":[
         "Coronel Dorrego"
     ],
     "name:eng_x_variant":[
+        "Coronel Dorrego"
+    ],
+    "name:fra_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:ita_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:nld_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0414\u043e\u0440\u0440\u0435\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
         "Coronel Dorrego"
     ],
     "src:geom":"meso",
@@ -78,7 +96,7 @@
         }
     ],
     "wof:id":1108717905,
-    "wof:lastmodified":1560901502,
+    "wof:lastmodified":1562866239,
     "wof:name":"Coronel Dorrego",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Varela"
     ],
+    "name:ceb_x_preferred":[
+        "Varela"
+    ],
+    "name:ces_x_preferred":[
+        "Varela"
+    ],
     "name:deu_x_preferred":[
         "Varela"
     ],
@@ -34,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05d0\u05e8\u05dc\u05d4"
     ],
+    "name:ita_x_preferred":[
+        "Varela"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ec\u30e9"
     ],
@@ -47,6 +56,12 @@
         "\u0412\u0430\u0440\u0435\u043b\u0430"
     ],
     "name:spa_x_preferred":[
+        "Varela"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Varela"
     ],
     "name:ukr_x_preferred":[
@@ -73,11 +88,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":256,
     "wof:belongsto":[
-        85668081,
         102191577,
         85632505,
         421174285,
-        1109371863
+        1109371863,
+        85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":421186645,
-    "wof:lastmodified":1531858600,
+    "wof:lastmodified":1562866758,
     "wof:name":"Varela",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

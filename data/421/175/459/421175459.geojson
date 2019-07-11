@@ -40,6 +40,9 @@
     "name:oci_x_preferred":[
         "Pig\u00fc\u00e9"
     ],
+    "name:por_x_preferred":[
+        "Pig\u00fc\u00e9"
+    ],
     "name:spa_x_preferred":[
         "Pig\u00fc\u00e9"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0433\u0432\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u97cb\u62c9"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421175459,
-    "wof:lastmodified":1561793246,
+    "wof:lastmodified":1562866795,
     "wof:name":"Pig\u00fc\u00e9",
     "wof:parent_id":1108718081,
     "wof:placetype":"locality",

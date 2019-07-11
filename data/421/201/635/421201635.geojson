@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Porte\u00f1a"
+    ],
     "name:deu_x_preferred":[
         "Porte\u00f1o"
     ],
@@ -46,8 +49,14 @@
     "name:spa_x_preferred":[
         "Porte\u00f1o"
     ],
+    "name:spa_x_variant":[
+        "Porte\u00f1a"
+    ],
     "name:swe_x_preferred":[
         "Porte\u00f1o"
+    ],
+    "name:swe_x_variant":[
+        "Porte\u00f1a"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0435\u043d\u044c\u044f"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421201635,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1562866949,
     "wof:name":"Porte\u00f1a",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

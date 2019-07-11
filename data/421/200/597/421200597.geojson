@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Walter Hern\u00e1ndez"
     ],
+    "name:spa_x_variant":[
+        "Comandante Nicanor Otamendi"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u043d\u0434\u0430\u043d\u0442\u0435-\u041d\u0456\u043a\u0430\u043d\u043e\u0440-\u041e\u0442\u0430\u043c\u0435\u043d\u0434\u0456"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421200597,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1562866940,
     "wof:name":"Comandante Nicanor Otamendi",
     "wof:parent_id":1108717939,
     "wof:placetype":"locality",

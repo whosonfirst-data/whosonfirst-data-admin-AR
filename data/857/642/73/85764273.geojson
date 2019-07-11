@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000603,
-    "geom:area_square_m":6142286.610255,
+    "geom:area_square_m":6142286.61026,
     "geom:bbox":"-58.4160004849,-34.5997603196,-58.3706956894,-34.5693489037",
     "geom:latitude":-34.586238,
     "geom:longitude":-58.395219,
@@ -32,16 +32,67 @@
     "name:cat_x_preferred":[
         "Barri de la Recoleta"
     ],
+    "name:deu_x_preferred":[
+        "Recoleta"
+    ],
+    "name:eng_x_preferred":[
+        "Recoleta"
+    ],
+    "name:epo_x_preferred":[
+        "Recoleta"
+    ],
+    "name:fra_x_preferred":[
+        "Recoleta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1/\u05e8\u05e7\u05d5\u05dc\u05d8\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u056f\u0578\u056c\u0565\u057f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Recoleta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b3\u30ec\u30bf"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ucf5c\ub808\ud0c0 \ub3d9"
     ],
+    "name:kor_x_variant":[
+        "\ub808\ucf5c\ub808\ud0c0"
+    ],
+    "name:lat_x_preferred":[
+        "Recoleta"
+    ],
     "name:lit_x_preferred":[
         "Rekoleta"
+    ],
+    "name:msa_x_preferred":[
+        "Recoleta"
+    ],
+    "name:nld_x_preferred":[
+        "Recoleta"
+    ],
+    "name:nob_x_preferred":[
+        "Recoleta"
+    ],
+    "name:nor_x_preferred":[
+        "Recoleta"
+    ],
+    "name:oci_x_preferred":[
+        "Recoleta"
+    ],
+    "name:por_x_preferred":[
+        "Recoleta"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u043a\u043e\u043b\u0435\u0442\u0430"
     ],
     "name:spa_x_preferred":[
+        "Recoleta"
+    ],
+    "name:swe_x_preferred":[
         "Recoleta"
     ],
     "name:ukr_x_preferred":[
@@ -134,7 +185,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379083,
+    "wof:lastmodified":1562865714,
     "wof:name":"Recoleta",
     "wof:parent_id":1109371853,
     "wof:placetype":"neighbourhood",

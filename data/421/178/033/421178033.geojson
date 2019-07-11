@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "La Puntilla"
     ],
+    "name:swe_x_preferred":[
+        "La Puntilla"
+    ],
     "name:unk_x_variant":[
         "Puntilla"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421178033,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1562867008,
     "wof:name":"La Puntilla",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

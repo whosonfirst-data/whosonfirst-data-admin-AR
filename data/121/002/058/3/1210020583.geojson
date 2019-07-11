@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ram\u00f3n Santamarina"
+    ],
+    "name:glg_x_preferred":[
+        "Ram\u00f3n Santamarina"
+    ],
+    "name:spa_x_preferred":[
+        "Ram\u00f3n Santamarina"
+    ],
     "name:und_x_variant":[
         "R. Santamarina",
         "Santamarina",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1210020583,
-    "wof:lastmodified":1537584816,
+    "wof:lastmodified":1562866165,
     "wof:name":"Ramon Santamarina",
     "wof:parent_id":1108718039,
     "wof:placetype":"locality",

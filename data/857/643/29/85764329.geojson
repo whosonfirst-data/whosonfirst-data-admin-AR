@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1854232.029401,
+    "geom:area_square_m":1854232.029403,
     "geom:bbox":"-58.4789880538,-34.5905930921,-58.460224834,-34.5724961753",
     "geom:latitude":-34.580973,
     "geom:longitude":-58.467651,
@@ -32,7 +32,19 @@
     "name:deu_x_preferred":[
         "Villa Ort\u00fazar"
     ],
+    "name:eng_x_preferred":[
+        "Villa Ort\u00fazar"
+    ],
     "name:fra_x_preferred":[
+        "Villa Ort\u00fazar"
+    ],
+    "name:fra_x_variant":[
+        "villa Ort\u00fazar"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u0555\u0580\u057f\u0578\u0582\u0566\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
         "Villa Ort\u00fazar"
     ],
     "name:jpn_x_preferred":[
@@ -43,6 +55,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Ortusaras"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Ort\u00fazar"
     ],
     "name:por_x_preferred":[
         "Villa Ort\u00fazar"
@@ -141,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865706,
     "wof:name":"Villa Ort\u00fazar",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

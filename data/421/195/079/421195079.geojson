@@ -16,6 +16,9 @@
     "name:bel_x_variant":[
         "\u0421\u0442\u044d\u043b\u044c\u043c\u0430\u0445"
     ],
+    "name:ces_x_preferred":[
+        "Kol\u00e1\u0159stv\u00ed"
+    ],
     "name:csb_x_preferred":[
         "K\u00f2\u0142odz\u00e9j"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:gle_x_preferred":[
         "Rothad\u00f3ir"
+    ],
+    "name:hrv_x_preferred":[
+        "Kolar"
     ],
     "name:hun_x_preferred":[
         "Bogn\u00e1r"
@@ -69,6 +75,10 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043b\u044c\u043c\u0430\u0441\u0442\u0432\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0456\u043b\u0440\u0430\u0439\u0442",
+        "\u0421\u0442\u0435\u043b\u044c\u043c\u0430\u0445"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -117,7 +127,7 @@
         }
     ],
     "wof:id":421195079,
-    "wof:lastmodified":1561793221,
+    "wof:lastmodified":1562866543,
     "wof:name":"Wheelwright",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

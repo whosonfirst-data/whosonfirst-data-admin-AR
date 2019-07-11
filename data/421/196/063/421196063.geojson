@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "Corral de Bustos"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0440\u0430\u043b\u044c-\u0434\u0435-\u0411\u0443\u0441\u0442\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Corral de Bustos"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421196063,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866842,
     "wof:name":"Corral de Bustos",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

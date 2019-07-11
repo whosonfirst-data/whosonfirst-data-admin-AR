@@ -16,7 +16,16 @@
     "name:ceb_x_preferred":[
         "San Cayetano"
     ],
+    "name:eng_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:ita_x_preferred":[
+        "San Cayetano"
+    ],
     "name:nld_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:pol_x_preferred":[
         "San Cayetano"
     ],
     "name:sco_x_preferred":[
@@ -24,6 +33,9 @@
     ],
     "name:spa_x_preferred":[
         "San Cayetano"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0430\u0454\u0442\u0430\u043d\u043e"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":421196335,
-    "wof:lastmodified":1527716365,
+    "wof:lastmodified":1562866854,
     "wof:name":"San Cayetano",
     "wof:parent_id":1108718095,
     "wof:placetype":"locality",

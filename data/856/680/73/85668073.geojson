@@ -37,11 +37,24 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u062a\u0631\u064a \u0631\u064a\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Entre R\u00edos"
+    ],
     "name:aym_x_preferred":[
         "Entre R\u00edos jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Entre-Rios"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043d\u0442\u0440\u044d-\u0420\u044b\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043d\u0442\u0440\u044d-\u0420\u044b\u0430\u0441",
+        "\u042d\u043d\u0442\u0440\u044d-\u0420\u044b\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7 \u09b0\u09bf\u0993 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -70,6 +83,9 @@
     "name:deu_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:deu_x_variant":[
+        "Provinz Entre R\u00edos"
+    ],
     "name:ell_x_preferred":[
         "\u0388\u03bd\u03c4\u03c1\u03b5 \u03a1\u03af\u03bf\u03c2"
     ],
@@ -86,17 +102,26 @@
     "name:epo_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:epo_x_variant":[
+        "Provinco Entre R\u00edos"
+    ],
     "name:eus_x_preferred":[
         "Entre R\u00edosko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Entre R\u00edosin maakunta"
     ],
     "name:fra_x_preferred":[
         "Entre R\u00edos"
+    ],
+    "name:fra_x_variant":[
+        "Province d'Entre R\u00edos"
     ],
     "name:glg_x_preferred":[
         "Provincia de Entre R\u00edos"
@@ -112,6 +137,9 @@
     ],
     "name:hun_x_preferred":[
         "Entre R\u00edos tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0576\u057f\u0580\u0565 \u054c\u056b\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Provinsi Entre R\u00edos"
@@ -130,6 +158,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d4\ud2b8\ub808\ub9ac\uc624\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d4\ud2b8\ub808\ub9ac\uc624\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Entre R\u00edos"
     ],
     "name:lav_x_preferred":[
         "Entreriosas province"
@@ -158,8 +192,17 @@
     "name:nob_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:nor_x_preferred":[
+        "Entre R\u00edos"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia d'Entre R\u00edos"
+    ],
+    "name:oci_x_variant":[
+        "Entre R\u00edos"
+    ],
+    "name:oss_x_preferred":[
+        "\u042d\u043d\u0442\u0440\u0435-\u0420\u0438\u043e\u0441"
     ],
     "name:pms_x_preferred":[
         "Entre Rios"
@@ -230,8 +273,14 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e2d\u0e19\u0e40\u0e15\u0e23\u0e23\u0e35\u0e42\u0e2d\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e2d\u0e19\u0e40\u0e15\u0e23\u0e23\u0e34\u0e42\u0e2d\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Entre R\u00edos eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "Entre R\u00edos"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0442\u0440\u0435-\u0420\u0456\u043e\u0441"
@@ -250,6 +299,9 @@
     ],
     "name:war_x_preferred":[
         "Entre R\u00edos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
@@ -377,7 +429,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793142,
+    "wof:lastmodified":1562865750,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

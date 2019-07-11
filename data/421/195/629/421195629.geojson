@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Santa Teresita"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0422\u0435\u0440\u0435\u0441\u0438\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "Santa Teresita"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Balneario Santa Teresa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6cf0\u857e\u897f\u5854"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421195629,
-    "wof:lastmodified":1561793222,
+    "wof:lastmodified":1562866546,
     "wof:name":"Santa Teresita",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

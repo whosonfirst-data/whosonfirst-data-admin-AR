@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ram\u00f3n M. Castro"
+    ],
+    "name:spa_x_preferred":[
+        "Ram\u00f3n M. Castro"
+    ],
+    "name:swe_x_preferred":[
+        "Ram\u00f3n M. Castro"
+    ],
     "name:und_x_variant":[
         "R.M. Castro",
         "Ram\u00f3n M. Castro"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327407047,
-    "wof:lastmodified":1537584845,
+    "wof:lastmodified":1562865518,
     "wof:name":"Ramon M. Castro",
     "wof:parent_id":421191185,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:por_x_preferred":[
         "Capit\u00e1n Sarmiento"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d-\u0421\u0430\u0440\u043c\u044c\u0435\u043d\u0442\u043e"
+    ],
     "name:spa_x_preferred":[
         "Capit\u00e1n Sarmiento"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421173905,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866718,
     "wof:name":"Capit\u00e1n Sarmiento",
     "wof:parent_id":1108717889,
     "wof:placetype":"locality",

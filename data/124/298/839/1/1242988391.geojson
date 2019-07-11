@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nordelta"
+    ],
+    "name:spa_x_preferred":[
+        "Nordelta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1242988391,
-    "wof:lastmodified":1537486353,
+    "wof:lastmodified":1562867256,
     "wof:name":"Nordelta",
     "wof:parent_id":1108718117,
     "wof:placetype":"locality",

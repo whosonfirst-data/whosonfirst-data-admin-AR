@@ -29,14 +29,23 @@
     "name:cat_x_preferred":[
         "La Boca"
     ],
+    "name:ces_x_preferred":[
+        "La Boca"
+    ],
     "name:deu_x_preferred":[
         "La Boca"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039c\u03c0\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Boca"
     ],
     "name:eus_x_preferred":[
         "La Boca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0628\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "La Boca"
@@ -46,6 +55,9 @@
     ],
     "name:hun_x_preferred":[
         "La Boca"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u0532\u0578\u056f\u0561"
     ],
     "name:ita_x_preferred":[
         "La Boca"
@@ -68,6 +80,9 @@
     "name:nld_x_preferred":[
         "La Boca"
     ],
+    "name:nob_x_preferred":[
+        "La Boca"
+    ],
     "name:nor_x_preferred":[
         "La Boca"
     ],
@@ -85,6 +100,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u0411\u043e\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0430 \u0411\u043e\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "La Boca"
     ],
     "name:spa_x_preferred":[
         "Boca"
@@ -174,7 +195,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536864462,
+    "wof:lastmodified":1562865733,
     "wof:name":"La Boca",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa General Mitre"
+    ],
     "name:deu_x_preferred":[
         "Pinto"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421171001,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1562867037,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":421184163,
     "wof:placetype":"locality",

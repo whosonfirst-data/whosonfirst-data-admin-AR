@@ -19,6 +19,9 @@
     "name:nld_x_preferred":[
         "Las Perlas"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u041f\u0435\u0440\u043b\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Las Perlas"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421182989,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867019,
     "wof:name":"Las Perlas",
     "wof:parent_id":421199895,
     "wof:placetype":"locality",

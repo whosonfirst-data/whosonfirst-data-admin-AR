@@ -34,6 +34,9 @@
     "name:spa_x_preferred":[
         "Mar\u00eda Luisa Bombal"
     ],
+    "name:spa_x_variant":[
+        "Bombal"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043c\u0431\u0430\u043b\u044c"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421172043,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866746,
     "wof:name":"Bombal",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

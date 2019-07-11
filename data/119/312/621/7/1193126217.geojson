@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Casa Colorada"
+    ],
+    "name:spa_x_preferred":[
+        "Casa Colorada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193126217,
-    "wof:lastmodified":1536380648,
+    "wof:lastmodified":1562866176,
     "wof:name":"Casa Colorada",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

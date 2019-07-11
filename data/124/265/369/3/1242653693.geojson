@@ -27,6 +27,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel Juan Sol\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Juan Sol\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Juan Sol\u00e1"
+    ],
     "name:und_x_variant":[
         "Morillo",
         "Juan Sol\u00e1",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1242653693,
-    "wof:lastmodified":1537584888,
+    "wof:lastmodified":1562867264,
     "wof:name":"Coronel Juan Sola",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",

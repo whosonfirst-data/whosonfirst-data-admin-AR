@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Luxardo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226781433,
-    "wof:lastmodified":1536664228,
+    "wof:lastmodified":1562867454,
     "wof:name":"Luxardo",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

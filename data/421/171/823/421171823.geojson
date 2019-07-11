@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Del Campillo"
+    ],
     "name:eng_x_preferred":[
         "Del Campillo"
     ],
@@ -23,6 +26,9 @@
         "Del Campillo"
     ],
     "name:spa_x_preferred":[
+        "Del Campillo"
+    ],
+    "name:swe_x_preferred":[
         "Del Campillo"
     ],
     "name:ukr_x_preferred":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421171823,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1562867048,
     "wof:name":"Del Campillo",
     "wof:parent_id":421188041,
     "wof:placetype":"locality",

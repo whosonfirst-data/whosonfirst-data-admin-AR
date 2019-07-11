@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Choya"
+    ],
     "name:deu_x_preferred":[
         "Choya"
     ],
@@ -20,6 +23,9 @@
         "Choya"
     ],
     "name:spa_x_preferred":[
+        "Choya"
+    ],
+    "name:swe_x_preferred":[
         "Choya"
     ],
     "qs:gn_country":"AR",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":421181619,
-    "wof:lastmodified":1527716322,
+    "wof:lastmodified":1562866774,
     "wof:name":"Choya",
     "wof:parent_id":1108718149,
     "wof:placetype":"locality",

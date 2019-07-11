@@ -73,6 +73,9 @@
     "name:lav_x_preferred":[
         "Bursako"
     ],
+    "name:lij_x_preferred":[
+        "Burzaco"
+    ],
     "name:lit_x_preferred":[
         "Bursakas"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421184693,
-    "wof:lastmodified":1561793257,
+    "wof:lastmodified":1562866959,
     "wof:name":"Burzaco",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Telsen"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u0441\u0435\u043d"
+    ],
     "name:slk_x_preferred":[
         "Telsen"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1141908043,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867508,
     "wof:name":"Telsen",
     "wof:parent_id":1108718241,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Villegas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1277149493,
-    "wof:lastmodified":1537486311,
+    "wof:lastmodified":1562865971,
     "wof:name":"Rio Villegas",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

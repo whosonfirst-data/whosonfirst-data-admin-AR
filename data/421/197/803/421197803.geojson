@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Trevelin"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0432\u0435\u043b\u0438\u043d"
+    ],
     "name:sco_x_preferred":[
         "Trevelin"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421197803,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866909,
     "wof:name":"Trevel\u00edn",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

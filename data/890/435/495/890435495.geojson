@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Aguilares"
     ],
+    "name:ceb_x_preferred":[
+        "Aguilares"
+    ],
     "name:deu_x_preferred":[
         "Aguilares"
     ],
@@ -33,10 +36,16 @@
     "name:fra_x_preferred":[
         "Aguilares"
     ],
+    "name:glg_x_preferred":[
+        "Aguilares"
+    ],
     "name:ita_x_preferred":[
         "Aguilares"
     ],
     "name:nld_x_preferred":[
+        "Aguilares"
+    ],
+    "name:pol_x_preferred":[
         "Aguilares"
     ],
     "name:por_x_preferred":[
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890435495,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867141,
     "wof:name":"Aguilares",
     "wof:parent_id":1108718527,
     "wof:placetype":"locality",

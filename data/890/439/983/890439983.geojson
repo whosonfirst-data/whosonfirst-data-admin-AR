@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Los Telares"
+    ],
     "name:deu_x_preferred":[
         "Los Telares"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890439983,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867091,
     "wof:name":"Los Telares",
     "wof:parent_id":1108718511,
     "wof:placetype":"locality",

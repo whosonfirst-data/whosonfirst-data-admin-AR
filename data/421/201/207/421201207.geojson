@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Cesira"
+    ],
     "name:eng_x_preferred":[
         "La Cesira"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421201207,
-    "wof:lastmodified":1513889218,
+    "wof:lastmodified":1562866953,
     "wof:name":"La Cesira",
     "wof:parent_id":421199897,
     "wof:placetype":"locality",

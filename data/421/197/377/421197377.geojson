@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Comandante Luis Piedrabuena"
+    ],
     "name:ceb_x_preferred":[
         "Comandante Luis Piedra Buena"
     ],
@@ -20,6 +23,9 @@
         "Comandante Luis Piedra Buena"
     ],
     "name:eng_x_preferred":[
+        "Comandante Luis Piedrabuena"
+    ],
+    "name:fra_x_preferred":[
         "Comandante Luis Piedrabuena"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421197377,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866910,
     "wof:name":"Comandante Luis Piedra Buena",
     "wof:parent_id":421200653,
     "wof:placetype":"locality",

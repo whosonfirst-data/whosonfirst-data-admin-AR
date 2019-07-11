@@ -25,6 +25,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0648\u0644\u0641\u0648 \u06cc\u06cc \u06a9\u0627\u0631\u0627\u0646\u0632\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Adolfo E. Carranza"
+    ],
     "name:und_x_variant":[
         "Carranza",
         "San Ignacio",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343367989,
-    "wof:lastmodified":1537584905,
+    "wof:lastmodified":1562865588,
     "wof:name":"Adolfo E. Carranza",
     "wof:parent_id":1108718147,
     "wof:placetype":"locality",

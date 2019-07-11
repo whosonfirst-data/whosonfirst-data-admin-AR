@@ -41,7 +41,7 @@
     "name:eng_x_preferred":[
         "Hucal"
     ],
-    "name:eng_x_variant":[
+    "name:nld_x_preferred":[
         "Hucal"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421181665,
-    "wof:lastmodified":1560898147,
+    "wof:lastmodified":1562866781,
     "wof:name":"Hucal",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

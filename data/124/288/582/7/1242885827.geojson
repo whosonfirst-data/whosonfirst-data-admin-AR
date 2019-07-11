@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "R\u00edo Muerto"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Muerto"
+    ],
     "name:und_x_variant":[
         "R\u00edo Muerto"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242885827,
-    "wof:lastmodified":1537584844,
+    "wof:lastmodified":1562867191,
     "wof:name":"Rio Muerto",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

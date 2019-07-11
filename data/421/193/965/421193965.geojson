@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Punta Alta"
     ],
+    "name:epo_x_preferred":[
+        "Punta Alta"
+    ],
     "name:fra_x_preferred":[
         "Punta Alta"
     ],
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421193965,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1562866582,
     "wof:name":"Punta Alta",
     "wof:parent_id":1108717903,
     "wof:placetype":"locality",

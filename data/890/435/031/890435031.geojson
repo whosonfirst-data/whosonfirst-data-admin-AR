@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Piquill\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Piquill\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Piquill\u00edn"
     ],
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":890435031,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867136,
     "wof:name":"Piquill\u00edn",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

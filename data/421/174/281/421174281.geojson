@@ -43,7 +43,13 @@
     "name:lit_x_preferred":[
         "La Kiaka"
     ],
+    "name:lit_x_variant":[
+        "La Kjaka"
+    ],
     "name:nld_x_preferred":[
+        "La Quiaca"
+    ],
+    "name:pol_x_preferred":[
         "La Quiaca"
     ],
     "name:por_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421174281,
-    "wof:lastmodified":1561793236,
+    "wof:lastmodified":1562866671,
     "wof:name":"La Quiaca",
     "wof:parent_id":421174419,
     "wof:placetype":"locality",

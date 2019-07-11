@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Carlos Tejedor Partido"
+    ],
     "name:fra_x_preferred":[
         "Carlos Tejedor"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:por_x_preferred":[
         "Carlos Tejedor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0441-\u0422\u0435\u0445\u0435\u0434\u043e\u0440"
     ],
     "name:spa_x_preferred":[
         "Partido de Carlos Tejedor"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421174497,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1562866673,
     "wof:name":"Carlos Tejedor",
     "wof:parent_id":1108717895,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cym_x_preferred":[
         "Tres Algarrobos"
     ],
+    "name:dan_x_preferred":[
+        "Tres Algarrobos"
+    ],
     "name:eng_x_preferred":[
         "Tres Algarrobos"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:por_x_preferred":[
         "Tres Algarrobos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0441-\u0410\u043b\u044c\u0433\u0430\u0440\u0440\u043e\u0431\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Tres Algarrobos"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421171637,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1562867052,
     "wof:name":"Tres Algarrobos",
     "wof:parent_id":1108717895,
     "wof:placetype":"locality",

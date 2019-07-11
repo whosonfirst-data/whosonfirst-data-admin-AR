@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ernestina"
+    ],
+    "name:por_x_preferred":[
+        "Ernestina"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3434136,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":421196311,
-    "wof:lastmodified":1499925084,
+    "wof:lastmodified":1562866870,
     "wof:name":"Ernestina",
     "wof:parent_id":1108718131,
     "wof:placetype":"locality",

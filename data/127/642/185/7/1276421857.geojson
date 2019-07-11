@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ojeda"
+    ],
     "name:und_x_variant":[
         "Chanilao",
         "Ojeda"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276421857,
-    "wof:lastmodified":1537584852,
+    "wof:lastmodified":1562865939,
     "wof:name":"Ojeda",
     "wof:parent_id":1108718317,
     "wof:placetype":"locality",

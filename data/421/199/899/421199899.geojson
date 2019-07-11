@@ -38,12 +38,65 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:deu_x_preferred":[
+        "Chos Malal"
+    ],
     "name:eng_x_preferred":[
         "Chos Malal"
     ],
     "name:eng_x_variant":[
-        "Chos  Malal",
+        "Chos  Malal"
+    ],
+    "name:fra_x_preferred":[
         "Chos Malal"
+    ],
+    "name:glg_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:grn_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30b9\u30fb\u30de\u30e9\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cos Malalis"
+    ],
+    "name:nld_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:oci_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:por_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:ron_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:swe_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u65af\u99ac\u62c9\u723e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -105,7 +158,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866927,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Luracatao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310368949,
-    "wof:lastmodified":1537486322,
+    "wof:lastmodified":1562866361,
     "wof:name":"Luracatao",
     "wof:parent_id":421197593,
     "wof:placetype":"locality",

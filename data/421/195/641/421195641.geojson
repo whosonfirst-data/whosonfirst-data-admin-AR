@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Capilla del Monte"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u043b\u044c\u044f-\u0434\u0435\u043b\u044c-\u041c\u043e\u043d\u0442\u0435"
+    ],
     "name:spa_x_preferred":[
         "Capilla del Monte"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421195641,
-    "wof:lastmodified":1561793225,
+    "wof:lastmodified":1562866564,
     "wof:name":"Capilla del Monte",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

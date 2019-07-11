@@ -40,11 +40,20 @@
     "name:aym_x_preferred":[
         "San Juan jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0622\u0646 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Provi\u00f1s San Juan"
@@ -82,11 +91,17 @@
     "name:epo_x_preferred":[
         "Provincia de San Juan"
     ],
+    "name:epo_x_variant":[
+        "Provinco San Juan"
+    ],
     "name:eus_x_preferred":[
         "San Juango probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0633\u0646 \u062e\u0648\u0622\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
     ],
     "name:fin_x_preferred":[
         "San Juanin maakunta"
@@ -106,6 +121,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u091c\u0941\u0906\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "San Juan tartom\u00e1ny"
+    ],
     "name:ind_x_preferred":[
         "Provinsi San Juan"
     ],
@@ -123,6 +141,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud6c4\uc548 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud6c4\uc548\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Juan"
     ],
     "name:lav_x_preferred":[
         "Sanhuanas province"
@@ -142,6 +166,9 @@
     "name:msa_x_preferred":[
         "Wilayah San Juan"
     ],
+    "name:mwl_x_preferred":[
+        "San Juan"
+    ],
     "name:nan_x_preferred":[
         "San Juan S\u00e9ng"
     ],
@@ -153,6 +180,9 @@
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de San Juan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
     "name:pms_x_preferred":[
         "San Juan"
@@ -216,8 +246,14 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e19\u0e04\u0e27\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e19\u0e06\u0e27\u0e19"
+    ],
     "name:tur_x_preferred":[
         "San Juan eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "San Juan"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
@@ -227,6 +263,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0646 \u062e\u0648\u0622\u0646\u060c \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
     ],
     "name:vie_x_preferred":[
         "San Juan"
@@ -363,7 +402,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793155,
+    "wof:lastmodified":1562865789,
     "wof:name":"San Juan",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

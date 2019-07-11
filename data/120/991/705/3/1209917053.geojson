@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo Labrado"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Labrado"
+    ],
+    "name:swe_x_preferred":[
+        "Palo Labrado"
+    ],
     "name:und_x_variant":[
         "Palo",
         "Palo Labrado"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209917053,
-    "wof:lastmodified":1537584851,
+    "wof:lastmodified":1562866034,
     "wof:name":"Palo Labrado",
     "wof:parent_id":421191005,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Chichinales"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0447\u0438\u043d\u0430\u043b\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
         "Chichinales"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421166741,
-    "wof:lastmodified":1561793218,
+    "wof:lastmodified":1562866525,
     "wof:name":"Chichinales",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Gustavo"
     ],
+    "name:ceb_x_preferred":[
+        "San Gustavo"
+    ],
     "name:deu_x_preferred":[
         "San Gustavo"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421197895,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866909,
     "wof:name":"San Gustavo",
     "wof:parent_id":421181879,
     "wof:placetype":"locality",

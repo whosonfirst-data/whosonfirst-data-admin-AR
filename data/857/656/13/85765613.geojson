@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":4343257.85183,
+    "geom:area_square_m":4343257.851831,
     "geom:bbox":"-58.4146599809,-34.6206423349,-58.391657398,-34.5980030768",
     "geom:latitude":-34.609099,
     "geom:longitude":-58.403062,
@@ -38,8 +38,17 @@
     "name:deu_x_preferred":[
         "Balvanera"
     ],
+    "name:eng_x_preferred":[
+        "Balvanera"
+    ],
+    "name:epo_x_preferred":[
+        "Balvanera"
+    ],
     "name:fra_x_preferred":[
         "Balvanera"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u057e\u0561\u0576\u0565\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Balvanera"
@@ -47,10 +56,19 @@
     "name:kor_x_preferred":[
         "\ubc1c\ubc14\ub124\ub77c \ub3d9"
     ],
+    "name:kor_x_variant":[
+        "\ubc1c\ubc14\ub124\ub77c"
+    ],
     "name:lat_x_preferred":[
         "Balvanera"
     ],
     "name:lit_x_preferred":[
+        "Balvanera"
+    ],
+    "name:mlg_x_preferred":[
+        "Balvanera"
+    ],
+    "name:nld_x_preferred":[
         "Balvanera"
     ],
     "name:oci_x_preferred":[
@@ -150,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865724,
     "wof:name":"Balvanera",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

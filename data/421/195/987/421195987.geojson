@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Aranguren"
     ],
+    "name:spa_x_variant":[
+        "Villa Aranguren"
+    ],
     "name:swe_x_preferred":[
         "Aranguren"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421195987,
-    "wof:lastmodified":1561793226,
+    "wof:lastmodified":1562866570,
     "wof:name":"Aranguren",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

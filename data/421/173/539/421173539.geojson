@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "R\u00edo Tercero"
     ],
+    "name:dan_x_preferred":[
+        "R\u00edo Tercero"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Tercero"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d5 \u05d8\u05e8\u05e1\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00edo Tercero"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30aa\u30fb\u30bb\u30eb\u30bb\u30ed"
@@ -53,8 +59,14 @@
     "name:por_x_preferred":[
         "R\u00edo Tercero"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0422\u0435\u0440\u0441\u0435\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de R\u00edo Tercero"
+    ],
+    "name:spa_x_variant":[
+        "R\u00edo Tercero"
     ],
     "name:swe_x_preferred":[
         "R\u00edo Tercero"
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":421173539,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866716,
     "wof:name":"R\u00edo Tercero",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

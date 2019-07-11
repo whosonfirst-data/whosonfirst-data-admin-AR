@@ -25,6 +25,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u0631\u062f\u0631\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Turdera"
+    ],
     "name:nld_x_preferred":[
         "Turdera"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Turdera"
+    ],
+    "name:spa_x_variant":[
+        "Villa Turdera"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0631\u062f\u0631\u0627"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421192279,
-    "wof:lastmodified":1561793220,
+    "wof:lastmodified":1562866533,
     "wof:name":"Turdera",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

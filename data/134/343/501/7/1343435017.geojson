@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fuentes"
+    ],
+    "name:por_x_preferred":[
+        "Fuentes"
+    ],
+    "name:spa_x_preferred":[
+        "Fuentes"
+    ],
+    "name:swe_x_preferred":[
+        "Fuentes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343435017,
-    "wof:lastmodified":1537486335,
+    "wof:lastmodified":1562865704,
     "wof:name":"Fuentes",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

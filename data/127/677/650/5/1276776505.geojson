@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Collagasta"
+    ],
+    "name:spa_x_preferred":[
+        "Collagasta"
+    ],
+    "name:swe_x_preferred":[
+        "Collagasta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276776505,
-    "wof:lastmodified":1537486343,
+    "wof:lastmodified":1562866007,
     "wof:name":"Collagasta",
     "wof:parent_id":421185061,
     "wof:placetype":"locality",

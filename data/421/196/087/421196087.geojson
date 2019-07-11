@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Bragado"
     ],
+    "name:pol_x_preferred":[
+        "Bragado"
+    ],
     "name:por_x_preferred":[
         "Bragado"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421196087,
-    "wof:lastmodified":1561793251,
+    "wof:lastmodified":1562866857,
     "wof:name":"Bragado",
     "wof:parent_id":1108717881,
     "wof:placetype":"locality",

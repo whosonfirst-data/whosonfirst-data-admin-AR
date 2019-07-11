@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000728,
-    "geom:area_square_m":7399759.323871,
+    "geom:area_square_m":7399759.323873,
     "geom:bbox":"-58.5257736298,-34.6745085924,-58.4788178145,-34.6434094517",
     "geom:latitude":-34.658373,
     "geom:longitude":-58.501737,
@@ -32,11 +32,20 @@
     "name:deu_x_preferred":[
         "Mataderos"
     ],
+    "name:eng_x_preferred":[
+        "Mataderos"
+    ],
     "name:fra_x_preferred":[
         "Mataderos"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057f\u0561\u0564\u0565\u0580\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Mataderos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30c7\u30ed\u30b9"
     ],
     "name:lat_x_preferred":[
         "Mataderos"
@@ -44,11 +53,17 @@
     "name:lit_x_preferred":[
         "Mataderosas"
     ],
+    "name:nld_x_preferred":[
+        "Mataderos"
+    ],
     "name:por_x_preferred":[
         "Mataderos"
     ],
     "name:ron_x_preferred":[
         "Mataderos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u0435\u0440\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Mataderos"
@@ -138,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379087,
+    "wof:lastmodified":1562865734,
     "wof:name":"Mataderos",
     "wof:parent_id":1109371867,
     "wof:placetype":"neighbourhood",

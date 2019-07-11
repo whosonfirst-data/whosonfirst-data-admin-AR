@@ -13,25 +13,202 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Guido"
+    ],
     "name:als_x_preferred":[
+        "Guido"
+    ],
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u064a\u062f\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Guido"
+    ],
+    "name:ast_x_preferred":[
+        "Guido"
+    ],
+    "name:aze_x_preferred":[
+        "Guido"
+    ],
+    "name:bar_x_preferred":[
+        "Guido"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0432\u0456\u0434\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Guido"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0438\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
         "Guido"
     ],
     "name:ceb_x_preferred":[
         "Guido"
     ],
+    "name:ces_x_preferred":[
+        "Guido"
+    ],
+    "name:cos_x_preferred":[
+        "Guido"
+    ],
+    "name:cym_x_preferred":[
+        "Guido"
+    ],
+    "name:dan_x_preferred":[
+        "Guido"
+    ],
     "name:deu_x_preferred":[
+        "Guido"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u0390\u03bd\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
         "Guido"
     ],
     "name:epo_x_preferred":[
         "Guido"
     ],
+    "name:est_x_preferred":[
+        "Guido"
+    ],
+    "name:eus_x_preferred":[
+        "Guido"
+    ],
+    "name:fin_x_preferred":[
+        "Guido"
+    ],
+    "name:fra_x_preferred":[
+        "Guido"
+    ],
+    "name:frp_x_preferred":[
+        "Guido"
+    ],
+    "name:fur_x_preferred":[
+        "Guido"
+    ],
+    "name:gla_x_preferred":[
+        "Guido"
+    ],
+    "name:gle_x_preferred":[
+        "Guido"
+    ],
+    "name:glg_x_preferred":[
+        "Guido"
+    ],
+    "name:gsw_x_preferred":[
+        "Guido"
+    ],
+    "name:hrv_x_preferred":[
+        "Guido"
+    ],
+    "name:hun_x_preferred":[
+        "Guido"
+    ],
+    "name:ido_x_preferred":[
+        "Guido"
+    ],
+    "name:ile_x_preferred":[
+        "Guido"
+    ],
+    "name:ina_x_preferred":[
+        "Guido"
+    ],
+    "name:ind_x_preferred":[
+        "Guido"
+    ],
+    "name:isl_x_preferred":[
+        "Guido"
+    ],
     "name:ita_x_preferred":[
+        "Guido"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a4\u30fc\u30c9"
+    ],
+    "name:kon_x_preferred":[
         "Guido"
     ],
     "name:lat_x_preferred":[
         "Guido"
     ],
+    "name:lav_x_preferred":[
+        "Guido"
+    ],
+    "name:lij_x_preferred":[
+        "Guido"
+    ],
+    "name:lim_x_preferred":[
+        "Guido"
+    ],
+    "name:lit_x_preferred":[
+        "Guido"
+    ],
+    "name:ltz_x_preferred":[
+        "Guido"
+    ],
+    "name:min_x_preferred":[
+        "Guido"
+    ],
+    "name:mlg_x_preferred":[
+        "Guido"
+    ],
+    "name:msa_x_preferred":[
+        "Guido"
+    ],
+    "name:nap_x_preferred":[
+        "Guido"
+    ],
+    "name:nds_x_preferred":[
+        "Guido"
+    ],
     "name:nld_x_preferred":[
+        "Guido"
+    ],
+    "name:nno_x_preferred":[
+        "Guido"
+    ],
+    "name:nob_x_preferred":[
+        "Guido"
+    ],
+    "name:nrm_x_preferred":[
+        "Guido"
+    ],
+    "name:oci_x_preferred":[
+        "Guido"
+    ],
+    "name:pcd_x_preferred":[
+        "Guido"
+    ],
+    "name:pms_x_preferred":[
+        "Guido"
+    ],
+    "name:pol_x_preferred":[
+        "Guido"
+    ],
+    "name:por_x_preferred":[
+        "Guido"
+    ],
+    "name:roh_x_preferred":[
+        "Guido"
+    ],
+    "name:ron_x_preferred":[
+        "Guido"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0438\u0434\u043e\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Guido"
+    ],
+    "name:sco_x_preferred":[
+        "Guido"
+    ],
+    "name:slk_x_preferred":[
         "Guido"
     ],
     "name:slv_x_preferred":[
@@ -40,7 +217,43 @@
     "name:spa_x_preferred":[
         "Guido"
     ],
+    "name:srd_x_preferred":[
+        "Guido"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0432\u0438\u0434\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Guido"
+    ],
     "name:swe_x_preferred":[
+        "Guido"
+    ],
+    "name:tur_x_preferred":[
+        "Guido"
+    ],
+    "name:vec_x_preferred":[
+        "Guido"
+    ],
+    "name:vie_x_preferred":[
+        "Guido"
+    ],
+    "name:vls_x_preferred":[
+        "Guido"
+    ],
+    "name:vol_x_preferred":[
+        "Guido"
+    ],
+    "name:wln_x_preferred":[
+        "Guido"
+    ],
+    "name:wol_x_preferred":[
+        "Guido"
+    ],
+    "name:zho_x_preferred":[
+        "\u572d\u591a"
+    ],
+    "name:zul_x_preferred":[
         "Guido"
     ],
     "qs:gn_country":"AR",
@@ -89,7 +302,7 @@
         }
     ],
     "wof:id":421191807,
-    "wof:lastmodified":1527716385,
+    "wof:lastmodified":1562866900,
     "wof:name":"Guido",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

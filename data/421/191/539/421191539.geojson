@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Ramos Mej\u00eda"
     ],
+    "name:cym_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
     "name:dan_x_preferred":[
         "Ramos Mej\u00eda"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043c\u043e\u0441-\u041c\u0435\u0445\u0438\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0430\u043c\u043e\u0441-\u041c\u0435\u0445\u0438\u044f"
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0dcf\u0db8\u0ddd\u0dc3\u0dca \u0db8\u0dd9\u0da2\u0dd2\u0dba\u0dcf"
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421191539,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866890,
     "wof:name":"Ramos Mej\u00eda",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

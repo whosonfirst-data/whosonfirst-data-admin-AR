@@ -22,6 +22,9 @@
     "name:pol_x_preferred":[
         "Thea"
     ],
+    "name:por_x_preferred":[
+        "Thea"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u044f"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421188369,
-    "wof:lastmodified":1527716289,
+    "wof:lastmodified":1562866728,
     "wof:name":"Thea",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

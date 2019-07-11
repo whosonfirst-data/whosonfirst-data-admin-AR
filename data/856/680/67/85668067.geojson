@@ -40,8 +40,14 @@
     "name:aym_x_preferred":[
         "Formosa jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0645\u0648\u0632\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0424\u0430\u0440\u043c\u043e\u0441\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0424\u0430\u0440\u043c\u043e\u0441\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09ae\u09cb\u09b8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -82,11 +88,17 @@
     "name:epo_x_preferred":[
         "Formosa"
     ],
+    "name:epo_x_variant":[
+        "Provinco Formosa"
+    ],
     "name:eus_x_preferred":[
         "Formosako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0641\u0631\u0645\u0648\u0632\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648\u0631\u0645\u0648\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Formosan maakunta"
@@ -127,6 +139,12 @@
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ubaa8\uc0ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub974\ubaa8\uc0ac\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Formosa"
+    ],
     "name:lav_x_preferred":[
         "Formosas province"
     ],
@@ -157,8 +175,14 @@
     "name:nob_x_preferred":[
         "Formosa"
     ],
+    "name:nor_x_preferred":[
+        "Formosa"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Formosa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u043e\u0440\u043c\u043e\u0441\u00e6"
     ],
     "name:pms_x_preferred":[
         "Formosa"
@@ -226,6 +250,9 @@
     "name:tur_x_preferred":[
         "Formosa eyaleti"
     ],
+    "name:tur_x_variant":[
+        "Formosa"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u043c\u043e\u0441\u0430"
     ],
@@ -243,6 +270,9 @@
     ],
     "name:war_x_preferred":[
         "Formosa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u798f\u5c14\u6469\u6c99\u7701"
     ],
     "name:zho_x_preferred":[
         "\u798f\u723e\u6469\u6c99\u7701"
@@ -370,7 +400,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793140,
+    "wof:lastmodified":1562865744,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

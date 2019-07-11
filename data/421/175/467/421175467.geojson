@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Merlo"
+    ],
     "name:deu_x_preferred":[
         "Merlo"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421175467,
-    "wof:lastmodified":1561793246,
+    "wof:lastmodified":1562866793,
     "wof:name":"Merlo",
     "wof:parent_id":421189001,
     "wof:placetype":"locality",

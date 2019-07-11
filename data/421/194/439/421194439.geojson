@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gualeguay"
+    ],
     "name:deu_x_preferred":[
         "Gualeguay"
     ],
@@ -50,7 +53,13 @@
     "name:nld_x_preferred":[
         "Gualeguay"
     ],
+    "name:slk_x_preferred":[
+        "Gualeguay"
+    ],
     "name:spa_x_preferred":[
+        "Gualeguay"
+    ],
+    "name:swe_x_preferred":[
         "Gualeguay"
     ],
     "qs:gn_country":null,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421194439,
-    "wof:lastmodified":1560898141,
+    "wof:lastmodified":1562866575,
     "wof:name":"Gualeguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

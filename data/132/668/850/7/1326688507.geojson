@@ -27,6 +27,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Maravilla"
+    ],
     "name:und_x_variant":[
         "La Maravilla",
         "Maravilla"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326688507,
-    "wof:lastmodified":1537584857,
+    "wof:lastmodified":1562865507,
     "wof:name":"Maravilla",
     "wof:parent_id":1108718481,
     "wof:placetype":"locality",

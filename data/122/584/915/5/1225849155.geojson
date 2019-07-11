@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Miramonte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225849155,
-    "wof:lastmodified":1537008000,
+    "wof:lastmodified":1562867496,
     "wof:name":"Miramonte",
     "wof:parent_id":1108717861,
     "wof:placetype":"locality",

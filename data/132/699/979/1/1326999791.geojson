@@ -25,6 +25,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Blest"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326999791,
-    "wof:lastmodified":1537486313,
+    "wof:lastmodified":1562865559,
     "wof:name":"Puerto Blest",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

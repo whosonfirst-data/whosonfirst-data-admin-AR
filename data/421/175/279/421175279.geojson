@@ -43,6 +43,9 @@
     "name:spa_x_preferred":[
         "Ballesteros"
     ],
+    "name:swe_x_preferred":[
+        "Ballesteros"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0454\u0441\u0442\u0435\u0440\u043e\u0441"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421175279,
-    "wof:lastmodified":1561793246,
+    "wof:lastmodified":1562866792,
     "wof:name":"Ballesteros",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

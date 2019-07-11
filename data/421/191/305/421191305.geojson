@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Villa Dolores"
     ],
+    "name:ceb_x_preferred":[
+        "Villa Dolores"
+    ],
     "name:deu_x_preferred":[
         "Villa Dolores"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:fra_x_preferred":[
         "villa Dolores"
+    ],
+    "name:fra_x_variant":[
+        "Villa Dolores"
     ],
     "name:ita_x_preferred":[
         "Villa Dolores"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421191305,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866894,
     "wof:name":"Villa Dolores",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

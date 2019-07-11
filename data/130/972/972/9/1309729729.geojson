@@ -26,6 +26,30 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pla"
+    ],
+    "name:cym_x_preferred":[
+        "Pla"
+    ],
+    "name:deu_x_preferred":[
+        "Pla"
+    ],
+    "name:fra_x_preferred":[
+        "Pla"
+    ],
+    "name:pol_x_preferred":[
+        "Pla"
+    ],
+    "name:por_x_preferred":[
+        "Pla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Pla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1309729729,
-    "wof:lastmodified":1537039076,
+    "wof:lastmodified":1562866507,
     "wof:name":"Pla",
     "wof:parent_id":1108717853,
     "wof:placetype":"locality",

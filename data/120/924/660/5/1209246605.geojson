@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Caspi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e1\u05e4\u05d9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u043d-\u041a\u0430\u0441\u043f\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u043f\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -35,7 +47,7 @@
         "gn:id":3862341
     },
     "wof:country":"AR",
-    "wof:geomhash":"a0bef8165e7488034663b2aad4e276ea",
+    "wof:geomhash":"09f703b24208f98515305ba6413ad242",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209246605,
-    "wof:lastmodified":1536293143,
+    "wof:lastmodified":1562866084,
     "wof:name":"Caspi",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",
@@ -54,9 +66,9 @@
 },
   "bbox": [
     -64.07151999999999,
-    -29.814190000000004,
+    -29.81419,
     -64.07151999999999,
-    -29.814190000000004
+    -29.81419
 ],
   "geometry": {"coordinates":[-64.07151999999999,-29.81419],"type":"Point"}
 }

@@ -25,6 +25,12 @@
     "name:ita_x_preferred":[
         "Olmos"
     ],
+    "name:por_x_preferred":[
+        "Olmos"
+    ],
+    "name:swe_x_preferred":[
+        "Olmos"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3842640,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421195297,
-    "wof:lastmodified":1527716125,
+    "wof:lastmodified":1562866566,
     "wof:name":"Olmos",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

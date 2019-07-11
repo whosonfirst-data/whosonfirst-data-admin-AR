@@ -24,7 +24,13 @@
     "name:por_x_preferred":[
         "Villa Ocampo"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041e\u043a\u0430\u043c\u043f\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Villa Ocampo"
+    ],
+    "name:swe_x_preferred":[
         "Villa Ocampo"
     ],
     "name:ukr_x_preferred":[
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890441851,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867088,
     "wof:name":"Villa Ocampo",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

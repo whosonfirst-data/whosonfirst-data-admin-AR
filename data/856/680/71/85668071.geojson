@@ -37,11 +37,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a\u064a\u0646\u062a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u0631\u064a\u064a\u0646\u062a\u0633"
+    ],
     "name:aym_x_preferred":[
         "Corrientes jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u0646\u062a\u0633 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u0440\u044b\u0435\u043d\u0442\u044d\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0440\u044b\u0435\u043d\u0442\u044d\u0441"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09bf\u09af\u09bc\u09c7\u09a8\u09cd\u09a4\u09c7\u09b8"
@@ -64,6 +73,9 @@
     "name:dan_x_preferred":[
         "Provincia de Corrientes"
     ],
+    "name:dan_x_variant":[
+        "Corrientes"
+    ],
     "name:deu_x_preferred":[
         "Provinz Corrientes"
     ],
@@ -82,11 +94,17 @@
     "name:epo_x_preferred":[
         "Corrientes"
     ],
+    "name:epo_x_variant":[
+        "Provinco Corrientes"
+    ],
     "name:eus_x_preferred":[
         "Corrientesko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u0631\u06cc\u0646\u062a\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u06cc\u0646\u062a\u0633"
     ],
     "name:fin_x_preferred":[
         "Corrientesin maakunta"
@@ -115,6 +133,9 @@
     "name:ido_x_preferred":[
         "Provinco di Corrientes"
     ],
+    "name:ido_x_variant":[
+        "Provinco Corrientes"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Corrientes"
     ],
@@ -133,11 +154,20 @@
     "name:kor_x_preferred":[
         "\ucf54\ub9ac\uc5d4\ud14c\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ub9ac\uc5d4\ud14c\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Corrientes"
+    ],
     "name:lav_x_preferred":[
         "Korrjentesas province"
     ],
     "name:lit_x_preferred":[
         "Korienteso provincija"
+    ],
+    "name:lit_x_variant":[
+        "Korjenteso provincija"
     ],
     "name:lmo_x_preferred":[
         "Corrientes"
@@ -160,8 +190,14 @@
     "name:nob_x_preferred":[
         "Corrientes"
     ],
+    "name:nor_x_preferred":[
+        "Corrientes"
+    ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Corrientes"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u0440\u0440\u0438\u0435\u043d\u0442\u0435\u0441"
     ],
     "name:pms_x_preferred":[
         "Corrientes"
@@ -226,8 +262,14 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e01\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e15\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e01\u0e2d\u0e23\u0e4c\u0e23\u0e34\u0e40\u0e2d\u0e19\u0e40\u0e15\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Corrientes eyaleti"
+    ],
+    "name:tur_x_variant":[
+        "Corrientes"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0440\u0456\u0454\u043d\u0442\u0435\u0441"
@@ -246,6 +288,9 @@
     ],
     "name:war_x_preferred":[
         "Corrientes"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u8fde\u7279\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u8fde\u7279\u65af\u7701"
@@ -373,7 +418,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793147,
+    "wof:lastmodified":1562865772,
     "wof:name":"Corrientes",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

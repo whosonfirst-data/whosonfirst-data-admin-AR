@@ -34,6 +34,9 @@
     "name:oci_x_preferred":[
         "Plottier"
     ],
+    "name:pol_x_preferred":[
+        "Plottier"
+    ],
     "name:ron_x_preferred":[
         "Plottier"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421186349,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866759,
     "wof:name":"Plottier",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

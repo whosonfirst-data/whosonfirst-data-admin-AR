@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "James Craik"
+    ],
     "name:eng_x_preferred":[
         "James Craik"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421198219,
-    "wof:lastmodified":1561793247,
+    "wof:lastmodified":1562866803,
     "wof:name":"James Oraik",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

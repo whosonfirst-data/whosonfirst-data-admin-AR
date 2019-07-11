@@ -13,6 +13,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "U-Bahnhof Primera Junta"
+    ],
+    "name:eng_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:ita_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:nld_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:nob_x_preferred":[
+        "Primera Junta undergrunnsstasjon"
+    ],
+    "name:nor_x_preferred":[
+        "Primera Junta undergrunnsstasjon"
+    ],
+    "name:pol_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Primera Junta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u0435\u0440\u0430 \u0425\u0443\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Primera Junta"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3429855,
@@ -33,11 +63,11 @@
     "qs:woe_id":331688,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85668081,
         102191577,
         85632505,
         421174285,
-        1109371863
+        1109371863,
+        85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":421177085,
-    "wof:lastmodified":1531858431,
+    "wof:lastmodified":1562866982,
     "wof:name":"Primera Junta",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

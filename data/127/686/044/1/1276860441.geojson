@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Casabindo"
+    ],
+    "name:spa_x_preferred":[
+        "Casabindo"
+    ],
     "name:und_x_variant":[
         "Casavindo",
         "Casabindo"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276860441,
-    "wof:lastmodified":1537584895,
+    "wof:lastmodified":1562865924,
     "wof:name":"Casabindo",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2305937.232015,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.688003,-32.900504,-60.688003,-32.900504",
     "geom:latitude":-32.900504,
     "geom:longitude":-60.688003,
@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Uni\u00f3n"
     ],
+    "name:por_x_preferred":[
+        "Uni\u00f3n"
+    ],
     "name:sco_x_preferred":[
         "Uni\u00f3n"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_variant":[
         "Barrio Uni\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Uni\u00f3n"
     ],
     "name:unk_x_variant":[
         "Uni\u00f3n",
@@ -139,7 +145,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865720,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

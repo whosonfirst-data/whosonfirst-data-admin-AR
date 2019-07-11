@@ -26,6 +26,69 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u099c\u09c1\u09b0\u09be\u09ae\u09c7\u09a8\u099f\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Juramento"
+    ],
+    "name:epo_x_preferred":[
+        "Juramento"
+    ],
+    "name:eus_x_preferred":[
+        "Juramento"
+    ],
+    "name:fra_x_preferred":[
+        "Juramento"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0578\u0582\u0580\u0561\u0574\u0565\u0576\u057f\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Juramento"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10e3\u10e0\u10d0\u10db\u10d4\u10dc\u10e2\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u043c\u0435\u043d\u0442\u0443"
+    ],
+    "name:mlg_x_preferred":[
+        "Juramento"
+    ],
+    "name:nld_x_preferred":[
+        "Juramento"
+    ],
+    "name:nor_x_preferred":[
+        "Juramento"
+    ],
+    "name:pol_x_preferred":[
+        "Juramento"
+    ],
+    "name:por_x_preferred":[
+        "Juramento"
+    ],
+    "name:ron_x_preferred":[
+        "Juramento"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u043c\u0435\u043d\u0442\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Juramento"
+    ],
+    "name:vie_x_preferred":[
+        "Juramento"
+    ],
+    "name:vol_x_preferred":[
+        "Juramento"
+    ],
+    "name:war_x_preferred":[
+        "Juramento"
+    ],
+    "name:zho_x_preferred":[
+        "\u8339\u62c9\u95e8\u56fe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +112,7 @@
         }
     ],
     "wof:id":1243530733,
-    "wof:lastmodified":1536684063,
+    "wof:lastmodified":1562867171,
     "wof:name":"Juramento",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

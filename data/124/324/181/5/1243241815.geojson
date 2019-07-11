@@ -26,6 +26,27 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:fra_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u057f\u0561 \u054c\u0561\u0576\u056f\u056b\u056c"
+    ],
+    "name:lit_x_preferred":[
+        "Buta Rankilis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0420\u0430\u043d\u043a\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:swe_x_preferred":[
+        "Buta Ranquil"
+    ],
     "name:und_x_variant":[
         "Buta Ranquilco",
         "Buta Ranquil"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243241815,
-    "wof:lastmodified":1537584899,
+    "wof:lastmodified":1562867217,
     "wof:name":"Buta Ranquil",
     "wof:parent_id":1108718311,
     "wof:placetype":"locality",
