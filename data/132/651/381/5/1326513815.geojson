@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cangrejillos"
+    ],
+    "name:ita_x_preferred":[
+        "Cangrejillos"
+    ],
+    "name:spa_x_preferred":[
+        "Cangrejillos"
+    ],
+    "name:swe_x_preferred":[
+        "Cangrejillos"
+    ],
     "name:und_x_variant":[
         "Cangrejilla",
         "Cangrejillos"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326513815,
-    "wof:lastmodified":1537584897,
+    "wof:lastmodified":1562865495,
     "wof:name":"Cangrejillos",
     "wof:parent_id":421174419,
     "wof:placetype":"locality",

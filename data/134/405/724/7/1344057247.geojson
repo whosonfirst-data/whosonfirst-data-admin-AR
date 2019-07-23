@@ -26,6 +26,27 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dique Florentino Ameghino"
+    ],
+    "name:deu_x_preferred":[
+        "Talsperre Florentino Ameghino"
+    ],
+    "name:fra_x_preferred":[
+        "Lac Florentino Ameghino"
+    ],
+    "name:nor_x_preferred":[
+        "Florentino Ameghino-demningen"
+    ],
+    "name:spa_x_preferred":[
+        "Dique Florentino Ameghino"
+    ],
+    "name:swe_x_preferred":[
+        "Dique Florentino Ameghino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0415\u0421 \u0424\u043b\u043e\u0440\u0435\u043d\u0442\u0438\u043d\u043e-\u0410\u043c\u0435\u0433\u0456\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1344057247,
-    "wof:lastmodified":1537486340,
+    "wof:lastmodified":1562865675,
     "wof:name":"Dique Florentino Ameghino",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

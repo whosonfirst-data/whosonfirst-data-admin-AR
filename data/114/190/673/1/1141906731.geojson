@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Nueve de Julio"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0587\u0565 \u0564\u0565 \u053d\u0578\u0582\u056c\u056b\u0578"
+    ],
     "name:ita_x_preferred":[
         "Nueve de Julio"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1141906731,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867505,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718041,
     "wof:placetype":"locality",

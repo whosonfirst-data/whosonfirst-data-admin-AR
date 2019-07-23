@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0628\u0633\u064a\u0648\u0646\u060c \u062a\u0648\u0643\u0648\u0645\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0646\u0633\u0628\u0633\u064a\u0648\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
+    ],
+    "name:azb_x_variant":[
+        "\u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646"
     ],
     "name:ceb_x_preferred":[
         "Concepci\u00f3n"
@@ -31,11 +37,17 @@
     "name:fas_x_preferred":[
         "\u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0646\u0633\u067e\u0633\u06cc\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e0\u05e1\u05e4\u05e1\u05d9\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Concepci\u00f3n"
     ],
     "name:ita_x_preferred":[
         "Concepci\u00f3n"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421174415,
-    "wof:lastmodified":1561793236,
+    "wof:lastmodified":1562866670,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":421178317,
     "wof:placetype":"locality",

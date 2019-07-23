@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oliden"
+    ],
+    "name:por_x_preferred":[
+        "Oliden"
+    ],
+    "name:spa_x_preferred":[
+        "Oliden"
+    ],
+    "name:swe_x_preferred":[
+        "Oliden"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293116259,
-    "wof:lastmodified":1537486294,
+    "wof:lastmodified":1562865881,
     "wof:name":"Oliden",
     "wof:parent_id":1108717883,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Perdida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259672867,
-    "wof:lastmodified":1537079164,
+    "wof:lastmodified":1562867339,
     "wof:name":"La Perdida",
     "wof:parent_id":1108718281,
     "wof:placetype":"locality",

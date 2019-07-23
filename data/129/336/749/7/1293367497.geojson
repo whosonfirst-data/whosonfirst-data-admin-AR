@@ -26,6 +26,27 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Anillaco"
+    ],
+    "name:ita_x_preferred":[
+        "Anillaco"
+    ],
+    "name:nld_x_preferred":[
+        "Anillaco"
+    ],
+    "name:nor_x_preferred":[
+        "Anillaco"
+    ],
+    "name:por_x_preferred":[
+        "Anillaco"
+    ],
+    "name:spa_x_preferred":[
+        "Anillaco"
+    ],
+    "name:swe_x_preferred":[
+        "Anillaco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1293367497,
-    "wof:lastmodified":1537486350,
+    "wof:lastmodified":1562865794,
     "wof:name":"Anillaco",
     "wof:parent_id":1108718323,
     "wof:placetype":"locality",

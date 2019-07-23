@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La Eduvigis"
+    ],
     "name:eng_x_preferred":[
         "La Eduvigis"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890422601,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867087,
     "wof:name":"La Eduvigis",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

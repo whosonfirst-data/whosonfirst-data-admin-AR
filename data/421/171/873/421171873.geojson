@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "Corralito"
     ],
+    "name:eng_x_preferred":[
+        "Corralito"
+    ],
     "name:epo_x_preferred":[
         "Bebokorteto"
     ],
@@ -29,6 +32,9 @@
         "Corralito"
     ],
     "name:ita_x_preferred":[
+        "Corralito"
+    ],
+    "name:nld_x_preferred":[
         "Corralito"
     ],
     "name:por_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171873,
-    "wof:lastmodified":1527726483,
+    "wof:lastmodified":1562867033,
     "wof:name":"Corralito",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

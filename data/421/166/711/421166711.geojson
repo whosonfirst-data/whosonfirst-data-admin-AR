@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tapebicu\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Tapebicu\u00e1"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421166711,
-    "wof:lastmodified":1561793219,
+    "wof:lastmodified":1562866530,
     "wof:name":"Tapebicu\u00e1",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Haumonia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1277086051,
-    "wof:lastmodified":1537486333,
+    "wof:lastmodified":1562865918,
     "wof:name":"Haumonia",
     "wof:parent_id":1108718229,
     "wof:placetype":"locality",

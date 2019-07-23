@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Villa Sarmiento"
+    ],
     "name:spa_x_preferred":[
         "Villa Sarmiento"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1210033965,
-    "wof:lastmodified":1537584908,
+    "wof:lastmodified":1562866162,
     "wof:name":"Villa Sarmiento",
     "wof:parent_id":1108718033,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":489937.905749,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.670961,-32.930057,-60.670961,-32.930057",
     "geom:latitude":-32.930057,
     "geom:longitude":-60.670961,
@@ -24,8 +24,77 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Moreno"
+    ],
+    "name:ceb_x_preferred":[
+        "Moreno"
+    ],
+    "name:ces_x_preferred":[
+        "Moreno"
+    ],
+    "name:deu_x_preferred":[
+        "Moreno"
+    ],
+    "name:fin_x_preferred":[
+        "Moreno"
+    ],
+    "name:fra_x_preferred":[
+        "Moreno"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05e0\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Moreno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ec\u30ce"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub808\ub178"
+    ],
+    "name:lav_x_preferred":[
+        "Moreno"
+    ],
+    "name:lit_x_preferred":[
+        "Morenas"
+    ],
+    "name:nld_x_preferred":[
+        "Moreno"
+    ],
+    "name:pol_x_preferred":[
+        "Moreno"
+    ],
+    "name:por_x_preferred":[
+        "Moreno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Moreno"
+    ],
+    "name:slk_x_preferred":[
+        "Moreno"
+    ],
     "name:spa_x_preferred":[
         "Moreno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Moreno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Moreno"
@@ -58,10 +127,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85668077,
         102191577,
         85632505,
-        421171509,
-        85668077
+        421171509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858886,
+    "wof:lastmodified":1562865713,
     "wof:name":"Moreno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,9 @@
     "name:nld_x_preferred":[
         "R\u00edo Primero"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u041f\u0440\u0438\u043c\u0435\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "R\u00edo Primero"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421197817,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866908,
     "wof:name":"R\u00edo Primero",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

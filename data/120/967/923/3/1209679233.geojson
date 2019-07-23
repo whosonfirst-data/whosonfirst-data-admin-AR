@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Bordo"
+    ],
+    "name:spa_x_preferred":[
+        "El Bordo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0411\u043e\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Bordo"
+    ],
     "name:und_x_variant":[
         "Recreo",
         "El Bordo"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209679233,
-    "wof:lastmodified":1537584884,
+    "wof:lastmodified":1562866111,
     "wof:name":"El Bordo",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

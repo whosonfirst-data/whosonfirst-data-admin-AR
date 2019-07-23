@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rucanelo"
+    ],
+    "name:por_x_preferred":[
+        "Rucanelo"
+    ],
+    "name:spa_x_preferred":[
+        "Rucanelo"
+    ],
+    "name:swe_x_preferred":[
+        "Rucanelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326918331,
-    "wof:lastmodified":1537486311,
+    "wof:lastmodified":1562865568,
     "wof:name":"Rucanelo",
     "wof:parent_id":1108718295,
     "wof:placetype":"locality",

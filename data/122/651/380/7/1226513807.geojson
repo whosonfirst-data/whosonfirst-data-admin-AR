@@ -27,6 +27,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabra Corral"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226513807,
-    "wof:lastmodified":1537042429,
+    "wof:lastmodified":1562867419,
     "wof:name":"Cabra Corral",
     "wof:parent_id":421202255,
     "wof:placetype":"locality",

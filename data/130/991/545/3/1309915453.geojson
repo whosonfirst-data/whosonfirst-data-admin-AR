@@ -26,6 +26,39 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:fra_x_preferred":[
+        "Premi\u00e8re Junte"
+    ],
+    "name:ita_x_preferred":[
+        "Prima Giunta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10d8\u10e1 \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8 \u10ee\u10e3\u10dc\u10e2\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Pirmoji Chunta"
+    ],
+    "name:oci_x_preferred":[
+        "Purm\u00e8ra Junta"
+    ],
+    "name:pol_x_preferred":[
+        "Primera Junta"
+    ],
+    "name:por_x_preferred":[
+        "Primeira Junta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0430\u044f \u0445\u0443\u043d\u0442\u0430 \u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Prv\u00e1 chunta"
+    ],
+    "name:spa_x_preferred":[
+        "Primera Junta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1309915453,
-    "wof:lastmodified":1536773582,
+    "wof:lastmodified":1562866469,
     "wof:name":"Primera Junta",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "R\u00edo Segundo"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Segundo"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Segundo"
     ],
@@ -31,8 +37,14 @@
     "name:nld_x_preferred":[
         "R\u00edo Segundo"
     ],
+    "name:pol_x_preferred":[
+        "R\u00edo Segundo"
+    ],
     "name:por_x_preferred":[
         "R\u00edo Segundo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0421\u0435\u0433\u0443\u043d\u0434\u043e"
     ],
     "name:spa_x_preferred":[
         "R\u00edo Segundo"
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421197815,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866914,
     "wof:name":"R\u00edo Segundo",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

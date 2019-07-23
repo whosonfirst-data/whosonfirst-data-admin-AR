@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Loro Huasi"
     ],
+    "name:eng_x_preferred":[
+        "Loro Huasi"
+    ],
     "name:spa_x_preferred":[
         "Loro Huasi"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421172997,
-    "wof:lastmodified":1527716300,
+    "wof:lastmodified":1562866736,
     "wof:name":"Loro Huasi",
     "wof:parent_id":421197591,
     "wof:placetype":"locality",

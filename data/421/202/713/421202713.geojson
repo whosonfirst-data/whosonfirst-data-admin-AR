@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bajo Caracoles"
+    ],
     "name:eng_x_preferred":[
         "Bajo Caracoles"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421202713,
-    "wof:lastmodified":1561793234,
+    "wof:lastmodified":1562866654,
     "wof:name":"Bajo de Los Caracoles",
     "wof:parent_id":421198477,
     "wof:placetype":"locality",

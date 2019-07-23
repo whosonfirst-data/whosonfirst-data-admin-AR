@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Paso a Paso"
+    ],
+    "name:por_x_preferred":[
+        "Paso a paso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276720251,
-    "wof:lastmodified":1536757647,
+    "wof:lastmodified":1562865925,
     "wof:name":"Paso a Paso",
     "wof:parent_id":1108718503,
     "wof:placetype":"locality",

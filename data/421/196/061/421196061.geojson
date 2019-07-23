@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Crespo"
     ],
+    "name:dan_x_preferred":[
+        "Crespo"
+    ],
     "name:eng_x_preferred":[
         "Crespo"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "Crespo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u0441\u043f\u043e"
     ],
     "name:spa_x_preferred":[
         "Crespo"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421196061,
-    "wof:lastmodified":1561793251,
+    "wof:lastmodified":1562866864,
     "wof:name":"Crespo",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

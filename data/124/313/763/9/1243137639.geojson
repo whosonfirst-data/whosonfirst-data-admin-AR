@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nueva Galia"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Galia"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Galia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1243137639,
-    "wof:lastmodified":1537486318,
+    "wof:lastmodified":1562867223,
     "wof:name":"Nueva Galia",
     "wof:parent_id":1108718443,
     "wof:placetype":"locality",

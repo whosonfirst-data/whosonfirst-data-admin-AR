@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac1\u0aa1\u0abe\u0aa3\u0abe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225803639,
-    "wof:lastmodified":1537071512,
+    "wof:lastmodified":1562867436,
     "wof:name":"Mudana",
     "wof:parent_id":1108718479,
     "wof:placetype":"locality",

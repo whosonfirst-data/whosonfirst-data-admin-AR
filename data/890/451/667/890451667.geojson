@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Uriburu"
+    ],
     "name:eng_x_preferred":[
         "Uriburu"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890451667,
-    "wof:lastmodified":1553816402,
+    "wof:lastmodified":1562867130,
     "wof:name":"Uriburu",
     "wof:parent_id":1108718293,
     "wof:placetype":"locality",

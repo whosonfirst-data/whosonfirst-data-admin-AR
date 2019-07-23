@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0648\u062c"
     ],
+    "name:ast_x_preferred":[
+        "San Roque"
+    ],
     "name:bre_x_preferred":[
         "San Roque"
     ],
@@ -54,6 +57,9 @@
         "San Roque"
     ],
     "name:eng_x_variant":[
+        "San Roque"
+    ],
+    "name:eus_x_preferred":[
         "San Roque"
     ],
     "name:fra_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30ed\u30b1"
+    ],
+    "name:mlg_x_preferred":[
+        "San Roque"
     ],
     "name:msa_x_preferred":[
         "San Roque"
@@ -97,6 +106,9 @@
     ],
     "name:tgl_x_preferred":[
         "San Roque"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u043e\u043a\u0435"
     ],
     "name:vie_x_preferred":[
         "San Roque"
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":421191017,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866898,
     "wof:name":"San Roque",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -29,6 +29,9 @@
     "name:cym_x_preferred":[
         "Bell Ville"
     ],
+    "name:dan_x_preferred":[
+        "Bell Ville"
+    ],
     "name:deu_x_preferred":[
         "Bell Ville"
     ],
@@ -62,8 +65,14 @@
     "name:oci_x_preferred":[
         "Bell Ville"
     ],
+    "name:pol_x_preferred":[
+        "Bell Ville"
+    ],
     "name:por_x_preferred":[
         "Bell Ville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u0412\u0438\u043b\u044c\u0435"
     ],
     "name:spa_x_preferred":[
         "Bell Ville"
@@ -219,7 +228,7 @@
         }
     ],
     "wof:id":421174005,
-    "wof:lastmodified":1561793238,
+    "wof:lastmodified":1562866695,
     "wof:name":"Bell Ville",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Villa Urquiza"
     ],
+    "name:glg_x_preferred":[
+        "Villa Urquiza"
+    ],
     "name:nld_x_preferred":[
         "Villa Urquiza"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421172695,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866741,
     "wof:name":"Villa Urquiza",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

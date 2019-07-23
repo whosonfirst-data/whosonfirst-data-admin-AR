@@ -34,6 +34,9 @@
     "name:por_x_preferred":[
         "Bialet Mass\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0430\u043b\u0435\u0442-\u041c\u0430\u0441\u0441\u0435"
+    ],
     "name:spa_x_preferred":[
         "Bialet Mass\u00e9"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421190827,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866905,
     "wof:name":"Bialet Mass\u00e9",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

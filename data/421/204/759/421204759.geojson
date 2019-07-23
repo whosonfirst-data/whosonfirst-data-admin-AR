@@ -25,6 +25,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0574\u0565\u0576 \u0564\u0565 \u054a\u0561\u057f\u0561\u0563\u0578\u0576\u0565\u057d"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30e1\u30f3\u30fb\u30c7\u30fb\u30d1\u30bf\u30b4\u30cd\u30b9"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0435\u043d-\u0434\u0435-\u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "Carmen de Patagones"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u9580-\u5fb7\u5df4\u5854\u54e5\u5167\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421204759,
-    "wof:lastmodified":1501268883,
+    "wof:lastmodified":1562866631,
     "wof:name":"Patagones",
     "wof:parent_id":1108718045,
     "wof:placetype":"locality",

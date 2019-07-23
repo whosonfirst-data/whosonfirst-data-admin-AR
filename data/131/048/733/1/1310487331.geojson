@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pastor Britos"
+    ],
+    "name:spa_x_preferred":[
+        "Pastor Britos"
+    ],
     "name:und_x_variant":[
         "Britos",
         "Pastor Britos"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310487331,
-    "wof:lastmodified":1537584819,
+    "wof:lastmodified":1562866340,
     "wof:name":"Pastor Britos",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

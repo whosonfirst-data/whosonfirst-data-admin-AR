@@ -64,6 +64,9 @@
     "name:ita_x_preferred":[
         "Gonz\u00e0lez Cat\u00e1n"
     ],
+    "name:ita_x_variant":[
+        "Gonz\u00e1lez Cat\u00e1n"
+    ],
     "name:jpn_x_preferred":[
         "\u30b4\u30f3\u30b5\u30ec\u30b9\u30fb\u30ab\u30bf\u30f3"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421175463,
-    "wof:lastmodified":1561793245,
+    "wof:lastmodified":1562866786,
     "wof:name":"Gonz\u00e1lez Cat\u00e1n",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

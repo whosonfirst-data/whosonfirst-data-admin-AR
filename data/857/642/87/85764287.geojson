@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2044164.624925,
+    "geom:area_square_m":2044164.624926,
     "geom:bbox":"-58.4125438595,-34.6303558694,-58.3911698015,-34.6181592201",
     "geom:latitude":-34.623865,
     "geom:longitude":-58.401884,
@@ -32,8 +32,17 @@
     "name:deu_x_preferred":[
         "San Crist\u00f3bal"
     ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
     "name:fra_x_preferred":[
         "San Crist\u00f3bal"
+    ],
+    "name:glg_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053f\u0580\u056b\u057d\u057f\u0578\u0562\u0561\u056c"
     ],
     "name:lat_x_preferred":[
         "San Crist\u00f3bal"
@@ -147,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1562865715,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

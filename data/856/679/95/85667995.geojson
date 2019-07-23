@@ -34,11 +34,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Vuurland"
+    ],
+    "name:als_x_preferred":[
+        "Feuerland"
+    ],
+    "name:ang_x_preferred":[
+        "F\u0233rland"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u064a\u064a\u0631\u0627 \u062f\u064a\u0644 \u0641\u0648\u064a\u063a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0636 \u0627\u0644\u0646\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Tierra del Fueu"
+    ],
     "name:aym_x_preferred":[
         "Ninasuyu jisk'a suyu"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u0642\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Odlu Torpaq"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u0442\u043b\u044b \u0415\u0440"
     ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0417\u044f\u043c\u043b\u044f"
@@ -46,8 +70,17 @@
     "name:ben_x_preferred":[
         "\u099f\u09bf\u09af\u09bc\u09c7\u09b0\u09be \u09a6\u09c7\u09b2 \u09ab\u09c1\u09af\u09bc\u09c7\u0997\u09cb\u0981"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09bf\u09af\u09bc\u09c7\u09b0\u09cd\u200c\u09b0\u09be \u09a6\u09c7\u09b2 \u09ab\u09c1\u09af\u09bc\u09c7\u0997\u09cb"
+    ],
+    "name:bos_x_preferred":[
+        "Ognjena zemlja"
+    ],
     "name:bre_x_preferred":[
         "Provi\u00f1s Tierra del Fuego"
+    ],
+    "name:bre_x_variant":[
+        "Enezeg Douar an Tan"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0433\u043d\u0435\u043d\u0430 \u0437\u0435\u043c\u044f"
@@ -55,8 +88,14 @@
     "name:cat_x_preferred":[
         "Terra del Foc"
     ],
+    "name:ceb_x_preferred":[
+        "Tierra del Fuego"
+    ],
     "name:ces_x_preferred":[
         "Tierra del Fuego"
+    ],
+    "name:ces_x_variant":[
+        "Oh\u0148ov\u00e1 zem\u011b"
     ],
     "name:cym_x_preferred":[
         "Tierra del Fuego"
@@ -77,6 +116,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03ad\u03c1\u03b1 \u03bd\u03c4\u03b5\u03bb \u03a6\u03bf\u03c5\u03ad\u03b3\u03ba\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03b7 \u03c4\u03bf\u03c5 \u03a0\u03c5\u03c1\u03cc\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Tierra del Fuego"
     ],
@@ -90,8 +132,14 @@
     "name:epo_x_preferred":[
         "Provinco de Fajrolando"
     ],
+    "name:epo_x_variant":[
+        "Fajrolando"
+    ],
     "name:est_x_preferred":[
         "Tulemaa provints"
+    ],
+    "name:est_x_variant":[
+        "Tulemaa saared"
     ],
     "name:eus_x_preferred":[
         "Suaren Lurraldea"
@@ -99,11 +147,20 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u062a\u06cc\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0632\u0645\u06cc\u0646 \u0622\u062a\u0634"
+    ],
     "name:fin_x_preferred":[
         "Tulimaa"
     ],
+    "name:fin_x_variant":[
+        "Tulimaan"
+    ],
     "name:fra_x_preferred":[
         "Terre de Feu"
+    ],
+    "name:fry_x_preferred":[
+        "Fjoerl\u00e2n"
     ],
     "name:glg_x_preferred":[
         "Terra do Fogo"
@@ -114,14 +171,35 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d9\u05e8\u05d4 \u05d3\u05dc \u05e4\u05d5\u05d0\u05d2\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e8\u05e5 \u05d4\u05d0\u05e9"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u093f\u090f\u0930\u093e \u0921\u0947\u0932 \u092b\u093c\u0941\u090f\u0917\u094b"
+    ],
+    "name:hin_x_variant":[
+        "\u0924\u093f\u090f\u0930\u094d\u0930\u093e \u0926\u0947\u0932 \u092b\u093c\u0941\u090f\u0917\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Ognjena zemlja"
+    ],
+    "name:hun_x_preferred":[
+        "T\u0171zf\u00f6ld"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0580\u0578 \u0535\u0580\u056f\u056b\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0540\u0580\u0578 \u0565\u0580\u056f\u056b\u0580"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Tierra del Fuego"
+    ],
+    "name:ind_x_variant":[
+        "Tierra del Fuego"
+    ],
+    "name:isl_x_preferred":[
+        "Eldland"
     ],
     "name:ita_x_preferred":[
         "Terra del Fuoco"
@@ -129,20 +207,46 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a8\u30b4\u5cf6"
     ],
+    "name:jpn_x_variant":[
+        "\u30c6\u30a3\u30a8\u30e9\u30fb\u30c7\u30eb\u30fb\u30d5\u30a8\u30b4\u5dde",
+        "\u30c6\u30a3\u30a8\u30e9\u30fb\u30c7\u30eb\u30fb\u30d5\u30a8\u30b4"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbf\u0caf\u0cc6\u0cb0\u0cbe \u0ca1\u0cc6\u0cb2\u0ccd \u0cab\u0ccd\u0caf\u0cc2\u0c97\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
     "name:kat_x_preferred":[
         "\u10ea\u10d4\u10ea\u10ee\u10da\u10dd\u10d5\u10d0\u10dc\u10d8 \u10db\u10d8\u10ec\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10ea\u10d4\u10ea\u10ee\u10da\u10dd\u10d5\u10d0\u10dc\u10d8 \u10db\u10d8\u10ec\u10d8\u10e1 \u10d0\u10e0\u10e5\u10d8\u10de\u10d4\u10da\u10d0\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud2f0\uc5d0\ub77c \ub378 \ud478\uc5d0\uace0"
+    ],
+    "name:kor_x_variant":[
+        "\ud2f0\uc5d0\ub77c\ub378\ud478\uc5d0\uace0\uc8fc",
+        "\ud2f0\uc5d0\ub77c\ub378\ud478\uc5d0\uace0 \uc81c\ub3c4"
+    ],
+    "name:lat_x_preferred":[
+        "Terra Ignium"
     ],
     "name:lav_x_preferred":[
         "Tjerra del Fuego province"
     ],
+    "name:lav_x_variant":[
+        "Ugunszeme"
+    ],
     "name:lit_x_preferred":[
         "Ugnies \u017dem\u0117s"
+    ],
+    "name:lit_x_variant":[
+        "Ugnies \u017dem\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "Tierra del Fuego"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3f\u0d2f\u0d31 \u0d21\u0d46\u0d7d \u0d2b\u0d4d\u0d35\u0d47\u0d17\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093f\u090f\u0930\u093e \u0926\u0947\u0932 \u092b\u094d\u0935\u0947\u0917\u094b"
@@ -153,6 +257,9 @@
     "name:msa_x_preferred":[
         "Wilayah Tierra del Fuego"
     ],
+    "name:msa_x_variant":[
+        "Tierra del Fuego"
+    ],
     "name:nan_x_preferred":[
         "Tierra del Fuego S\u00e9ng"
     ],
@@ -161,6 +268,10 @@
     ],
     "name:nno_x_preferred":[
         "Eldlandet, Atlantar\u00f8yane og Antarktis"
+    ],
+    "name:nno_x_variant":[
+        "Tierra del Fuego",
+        "Eldlandet"
     ],
     "name:nob_x_preferred":[
         "Tierra del Fuego"
@@ -174,11 +285,17 @@
     "name:oci_x_preferred":[
         "Prov\u00edncia de T\u00e8rra deu Huec"
     ],
+    "name:oci_x_variant":[
+        "T\u00e8rra del Fu\u00f2c"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0442\u044b \u0417\u00e6\u0445\u0445"
     ],
     "name:pms_x_preferred":[
         "T\u00e8ra d\u00ebl Feu"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u06af\u062a\u06be\u0627\u06ba"
     ],
     "name:pol_x_preferred":[
         "Ziemia Ognista"
@@ -189,6 +306,9 @@
     "name:que_x_preferred":[
         "Ninasuyu wamani"
     ],
+    "name:que_x_variant":[
+        "Ninasuyu"
+    ],
     "name:ron_x_preferred":[
         "Provincia Tierra del Fuego"
     ],
@@ -197,6 +317,9 @@
     ],
     "name:sco_x_preferred":[
         "Tierra del Fuego Province"
+    ],
+    "name:sco_x_variant":[
+        "Tierra del Fuego"
     ],
     "name:sgs_x_preferred":[
         "Ognies \u017dem\u0117s"
@@ -207,8 +330,14 @@
     "name:slk_x_preferred":[
         "Tierra del Fuego"
     ],
+    "name:slk_x_variant":[
+        "Oh\u0148ov\u00e1 zem"
+    ],
     "name:slv_x_preferred":[
         "Tierra del Fuego"
+    ],
+    "name:slv_x_variant":[
+        "Ognjena zemlja"
     ],
     "name:spa_x_colloquial":[
         "El Fin del Mundo"
@@ -222,8 +351,14 @@
         "Provincia de Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur",
         "El Fin del Mundo"
     ],
+    "name:sqi_x_preferred":[
+        "Toka e Zjarrt\u00eb"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0433\u045a\u0435\u043d\u0430 \u0417\u0435\u043c\u0459\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u0433\u045a\u0435\u043d\u0430 \u0437\u0435\u043c\u0459\u0430"
     ],
     "name:swa_x_preferred":[
         "Tierra del Fuego"
@@ -237,6 +372,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0baf\u0bc6\u0bb0\u0bcd\u0bb0\u0bbe \u0b9f\u0bc6\u0bb2\u0bcd \u0baa\u0bbf\u0baf\u0bc2\u0baf\u0b95\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0423\u0442\u043b\u044b \u0496\u0438\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3f\u0c2f\u0c46\u0c30\u0c3e \u0c21\u0c46\u0c32\u0c4d \u0c2a\u0c41\u0c2f\u0c46\u0c17\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -246,11 +384,21 @@
     "name:tgl_x_preferred":[
         "Lalawigan ng Tierra del Fuego"
     ],
+    "name:tgl_x_variant":[
+        "Tierra del Fuego"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e15\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e40\u0e14\u0e25\u0e1f\u0e27\u0e22\u0e42\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e15\u0e34\u0e40\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e40\u0e14\u0e25\u0e1f\u0e39\u0e40\u0e2d\u0e42\u0e01",
+        "\u0e15\u0e34\u0e40\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e40\u0e14\u0e25\u0e1f\u0e39\u0e40\u0e2d\u0e42\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Tierra del Fuego"
+    ],
+    "name:tur_x_variant":[
+        "Ate\u015f Topraklar\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0433\u043d\u044f\u043d\u0430 \u0417\u0435\u043c\u043b\u044f"
@@ -261,14 +409,29 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u0626\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648\u060c \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u0626\u0631\u0627 \u062f\u0644 \u0641\u0648\u0626\u06af\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Olovli yer"
+    ],
     "name:vie_x_preferred":[
         "Tierra del Fuego"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ea5t L\u1eeda"
     ],
     "name:vol_x_preferred":[
         "Tierra del Fuego"
     ],
     "name:war_x_preferred":[
         "Tierra del Fuego"
+    ],
+    "name:wuu_x_preferred":[
+        "\u706b\u5730\u7fa4\u5c9b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10dd\u10d3\u10d0\u10e9\u10ee\u10d8\u10e0\u10d4\u10da\u10d8 \u10d3\u10d8\u10ee\u10d0\u10e8 \u10d0\u10e0\u10e5\u10d8\u10de\u10d4\u10da\u10d0\u10d2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u706b\u5730\u7fa4\u5c9b"
@@ -399,7 +562,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793154,
+    "wof:lastmodified":1562865785,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

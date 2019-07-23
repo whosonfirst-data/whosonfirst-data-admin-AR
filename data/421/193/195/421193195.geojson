@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "El Mait\u00e9n"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0439\u0442\u0435\u043d"
+    ],
     "name:spa_x_preferred":[
         "El Mait\u00e9n"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421193195,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1562866582,
     "wof:name":"El Mait\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
     "name:glg_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u0565\u0576"
+    ],
     "name:ita_x_preferred":[
         "Bel\u00e9n"
     ],
@@ -93,8 +96,14 @@
     "name:spa_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Bel\u00e9n"
+    ],
+    "name:swe_x_variant":[
+        "Belen"
     ],
     "name:tur_x_preferred":[
         "Belen"
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":421204045,
-    "wof:lastmodified":1560898142,
+    "wof:lastmodified":1562866632,
     "wof:name":"Belen",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

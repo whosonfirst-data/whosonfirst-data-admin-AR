@@ -26,9 +26,30 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puelches"
+    ],
+    "name:fra_x_preferred":[
+        "Puelches"
+    ],
+    "name:ita_x_preferred":[
+        "Puelches"
+    ],
+    "name:por_x_preferred":[
+        "Puelches"
+    ],
+    "name:spa_x_preferred":[
+        "Puelches"
+    ],
+    "name:swe_x_preferred":[
+        "Puelches"
+    ],
     "name:und_x_variant":[
         "Curac\u00f3",
         "Puelches"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u57c3\u723e\u5207\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360172605,
-    "wof:lastmodified":1537584847,
+    "wof:lastmodified":1562866457,
     "wof:name":"Puelches",
     "wof:parent_id":1108718297,
     "wof:placetype":"locality",

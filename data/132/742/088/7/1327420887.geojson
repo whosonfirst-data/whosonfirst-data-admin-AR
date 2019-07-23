@@ -26,10 +26,16 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jag\u00fc\u00e9"
+    ],
     "name:und_x_variant":[
         "Jaq\u00fc\u00e9",
         "Jag\u00fcel",
         "Jag\u00fc\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0648\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327420887,
-    "wof:lastmodified":1537584871,
+    "wof:lastmodified":1562865581,
     "wof:name":"Jaguee",
     "wof:parent_id":421203243,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Abra Pampa"
     ],
+    "name:ces_x_preferred":[
+        "Abra Pampa"
+    ],
     "name:deu_x_preferred":[
         "Abra Pampa"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1141906755,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867502,
     "wof:name":"Abra Pampa",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

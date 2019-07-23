@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Joyango"
+    ],
     "name:und_x_variant":[
         "Cojango",
         "Joyango"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310119063,
-    "wof:lastmodified":1537584870,
+    "wof:lastmodified":1562866386,
     "wof:name":"Joyango",
     "wof:parent_id":1108718155,
     "wof:placetype":"locality",

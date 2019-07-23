@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "T\u00edo Pujio"
     ],
+    "name:ceb_x_preferred":[
+        "T\u00edo Pujio"
+    ],
     "name:eng_x_preferred":[
         "T\u00edo Pujio"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421173579,
-    "wof:lastmodified":1561793241,
+    "wof:lastmodified":1562866721,
     "wof:name":"T\u00edo Pujio",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

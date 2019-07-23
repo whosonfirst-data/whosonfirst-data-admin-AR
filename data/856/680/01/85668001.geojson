@@ -43,8 +43,14 @@
     "name:aym_x_preferred":[
         "Chubut jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u0648\u0628\u0648\u062a \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0443\u0431\u0443\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u0427\u0443\u0431\u0443\u0442"
     ],
     "name:ben_x_preferred":[
         "\u099a\u09c1\u09ac\u09c1\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -85,11 +91,17 @@
     "name:epo_x_preferred":[
         "\u0108ubutio"
     ],
+    "name:epo_x_variant":[
+        "Provinco \u0108ubutio"
+    ],
     "name:eus_x_preferred":[
         "Chubuteko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0686\u0648\u0628\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0686\u0648\u0628\u0648\u062a"
     ],
     "name:fin_x_preferred":[
         "Chubutin maakunta"
@@ -145,6 +157,12 @@
     "name:kor_x_preferred":[
         "\ucd94\ubd80\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucd94\ubd80\ud2b8\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chubut"
+    ],
     "name:lat_x_preferred":[
         "Ciubutum"
     ],
@@ -153,6 +171,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010ciubuto provincija"
+    ],
+    "name:lit_x_variant":[
+        "\u010cubuto provincija"
     ],
     "name:lmo_x_preferred":[
         "Chubut"
@@ -176,6 +197,9 @@
         "Chubut"
     ],
     "name:nob_x_preferred":[
+        "Chubut"
+    ],
+    "name:nor_x_preferred":[
         "Chubut"
     ],
     "name:oci_x_preferred":[
@@ -253,6 +277,9 @@
     "name:tur_x_preferred":[
         "Chubut eyaleti"
     ],
+    "name:tur_x_variant":[
+        "Chubut"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0431\u0443\u0442"
     ],
@@ -270,6 +297,12 @@
     ],
     "name:war_x_preferred":[
         "Chubut"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e18\u5e03\u7279\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u6731\u62d4\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e18\u5e03\u7279\u7701"
@@ -397,7 +430,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793145,
+    "wof:lastmodified":1562865762,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

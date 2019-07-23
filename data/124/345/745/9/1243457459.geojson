@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Anquincila"
+    ],
+    "name:spa_x_preferred":[
+        "Anquincila"
+    ],
+    "name:swe_x_preferred":[
+        "Anquincila"
+    ],
     "name:und_x_variant":[
         "Anguincila",
         "Anquincila"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243457459,
-    "wof:lastmodified":1537584902,
+    "wof:lastmodified":1562867278,
     "wof:name":"Anquincila",
     "wof:parent_id":1108718143,
     "wof:placetype":"locality",

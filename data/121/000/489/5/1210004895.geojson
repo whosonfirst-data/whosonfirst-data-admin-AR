@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monte Nievas"
+    ],
+    "name:por_x_preferred":[
+        "Monte Nievas"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Nievas"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Nievas"
+    ],
     "name:und_x_variant":[
         "Monte Ntevas",
         "Monte Nieves",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1210004895,
-    "wof:lastmodified":1537584854,
+    "wof:lastmodified":1562866161,
     "wof:name":"Monte Nievas",
     "wof:parent_id":1108718295,
     "wof:placetype":"locality",

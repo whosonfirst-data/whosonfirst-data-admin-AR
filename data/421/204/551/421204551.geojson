@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Las Grutas"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441-\u0413\u0440\u0443\u0442\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Las Grutas"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421204551,
-    "wof:lastmodified":1561793231,
+    "wof:lastmodified":1562866619,
     "wof:name":"Las Grutas",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

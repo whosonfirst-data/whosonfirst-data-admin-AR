@@ -49,6 +49,9 @@
     "name:por_x_preferred":[
         "Villa la Angostura"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041b\u0430-\u0410\u043d\u0433\u043e\u0441\u0442\u0443\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
         "Villa La Angostura"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421174833,
-    "wof:lastmodified":1561793237,
+    "wof:lastmodified":1562866676,
     "wof:name":"Villa la Angostura",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

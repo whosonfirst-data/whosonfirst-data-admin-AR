@@ -40,6 +40,9 @@
     "name:spa_x_preferred":[
         "Tranv\u00eda del Este"
     ],
+    "name:spa_x_variant":[
+        "San Antonio Este"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u043c\u0432\u0430\u0439 \u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441\u0430"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421191641,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866898,
     "wof:name":"Puerto San Antonio Este",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

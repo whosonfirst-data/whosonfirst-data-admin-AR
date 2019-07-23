@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Iruya"
     ],
+    "name:lad_x_preferred":[
+        "Iruya"
+    ],
     "name:nld_x_preferred":[
         "Iruya"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421170103,
-    "wof:lastmodified":1561793258,
+    "wof:lastmodified":1562866970,
     "wof:name":"Iruya",
     "wof:parent_id":421171489,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":2199113.760875,
+    "geom:area_square_m":2199113.760878,
     "geom:bbox":"-58.3919516385,-34.6181592201,-58.3667344666,-34.6065019856",
     "geom:latitude":-34.612686,
     "geom:longitude":-58.379648,
@@ -29,8 +29,65 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Monserrat"
+    ],
     "name:cat_x_preferred":[
         "Montserrat"
+    ],
+    "name:ces_x_preferred":[
+        "Monserrat"
+    ],
+    "name:deu_x_preferred":[
+        "Monserrat"
+    ],
+    "name:eng_x_preferred":[
+        "Monserrat"
+    ],
+    "name:epo_x_preferred":[
+        "Montserato"
+    ],
+    "name:fra_x_preferred":[
+        "Monserrat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057d\u0565\u057c\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Monserrat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30bb\u30e9\u30fc\u30c8"
+    ],
+    "name:lat_x_preferred":[
+        "Montserrat"
+    ],
+    "name:lit_x_preferred":[
+        "Monseratas"
+    ],
+    "name:nld_x_preferred":[
+        "Monserrat"
+    ],
+    "name:nob_x_preferred":[
+        "Barrio Montserrat"
+    ],
+    "name:nor_x_preferred":[
+        "Barrio Montserrat"
+    ],
+    "name:oci_x_preferred":[
+        "Montserrat"
+    ],
+    "name:por_x_preferred":[
+        "Montserrat"
+    ],
+    "name:por_x_variant":[
+        "Monserrat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0441\u0435\u0440\u0440\u0430\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Monserrat"
     ],
     "name:spa_x_preferred":[
         "Montserrat"
@@ -38,9 +95,15 @@
     "name:spa_x_variant":[
         "Monserrat"
     ],
+    "name:swe_x_preferred":[
+        "Barrio Montserrat"
+    ],
     "name:unk_x_variant":[
         "Monserrat",
         "Montserrat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u585e\u62c9\u7279"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
@@ -123,7 +186,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1562865717,
     "wof:name":"Montserrat",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

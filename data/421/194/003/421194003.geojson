@@ -13,38 +13,239 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:arg_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ast_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:bar_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:bos_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:bre_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:cat_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ceb_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ces_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:cos_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:cym_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:dan_x_preferred":[
+        "Pellegrini"
+    ],
     "name:deu_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:eng_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:epo_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:est_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:eus_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u06af\u0631\u06cc\u0646\u06cc"
+    ],
+    "name:fin_x_preferred":[
         "Pellegrini"
     ],
     "name:fra_x_preferred":[
         "Pellegrini"
     ],
+    "name:frc_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:frp_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:fry_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:fur_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:gla_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:gle_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:glg_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:gsw_x_preferred":[
+        "Pellegrini"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05dc\u05d2\u05e8\u05d9\u05e0\u05d9"
     ],
+    "name:hrv_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:hun_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ile_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ina_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ind_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:isl_x_preferred":[
+        "Pellegrini"
+    ],
     "name:ita_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:jam_x_preferred":[
         "Pellegrini"
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30ec\u30b0\u30ea\u30fc\u30cb"
     ],
+    "name:kon_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:lat_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:lij_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:lim_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ltz_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:min_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:mlg_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:mlt_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:msa_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:nap_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:nds_x_preferred":[
+        "Pellegrini"
+    ],
     "name:nld_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:nno_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:nob_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:nrm_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:oci_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:pcd_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:pms_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:pol_x_preferred":[
         "Pellegrini"
     ],
     "name:por_x_preferred":[
         "Pellegrini"
     ],
+    "name:roh_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ron_x_preferred":[
+        "Pellegrini"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043b\u043b\u0435\u0433\u0440\u0438\u043d\u0438"
     ],
+    "name:scn_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:sco_x_preferred":[
+        "Pellegrini"
+    ],
     "name:slk_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:slv_x_preferred":[
         "Pellegrini"
     ],
     "name:spa_x_preferred":[
         "Pellegrini"
     ],
+    "name:srd_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:swa_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:swe_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043b\u043b\u0435\u0433\u0440\u0456\u043d\u0456"
+    ],
     "name:unk_x_variant":[
         "Carlos Pellegrini"
+    ],
+    "name:vec_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:vie_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:vls_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:vol_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:wln_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:wol_x_preferred":[
+        "Pellegrini"
+    ],
+    "name:zul_x_preferred":[
+        "Pellegrini"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -92,7 +293,7 @@
         }
     ],
     "wof:id":421194003,
-    "wof:lastmodified":1527716135,
+    "wof:lastmodified":1562866580,
     "wof:name":"Pellegrini",
     "wof:parent_id":1108718049,
     "wof:placetype":"locality",

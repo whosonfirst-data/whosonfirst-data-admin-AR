@@ -32,8 +32,23 @@
     "name:deu_x_preferred":[
         "V\u00e9lez S\u00e1rsfield"
     ],
+    "name:eng_x_preferred":[
+        "V\u00e9lez S\u00e1rsfield"
+    ],
     "name:fra_x_preferred":[
         "V\u00e9lez Sarsfield"
+    ],
+    "name:fra_x_variant":[
+        "V\u00e9lez S\u00e1rsfield"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05e1 \u05e1\u05d0\u05e8\u05e1\u05e4\u05d9\u05dc\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u0565\u0566 \u054d\u0561\u0580\u057d\u0586\u0565\u056c\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e9lez S\u00e1rsfield"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30ec\u30b9\u30fb\u30b5\u30eb\u30b9\u30d5\u30a3\u30a8\u30eb\u30c9"
@@ -144,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536864463,
+    "wof:lastmodified":1562865708,
     "wof:name":"V\u00e9lez Sarsfield",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

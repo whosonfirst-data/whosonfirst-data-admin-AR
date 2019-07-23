@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u043f\u0430\u0440\u0442\u044b\u0434\u0430 \u041a\u0430\u0440\u043c\u0435\u043d \u0434\u044d \u0410\u0440\u044d\u043a\u0430"
+    ],
     "name:fra_x_preferred":[
         "Carmen de Areco"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:por_x_preferred":[
         "Carmen de Areco"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043d-\u0434\u0435-\u0410\u0440\u0435\u043a\u043e"
     ],
     "name:sco_x_preferred":[
         "Carmen de Areco Partido"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421200975,
-    "wof:lastmodified":1527716430,
+    "wof:lastmodified":1562866946,
     "wof:name":"Carmen de Areco",
     "wof:parent_id":1108717897,
     "wof:placetype":"locality",

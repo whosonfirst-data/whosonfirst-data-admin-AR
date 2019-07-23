@@ -19,6 +19,9 @@
     "name:ces_x_preferred":[
         "Santos Lugares"
     ],
+    "name:dan_x_preferred":[
+        "Santos Lugares"
+    ],
     "name:deu_x_preferred":[
         "Santos Lugares"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421172727,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866753,
     "wof:name":"Santos Lugares",
     "wof:parent_id":421188023,
     "wof:placetype":"locality",

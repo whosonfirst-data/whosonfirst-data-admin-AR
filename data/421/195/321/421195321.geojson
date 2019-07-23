@@ -43,11 +43,17 @@
     "name:por_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
+    "name:por_x_variant":[
+        "Guatimoz\u00edn"
+    ],
     "name:sco_x_preferred":[
         "Marcos Ju\u00e1rez Depairtment"
     ],
     "name:spa_x_preferred":[
         "Departamento Marcos Ju\u00e1rez"
+    ],
+    "name:spa_x_variant":[
+        "Guatimoz\u00edn"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0456\u043c\u043e\u0441\u0438\u043d"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421195321,
-    "wof:lastmodified":1561793226,
+    "wof:lastmodified":1562866571,
     "wof:name":"Guatimoz\u00edn",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

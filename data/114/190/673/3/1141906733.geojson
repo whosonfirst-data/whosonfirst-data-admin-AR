@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Pedro Luro"
     ],
+    "name:eus_x_preferred":[
+        "Pedro Luro"
+    ],
     "name:fra_x_preferred":[
         "Pedro Luro"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:por_x_preferred":[
         "Pedro Luro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u043e-\u041b\u0443\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "Pedro Luro"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1141906733,
-    "wof:lastmodified":1561793311,
+    "wof:lastmodified":1562867505,
     "wof:name":"Pedro Luro",
     "wof:parent_id":1108718137,
     "wof:placetype":"locality",

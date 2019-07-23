@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Juncal"
+    ],
+    "name:fra_x_preferred":[
+        "Juncal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Juncal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
     "name:und_x_variant":[
         "Villa Juncal",
         "Juncal"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276511545,
-    "wof:lastmodified":1537584869,
+    "wof:lastmodified":1562865952,
     "wof:name":"Juncal",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

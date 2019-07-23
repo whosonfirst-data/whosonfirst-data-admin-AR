@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Noetinger"
+    ],
     "name:eng_x_preferred":[
         "Noetinger"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421177983,
-    "wof:lastmodified":1561793258,
+    "wof:lastmodified":1562866983,
     "wof:name":"Noetinger",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

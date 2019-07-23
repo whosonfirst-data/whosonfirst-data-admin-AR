@@ -19,10 +19,16 @@
     "name:ceb_x_preferred":[
         "Tres Sargentos"
     ],
+    "name:dan_x_preferred":[
+        "Tres Sargentos"
+    ],
     "name:eng_x_preferred":[
         "Tres Sargentos"
     ],
     "name:fra_x_preferred":[
+        "Tres Sargentos"
+    ],
+    "name:hun_x_preferred":[
         "Tres Sargentos"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421194869,
-    "wof:lastmodified":1561793227,
+    "wof:lastmodified":1562866576,
     "wof:name":"Tres Sargentos",
     "wof:parent_id":1108717897,
     "wof:placetype":"locality",

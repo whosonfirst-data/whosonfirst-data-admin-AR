@@ -31,6 +31,9 @@
     "name:por_x_preferred":[
         "Maquinchao"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u0447\u0430\u043e"
+    ],
     "name:spa_x_preferred":[
         "Maquinchao"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421196197,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866855,
     "wof:name":"Maquinchao",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

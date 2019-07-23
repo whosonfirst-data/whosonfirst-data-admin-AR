@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La Humada"
+    ],
     "name:deu_x_preferred":[
         "La Humada"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890445125,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867129,
     "wof:name":"La Humada",
     "wof:parent_id":1108718301,
     "wof:placetype":"locality",

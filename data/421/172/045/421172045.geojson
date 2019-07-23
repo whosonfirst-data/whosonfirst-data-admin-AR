@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Arroyito"
     ],
+    "name:pol_x_preferred":[
+        "Arroyito"
+    ],
     "name:por_x_preferred":[
         "Arroyito"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421172045,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866745,
     "wof:name":"Arroyito",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:spa_x_preferred":[
         "Partido de General Pueyrred\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "General Pueyrred\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Partido de General Pueyrred\u00f3n"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421172681,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866738,
     "wof:name":"General Pueyrredon",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

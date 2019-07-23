@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Aybal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225801657,
-    "wof:lastmodified":1537074362,
+    "wof:lastmodified":1562867437,
     "wof:name":"El Aybal",
     "wof:parent_id":421184163,
     "wof:placetype":"locality",

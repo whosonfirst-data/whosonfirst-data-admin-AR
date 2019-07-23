@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Met\u00e1n Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Met\u00e1n Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Met\u00e1n Viejo"
+    ],
     "name:und_x_variant":[
         "Met\u00e1n Viejo"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343933993,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1562865660,
     "wof:name":"Metan Viejo",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

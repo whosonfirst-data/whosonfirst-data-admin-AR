@@ -26,6 +26,30 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ramona"
+    ],
+    "name:fra_x_preferred":[
+        "Ramona"
+    ],
+    "name:ita_x_preferred":[
+        "Ramona"
+    ],
+    "name:nld_x_preferred":[
+        "Ramona"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a3e\u0a2e\u0a4b\u0a28\u0a3e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0645\u0648\u0646\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Ramona"
+    ],
+    "name:swe_x_preferred":[
+        "Ramona"
+    ],
     "name:und_x_variant":[
         "Pueblo Ramona",
         "Ramona"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1293563129,
-    "wof:lastmodified":1537584845,
+    "wof:lastmodified":1562865855,
     "wof:name":"Ramona",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

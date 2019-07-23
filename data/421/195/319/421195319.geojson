@@ -40,6 +40,9 @@
     "name:kor_x_preferred":[
         "\uc5d0\ub974\ub09c\ub370\uc2a4"
     ],
+    "name:nld_x_preferred":[
+        "Hern\u00e1ndez"
+    ],
     "name:spa_x_preferred":[
         "Hern\u00e1ndez"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421195319,
-    "wof:lastmodified":1527716126,
+    "wof:lastmodified":1562866571,
     "wof:name":"Hern\u00e1ndez",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

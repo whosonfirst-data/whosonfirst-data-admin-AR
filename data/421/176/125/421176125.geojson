@@ -20,6 +20,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0631\u0633\u062f\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Mercedes"
+    ],
     "name:cym_x_preferred":[
         "Mercedes"
     ],
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421176125,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867028,
     "wof:name":"Mercedes",
     "wof:parent_id":421171455,
     "wof:placetype":"locality",

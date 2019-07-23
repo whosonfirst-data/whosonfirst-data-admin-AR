@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ingeniero Foster"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1243244575,
-    "wof:lastmodified":1537486332,
+    "wof:lastmodified":1562867218,
     "wof:name":"Ingeniero Foster",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

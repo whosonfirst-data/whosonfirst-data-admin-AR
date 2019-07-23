@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
+    "name:pol_x_preferred":[
+        "Jard\u00edn Am\u00e9rica"
+    ],
     "name:por_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421176137,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867026,
     "wof:name":"Jard\u00edn Am\u00e9rica",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Villa Paranacito"
     ],
+    "name:ces_x_preferred":[
+        "Villa Paranacito"
+    ],
     "name:deu_x_preferred":[
         "Villa Paranacito"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421166721,
-    "wof:lastmodified":1561793219,
+    "wof:lastmodified":1562866528,
     "wof:name":"Villa Paranacito",
     "wof:parent_id":421171503,
     "wof:placetype":"locality",

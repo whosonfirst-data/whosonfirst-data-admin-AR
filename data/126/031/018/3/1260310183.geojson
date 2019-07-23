@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Colan Conhu\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Colan Conhu\u00e9"
+    ],
     "name:und_x_variant":[
         "Langui\u00f1eo",
         "Colan Conhu\u00e9"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260310183,
-    "wof:lastmodified":1537584892,
+    "wof:lastmodified":1562866209,
     "wof:name":"Colan Conhue",
     "wof:parent_id":421175301,
     "wof:placetype":"locality",

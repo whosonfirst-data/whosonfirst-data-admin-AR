@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Margarita"
+    ],
+    "name:spa_x_preferred":[
+        "Margarita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1293448827,
-    "wof:lastmodified":1537486321,
+    "wof:lastmodified":1562865912,
     "wof:name":"Margarita",
     "wof:parent_id":1108718463,
     "wof:placetype":"locality",

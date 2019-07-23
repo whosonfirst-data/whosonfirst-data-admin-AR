@@ -28,6 +28,9 @@
     "name:unk_x_variant":[
         "Barriales"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u96f7\u963f\u723e"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3864688,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421191285,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866897,
     "wof:name":"Barreal",
     "wof:parent_id":421171513,
     "wof:placetype":"locality",

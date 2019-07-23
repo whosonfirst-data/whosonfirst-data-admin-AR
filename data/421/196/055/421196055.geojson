@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "R\u00edo Carcara\u00f1\u00e1"
     ],
+    "name:ceb_x_variant":[
+        "Inriville"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Carcara\u00f1\u00e1"
     ],
@@ -43,8 +46,14 @@
     "name:spa_x_preferred":[
         "R\u00edo Carcara\u00f1\u00e1"
     ],
+    "name:spa_x_variant":[
+        "Inriville"
+    ],
     "name:swe_x_preferred":[
         "R\u00edo Carcara\u00f1\u00e1"
+    ],
+    "name:swe_x_variant":[
+        "Inriville"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0440\u0456\u0432\u0456\u043b\u044c"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421196055,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866840,
     "wof:name":"Inriville",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

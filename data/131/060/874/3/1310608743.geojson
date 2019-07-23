@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Napalp\u00ed"
+    ],
     "name:und_x_variant":[
         "Kil\u00f3metro 846",
         "Napalp\u00ed"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310608743,
-    "wof:lastmodified":1537584854,
+    "wof:lastmodified":1562866425,
     "wof:name":"Napalpi",
     "wof:parent_id":1108718231,
     "wof:placetype":"locality",

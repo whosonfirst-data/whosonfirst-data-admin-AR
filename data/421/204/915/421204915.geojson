@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Santa Anita"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0410\u043d\u0438\u0442\u0430"
+    ],
     "name:swe_x_preferred":[
         "Santa Anita"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421204915,
-    "wof:lastmodified":1527716182,
+    "wof:lastmodified":1562866627,
     "wof:name":"Santa Anita",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

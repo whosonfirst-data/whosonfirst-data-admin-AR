@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Comallo"
+    ],
+    "name:ceb_x_preferred":[
+        "Comallo"
+    ],
     "name:eng_x_preferred":[
         "Comallo"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1125868641,
-    "wof:lastmodified":1561793269,
+    "wof:lastmodified":1562867146,
     "wof:name":"Comallo",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

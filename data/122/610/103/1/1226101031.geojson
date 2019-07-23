@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Quirquinchos"
+    ],
+    "name:por_x_preferred":[
+        "Los Quirquinchos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Quirquinchos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Quirquinchos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226101031,
-    "wof:lastmodified":1537486323,
+    "wof:lastmodified":1562867388,
     "wof:name":"Los Quirquinchos",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

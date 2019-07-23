@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000783,
-    "geom:area_square_m":7962723.980853,
+    "geom:area_square_m":7962723.980852,
     "geom:bbox":"-58.4050450004,-34.6625039296,-58.3676488363,-34.6266471605",
     "geom:latitude":-34.646418,
     "geom:longitude":-58.384275,
@@ -29,11 +29,59 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043a\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Barracas"
+    ],
+    "name:dan_x_preferred":[
+        "Barracas"
+    ],
+    "name:deu_x_preferred":[
+        "Barracas"
+    ],
+    "name:eng_x_preferred":[
+        "Barracas"
+    ],
+    "name:epo_x_preferred":[
+        "Barracas"
+    ],
+    "name:fra_x_preferred":[
+        "Barracas"
+    ],
+    "name:hun_x_preferred":[
+        "Barracas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057c\u0561\u056f\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Barracas"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30ab\u30b9"
     ],
+    "name:lat_x_preferred":[
+        "Barracas"
+    ],
     "name:lit_x_preferred":[
         "Barakas"
+    ],
+    "name:nld_x_preferred":[
+        "Barracas"
+    ],
+    "name:nob_x_preferred":[
+        "Barracas"
+    ],
+    "name:por_x_preferred":[
+        "Barracas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0430\u043a\u0430\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Barracas"
     ],
     "name:spa_x_preferred":[
         "Barracas"
@@ -122,7 +170,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865731,
     "wof:name":"Barracas",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

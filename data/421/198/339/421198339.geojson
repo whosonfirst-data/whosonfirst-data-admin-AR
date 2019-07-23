@@ -16,8 +16,14 @@
     "name:deu_x_preferred":[
         "Departamento Met\u00e1n"
     ],
+    "name:eng_x_preferred":[
+        "Met\u00e1n Department"
+    ],
     "name:fra_x_preferred":[
         "D\u00e9partement de Met\u00e1n"
+    ],
+    "name:fra_x_variant":[
+        "Met\u00e1n"
     ],
     "name:hun_x_preferred":[
         "Met\u00e1n megye"
@@ -42,6 +48,12 @@
     ],
     "name:spa_x_preferred":[
         "Departamento de Met\u00e1n"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d4\u10e2\u10d0\u10dc\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5766\u7e23"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421198339,
-    "wof:lastmodified":1499925341,
+    "wof:lastmodified":1562866800,
     "wof:name":"Met\u00e1n",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

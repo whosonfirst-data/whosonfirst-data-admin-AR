@@ -31,6 +31,9 @@
     "name:por_x_preferred":[
         "Coronel Pringles"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u041f\u0440\u0438\u043d\u0433\u043b\u0435\u0441"
+    ],
     "name:sco_x_preferred":[
         "Coronel Pringles Partido"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421195339,
-    "wof:lastmodified":1561793221,
+    "wof:lastmodified":1562866539,
     "wof:name":"Cnel Pringles",
     "wof:parent_id":1108717907,
     "wof:placetype":"locality",

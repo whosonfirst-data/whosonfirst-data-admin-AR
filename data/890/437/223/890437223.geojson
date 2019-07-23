@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u062f\u064a\u0633\u0627\u062f\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Puerto Deseado"
+    ],
     "name:ces_x_preferred":[
         "Puerto Deseado"
     ],
@@ -50,6 +53,9 @@
         "Puerto Deseadas"
     ],
     "name:nld_x_preferred":[
+        "Puerto Deseado"
+    ],
+    "name:pol_x_preferred":[
         "Puerto Deseado"
     ],
     "name:por_x_preferred":[
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":890437223,
-    "wof:lastmodified":1561793266,
+    "wof:lastmodified":1562867104,
     "wof:name":"Puerto Deseado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

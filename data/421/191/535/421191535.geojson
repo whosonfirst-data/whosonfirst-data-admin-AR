@@ -16,10 +16,31 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0625\u064a\u0633\u064a\u062f\u0631\u0648"
     ],
+    "name:ast_x_preferred":[
+        "San Isidro"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u06cc\u0633\u06cc\u062f\u0631\u0648"
+    ],
     "name:ceb_x_preferred":[
         "San Isidro"
     ],
+    "name:ces_x_preferred":[
+        "San Isidro"
+    ],
+    "name:cym_x_preferred":[
+        "San Isidro"
+    ],
+    "name:dan_x_preferred":[
+        "San Isidro"
+    ],
     "name:deu_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0399\u03c3\u03af\u03bd\u03c4\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
         "San Isidro"
     ],
     "name:fas_x_preferred":[
@@ -28,16 +49,37 @@
     "name:fra_x_preferred":[
         "San Isidro"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05d9\u05e1\u05d9\u05d3\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Isidro"
+    ],
     "name:ita_x_preferred":[
         "San Isidro"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a4\u30b7\u30c9\u30ed"
+    ],
+    "name:lit_x_preferred":[
+        "San Isidras"
+    ],
     "name:nld_x_preferred":[
+        "San Isidro"
+    ],
+    "name:pol_x_preferred":[
         "San Isidro"
     ],
     "name:por_x_preferred":[
         "San Isidro"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
     "name:sco_x_preferred":[
+        "San Isidro"
+    ],
+    "name:slv_x_preferred":[
         "San Isidro"
     ],
     "name:spa_x_preferred":[
@@ -105,7 +147,7 @@
         }
     ],
     "wof:id":421191535,
-    "wof:lastmodified":1527716372,
+    "wof:lastmodified":1562866877,
     "wof:name":"San Isidro",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

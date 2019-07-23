@@ -26,6 +26,33 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bouvier"
+    ],
+    "name:fra_x_preferred":[
+        "Bouvier"
+    ],
+    "name:hun_x_preferred":[
+        "Bouvier"
+    ],
+    "name:ita_x_preferred":[
+        "Bouvier"
+    ],
+    "name:lav_x_preferred":[
+        "Buvj\u0113"
+    ],
+    "name:nor_x_preferred":[
+        "Bouvier"
+    ],
+    "name:oci_x_preferred":[
+        "Boi\u00e8r"
+    ],
+    "name:por_x_preferred":[
+        "Bouvier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0432\u044c\u0435"
+    ],
     "name:und_x_variant":[
         "Colonia Bouvier",
         "Bouvier"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1276640407,
-    "wof:lastmodified":1537584829,
+    "wof:lastmodified":1562866011,
     "wof:name":"Bouvier",
     "wof:parent_id":1108718273,
     "wof:placetype":"locality",

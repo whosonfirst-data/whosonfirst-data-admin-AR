@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pluma del Pato"
+    ],
+    "name:swe_x_preferred":[
+        "Pluma del Pato"
+    ],
     "name:und_x_variant":[
         "Pluma de Pato",
         "Pluma del Pato"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326701879,
-    "wof:lastmodified":1537584849,
+    "wof:lastmodified":1562865552,
     "wof:name":"Pluma del Pato",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",

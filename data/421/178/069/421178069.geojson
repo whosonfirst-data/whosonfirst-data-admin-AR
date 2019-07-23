@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Mart\u00ednez"
     ],
+    "name:ces_x_preferred":[
+        "Mart\u00ednez"
+    ],
     "name:eng_x_preferred":[
         "Mart\u00ednez"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d9\u05e0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Martinez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c6\u30a3\u30cd\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10e2\u10d8\u10dc\u10d4\u10e1\u10d8"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421178069,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867008,
     "wof:name":"Mart\u00ednez",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Suriyaco"
+    ],
+    "name:spa_x_preferred":[
+        "Suriyaco"
+    ],
     "name:und_x_variant":[
         "Zuriyaco",
         "Suriyaco"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344034747,
-    "wof:lastmodified":1537584837,
+    "wof:lastmodified":1562865679,
     "wof:name":"Suriyaco",
     "wof:parent_id":1108718349,
     "wof:placetype":"locality",

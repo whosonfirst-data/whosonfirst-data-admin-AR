@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aver\u00edas"
+    ],
+    "name:spa_x_preferred":[
+        "Aver\u00edas"
+    ],
     "name:und_x_variant":[
         "Aver\u00edas"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243322077,
-    "wof:lastmodified":1537584901,
+    "wof:lastmodified":1562867235,
     "wof:name":"Averias",
     "wof:parent_id":1108718483,
     "wof:placetype":"locality",

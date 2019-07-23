@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuyubil"
+    ],
+    "name:spa_x_preferred":[
+        "Tuyubil"
+    ],
+    "name:swe_x_preferred":[
+        "Tuyubil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209191641,
-    "wof:lastmodified":1537486304,
+    "wof:lastmodified":1562866143,
     "wof:name":"Tuyubil",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

@@ -40,8 +40,14 @@
     "name:aym_x_preferred":[
         "Neuqu\u00e9n jisk'a suyu"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0626\u0648\u06a9\u0646 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u0435\u045e\u043a\u0435\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0435\u045e\u043a\u0435\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989\u0995\u09c1\u09af\u09bc\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -67,6 +73,9 @@
     "name:dan_x_preferred":[
         "Provincia de Neuqu\u00e9n"
     ],
+    "name:dan_x_variant":[
+        "Neuqu\u00e9n"
+    ],
     "name:deu_x_preferred":[
         "Provinz Neuqu\u00e9n"
     ],
@@ -89,8 +98,14 @@
     "name:eus_x_preferred":[
         "Neuquengo probintzia"
     ],
+    "name:eus_x_variant":[
+        "Neuqu\u00e9ngo probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0646\u0626\u0648\u06a9\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0626\u0648\u06a9\u0646"
     ],
     "name:fin_x_preferred":[
         "Neuqu\u00e9nin maakunta"
@@ -140,6 +155,12 @@
     "name:kor_x_preferred":[
         "\ub124\uc6b0\ucf04 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub124\uc6b0\ucf04\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Neuqu\u00e9n"
+    ],
     "name:lat_x_preferred":[
         "Neuqu\u00e9n"
     ],
@@ -168,6 +189,9 @@
         "Neuqu\u00e9n"
     ],
     "name:nob_x_preferred":[
+        "Neuqu\u00e9n"
+    ],
+    "name:nor_x_preferred":[
         "Neuqu\u00e9n"
     ],
     "name:oci_x_preferred":[
@@ -247,6 +271,9 @@
     "name:tur_x_preferred":[
         "Neuqu\u00e9n eyaleti"
     ],
+    "name:tur_x_variant":[
+        "Neuqu\u00e9n"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0443\u043a\u0435\u043d"
     ],
@@ -265,8 +292,14 @@
     "name:war_x_preferred":[
         "Neuqu\u00e9n"
     ],
+    "name:yue_x_preferred":[
+        "\u7d10\u6606\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5185\u4e4c\u80af\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5167\u70cf\u80af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARG",
@@ -391,7 +424,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561793140,
+    "wof:lastmodified":1562865746,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

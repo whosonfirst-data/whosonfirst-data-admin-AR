@@ -16,23 +16,44 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u0646"
     ],
+    "name:dan_x_preferred":[
+        "San Mart\u00edn"
+    ],
     "name:deu_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
         "San Mart\u00edn"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646\u060c \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "San Mart\u00edn"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05de\u05e8\u05d8\u05d9\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u0544\u0561\u0580\u057f\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Ciudad del Libertador General San Mart\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3"
     ],
     "name:lit_x_preferred":[
         "San Martinas"
     ],
     "name:nld_x_preferred":[
         "San Mart\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "General San Mart\u00edn"
     ],
     "name:por_x_preferred":[
         "San Mart\u00edn"
@@ -43,8 +64,14 @@
     "name:spa_x_preferred":[
         "San Mart\u00edn"
     ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn"
+    ],
     "name:unk_x_variant":[
         "General San Mart\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u4e01"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -96,7 +123,7 @@
         }
     ],
     "wof:id":421191187,
-    "wof:lastmodified":1527716378,
+    "wof:lastmodified":1562866887,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108717969,
     "wof:placetype":"locality",

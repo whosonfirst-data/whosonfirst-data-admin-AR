@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Hocker"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Hocker"
+    ],
     "name:und_x_variant":[
         "Hocker",
         "Colonia Hocker"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344076923,
-    "wof:lastmodified":1537584828,
+    "wof:lastmodified":1562865628,
     "wof:name":"Colonia Hocker",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

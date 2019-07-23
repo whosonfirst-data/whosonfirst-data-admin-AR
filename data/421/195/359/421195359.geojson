@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Lucas Gonz\u00e1lez"
     ],
+    "name:dan_x_preferred":[
+        "Lucas Gonz\u00e1lez"
+    ],
     "name:eng_x_preferred":[
         "Lucas Gonz\u00e1lez"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Lucas Gonz\u00e1lez"
+    ],
+    "name:swe_x_variant":[
+        "Santa Eufemia"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0441-\u0413\u043e\u043d\u0441\u0430\u043b\u0435\u0441"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421195359,
-    "wof:lastmodified":1561793224,
+    "wof:lastmodified":1562866557,
     "wof:name":"Lucas Gonz\u00e1lez",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

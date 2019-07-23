@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Gaboto"
     ],
+    "name:eng_x_variant":[
+        "Puerto Gaboto"
+    ],
     "name:nld_x_preferred":[
         "Puerto Gaboto"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421200703,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1562866941,
     "wof:name":"Gaboto",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

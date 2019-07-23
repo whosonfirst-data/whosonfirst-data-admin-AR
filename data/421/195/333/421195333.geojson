@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Levalle"
+    ],
     "name:eng_x_preferred":[
         "General Levalle"
     ],
@@ -21,6 +24,9 @@
     ],
     "name:por_x_preferred":[
         "General Levalle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041b\u0435\u0432\u0430\u043b\u044c\u0435"
     ],
     "name:spa_x_preferred":[
         "General Levalle"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421195333,
-    "wof:lastmodified":1561793225,
+    "wof:lastmodified":1562866562,
     "wof:name":"General Levalle",
     "wof:parent_id":421199897,
     "wof:placetype":"locality",

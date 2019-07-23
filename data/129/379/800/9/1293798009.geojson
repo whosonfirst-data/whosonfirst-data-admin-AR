@@ -29,14 +29,44 @@
     "name:ara_x_preferred":[
         "\u0627\u0648\u0644\u064a\u0641\u0648\u0633\u060c \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0648\u0644\u064a\u0641\u0648\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0648\u0648\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0438\u0432\u043e\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Olivos"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u06cc\u0648\u0648\u0633"
     ],
+    "name:fra_x_preferred":[
+        "Olivos"
+    ],
+    "name:ita_x_preferred":[
+        "Olivos"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10da\u10d8\u10d5\u10dd\u10e1\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Olivos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0438\u0432\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Olivos"
+    ],
+    "name:slk_x_preferred":[
+        "Olivos"
+    ],
+    "name:spa_x_preferred":[
+        "Olivos"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0456\u0432\u043e\u0441"
@@ -68,7 +98,7 @@
         }
     ],
     "wof:id":1293798009,
-    "wof:lastmodified":1537584820,
+    "wof:lastmodified":1562865821,
     "wof:name":"Olivos",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

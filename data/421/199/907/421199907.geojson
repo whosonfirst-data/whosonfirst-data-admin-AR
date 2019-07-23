@@ -41,10 +41,16 @@
     "name:arg_x_preferred":[
         "San Pedro"
     ],
+    "name:ast_x_preferred":[
+        "San Pedro"
+    ],
     "name:bre_x_preferred":[
         "San Pedro"
     ],
     "name:cat_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ceb_x_preferred":[
         "San Pedro"
     ],
     "name:ces_x_preferred":[
@@ -83,6 +89,12 @@
     "name:hrv_x_preferred":[
         "San Pedro"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u054a\u0565\u0564\u0580\u0578"
+    ],
+    "name:ilo_x_preferred":[
+        "San Pedro"
+    ],
     "name:ita_x_preferred":[
         "San Pedro"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:lit_x_preferred":[
         "San Pedras"
+    ],
+    "name:nds_x_preferred":[
+        "San Pedro"
     ],
     "name:nld_x_preferred":[
         "San Pedro"
@@ -190,7 +205,7 @@
         }
     ],
     "wof:id":421199907,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866918,
     "wof:name":"San Pedro",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

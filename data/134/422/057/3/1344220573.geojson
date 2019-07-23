@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cobos"
+    ],
+    "name:spa_x_preferred":[
+        "Cobos"
+    ],
     "name:und_x_variant":[
         "Cobo",
         "Cobos"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344220573,
-    "wof:lastmodified":1537584892,
+    "wof:lastmodified":1562865614,
     "wof:name":"Cobos",
     "wof:parent_id":421191593,
     "wof:placetype":"locality",

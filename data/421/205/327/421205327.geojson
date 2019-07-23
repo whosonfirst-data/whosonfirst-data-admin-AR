@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Fiambal\u00e1"
     ],
+    "name:ces_x_preferred":[
+        "Fiambal\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Fiambal\u00e1"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421205327,
-    "wof:lastmodified":1561793235,
+    "wof:lastmodified":1562866664,
     "wof:name":"Fiambal\u00e1",
     "wof:parent_id":1108718161,
     "wof:placetype":"locality",

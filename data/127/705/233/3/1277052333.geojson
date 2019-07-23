@@ -26,6 +26,51 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bf\u03bb\u03af\u03bd\u03b1 \u0391\u03c1\u03b4\u03bf\u03b1\u0390\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0645\u067e\u06cc\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0578\u056c\u056b\u0576\u0561 \u0531\u0580\u0564\u0578\u0561\u0575\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:lit_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:msa_x_preferred":[
+        "Pampita"
+    ],
+    "name:pol_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:por_x_preferred":[
+        "Carolina Ardohain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u043e\u0430\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Pampita"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430 \u0410\u0440\u0434\u043e\u0445\u0430\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043b\u0456\u043d\u0430 \u0410\u0440\u0434\u043e\u0430\u0439\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Pampita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1277052333,
-    "wof:lastmodified":1536809553,
+    "wof:lastmodified":1562865973,
     "wof:name":"Pampita",
     "wof:parent_id":1108718357,
     "wof:placetype":"locality",

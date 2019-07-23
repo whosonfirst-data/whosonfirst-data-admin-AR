@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Bajo Flores"
+    ],
     "name:spa_x_preferred":[
         "Presidente Rivadavia"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536864462,
+    "wof:lastmodified":1562865719,
     "wof:name":"Bajo Flores",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

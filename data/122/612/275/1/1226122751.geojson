@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cha\u00f1armuyo"
+    ],
+    "name:spa_x_preferred":[
+        "Cha\u00f1armuyo"
+    ],
+    "name:swe_x_preferred":[
+        "Cha\u00f1armuyo"
+    ],
     "name:und_x_variant":[
         "Cha\u00f1armyo",
         "Cha\u00f1armullo",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226122751,
-    "wof:lastmodified":1537584894,
+    "wof:lastmodified":1562867456,
     "wof:name":"Chanarmuyo",
     "wof:parent_id":1108718329,
     "wof:placetype":"locality",

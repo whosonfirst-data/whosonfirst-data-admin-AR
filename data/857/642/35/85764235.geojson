@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00155,
-    "geom:area_square_m":15776173.629566,
+    "geom:area_square_m":15776173.629534,
     "geom:bbox":"-58.4490443844,-34.5978547719,-58.392789918,-34.5509360412",
     "geom:latitude":-34.573902,
     "geom:longitude":-58.422435,
@@ -29,17 +29,62 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "Palermo"
+    ],
+    "name:deu_x_preferred":[
+        "Palermo"
+    ],
+    "name:eng_x_preferred":[
+        "Palermo"
+    ],
+    "name:epo_x_preferred":[
+        "Palermo"
+    ],
+    "name:fra_x_preferred":[
+        "Palermo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1/\u05e4\u05d0\u05dc\u05e8\u05de\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u0565\u0580\u0574\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Palermo"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ec\u30eb\u30e2"
     ],
     "name:kor_x_preferred":[
         "\ud314\ub808\ub974\ubaa8 \ub3d9"
     ],
+    "name:kor_x_variant":[
+        "\ud314\ub808\ub974\ubaa8"
+    ],
+    "name:lat_x_preferred":[
+        "Palermo"
+    ],
     "name:lit_x_preferred":[
         "Palermas"
     ],
+    "name:nld_x_preferred":[
+        "Palermo"
+    ],
+    "name:oci_x_preferred":[
+        "Palermo"
+    ],
+    "name:por_x_preferred":[
+        "Palermo"
+    ],
+    "name:ron_x_preferred":[
+        "Palermo"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0440\u043c\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Palermo"
     ],
     "name:spa_x_preferred":[
         "Palermo"
@@ -134,7 +179,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1562865710,
     "wof:name":"Palermo",
     "wof:parent_id":1109371879,
     "wof:placetype":"neighbourhood",

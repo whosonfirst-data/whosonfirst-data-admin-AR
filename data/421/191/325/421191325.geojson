@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Gar\u00edn"
     ],
+    "name:hun_x_preferred":[
+        "Gar\u00edn"
+    ],
     "name:nld_x_preferred":[
         "Gar\u00edn"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421191325,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866889,
     "wof:name":"Gar\u00edn",
     "wof:parent_id":1108717925,
     "wof:placetype":"locality",

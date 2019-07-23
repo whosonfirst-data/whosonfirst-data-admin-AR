@@ -27,6 +27,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Horquilla"
+    ],
+    "name:spa_x_preferred":[
+        "Horquilla"
+    ],
+    "name:swe_x_preferred":[
+        "Horquilla"
+    ],
     "name:und_x_variant":[
         "Murquilla",
         "Horquilla"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259981547,
-    "wof:lastmodified":1537584824,
+    "wof:lastmodified":1562867292,
     "wof:name":"Horquilla",
     "wof:parent_id":1108718229,
     "wof:placetype":"locality",

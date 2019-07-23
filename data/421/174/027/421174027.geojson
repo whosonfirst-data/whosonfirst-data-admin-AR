@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Esquina"
     ],
+    "name:pol_x_preferred":[
+        "Esquina"
+    ],
     "name:por_x_preferred":[
         "Esquina"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421174027,
-    "wof:lastmodified":1561793238,
+    "wof:lastmodified":1562866684,
     "wof:name":"Esquina",
     "wof:parent_id":421191007,
     "wof:placetype":"locality",

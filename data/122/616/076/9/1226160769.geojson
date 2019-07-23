@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agustina"
+    ],
+    "name:deu_x_preferred":[
+        "Agustina"
+    ],
+    "name:spa_x_preferred":[
+        "Agustina"
+    ],
+    "name:swe_x_preferred":[
+        "Agustina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226160769,
-    "wof:lastmodified":1537053731,
+    "wof:lastmodified":1562867405,
     "wof:name":"Agustina",
     "wof:parent_id":1108717987,
     "wof:placetype":"locality",

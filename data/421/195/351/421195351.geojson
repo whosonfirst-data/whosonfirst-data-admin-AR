@@ -31,6 +31,9 @@
     "name:ita_x_preferred":[
         "Santa Rosa del Aguaray"
     ],
+    "name:ita_x_variant":[
+        "Aguaray"
+    ],
     "name:nld_x_preferred":[
         "Aguaray"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195351,
-    "wof:lastmodified":1561793224,
+    "wof:lastmodified":1562866560,
     "wof:name":"Aguaray",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guayamba"
+    ],
+    "name:spa_x_preferred":[
+        "Guayamba"
+    ],
+    "name:swe_x_preferred":[
+        "Guayamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310614087,
-    "wof:lastmodified":1537486333,
+    "wof:lastmodified":1562866404,
     "wof:name":"Guayamba",
     "wof:parent_id":1108718151,
     "wof:placetype":"locality",

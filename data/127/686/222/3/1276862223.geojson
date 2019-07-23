@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Colonia Delta"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Delta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276862223,
-    "wof:lastmodified":1537062041,
+    "wof:lastmodified":1562865924,
     "wof:name":"Colonia Delta",
     "wof:parent_id":421171503,
     "wof:placetype":"locality",

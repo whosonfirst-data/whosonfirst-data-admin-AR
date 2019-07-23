@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Yala"
     ],
+    "name:ceb_x_preferred":[
+        "Yala"
+    ],
     "name:deu_x_preferred":[
         "Yala"
     ],
@@ -47,6 +50,9 @@
         "Yala"
     ],
     "name:spa_x_preferred":[
+        "Yala"
+    ],
+    "name:swe_x_preferred":[
         "Yala"
     ],
     "name:tha_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421174437,
-    "wof:lastmodified":1561793236,
+    "wof:lastmodified":1562866672,
     "wof:name":"Yala",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

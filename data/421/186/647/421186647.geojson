@@ -22,11 +22,26 @@
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0456\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09b2\u09c1\u0987\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b2\u09c1\u0987\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "San Luis"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041b\u0443\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "San Luis"
+    ],
+    "name:ceb_x_preferred":[
+        "San Luis"
     ],
     "name:ces_x_preferred":[
         "San Luis"
@@ -73,8 +88,17 @@
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0932\u0941\u0907\u0938"
     ],
+    "name:hin_x_variant":[
+        "\u0938\u0948\u0928 \u0932\u0941\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "San Luis"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d"
+    ],
+    "name:ilo_x_preferred":[
+        "San Luis"
     ],
     "name:ind_x_preferred":[
         "San Luis"
@@ -106,10 +130,16 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0932\u0941\u0908\u0938"
     ],
+    "name:mlg_x_preferred":[
+        "San Luis"
+    ],
     "name:msa_x_preferred":[
         "San Luis"
     ],
     "name:nah_x_preferred":[
+        "San Luis"
+    ],
+    "name:nds_x_preferred":[
         "San Luis"
     ],
     "name:nld_x_preferred":[
@@ -133,6 +163,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
     ],
+    "name:sco_x_preferred":[
+        "San Luis"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0dbd\u0dd4\u0dba\u0dd2\u0dc3\u0dca"
     ],
@@ -143,9 +176,6 @@
         "San Luis"
     ],
     "name:spa_x_preferred":[
-        "San Luis"
-    ],
-    "name:spa_x_variant":[
         "San Luis"
     ],
     "name:srp_x_preferred":[
@@ -160,6 +190,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c32\u0c42\u0c2f\u0c3f\u0c38\u0c4d"
     ],
+    "name:tgl_x_preferred":[
+        "San Luis"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19 \u0e2b\u0e25\u0e38\u0e22\u0e2a\u0e4c"
     ],
@@ -172,7 +205,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633\u060c \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u06cc\u0633"
+    ],
     "name:vie_x_preferred":[
+        "San Luis"
+    ],
+    "name:vol_x_preferred":[
         "San Luis"
     ],
     "name:war_x_preferred":[
@@ -231,7 +270,7 @@
         }
     ],
     "wof:id":421186647,
-    "wof:lastmodified":1561793244,
+    "wof:lastmodified":1562866765,
     "wof:name":"San Luis",
     "wof:parent_id":1108718445,
     "wof:placetype":"locality",

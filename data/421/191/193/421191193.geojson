@@ -22,6 +22,12 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09c1\u09b8\u09cd\u09a4"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09b8\u09cd\u09a4\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "San Justo"
+    ],
     "name:ceb_x_preferred":[
         "San Justo"
     ],
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":421191193,
-    "wof:lastmodified":1561793252,
+    "wof:lastmodified":1562866877,
     "wof:name":"San Justo",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

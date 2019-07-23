@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3118819.741994,
+    "geom:area_square_m":3118819.741987,
     "geom:bbox":"-58.4668281723,-34.597834761,-58.4385357501,-34.5782946601",
     "geom:latitude":-34.588372,
     "geom:longitude":-58.454175,
@@ -29,6 +29,39 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "Chacarita"
+    ],
+    "name:deu_x_preferred":[
+        "Chacarita"
+    ],
+    "name:eng_x_preferred":[
+        "Chacarita"
+    ],
+    "name:fra_x_preferred":[
+        "Chacarita"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u056f\u0561\u0580\u057f\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Chacarita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ab\u30ea\u30fc\u30bf"
+    ],
+    "name:lat_x_preferred":[
+        "Chacarita"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cakarita"
+    ],
+    "name:nld_x_preferred":[
+        "Chacarita"
+    ],
+    "name:por_x_preferred":[
+        "Chacarita"
+    ],
     "name:spa_x_preferred":[
         "Chacarrita"
     ],
@@ -119,7 +152,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1562865730,
     "wof:name":"Chacarrita",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

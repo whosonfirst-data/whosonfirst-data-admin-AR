@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel Mollinedo"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Mollinedo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1326506467,
-    "wof:lastmodified":1537486341,
+    "wof:lastmodified":1562865512,
     "wof:name":"Coronel Mollinedo",
     "wof:parent_id":1108718403,
     "wof:placetype":"locality",

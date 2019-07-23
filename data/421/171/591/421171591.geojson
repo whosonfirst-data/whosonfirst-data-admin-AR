@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Fontana"
     ],
+    "name:pol_x_preferred":[
+        "Fontana"
+    ],
     "name:por_x_preferred":[
         "Fontana"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421171591,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1562867046,
     "wof:name":"Fontana",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

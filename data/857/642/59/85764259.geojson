@@ -44,6 +44,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Presidente Roque S\u00e1enz Pe\u00f1a"
     ],
+    "name:ita_x_variant":[
+        "Presidente Roque S\u00e1enz Pe\u00f1a"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10e0\u10d4\u10e1\u10d8\u10d3\u10d4\u10dc\u10e2\u10d4-\u10e0\u10dd\u10d9\u10d4-\u10e1\u10d0\u10d4\u10dc\u10e1-\u10de\u10d4\u10dc\u10d8\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
     ],
@@ -64,7 +67,8 @@
         "Departamento Presidente Roque S\u00e1enz Pe\u00f1a"
     ],
     "name:spa_x_variant":[
-        "Presidente Roque S\u00e1enz Pe\u00f1a"
+        "Presidente Roque S\u00e1enz Pe\u00f1a",
+        "Barrio Presidente Roque S\u00e1enz Pe\u00f1a"
     ],
     "name:unk_x_variant":[
         "Presidente Roque S\u00e1enz Pe\u00f1a"
@@ -148,7 +152,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1536868699,
+    "wof:lastmodified":1562865710,
     "wof:name":"Presidente Roque S\u00e1enz Pe\u00f1a",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

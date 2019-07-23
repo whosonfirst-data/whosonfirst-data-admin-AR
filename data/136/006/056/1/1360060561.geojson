@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Ranchos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Ranchos"
+    ],
     "name:und_x_variant":[
         "Salinas",
         "Los Ranchos"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1360060561,
-    "wof:lastmodified":1537584859,
+    "wof:lastmodified":1562866448,
     "wof:name":"Los Ranchos",
     "wof:parent_id":421171473,
     "wof:placetype":"locality",

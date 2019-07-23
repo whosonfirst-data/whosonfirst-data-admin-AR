@@ -25,11 +25,17 @@
     "name:eng_x_preferred":[
         "Col\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Columbus"
+    ],
     "name:fin_x_preferred":[
         "Col\u00f3n"
     ],
     "name:fra_x_preferred":[
         "Col\u00f3n"
+    ],
+    "name:frp_x_preferred":[
+        "Colomb"
     ],
     "name:ita_x_preferred":[
         "Col\u00f3n"
@@ -43,6 +49,9 @@
     "name:oci_x_preferred":[
         "Col\u00f3n"
     ],
+    "name:pol_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:por_x_preferred":[
         "Col\u00f3n"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Col\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Columbus"
     ],
     "name:swe_x_preferred":[
         "Col\u00f3n"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421195103,
-    "wof:lastmodified":1561793220,
+    "wof:lastmodified":1562866536,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

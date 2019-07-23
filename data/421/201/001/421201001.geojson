@@ -44,9 +44,6 @@
     "name:eng_x_preferred":[
         "Tumbaya"
     ],
-    "name:eng_x_variant":[
-        "Tumbaya"
-    ],
     "name:fra_x_preferred":[
         "Tumbaya"
     ],
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":421201001,
-    "wof:lastmodified":1560898150,
+    "wof:lastmodified":1562866949,
     "wof:name":"Tumbaya",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

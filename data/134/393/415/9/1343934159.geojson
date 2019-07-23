@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Andrade"
+    ],
+    "name:glg_x_preferred":[
+        "Andrade"
+    ],
+    "name:por_x_preferred":[
+        "Andrade"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343934159,
-    "wof:lastmodified":1537055612,
+    "wof:lastmodified":1562865661,
     "wof:name":"Andrade",
     "wof:parent_id":421173921,
     "wof:placetype":"locality",

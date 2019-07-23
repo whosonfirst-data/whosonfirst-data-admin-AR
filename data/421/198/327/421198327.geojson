@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Fern\u00e1ndez"
     ],
+    "name:pol_x_preferred":[
+        "Fern\u00e1ndez"
+    ],
     "name:spa_x_preferred":[
         "Fern\u00e1ndez"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421198327,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1562866824,
     "wof:name":"Fern\u00e1ndez",
     "wof:parent_id":1108718509,
     "wof:placetype":"locality",

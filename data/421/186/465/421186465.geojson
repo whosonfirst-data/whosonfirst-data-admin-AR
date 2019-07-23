@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Soberbio"
+    ],
     "name:eng_x_preferred":[
         "El Soberbio"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421186465,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866759,
     "wof:name":"El Soberbio",
     "wof:parent_id":421175303,
     "wof:placetype":"locality",

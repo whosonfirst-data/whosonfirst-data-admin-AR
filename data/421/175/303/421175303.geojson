@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0430\u043d\u0456"
     ],
+    "name:ceb_x_preferred":[
+        "Guarani"
+    ],
     "name:ces_x_preferred":[
         "Guaran\u00ed"
     ],
@@ -56,6 +59,9 @@
     "name:eng_x_variant":[
         "Guarani",
         "Guaran\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Guarani"
     ],
     "name:fra_x_preferred":[
         "Guarani"
@@ -74,6 +80,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uacfc\ub77c\ub2c8"
     ],
     "name:nld_x_preferred":[
         "Guaran\u00ed"
@@ -110,6 +119,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0432\u0430\u0440\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Guarani"
     ],
     "name:tur_x_preferred":[
         "Guaran\u00ed"
@@ -182,7 +194,7 @@
         }
     ],
     "wof:id":421175303,
-    "wof:lastmodified":1560898147,
+    "wof:lastmodified":1562866791,
     "wof:name":"Guarani",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

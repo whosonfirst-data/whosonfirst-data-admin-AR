@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luan Toro"
+    ],
+    "name:por_x_preferred":[
+        "Luan Toro"
+    ],
+    "name:spa_x_preferred":[
+        "Luan Toro"
+    ],
+    "name:swe_x_preferred":[
+        "Luan Toro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1309993891,
-    "wof:lastmodified":1537486322,
+    "wof:lastmodified":1562866475,
     "wof:name":"Luan Toro",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

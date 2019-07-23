@@ -13,22 +13,235 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:arg_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ast_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:bam_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:bar_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:bre_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:cat_x_preferred":[
+        "Monte Buey"
+    ],
     "name:ceb_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ces_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:cos_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:cym_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:dan_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:deu_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:epo_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:est_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:eus_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:fin_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:fra_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:frc_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:frp_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:fur_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:gla_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:gle_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:glg_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:gsw_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:hrv_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:hun_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ido_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ile_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ina_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ind_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ita_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:jam_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:kab_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:kon_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:lav_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:lij_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:lim_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ltz_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:min_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:mlg_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:msa_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:nap_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:nds_x_preferred":[
         "Monte Buey"
     ],
     "name:nld_x_preferred":[
         "Monte Buey"
     ],
+    "name:nno_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:nob_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:nrm_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:oci_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:pap_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:pcd_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:pms_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:pol_x_preferred":[
+        "Monte Buey"
+    ],
     "name:por_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:prg_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:rgn_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:roh_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ron_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:scn_x_preferred":[
         "Monte Buey"
     ],
     "name:sco_x_preferred":[
         "Monte Buey"
     ],
+    "name:slk_x_preferred":[
+        "Monte Buey"
+    ],
     "name:spa_x_preferred":[
         "Monte Buey"
     ],
+    "name:srd_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:swa_x_preferred":[
+        "Monte Buey"
+    ],
     "name:swe_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:tur_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0411\u0443\u0435\u0439"
+    ],
+    "name:vec_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:vie_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:vls_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:vmf_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:vol_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:wln_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:wol_x_preferred":[
+        "Monte Buey"
+    ],
+    "name:zul_x_preferred":[
         "Monte Buey"
     ],
     "qs:gn_country":"AR",
@@ -79,7 +292,7 @@
         }
     ],
     "wof:id":421196043,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1562866861,
     "wof:name":"Monte Buey",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

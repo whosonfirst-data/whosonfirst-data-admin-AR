@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Alamitos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0441 \u0410\u043b\u0430\u043c\u0438\u0442\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Los Alamitos"
+    ],
     "name:und_x_variant":[
         "Los Alamito",
         "Los Alamitos"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259569389,
-    "wof:lastmodified":1537584860,
+    "wof:lastmodified":1562867347,
     "wof:name":"Los Alamitos",
     "wof:parent_id":421195857,
     "wof:placetype":"locality",

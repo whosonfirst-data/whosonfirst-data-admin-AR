@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Ca\u00e1 Yar\u00ed"
+    ],
     "name:und_x_variant":[
         "Ca\u00e1 Yar\u00ed"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293263119,
-    "wof:lastmodified":1537584828,
+    "wof:lastmodified":1562865903,
     "wof:name":"Caa Yari",
     "wof:parent_id":1108718371,
     "wof:placetype":"locality",

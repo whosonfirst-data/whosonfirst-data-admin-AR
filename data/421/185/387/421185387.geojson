@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mendiolaza"
+    ],
     "name:eng_x_preferred":[
         "Mendiolaza"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421185387,
-    "wof:lastmodified":1561793264,
+    "wof:lastmodified":1562867070,
     "wof:name":"Mendiolaza",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

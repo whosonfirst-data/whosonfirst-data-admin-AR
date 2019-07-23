@@ -16,14 +16,32 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0628\u0648"
     ],
+    "name:dan_x_preferred":[
+        "Maip\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Maip\u00fa"
+    ],
     "name:epo_x_preferred":[
         "Maip\u00fa"
     ],
     "name:fra_x_preferred":[
         "Maip\u00fa"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9\u05e4\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Maip\u00fa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a4\u30d7"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d8\u10de\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Maip\u00fa"
     ],
     "name:pol_x_preferred":[
         "Maip\u00fa"
@@ -33,6 +51,12 @@
     ],
     "name:spa_x_preferred":[
         "Maip\u00fa"
+    ],
+    "name:szl_x_preferred":[
+        "Maip\u00fa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u043f\u0443"
     ],
     "name:zho_x_preferred":[
         "\u9081\u666e"
@@ -86,7 +110,7 @@
         }
     ],
     "wof:id":421196095,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1562866863,
     "wof:name":"Maip\u00fa",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

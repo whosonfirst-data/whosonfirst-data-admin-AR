@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saladillo"
+    ],
+    "name:spa_x_preferred":[
+        "Saladillo"
+    ],
+    "name:swe_x_preferred":[
+        "Saladillo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1192984067,
-    "wof:lastmodified":1537486311,
+    "wof:lastmodified":1562866184,
     "wof:name":"Saladillo",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

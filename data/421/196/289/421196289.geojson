@@ -49,6 +49,9 @@
     "name:por_x_preferred":[
         "Luj\u00e1n de Cuyo"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0445\u0430\u043d-\u0434\u0435-\u041a\u0443\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de Luj\u00e1n de Cuyo"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421196289,
-    "wof:lastmodified":1561793249,
+    "wof:lastmodified":1562866835,
     "wof:name":"Luj\u00e1n de Cuyo",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

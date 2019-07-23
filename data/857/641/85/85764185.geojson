@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2919746.423962,
+    "geom:area_square_m":2919746.423964,
     "geom:bbox":"-58.5388781236,-34.6083450534,-58.5009808232,-34.5002010612",
     "geom:latitude":-34.545093,
     "geom:longitude":-58.518265,
@@ -59,6 +59,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9b0\uce58"
+    ],
+    "name:lav_x_preferred":[
+        "Lynch"
     ],
     "name:lit_x_preferred":[
         "Lynch"
@@ -159,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1527639378,
+    "wof:lastmodified":1562865738,
     "wof:name":"Lynch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

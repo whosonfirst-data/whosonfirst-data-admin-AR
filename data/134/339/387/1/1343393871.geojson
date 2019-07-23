@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Cipreses"
+    ],
+    "name:sco_x_preferred":[
+        "Los Cipreses"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cipreses"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343393871,
-    "wof:lastmodified":1537486324,
+    "wof:lastmodified":1562865608,
     "wof:name":"Los Cipreses",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cerro Colorado"
+    ],
     "name:deu_x_preferred":[
         "Cerro Colorado"
     ],
@@ -26,6 +29,9 @@
         "Cerro Colorado"
     ],
     "name:spa_x_preferred":[
+        "Cerro Colorado"
+    ],
+    "name:swe_x_preferred":[
         "Cerro Colorado"
     ],
     "qs:gn_country":"AR",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421205259,
-    "wof:lastmodified":1527716216,
+    "wof:lastmodified":1562866660,
     "wof:name":"Cerro Colorado",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

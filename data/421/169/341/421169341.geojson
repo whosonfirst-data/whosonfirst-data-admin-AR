@@ -16,6 +16,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0443\u043d\u0430 \u041b\u0430\u0433\u0430-\u0411\u043b\u0430\u043d\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u0430\u0433\u0430-\u0411\u043b\u0430\u043d\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Lago Blanco"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421169341,
-    "wof:lastmodified":1527716169,
+    "wof:lastmodified":1562866605,
     "wof:name":"Lago Blanco",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

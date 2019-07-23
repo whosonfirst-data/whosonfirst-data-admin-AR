@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Delf\u00edn Gallo"
+    ],
+    "name:ita_x_preferred":[
+        "Delf\u00edn Gallo"
+    ],
+    "name:nld_x_preferred":[
+        "Delf\u00edn Gallo"
+    ],
+    "name:spa_x_preferred":[
+        "Delf\u00edn Gallo"
+    ],
+    "name:swe_x_preferred":[
+        "Delf\u00edn Gallo"
+    ],
     "name:und_x_variant":[
         "Delf\u00edn Gallo"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1259651887,
-    "wof:lastmodified":1537584886,
+    "wof:lastmodified":1562867295,
     "wof:name":"Delfin Gallo",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

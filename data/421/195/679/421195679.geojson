@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Laborde"
+    ],
     "name:deu_x_preferred":[
         "Laborde"
     ],
@@ -21,6 +24,9 @@
     ],
     "name:fra_x_preferred":[
         "Laborde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d5\u05e8\u05d3\u05d4"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30dc\u30eb\u30c7"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421195679,
-    "wof:lastmodified":1561793225,
+    "wof:lastmodified":1562866565,
     "wof:name":"Laborde",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

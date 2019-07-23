@@ -43,6 +43,9 @@
     "name:eng_x_variant":[
         "Pichi Mahuida"
     ],
+    "name:spa_x_preferred":[
+        "Pichi Mahuida"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108718393,
-    "wof:lastmodified":1560898139,
+    "wof:lastmodified":1562866324,
     "wof:name":"Pichi Mahuida",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Grand Bourg"
     ],
+    "name:ita_x_preferred":[
+        "Grand Bourg"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d1\u10dd\u10e3\u10e0\u10d2\u10d8"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421198301,
-    "wof:lastmodified":1561793247,
+    "wof:lastmodified":1562866799,
     "wof:name":"Grand Bourg",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

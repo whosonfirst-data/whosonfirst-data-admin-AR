@@ -37,11 +37,50 @@
     "mps:longitude":-62.642783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0646\u0643\u064a\u0648 \u0644\u0627\u064a\u0643\u064a\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Trenque Lauquen"
+    ],
     "name:eng_x_preferred":[
         "Trenque Lauquen"
     ],
     "name:eng_x_variant":[
         "Trenque Lauquen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u06a9\u0647 \u0644\u0627\u0626\u0648\u06a9\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:ita_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:nld_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:oci_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:pol_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:por_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:sco_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:spa_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u502b\u514b\u52de\u80af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +117,7 @@
         }
     ],
     "wof:id":1108718123,
-    "wof:lastmodified":1560901506,
+    "wof:lastmodified":1562866292,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

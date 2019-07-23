@@ -46,10 +46,13 @@
     ],
     "name:eng_x_variant":[
         "Guaymallen",
-        "Guaymall\u00e9n"
+        "Guaymall\u00e9n Department"
     ],
     "name:fra_x_preferred":[
         "D\u00e9partement de Guaymall\u00e9n"
+    ],
+    "name:fra_x_variant":[
+        "Guaymall\u00e9n"
     ],
     "name:hun_x_preferred":[
         "Guaymall\u00e9n megye"
@@ -57,11 +60,17 @@
     "name:ita_x_preferred":[
         "Dipartimento di Guaymall\u00e9n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30a4\u30de\u30b8\u30a7\u30f3\u30fb\u30c7\u30d1\u30eb\u30bf\u30e1\u30f3\u30c8"
+    ],
     "name:nld_x_preferred":[
         "Guaymall\u00e9n"
     ],
     "name:por_x_preferred":[
         "Guaymall\u00e9n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u043c\u0430\u043b\u044c\u0435\u043d"
     ],
     "name:sco_x_preferred":[
         "Guaymall\u00e9n Depairtment"
@@ -143,7 +152,7 @@
         }
     ],
     "wof:id":421171949,
-    "wof:lastmodified":1560898153,
+    "wof:lastmodified":1562867042,
     "wof:name":"Guaymallen",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

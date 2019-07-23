@@ -26,6 +26,24 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Famatina"
+    ],
+    "name:fra_x_preferred":[
+        "Famatina"
+    ],
+    "name:ita_x_preferred":[
+        "Famatina"
+    ],
+    "name:por_x_preferred":[
+        "Famatina"
+    ],
+    "name:spa_x_preferred":[
+        "Famatina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u99ac\u8482\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293752505,
-    "wof:lastmodified":1536902337,
+    "wof:lastmodified":1562865906,
     "wof:name":"Famatina",
     "wof:parent_id":1108718485,
     "wof:placetype":"locality",

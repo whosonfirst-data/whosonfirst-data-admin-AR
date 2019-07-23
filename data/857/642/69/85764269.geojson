@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1537148.539182,
+    "geom:area_square_m":1537148.539181,
     "geom:bbox":"-58.3788890576,-34.6029559386,-58.356628418,-34.5909453167",
     "geom:latitude":-34.596062,
     "geom:longitude":-58.366323,
@@ -29,12 +29,24 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Puerto Nuevo"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Nuevo"
+    ],
     "name:spa_x_preferred":[
         "Puerto Nuevo"
     ],
     "name:spa_x_variant":[
         "Puerto",
         "Pto Nuevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u041d\u0443\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Nuevo"
     ],
     "name:unk_x_variant":[
         "Puerto Nuevo"
@@ -117,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1562865711,
     "wof:name":"Puerto Nuevo",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

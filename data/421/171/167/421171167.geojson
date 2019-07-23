@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Claypole"
     ],
+    "name:ita_x_preferred":[
+        "Claypole"
+    ],
     "name:nld_x_preferred":[
         "Claypole"
     ],
@@ -40,6 +43,9 @@
     "name:por_x_preferred":[
         "Claypole"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043f\u043e\u043b\u0435"
+    ],
     "name:spa_x_preferred":[
         "Claypole"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:tur_x_preferred":[
         "Castelar"
+    ],
+    "name:tur_x_variant":[
+        "Claypole"
     ],
     "name:zho_x_preferred":[
         "\u514b\u840a\u6ce2\u723e"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421171167,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1562867031,
     "wof:name":"Claypole",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

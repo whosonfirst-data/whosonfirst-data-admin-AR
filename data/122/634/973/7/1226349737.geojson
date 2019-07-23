@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "General Capdevila"
+    ],
+    "name:ita_x_preferred":[
+        "General Capdevila"
+    ],
+    "name:por_x_preferred":[
+        "General Capdevila"
+    ],
+    "name:spa_x_preferred":[
+        "General Capdevila"
+    ],
+    "name:swe_x_preferred":[
+        "General Capdevila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226349737,
-    "wof:lastmodified":1537486334,
+    "wof:lastmodified":1562867411,
     "wof:name":"General Capdevila",
     "wof:parent_id":1108718195,
     "wof:placetype":"locality",

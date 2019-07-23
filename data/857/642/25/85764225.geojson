@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000489,
-    "geom:area_square_m":4969226.562032,
+    "geom:area_square_m":4969226.562042,
     "geom:bbox":"-58.4349230922,-34.6620553235,-58.4008336802,-34.638099355",
     "geom:latitude":-34.650544,
     "geom:longitude":-58.418853,
@@ -29,8 +29,14 @@
     "name:deu_x_preferred":[
         "Nueva Pompeya"
     ],
+    "name:eng_x_preferred":[
+        "Nueva Pompeya"
+    ],
     "name:fra_x_preferred":[
         "Nueva Pompeya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0565\u057e\u0561 \u054a\u0578\u0574\u057a\u0565\u0575\u0561"
     ],
     "name:ita_x_preferred":[
         "Nueva Pompeya"
@@ -120,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659282,
+    "wof:lastmodified":1562865722,
     "wof:name":"Nueva Pompeya",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

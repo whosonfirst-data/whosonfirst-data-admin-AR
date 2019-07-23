@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tranquitas"
+    ],
+    "name:spa_x_preferred":[
+        "Tranquitas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209683969,
-    "wof:lastmodified":1537486305,
+    "wof:lastmodified":1562866103,
     "wof:name":"Tranquitas",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

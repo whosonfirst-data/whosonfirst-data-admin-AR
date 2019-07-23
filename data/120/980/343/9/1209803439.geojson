@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dorila"
+    ],
+    "name:por_x_preferred":[
+        "Dorila"
+    ],
+    "name:spa_x_preferred":[
+        "Dorila"
+    ],
+    "name:swe_x_preferred":[
+        "Dorila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209803439,
-    "wof:lastmodified":1537486340,
+    "wof:lastmodified":1562866137,
     "wof:name":"Dorila",
     "wof:parent_id":421175285,
     "wof:placetype":"locality",

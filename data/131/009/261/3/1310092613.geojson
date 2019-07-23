@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tilimuqui"
+    ],
+    "name:spa_x_preferred":[
+        "Tilimuqui"
+    ],
+    "name:swe_x_preferred":[
+        "Tilimuqui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310092613,
-    "wof:lastmodified":1537486305,
+    "wof:lastmodified":1562866359,
     "wof:name":"Tilimuqui",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

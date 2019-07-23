@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:som_x_preferred":[
+        "Garre"
+    ],
     "name:und_x_variant":[
         "Zubillaga",
         "Papin",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276990595,
-    "wof:lastmodified":1537584875,
+    "wof:lastmodified":1562866009,
     "wof:name":"Garre",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

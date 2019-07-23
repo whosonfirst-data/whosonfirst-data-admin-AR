@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Talita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310576339,
-    "wof:lastmodified":1537486306,
+    "wof:lastmodified":1562866408,
     "wof:name":"Talita",
     "wof:parent_id":421189001,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0947\u0932\u0947\u0935"
     ],
+    "name:mlg_x_preferred":[
+        "Trelew"
+    ],
     "name:msa_x_preferred":[
         "Trelew"
     ],
@@ -133,6 +136,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd9\u0dc0\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Trelew"
     ],
     "name:spa_x_preferred":[
         "Trelew"
@@ -309,7 +315,7 @@
         }
     ],
     "wof:id":421197583,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1562866917,
     "wof:name":"Trelew",
     "wof:parent_id":421172183,
     "wof:placetype":"locality",

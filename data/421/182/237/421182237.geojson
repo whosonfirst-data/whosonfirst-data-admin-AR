@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Tanti"
+    ],
     "name:deu_x_preferred":[
         "Tanti"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421182237,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867017,
     "wof:name":"Tanti",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

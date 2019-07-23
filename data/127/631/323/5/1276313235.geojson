@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuip\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Cuip\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Cuip\u00e1n"
+    ],
     "name:und_x_variant":[
         "Cuip\u00e1n"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276313235,
-    "wof:lastmodified":1537584887,
+    "wof:lastmodified":1562866026,
     "wof:name":"Cuipan",
     "wof:parent_id":1108718349,
     "wof:placetype":"locality",

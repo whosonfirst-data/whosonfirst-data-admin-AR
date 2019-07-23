@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09cd\u09aa\u09be\u09b0\u09b2\u09c7"
     ],
+    "name:ces_x_preferred":[
+        "Temperley"
+    ],
     "name:dan_x_preferred":[
         "Temperley"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421178163,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867007,
     "wof:name":"Temperley",
     "wof:parent_id":421204047,
     "wof:placetype":"locality",

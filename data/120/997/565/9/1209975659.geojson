@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel Arnold"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Arnold"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Arnold"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209975659,
-    "wof:lastmodified":1537486341,
+    "wof:lastmodified":1562866057,
     "wof:name":"Coronel Arnold",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

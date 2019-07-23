@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Berna"
+    ],
     "name:eng_x_preferred":[
         "Villa Berna"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421181999,
-    "wof:lastmodified":1561793245,
+    "wof:lastmodified":1562866773,
     "wof:name":"Villa Berna",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

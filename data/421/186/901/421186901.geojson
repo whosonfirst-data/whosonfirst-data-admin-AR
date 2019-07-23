@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Susques"
     ],
+    "name:lit_x_preferred":[
+        "Suskesas"
+    ],
     "name:nld_x_preferred":[
         "Susques"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421186901,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866755,
     "wof:name":"Susques",
     "wof:parent_id":421171265,
     "wof:placetype":"locality",

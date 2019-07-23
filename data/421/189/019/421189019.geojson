@@ -50,6 +50,9 @@
     "name:eng_x_variant":[
         "Empedrado"
     ],
+    "name:fra_x_preferred":[
+        "Empedrado"
+    ],
     "name:ita_x_preferred":[
         "Empedrado"
     ],
@@ -60,6 +63,9 @@
         "Empedrado"
     ],
     "name:spa_x_preferred":[
+        "Empedrado"
+    ],
+    "name:swe_x_preferred":[
         "Empedrado"
     ],
     "qs:gn_country":null,
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421189019,
-    "wof:lastmodified":1560898145,
+    "wof:lastmodified":1562866724,
     "wof:name":"Empedrado",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coronel Cornejo"
+    ],
+    "name:spa_x_preferred":[
+        "Coronel Cornejo"
+    ],
+    "name:swe_x_preferred":[
+        "Coronel Cornejo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226113799,
-    "wof:lastmodified":1537486341,
+    "wof:lastmodified":1562867407,
     "wof:name":"Coronel Cornejo",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

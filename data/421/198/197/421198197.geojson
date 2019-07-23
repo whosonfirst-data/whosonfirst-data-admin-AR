@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "d\u00e9partement de Pocito"
     ],
+    "name:fra_x_variant":[
+        "Pocito"
+    ],
     "name:hun_x_preferred":[
         "Pocito megye"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:por_x_preferred":[
         "Pocito"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0438\u0442\u043e"
     ],
     "name:slk_x_preferred":[
         "Pocito"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421198197,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1562866813,
     "wof:name":"Pocito",
     "wof:parent_id":421203709,
     "wof:placetype":"locality",

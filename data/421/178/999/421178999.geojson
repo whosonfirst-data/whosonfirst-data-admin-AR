@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Cachi"
     ],
+    "name:eus_x_preferred":[
+        "Cachi"
+    ],
     "name:fra_x_preferred":[
         "Cachi"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421178999,
-    "wof:lastmodified":1561793259,
+    "wof:lastmodified":1562867001,
     "wof:name":"Cach\u00ed",
     "wof:parent_id":421166803,
     "wof:placetype":"locality",

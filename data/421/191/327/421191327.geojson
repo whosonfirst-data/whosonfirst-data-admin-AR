@@ -49,8 +49,14 @@
     "name:oci_x_preferred":[
         "Jes\u00fas Mar\u00eda"
     ],
+    "name:pol_x_preferred":[
+        "Jes\u00fas Mar\u00eda"
+    ],
     "name:por_x_preferred":[
         "Jes\u00fas Mar\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0441\u0443\u0441-\u041c\u0430\u0440\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "Jes\u00fas Mar\u00eda"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421191327,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866902,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

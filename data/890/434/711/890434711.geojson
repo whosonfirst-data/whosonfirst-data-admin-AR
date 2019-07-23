@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
+    "name:ceb_x_preferred":[
+        "Ingeniero Guillermo N. Ju\u00e1rez"
+    ],
     "name:deu_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
@@ -34,6 +37,9 @@
         "Ingeniero Ju\u00e1rez"
     ],
     "name:oci_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
+    "name:pol_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
     "name:por_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890434711,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867132,
     "wof:name":"Ingeniero Guillermo N. Ju\u00e1rez",
     "wof:parent_id":1108718265,
     "wof:placetype":"locality",

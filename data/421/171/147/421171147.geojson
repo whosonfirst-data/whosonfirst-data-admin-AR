@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
+    "name:dan_x_preferred":[
+        "Capit\u00e1n Berm\u00fadez"
+    ],
     "name:eng_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
@@ -34,8 +37,14 @@
     "name:nld_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
+    "name:pol_x_preferred":[
+        "Capit\u00e1n Berm\u00fadez"
+    ],
     "name:por_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d-\u0411\u0435\u0440\u043c\u0443\u0434\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421171147,
-    "wof:lastmodified":1561793263,
+    "wof:lastmodified":1562867056,
     "wof:name":"Capit\u00e1n Berm\u00fadez",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

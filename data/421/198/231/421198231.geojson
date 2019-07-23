@@ -34,6 +34,9 @@
     "name:por_x_preferred":[
         "San Salvador"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:sco_x_preferred":[
         "San Salvador"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198231,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1562866821,
     "wof:name":"San Salvador",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

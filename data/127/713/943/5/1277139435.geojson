@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Lagunas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lagunas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u06af\u0648\u0646\u0627\u0633"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1277139435,
-    "wof:lastmodified":1537486326,
+    "wof:lastmodified":1562865970,
     "wof:name":"Las Lagunas",
     "wof:parent_id":1108718447,
     "wof:placetype":"locality",

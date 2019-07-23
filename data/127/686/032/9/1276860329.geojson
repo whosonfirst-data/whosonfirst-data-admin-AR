@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cat\u00faa"
+    ],
+    "name:ita_x_preferred":[
+        "Catua"
+    ],
+    "name:spa_x_preferred":[
+        "Catua"
+    ],
+    "name:swe_x_preferred":[
+        "Cat\u00faa"
+    ],
     "name:und_x_variant":[
         "Cat\u00faa"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276860329,
-    "wof:lastmodified":1537584895,
+    "wof:lastmodified":1562865924,
     "wof:name":"Catua",
     "wof:parent_id":421171265,
     "wof:placetype":"locality",

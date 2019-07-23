@@ -43,6 +43,15 @@
     "name:eng_x_variant":[
         "General Lavalle"
     ],
+    "name:nld_x_preferred":[
+        "General Lavalle"
+    ],
+    "name:sco_x_preferred":[
+        "General Lavalle"
+    ],
+    "name:spa_x_preferred":[
+        "General Lavalle"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1108717957,
-    "wof:lastmodified":1560901505,
+    "wof:lastmodified":1562866282,
     "wof:name":"General Lavalle",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

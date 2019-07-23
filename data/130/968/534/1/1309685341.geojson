@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Negra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041d\u0435\u0433\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Negra"
+    ],
     "name:und_x_variant":[
         "Estancia La Negra",
         "La Negra"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309685341,
-    "wof:lastmodified":1537584865,
+    "wof:lastmodified":1562866487,
     "wof:name":"La Negra",
     "wof:parent_id":1108718377,
     "wof:placetype":"locality",

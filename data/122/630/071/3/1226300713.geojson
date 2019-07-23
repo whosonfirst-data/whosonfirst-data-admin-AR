@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Ralos"
+    ],
+    "name:ita_x_preferred":[
+        "Los Ralos"
+    ],
+    "name:nld_x_preferred":[
+        "Los Ralos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Ralos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226300713,
-    "wof:lastmodified":1537486323,
+    "wof:lastmodified":1562867469,
     "wof:name":"Los Ralos",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

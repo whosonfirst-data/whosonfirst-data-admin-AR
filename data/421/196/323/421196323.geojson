@@ -31,6 +31,9 @@
     "name:por_x_preferred":[
         "Oncativo"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u043a\u0430\u0442\u0438\u0432\u043e"
+    ],
     "name:spa_x_preferred":[
         "Oncativo"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421196323,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866847,
     "wof:name":"Oncativo",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Colonia Julia y Echarren"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Juli\u00e1 y Echarren"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Julia y Echarren"
+    ],
     "name:und_x_variant":[
         "Colonia J. y Echarren",
         "Colonia Julia y Echarren"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343631029,
-    "wof:lastmodified":1537584891,
+    "wof:lastmodified":1562865611,
     "wof:name":"Colonia Julia y Echarren",
     "wof:parent_id":1108718393,
     "wof:placetype":"locality",

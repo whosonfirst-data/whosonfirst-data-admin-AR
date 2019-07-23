@@ -103,6 +103,9 @@
     "name:lit_x_preferred":[
         "Vjedma"
     ],
+    "name:lit_x_variant":[
+        "Viedma"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u093f\u0926\u094d\u092e\u093e"
     ],
@@ -160,11 +163,17 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e35\u0e22\u0e14\u0e21\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e34\u0e40\u0e2d\u0e14\u0e21\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Viedma"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0454\u0434\u043c\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412'\u0454\u0434\u043c\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0688\u06cc\u0645\u0627"
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":421186917,
-    "wof:lastmodified":1561793244,
+    "wof:lastmodified":1562866771,
     "wof:name":"Viedma",
     "wof:parent_id":421186207,
     "wof:placetype":"locality",

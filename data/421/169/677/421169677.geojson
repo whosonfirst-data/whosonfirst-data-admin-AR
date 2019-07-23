@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Cebil Redondo"
     ],
+    "name:spa_x_variant":[
+        "Cevil Redondo"
+    ],
     "name:swe_x_preferred":[
         "Cevil Redondo"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421169677,
-    "wof:lastmodified":1561793231,
+    "wof:lastmodified":1562866612,
     "wof:name":"Cevil Redondo",
     "wof:parent_id":421204063,
     "wof:placetype":"locality",

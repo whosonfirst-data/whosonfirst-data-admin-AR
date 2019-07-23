@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09a8\u09cd\u09b8\u09c7\u09a8\u09cd\u09a4 \u09b2\u09cb\u09aa\u09c7\u099c"
     ],
+    "name:ceb_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
     "name:ces_x_preferred":[
         "Vicente L\u00f3pez"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Vicente L\u00f2pez"
+    ],
+    "name:ita_x_variant":[
+        "Vicente L\u00f3pez"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30bb\u30f3\u30c6\u30fb\u30ed\u30da\u30b9"
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421186903,
-    "wof:lastmodified":1561793244,
+    "wof:lastmodified":1562866762,
     "wof:name":"Vicente L\u00f3pez",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

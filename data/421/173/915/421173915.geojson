@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Pilar"
     ],
+    "name:epo_x_preferred":[
+        "Pilar"
+    ],
     "name:fra_x_preferred":[
         "Pilar"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:por_x_preferred":[
         "Pilar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b\u0430\u0440"
     ],
     "name:spa_x_preferred":[
         "Pilar"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421173915,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866713,
     "wof:name":"Pilar",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

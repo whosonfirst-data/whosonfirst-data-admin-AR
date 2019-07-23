@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Mina Clavero"
     ],
+    "name:ceb_x_preferred":[
+        "Mina Clavero"
+    ],
     "name:deu_x_preferred":[
         "Mina Clavero"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:por_x_preferred":[
         "Mina Clavero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0430-\u041a\u043b\u0430\u0432\u0435\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "Mina Clavero"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890414221,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867087,
     "wof:name":"Mina Clavero",
     "wof:parent_id":421198475,
     "wof:placetype":"locality",

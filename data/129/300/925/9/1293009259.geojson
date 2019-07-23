@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Castillos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Castillos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Castillos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293009259,
-    "wof:lastmodified":1537486324,
+    "wof:lastmodified":1562865793,
     "wof:name":"Los Castillos",
     "wof:parent_id":1108718141,
     "wof:placetype":"locality",

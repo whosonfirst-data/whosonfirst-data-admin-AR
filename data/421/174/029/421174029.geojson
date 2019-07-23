@@ -13,13 +13,226 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Marcos Paz"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0643\u0648\u0633 \u0628\u0627\u0632"
+    ],
+    "name:arg_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ast_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:bam_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:bar_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:bre_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:cat_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ces_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:cos_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:cym_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:dan_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:deu_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03ba\u03bf\u03c2 \u03a0\u03b1\u03b6"
+    ],
+    "name:eng_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:epo_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:est_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:eus_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:fin_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:fra_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:frc_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:frp_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:fur_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:gla_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:gle_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:glg_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:gsw_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e7\u05d5\u05e1 \u05e4\u05d6"
+    ],
+    "name:hrv_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:hun_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ido_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ile_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ina_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ind_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ita_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:jam_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b3\u30b9\u30fb\u30d1\u30b9"
+    ],
+    "name:kab_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:kon_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:lav_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:lij_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:lim_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:lit_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:lit_x_variant":[
+        "Markos Pasas"
+    ],
+    "name:ltz_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:min_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:mlg_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:msa_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:nap_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:nds_x_preferred":[
+        "Marcos Paz"
     ],
     "name:nld_x_preferred":[
         "Marcos Paz"
     ],
+    "name:nno_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:nob_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:nrm_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:oci_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:pap_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:pcd_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:pms_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:pol_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:por_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:prg_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:rgn_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:roh_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:ron_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0441-\u041f\u0430\u0441"
+    ],
+    "name:scn_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:sco_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:slk_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:slv_x_preferred":[
+        "Marcos Paz"
+    ],
     "name:spa_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:srd_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:swa_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:swe_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:tur_x_preferred":[
         "Marcos Paz"
     ],
     "name:ukr_x_preferred":[
@@ -27,6 +240,33 @@
     ],
     "name:unk_x_variant":[
         "M. Paz"
+    ],
+    "name:vec_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:vie_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:vls_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:vmf_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:vol_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:wln_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:wol_x_preferred":[
+        "Marcos Paz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Marcos Paz"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -75,7 +315,7 @@
         }
     ],
     "wof:id":421174029,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1562866685,
     "wof:name":"Marcos Paz",
     "wof:parent_id":1108718021,
     "wof:placetype":"locality",

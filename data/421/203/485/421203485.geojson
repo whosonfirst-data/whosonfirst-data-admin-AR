@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Fiorito"
+    ],
+    "name:fra_x_preferred":[
+        "Fiorito"
+    ],
+    "name:ita_x_preferred":[
+        "Fiorito"
+    ],
     "name:spa_x_preferred":[
         "Fiorito"
     ],
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":421203485,
-    "wof:lastmodified":1501266406,
+    "wof:lastmodified":1562866643,
     "wof:name":"Fiorito",
     "wof:parent_id":421204047,
     "wof:placetype":"locality",

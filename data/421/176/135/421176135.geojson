@@ -16,7 +16,16 @@
     "name:ceb_x_preferred":[
         "Las Flores"
     ],
+    "name:eng_x_preferred":[
+        "Las Flores"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30d5\u30ed\u30ec\u30b9"
+    ],
     "name:nld_x_preferred":[
+        "Las Flores"
+    ],
+    "name:pol_x_preferred":[
         "Las Flores"
     ],
     "name:por_x_preferred":[
@@ -24,6 +33,12 @@
     ],
     "name:spa_x_preferred":[
         "Las Flores"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0424\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5f17\u6d1b\u96f7\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":421176135,
-    "wof:lastmodified":1527726467,
+    "wof:lastmodified":1562867020,
     "wof:name":"Las Flores",
     "wof:parent_id":1108717997,
     "wof:placetype":"locality",

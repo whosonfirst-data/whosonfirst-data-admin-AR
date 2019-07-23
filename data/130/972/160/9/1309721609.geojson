@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gahan"
+    ],
+    "name:fra_x_preferred":[
+        "Gahan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1309721609,
-    "wof:lastmodified":1537050269,
+    "wof:lastmodified":1562866504,
     "wof:name":"Gahan",
     "wof:parent_id":1108718085,
     "wof:placetype":"locality",

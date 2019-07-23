@@ -14,14 +14,23 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Reconquista"
+    ],
     "name:als_x_preferred":[
         "Reconquista"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0642\u0648\u0637 \u0627\u0644\u0623\u0646\u062f\u0644\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0643\u0648\u0646\u0643\u064a\u0633\u062a\u0627"
+    ],
     "name:arg_x_preferred":[
         "Reconquiesta"
+    ],
+    "name:arg_x_variant":[
+        "Reconquista"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0627\u0633\u062a\u0631\u062f\u0627\u062f"
@@ -53,6 +62,9 @@
     "name:cat_x_preferred":[
         "Reconquesta"
     ],
+    "name:cat_x_variant":[
+        "Reconquista"
+    ],
     "name:ces_x_preferred":[
         "Reconquista"
     ],
@@ -67,6 +79,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03b9\u03ba\u03ae \u03b1\u03bd\u03b1\u03ba\u03b1\u03c4\u03ac\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0399\u03b2\u03b7\u03c1\u03b9\u03ba\u03ae\u03c2 \u03c7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b5\u03ba\u03bf\u03bd\u03ba\u03af\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Reconquista"
@@ -84,7 +99,8 @@
         "\u0628\u0627\u0632\u067e\u0633\u200c\u06af\u06cc\u0631\u06cc \u0622\u0646\u062f\u0644\u0633"
     ],
     "name:fas_x_variant":[
-        "\u0631\u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627"
+        "\u0631\u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627",
+        "\u0628\u0627\u0632\u067e\u0633\u200c\u06af\u06cc\u0631\u06cc \u0627\u0646\u062f\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "Reconquista"
@@ -95,8 +111,14 @@
     "name:fry_x_preferred":[
         "Rekonkwista"
     ],
+    "name:fry_x_variant":[
+        "Reconquista"
+    ],
     "name:gle_x_preferred":[
         "An Athghabh\u00e1il"
+    ],
+    "name:gle_x_variant":[
+        "Reconquista"
     ],
     "name:glg_x_preferred":[
         "Reconquista"
@@ -143,6 +165,9 @@
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10d9\u10dd\u10dc\u10d9\u10d8\u10e1\u10e2\u10d0"
     ],
+    "name:kir_x_preferred":[
+        "\u0420\u0435\u043a\u043e\u043d\u043a\u0438\u0441\u0442\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ucf69\ud0a4\uc2a4\ud0c0"
     ],
@@ -154,6 +179,9 @@
     ],
     "name:lav_x_preferred":[
         "Rekonkista"
+    ],
+    "name:lfn_x_preferred":[
+        "Reconcista"
     ],
     "name:lit_x_preferred":[
         "Rekonkista"
@@ -179,11 +207,17 @@
     "name:oci_x_preferred":[
         "Reconqu\u00e8sta"
     ],
+    "name:pcd_x_preferred":[
+        "Reconquista"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u062a\u0631\u062f\u0627\u062f"
     ],
     "name:pol_x_preferred":[
         "Rekonkwista"
+    ],
+    "name:pol_x_variant":[
+        "Reconquista"
     ],
     "name:por_x_preferred":[
         "Reconquista"
@@ -232,6 +266,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u062a\u0631\u062f\u0627\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Rekonkista"
     ],
     "name:vie_x_preferred":[
         "Reconquista"
@@ -390,7 +427,7 @@
         }
     ],
     "wof:id":421174653,
-    "wof:lastmodified":1561793238,
+    "wof:lastmodified":1562866694,
     "wof:name":"Reconquista",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

@@ -38,11 +38,65 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u067e\u0627\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Zapala"
+    ],
+    "name:ces_x_preferred":[
+        "Zapala"
+    ],
+    "name:deu_x_preferred":[
+        "Zapala"
+    ],
     "name:eng_x_preferred":[
         "Zapala"
     ],
     "name:eng_x_variant":[
         "Zapala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u067e\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zapala"
+    ],
+    "name:grn_x_preferred":[
+        "Zapala"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u057a\u0561\u056c\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Zapala"
+    ],
+    "name:lit_x_preferred":[
+        "Sapala"
+    ],
+    "name:nld_x_preferred":[
+        "Zapala"
+    ],
+    "name:pol_x_preferred":[
+        "Zapala"
+    ],
+    "name:por_x_preferred":[
+        "Zapala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u043b\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Zapala"
+    ],
+    "name:spa_x_preferred":[
+        "Zapala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u043b\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5e15\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -102,7 +156,7 @@
         }
     ],
     "wof:id":421191185,
-    "wof:lastmodified":1560898149,
+    "wof:lastmodified":1562866905,
     "wof:name":"Zapala",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

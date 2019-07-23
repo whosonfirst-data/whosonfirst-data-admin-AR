@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quir\u00f3s"
+    ],
+    "name:spa_x_preferred":[
+        "Quir\u00f3s"
+    ],
+    "name:swe_x_preferred":[
+        "Quir\u00f3s"
+    ],
     "name:und_x_variant":[
         "La Uni\u00f3n",
         "Quir\u00f3s"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259792251,
-    "wof:lastmodified":1537584845,
+    "wof:lastmodified":1562867317,
     "wof:name":"Quiros",
     "wof:parent_id":1108718153,
     "wof:placetype":"locality",

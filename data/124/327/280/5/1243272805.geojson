@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tat\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Tat\u00f3n"
+    ],
     "name:und_x_variant":[
         "Tat\u00f3n"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243272805,
-    "wof:lastmodified":1537584836,
+    "wof:lastmodified":1562867270,
     "wof:name":"Taton",
     "wof:parent_id":1108718161,
     "wof:placetype":"locality",

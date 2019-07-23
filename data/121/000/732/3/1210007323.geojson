@@ -26,9 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Las Moscas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Moscas"
+    ],
     "name:und_x_variant":[
         "Las Moscas",
         "Pueblo Moscas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0645\u0648\u0633\u06a9\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1210007323,
-    "wof:lastmodified":1537584818,
+    "wof:lastmodified":1562866161,
     "wof:name":"Pueblo Moscas",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

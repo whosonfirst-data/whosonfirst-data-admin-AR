@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Traill"
+    ],
+    "name:por_x_preferred":[
+        "Traill"
+    ],
     "name:und_x_variant":[
         "Traili",
         "Traill"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276183597,
-    "wof:lastmodified":1537584835,
+    "wof:lastmodified":1562865944,
     "wof:name":"Traill",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

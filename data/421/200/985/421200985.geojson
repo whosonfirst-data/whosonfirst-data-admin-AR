@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Trenque Lauquen"
     ],
+    "name:ceb_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:dan_x_preferred":[
+        "Trenque Lauquen"
+    ],
     "name:eng_x_preferred":[
         "Trenque Lauquen"
     ],
@@ -44,6 +50,9 @@
         "Trenque Lauquen"
     ],
     "name:oci_x_preferred":[
+        "Trenque Lauquen"
+    ],
+    "name:pol_x_preferred":[
         "Trenque Lauquen"
     ],
     "name:por_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421200985,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1562866935,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
-    "geom:area_square_m":6852564.171712,
+    "geom:area_square_m":6852564.17171,
     "geom:bbox":"-58.4627046323,-34.6306390991,-58.4267558142,-34.6026734569",
     "geom:latitude":-34.616825,
     "geom:longitude":-58.443603,
@@ -29,11 +29,53 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Caballito"
+    ],
+    "name:deu_x_preferred":[
+        "Caballito"
+    ],
+    "name:eng_x_preferred":[
+        "Caballito"
+    ],
+    "name:epo_x_preferred":[
+        "Caballito"
+    ],
+    "name:fra_x_preferred":[
+        "Caballito"
+    ],
+    "name:glg_x_preferred":[
+        "Caballito"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d6'\u05d9\u05d8\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0562\u0561\u056c\u0575\u056b\u057f\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Caballito"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30b8\u30fc\u30c8"
     ],
+    "name:lat_x_preferred":[
+        "Caballito"
+    ],
     "name:lit_x_preferred":[
         "Kabaljitas"
+    ],
+    "name:nld_x_preferred":[
+        "Caballito"
+    ],
+    "name:oci_x_preferred":[
+        "Caballito"
+    ],
+    "name:por_x_preferred":[
+        "Caballito"
+    ],
+    "name:ron_x_preferred":[
+        "Caballito"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0431\u0430\u043b\u044c\u0438\u0442\u043e"
@@ -125,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1562865732,
     "wof:name":"Caballito",
     "wof:parent_id":1109371861,
     "wof:placetype":"neighbourhood",

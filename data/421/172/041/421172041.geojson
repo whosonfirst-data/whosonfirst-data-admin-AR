@@ -20,6 +20,12 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0644\u0633\u06cc\u062a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Chilecito"
+    ],
+    "name:ces_x_preferred":[
+        "Chilecito"
+    ],
     "name:deu_x_preferred":[
         "Chilecito"
     ],
@@ -34,6 +40,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d9\u05dc\u05e1\u05d9\u05d8\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05d9\u05dc\u05e1\u05d9\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Chilecito"
     ],
     "name:hye_x_preferred":[
         "\u0549\u056b\u056c\u0565\u057d\u056b\u057f\u0578"
@@ -67,6 +79,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043b\u0435\u0441\u0456\u0442\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u043b\u0435\u0441\u0456\u0442\u043e"
     ],
     "name:zho_x_preferred":[
         "\u5947\u840a\u897f\u6258"
@@ -216,7 +231,7 @@
         }
     ],
     "wof:id":421172041,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866738,
     "wof:name":"Chilecito",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

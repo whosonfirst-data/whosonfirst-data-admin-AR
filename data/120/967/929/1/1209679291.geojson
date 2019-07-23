@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Agust\u00edn"
+    ],
     "name:und_x_variant":[
         "San Agust\u00edn"
     ],
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209679291,
-    "wof:lastmodified":1537584843,
+    "wof:lastmodified":1562866112,
     "wof:name":"San Agustin",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

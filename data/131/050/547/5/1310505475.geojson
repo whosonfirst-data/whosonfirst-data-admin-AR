@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "M\u00e1ximo Fern\u00e1ndez"
+    ],
     "name:und_x_variant":[
         "M. Fern\u00e1ndez",
         "M\u00e1ximo Fern\u00e1ndez"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310505475,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1562866407,
     "wof:name":"Maximo Fernandez",
     "wof:parent_id":1108717881,
     "wof:placetype":"locality",

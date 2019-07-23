@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Sastre"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u0442\u0440\u0435"
+    ],
     "name:spa_x_preferred":[
         "Sastre y Ortiz"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421196025,
-    "wof:lastmodified":1561793249,
+    "wof:lastmodified":1562866836,
     "wof:name":"Sastre",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

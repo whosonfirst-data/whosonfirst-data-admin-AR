@@ -25,6 +25,9 @@
     "name:por_x_preferred":[
         "Ezpeleta"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0435\u043b\u0435\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "Ezpeleta"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421186479,
-    "wof:lastmodified":1561793243,
+    "wof:lastmodified":1562866758,
     "wof:name":"Ezpeleta",
     "wof:parent_id":1108718067,
     "wof:placetype":"locality",

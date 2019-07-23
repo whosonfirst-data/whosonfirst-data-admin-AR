@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Recalde"
+    ],
+    "name:pol_x_preferred":[
+        "Recalde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293214647,
-    "wof:lastmodified":1536683236,
+    "wof:lastmodified":1562865904,
     "wof:name":"Recalde",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Romang"
+    ],
+    "name:fra_x_preferred":[
+        "Romang"
+    ],
+    "name:nld_x_preferred":[
+        "Romang"
+    ],
+    "name:por_x_preferred":[
+        "Romang"
+    ],
+    "name:spa_x_preferred":[
+        "Romang"
+    ],
     "name:und_x_variant":[
         "Colonia Romang",
         "Romang"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260246319,
-    "wof:lastmodified":1537584816,
+    "wof:lastmodified":1562866196,
     "wof:name":"Romang",
     "wof:parent_id":1108718459,
     "wof:placetype":"locality",

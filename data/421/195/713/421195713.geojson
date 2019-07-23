@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Astra"
+    ],
     "name:ceb_x_preferred":[
         "Astra"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421195713,
-    "wof:lastmodified":1561793223,
+    "wof:lastmodified":1562866550,
     "wof:name":"Astra",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

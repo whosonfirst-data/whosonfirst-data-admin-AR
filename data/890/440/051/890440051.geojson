@@ -15,6 +15,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Colonia Bar\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "Colonia Bar\u00f3n"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890440051,
-    "wof:lastmodified":1561793265,
+    "wof:lastmodified":1562867083,
     "wof:name":"Colonia Bar\u00f3n",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

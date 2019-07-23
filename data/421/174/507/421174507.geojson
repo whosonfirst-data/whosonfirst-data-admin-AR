@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "San Isidro"
     ],
+    "name:pol_x_preferred":[
+        "San Isidro"
+    ],
     "name:por_x_preferred":[
         "San Isidro"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421174507,
-    "wof:lastmodified":1561793237,
+    "wof:lastmodified":1562866680,
     "wof:name":"San Isidro",
     "wof:parent_id":421189013,
     "wof:placetype":"locality",

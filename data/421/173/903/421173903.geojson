@@ -16,19 +16,43 @@
     "name:cat_x_preferred":[
         "Bermejo"
     ],
+    "name:ceb_x_preferred":[
+        "Bermejo"
+    ],
+    "name:deu_x_preferred":[
+        "Bermejo"
+    ],
     "name:eng_x_preferred":[
+        "Bermejo"
+    ],
+    "name:fra_x_preferred":[
         "Bermejo"
     ],
     "name:glg_x_preferred":[
         "Bermejo"
     ],
+    "name:hrv_x_preferred":[
+        "Bermejo"
+    ],
+    "name:ita_x_preferred":[
+        "Bermejo"
+    ],
     "name:nld_x_preferred":[
+        "Bermejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043c\u0435\u0445\u043e"
+    ],
+    "name:slk_x_preferred":[
         "Bermejo"
     ],
     "name:spa_x_preferred":[
         "El Bermejo"
     ],
     "name:spa_x_variant":[
+        "Bermejo"
+    ],
+    "name:swe_x_preferred":[
         "Bermejo"
     ],
     "qs:gn_country":"AR",
@@ -76,7 +100,7 @@
         }
     ],
     "wof:id":421173903,
-    "wof:lastmodified":1561793240,
+    "wof:lastmodified":1562866717,
     "wof:name":"Bermejo",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

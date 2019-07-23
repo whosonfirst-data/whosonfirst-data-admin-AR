@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Ronda"
+    ],
+    "name:spa_x_preferred":[
+        "La Ronda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0631\u0648\u0646\u0688\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310099423,
-    "wof:lastmodified":1537004523,
+    "wof:lastmodified":1562866360,
     "wof:name":"La Ronda",
     "wof:parent_id":1108718279,
     "wof:placetype":"locality",

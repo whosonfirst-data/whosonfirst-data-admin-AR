@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "General Acha"
     ],
+    "name:ceb_x_preferred":[
+        "General Acha"
+    ],
     "name:deu_x_preferred":[
         "General Acha"
     ],
@@ -37,6 +40,9 @@
         "General Acha"
     ],
     "name:oci_x_preferred":[
+        "General Acha"
+    ],
+    "name:pol_x_preferred":[
         "General Acha"
     ],
     "name:por_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890445127,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1562867127,
     "wof:name":"General Acha",
     "wof:parent_id":1108718319,
     "wof:placetype":"locality",

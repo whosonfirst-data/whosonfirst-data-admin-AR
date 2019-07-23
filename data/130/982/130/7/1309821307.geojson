@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gandara"
+    ],
+    "name:deu_x_preferred":[
+        "Gandara"
+    ],
+    "name:por_x_preferred":[
+        "G\u00e2ndara"
+    ],
+    "name:spa_x_preferred":[
+        "Gandara"
+    ],
+    "name:swe_x_preferred":[
+        "Gandara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1309821307,
-    "wof:lastmodified":1536909034,
+    "wof:lastmodified":1562866484,
     "wof:name":"Gandara",
     "wof:parent_id":1108717915,
     "wof:placetype":"locality",

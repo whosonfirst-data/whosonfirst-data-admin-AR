@@ -37,11 +37,41 @@
     "mps:longitude":-67.912737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:deu_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bd\u03bf\u03b3\u03ac\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Tinogasta"
     ],
     "name:eng_x_variant":[
         "Tinogasta"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0646\u0648\u06af\u0627\u0633\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:ita_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:nld_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:pol_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:spa_x_preferred":[
+        "Tinogasta"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u8afe\u52a0\u65af\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":1108718161,
-    "wof:lastmodified":1560898127,
+    "wof:lastmodified":1562866249,
     "wof:name":"Tinogasta",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

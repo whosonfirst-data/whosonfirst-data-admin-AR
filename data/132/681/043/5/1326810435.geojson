@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guandacol"
+    ],
+    "name:ita_x_preferred":[
+        "Guandacol"
+    ],
+    "name:spa_x_preferred":[
+        "Guandacol"
+    ],
+    "name:swe_x_preferred":[
+        "Guandacol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326810435,
-    "wof:lastmodified":1537486333,
+    "wof:lastmodified":1562865483,
     "wof:name":"Guandacol",
     "wof:parent_id":421197043,
     "wof:placetype":"locality",

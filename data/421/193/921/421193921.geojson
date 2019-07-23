@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Ord\u00f3\u00f1ez"
     ],
+    "name:ceb_x_preferred":[
+        "Ord\u00f3\u00f1ez"
+    ],
     "name:deu_x_preferred":[
         "Ord\u00f3\u00f1ez"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421193921,
-    "wof:lastmodified":1561793229,
+    "wof:lastmodified":1562866594,
     "wof:name":"Ord\u00f3\u00f1ez",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

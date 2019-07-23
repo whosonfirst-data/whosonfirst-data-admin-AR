@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Colpes"
+    ],
+    "name:spa_x_preferred":[
+        "Colpes"
+    ],
     "name:und_x_variant":[
         "Golpes",
         "Colpes"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327440175,
-    "wof:lastmodified":1537584889,
+    "wof:lastmodified":1562865574,
     "wof:name":"Colpes",
     "wof:parent_id":1108718155,
     "wof:placetype":"locality",

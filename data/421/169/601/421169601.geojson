@@ -17,6 +17,15 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0643\u0648\u0627\u0631\u062a\u0648\u060c \u0642\u0631\u0637\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0648 \u0643\u0648\u0627\u0631\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0648 \u06a9\u0648\u0627\u0631\u062a\u0648"
+    ],
     "name:aze_x_preferred":[
         "Rio-Kuarto"
     ],
@@ -30,6 +39,9 @@
         "R\u00edo Cuarto"
     ],
     "name:ceb_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
+    "name:ces_x_preferred":[
         "R\u00edo Cuarto"
     ],
     "name:dan_x_preferred":[
@@ -68,6 +80,9 @@
     "name:hin_x_preferred":[
         "\u0930\u093f\u092f\u094b \u0915\u094d\u0935\u093e\u0930\u094d\u091f\u094b"
     ],
+    "name:hun_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u0578 \u053f\u0578\u0582\u0561\u0580\u057f\u0578"
     ],
@@ -101,6 +116,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0913 \u0915\u0941\u0906\u0930\u094d\u091f\u094b"
     ],
+    "name:mlg_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
     "name:msa_x_preferred":[
         "Rio Cuarto"
     ],
@@ -125,11 +143,17 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd2\u0dba\u0ddd \u0d9a\u0ddc\u0dbb\u0dca\u0da7\u0ddd"
     ],
+    "name:slk_x_preferred":[
+        "R\u00edo Cuarto"
+    ],
     "name:slv_x_preferred":[
         "R\u00edo Cuarto"
     ],
     "name:spa_x_preferred":[
         "Ciudad de R\u00edo Cuarto"
+    ],
+    "name:spa_x_variant":[
+        "R\u00edo Cuarto"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u043e \u041a\u0432\u0430\u0440\u0442\u043e"
@@ -148,6 +172,9 @@
     ],
     "name:tur_x_preferred":[
         "Rio Cuarto"
+    ],
+    "name:tur_x_variant":[
+        "R\u00edo Cuarto"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u041a\u0432\u0430\u0440\u0442\u043e"
@@ -304,7 +331,7 @@
         }
     ],
     "wof:id":421169601,
-    "wof:lastmodified":1561793231,
+    "wof:lastmodified":1562866613,
     "wof:name":"R\u00edo Cuarto",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

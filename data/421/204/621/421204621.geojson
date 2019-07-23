@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Coronel Su\u00e1rez"
     ],
+    "name:ceb_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
     "name:dan_x_preferred":[
         "Coronel Su\u00e1rez"
     ],
@@ -50,6 +53,9 @@
     "name:nob_x_preferred":[
         "Coronel Su\u00e1rez"
     ],
+    "name:pol_x_preferred":[
+        "Coronel Su\u00e1rez"
+    ],
     "name:por_x_preferred":[
         "Coronel Su\u00e1rez"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0421\u0443\u0430\u0440\u0435\u0437"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c-\u0421\u0443\u0430\u0440\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Coronel Su\u00e1rez"
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":421204621,
-    "wof:lastmodified":1561793231,
+    "wof:lastmodified":1562866621,
     "wof:name":"Coronel Su\u00e1rez",
     "wof:parent_id":1108717909,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Trinidad"
+    ],
+    "name:spa_x_preferred":[
+        "Ingenio La Trinidad"
+    ],
     "name:und_x_variant":[
         "Ingenio La Trin\u00eddad",
         "La Trinidad"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293545245,
-    "wof:lastmodified":1537584862,
+    "wof:lastmodified":1562865801,
     "wof:name":"La Trinidad",
     "wof:parent_id":421178317,
     "wof:placetype":"locality",

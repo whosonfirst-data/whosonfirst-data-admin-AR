@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
-    "geom:area_square_m":6406004.564613,
+    "geom:area_square_m":6406004.564614,
     "geom:bbox":"-58.5294689968,-34.6202152152,-58.4971750925,-34.5812681201",
     "geom:latitude":-34.602355,
     "geom:longitude":-58.514282,
@@ -32,8 +32,17 @@
     "name:deu_x_preferred":[
         "Villa Devoto"
     ],
+    "name:eng_x_preferred":[
+        "Villa Devoto"
+    ],
     "name:fra_x_preferred":[
         "Villa Devoto"
+    ],
+    "name:fra_x_variant":[
+        "villa Devoto"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056c\u0561 \u0534\u0587\u0578\u057f\u0578"
     ],
     "name:ita_x_preferred":[
         "Villa Devoto"
@@ -46,6 +55,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Devotas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Devoto"
     ],
     "name:por_x_preferred":[
         "Villa Devoto"
@@ -138,7 +150,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1562865706,
     "wof:name":"Villa Devoto",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

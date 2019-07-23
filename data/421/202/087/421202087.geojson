@@ -16,6 +16,9 @@
     "name:ast_x_preferred":[
         "City Bell"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062a\u06cc \u0628\u0644"
+    ],
     "name:ceb_x_preferred":[
         "City Bell"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421202087,
-    "wof:lastmodified":1561793234,
+    "wof:lastmodified":1562866657,
     "wof:name":"City Bell",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

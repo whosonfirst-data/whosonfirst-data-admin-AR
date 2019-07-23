@@ -26,6 +26,9 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Corrales"
+    ],
     "name:und_x_variant":[
         "Corrales",
         "Los Corrales"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276348415,
-    "wof:lastmodified":1537584860,
+    "wof:lastmodified":1562865951,
     "wof:name":"Los Corrales",
     "wof:parent_id":1108718151,
     "wof:placetype":"locality",

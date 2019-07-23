@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Toscas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Toscas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Toscas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Toscas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1309813157,
-    "wof:lastmodified":1536921001,
+    "wof:lastmodified":1562866499,
     "wof:name":"Las Toscas",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

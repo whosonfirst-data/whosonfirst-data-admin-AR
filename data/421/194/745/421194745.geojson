@@ -22,6 +22,9 @@
     "name:spa_x_preferred":[
         "Punta Bandera"
     ],
+    "name:spa_x_variant":[
+        "Puerto Bandera"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3840115,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421194745,
-    "wof:lastmodified":1561793227,
+    "wof:lastmodified":1562866581,
     "wof:name":"Puerto Bandera",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

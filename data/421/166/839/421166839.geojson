@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Trinidad"
+    ],
     "name:eng_x_preferred":[
         "Villa Trinidad"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421166839,
-    "wof:lastmodified":1561793219,
+    "wof:lastmodified":1562866527,
     "wof:name":"Villa Trinidad",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

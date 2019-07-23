@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Obispo Trejo"
+    ],
     "name:eng_x_preferred":[
         "Obispo Trejo"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421196413,
-    "wof:lastmodified":1561793249,
+    "wof:lastmodified":1562866834,
     "wof:name":"Obispo Trejo",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

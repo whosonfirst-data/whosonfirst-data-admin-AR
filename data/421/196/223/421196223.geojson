@@ -25,6 +25,9 @@
     "name:glg_x_preferred":[
         "El Carril"
     ],
+    "name:ita_x_preferred":[
+        "El Carril"
+    ],
     "name:nld_x_preferred":[
         "El Carril"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421196223,
-    "wof:lastmodified":1561793251,
+    "wof:lastmodified":1562866859,
     "wof:name":"El Carril",
     "wof:parent_id":421204067,
     "wof:placetype":"locality",

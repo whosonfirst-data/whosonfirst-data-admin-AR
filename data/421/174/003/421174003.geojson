@@ -13,8 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Madero"
+    ],
+    "name:epo_x_preferred":[
+        "Madero"
+    ],
+    "name:eus_x_preferred":[
+        "Madero"
+    ],
+    "name:ita_x_preferred":[
+        "Madero"
+    ],
     "name:spa_x_preferred":[
         "Villa Madero"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Madero"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":421174003,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1562866691,
     "wof:name":"Villa Madero",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

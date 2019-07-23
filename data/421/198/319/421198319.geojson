@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:pol_x_preferred":[
+        "Bel\u00e9n"
+    ],
     "name:por_x_preferred":[
         "Bel\u00e9n"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421198319,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1562866826,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":421204045,
     "wof:placetype":"locality",

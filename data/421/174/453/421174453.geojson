@@ -28,6 +28,9 @@
     "name:por_x_preferred":[
         "Melincu\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043d\u043a\u0443\u044d"
+    ],
     "name:spa_x_preferred":[
         "Melincu\u00e9"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421174453,
-    "wof:lastmodified":1561793237,
+    "wof:lastmodified":1562866676,
     "wof:name":"Melincu\u00e9",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

@@ -29,11 +29,17 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u043f\u0443\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Corpus"
+    ],
     "name:ces_x_preferred":[
         "Jazykov\u00fd korpus"
     ],
     "name:deu_x_preferred":[
         "Textkorpus"
+    ],
+    "name:deu_x_variant":[
+        "Corpus"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ce\u03bc\u03b1 \u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd"
@@ -50,6 +56,9 @@
     "name:fra_x_preferred":[
         "Corpus"
     ],
+    "name:ita_x_preferred":[
+        "Corpus"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30d1\u30b9"
     ],
@@ -59,11 +68,17 @@
     "name:nld_x_preferred":[
         "Corpus"
     ],
+    "name:por_x_preferred":[
+        "Corpus"
+    ],
     "name:slk_x_preferred":[
         "Korpus"
     ],
     "name:spa_x_preferred":[
         "Corpus"
+    ],
+    "name:spa_x_variant":[
+        "Corpus Christi"
     ],
     "name:swe_x_preferred":[
         "Corpus"
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":1209789501,
-    "wof:lastmodified":1537584827,
+    "wof:lastmodified":1562866088,
     "wof:name":"Corpus",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

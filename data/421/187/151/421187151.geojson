@@ -38,14 +38,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Caldera"
+    ],
+    "name:deu_x_preferred":[
+        "Departamento La Caldera"
+    ],
     "name:eng_x_preferred":[
         "La Caldera"
     ],
     "name:eng_x_variant":[
+        "La Caldera Department"
+    ],
+    "name:fra_x_preferred":[
+        "La Caldera"
+    ],
+    "name:hun_x_preferred":[
+        "La Caldera megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053f\u0561\u056c\u0564\u0565\u0580\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d9\u10d0\u10da\u10d3\u10d4\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "La Caldera"
+    ],
+    "name:por_x_preferred":[
+        "La Caldera"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041a\u0430\u043b\u044c\u0434\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
         "La Caldera"
     ],
     "name:unk_x_variant":[
         "Departamento de la Caldera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0627\u0644\u0688\u06cc\u0631\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d0-\u10d9\u10d0\u10da\u10d3\u10d4\u10e0\u10d0\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5361\u723e\u5fb7\u62c9\u7e23"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"ADM2",
@@ -108,7 +147,7 @@
         }
     ],
     "wof:id":421187151,
-    "wof:lastmodified":1560898144,
+    "wof:lastmodified":1562866708,
     "wof:name":"La Caldera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

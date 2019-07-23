@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Alam\u00e0nia"
     ],
+    "name:cat_x_variant":[
+        "Aleman\u00eda"
+    ],
     "name:ces_x_preferred":[
         "Aleman\u00eda"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:est_x_preferred":[
         "Alemannia"
+    ],
+    "name:est_x_variant":[
+        "Aleman\u00eda"
     ],
     "name:eus_x_preferred":[
         "Aleman\u00eda"
@@ -117,6 +123,9 @@
     ],
     "name:ita_x_preferred":[
         "Alemannia"
+    ],
+    "name:ita_x_variant":[
+        "Aleman\u00eda"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d4\u10db\u10d0\u10dc\u10d8\u10d0"
@@ -199,8 +208,14 @@
     "name:slv_x_preferred":[
         "Alemanija"
     ],
+    "name:slv_x_variant":[
+        "Aleman\u00eda"
+    ],
     "name:spa_x_preferred":[
         "Alemannia"
+    ],
+    "name:spa_x_variant":[
+        "Aleman\u00eda"
     ],
     "name:srd_x_preferred":[
         "Aleman\u00eda"
@@ -281,7 +296,7 @@
         }
     ],
     "wof:id":421178883,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867007,
     "wof:name":"Alemania",
     "wof:parent_id":1108718407,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:deu_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:por_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:spa_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:swe_x_preferred":[
+        "Campo Largo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243530751,
-    "wof:lastmodified":1536684036,
+    "wof:lastmodified":1562867172,
     "wof:name":"Campo Largo",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",

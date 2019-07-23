@@ -17,11 +17,23 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0631\u0627\u0644 \u0631\u0648\u0643\u0627\u060c \u0631\u064a\u0648 \u0646\u064a\u063a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0646\u0631\u0627\u0644 \u0631\u0648\u0643\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0646\u0631\u0627\u0644 \u0631\u0648\u06a9\u0627"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09b0\u09cb\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "General Roca"
+    ],
+    "name:ces_x_preferred":[
+        "General Roca"
+    ],
+    "name:cym_x_preferred":[
+        "General Roca"
     ],
     "name:dan_x_preferred":[
         "General Roca"
@@ -52,6 +64,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u0928\u0930\u0932 \u0930\u094b\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "General Roca"
     ],
     "name:ind_x_preferred":[
         "General Roca"
@@ -98,6 +113,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0420\u043e\u043a\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0da2\u0dd9\u0db1\u0dbb\u0dcf\u0dbd\u0dca \u0dbb\u0ddc\u0d9a\u0dcf"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "Ciudad de General Roca"
+    ],
+    "name:spa_x_variant":[
+        "General Roca"
     ],
     "name:swe_x_preferred":[
         "General Roca"
@@ -281,7 +302,7 @@
         }
     ],
     "wof:id":421172809,
-    "wof:lastmodified":1561793242,
+    "wof:lastmodified":1562866748,
     "wof:name":"General Roca",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

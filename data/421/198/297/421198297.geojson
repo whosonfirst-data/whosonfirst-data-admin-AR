@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Garuhap\u00e9"
     ],
+    "name:ita_x_preferred":[
+        "Garuhap\u00e9"
+    ],
     "name:jpn_x_preferred":[
         "\u30ac\u30eb\u30a2\u30da"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421198297,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1562866823,
     "wof:name":"Garuhap\u00e9",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

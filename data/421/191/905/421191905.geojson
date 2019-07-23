@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Villa Concepci\u00f3n del T\u00edo"
     ],
+    "name:ceb_x_preferred":[
+        "Villa Concepci\u00f3n del T\u00edo"
+    ],
     "name:eng_x_preferred":[
         "Villa Concepci\u00f3n del T\u00edo"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421191905,
-    "wof:lastmodified":1561793253,
+    "wof:lastmodified":1562866893,
     "wof:name":"Villa Concepci\u00f3n del T\u00edo",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

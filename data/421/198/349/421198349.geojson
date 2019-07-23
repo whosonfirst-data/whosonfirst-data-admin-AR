@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Adelia Mar\u00eda"
     ],
+    "name:ceb_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
     "name:eng_x_preferred":[
         "Adelia Mar\u00eda"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421198349,
-    "wof:lastmodified":1561793247,
+    "wof:lastmodified":1562866808,
     "wof:name":"Adelia Mar\u00eda",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

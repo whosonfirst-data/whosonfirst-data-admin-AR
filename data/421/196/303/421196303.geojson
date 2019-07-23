@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Coronda"
     ],
+    "name:dan_x_preferred":[
+        "Coronda"
+    ],
     "name:eng_x_preferred":[
         "Coronda"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421196303,
-    "wof:lastmodified":1561793250,
+    "wof:lastmodified":1562866854,
     "wof:name":"Coronda",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

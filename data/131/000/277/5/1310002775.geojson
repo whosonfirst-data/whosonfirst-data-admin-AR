@@ -26,6 +26,15 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u06cc\u0627 \u0627\u0633\u067e\u0627\u062a\u0632\u0646\u06a9\u0627\u062a\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Aldea Spatzenkutter"
+    ],
+    "name:spa_x_preferred":[
+        "Aldea Spatzenkutter"
+    ],
     "name:und_x_variant":[
         "Aldea Spazzenkuter",
         "Aldea Spatzenkutter"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310002775,
-    "wof:lastmodified":1537584903,
+    "wof:lastmodified":1562866359,
     "wof:name":"Aldea Spatzenkutter",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

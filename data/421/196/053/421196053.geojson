@@ -25,6 +25,9 @@
     "name:spa_x_preferred":[
         "Iriarte"
     ],
+    "name:swe_x_preferred":[
+        "Iriarte"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3853716,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421196053,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1562866838,
     "wof:name":"Iriarte",
     "wof:parent_id":1108717961,
     "wof:placetype":"locality",

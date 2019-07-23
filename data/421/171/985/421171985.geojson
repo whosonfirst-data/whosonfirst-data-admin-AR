@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Leleque"
     ],
+    "name:eng_x_preferred":[
+        "Leleque"
+    ],
     "name:nld_x_preferred":[
         "Leleque"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421171985,
-    "wof:lastmodified":1527726487,
+    "wof:lastmodified":1562867041,
     "wof:name":"Leleque",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

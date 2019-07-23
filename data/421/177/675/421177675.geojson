@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Gaiman"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0645\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Gaiman"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:por_x_preferred":[
         "Gaiman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0439\u043c\u0430\u043d"
     ],
     "name:sco_x_preferred":[
         "Gaiman"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421177675,
-    "wof:lastmodified":1561793258,
+    "wof:lastmodified":1562866982,
     "wof:name":"Gaim\u00e1n",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

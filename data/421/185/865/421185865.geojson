@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "R\u00edo Ceballos"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0421\u0435\u0431\u0430\u043b\u044c\u0439\u043e\u0441"
+    ],
     "name:unk_x_variant":[
         "R\u00edo Zeballos"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421185865,
-    "wof:lastmodified":1561793263,
+    "wof:lastmodified":1562867067,
     "wof:name":"R\u00edo Ceballos",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

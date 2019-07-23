@@ -16,6 +16,15 @@
     "name:ceb_x_preferred":[
         "Punta Ninfas"
     ],
+    "name:eng_x_preferred":[
+        "Punta Ninfas"
+    ],
+    "name:ita_x_preferred":[
+        "punta Ninfas"
+    ],
+    "name:nld_x_preferred":[
+        "Punta Ninfas"
+    ],
     "name:spa_x_preferred":[
         "Punta Ninfas"
     ],
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":421180771,
-    "wof:lastmodified":1527716237,
+    "wof:lastmodified":1562866703,
     "wof:name":"Puerto Ninfas",
     "wof:parent_id":421172183,
     "wof:placetype":"locality",

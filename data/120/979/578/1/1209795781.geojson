@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alpasinche"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u067e\u0627\u0633\u06cc\u0646\u0686"
+    ],
+    "name:spa_x_preferred":[
+        "Alpasinche"
+    ],
+    "name:swe_x_preferred":[
+        "Alpasinche"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209795781,
-    "wof:lastmodified":1537486351,
+    "wof:lastmodified":1562866079,
     "wof:name":"Alpasinche",
     "wof:parent_id":1108718349,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:por_x_preferred":[
         "Choele Choel"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u044d\u043b\u0435-\u0427\u043e\u044d\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Choele Choel"
     ],
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421178989,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1562867010,
     "wof:name":"Choele Choel",
     "wof:parent_id":1108718387,
     "wof:placetype":"locality",

@@ -40,7 +40,13 @@
     "name:lit_x_preferred":[
         "Kurusu Kvatija"
     ],
+    "name:lit_x_variant":[
+        "Kurusu Kuatija"
+    ],
     "name:nld_x_preferred":[
+        "Curuz\u00fa Cuati\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Curuz\u00fa Cuati\u00e1"
     ],
     "name:por_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421168381,
-    "wof:lastmodified":1561793217,
+    "wof:lastmodified":1562866518,
     "wof:name":"Curuz\u00fa Cuati\u00e1",
     "wof:parent_id":1108718175,
     "wof:placetype":"locality",

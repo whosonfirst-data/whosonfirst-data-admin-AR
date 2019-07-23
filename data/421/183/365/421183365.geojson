@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Spurr"
+    ],
+    "name:fra_x_preferred":[
+        "Spurr"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3835041,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":421183365,
-    "wof:lastmodified":1527716487,
+    "wof:lastmodified":1562866987,
     "wof:name":"Spurr",
     "wof:parent_id":1108717863,
     "wof:placetype":"locality",

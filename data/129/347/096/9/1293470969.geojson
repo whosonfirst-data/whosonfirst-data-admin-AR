@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u00e9rtiz"
+    ],
+    "name:por_x_preferred":[
+        "V\u00e9rtiz"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00e9rtiz"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e9rtiz"
+    ],
     "name:und_x_variant":[
         "V\u00e9rtiz"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293470969,
-    "wof:lastmodified":1537584833,
+    "wof:lastmodified":1562865837,
     "wof:name":"Vertiz",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

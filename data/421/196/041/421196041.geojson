@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Monte Ma\u00edz"
+    ],
     "name:deu_x_preferred":[
         "Departamento Uni\u00f3n"
     ],
@@ -40,11 +43,17 @@
     "name:por_x_preferred":[
         "Uni\u00f3n"
     ],
+    "name:por_x_variant":[
+        "Monte Ma\u00edz"
+    ],
     "name:sco_x_preferred":[
         "Uni\u00f3n Depairtment"
     ],
     "name:spa_x_preferred":[
         "Departamento Uni\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Monte Ma\u00edz"
     ],
     "name:swe_x_preferred":[
         "Monte Ma\u00edz"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421196041,
-    "wof:lastmodified":1561793249,
+    "wof:lastmodified":1562866833,
     "wof:name":"Monte Ma\u00edz",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

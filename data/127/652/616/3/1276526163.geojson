@@ -26,6 +26,18 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miguel Can\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Miguel Can\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Miguel Can\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Miguel Can\u00e9"
+    ],
     "name:und_x_variant":[
         "M. Can\u00e9",
         "Miguel Can\u00e9"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276526163,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1562866009,
     "wof:name":"Miguel Cane",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

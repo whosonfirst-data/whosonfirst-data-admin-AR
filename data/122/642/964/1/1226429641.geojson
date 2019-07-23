@@ -26,6 +26,27 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Olta"
+    ],
+    "name:fra_x_preferred":[
+        "Olta"
+    ],
+    "name:ita_x_preferred":[
+        "Olta"
+    ],
+    "name:por_x_preferred":[
+        "Olta"
+    ],
+    "name:spa_x_preferred":[
+        "Olta"
+    ],
+    "name:swe_x_preferred":[
+        "Olta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226429641,
-    "wof:lastmodified":1537486317,
+    "wof:lastmodified":1562867398,
     "wof:name":"Olta",
     "wof:parent_id":1108718333,
     "wof:placetype":"locality",

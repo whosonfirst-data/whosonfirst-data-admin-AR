@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u0645\u0648\u0644"
     ],
+    "name:cym_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
     "name:deu_x_preferred":[
         "Jos\u00e9 M\u00e1rmol"
     ],
@@ -46,11 +49,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043c\u043e\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0441\u0435-\u041c\u0430\u0440\u043c\u043e\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Jos\u00e9 M\u00e1rmol"
     ],
     "name:unk_x_variant":[
         "M\u00e1rmol"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u70cf\u80af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421193959,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1562866587,
     "wof:name":"Jos\u00e9 M\u00e1rmol",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

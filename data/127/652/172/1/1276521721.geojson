@@ -26,6 +26,21 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ogilvie"
+    ],
+    "name:deu_x_preferred":[
+        "Ogilvie"
+    ],
+    "name:fra_x_preferred":[
+        "Ogilvie"
+    ],
+    "name:ita_x_preferred":[
+        "Ogilvie"
+    ],
+    "name:swe_x_preferred":[
+        "Ogilvie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276521721,
-    "wof:lastmodified":1537022641,
+    "wof:lastmodified":1562866010,
     "wof:name":"Ogilvie",
     "wof:parent_id":1108718463,
     "wof:placetype":"locality",
