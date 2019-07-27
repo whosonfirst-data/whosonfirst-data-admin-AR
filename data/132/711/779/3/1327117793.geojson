@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "El Tigre"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u0422\u0438\u0433\u0440\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25\u0e15\u0e34\u0e40\u0e01\u0e23"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1327117793,
-    "wof:lastmodified":1562865582,
+    "wof:lastmodified":1564217180,
     "wof:name":"El Tigre",
     "wof:parent_id":421183163,
     "wof:placetype":"locality",

@@ -139,6 +139,9 @@
     "name:swe_x_preferred":[
         "El Alto"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u0410\u043b\u044c\u0442\u043e"
+    ],
     "name:tur_x_preferred":[
         "El Alto"
     ],
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1108718151,
-    "wof:lastmodified":1562866294,
+    "wof:lastmodified":1564217785,
     "wof:name":"El Alto",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

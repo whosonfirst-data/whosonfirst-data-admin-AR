@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Olta"
     ],
+    "name:pol_x_preferred":[
+        "Olta"
+    ],
     "name:por_x_preferred":[
         "Olta"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226429641,
-    "wof:lastmodified":1562867398,
+    "wof:lastmodified":1564218386,
     "wof:name":"Olta",
     "wof:parent_id":1108718333,
     "wof:placetype":"locality",

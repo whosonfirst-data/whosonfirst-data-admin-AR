@@ -47,6 +47,9 @@
     "name:eng_x_variant":[
         "General Manuel Belgrano"
     ],
+    "name:pol_x_preferred":[
+        "General Manuel Belgrano"
+    ],
     "name:por_x_preferred":[
         "General Manuel Belgrano"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421203245,
-    "wof:lastmodified":1562866643,
+    "wof:lastmodified":1564218022,
     "wof:name":"General Manuel Belgrano",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

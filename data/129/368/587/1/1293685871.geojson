@@ -38,6 +38,9 @@
     "name:eus_x_preferred":[
         "Silvio Pellico"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u0648\u06cc\u0648 \u067e\u0644\u06cc\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Silvio Pellico"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1293685871,
-    "wof:lastmodified":1562865850,
+    "wof:lastmodified":1564217367,
     "wof:name":"Silvio Pellico",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

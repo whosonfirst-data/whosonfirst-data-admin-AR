@@ -89,6 +89,9 @@
     "name:deu_x_preferred":[
         "Aragonien"
     ],
+    "name:diq_x_preferred":[
+        "Aragon"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03b1\u03b3\u03c9\u03bd\u03af\u03b1"
     ],
@@ -382,7 +385,7 @@
         }
     ],
     "wof:id":1260098087,
-    "wof:lastmodified":1562866208,
+    "wof:lastmodified":1564217703,
     "wof:name":"Aragon",
     "wof:parent_id":1108718047,
     "wof:placetype":"locality",

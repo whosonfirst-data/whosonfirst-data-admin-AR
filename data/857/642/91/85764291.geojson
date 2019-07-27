@@ -180,6 +180,9 @@
     "name:uzb_x_preferred":[
         "Sorrento"
     ],
+    "name:vec_x_preferred":[
+        "Sorrento"
+    ],
     "name:vie_x_preferred":[
         "Sorrento"
     ],
@@ -273,7 +276,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865718,
+    "wof:lastmodified":1564217302,
     "wof:name":"Sorrento",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

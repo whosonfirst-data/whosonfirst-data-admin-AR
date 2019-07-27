@@ -98,6 +98,9 @@
     "name:spa_x_preferred":[
         "Luque"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u043a\u0435"
+    ],
     "name:vep_x_preferred":[
         "Luke"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1259788305,
-    "wof:lastmodified":1562867320,
+    "wof:lastmodified":1564218310,
     "wof:name":"Luque",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",
