@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "R\u00edo Colorado"
     ],
+    "name:pol_x_preferred":[
+        "R\u00edo Colorado"
+    ],
     "name:por_x_preferred":[
         "R\u00edo Colorado"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209196469,
-    "wof:lastmodified":1562866143,
+    "wof:lastmodified":1564217640,
     "wof:name":"Rio Colorado",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

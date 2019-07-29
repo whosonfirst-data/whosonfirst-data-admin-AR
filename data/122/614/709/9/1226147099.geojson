@@ -26,6 +26,33 @@
     "iso:country":"AR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Drabble"
+    ],
+    "name:ces_x_preferred":[
+        "Drabble"
+    ],
+    "name:deu_x_preferred":[
+        "Drabble"
+    ],
+    "name:fin_x_preferred":[
+        "Raapale"
+    ],
+    "name:fra_x_preferred":[
+        "Drabble"
+    ],
+    "name:ita_x_preferred":[
+        "Drabble"
+    ],
+    "name:por_x_preferred":[
+        "Drabble"
+    ],
+    "name:spa_x_preferred":[
+        "Drabble"
+    ],
+    "name:swe_x_preferred":[
+        "Drapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226147099,
-    "wof:lastmodified":1537072630,
+    "wof:lastmodified":1564218430,
     "wof:name":"Drabble",
     "wof:parent_id":1108717973,
     "wof:placetype":"locality",

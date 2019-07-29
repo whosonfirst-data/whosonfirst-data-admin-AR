@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Dos Hermanas"
     ],
+    "name:diq_x_preferred":[
+        "Dos Hermanas"
+    ],
     "name:epo_x_preferred":[
         "Dos Hermanas"
     ],
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1327025429,
-    "wof:lastmodified":1562865532,
+    "wof:lastmodified":1564217131,
     "wof:name":"Dos Hermanas",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

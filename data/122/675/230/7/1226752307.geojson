@@ -41,6 +41,9 @@
     "name:por_x_preferred":[
         "Villa Mitre"
     ],
+    "name:por_x_variant":[
+        "Villa General Mitre"
+    ],
     "name:spa_x_preferred":[
         "Villa General Mitre"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226752307,
-    "wof:lastmodified":1562867381,
+    "wof:lastmodified":1564218368,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":421203351,
     "wof:placetype":"locality",

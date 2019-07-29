@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Milagro"
     ],
+    "name:pol_x_preferred":[
+        "Milagro"
+    ],
     "name:spa_x_preferred":[
         "Milagro"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310192231,
-    "wof:lastmodified":1562866401,
+    "wof:lastmodified":1564217885,
     "wof:name":"Milagro",
     "wof:parent_id":1108718339,
     "wof:placetype":"locality",

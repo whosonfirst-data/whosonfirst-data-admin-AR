@@ -113,6 +113,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30ca\u30b3"
     ],
+    "name:kab_x_preferred":[
+        "Agwanaku"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10d0\u10dc\u10d0\u10d9\u10dd"
     ],
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":1259597289,
-    "wof:lastmodified":1562867336,
+    "wof:lastmodified":1564218325,
     "wof:name":"Guanaco",
     "wof:parent_id":1108718047,
     "wof:placetype":"locality",

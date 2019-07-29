@@ -77,6 +77,9 @@
     "name:oci_x_preferred":[
         "Humahuaca"
     ],
+    "name:pol_x_preferred":[
+        "Humahuaca"
+    ],
     "name:por_x_preferred":[
         "Humahuaca"
     ],
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421204061,
-    "wof:lastmodified":1562866638,
+    "wof:lastmodified":1564218020,
     "wof:name":"Humahuaca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

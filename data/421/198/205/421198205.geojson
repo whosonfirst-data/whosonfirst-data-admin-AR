@@ -130,6 +130,9 @@
     "name:nor_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:oci_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
     ],
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421198205,
-    "wof:lastmodified":1562866806,
+    "wof:lastmodified":1564218072,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108718039,
     "wof:placetype":"locality",
