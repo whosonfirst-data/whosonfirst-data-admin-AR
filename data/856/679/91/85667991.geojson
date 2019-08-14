@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Santa Cruz"
     ],
@@ -409,16 +412,13 @@
         }
     ],
     "wof:id":85667991,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865787,
+    "wof:lastmodified":1565652050,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

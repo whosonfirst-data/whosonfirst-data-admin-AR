@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Chubut"
     ],
@@ -421,16 +424,13 @@
         }
     ],
     "wof:id":85668001,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865762,
+    "wof:lastmodified":1565652042,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SJ"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de San Juan"
     ],
@@ -393,16 +396,13 @@
         }
     ],
     "wof:id":85667997,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865789,
+    "wof:lastmodified":1565652051,
     "wof:name":"San Juan",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MZ"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Mendoza"
     ],
@@ -418,16 +421,13 @@
         }
     ],
     "wof:id":85668007,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865757,
+    "wof:lastmodified":1565652041,
     "wof:name":"Mendoza",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

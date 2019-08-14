@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de San Luis"
     ],
@@ -388,16 +391,13 @@
         }
     ],
     "wof:id":85668029,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865747,
+    "wof:lastmodified":1565652039,
     "wof:name":"San Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

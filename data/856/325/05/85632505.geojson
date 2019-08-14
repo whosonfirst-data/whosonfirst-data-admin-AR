@@ -15,6 +15,9 @@
     "itu:country_code":[
         "54"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":-33.528049,
     "lbl:longitude":-64.168459,
     "mps:latitude":-33.528049,
@@ -1184,16 +1187,13 @@
         }
     ],
     "wof:id":85632505,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865780,
+    "wof:lastmodified":1565652046,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

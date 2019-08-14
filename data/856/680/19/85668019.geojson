@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LP"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de La Pampa"
     ],
@@ -395,16 +398,13 @@
         }
     ],
     "wof:id":85668019,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865752,
+    "wof:lastmodified":1565652040,
     "wof:name":"La Pampa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

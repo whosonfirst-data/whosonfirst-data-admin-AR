@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TM"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Tucum\u00e1n"
     ],
@@ -414,16 +417,13 @@
         }
     ],
     "wof:id":85668059,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865741,
+    "wof:lastmodified":1565652038,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

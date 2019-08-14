@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Santa Fe"
     ],
@@ -406,16 +409,13 @@
         }
     ],
     "wof:id":85668077,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865769,
+    "wof:lastmodified":1565652043,
     "wof:name":"Santa Fe",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

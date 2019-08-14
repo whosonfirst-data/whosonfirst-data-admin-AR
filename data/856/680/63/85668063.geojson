@@ -21,6 +21,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Chaco"
     ],
@@ -417,16 +420,13 @@
         }
     ],
     "wof:id":85668063,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865764,
+    "wof:lastmodified":1565652043,
     "wof:name":"Chaco",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

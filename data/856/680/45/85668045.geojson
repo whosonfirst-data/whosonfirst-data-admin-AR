@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de La Rioja"
     ],
@@ -415,16 +418,13 @@
         }
     ],
     "wof:id":85668045,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865749,
+    "wof:lastmodified":1565652039,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NQ"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Neuqu\u00e9n"
     ],
@@ -415,16 +418,13 @@
         }
     ],
     "wof:id":85668011,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865746,
+    "wof:lastmodified":1565652039,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

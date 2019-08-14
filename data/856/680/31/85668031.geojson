@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CD"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de C\u00f3rdoba"
     ],
@@ -430,16 +433,13 @@
         }
     ],
     "wof:id":85668031,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865759,
+    "wof:lastmodified":1565652041,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

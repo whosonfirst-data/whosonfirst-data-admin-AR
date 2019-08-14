@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "label:spa_x_preferred_longname":[
         "Provincia de Santiago del Estero"
     ],
@@ -389,16 +392,13 @@
         }
     ],
     "wof:id":85668053,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1562865760,
+    "wof:lastmodified":1565652041,
     "wof:name":"Santiago del Estero",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
