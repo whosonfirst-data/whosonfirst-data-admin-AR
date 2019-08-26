@@ -11,10 +11,14 @@
     "geom:longitude":-63.85404,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":3317,
+    "gn:population":3317,
     "iso:country":"AR",
+    "lbl:bbox":"-63.87404,-36.17152,-63.83404,-36.13152",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Colonia Bar\u00f3n"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3860811,
         "gp:id":91814678,
-        "qs:id":585725,
+        "qs_pg:id":585725,
         "wd:id":"Q5148214",
         "wk:page":"Colonia Bar\u00f3n"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890440051,
-    "wof:lastmodified":1562867083,
+    "wof:lastmodified":1566588351,
     "wof:name":"Colonia Bar\u00f3n",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

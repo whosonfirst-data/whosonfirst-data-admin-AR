@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4982008802,-34.6389347068,-58.4713029149,-34.6167283414",
     "geom:latitude":-34.627686,
     "geom:longitude":-58.483588,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.63335,
     "gn:longitude":-58.46619,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.628966,
     "lbl:longitude":-58.480427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.636897,
     "mps:longitude":-58.475437,
     "mz:hierarchy_label":1,
@@ -71,9 +72,6 @@
     "name:spa_x_preferred":[
         "Floresta"
     ],
-    "name:unk_x_variant":[
-        "Floresta"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -122,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -134,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3433910,
         "gp:id":330658,
-        "qs:id":392282,
         "qs_pg:id":392282,
         "wd:id":"Q1429543",
         "wk:page":"Floresta, Buenos Aires"
@@ -155,7 +152,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865739,
+    "wof:lastmodified":1566587668,
     "wof:name":"Floresta",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

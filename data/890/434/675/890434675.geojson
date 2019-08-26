@@ -11,10 +11,14 @@
     "geom:longitude":-69.87713,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2221,
+    "gn:population":2221,
     "iso:country":"AR",
+    "lbl:bbox":"-69.89713,-37.07222,-69.85713,-37.03222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buta Ranquil"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3863663,
         "gp:id":91815689,
-        "qs:id":585746,
+        "qs_pg:id":585746,
         "wd:id":"Q630891",
         "wk:page":"Buta Ranquil"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890434675,
-    "wof:lastmodified":1562867131,
+    "wof:lastmodified":1566588365,
     "wof:name":"Buta Ranquil",
     "wof:parent_id":421192925,
     "wof:placetype":"locality",

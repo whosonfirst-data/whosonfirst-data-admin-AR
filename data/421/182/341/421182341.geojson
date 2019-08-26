@@ -10,8 +10,12 @@
     "geom:latitude":-40.498397,
     "geom:longitude":-71.607664,
     "iso:country":"AR",
+    "lbl:bbox":"-71.627664,-40.518397,-71.587664,-40.478397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040115,
-        "qs:id":901221
+        "qs_pg:id":901221
     },
     "wof:country":"AR",
     "wof:created":1459009326,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421182341,
-    "wof:lastmodified":1499925031,
+    "wof:lastmodified":1566588317,
     "wof:name":"Pichi Traful",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

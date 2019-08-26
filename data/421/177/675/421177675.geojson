@@ -10,8 +10,12 @@
     "geom:latitude":-43.2897,
     "geom:longitude":-65.4929,
     "iso:country":"AR",
+    "lbl:bbox":"-65.5129,-43.3097,-65.4729,-43.2697",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Gaiman"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3855284,
         "gp:id":466963,
-        "qs:id":433584,
+        "qs_pg:id":433584,
         "wd:id":"Q106055",
         "wk:page":"Gaiman, Chubut"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421177675,
-    "wof:lastmodified":1562866982,
+    "wof:lastmodified":1566588302,
     "wof:name":"Gaim\u00e1n",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

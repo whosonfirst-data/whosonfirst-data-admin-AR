@@ -10,8 +10,12 @@
     "geom:latitude":-37.322993,
     "geom:longitude":-59.061474,
     "iso:country":"AR",
+    "lbl:bbox":"-59.081474,-37.342993,-59.041474,-37.302993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040588,
-        "qs:id":33483
+        "qs_pg:id":33483
     },
     "wof:country":"AR",
     "wof:created":1459009072,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421175571,
-    "wof:lastmodified":1499925061,
+    "wof:lastmodified":1566588227,
     "wof:name":"Desv\u00edo Aguirre",
     "wof:parent_id":1108718113,
     "wof:placetype":"locality",

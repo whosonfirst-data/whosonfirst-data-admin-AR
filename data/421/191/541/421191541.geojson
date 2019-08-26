@@ -10,8 +10,12 @@
     "geom:latitude":-34.63401,
     "geom:longitude":-58.79138,
     "iso:country":"AR",
+    "lbl:bbox":"-58.81138,-34.65401,-58.77138,-34.61401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0646\u0648"
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":7778796,
         "gp:id":468959,
-        "qs:id":1142088
+        "qs_pg:id":1142088
     },
     "wof:country":"AR",
     "wof:created":1459009696,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421191541,
-    "wof:lastmodified":1562866904,
+    "wof:lastmodified":1566588269,
     "wof:name":"Moreno",
     "wof:parent_id":1108718031,
     "wof:placetype":"locality",

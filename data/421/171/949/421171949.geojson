@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-32.893583,
     "lbl:longitude":-68.720857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mendoza",
     "meso:gadm_admin":"Guaymall\u00e9n",
     "meso:gadm_hasc2":"AR.MZ.GU",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.720857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Departamento de Guaymall\u00e9n"
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "Departamento de Guaymall\u00e9n"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Guaymall\u00e9n"
-    ],
     "name:zho_x_preferred":[
         "\u74dc\u4f0a\u99ac\u502b\u7e23"
     ],
@@ -113,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"164.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -136,7 +136,7 @@
         "gn:id":3854459,
         "gp:id":20070713,
         "hasc:id":"AR.MZ.GU",
-        "qs:id":1287691,
+        "qs_pg:id":1287691,
         "wd:id":"Q512660",
         "wk:page":"Guaymall\u00e9n Department"
     },
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":421171949,
-    "wof:lastmodified":1562867042,
+    "wof:lastmodified":1566588331,
     "wof:name":"Guaymallen",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

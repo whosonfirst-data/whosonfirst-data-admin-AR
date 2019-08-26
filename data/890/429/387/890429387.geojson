@@ -11,10 +11,14 @@
     "geom:longitude":-60.66667,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":3625,
+    "gn:population":3625,
     "iso:country":"AR",
+    "lbl:bbox":"-60.68667,-27.15333,-60.64667,-27.11333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Clotilde"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3851993,
         "gp:id":91863074,
-        "qs:id":96643,
+        "qs_pg:id":96643,
         "wd:id":"Q1656083",
         "wk:page":"La Clotilde, Chaco"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890429387,
-    "wof:lastmodified":1562867123,
+    "wof:lastmodified":1566588362,
     "wof:name":"La Clotilde",
     "wof:parent_id":1108718215,
     "wof:placetype":"locality",

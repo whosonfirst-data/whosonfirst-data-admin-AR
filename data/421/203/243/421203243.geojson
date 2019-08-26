@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.331146,
     "lbl:longitude":-68.524909,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Rioja",
     "meso:gadm_admin":"NO DATA",
     "meso:gadm_hasc2":"NO DATA",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.524909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Vinchina"
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"10,334.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gp:id":20070709,
         "hasc:id":"AR.LR.VI",
-        "qs:id":230375
+        "qs_pg:id":230375
     },
     "wof:country":"AR",
     "wof:created":1459010144,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421203243,
-    "wof:lastmodified":1560898143,
+    "wof:lastmodified":1566588164,
     "wof:name":"Vinchina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

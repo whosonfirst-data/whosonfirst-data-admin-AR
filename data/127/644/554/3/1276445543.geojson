@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-65.78667,-28.73667,-65.74667,-28.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Tejas"
     ],
@@ -35,7 +39,6 @@
     ],
     "name:und_x_variant":[
         "Tejas",
-        "Las Tejas",
         "Las Tejas de Abajo"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276445543,
-    "wof:lastmodified":1562865932,
+    "wof:lastmodified":1566587776,
     "wof:name":"Las Tejas de Abajo",
     "wof:parent_id":421189013,
     "wof:placetype":"locality",

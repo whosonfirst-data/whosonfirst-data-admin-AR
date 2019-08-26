@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-42.443029,
     "lbl:longitude":-67.175873,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chubut",
     "meso:gadm_admin":"Telsen",
     "meso:gadm_hasc2":"AR.CH.TN",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.175873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Telsen"
     ],
@@ -71,9 +74,9 @@
         "\u7279\u723e\u68ee"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"19,893.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108718241,
-    "wof:lastmodified":1562866290,
+    "wof:lastmodified":1566587988,
     "wof:name":"Telsen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.91667,
     "geom:longitude":-64.66667,
     "iso:country":"AR",
+    "lbl:bbox":"-64.68667,-25.93667,-64.64667,-25.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aar_x_preferred":[
         "Madariaga"
@@ -685,7 +689,7 @@
     "wof:concordances":{
         "gn:id":3845293,
         "gp:id":465741,
-        "qs:id":181842,
+        "qs_pg:id":181842,
         "wd:id":"Q342908"
     },
     "wof:country":"AR",
@@ -701,7 +705,7 @@
         }
     ],
     "wof:id":421198305,
-    "wof:lastmodified":1562866814,
+    "wof:lastmodified":1566588234,
     "wof:name":"Madariaga",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",

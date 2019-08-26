@@ -9,14 +9,16 @@
     "geom:bbox":"-60.688003,-32.900504,-60.688003,-32.900504",
     "geom:latitude":-32.900504,
     "geom:longitude":-60.688003,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-32.89674,
     "gn:longitude":-60.70802,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-60.693003,-32.905504,-60.683003,-32.895504",
     "lbl:latitude":-32.900504,
     "lbl:longitude":-60.688003,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.906109,
     "mps:longitude":-60.69662,
     "mz:hierarchy_label":0,
@@ -61,10 +63,6 @@
     ],
     "name:swe_x_preferred":[
         "Uni\u00f3n"
-    ],
-    "name:unk_x_variant":[
-        "Uni\u00f3n",
-        "Barrio Uni\u00f3n"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
@@ -113,9 +111,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":35,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85668077,
         102191577,
@@ -126,7 +123,6 @@
     "wof:concordances":{
         "gn:id":3833423,
         "gp:id":332305,
-        "qs:id":1075048,
         "qs_pg:id":1075048
     },
     "wof:country":"AR",
@@ -145,7 +141,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865720,
+    "wof:lastmodified":1566587661,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

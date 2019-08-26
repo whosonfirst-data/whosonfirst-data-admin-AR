@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.37,-25.17,-64.33,-25.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chorroaria",
         "Chorroar\u00edn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276954705,
-    "wof:lastmodified":1537584893,
+    "wof:lastmodified":1566587796,
     "wof:name":"Chorroarin",
     "wof:parent_id":1108718403,
     "wof:placetype":"locality",

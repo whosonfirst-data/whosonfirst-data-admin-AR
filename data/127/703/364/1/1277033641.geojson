@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.49029,-30.73495,-61.45029,-30.69495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0632\u0641\u064a\u0644"
     ],
@@ -62,9 +66,6 @@
     "name:spa_x_preferred":[
         "Mois\u00e9s Ville"
     ],
-    "name:und_x_variant":[
-        "Mois\u00e9s Ville"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1277033641,
-    "wof:lastmodified":1562865974,
+    "wof:lastmodified":1566587802,
     "wof:name":"Moises Ville",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

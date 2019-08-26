@@ -10,8 +10,12 @@
     "geom:latitude":-32.18,
     "geom:longitude":-64.41809,
     "iso:country":"AR",
+    "lbl:bbox":"-64.43809,-32.2,-64.39809,-32.16",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Embalse"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3856235,
         "gp:id":465334,
-        "qs:id":1056507,
+        "qs_pg:id":1056507,
         "wd:id":"Q1011693",
         "wk:page":"Embalse, C\u00f3rdoba"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421185991,
-    "wof:lastmodified":1562867057,
+    "wof:lastmodified":1566588341,
     "wof:name":"Embalse",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

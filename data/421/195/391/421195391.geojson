@@ -10,8 +10,12 @@
     "geom:latitude":-33.65059,
     "geom:longitude":-69.15444,
     "iso:country":"AR",
+    "lbl:bbox":"-69.17444,-33.67059,-69.13444,-33.63059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Departamento Tunuy\u00e1n"
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3832512,
         "gp:id":467964,
-        "qs:id":150379
+        "qs_pg:id":150379
     },
     "wof:country":"AR",
     "wof:created":1459009842,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421195391,
-    "wof:lastmodified":1499924982,
+    "wof:lastmodified":1566588122,
     "wof:name":"Vista Flores",
     "wof:parent_id":421171485,
     "wof:placetype":"locality",

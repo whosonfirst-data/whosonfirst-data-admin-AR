@@ -10,8 +10,12 @@
     "geom:latitude":-32.95224,
     "geom:longitude":-69.19453,
     "iso:country":"AR",
+    "lbl:bbox":"-69.21453,-32.97224,-69.17453,-32.93224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Potrerillos"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3840685,
         "gp:id":467373,
-        "qs:id":1327601,
+        "qs_pg:id":1327601,
         "wd:id":"Q7235134",
         "wk:page":"Potrerillos, Mendoza"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421195785,
-    "wof:lastmodified":1562866552,
+    "wof:lastmodified":1566588127,
     "wof:name":"Potrerillos",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

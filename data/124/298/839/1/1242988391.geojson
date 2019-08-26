@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.67171,-34.43427,-58.63171,-34.39427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nordelta"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242988391,
-    "wof:lastmodified":1562867256,
+    "wof:lastmodified":1566588437,
     "wof:name":"Nordelta",
     "wof:parent_id":1108718117,
     "wof:placetype":"locality",

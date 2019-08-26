@@ -10,8 +10,12 @@
     "geom:latitude":-32.92277,
     "geom:longitude":-68.73935,
     "iso:country":"AR",
+    "lbl:bbox":"-68.75935,-32.94277,-68.71935,-32.90277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:pol_x_preferred":[
         "Guaymall\u00e9n Mendoza"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3838686,
         "gp:id":466400,
-        "qs:id":271144
+        "qs_pg:id":271144
     },
     "wof:country":"AR",
     "wof:created":1459008826,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421169839,
-    "wof:lastmodified":1499924976,
+    "wof:lastmodified":1566588150,
     "wof:name":"Rodeo de la Cruz",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

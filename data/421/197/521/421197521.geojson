@@ -10,8 +10,12 @@
     "geom:latitude":-30.00447,
     "geom:longitude":-61.8408,
     "iso:country":"AR",
+    "lbl:bbox":"-61.8608,-30.02447,-61.8208,-29.98447",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Hersilia"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3854318,
         "gp:id":467262,
-        "qs:id":150480,
+        "qs_pg:id":150480,
         "wd:id":"Q3785332"
     },
     "wof:country":"AR",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421197521,
-    "wof:lastmodified":1562866911,
+    "wof:lastmodified":1566588272,
     "wof:name":"Hersilia",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

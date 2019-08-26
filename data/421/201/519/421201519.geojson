@@ -10,8 +10,12 @@
     "geom:latitude":-26.58333,
     "geom:longitude":-59.8,
     "iso:country":"AR",
+    "lbl:bbox":"-59.82,-26.60333,-59.78,-26.56333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Garcitas"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u0413\u0430\u0440\u0441\u0456\u0442\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Las Garcitas"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3431777,
         "gp:id":331177,
-        "qs:id":1262776,
+        "qs_pg:id":1262776,
         "wd:id":"Q1657855",
         "wk:page":"Las Garcitas, Chaco"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421201519,
-    "wof:lastmodified":1562866950,
+    "wof:lastmodified":1566588287,
     "wof:name":"Las Garcitas",
     "wof:parent_id":1108718227,
     "wof:placetype":"locality",

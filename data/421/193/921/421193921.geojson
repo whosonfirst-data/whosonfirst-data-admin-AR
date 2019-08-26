@@ -10,8 +10,12 @@
     "geom:latitude":-32.84057,
     "geom:longitude":-62.86552,
     "iso:country":"AR",
+    "lbl:bbox":"-62.88552,-32.86057,-62.84552,-32.82057",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ord\u00f3\u00f1ez"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0434\u043e\u043d\u044c\u0454\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "General Ordonez"
     ],
     "qs:gn_country":"AR",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3842593,
         "gp:id":465988,
-        "qs:id":291081,
+        "qs_pg:id":291081,
         "wd:id":"Q10341376"
     },
     "wof:country":"AR",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421193921,
-    "wof:lastmodified":1562866594,
+    "wof:lastmodified":1566588143,
     "wof:name":"Ord\u00f3\u00f1ez",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

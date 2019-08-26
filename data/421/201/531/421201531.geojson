@@ -10,8 +10,12 @@
     "geom:latitude":-40.68982,
     "geom:longitude":-71.20387,
     "iso:country":"AR",
+    "lbl:bbox":"-71.22387,-40.70982,-71.18387,-40.66982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3833977,
         "gp:id":332279,
-        "qs:id":1262872
+        "qs_pg:id":1262872
     },
     "wof:country":"AR",
     "wof:created":1459010075,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421201531,
-    "wof:lastmodified":1499925035,
+    "wof:lastmodified":1566588287,
     "wof:name":"Traful",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

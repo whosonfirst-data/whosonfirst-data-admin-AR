@@ -11,10 +11,14 @@
     "geom:longitude":-63.58537,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1016,
+    "gn:population":1016,
     "iso:country":"AR",
+    "lbl:bbox":"-63.60537,-37.48025,-63.56537,-37.44025",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "General Manuel J. Campos"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "General Manuel J. Campos"
     ],
-    "name:unk_x_variant":[
-        "General Manuel Campos"
-    ],
     "qs:name":"General Manuel J. Campos",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3855092,
         "gp:id":91814831,
-        "qs:id":585669,
+        "qs_pg:id":585669,
         "wd:id":"Q5532024"
     },
     "wof:country":"AR",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890440009,
-    "wof:lastmodified":1562867074,
+    "wof:lastmodified":1566588349,
     "wof:name":"General Manuel J. Campos",
     "wof:parent_id":1108718303,
     "wof:placetype":"locality",

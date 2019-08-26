@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-62.70333,-38.83667,-62.66333,-38.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00e9danos"
     ],
@@ -42,9 +46,6 @@
         "\u041c\u0435\u0434\u0430\u043d\u043e\u0441"
     ],
     "name:spa_x_preferred":[
-        "M\u00e9danos"
-    ],
-    "name:und_x_variant":[
         "M\u00e9danos"
     ],
     "src:geom":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1309726167,
-    "wof:lastmodified":1562866504,
+    "wof:lastmodified":1566588107,
     "wof:name":"Medanos",
     "wof:parent_id":1108718137,
     "wof:placetype":"locality",

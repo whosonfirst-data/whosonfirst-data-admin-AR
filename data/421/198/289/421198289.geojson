@@ -10,8 +10,12 @@
     "geom:latitude":-26.81667,
     "geom:longitude":-65.13333,
     "iso:country":"AR",
+    "lbl:bbox":"-65.15333,-26.83667,-65.11333,-26.79667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Alderetes"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3866367,
         "gp:id":464572,
-        "qs:id":181811,
+        "qs_pg:id":181811,
         "wd:id":"Q2456137",
         "wk:page":"Alderetes"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421198289,
-    "wof:lastmodified":1562866803,
+    "wof:lastmodified":1566588230,
     "wof:name":"Alderetes",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

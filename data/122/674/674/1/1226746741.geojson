@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-65.69319,-31.83671,-65.65319,-31.79671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226746741,
-    "wof:lastmodified":1536714395,
+    "wof:lastmodified":1566588514,
     "wof:name":"Balde de la Mora",
     "wof:parent_id":421198475,
     "wof:placetype":"locality",

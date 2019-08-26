@@ -10,8 +10,12 @@
     "geom:latitude":-32.99353,
     "geom:longitude":-68.68332,
     "iso:country":"AR",
+    "lbl:bbox":"-68.70332,-33.01353,-68.66332,-32.97353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rodeo del Medio"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3838684,
         "gp:id":466401,
-        "qs:id":271145,
+        "qs_pg:id":271145,
         "wd:id":"Q3939874"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421169843,
-    "wof:lastmodified":1562866601,
+    "wof:lastmodified":1566588146,
     "wof:name":"Rodeo del Medio",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

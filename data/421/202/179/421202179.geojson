@@ -10,8 +10,12 @@
     "geom:latitude":-32.838058,
     "geom:longitude":-69.848499,
     "iso:country":"AR",
+    "lbl:bbox":"-69.868499,-32.858058,-69.828499,-32.818058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Los Penitentes"
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22529256,
-        "qs:id":8034,
+        "qs_pg:id":8034,
         "wd:id":"Q3259759"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421202179,
-    "wof:lastmodified":1562866658,
+    "wof:lastmodified":1566588170,
     "wof:name":"Los Penitentes",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

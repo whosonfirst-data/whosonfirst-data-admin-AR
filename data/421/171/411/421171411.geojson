@@ -10,8 +10,12 @@
     "geom:latitude":-37.842851,
     "geom:longitude":-57.502108,
     "iso:country":"AR",
+    "lbl:bbox":"-57.522108,-37.862851,-57.482108,-37.822851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56064317,
-        "qs:id":1249432
+        "qs_pg:id":1249432
     },
     "wof:country":"AR",
     "wof:created":1459008892,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421171411,
-    "wof:lastmodified":1499925055,
+    "wof:lastmodified":1566588335,
     "wof:name":"Frente Mar",
     "wof:parent_id":1108718017,
     "wof:placetype":"locality",

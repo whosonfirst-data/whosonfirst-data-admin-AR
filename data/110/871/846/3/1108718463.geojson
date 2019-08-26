@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.783354,
     "lbl:longitude":-60.467643,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Fe",
     "meso:gadm_admin":"Vera",
     "meso:gadm_hasc2":"AR.SF.VE",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.467643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Vera"
     ],
@@ -155,9 +158,9 @@
         "Vera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"21,096.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1108718463,
-    "wof:lastmodified":1562866287,
+    "wof:lastmodified":1566587985,
     "wof:name":"Vera",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

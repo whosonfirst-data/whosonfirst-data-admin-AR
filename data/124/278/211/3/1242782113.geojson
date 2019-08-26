@@ -24,16 +24,19 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-61.41029,-34.54109,-61.37029,-34.50109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Leandro N. Alem"
     ],
     "name:und_x_variant":[
         "Alem",
         "L.N. Alem",
-        "Leandro Alem",
-        "Leandro N. Alem"
+        "Leandro Alem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242782113,
-    "wof:lastmodified":1562867251,
+    "wof:lastmodified":1566588433,
     "wof:name":"Leandro N. Alem",
     "wof:parent_id":1108717999,
     "wof:placetype":"locality",

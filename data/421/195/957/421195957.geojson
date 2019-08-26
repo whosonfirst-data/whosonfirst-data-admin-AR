@@ -10,13 +10,17 @@
     "geom:latitude":-34.58468,
     "geom:longitude":-68.54491,
     "iso:country":"AR",
+    "lbl:bbox":"-68.56491,-34.60468,-68.52491,-34.56468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30f3\u30c6\u30a3\u30b7\u30f3\u30b3\u30fb\u30c7\u30fb\u30de\u30e8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "25 de Mayo"
     ],
     "name:zho_x_preferred":[
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3833113,
         "gp:id":467449,
-        "qs:id":977161
+        "qs_pg:id":977161
     },
     "wof:country":"AR",
     "wof:created":1459009864,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421195957,
-    "wof:lastmodified":1562866557,
+    "wof:lastmodified":1566588130,
     "wof:name":"Veinticinco de Mayo",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

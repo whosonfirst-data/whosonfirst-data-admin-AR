@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-62.45896,-29.37039,-62.41896,-29.33039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Malbr\u00e1n"
     ],
@@ -33,9 +37,6 @@
         "Malbr\u00e1n"
     ],
     "name:spa_x_preferred":[
-        "Malbr\u00e1n"
-    ],
-    "name:und_x_variant":[
         "Malbr\u00e1n"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1293359259,
-    "wof:lastmodified":1562865851,
+    "wof:lastmodified":1566587734,
     "wof:name":"Malbran",
     "wof:parent_id":421184163,
     "wof:placetype":"locality",

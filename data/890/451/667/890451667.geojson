@@ -11,10 +11,14 @@
     "geom:longitude":-63.86226,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1200,
+    "gn:population":1200,
     "iso:country":"AR",
+    "lbl:bbox":"-63.88226,-36.52682,-63.84226,-36.48682",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uriburu"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3833391,
         "gp:id":91815246,
-        "qs:id":1120500,
+        "qs_pg:id":1120500,
         "wd:id":"Q7900572",
         "wk:page":"Uriburu"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890451667,
-    "wof:lastmodified":1562867130,
+    "wof:lastmodified":1566588365,
     "wof:name":"Uriburu",
     "wof:parent_id":1108718293,
     "wof:placetype":"locality",

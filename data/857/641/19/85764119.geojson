@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4778072342,-34.6568063613,-58.4304298869,-34.613885672",
     "geom:latitude":-34.636803,
     "geom:longitude":-58.458268,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.62997,
     "gn:longitude":-58.46329,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.636292,
     "lbl:longitude":-58.461854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.632072,
     "mps:longitude":-58.462,
     "mz:hierarchy_label":1,
@@ -86,9 +87,6 @@
     "name:swe_x_preferred":[
         "Barrio Flores"
     ],
-    "name:unk_x_variant":[
-        "Flores"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -137,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -149,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3433918,
         "gp:id":330657,
-        "qs:id":117007,
         "qs_pg:id":117007,
         "wd:id":"Q643907",
         "wk:page":"Flores, Buenos Aires"
@@ -170,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865737,
+    "wof:lastmodified":1566587667,
     "wof:name":"Flores",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-31.38731,
     "geom:longitude":-63.41821,
     "iso:country":"AR",
+    "lbl:bbox":"-63.43821,-31.40731,-63.39821,-31.36731",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santiago Temple"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0422\u0435\u043c\u043f\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sagrado Temple"
     ],
     "qs:gn_country":"AR",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3835866,
         "gp:id":466451,
-        "qs:id":291382,
+        "qs_pg:id":291382,
         "wd:id":"Q9074307"
     },
     "wof:country":"AR",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421193793,
-    "wof:lastmodified":1562866587,
+    "wof:lastmodified":1566588141,
     "wof:name":"Santiago Temple",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

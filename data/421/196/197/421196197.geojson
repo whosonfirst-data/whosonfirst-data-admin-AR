@@ -10,8 +10,12 @@
     "geom:latitude":-41.25,
     "geom:longitude":-68.73333,
     "iso:country":"AR",
+    "lbl:bbox":"-68.75333,-41.27,-68.71333,-41.23",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Maquinchao"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3844933,
         "gp:id":467308,
-        "qs:id":1046883,
+        "qs_pg:id":1046883,
         "wd:id":"Q2171426",
         "wk:page":"Maquinchao"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421196197,
-    "wof:lastmodified":1562866855,
+    "wof:lastmodified":1566588250,
     "wof:name":"Maquinchao",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

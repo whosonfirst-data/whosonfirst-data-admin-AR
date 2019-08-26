@@ -10,8 +10,12 @@
     "geom:latitude":-31.31649,
     "geom:longitude":-65.08529,
     "iso:country":"AR",
+    "lbl:bbox":"-65.10529,-31.33649,-65.06529,-31.29649",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Salsacate"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3838237,
         "gp:id":467411,
-        "qs:id":895317,
+        "qs_pg:id":895317,
         "wd:id":"Q3111167",
         "wk:page":"Salsacate"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421174703,
-    "wof:lastmodified":1562866680,
+    "wof:lastmodified":1566588178,
     "wof:name":"Salsacate",
     "wof:parent_id":421171491,
     "wof:placetype":"locality",

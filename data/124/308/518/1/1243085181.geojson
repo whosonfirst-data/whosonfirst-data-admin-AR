@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.54979,-34.74296,-58.50979,-34.70296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0648\u062f\u0627\u062f \u0627\u0648\u06cc\u062a\u0627"
     ],
@@ -60,9 +64,7 @@
         "Ciudad General Belgrano"
     ],
     "name:und_x_variant":[
-        "General Martin Miguel de Guemes",
-        "Ciudad Evita",
-        "Ciudad General Belgrano"
+        "General Martin Miguel de Guemes"
     ],
     "name:zho_x_preferred":[
         "\u827e\u8587\u5854\u5e02"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1243085181,
-    "wof:lastmodified":1562867174,
+    "wof:lastmodified":1566588387,
     "wof:name":"Ciudad General Belgrano",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

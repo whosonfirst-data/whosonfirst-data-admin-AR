@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.090508,
     "lbl:longitude":-63.08962,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Pu\u00e1n",
     "meso:gadm_hasc2":"AR.BA.PU",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.08962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Puan"
     ],
@@ -66,9 +69,9 @@
         "Puan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"6,385.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108718063,
-    "wof:lastmodified":1562866323,
+    "wof:lastmodified":1566588008,
     "wof:name":"Puan",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

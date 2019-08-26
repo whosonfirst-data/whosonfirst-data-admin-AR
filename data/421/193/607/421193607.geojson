@@ -10,8 +10,12 @@
     "geom:latitude":-32.161953,
     "geom:longitude":-58.401603,
     "iso:country":"AR",
+    "lbl:bbox":"-58.421603,-32.181953,-58.381603,-32.141953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Elisa"
@@ -101,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040474,
-        "qs:id":8503
+        "qs_pg:id":8503
     },
     "wof:country":"AR",
     "wof:created":1459009777,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421193607,
-    "wof:lastmodified":1562866591,
+    "wof:lastmodified":1566588142,
     "wof:name":"Elisa",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

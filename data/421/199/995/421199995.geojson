@@ -10,6 +10,9 @@
     "geom:latitude":-37.37809,
     "geom:longitude":-70.27085,
     "iso:country":"AR",
+    "lbl:bbox":"-70.29085,-37.39809,-70.25085,-37.35809",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":3861262,
         "gp:id":466931,
-        "qs:id":1241317,
+        "qs_pg:id":1241317,
         "wd:id":"Q288993",
         "wk:page":"Chos Malal"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421199995,
-    "wof:lastmodified":1562866923,
+    "wof:lastmodified":1566588277,
     "wof:name":"Chos Malal",
     "wof:parent_id":421199899,
     "wof:placetype":"locality",

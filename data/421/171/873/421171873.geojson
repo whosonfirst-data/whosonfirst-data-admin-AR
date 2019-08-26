@@ -10,8 +10,12 @@
     "geom:latitude":-25.96684,
     "geom:longitude":-65.8493,
     "iso:country":"AR",
+    "lbl:bbox":"-65.8693,-25.98684,-65.8293,-25.94684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Corralito"
@@ -79,9 +83,11 @@
     "wof:concordances":{
         "gn:id":3860079,
         "gp:id":465241,
-        "qs:id":1270793,
         "qs_pg:id":150526,
         "wd:id":"Q1135266"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1270793
     },
     "wof:country":"AR",
     "wof:created":1459008910,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421171873,
-    "wof:lastmodified":1562867033,
+    "wof:lastmodified":1566588325,
     "wof:name":"Corralito",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

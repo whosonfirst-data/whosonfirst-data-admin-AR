@@ -10,8 +10,12 @@
     "geom:latitude":-31.11732,
     "geom:longitude":-64.48084,
     "iso:country":"AR",
+    "lbl:bbox":"-64.50084,-31.13732,-64.46084,-31.09732",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Valle Hermoso"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3833211,
         "gp:id":466692,
-        "qs:id":906652,
+        "qs_pg:id":906652,
         "wd:id":"Q9092406",
         "wk:page":"Valle Hermoso, C\u00f3rdoba"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421194747,
-    "wof:lastmodified":1562866576,
+    "wof:lastmodified":1566588137,
     "wof:name":"Valle Hermoso",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

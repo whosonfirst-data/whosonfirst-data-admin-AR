@@ -10,8 +10,12 @@
     "geom:latitude":-35.57297,
     "geom:longitude":-58.00809,
     "iso:country":"AR",
+    "lbl:bbox":"-58.02809,-35.59297,-57.98809,-35.55297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0633\u0643\u0648\u0645\u0648\u0633"
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":3435448,
         "gp:id":466927,
-        "qs:id":900262,
+        "qs_pg:id":900262,
         "wd:id":"Q2677190",
         "wk:page":"Chascom\u00fas"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421174841,
-    "wof:lastmodified":1562866681,
+    "wof:lastmodified":1566588179,
     "wof:name":"Chascom\u00fas",
     "wof:parent_id":1108717915,
     "wof:placetype":"locality",

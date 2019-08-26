@@ -10,8 +10,12 @@
     "geom:latitude":-38.08606,
     "geom:longitude":-63.43169,
     "iso:country":"AR",
+    "lbl:bbox":"-63.45169,-38.10606,-63.41169,-38.06606",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jacinto Arauz"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0441\u0456\u043d\u0442\u043e-\u0410\u0440\u0430\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J. Arauz"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3853592,
         "gp:id":467724,
-        "qs:id":703980,
+        "qs_pg:id":703980,
         "wd:id":"Q3157094",
         "wk:page":"Jacinto Ar\u00e1uz"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421195081,
-    "wof:lastmodified":1562866563,
+    "wof:lastmodified":1566588132,
     "wof:name":"Jacinto Arauz",
     "wof:parent_id":421181665,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-32.394243,
     "lbl:longitude":-69.210875,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mendoza",
     "meso:gadm_admin":"Las Heras",
     "meso:gadm_hasc2":"AR.MZ.LH",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.210875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Heras"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"8,955.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":20071026,
         "hasc:id":"AR.MZ.LH",
-        "qs:id":220148
+        "qs_pg:id":220148
     },
     "wof:country":"AR",
     "wof:created":1459008837,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421170121,
-    "wof:lastmodified":1562866976,
+    "wof:lastmodified":1566588299,
     "wof:name":"Las Heras",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

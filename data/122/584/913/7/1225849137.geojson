@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-57.76281,-36.22703,-57.72281,-36.18703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seving\u00e9",
         "Sevign\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225849137,
-    "wof:lastmodified":1537584815,
+    "wof:lastmodified":1566588565,
     "wof:name":"Sevigne",
     "wof:parent_id":1108717921,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-32.62591,
     "geom:longitude":-62.68873,
     "iso:country":"AR",
+    "lbl:bbox":"-62.70873,-32.64591,-62.66873,-32.60591",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":3864331,
         "gp:id":466906,
-        "qs:id":313549,
+        "qs_pg:id":313549,
         "wd:id":"Q284308",
         "wk:page":"Bell Ville"
     },
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421174005,
-    "wof:lastmodified":1562866695,
+    "wof:lastmodified":1566588183,
     "wof:name":"Bell Ville",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-27.59341,
     "geom:longitude":-64.91502,
     "iso:country":"AR",
+    "lbl:bbox":"-64.93502,-27.61341,-64.89502,-27.57341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa R\u00edo Hondo"
@@ -32,9 +36,6 @@
         "Villa R\u00edo Hondo"
     ],
     "name:swe_x_preferred":[
-        "Villa R\u00edo Hondo"
-    ],
-    "name:unk_x_variant":[
         "Villa R\u00edo Hondo"
     ],
     "qs:gn_country":"AR",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3832637,
         "gp:id":466776,
-        "qs:id":33930,
+        "qs_pg:id":33930,
         "wd:id":"Q2072866",
         "wk:page":"Villa R\u00edo Hondo"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421194877,
-    "wof:lastmodified":1562866579,
+    "wof:lastmodified":1566588138,
     "wof:name":"R\u00edo Hondo",
     "wof:parent_id":421186443,
     "wof:placetype":"locality",

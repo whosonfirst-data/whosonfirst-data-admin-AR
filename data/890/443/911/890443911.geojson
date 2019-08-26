@@ -11,10 +11,14 @@
     "geom:longitude":-59.65834,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":23077,
+    "gn:population":23077,
     "iso:country":"AR",
+    "lbl:bbox":"-59.67834,-29.13761,-59.63834,-29.09761",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
     ],
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estaci\u00f3n Ewald"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":3436230,
         "gp:id":464713,
-        "qs:id":1032224,
+        "qs_pg:id":1032224,
         "wd:id":"Q932398",
         "wk:page":"Avellaneda"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":890443911,
-    "wof:lastmodified":1562867119,
+    "wof:lastmodified":1566588361,
     "wof:name":"Avellaneda",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

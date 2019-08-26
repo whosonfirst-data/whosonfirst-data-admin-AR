@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-57.99945,-25.27021,-57.95945,-25.23021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palma Sola"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243063805,
-    "wof:lastmodified":1562867177,
+    "wof:lastmodified":1566588388,
     "wof:name":"Palma Sola",
     "wof:parent_id":1108718273,
     "wof:placetype":"locality",

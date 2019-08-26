@@ -10,8 +10,12 @@
     "geom:latitude":-40.816277,
     "geom:longitude":-62.99046,
     "iso:country":"AR",
+    "lbl:bbox":"-63.01046,-40.836277,-62.97046,-40.796277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u0645\u0627"
@@ -219,9 +223,11 @@
     "wof:concordances":{
         "gn:id":3832899,
         "gp:id":467077,
-        "qs:id":1077412,
         "qs_pg:id":1046738,
         "wd:id":"Q44240"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077412
     },
     "wof:country":"AR",
     "wof:created":1459009496,
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":421186917,
-    "wof:lastmodified":1562866771,
+    "wof:lastmodified":1566588216,
     "wof:name":"Viedma",
     "wof:parent_id":421186207,
     "wof:placetype":"locality",

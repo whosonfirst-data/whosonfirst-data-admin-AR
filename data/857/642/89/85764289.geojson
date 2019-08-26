@@ -9,14 +9,15 @@
     "geom:bbox":"-58.3774253374,-34.6294937857,-58.3634549856,-34.6156251471",
     "geom:latitude":-34.62152,
     "geom:longitude":-58.371541,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.62,
     "gn:longitude":-58.37122,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.621354,
     "lbl:longitude":-58.371674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.623249,
     "mps:longitude":-58.366181,
     "mz:hierarchy_label":1,
@@ -96,9 +97,6 @@
     "name:swe_x_preferred":[
         "Barrio San Telmo"
     ],
-    "name:unk_x_variant":[
-        "San Telmo"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -147,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -159,7 +157,6 @@
     "wof:concordances":{
         "gn:id":3428113,
         "gp:id":332073,
-        "qs:id":776434,
         "qs_pg:id":776434,
         "wd:id":"Q1026688",
         "wk:page":"San Telmo, Buenos Aires"
@@ -180,7 +177,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865714,
+    "wof:lastmodified":1566587659,
     "wof:name":"San Telmo",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

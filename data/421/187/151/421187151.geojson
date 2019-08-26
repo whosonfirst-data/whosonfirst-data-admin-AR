@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-24.577601,
     "lbl:longitude":-65.441111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"La Caldera",
     "meso:gadm_hasc2":"AR.SA.LC",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.441111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Caldera"
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "La Caldera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento de la Caldera"
     ],
     "name:urd_x_preferred":[
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"867.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -131,7 +134,7 @@
         "gn:id":3863400,
         "gp:id":20070733,
         "hasc:id":"AR.SA.LC",
-        "qs:id":1081850,
+        "qs_pg:id":1081850,
         "wd:id":"Q1190675",
         "wk:page":"La Caldera Department"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421187151,
-    "wof:lastmodified":1562866708,
+    "wof:lastmodified":1566588188,
     "wof:name":"La Caldera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.53396,
     "geom:longitude":-58.57017,
     "iso:country":"AR",
+    "lbl:bbox":"-58.59017,-34.55396,-58.55017,-34.51396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Operation Massaker"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "Operaci\u00f3n Masacre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jos\u00e9 L. Su\u00e1rez"
     ],
     "qs:gn_country":"AR",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3433323,
         "gp:id":330780,
-        "qs:id":232774
+        "qs_pg:id":232774
     },
     "wof:country":"AR",
     "wof:created":1459010155,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421203521,
-    "wof:lastmodified":1501266405,
+    "wof:lastmodified":1566588165,
     "wof:name":"Jos\u00e9 Le\u00f3n Su\u00e1rez",
     "wof:parent_id":1108717969,
     "wof:placetype":"locality",

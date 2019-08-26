@@ -10,8 +10,12 @@
     "geom:latitude":-35.05184,
     "geom:longitude":-58.76061,
     "iso:country":"AR",
+    "lbl:bbox":"-58.78061,-35.07184,-58.74061,-35.03184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ca\u00f1uelas"
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3435713,
         "gp:id":466916,
-        "qs:id":454536,
+        "qs_pg:id":454536,
         "wd:id":"Q933355",
         "wk:page":"Ca\u00f1uelas, Buenos Aires"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421195633,
-    "wof:lastmodified":1562866547,
+    "wof:lastmodified":1566588126,
     "wof:name":"Ca\u00f1uelas",
     "wof:parent_id":1108717887,
     "wof:placetype":"locality",

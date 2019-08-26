@@ -10,10 +10,14 @@
     "geom:latitude":-36.19081,
     "geom:longitude":-69.65829,
     "iso:country":"AR",
+    "lbl:bbox":"-69.67829,-36.21081,-69.63829,-36.17081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chacras"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3848585,
         "gp:id":468921,
-        "qs:id":352922
+        "qs_pg:id":352922
     },
     "wof:country":"AR",
     "wof:created":1459009056,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421175129,
-    "wof:lastmodified":1501268871,
+    "wof:lastmodified":1566588224,
     "wof:name":"Las Chacras",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

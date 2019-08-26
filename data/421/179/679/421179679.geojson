@@ -10,8 +10,12 @@
     "geom:latitude":-34.45761,
     "geom:longitude":-58.91384,
     "iso:country":"AR",
+    "lbl:bbox":"-58.93384,-34.47761,-58.89384,-34.43761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0631\u060c \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":3429980,
         "gp:id":466881,
-        "qs:id":430927,
+        "qs_pg:id":430927,
         "wd:id":"Q1786597",
         "wk:page":"Pilar, Buenos Aires"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":421179679,
-    "wof:lastmodified":1562866998,
+    "wof:lastmodified":1566588311,
     "wof:name":"Pilar",
     "wof:parent_id":1108718057,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.68573,
     "geom:longitude":-58.89324,
     "iso:country":"AR",
+    "lbl:bbox":"-58.91324,-32.70573,-58.87324,-32.66573",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Urdinarrain"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3427582,
         "gp:id":467069,
-        "qs:id":1044592,
+        "qs_pg:id":1044592,
         "wd:id":"Q2032321",
         "wk:page":"Urdinarrain"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421196329,
-    "wof:lastmodified":1562866870,
+    "wof:lastmodified":1566588255,
     "wof:name":"Urdinarrain",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

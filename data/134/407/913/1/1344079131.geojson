@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.22322,-30.23221,-58.18322,-30.19221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "V. Fern\u00e1ndez"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344079131,
-    "wof:lastmodified":1537584906,
+    "wof:lastmodified":1566587617,
     "wof:name":"V. Fernandez",
     "wof:parent_id":1108718175,
     "wof:placetype":"locality",

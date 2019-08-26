@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-63.51413,-22.92027,-63.47413,-22.88027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corralito"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1309688443,
-    "wof:lastmodified":1562866487,
+    "wof:lastmodified":1566588099,
     "wof:name":"Corralito",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

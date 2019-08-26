@@ -10,8 +10,12 @@
     "geom:latitude":-26.59344,
     "geom:longitude":-65.92511,
     "iso:country":"AR",
+    "lbl:bbox":"-65.94511,-26.61344,-65.90511,-26.57344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Amaich\u00e1 del Valle"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Amaich\u00e1 del Valle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amaich\u00e1"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3865969,
         "gp:id":464616,
-        "qs:id":906645,
+        "qs_pg:id":906645,
         "wd:id":"Q452542",
         "wk:page":"Amaicha del Valle"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421194741,
-    "wof:lastmodified":1562866577,
+    "wof:lastmodified":1566588137,
     "wof:name":"Amaich\u00e1 del Valle",
     "wof:parent_id":421186297,
     "wof:placetype":"locality",

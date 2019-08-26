@@ -10,8 +10,12 @@
     "geom:latitude":-35.025,
     "geom:longitude":-58.42276,
     "iso:country":"AR",
+    "lbl:bbox":"-58.44276,-35.045,-58.40276,-35.005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Vicente"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3428067,
         "gp:id":332900,
-        "qs:id":216611,
+        "qs_pg:id":216611,
         "wd:id":"Q2763109",
         "wk:page":"San Vicente, Buenos Aires"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421201943,
-    "wof:lastmodified":1562866955,
+    "wof:lastmodified":1566588289,
     "wof:name":"San Vicente",
     "wof:parent_id":1108718107,
     "wof:placetype":"locality",

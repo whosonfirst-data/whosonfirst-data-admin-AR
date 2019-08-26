@@ -10,8 +10,12 @@
     "geom:latitude":-25.79693,
     "geom:longitude":-64.97094,
     "iso:country":"AR",
+    "lbl:bbox":"-64.99094,-25.81693,-64.95094,-25.77693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Rosario de la Frontera"
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":3838564,
         "gp:id":467050,
-        "qs:id":1212305,
+        "qs_pg:id":1212305,
         "wd:id":"Q106122"
     },
     "wof:country":"AR",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421195125,
-    "wof:lastmodified":1561793226,
+    "wof:lastmodified":1566588134,
     "wof:name":"Rosario de la Frontera",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",

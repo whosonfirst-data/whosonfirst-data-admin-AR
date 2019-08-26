@@ -10,8 +10,12 @@
     "geom:latitude":-31.16486,
     "geom:longitude":-64.32241,
     "iso:country":"AR",
+    "lbl:bbox":"-64.34241,-31.18486,-64.30241,-31.14486",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "R\u00edo Ceballos"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u0421\u0435\u0431\u0430\u043b\u044c\u0439\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00edo Zeballos"
     ],
     "qs:gn_country":"AR",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3838902,
         "gp:id":466370,
-        "qs:id":1053929,
+        "qs_pg:id":1053929,
         "wd:id":"Q990605",
         "wk:page":"R\u00edo Ceballos"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421185865,
-    "wof:lastmodified":1562867067,
+    "wof:lastmodified":1566588346,
     "wof:name":"R\u00edo Ceballos",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

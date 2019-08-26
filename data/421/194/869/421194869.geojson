@@ -10,8 +10,12 @@
     "geom:latitude":-34.46574,
     "geom:longitude":-59.99738,
     "iso:country":"AR",
+    "lbl:bbox":"-60.01738,-34.48574,-59.97738,-34.44574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0422\u0440\u044d\u0441-\u0421\u0430\u0440\u0433\u0435\u043d\u0442\u0430\u0441"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3833685,
         "gp:id":332294,
-        "qs:id":22899,
+        "qs_pg:id":22899,
         "wd:id":"Q634990",
         "wk:page":"Tres Sargentos"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421194869,
-    "wof:lastmodified":1562866576,
+    "wof:lastmodified":1566588136,
     "wof:name":"Tres Sargentos",
     "wof:parent_id":1108717897,
     "wof:placetype":"locality",

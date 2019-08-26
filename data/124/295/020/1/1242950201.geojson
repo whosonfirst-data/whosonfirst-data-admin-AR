@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-65.41851,-29.91962,-65.37851,-29.87962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Quimilo"
     ],
     "name:und_x_variant":[
-        "Pozo del Quimilo",
-        "El Quimilo"
+        "Pozo del Quimilo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242950201,
-    "wof:lastmodified":1562867200,
+    "wof:lastmodified":1566588402,
     "wof:name":"El Quimilo",
     "wof:parent_id":1108718153,
     "wof:placetype":"locality",

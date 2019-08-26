@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-66.57349,-29.44632,-66.53349,-29.40632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estanquito",
         "El Estanquito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209893249,
-    "wof:lastmodified":1537584882,
+    "wof:lastmodified":1566587884,
     "wof:name":"El Estanquito",
     "wof:parent_id":1108718321,
     "wof:placetype":"locality",

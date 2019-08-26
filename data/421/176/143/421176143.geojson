@@ -10,8 +10,12 @@
     "geom:latitude":-26.60572,
     "geom:longitude":-65.83265,
     "iso:country":"AR",
+    "lbl:bbox":"-65.85265,-26.62572,-65.81265,-26.58572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":6942606,
         "gp:id":56040381,
-        "qs:id":1044637
+        "qs_pg:id":1044637
     },
     "wof:country":"AR",
     "wof:created":1459009096,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421176143,
-    "wof:lastmodified":1499925354,
+    "wof:lastmodified":1566588321,
     "wof:name":"Ampimpa",
     "wof:parent_id":421186297,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4589348008,-34.6076156443,-58.4233672222,-34.5886677008",
     "geom:latitude":-34.598834,
     "geom:longitude":-58.442722,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.60001,
     "gn:longitude":-58.44735,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.598608,
     "lbl:longitude":-58.442723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.598286,
     "mps:longitude":-58.438029,
     "mz:hierarchy_label":1,
@@ -71,9 +72,6 @@
     "name:spa_x_preferred":[
         "Villa Crespo"
     ],
-    "name:unk_x_variant":[
-        "Villa Crespo"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -122,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":448,
     "wof:belongsto":[
         102191577,
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3427458,
         "gp:id":332352,
-        "qs:id":232794,
         "qs_pg:id":232794,
         "wd:id":"Q1670884",
         "wk:page":"Villa Crespo"
@@ -156,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865707,
+    "wof:lastmodified":1566587657,
     "wof:name":"Villa Crespo",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-33.48482,
     "geom:longitude":-60.00707,
     "iso:country":"AR",
+    "lbl:bbox":"-60.02707,-33.50482,-59.98707,-33.46482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ramallo Partido"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3839444,
         "gp:id":467389,
-        "qs:id":150417,
+        "qs_pg:id":150417,
         "wd:id":"Q2297669",
         "wk:page":"Ramallo Partido"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421195399,
-    "wof:lastmodified":1562866540,
+    "wof:lastmodified":1566588123,
     "wof:name":"Ramallo",
     "wof:parent_id":1108718069,
     "wof:placetype":"locality",

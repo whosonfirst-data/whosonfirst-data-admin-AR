@@ -10,8 +10,12 @@
     "geom:latitude":-34.65582,
     "geom:longitude":-58.65836,
     "iso:country":"AR",
+    "lbl:bbox":"-58.67836,-34.67582,-58.63836,-34.63582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ituzaing\u00f3"
@@ -331,7 +335,7 @@
     "wof:concordances":{
         "gn:id":3433359,
         "gp:id":465609,
-        "qs:id":1134914,
+        "qs_pg:id":1134914,
         "wd:id":"Q615244",
         "wk:page":"Ituzaing\u00f3, Buenos Aires"
     },
@@ -348,7 +352,7 @@
         }
     ],
     "wof:id":421191303,
-    "wof:lastmodified":1562866892,
+    "wof:lastmodified":1566588264,
     "wof:name":"Ituzaing\u00f3",
     "wof:parent_id":1108718033,
     "wof:placetype":"locality",

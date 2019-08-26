@@ -10,8 +10,12 @@
     "geom:latitude":-25.91641,
     "geom:longitude":-54.62089,
     "iso:country":"AR",
+    "lbl:bbox":"-54.64089,-25.93641,-54.60089,-25.89641",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Puerto Libertad"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3429764,
         "gp:id":466257,
-        "qs:id":1004194,
+        "qs_pg:id":1004194,
         "wd:id":"Q3036970",
         "wk:page":"Puerto Libertad"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421184729,
-    "wof:lastmodified":1562866969,
+    "wof:lastmodified":1566588295,
     "wof:name":"Puerto Libertad",
     "wof:parent_id":85676705,
     "wof:placetype":"locality",

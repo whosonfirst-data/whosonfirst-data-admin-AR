@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-30.161172,
     "lbl:longitude":-67.267556,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Rioja",
     "meso:gadm_admin":"Independencia",
     "meso:gadm_hasc2":"AR.LR.IN",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.267556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
     ],
@@ -86,9 +89,9 @@
         "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"7,120.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108718345,
-    "wof:lastmodified":1562866274,
+    "wof:lastmodified":1566587976,
     "wof:name":"Independencia",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

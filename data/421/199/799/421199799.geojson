@@ -10,8 +10,12 @@
     "geom:latitude":-26.76667,
     "geom:longitude":-65.3,
     "iso:country":"AR",
+    "lbl:bbox":"-65.32,-26.78667,-65.28,-26.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Falda"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3851335,
         "gp:id":330924,
-        "qs:id":494206
+        "qs_pg:id":494206
     },
     "wof:country":"AR",
     "wof:created":1459010001,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421199799,
-    "wof:lastmodified":1562866918,
+    "wof:lastmodified":1566588274,
     "wof:name":"La Falda",
     "wof:parent_id":421204063,
     "wof:placetype":"locality",

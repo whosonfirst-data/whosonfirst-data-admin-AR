@@ -11,10 +11,14 @@
     "geom:longitude":-61.60222,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":10388,
+    "gn:population":10388,
     "iso:country":"AR",
+    "lbl:bbox":"-61.62222,-32.80215,-61.58222,-32.76215",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u0645\u0633\u062a\u0631\u0648\u0646\u063a"
     ],
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":3865449,
         "gp:id":91862884,
-        "qs:id":848439,
+        "qs_pg:id":848439,
         "wd:id":"Q2397804",
         "wk:page":"Armstrong"
     },
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":890440125,
-    "wof:lastmodified":1562867084,
+    "wof:lastmodified":1566588352,
     "wof:name":"Armstrong",
     "wof:parent_id":1108718449,
     "wof:placetype":"locality",

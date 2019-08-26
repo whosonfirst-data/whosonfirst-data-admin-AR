@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-66.95728,-41.88169,-66.91728,-41.84169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cona Niyeu",
         "Cona Niyeo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242750471,
-    "wof:lastmodified":1537584889,
+    "wof:lastmodified":1566588397,
     "wof:name":"Cona Niyeo",
     "wof:parent_id":421184329,
     "wof:placetype":"locality",

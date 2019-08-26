@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Rio_Gallegos",
     "iso:country":"AR",
+    "lbl:bbox":"-72.07663,-49.61414,-72.03663,-49.57414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Punta del Lago",
         "Punta de Lago",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344121765,
-    "wof:lastmodified":1537584846,
+    "wof:lastmodified":1566587613,
     "wof:name":"Punta del Lago",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

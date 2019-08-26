@@ -10,6 +10,9 @@
     "geom:latitude":-32.89084,
     "geom:longitude":-68.82717,
     "iso:country":"AR",
+    "lbl:bbox":"-68.84717,-32.91084,-68.80717,-32.87084",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -400,7 +403,7 @@
     "wof:concordances":{
         "gn:id":3844421,
         "gp:id":332471,
-        "qs:id":1299039,
+        "qs_pg:id":1299039,
         "wd:id":"Q44237",
         "wk:page":"Mendoza, Argentina"
     },
@@ -417,7 +420,7 @@
         }
     ],
     "wof:id":421200319,
-    "wof:lastmodified":1562866945,
+    "wof:lastmodified":1566588285,
     "wof:name":"Mendoza",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

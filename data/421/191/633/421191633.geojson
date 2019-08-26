@@ -10,8 +10,12 @@
     "geom:latitude":-25.24769,
     "geom:longitude":-58.09383,
     "iso:country":"AR",
+    "lbl:bbox":"-58.11383,-25.26769,-58.07383,-25.22769",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Laguna Naick Neck"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0433\u0443\u043d\u0430-\u041d\u0430\u0439\u043a-\u041d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laguna Naineck"
     ],
     "qs:gn_country":"AR",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3432463,
         "gp:id":465654,
-        "qs:id":1149700,
+        "qs_pg:id":1149700,
         "wd:id":"Q5573129"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421191633,
-    "wof:lastmodified":1562866884,
+    "wof:lastmodified":1566588261,
     "wof:name":"Laguna Naick-Neck",
     "wof:parent_id":1108718273,
     "wof:placetype":"locality",

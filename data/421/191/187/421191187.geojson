@@ -10,8 +10,12 @@
     "geom:latitude":-34.57072,
     "geom:longitude":-58.52436,
     "iso:country":"AR",
+    "lbl:bbox":"-58.54436,-34.59072,-58.50436,-34.55072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u0646"
@@ -67,9 +71,6 @@
     "name:swe_x_preferred":[
         "San Mart\u00edn"
     ],
-    "name:unk_x_variant":[
-        "General San Mart\u00edn"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u4e01"
     ],
@@ -106,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3433779,
         "gp:id":330692,
-        "qs:id":1133512,
+        "qs_pg:id":1133512,
         "wd:id":"Q781245",
         "wk:page":"San Mart\u00edn, Buenos Aires"
     },
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421191187,
-    "wof:lastmodified":1562866887,
+    "wof:lastmodified":1566588262,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108717969,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.832085,
     "lbl:longitude":-68.804478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Neuquen",
     "meso:gadm_admin":"Confluencia",
     "meso:gadm_hasc2":"AR.NQ.CO",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.804478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Confluencia"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"7,352.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":20071037,
         "hasc:id":"AR.NQ.CO",
-        "qs:id":241860
+        "qs_pg:id":241860
     },
     "wof:country":"AR",
     "wof:created":1459008824,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421169777,
-    "wof:lastmodified":1560898142,
+    "wof:lastmodified":1566588148,
     "wof:name":"Confluencia",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

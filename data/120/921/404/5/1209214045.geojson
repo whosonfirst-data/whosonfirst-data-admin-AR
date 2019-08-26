@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-62.32123,-31.98999,-62.28123,-31.94999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -35,7 +39,7 @@
         "gn:id":3858007
     },
     "wof:country":"AR",
-    "wof:geomhash":"b0bb283e49e8db7d9ec2b760fa0a8570",
+    "wof:geomhash":"b58cd906df0536b49f944e35004be2c3",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209214045,
-    "wof:lastmodified":1536294193,
+    "wof:lastmodified":1566587887,
     "wof:name":"El Fortin",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -62.30123,
-    -31.969990000000006,
+    -31.96999000000001,
     -62.30123,
-    -31.969990000000006
+    -31.96999000000001
 ],
   "geometry": {"coordinates":[-62.30123,-31.96999000000001],"type":"Point"}
 }

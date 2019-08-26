@@ -11,10 +11,14 @@
     "geom:longitude":-58.38694,
     "gn:country":"AR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-58.40694,-34.93722,-58.36694,-34.89722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u064a\u0643\u0627"
     ],
@@ -190,13 +194,13 @@
     "wof:concordances":{
         "gn:id":3480740,
         "gp:id":56064278,
-        "qs:id":375444,
+        "qs_pg:id":375444,
         "wd:id":"Q772875",
         "wk:page":"Guernica"
     },
     "wof:concordances_alt":{
         "gp:id":22528584,
-        "qs:id":896241
+        "qs_pg:id":896241
     },
     "wof:country":"AR",
     "wof:created":1469051851,
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":890430403,
-    "wof:lastmodified":1562867100,
+    "wof:lastmodified":1566588355,
     "wof:name":"Guernica",
     "wof:parent_id":1108718061,
     "wof:placetype":"locality",

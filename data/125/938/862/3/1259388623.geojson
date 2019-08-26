@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-67.80981,-45.77016,-67.76981,-45.73016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Escalante"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1259388623,
-    "wof:lastmodified":1562867288,
+    "wof:lastmodified":1566588452,
     "wof:name":"Escalante",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-31.33333,
     "geom:longitude":-63.61667,
     "iso:country":"AR",
+    "lbl:bbox":"-63.63667,-31.35333,-63.59667,-31.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "R\u00edo Primero"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3838823,
         "gp:id":467044,
-        "qs:id":150413,
+        "qs_pg:id":150413,
         "wd:id":"Q2044620"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421197817,
-    "wof:lastmodified":1562866908,
+    "wof:lastmodified":1566588271,
     "wof:name":"R\u00edo Primero",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

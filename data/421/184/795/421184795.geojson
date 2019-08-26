@@ -10,8 +10,12 @@
     "geom:latitude":-26.60587,
     "geom:longitude":-54.78093,
     "iso:country":"AR",
+    "lbl:bbox":"-54.80093,-26.62587,-54.76093,-26.58587",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Caraguatay"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Caraguatay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Caraguatay"
     ],
     "qs:gn_country":"AR",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3435679,
         "gp:id":468821,
-        "qs:id":1010271,
+        "qs_pg:id":1010271,
         "wd:id":"Q5037636",
         "wk:page":"Caraguatay (Argentina)"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421184795,
-    "wof:lastmodified":1562866964,
+    "wof:lastmodified":1566588293,
     "wof:name":"Caraguatay",
     "wof:parent_id":85668079,
     "wof:placetype":"locality",

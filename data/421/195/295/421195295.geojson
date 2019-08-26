@@ -10,8 +10,12 @@
     "geom:latitude":-35.43955,
     "geom:longitude":-60.71593,
     "iso:country":"AR",
+    "lbl:bbox":"-60.73593,-35.45955,-60.69593,-35.41955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3841763,
         "gp:id":467828,
-        "qs:id":150430
+        "qs_pg:id":150430
     },
     "wof:country":"AR",
     "wof:created":1459009839,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421195295,
-    "wof:lastmodified":1499925077,
+    "wof:lastmodified":1566588127,
     "wof:name":"Patricios",
     "wof:parent_id":1108718041,
     "wof:placetype":"locality",

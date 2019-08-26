@@ -10,8 +10,12 @@
     "geom:latitude":-36.701663,
     "geom:longitude":-56.677265,
     "iso:country":"AR",
+    "lbl:bbox":"-56.697265,-36.721663,-56.657265,-36.681663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Bernardo"
@@ -95,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":331862,
-        "qs:id":1057606
+        "qs_pg:id":1057606
     },
     "wof:country":"AR",
     "wof:created":1459009462,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421186013,
-    "wof:lastmodified":1562866758,
+    "wof:lastmodified":1566588211,
     "wof:name":"San Bernardo",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.59825,
     "geom:longitude":-66.12539,
     "iso:country":"AR",
+    "lbl:bbox":"-66.14539,-32.61825,-66.10539,-32.57825",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Francisco del Monte de Oro"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e-\u0434\u0435\u043b\u044c-\u041c\u043e\u043d\u0442\u0435-\u0434\u0435-\u041e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Francisco"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3837624,
         "gp:id":331913,
-        "qs:id":970672,
+        "qs_pg:id":970672,
         "wd:id":"Q1015495",
         "wk:page":"San Francisco del Monte de Oro"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421175499,
-    "wof:lastmodified":1561793245,
+    "wof:lastmodified":1566588223,
     "wof:name":"San Francisco del Monte De Oro",
     "wof:parent_id":421171473,
     "wof:placetype":"locality",

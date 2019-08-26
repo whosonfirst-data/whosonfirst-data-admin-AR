@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-36.47,
     "lbl:longitude":-60.183244,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Tapalqu\u00e9",
     "meso:gadm_hasc2":"AR.BA.TP",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.183244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tapalqu\u00e9"
     ],
@@ -45,9 +48,9 @@
         "Tapalqu\u00e9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"4,172.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108718115,
-    "wof:lastmodified":1560901503,
+    "wof:lastmodified":1566587957,
     "wof:name":"Tapalque",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

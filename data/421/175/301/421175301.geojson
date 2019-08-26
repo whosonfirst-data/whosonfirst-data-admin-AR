@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-43.307034,
     "lbl:longitude":-70.271771,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chubut",
     "meso:gadm_admin":"Langui\u00f1eo",
     "meso:gadm_hasc2":"AR.CH.LA",
@@ -37,6 +39,7 @@
     "mps:longitude":-70.271771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Departamento de Langui\u00f1eo"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"15,339.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":20071052,
         "hasc:id":"AR.CH.LA",
-        "qs:id":364649
+        "qs_pg:id":364649
     },
     "wof:country":"AR",
     "wof:created":1459009062,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421175301,
-    "wof:lastmodified":1560898147,
+    "wof:lastmodified":1566588222,
     "wof:name":"Langui\u00f1eo",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

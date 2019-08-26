@@ -10,8 +10,12 @@
     "geom:latitude":-37.51967,
     "geom:longitude":-60.76774,
     "iso:country":"AR",
+    "lbl:bbox":"-60.78774,-37.53967,-60.74774,-37.49967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3840212,
         "gp:id":466214,
-        "qs:id":291373
+        "qs_pg:id":291373
     },
     "wof:country":"AR",
     "wof:created":1459008990,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421173581,
-    "wof:lastmodified":1562866713,
+    "wof:lastmodified":1566588191,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":1108717995,
     "wof:placetype":"locality",

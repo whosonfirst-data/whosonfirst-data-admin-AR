@@ -11,10 +11,14 @@
     "geom:longitude":-64.2447,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":7151,
+    "gn:population":7151,
     "iso:country":"AR",
+    "lbl:bbox":"-64.2647,-35.05658,-64.2247,-35.01658",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Realic\u00f3"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3839282,
         "gp:id":467394,
-        "qs:id":585535,
+        "qs_pg:id":585535,
         "wd:id":"Q3036199",
         "wk:page":"Realic\u00f3"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890439943,
-    "wof:lastmodified":1562867096,
+    "wof:lastmodified":1566588355,
     "wof:name":"Realic\u00f3",
     "wof:parent_id":1108718317,
     "wof:placetype":"locality",

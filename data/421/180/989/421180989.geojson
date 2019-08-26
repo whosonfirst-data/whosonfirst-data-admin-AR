@@ -10,8 +10,12 @@
     "geom:latitude":-34.666534,
     "geom:longitude":-58.414993,
     "iso:country":"AR",
+    "lbl:bbox":"-58.434993,-34.686534,-58.394993,-34.646534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0646\u062a\u064a\u0646 \u0623\u0644\u0633\u064a\u0646\u0627"
@@ -106,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":468998,
-        "qs:id":471483,
+        "qs_pg:id":471483,
         "wd:id":"Q2129610"
     },
     "wof:country":"AR",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421180989,
-    "wof:lastmodified":1562866706,
+    "wof:lastmodified":1566588187,
     "wof:name":"Valent\u00edn Alsina",
     "wof:parent_id":421179647,
     "wof:placetype":"locality",

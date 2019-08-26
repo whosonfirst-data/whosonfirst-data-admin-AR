@@ -10,8 +10,12 @@
     "geom:latitude":-40.04811,
     "geom:longitude":-70.0741,
     "iso:country":"AR",
+    "lbl:bbox":"-70.0941,-40.06811,-70.0541,-40.02811",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Piedra del \u00c1guila"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u0454\u0434\u0440\u0430-\u0434\u0435\u043b\u044c-\u0410\u0433\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piedra de Aguila"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3841232,
         "gp:id":467363,
-        "qs:id":263379,
+        "qs_pg:id":263379,
         "wd:id":"Q1015985",
         "wk:page":"Piedra del \u00c1guila"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421205465,
-    "wof:lastmodified":1562866661,
+    "wof:lastmodified":1566588171,
     "wof:name":"Piedra del \u00c1guila",
     "wof:parent_id":421185485,
     "wof:placetype":"locality",

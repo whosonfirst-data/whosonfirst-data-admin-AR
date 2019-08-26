@@ -11,10 +11,14 @@
     "geom:longitude":-62.77078,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1549,
+    "gn:population":1549,
     "iso:country":"AR",
+    "lbl:bbox":"-62.79078,-33.19303,-62.75078,-33.15303",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Wenceslao Escalante"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Wenceslao Escalante"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e9danos de las Ca\u00f1as"
     ],
     "qs:name":"Wenceslao Escalante",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3832398,
         "gp:id":91814913,
-        "qs:id":96605,
+        "qs_pg:id":96605,
         "wd:id":"Q10393380"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890455375,
-    "wof:lastmodified":1562867107,
+    "wof:lastmodified":1566588358,
     "wof:name":"Wenceslao Escalante",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

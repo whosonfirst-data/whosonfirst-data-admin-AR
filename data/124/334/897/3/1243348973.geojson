@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.64734,-30.98873,-58.60734,-30.94873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Propinsi Nueva Vizcaya"
     ],
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1243348973,
-    "wof:lastmodified":1562867241,
+    "wof:lastmodified":1566588427,
     "wof:name":"Nueva Vizcaya",
     "wof:parent_id":1108718247,
     "wof:placetype":"locality",

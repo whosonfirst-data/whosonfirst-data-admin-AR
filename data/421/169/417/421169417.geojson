@@ -10,8 +10,12 @@
     "geom:latitude":-34.98597,
     "geom:longitude":-61.77365,
     "iso:country":"AR",
+    "lbl:bbox":"-61.79365,-35.00597,-61.75365,-34.96597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3865491,
         "gp:id":464676,
-        "qs:id":181812
+        "qs_pg:id":181812
     },
     "wof:country":"AR",
     "wof:created":1459008809,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421169417,
-    "wof:lastmodified":1499925053,
+    "wof:lastmodified":1566588149,
     "wof:name":"Arenaza",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

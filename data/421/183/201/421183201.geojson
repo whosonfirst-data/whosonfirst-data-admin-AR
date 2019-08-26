@@ -10,8 +10,12 @@
     "geom:latitude":-43.699713,
     "geom:longitude":-66.475524,
     "iso:country":"AR",
+    "lbl:bbox":"-66.495524,-43.719713,-66.455524,-43.679713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26795744,
-        "qs:id":967502
+        "qs_pg:id":967502
     },
     "wof:country":"AR",
     "wof:created":1459009361,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421183201,
-    "wof:lastmodified":1499924952,
+    "wof:lastmodified":1566588310,
     "wof:name":"Ea. Los Tajamares",
     "wof:parent_id":421170131,
     "wof:placetype":"locality",

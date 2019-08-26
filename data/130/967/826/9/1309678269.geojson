@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/San_Juan",
     "iso:country":"AR",
+    "lbl:bbox":"-68.70889,-30.42917,-68.66889,-30.38917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eva Per\u00f3n",
         "Niquivil"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309678269,
-    "wof:lastmodified":1537584853,
+    "wof:lastmodified":1566588101,
     "wof:name":"Niquivil",
     "wof:parent_id":421166623,
     "wof:placetype":"locality",

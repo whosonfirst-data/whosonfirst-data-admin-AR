@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-70.64969,-37.7423,-70.60969,-37.7023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Departamento \u00d1orqu\u00edn"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:spa_x_preferred":[
         "Departamento \u00d1orqu\u00edn"
-    ],
-    "name:und_x_variant":[
-        "\u00d1orqu\u00edn"
     ],
     "name:xmf_x_preferred":[
         "\u10dc\u10dd\u10e0\u10d9\u10d8\u10dc\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1327207139,
-    "wof:lastmodified":1562865587,
+    "wof:lastmodified":1566587597,
     "wof:name":"Norquin",
     "wof:parent_id":421169775,
     "wof:placetype":"locality",

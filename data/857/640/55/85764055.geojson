@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4050450004,-34.6625039296,-58.3676488363,-34.6266471605",
     "geom:latitude":-34.646418,
     "geom:longitude":-58.384275,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.64966,
     "gn:longitude":-58.38341,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.646744,
     "lbl:longitude":-58.381456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.660773,
     "mps:longitude":-58.383909,
     "mz:hierarchy_label":1,
@@ -86,9 +87,6 @@
     "name:spa_x_preferred":[
         "Barracas"
     ],
-    "name:unk_x_variant":[
-        "Barracas"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -137,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -149,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3436134,
         "gp:id":329978,
-        "qs:id":1074185,
         "qs_pg:id":1074185,
         "wd:id":"Q680964",
         "wk:page":"Barracas, Buenos Aires"
@@ -170,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865731,
+    "wof:lastmodified":1566587665,
     "wof:name":"Barracas",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

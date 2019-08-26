@@ -10,8 +10,12 @@
     "geom:latitude":-31.55,
     "geom:longitude":-68.73333,
     "iso:country":"AR",
+    "lbl:bbox":"-68.75333,-31.57,-68.71333,-31.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Zonda"
@@ -61,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0411\u0430\u0441\u0456\u043b\u0456\u043e-\u041d\u044c\u0454\u0432\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Villa Basilio Nievas"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u897f\u5229\u5967\u6d85\u5df4\u65af"
     ],
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3832080,
         "gp:id":466859,
-        "qs:id":266383,
+        "qs_pg:id":266383,
         "wd:id":"Q2052395"
     },
     "wof:country":"AR",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421166375,
-    "wof:lastmodified":1562866529,
+    "wof:lastmodified":1566588118,
     "wof:name":"Zonda",
     "wof:parent_id":421194777,
     "wof:placetype":"locality",

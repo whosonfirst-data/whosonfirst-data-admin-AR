@@ -10,8 +10,12 @@
     "geom:latitude":-37.22355,
     "geom:longitude":-62.16434,
     "iso:country":"AR",
+    "lbl:bbox":"-62.18434,-37.24355,-62.14434,-37.20355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3841904,
         "gp:id":467825,
-        "qs:id":1046845
+        "qs_pg:id":1046845
     },
     "wof:country":"AR",
     "wof:created":1459009872,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421196189,
-    "wof:lastmodified":1527716364,
+    "wof:lastmodified":1566588246,
     "wof:name":"Pasman",
     "wof:parent_id":1108717909,
     "wof:placetype":"locality",

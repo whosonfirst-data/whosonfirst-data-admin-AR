@@ -10,8 +10,12 @@
     "geom:latitude":-31.92482,
     "geom:longitude":-60.54734,
     "iso:country":"AR",
+    "lbl:bbox":"-60.56734,-31.94482,-60.52734,-31.90482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Aldea Salto"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3866377,
         "gp:id":464563,
-        "qs:id":495540,
+        "qs_pg:id":495540,
         "wd:id":"Q4713471",
         "wk:page":"Aldea Salto"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421181615,
-    "wof:lastmodified":1562866781,
+    "wof:lastmodified":1566588220,
     "wof:name":"Aldea Salto",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

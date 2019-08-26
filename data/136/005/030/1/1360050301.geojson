@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Rio_Gallegos",
     "iso:country":"AR",
+    "lbl:bbox":"-71.81154,-51.07728,-71.77154,-51.03728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Tapi Aike",
         "Tapi Aike"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360050301,
-    "wof:lastmodified":1537584836,
+    "wof:lastmodified":1566588085,
     "wof:name":"Tapi Aike",
     "wof:parent_id":421200655,
     "wof:placetype":"locality",

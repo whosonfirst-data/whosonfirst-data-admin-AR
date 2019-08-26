@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.71332,-34.79057,-60.67332,-34.75057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u0910\u0930\u093e\u0932 \u092e\u0923\u094d\u0921\u0932"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1360094683,
-    "wof:lastmodified":1562866443,
+    "wof:lastmodified":1566588071,
     "wof:name":"Irala",
     "wof:parent_id":1108717881,
     "wof:placetype":"locality",

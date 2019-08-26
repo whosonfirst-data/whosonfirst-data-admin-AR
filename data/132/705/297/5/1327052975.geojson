@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.37312,-31.22221,-64.33312,-31.18221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Cabana"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327052975,
-    "wof:lastmodified":1562865531,
+    "wof:lastmodified":1566587565,
     "wof:name":"Cabana",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

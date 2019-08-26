@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-32.192598,
     "lbl:longitude":-59.788544,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Entre Rios",
     "meso:gadm_admin":"Nogoy\u00e1",
     "meso:gadm_hasc2":"AR.ER.NO",
@@ -37,6 +39,7 @@
     "mps:longitude":-59.788544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Nogoy\u00e1"
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"4,282.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gp:id":20070903,
         "hasc:id":"AR.ER.NO",
-        "qs:id":1251793,
+        "qs_pg:id":1251793,
         "wd:id":"Q3112762"
     },
     "wof:country":"AR",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421171273,
-    "wof:lastmodified":1562867032,
+    "wof:lastmodified":1566588325,
     "wof:name":"Nogoya",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.85,
     "geom:longitude":-69.25,
     "iso:country":"AR",
+    "lbl:bbox":"-69.27,-32.87,-69.23,-32.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Guido"
@@ -286,7 +290,7 @@
     "wof:concordances":{
         "gn:id":3854429,
         "gp:id":465509,
-        "qs:id":1156099,
+        "qs_pg:id":1156099,
         "wd:id":"Q639762"
     },
     "wof:country":"AR",
@@ -302,7 +306,7 @@
         }
     ],
     "wof:id":421191807,
-    "wof:lastmodified":1562866900,
+    "wof:lastmodified":1566588267,
     "wof:name":"Guido",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

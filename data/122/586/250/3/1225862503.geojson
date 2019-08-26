@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.79205,-34.53469,-58.75205,-34.49469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Pinero"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225862503,
-    "wof:lastmodified":1564218419,
+    "wof:lastmodified":1566588530,
     "wof:name":"Pinero",
     "wof:parent_id":1108717985,
     "wof:placetype":"locality",

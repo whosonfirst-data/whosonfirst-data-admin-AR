@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-59.56225,-34.94156,-59.52225,-34.90156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juan J. Almeyra",
         "J.J. Almeyra",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344061045,
-    "wof:lastmodified":1537584823,
+    "wof:lastmodified":1566587615,
     "wof:name":"Juan Jose Almeyra",
     "wof:parent_id":1108718035,
     "wof:placetype":"locality",

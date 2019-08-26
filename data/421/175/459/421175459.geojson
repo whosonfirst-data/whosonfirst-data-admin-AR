@@ -10,8 +10,12 @@
     "geom:latitude":-37.60509,
     "geom:longitude":-62.40333,
     "iso:country":"AR",
+    "lbl:bbox":"-62.42333,-37.62509,-62.38333,-37.58509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pig\u00fc\u00e9"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3841159,
         "gp:id":467027,
-        "qs:id":967961,
+        "qs_pg:id":967961,
         "wd:id":"Q533416",
         "wk:page":"Pig\u00fc\u00e9"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421175459,
-    "wof:lastmodified":1562866795,
+    "wof:lastmodified":1566588227,
     "wof:name":"Pig\u00fc\u00e9",
     "wof:parent_id":1108718081,
     "wof:placetype":"locality",

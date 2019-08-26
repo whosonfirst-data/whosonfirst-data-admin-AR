@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-64.68323,-23.79813,-64.64323,-23.75813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "23 de Agosto",
         "Veintitr\u00e9s de Agosto"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193121053,
-    "wof:lastmodified":1537584833,
+    "wof:lastmodified":1566587905,
     "wof:name":"Veintitres de Agosto",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

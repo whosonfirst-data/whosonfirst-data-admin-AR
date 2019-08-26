@@ -9,14 +9,15 @@
     "geom:bbox":"-58.5035437666,-34.5996709502,-58.4758890918,-34.5848182166",
     "geom:latitude":-34.592945,
     "geom:longitude":-58.488673,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.5952,
     "gn:longitude":-58.48138,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.592364,
     "lbl:longitude":-58.48888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.508903,
     "mps:longitude":-58.474453,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     "name:swe_x_preferred":[
         "Agronom\u00eda"
     ],
-    "name:unk_x_variant":[
-        "Agronom\u00eda"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u06af\u0631\u0648\u0646\u0648\u0645\u06cc\u0627"
     ],
@@ -134,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":502,
     "wof:belongsto":[
         102191577,
@@ -147,7 +145,6 @@
     "wof:concordances":{
         "gn:id":3436487,
         "gp:id":329843,
-        "qs:id":1262723,
         "qs_pg:id":1262723,
         "wd:id":"Q397422",
         "wk:page":"Agronom\u00eda"
@@ -168,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865734,
+    "wof:lastmodified":1566587666,
     "wof:name":"Agronom\u00eda",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

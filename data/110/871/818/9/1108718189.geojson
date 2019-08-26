@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.832601,
     "lbl:longitude":-57.465097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Corrientes",
     "meso:gadm_admin":"San Miguel",
     "meso:gadm_hasc2":"AR.CN.SG",
@@ -37,6 +39,7 @@
     "mps:longitude":-57.465097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -140,9 +143,9 @@
         "San Miguel"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,863.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1108718189,
-    "wof:lastmodified":1562866244,
+    "wof:lastmodified":1566587951,
     "wof:name":"San Miguel",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

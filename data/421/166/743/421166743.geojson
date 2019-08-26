@@ -10,8 +10,12 @@
     "geom:latitude":-26.69547,
     "geom:longitude":-66.04732,
     "iso:country":"AR",
+    "lbl:bbox":"-66.06732,-26.71547,-66.02732,-26.67547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Mar\u00eda"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3836142,
         "gp:id":332131,
-        "qs:id":271167,
+        "qs_pg:id":271167,
         "wd:id":"Q1012407",
         "wk:page":"Santa Mar\u00eda, Catamarca"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421166743,
-    "wof:lastmodified":1562866528,
+    "wof:lastmodified":1566588118,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108718157,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.60437,-27.75127,-65.56437,-27.71127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huasa Pampa",
         "Huasa Pampa Norte"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226198319,
-    "wof:lastmodified":1537584872,
+    "wof:lastmodified":1566588510,
     "wof:name":"Huasa Pampa Norte",
     "wof:parent_id":421173251,
     "wof:placetype":"locality",

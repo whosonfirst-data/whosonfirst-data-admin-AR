@@ -10,8 +10,12 @@
     "geom:latitude":-40.79828,
     "geom:longitude":-62.98097,
     "iso:country":"AR",
+    "lbl:bbox":"-63.00097,-40.81828,-62.96097,-40.77828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0435\u043d \u0434\u0435 \u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0435\u043d-\u0434\u0435-\u041f\u0430\u0442\u0430\u0433\u043e\u043d\u0435\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Carmen de Patagones"
     ],
     "name:zho_x_preferred":[
         "\u5361\u9580-\u5fb7\u5df4\u5854\u54e5\u5167\u65af"
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3862583,
         "gp:id":466919,
-        "qs:id":247412,
+        "qs_pg:id":247412,
         "wd:id":"Q2342211",
         "wk:page":"Carmen de Patagones"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421204759,
-    "wof:lastmodified":1562866631,
+    "wof:lastmodified":1566588157,
     "wof:name":"Patagones",
     "wof:parent_id":1108718045,
     "wof:placetype":"locality",

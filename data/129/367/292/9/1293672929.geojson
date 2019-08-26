@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-65.71612,-22.55558,-65.67612,-22.51558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puesto del Marqu\u00e9s"
     ],
@@ -39,9 +43,6 @@
         "Puesto del Marqu\u00e9s"
     ],
     "name:swe_x_preferred":[
-        "Puesto del Marqu\u00e9s"
-    ],
-    "name:und_x_variant":[
         "Puesto del Marqu\u00e9s"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1293672929,
-    "wof:lastmodified":1562865860,
+    "wof:lastmodified":1566587739,
     "wof:name":"Puesto del Marques",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

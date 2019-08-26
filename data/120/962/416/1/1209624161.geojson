@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-67.00579,-27.27094,-66.96579,-27.23094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -35,7 +39,7 @@
         "gn:id":3846739
     },
     "wof:country":"AR",
-    "wof:geomhash":"3f3f3ba953fe38b1aa61a74a1d3d3387",
+    "wof:geomhash":"d67075386dd842367001c0f6658b4f44",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209624161,
-    "wof:lastmodified":1536281413,
+    "wof:lastmodified":1566587837,
     "wof:name":"Loconte",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -66.98579000000001,
-    -27.250940000000003,
+    -27.25094,
     -66.98579000000001,
-    -27.250940000000003
+    -27.25094
 ],
   "geometry": {"coordinates":[-66.98579000000001,-27.25094],"type":"Point"}
 }

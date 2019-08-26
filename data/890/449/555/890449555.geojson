@@ -11,10 +11,14 @@
     "geom:longitude":-66.3127,
     "gn:country":"AR",
     "gn:fcode":"PPLL",
-    "gn:pop":15000,
+    "gn:population":15000,
     "iso:country":"AR",
+    "lbl:bbox":"-66.3327,-33.20368,-66.2927,-33.16368",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "La Punta"
     ],
@@ -247,7 +251,7 @@
     "wof:concordances":{
         "gn:id":7284819,
         "gp:id":91814583,
-        "qs:id":671107,
+        "qs_pg:id":671107,
         "wd:id":"Q4811974",
         "wk:page":"La Punta"
     },
@@ -264,7 +268,7 @@
         }
     ],
     "wof:id":890449555,
-    "wof:lastmodified":1562867085,
+    "wof:lastmodified":1566588352,
     "wof:name":"La Punta",
     "wof:parent_id":1108718445,
     "wof:placetype":"locality",

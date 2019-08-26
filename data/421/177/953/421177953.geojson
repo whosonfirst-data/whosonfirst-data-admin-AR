@@ -10,6 +10,9 @@
     "geom:latitude":-35.65662,
     "geom:longitude":-63.75682,
     "iso:country":"AR",
+    "lbl:bbox":"-63.77682,-35.67662,-63.73682,-35.63662",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041f\u0456\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pico"
     ],
     "name:zho_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":3855075,
         "gp:id":466973,
-        "qs:id":1210902,
+        "qs_pg:id":1210902,
         "wd:id":"Q58349",
         "wk:page":"General Pico"
     },
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421177953,
-    "wof:lastmodified":1562866981,
+    "wof:lastmodified":1566588302,
     "wof:name":"General Pico",
     "wof:parent_id":421175285,
     "wof:placetype":"locality",

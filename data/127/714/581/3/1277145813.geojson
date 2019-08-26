@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-63.79366,-27.72826,-63.75366,-27.68826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Ca\u00f1ada"
     ],
@@ -45,9 +49,6 @@
         "La Ca\u00f1ada"
     ],
     "name:swe_x_preferred":[
-        "La Ca\u00f1ada"
-    ],
-    "name:und_x_variant":[
         "La Ca\u00f1ada"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1277145813,
-    "wof:lastmodified":1562865971,
+    "wof:lastmodified":1566587799,
     "wof:name":"La Canada",
     "wof:parent_id":1108718481,
     "wof:placetype":"locality",

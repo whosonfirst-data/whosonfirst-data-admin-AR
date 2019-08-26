@@ -10,8 +10,12 @@
     "geom:latitude":-32.8239,
     "geom:longitude":-69.91309,
     "iso:country":"AR",
+    "lbl:bbox":"-69.93309,-32.8439,-69.89309,-32.8039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041c\u043e\u0441\u0442 \u0406\u043d\u043a\u0430\u045e"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3840182,
         "gp:id":467848,
-        "qs:id":210829,
+        "qs_pg:id":210829,
         "wd:id":"Q54126",
         "wk:page":"Puente del Inca"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421201229,
-    "wof:lastmodified":1562866947,
+    "wof:lastmodified":1566588285,
     "wof:name":"Puente del Inca",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

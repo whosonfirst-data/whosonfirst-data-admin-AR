@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-55.46447,-27.10309,-55.42447,-27.06309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villa \u00d1acanguaz\u00fa",
         "\u00d1acanguaz\u00fa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310379073,
-    "wof:lastmodified":1537584820,
+    "wof:lastmodified":1566588034,
     "wof:name":"Nacanguazu",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

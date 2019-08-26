@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4333340898,-34.6220745323,-58.4119188098,-34.5977128043",
     "geom:latitude":-34.609227,
     "geom:longitude":-58.421745,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.6,
     "gn:longitude":-58.4151,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.608963,
     "lbl:longitude":-58.422608,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.611736,
     "mps:longitude":-58.421483,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:swe_x_preferred":[
         "Almagro"
     ],
-    "name:unk_x_variant":[
-        "Almagro"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -125,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -137,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3436397,
         "gp:id":329891,
-        "qs:id":1074184,
         "qs_pg:id":1074184,
         "wd:id":"Q2064433",
         "wk:page":"Almagro, Buenos Aires"
@@ -158,7 +155,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865725,
+    "wof:lastmodified":1566587664,
     "wof:name":"Almagro",
     "wof:parent_id":1109371859,
     "wof:placetype":"neighbourhood",

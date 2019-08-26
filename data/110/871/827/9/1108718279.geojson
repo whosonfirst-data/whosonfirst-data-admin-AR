@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.997461,
     "lbl:longitude":-64.408338,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Santa B\u00e1rbara",
     "meso:gadm_hasc2":"AR.JY.SB",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.408338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -156,9 +159,9 @@
         "Santa Barbara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"4,448.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":1108718279,
-    "wof:lastmodified":1562866246,
+    "wof:lastmodified":1566587952,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

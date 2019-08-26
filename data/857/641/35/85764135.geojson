@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001214,
-    "geom:area_square_m":12359513.477309,
+    "geom:area_square_m":12359513.477307,
     "geom:bbox":"-58.3611352539,-34.6364278818,-58.3191625976,-34.5214497454",
     "geom:latitude":-34.595861,
     "geom:longitude":-58.341574,
@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.615142,
     "lbl:longitude":-58.352002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.617757,
     "mps:longitude":-58.337955,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Illa Demarchi"
     ],
     "name:spa_x_preferred":[
-        "Isla Demarchi"
-    ],
-    "name:unk_x_variant":[
         "Isla Demarchi"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -61,8 +59,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -74,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3433421,
         "gp:id":330760,
-        "qs:id":216600
+        "qs_pg:id":216600
     },
     "wof:country":"AR",
     "wof:geomhash":"df2f20486136cc09d0e73a3d24fff9a7",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659281,
+    "wof:lastmodified":1566587667,
     "wof:name":"Isla Demarchi",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

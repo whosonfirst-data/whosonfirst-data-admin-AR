@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.91042,-33.17942,-58.87042,-33.13942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0633 \u0625\u064a\u0631\u0645\u0627\u0646\u0627\u0633"
     ],
@@ -147,8 +151,7 @@
         "\u0414\u043e\u0441-\u0415\u0440\u043c\u0430\u043d\u0430\u0441"
     ],
     "name:und_x_variant":[
-        "Las Mercedes",
-        "Dos Hermanas"
+        "Las Mercedes"
     ],
     "name:uzb_x_preferred":[
         "Dos Hermanas"
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":1327025429,
-    "wof:lastmodified":1564217131,
+    "wof:lastmodified":1566587566,
     "wof:name":"Dos Hermanas",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

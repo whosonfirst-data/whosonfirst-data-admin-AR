@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-45.345,
     "lbl:longitude":-69.004082,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chubut",
     "meso:gadm_admin":"Sarmiento",
     "meso:gadm_hasc2":"AR.CH.SA",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.004082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sarmiento"
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"14,563.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gp:id":20071063,
         "hasc:id":"AR.CH.SA",
-        "qs:id":1251896
+        "qs_pg:id":1251896
     },
     "wof:country":"AR",
     "wof:created":1459008897,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421171529,
-    "wof:lastmodified":1562867041,
+    "wof:lastmodified":1566588331,
     "wof:name":"Sarmiento",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

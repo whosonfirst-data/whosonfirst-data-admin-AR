@@ -10,8 +10,12 @@
     "geom:latitude":-40.8029,
     "geom:longitude":-65.08129,
     "iso:country":"AR",
+    "lbl:bbox":"-65.10129,-40.8229,-65.06129,-40.7829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Grutas"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":7646573,
         "gp:id":22529545,
-        "qs:id":241497,
+        "qs_pg:id":241497,
         "wd:id":"Q1806462",
         "wk:page":"Las Grutas"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421204551,
-    "wof:lastmodified":1562866619,
+    "wof:lastmodified":1566588153,
     "wof:name":"Las Grutas",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

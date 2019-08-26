@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-63.75117,-29.80726,-63.71117,-29.76726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1276339745,
-    "wof:lastmodified":1562865951,
+    "wof:lastmodified":1566587786,
     "wof:name":"San Miguel",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

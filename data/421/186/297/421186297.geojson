@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-26.478549,
     "lbl:longitude":-65.907639,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tucuman",
     "meso:gadm_admin":"Taf\u00ed del Valle",
     "meso:gadm_hasc2":"AR.TM.TD",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.907639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taf\u00ed del Valle"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,741.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":20070751,
         "hasc:id":"AR.TM.TD",
-        "qs:id":1063353,
+        "qs_pg:id":1063353,
         "wd:id":"Q948534"
     },
     "wof:country":"AR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421186297,
-    "wof:lastmodified":1562866768,
+    "wof:lastmodified":1566588215,
     "wof:name":"Tafi Del Valle",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

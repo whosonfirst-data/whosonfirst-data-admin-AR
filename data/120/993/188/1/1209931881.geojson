@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.00779,-38.1588,-57.96779,-38.1188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iraizoz",
         "Yr\u00e1izoz"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209931881,
-    "wof:lastmodified":1537584813,
+    "wof:lastmodified":1566587870,
     "wof:name":"Yraizoz",
     "wof:parent_id":1108717939,
     "wof:placetype":"locality",

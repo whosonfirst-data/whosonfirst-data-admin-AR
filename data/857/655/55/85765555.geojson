@@ -9,14 +9,15 @@
     "geom:bbox":"-58.38249908,-34.663544552,-58.3356420898,-34.6309479645",
     "geom:latitude":-34.648135,
     "geom:longitude":-58.359038,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.63333,
     "gn:longitude":-58.36667,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.652471,
     "lbl:longitude":-58.343475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.649027,
     "mps:longitude":-58.359368,
     "mz:hierarchy_label":1,
@@ -77,10 +78,6 @@
     "name:tur_x_preferred":[
         "Dock Sud"
     ],
-    "name:unk_x_variant":[
-        "Dock Sud",
-        "Dock Sur"
-    ],
     "name:zho_x_preferred":[
         "\u591a\u79d1\u82cf\u5fb7"
     ],
@@ -130,12 +127,11 @@
     "qs_pg:woe_id":468836,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:elevation":11.0,
     "wd:latitude":-34.641667,
     "wd:longitude":-58.347778,
     "wd:wordcount":149,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85668015,
@@ -146,7 +142,6 @@
     "wof:concordances":{
         "gn:id":3435050,
         "gp:id":468836,
-        "qs:id":247417,
         "qs_pg:id":247417,
         "wd:id":"Q2569014",
         "wk:page":"Dock Sud"
@@ -166,7 +161,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865740,
+    "wof:lastmodified":1566587669,
     "wof:name":"Dock Sur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

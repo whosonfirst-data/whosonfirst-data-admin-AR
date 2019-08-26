@@ -10,8 +10,12 @@
     "geom:latitude":-31.0088,
     "geom:longitude":-62.66733,
     "iso:country":"AR",
+    "lbl:bbox":"-62.68733,-31.0288,-62.64733,-30.9888",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Balnearia"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3864888,
         "gp:id":466899,
-        "qs:id":181896,
+        "qs_pg:id":181896,
         "wd:id":"Q8240830"
     },
     "wof:country":"AR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421198321,
-    "wof:lastmodified":1562866826,
+    "wof:lastmodified":1566588238,
     "wof:name":"Balnearia",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

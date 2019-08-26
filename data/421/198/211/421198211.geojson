@@ -10,8 +10,12 @@
     "geom:latitude":-32.36957,
     "geom:longitude":-61.35681,
     "iso:country":"AR",
+    "lbl:bbox":"-61.37681,-32.38957,-61.33681,-32.34957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Genaro"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0435\u043d\u0430\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jenaro"
     ],
     "qs:gn_country":"AR",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3837607,
         "gp:id":331915,
-        "qs:id":180549,
+        "qs_pg:id":180549,
         "wd:id":"Q5017577"
     },
     "wof:country":"AR",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421198211,
-    "wof:lastmodified":1562866802,
+    "wof:lastmodified":1566588230,
     "wof:name":"San Genaro",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

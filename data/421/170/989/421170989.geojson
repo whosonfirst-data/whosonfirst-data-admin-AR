@@ -10,8 +10,12 @@
     "geom:latitude":-28.81247,
     "geom:longitude":-65.50145,
     "iso:country":"AR",
+    "lbl:bbox":"-65.52145,-28.83247,-65.48145,-28.79247",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ancasti"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3865830,
         "gp:id":329913,
-        "qs:id":1205003,
+        "qs_pg:id":1205003,
         "wd:id":"Q2566241"
     },
     "wof:country":"AR",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421170989,
-    "wof:lastmodified":1562866979,
+    "wof:lastmodified":1566588301,
     "wof:name":"Ancasti",
     "wof:parent_id":1108718143,
     "wof:placetype":"locality",

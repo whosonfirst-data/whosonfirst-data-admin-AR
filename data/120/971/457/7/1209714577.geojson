@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.22801,-30.61767,-64.18801,-30.57767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
     ],
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1209714577,
-    "wof:lastmodified":1562866094,
+    "wof:lastmodified":1566587860,
     "wof:name":"Avellaneda",
     "wof:parent_id":421204057,
     "wof:placetype":"locality",

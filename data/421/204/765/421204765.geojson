@@ -10,8 +10,12 @@
     "geom:latitude":-35.14156,
     "geom:longitude":-62.24246,
     "iso:country":"AR",
+    "lbl:bbox":"-62.26246,-35.16156,-62.22246,-35.12156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3841836,
         "gp:id":467353,
-        "qs:id":247617
+        "qs_pg:id":247617
     },
     "wof:country":"AR",
     "wof:created":1459010197,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421204765,
-    "wof:lastmodified":1499925084,
+    "wof:lastmodified":1566588153,
     "wof:name":"Pasteur",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

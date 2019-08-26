@@ -10,6 +10,9 @@
     "geom:latitude":-24.18687,
     "geom:longitude":-65.299816,
     "iso:country":"AR",
+    "lbl:bbox":"-65.319816,-24.20687,-65.279816,-24.16687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -196,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440-\u0434\u0435-\u0416\u0443\u0436\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jujuy"
     ],
     "name:urd_x_preferred":[
@@ -338,9 +341,11 @@
     "wof:concordances":{
         "gn:id":3836564,
         "gp:id":332473,
-        "qs:id":1053859,
         "qs_pg:id":1046793,
         "wd:id":"Q44217"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053859
     },
     "wof:country":"AR",
     "wof:created":1459009456,
@@ -355,7 +360,7 @@
         }
     ],
     "wof:id":421185855,
-    "wof:lastmodified":1561793263,
+    "wof:lastmodified":1566588346,
     "wof:name":"San Salvador de Jujuy",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

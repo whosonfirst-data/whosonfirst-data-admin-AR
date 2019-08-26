@@ -10,8 +10,12 @@
     "geom:latitude":-27.41813,
     "geom:longitude":-59.02392,
     "iso:country":"AR",
+    "lbl:bbox":"-59.04392,-27.43813,-59.00392,-27.39813",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Fontana"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3433901,
         "gp:id":465404,
-        "qs:id":1262935,
+        "qs_pg:id":1262935,
         "wd:id":"Q923414",
         "wk:page":"Fontana, Chaco"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421171591,
-    "wof:lastmodified":1562867046,
+    "wof:lastmodified":1566588334,
     "wof:name":"Fontana",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

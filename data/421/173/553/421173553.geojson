@@ -10,8 +10,12 @@
     "geom:latitude":-31.20089,
     "geom:longitude":-60.16055,
     "iso:country":"AR",
+    "lbl:bbox":"-60.18055,-31.22089,-60.14055,-31.18089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Cayast\u00e1"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3862215,
         "gp:id":464986,
-        "qs:id":290768,
+        "qs_pg:id":290768,
         "wd:id":"Q3076536"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421173553,
-    "wof:lastmodified":1562866719,
+    "wof:lastmodified":1566588193,
     "wof:name":"Cayast\u00e1",
     "wof:parent_id":421191021,
     "wof:placetype":"locality",

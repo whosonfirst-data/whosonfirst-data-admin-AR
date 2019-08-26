@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/San_Juan",
     "iso:country":"AR",
+    "lbl:bbox":"-69.15499,-29.77614,-69.11499,-29.73614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carrisalito",
         "Carrizalillo",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209177503,
-    "wof:lastmodified":1537584895,
+    "wof:lastmodified":1566587888,
     "wof:name":"Carrizalito",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

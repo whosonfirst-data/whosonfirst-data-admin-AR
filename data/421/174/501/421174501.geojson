@@ -10,8 +10,12 @@
     "geom:latitude":-33.07523,
     "geom:longitude":-68.8885,
     "iso:country":"AR",
+    "lbl:bbox":"-68.9085,-33.09523,-68.8685,-33.05523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Perdriel"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3841504,
         "gp:id":331633,
-        "qs:id":340748,
+        "qs_pg:id":340748,
         "wd:id":"Q6072214"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421174501,
-    "wof:lastmodified":1562866679,
+    "wof:lastmodified":1566588178,
     "wof:name":"Perdriel",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

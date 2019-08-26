@@ -10,8 +10,12 @@
     "geom:latitude":-32.85683,
     "geom:longitude":-60.71754,
     "iso:country":"AR",
+    "lbl:bbox":"-60.73754,-32.87683,-60.69754,-32.83683",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Granadero Baigorria"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Granadero Baigorria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paganini"
     ],
     "qs:gn_country":"AR",
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3854895,
         "gp:id":330706,
-        "qs:id":1319740,
+        "qs_pg:id":1319740,
         "wd:id":"Q5594127",
         "wk:page":"Granadero Baigorria"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421204679,
-    "wof:lastmodified":1562866636,
+    "wof:lastmodified":1566588159,
     "wof:name":"Granadero Baigorria",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

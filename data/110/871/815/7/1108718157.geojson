@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-26.90981,
     "lbl:longitude":-66.255537,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Catamarca",
     "meso:gadm_admin":"Santa Mar\u00eda",
     "meso:gadm_hasc2":"AR.CT.SM",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.255537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Santa Maria"
     ],
@@ -159,9 +162,9 @@
         "\u8056\u99ac\u5229\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,740.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1108718157,
-    "wof:lastmodified":1562866293,
+    "wof:lastmodified":1566587990,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-59.85851,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":8687,
+    "gn:population":8687,
     "iso:country":"AR",
+    "lbl:bbox":"-59.87851,-25.23438,-59.83851,-25.19438",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ibarreta"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3433513,
         "gp:id":91863236,
-        "qs:id":147789,
+        "qs_pg:id":147789,
         "wd:id":"Q5983760",
         "wk:page":"Ibarreta"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890441853,
-    "wof:lastmodified":1562867089,
+    "wof:lastmodified":1566588353,
     "wof:name":"Ibarreta",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

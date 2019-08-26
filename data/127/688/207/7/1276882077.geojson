@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-65.63667,-28.38667,-65.59667,-28.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0447\u044d\u0434\u0430"
     ],
@@ -76,8 +80,7 @@
         "Salcedo"
     ],
     "name:und_x_variant":[
-        "Salsedo",
-        "Salcedo"
+        "Salsedo"
     ],
     "name:war_x_preferred":[
         "Salcedo"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1276882077,
-    "wof:lastmodified":1562865931,
+    "wof:lastmodified":1566587775,
     "wof:name":"Salcedo",
     "wof:parent_id":421191005,
     "wof:placetype":"locality",

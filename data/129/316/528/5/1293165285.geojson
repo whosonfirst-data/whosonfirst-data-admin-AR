@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.17705,-32.18813,-61.13705,-32.14813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Irigoyen",
         "B. de Irigoyen",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293165285,
-    "wof:lastmodified":1537584899,
+    "wof:lastmodified":1566587752,
     "wof:name":"Bernardo de Irigoyen",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

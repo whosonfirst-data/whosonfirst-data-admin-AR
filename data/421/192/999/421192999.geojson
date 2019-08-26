@@ -10,8 +10,12 @@
     "geom:latitude":-45.68573,
     "geom:longitude":-70.25797,
     "iso:country":"AR",
+    "lbl:bbox":"-70.27797,-45.70573,-70.23797,-45.66573",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "R\u00edo Mayo"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u041c\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paso Rio de Mayo"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3838840,
         "gp:id":466378,
-        "qs:id":150414,
+        "qs_pg:id":150414,
         "wd:id":"Q1774936"
     },
     "wof:country":"AR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421192999,
-    "wof:lastmodified":1562866530,
+    "wof:lastmodified":1566588119,
     "wof:name":"R\u00edo Mayo",
     "wof:parent_id":421171527,
     "wof:placetype":"locality",

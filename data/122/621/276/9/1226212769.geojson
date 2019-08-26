@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-71.1086,-37.85745,-71.0686,-37.81745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Copahues",
         "Ba\u00f1os de Copahue"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226212769,
-    "wof:lastmodified":1537584900,
+    "wof:lastmodified":1566588510,
     "wof:name":"Banos de Copahue",
     "wof:parent_id":421169775,
     "wof:placetype":"locality",

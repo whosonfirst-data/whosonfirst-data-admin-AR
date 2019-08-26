@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-65.12,-23.12,-65.08,-23.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palta de Aparzo",
         "Palca de Aparzo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310595517,
-    "wof:lastmodified":1537584852,
+    "wof:lastmodified":1566588054,
     "wof:name":"Palca de Aparzo",
     "wof:parent_id":421204061,
     "wof:placetype":"locality",

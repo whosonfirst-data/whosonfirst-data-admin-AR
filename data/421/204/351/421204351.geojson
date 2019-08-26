@@ -10,6 +10,9 @@
     "geom:latitude":-33.00938,
     "geom:longitude":-58.51722,
     "iso:country":"AR",
+    "lbl:bbox":"-58.53722,-33.02938,-58.49722,-32.98938",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -286,7 +289,7 @@
     "wof:concordances":{
         "gn:id":3433658,
         "gp:id":332486,
-        "qs:id":239430,
+        "qs_pg:id":239430,
         "wd:id":"Q52585",
         "wk:page":"Gualeguaych\u00fa, Entre R\u00edos"
     },
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421204351,
-    "wof:lastmodified":1562866630,
+    "wof:lastmodified":1566588157,
     "wof:name":"Gualeguaych\u00fa",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

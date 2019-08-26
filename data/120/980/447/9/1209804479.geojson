@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-65.27771,-24.46914,-65.23771,-24.42914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Maderas",
         "Dique Las Maderas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209804479,
-    "wof:lastmodified":1537584885,
+    "wof:lastmodified":1566587883,
     "wof:name":"Dique Las Maderas",
     "wof:parent_id":421171243,
     "wof:placetype":"locality",

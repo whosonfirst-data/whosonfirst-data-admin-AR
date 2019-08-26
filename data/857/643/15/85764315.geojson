@@ -9,14 +9,15 @@
     "geom:bbox":"-58.480410287,-34.6191552945,-58.4584739255,-34.6018603931",
     "geom:latitude":-34.610029,
     "geom:longitude":-58.468943,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.61039,
     "gn:longitude":-58.47173,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.610263,
     "lbl:longitude":-58.468779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.612865,
     "mps:longitude":-58.466676,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
         "Villa Mitre"
     ],
     "name:spa_x_preferred":[
-        "Villa General Mitre"
-    ],
-    "name:unk_x_variant":[
         "Villa General Mitre"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -116,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":304,
     "wof:belongsto":[
         102191577,
@@ -129,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3427433,
         "gp:id":332374,
-        "qs:id":1319865,
         "qs_pg:id":1319865,
         "wd:id":"Q1026651",
         "wk:page":"Villa General Mitre"
@@ -150,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865708,
+    "wof:lastmodified":1566587657,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

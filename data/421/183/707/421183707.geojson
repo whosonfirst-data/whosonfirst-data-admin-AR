@@ -10,13 +10,17 @@
     "geom:latitude":-24.56667,
     "geom:longitude":-65.83333,
     "iso:country":"AR",
+    "lbl:bbox":"-65.85333,-24.58667,-65.81333,-24.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Bernab\u00e9 Piedrabuena"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Las Cebadas"
     ],
     "qs:gn_country":"AR",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3854979,
         "gp:id":465465,
-        "qs:id":982723
+        "qs_pg:id":982723
     },
     "wof:country":"AR",
     "wof:created":1459009379,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421183707,
-    "wof:lastmodified":1501268874,
+    "wof:lastmodified":1566588306,
     "wof:name":"Gobernador Manuel Sol\u00e1",
     "wof:parent_id":421180301,
     "wof:placetype":"locality",

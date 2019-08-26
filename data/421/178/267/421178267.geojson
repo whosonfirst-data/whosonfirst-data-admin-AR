@@ -10,8 +10,12 @@
     "geom:latitude":-38.95297,
     "geom:longitude":-67.92489,
     "iso:country":"AR",
+    "lbl:bbox":"-67.94489,-38.97297,-67.90489,-38.93297",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General Fern\u00e1ndez Oro"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3855114,
         "gp:id":465445,
-        "qs:id":50491,
+        "qs_pg:id":50491,
         "wd:id":"Q3100497"
     },
     "wof:country":"AR",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421178267,
-    "wof:lastmodified":1562867004,
+    "wof:lastmodified":1566588313,
     "wof:name":"General Fern\u00e1ndez Oro",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

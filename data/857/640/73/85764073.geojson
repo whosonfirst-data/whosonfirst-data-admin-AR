@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4277953059,-34.6402003756,-58.4104885535,-34.6206423349",
     "geom:latitude":-34.62996,
     "geom:longitude":-58.41884,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.63333,
     "gn:longitude":-58.41667,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.63027,
     "lbl:longitude":-58.418842,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.62978,
     "mps:longitude":-58.418844,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:spa_x_preferred":[
         "Boedo"
     ],
-    "name:unk_x_variant":[
-        "Boedo"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -125,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191577,
@@ -138,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3436003,
         "gp:id":330022,
-        "qs:id":39895,
         "qs_pg:id":39895,
         "wd:id":"Q890147",
         "wk:page":"Boedo"
@@ -159,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865726,
+    "wof:lastmodified":1566587664,
     "wof:name":"Boedo",
     "wof:parent_id":1109371859,
     "wof:placetype":"neighbourhood",

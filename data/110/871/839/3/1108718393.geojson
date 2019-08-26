@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-39.378314,
     "lbl:longitude":-64.382724,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rio Negro",
     "meso:gadm_admin":"Pichi Mahuida",
     "meso:gadm_hasc2":"AR.RN.PM",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.382724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pichi Mahuida"
     ],
@@ -47,9 +50,9 @@
         "Pichi Mahuida"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"15,378.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108718393,
-    "wof:lastmodified":1562866324,
+    "wof:lastmodified":1566588010,
     "wof:name":"Pichi Mahuida",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-71.53505,-45.56525,-71.49505,-45.52525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aldea"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276124555,
-    "wof:lastmodified":1562865998,
+    "wof:lastmodified":1566587813,
     "wof:name":"Aldea",
     "wof:parent_id":421171527,
     "wof:placetype":"locality",

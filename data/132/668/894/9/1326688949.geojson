@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.48468,-33.54706,-61.44468,-33.50706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Miguel Torres"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Cora",
         "Pueblo Miguel Torres",
-        "M. Torres",
-        "Miguel Torres"
+        "M. Torres"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1326688949,
-    "wof:lastmodified":1562865507,
+    "wof:lastmodified":1566587550,
     "wof:name":"Miguel Torres",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

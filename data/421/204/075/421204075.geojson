@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-47.193522,
     "lbl:longitude":-68.432249,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Cruz",
     "meso:gadm_admin":"Deseado",
     "meso:gadm_hasc2":"AR.SC.DE",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.432249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Deseado"
@@ -63,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"63,784.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gp:id":20071069,
         "hasc:id":"AR.SC.DE",
-        "qs:id":237450,
+        "qs_pg:id":237450,
         "wd:id":"Q5263843"
     },
     "wof:country":"AR",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421204075,
-    "wof:lastmodified":1562866634,
+    "wof:lastmodified":1566588159,
     "wof:name":"Deseado",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

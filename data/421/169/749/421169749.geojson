@@ -10,8 +10,11 @@
     "geom:latitude":-34.63333,
     "geom:longitude":-58.43333,
     "iso:country":"AR",
+    "lbl:bbox":"-58.43833,-34.63833,-58.42833,-34.62833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPLX",
@@ -33,17 +36,17 @@
     "qs:woe_id":330600,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85668081,
         102191577,
         85632505,
         421174285,
-        1109371863
+        1109371863,
+        85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3434160,
         "gp:id":330600,
-        "qs:id":238578
+        "qs_pg:id":238578
     },
     "wof:country":"AR",
     "wof:created":1459008822,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421169749,
-    "wof:lastmodified":1531858333,
+    "wof:lastmodified":1566588148,
     "wof:name":"Emilio Mitre",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

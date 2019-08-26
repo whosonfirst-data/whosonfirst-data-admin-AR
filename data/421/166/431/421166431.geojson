@@ -10,8 +10,12 @@
     "geom:latitude":-33.05258,
     "geom:longitude":-65.62385,
     "iso:country":"AR",
+    "lbl:bbox":"-65.64385,-33.07258,-65.60385,-33.03258",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "La Toma"
@@ -199,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0422\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuatro de Junio"
     ],
     "name:urd_x_preferred":[
@@ -263,7 +267,7 @@
     "wof:concordances":{
         "gn:id":3847482,
         "gp:id":332608,
-        "qs:id":266566,
+        "qs_pg:id":266566,
         "wd:id":"Q1018352",
         "wk:page":"La Toma, San Luis"
     },
@@ -280,7 +284,7 @@
         }
     ],
     "wof:id":421166431,
-    "wof:lastmodified":1562866523,
+    "wof:lastmodified":1566588115,
     "wof:name":"La Toma",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

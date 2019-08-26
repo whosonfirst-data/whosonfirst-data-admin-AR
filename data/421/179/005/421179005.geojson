@@ -10,8 +10,12 @@
     "geom:latitude":-31.43722,
     "geom:longitude":-68.52556,
     "iso:country":"AR",
+    "lbl:bbox":"-68.54556,-31.45722,-68.50556,-31.41722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Departamento Albard\u00f3n"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3866425,
         "gp:id":467099,
-        "qs:id":150564,
+        "qs_pg:id":150564,
         "wd:id":"Q1190205",
         "wk:page":"Albard\u00f3n Department"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421179005,
-    "wof:lastmodified":1562866998,
+    "wof:lastmodified":1566588312,
     "wof:name":"Albard\u00f3n",
     "wof:parent_id":421198377,
     "wof:placetype":"locality",

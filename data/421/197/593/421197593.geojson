@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-25.362556,
     "lbl:longitude":-66.366823,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"Molinos",
     "meso:gadm_hasc2":"AR.SA.MO",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.366823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Molinos"
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,600.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gp:id":20070842,
         "hasc:id":"AR.SA.MO",
-        "qs:id":364567
+        "qs_pg:id":364567
     },
     "wof:country":"AR",
     "wof:created":1459009919,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421197593,
-    "wof:lastmodified":1562866907,
+    "wof:lastmodified":1566588270,
     "wof:name":"Molinos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

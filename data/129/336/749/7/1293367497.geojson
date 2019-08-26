@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-66.96367,-28.82663,-66.92367,-28.78663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anillaco"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293367497,
-    "wof:lastmodified":1562865794,
+    "wof:lastmodified":1566587702,
     "wof:name":"Anillaco",
     "wof:parent_id":1108718323,
     "wof:placetype":"locality",

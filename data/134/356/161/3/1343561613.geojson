@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-71.54026,-45.97374,-71.50026,-45.93374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Casa Koslowsky",
         "Estancia Koslowsky",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343561613,
-    "wof:lastmodified":1537584878,
+    "wof:lastmodified":1566587631,
     "wof:name":"Estancia Valle Huemules",
     "wof:parent_id":421171527,
     "wof:placetype":"locality",

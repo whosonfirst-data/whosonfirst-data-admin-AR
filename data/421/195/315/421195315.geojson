@@ -10,8 +10,12 @@
     "geom:latitude":-32.0679,
     "geom:longitude":-65.03,
     "iso:country":"AR",
+    "lbl:bbox":"-65.05,-32.0879,-65.01,-32.0479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Poblaci\u00f3n"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3849381,
         "gp:id":332805,
-        "qs:id":150460,
+        "qs_pg:id":150460,
         "wd:id":"Q6464505"
     },
     "wof:country":"AR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421195315,
-    "wof:lastmodified":1562866552,
+    "wof:lastmodified":1566588128,
     "wof:name":"La Poblaci\u00f3n",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

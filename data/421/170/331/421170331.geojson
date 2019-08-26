@@ -10,6 +10,9 @@
     "geom:latitude":-38.37394,
     "geom:longitude":-60.27978,
     "iso:country":"AR",
+    "lbl:bbox":"-60.29978,-38.39394,-60.25978,-38.35394",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":3833859,
         "gp:id":467068,
-        "qs:id":778640,
+        "qs_pg:id":778640,
         "wd:id":"Q2077013",
         "wk:page":"Tres Arroyos"
     },
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421170331,
-    "wof:lastmodified":1562866970,
+    "wof:lastmodified":1566588295,
     "wof:name":"Tres Arroyos",
     "wof:parent_id":1108718125,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-65.59139,-29.03746,-65.55139,-28.99746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sous"
     ],
@@ -250,7 +254,7 @@
         }
     ],
     "wof:id":1326733435,
-    "wof:lastmodified":1562865494,
+    "wof:lastmodified":1566587543,
     "wof:name":"Sauce",
     "wof:parent_id":1108718143,
     "wof:placetype":"locality",

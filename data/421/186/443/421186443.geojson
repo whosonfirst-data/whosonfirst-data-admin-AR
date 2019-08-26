@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.476302,
     "lbl:longitude":-64.780374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santiago Del Estero",
     "meso:gadm_admin":"Ri\u00f3 Hondo",
     "meso:gadm_hasc2":"AR.SE.RH",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.780374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rio Hondo"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,124.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":20070869,
         "hasc:id":"AR.SE.RH",
-        "qs:id":1069842
+        "qs_pg:id":1069842
     },
     "wof:country":"AR",
     "wof:created":1459009481,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421186443,
-    "wof:lastmodified":1562866765,
+    "wof:lastmodified":1566588213,
     "wof:name":"Rio Hondo",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

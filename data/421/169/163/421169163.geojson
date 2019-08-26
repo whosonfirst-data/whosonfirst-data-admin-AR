@@ -10,6 +10,9 @@
     "geom:latitude":-32.61841,
     "geom:longitude":-60.15478,
     "iso:country":"AR",
+    "lbl:bbox":"-60.17478,-32.63841,-60.13478,-32.59841",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -192,7 +195,7 @@
     "wof:concordances":{
         "gn:id":3832934,
         "gp:id":332523,
-        "qs:id":274519,
+        "qs_pg:id":274519,
         "wd:id":"Q1905080",
         "wk:page":"Victoria, Entre R\u00edos"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421169163,
-    "wof:lastmodified":1562866610,
+    "wof:lastmodified":1566588149,
     "wof:name":"Victoria",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

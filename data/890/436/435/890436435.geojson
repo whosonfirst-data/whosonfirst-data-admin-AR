@@ -11,10 +11,14 @@
     "geom:longitude":-63.81609,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2683,
+    "gn:population":2683,
     "iso:country":"AR",
+    "lbl:bbox":"-63.83609,-28.51609,-63.79609,-28.47609",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Atamisqui"
     ],
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0410\u0442\u0430\u043c\u0456\u0441\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atamisqui"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3832805,
         "gp:id":466721,
-        "qs:id":585451,
+        "qs_pg:id":585451,
         "wd:id":"Q577778",
         "wk:page":"Villa Atamisqui"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890436435,
-    "wof:lastmodified":1562867107,
+    "wof:lastmodified":1566588358,
     "wof:name":"Villa Atamisqui",
     "wof:parent_id":1108718467,
     "wof:placetype":"locality",

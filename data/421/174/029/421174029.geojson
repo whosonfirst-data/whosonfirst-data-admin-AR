@@ -10,8 +10,12 @@
     "geom:latitude":-34.78063,
     "geom:longitude":-58.8374,
     "iso:country":"AR",
+    "lbl:bbox":"-58.8574,-34.80063,-58.8174,-34.76063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Marcos Paz"
@@ -238,7 +242,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0441-\u041f\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M. Paz"
     ],
     "name:vec_x_preferred":[
@@ -298,7 +302,7 @@
     "wof:concordances":{
         "gn:id":3430868,
         "gp:id":467003,
-        "qs:id":672697,
+        "qs_pg:id":672697,
         "wd:id":"Q1935137",
         "wk:page":"Marcos Paz, Buenos Aires"
     },
@@ -315,7 +319,7 @@
         }
     ],
     "wof:id":421174029,
-    "wof:lastmodified":1562866685,
+    "wof:lastmodified":1566588180,
     "wof:name":"Marcos Paz",
     "wof:parent_id":1108718021,
     "wof:placetype":"locality",

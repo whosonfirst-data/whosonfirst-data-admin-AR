@@ -10,8 +10,12 @@
     "geom:latitude":-42.07189,
     "geom:longitude":-71.50811,
     "iso:country":"AR",
+    "lbl:bbox":"-71.52811,-42.09189,-71.48811,-42.05189",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "El Hoyo"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3854153,
         "gp:id":465530,
-        "qs:id":495558,
+        "qs_pg:id":495558,
         "wd:id":"Q3720934"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421199837,
-    "wof:lastmodified":1562866927,
+    "wof:lastmodified":1566588278,
     "wof:name":"Hoyo de Epuy\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.3,
     "lbl:longitude":-62.457654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santiago Del Estero",
     "meso:gadm_admin":"Moreno",
     "meso:gadm_hasc2":"AR.SE.MO",
@@ -37,6 +39,7 @@
     "mps:longitude":-62.457654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0646\u0648"
     ],
@@ -116,9 +119,9 @@
         "\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"16,127.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1108718497,
-    "wof:lastmodified":1562866297,
+    "wof:lastmodified":1566587991,
     "wof:name":"Moreno",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

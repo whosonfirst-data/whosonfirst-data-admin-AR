@@ -10,8 +10,12 @@
     "geom:latitude":-27.71439,
     "geom:longitude":-67.13349,
     "iso:country":"AR",
+    "lbl:bbox":"-67.15349,-27.73439,-67.11349,-27.69439",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Londres"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3846616,
         "gp:id":465710,
-        "qs:id":181844,
+        "qs_pg:id":181844,
         "wd:id":"Q930973",
         "wk:page":"Londres, Catamarca"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421198309,
-    "wof:lastmodified":1562866797,
+    "wof:lastmodified":1566588228,
     "wof:name":"Londres",
     "wof:parent_id":421204045,
     "wof:placetype":"locality",

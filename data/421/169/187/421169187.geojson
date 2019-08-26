@@ -10,8 +10,12 @@
     "geom:latitude":-32.960966,
     "geom:longitude":-69.351,
     "iso:country":"AR",
+    "lbl:bbox":"-69.371,-32.980966,-69.331,-32.940966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Salto"
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26795933,
-        "qs:id":1198834
+        "qs_pg:id":1198834
     },
     "wof:country":"AR",
     "wof:created":1459008798,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421169187,
-    "wof:lastmodified":1562866604,
+    "wof:lastmodified":1566588147,
     "wof:name":"El Salto",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

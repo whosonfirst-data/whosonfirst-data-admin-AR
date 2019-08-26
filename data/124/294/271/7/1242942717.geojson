@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-70.05816,-41.26446,-70.01816,-41.22446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clemente Onelli"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242942717,
-    "wof:lastmodified":1562867203,
+    "wof:lastmodified":1566588404,
     "wof:name":"Clemente Onelli",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

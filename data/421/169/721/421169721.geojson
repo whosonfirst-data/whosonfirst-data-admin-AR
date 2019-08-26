@@ -10,8 +10,12 @@
     "geom:latitude":-29.12985,
     "geom:longitude":-67.55634,
     "iso:country":"AR",
+    "lbl:bbox":"-67.57634,-29.14985,-67.53634,-29.10985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Florentina"
@@ -25,7 +29,7 @@
     "name:swe_x_preferred":[
         "Santa Florentina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Florentina"
     ],
     "qs:gn_country":"AR",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3836269,
         "gp:id":468990,
-        "qs:id":231980,
+        "qs_pg:id":231980,
         "wd:id":"Q7419590",
         "wk:page":"Santa Florentina (La Rioja)"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421169721,
-    "wof:lastmodified":1562866616,
+    "wof:lastmodified":1566588152,
     "wof:name":"Santa Florentina",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

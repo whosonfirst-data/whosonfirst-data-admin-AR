@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.92027,
     "lbl:longitude":-69.796217,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Neuquen",
     "meso:gadm_admin":"Zapala",
     "meso:gadm_hasc2":"AR.NQ.ZA",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.796217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0633\u0627\u067e\u0627\u0644\u0627"
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,200.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gp:id":20071040,
         "hasc:id":"AR.NQ.ZA",
-        "qs:id":13449
+        "qs_pg:id":13449
     },
     "wof:country":"AR",
     "wof:created":1459009683,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421191185,
-    "wof:lastmodified":1562866905,
+    "wof:lastmodified":1566588269,
     "wof:name":"Zapala",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-26.80215,
     "geom:longitude":-59.56089,
     "iso:country":"AR",
+    "lbl:bbox":"-59.58089,-26.82215,-59.54089,-26.78215",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Capit\u00e1n Solari"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3435688,
         "gp:id":464945,
-        "qs:id":962514,
+        "qs_pg:id":962514,
         "wd:id":"Q1579019",
         "wk:page":"Capit\u00e1n Solari, Chaco"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421183121,
-    "wof:lastmodified":1562866991,
+    "wof:lastmodified":1566588307,
     "wof:name":"Capit\u00e1n Solari",
     "wof:parent_id":1108718227,
     "wof:placetype":"locality",

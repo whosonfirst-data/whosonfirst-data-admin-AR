@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.24254,-28.06978,-64.20254,-28.02978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arraga"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1360241327,
-    "wof:lastmodified":1562866427,
+    "wof:lastmodified":1566588063,
     "wof:name":"Arraga",
     "wof:parent_id":1108718517,
     "wof:placetype":"locality",

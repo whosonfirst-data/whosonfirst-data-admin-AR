@@ -10,8 +10,12 @@
     "geom:latitude":-33.65847,
     "geom:longitude":-61.45458,
     "iso:country":"AR",
+    "lbl:bbox":"-61.47458,-33.67847,-61.43458,-33.63847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Melincu\u00e9"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u0456\u043d\u043a\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Urbano"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3844459,
         "gp:id":467319,
-        "qs:id":336732,
+        "qs_pg:id":336732,
         "wd:id":"Q2301762",
         "wk:page":"Melincu\u00e9"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421174453,
-    "wof:lastmodified":1562866676,
+    "wof:lastmodified":1566588177,
     "wof:name":"Melincu\u00e9",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

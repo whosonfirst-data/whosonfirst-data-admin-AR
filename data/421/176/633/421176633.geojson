@@ -10,8 +10,11 @@
     "geom:latitude":-34.548029,
     "geom:longitude":-58.450698,
     "iso:country":"AR",
+    "lbl:bbox":"-58.455698,-34.553029,-58.445698,-34.543029",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Santiago Gonz\u00e1lez Bonorino"
@@ -39,16 +42,16 @@
     "qs:woe_id":330024,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85668081,
         102191577,
         85632505,
         421174285,
-        1109371877
+        1109371877,
+        85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":330024,
-        "qs:id":1053761
+        "qs_pg:id":1053761
     },
     "wof:country":"AR",
     "wof:created":1459009114,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421176633,
-    "wof:lastmodified":1531858426,
+    "wof:lastmodified":1566588320,
     "wof:name":"Bonorino",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-62.84782,-22.60489,-62.80782,-22.56489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -121,8 +125,7 @@
     ],
     "name:und_x_variant":[
         "El Sapallo",
-        "El Zapallo",
-        "San Miguel"
+        "El Zapallo"
     ],
     "name:war_x_preferred":[
         "San Miguel"
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1226713625,
-    "wof:lastmodified":1562867453,
+    "wof:lastmodified":1566588542,
     "wof:name":"San Miguel",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",

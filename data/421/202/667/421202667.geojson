@@ -10,8 +10,12 @@
     "geom:latitude":-26.490394,
     "geom:longitude":-66.008949,
     "iso:country":"AR",
+    "lbl:bbox":"-66.028949,-26.510394,-65.988949,-26.470394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0645\u0633"
@@ -147,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040309,
-        "qs:id":225330
+        "qs_pg:id":225330
     },
     "wof:country":"AR",
     "wof:created":1459010125,
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":421202667,
-    "wof:lastmodified":1562866653,
+    "wof:lastmodified":1566588168,
     "wof:name":"Quilmes",
     "wof:parent_id":421186297,
     "wof:placetype":"locality",

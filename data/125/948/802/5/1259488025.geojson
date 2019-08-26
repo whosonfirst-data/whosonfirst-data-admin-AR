@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.39035,-31.93122,-64.35035,-31.89122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1259488025,
-    "wof:lastmodified":1562867307,
+    "wof:lastmodified":1566588462,
     "wof:name":"El Carmen",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

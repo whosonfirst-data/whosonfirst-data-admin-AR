@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.06769,-31.62624,-58.02769,-31.58624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293277787,
-    "wof:lastmodified":1537086188,
+    "wof:lastmodified":1566587749,
     "wof:name":"Chacra Viuda de Diaz",
     "wof:parent_id":1108718245,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-65.30333,-24.82,-65.26333,-24.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Establecimiento Las Higueritas",
         "Establecimiento Las Higuerillas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293553013,
-    "wof:lastmodified":1537584878,
+    "wof:lastmodified":1566587712,
     "wof:name":"Establecimiento Las Higuerillas",
     "wof:parent_id":1108718405,
     "wof:placetype":"locality",

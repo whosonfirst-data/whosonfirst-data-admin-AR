@@ -10,8 +10,12 @@
     "geom:latitude":-36.35694,
     "geom:longitude":-56.72351,
     "iso:country":"AR",
+    "lbl:bbox":"-56.74351,-36.37694,-56.70351,-36.33694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Clemente del Tuy\u00fa"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0435-\u0434\u0435\u043b\u044c-\u0422\u0443\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balneario San Clemente del Tuy\u00fa"
     ],
     "qs:gn_country":"AR",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3429160,
         "gp:id":332655,
-        "qs:id":443053,
+        "qs_pg:id":443053,
         "wd:id":"Q2108379",
         "wk:page":"San Clemente del Tuy\u00fa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421167833,
-    "wof:lastmodified":1562866596,
+    "wof:lastmodified":1566588144,
     "wof:name":"San Clemente del Tuy\u00fa",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

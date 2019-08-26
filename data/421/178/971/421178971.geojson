@@ -10,8 +10,12 @@
     "geom:latitude":-32.81313,
     "geom:longitude":-63.87243,
     "iso:country":"AR",
+    "lbl:bbox":"-63.89243,-32.83313,-63.85243,-32.79313",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General Cabrera"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041a\u0430\u0431\u0440\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cabrera"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3855124,
         "gp:id":466968,
-        "qs:id":150500,
+        "qs_pg:id":150500,
         "wd:id":"Q973090"
     },
     "wof:country":"AR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421178971,
-    "wof:lastmodified":1562867005,
+    "wof:lastmodified":1566588314,
     "wof:name":"General Cabrera",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

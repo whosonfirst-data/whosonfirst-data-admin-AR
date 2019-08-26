@@ -10,8 +10,12 @@
     "geom:latitude":-31.26904,
     "geom:longitude":-58.10558,
     "iso:country":"AR",
+    "lbl:bbox":"-58.12558,-31.28904,-58.08558,-31.24904",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "D\u00eda de la Canci\u00f3n Criolla"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3432768,
         "gp:id":330886,
-        "qs:id":287459
+        "qs_pg:id":287459
     },
     "wof:country":"AR",
     "wof:created":1459008979,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421173355,
-    "wof:lastmodified":1505340616,
+    "wof:lastmodified":1566588190,
     "wof:name":"La Criolla",
     "wof:parent_id":1108718245,
     "wof:placetype":"locality",

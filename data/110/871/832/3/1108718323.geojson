@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.839965,
     "lbl:longitude":-66.923019,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Rioja",
     "meso:gadm_admin":"Castro Barros",
     "meso:gadm_hasc2":"AR.LR.CB",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.923019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Castro Barros"
     ],
@@ -56,9 +59,9 @@
         "Castro Barros"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,420.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108718323,
-    "wof:lastmodified":1562866271,
+    "wof:lastmodified":1566587972,
     "wof:name":"Castro Barros",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

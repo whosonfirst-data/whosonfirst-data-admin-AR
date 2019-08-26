@@ -10,8 +10,12 @@
     "geom:latitude":-32.94008,
     "geom:longitude":-63.2466,
     "iso:country":"AR",
+    "lbl:bbox":"-63.2666,-32.96008,-63.2266,-32.92008",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Etrurien"
@@ -194,7 +198,7 @@
     "wof:concordances":{
         "gn:id":3855719,
         "gp:id":467640,
-        "qs:id":935828,
+        "qs_pg:id":935828,
         "wd:id":"Q1442288"
     },
     "wof:country":"AR",
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":421196317,
-    "wof:lastmodified":1562866872,
+    "wof:lastmodified":1566588255,
     "wof:name":"Etruria",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

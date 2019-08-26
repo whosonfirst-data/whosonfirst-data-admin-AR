@@ -10,8 +10,12 @@
     "geom:latitude":-34.48236,
     "geom:longitude":-58.72913,
     "iso:country":"AR",
+    "lbl:bbox":"-58.74913,-34.50236,-58.70913,-34.46236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0646\u062f \u0628\u0648\u0631\u063a"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3433708,
         "gp:id":465489,
-        "qs:id":181833,
+        "qs_pg:id":181833,
         "wd:id":"Q5594333",
         "wk:page":"Grand Bourg"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421198301,
-    "wof:lastmodified":1562866799,
+    "wof:lastmodified":1566588229,
     "wof:name":"Grand Bourg",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

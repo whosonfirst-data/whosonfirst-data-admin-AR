@@ -11,10 +11,14 @@
     "geom:longitude":-55.24585,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2256,
+    "gn:population":2256,
     "iso:country":"AR",
+    "lbl:bbox":"-55.26585,-27.69069,-55.22585,-27.65069",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Picada Gobernador L\u00f3pez"
     ],
@@ -36,9 +40,6 @@
     "name:swe_x_preferred":[
         "Picada Gobernador L\u00f3pez"
     ],
-    "name:unk_x_variant":[
-        "Gobernador L\u00f3pez"
-    ],
     "qs:name":"Picada Gobernador L\u00f3pez",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -53,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3430015,
-        "qs:id":583256,
+        "qs_pg:id":583256,
         "wd:id":"Q519881"
     },
     "wof:country":"AR",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":890422599,
-    "wof:lastmodified":1562867086,
+    "wof:lastmodified":1566588352,
     "wof:name":"Picada Gobernador L\u00f3pez",
     "wof:parent_id":1108718371,
     "wof:placetype":"locality",

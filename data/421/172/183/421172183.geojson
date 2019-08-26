@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-43.072222,
     "lbl:longitude":-65.131113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chubut",
     "meso:gadm_admin":"Rawson",
     "meso:gadm_hasc2":"AR.CH.RA",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.131113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Rawson"
@@ -126,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,922.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gp:id":20071059,
         "hasc:id":"AR.CH.RA",
-        "qs:id":364660
+        "qs_pg:id":364660
     },
     "wof:country":"AR",
     "wof:created":1459008926,
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421172183,
-    "wof:lastmodified":1562866751,
+    "wof:lastmodified":1566588207,
     "wof:name":"Rawson",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

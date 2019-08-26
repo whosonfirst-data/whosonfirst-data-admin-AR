@@ -10,8 +10,12 @@
     "geom:latitude":-33.45937,
     "geom:longitude":-61.4832,
     "iso:country":"AR",
+    "lbl:bbox":"-61.5032,-33.47937,-61.4632,-33.43937",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Firmat"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3855554,
         "gp:id":467227,
-        "qs:id":448709,
+        "qs_pg:id":448709,
         "wd:id":"Q677450",
         "wk:page":"Firmat"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179717,
-    "wof:lastmodified":1562867000,
+    "wof:lastmodified":1566588312,
     "wof:name":"Firmat",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

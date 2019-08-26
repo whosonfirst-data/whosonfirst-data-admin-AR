@@ -10,8 +10,12 @@
     "geom:latitude":-23.32125,
     "geom:longitude":-64.22652,
     "iso:country":"AR",
+    "lbl:bbox":"-64.24652,-23.34125,-64.20652,-23.30125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pichanal"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3841390,
         "gp:id":467361,
-        "qs:id":884015,
+        "qs_pg:id":884015,
         "wd:id":"Q1011210",
         "wk:page":"Pichanal"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421174511,
-    "wof:lastmodified":1562866678,
+    "wof:lastmodified":1566588177,
     "wof:name":"Pichanal",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",

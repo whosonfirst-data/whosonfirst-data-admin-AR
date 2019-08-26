@@ -10,8 +10,12 @@
     "geom:latitude":-22.59588,
     "geom:longitude":-63.81255,
     "iso:country":"AR",
+    "lbl:bbox":"-63.83255,-22.61588,-63.79255,-22.57588",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Mosconi"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041c\u043e\u0441\u043a\u043e\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vespucio"
     ],
     "qs:gn_country":"AR",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3855116,
         "gp:id":465444,
-        "qs:id":279894,
+        "qs_pg:id":279894,
         "wd:id":"Q2132246",
         "wk:page":"General Mosconi, Salta"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421178453,
-    "wof:lastmodified":1562867004,
+    "wof:lastmodified":1566588313,
     "wof:name":"General enrique mosconi",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

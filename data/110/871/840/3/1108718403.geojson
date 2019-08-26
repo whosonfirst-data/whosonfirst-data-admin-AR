@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-24.765343,
     "lbl:longitude":-63.756267,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"Anta",
     "meso:gadm_hasc2":"AR.SA.AN",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.756267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Anta"
     ],
@@ -83,9 +86,9 @@
         "\u0410\u043d\u0442\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"21,945.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108718403,
-    "wof:lastmodified":1562866301,
+    "wof:lastmodified":1566587994,
     "wof:name":"Anta",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

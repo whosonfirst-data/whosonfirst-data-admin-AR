@@ -10,8 +10,12 @@
     "geom:latitude":-29.36816,
     "geom:longitude":-56.82868,
     "iso:country":"AR",
+    "lbl:bbox":"-56.84868,-29.38816,-56.80868,-29.34816",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guavirav\u00ed"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3433638,
         "gp:id":467258,
-        "qs:id":181946,
+        "qs_pg:id":181946,
         "wd:id":"Q5614349",
         "wk:page":"Guavirav\u00ed, Corrientes"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421198355,
-    "wof:lastmodified":1562866800,
+    "wof:lastmodified":1566588229,
     "wof:name":"Guavirav\u00ed",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-35.15,
     "geom:longitude":-59.08333,
     "iso:country":"AR",
+    "lbl:bbox":"-59.10333,-35.17,-59.06333,-35.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3434158,
         "gp:id":465338,
-        "qs:id":494259
+        "qs_pg:id":494259
     },
     "wof:country":"AR",
     "wof:created":1459009298,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421181521,
-    "wof:lastmodified":1499925063,
+    "wof:lastmodified":1566588218,
     "wof:name":"Empalme Lobos",
     "wof:parent_id":1108718007,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.649079,
     "lbl:longitude":-58.448371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.65161,
     "mps:longitude":-58.442081,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
     ],
     "name:spa_x_variant":[
         "Bajo Flores"
-    ],
-    "name:unk_x_variant":[
-        "Presidente Rivadavia"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
@@ -64,9 +62,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":218,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85632505,
@@ -78,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3429861,
         "gp:id":331686,
-        "qs:id":401969,
+        "qs_pg:id":401969,
         "wd:id":"Q4848910"
     },
     "wof:country":"AR",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865719,
+    "wof:lastmodified":1566587661,
     "wof:name":"Bajo Flores",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

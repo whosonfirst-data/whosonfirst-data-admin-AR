@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-67.15333,-30.08667,-67.11333,-30.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209792777,
-    "wof:lastmodified":1536394252,
+    "wof:lastmodified":1566587853,
     "wof:name":"Los Mogotes Colorados",
     "wof:parent_id":1108718345,
     "wof:placetype":"locality",

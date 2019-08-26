@@ -10,8 +10,12 @@
     "geom:latitude":-33.91965,
     "geom:longitude":-64.39215,
     "iso:country":"AR",
+    "lbl:bbox":"-64.41215,-33.93965,-64.37215,-33.89965",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Vicu\u00f1a Mackenna"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0443\u043d\u044c\u044f-\u041c\u0430\u043a\u043a\u0435\u043d\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mackenna"
     ],
     "qs:gn_country":"AR",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3832917,
         "gp:id":467454,
-        "qs:id":205364,
+        "qs_pg:id":205364,
         "wd:id":"Q918656",
         "wk:page":"Vicu\u00f1a Mackenna, Argentina"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421199999,
-    "wof:lastmodified":1562866919,
+    "wof:lastmodified":1566588275,
     "wof:name":"Vicu\u00f1a Mackenna",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-57.57211,-38.08482,-57.53211,-38.04482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360099147,
-    "wof:lastmodified":1536925978,
+    "wof:lastmodified":1566588071,
     "wof:name":"Peralta Ramos",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

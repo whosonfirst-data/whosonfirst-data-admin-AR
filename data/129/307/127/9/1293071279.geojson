@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-70.86421,-39.91135,-70.82421,-39.87135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Ignacio"
     ],
@@ -75,8 +79,7 @@
         "San Ignacio"
     ],
     "name:und_x_variant":[
-        "Estancia S. Ingnacio",
-        "San Ignacio"
+        "Estancia S. Ingnacio"
     ],
     "name:war_x_preferred":[
         "San Ignacio"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293071279,
-    "wof:lastmodified":1562865790,
+    "wof:lastmodified":1566587700,
     "wof:name":"San Ignacio",
     "wof:parent_id":421196937,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-23.692635,
     "geom:longitude":-65.574167,
     "iso:country":"AR",
+    "lbl:bbox":"-65.594167,-23.712635,-65.554167,-23.672635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040294,
-        "qs:id":972549
+        "qs_pg:id":972549
     },
     "wof:country":"AR",
     "wof:created":1459009365,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421183329,
-    "wof:lastmodified":1499925302,
+    "wof:lastmodified":1566588310,
     "wof:name":"La Ci\u00e9nega",
     "wof:parent_id":421201001,
     "wof:placetype":"locality",

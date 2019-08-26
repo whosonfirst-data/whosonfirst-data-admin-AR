@@ -10,8 +10,12 @@
     "geom:latitude":-34.84142,
     "geom:longitude":-67.76499,
     "iso:country":"AR",
+    "lbl:bbox":"-67.78499,-34.86142,-67.74499,-34.82142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Real del Padre"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0430\u043b\u044c-\u0434\u0435\u043b\u044c-\u041f\u0430\u0434\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Real de Padre"
     ],
     "qs:gn_country":"AR",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3839288,
         "gp:id":466347,
-        "qs:id":181871,
+        "qs_pg:id":181871,
         "wd:id":"Q7301133",
         "wk:page":"Real del Padre"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421169863,
-    "wof:lastmodified":1562866615,
+    "wof:lastmodified":1566588151,
     "wof:name":"Real del Padre",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

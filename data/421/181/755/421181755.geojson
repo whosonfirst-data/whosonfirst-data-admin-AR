@@ -10,8 +10,12 @@
     "geom:latitude":-37.88903,
     "geom:longitude":-57.60502,
     "iso:country":"AR",
+    "lbl:bbox":"-57.62502,-37.90903,-57.58502,-37.86903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Carmelo Camet"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3435813,
         "gp:id":464880,
-        "qs:id":501593,
+        "qs_pg:id":501593,
         "wd:id":"Q2602594"
     },
     "wof:country":"AR",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421181755,
-    "wof:lastmodified":1562866772,
+    "wof:lastmodified":1566588217,
     "wof:name":"Camet",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":-34.65104,
     "geom:longitude":-59.35334,
     "iso:country":"AR",
+    "lbl:bbox":"-59.37334,-34.67104,-59.33334,-34.63104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Gowland"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gowlan"
     ],
     "qs:gn_country":"AR",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3433716,
         "gp:id":465485,
-        "qs:id":1014205
+        "qs_pg:id":1014205
     },
     "wof:country":"AR",
     "wof:created":1459009425,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421184877,
-    "wof:lastmodified":1527716452,
+    "wof:lastmodified":1566588293,
     "wof:name":"Gowland",
     "wof:parent_id":1108718023,
     "wof:placetype":"locality",

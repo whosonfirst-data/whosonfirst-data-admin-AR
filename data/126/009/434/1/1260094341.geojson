@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.63532,-34.95878,-58.59532,-34.91878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M. Paz",
         "M\u00e1ximo Paz"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260094341,
-    "wof:lastmodified":1537584821,
+    "wof:lastmodified":1566587926,
     "wof:name":"Maximo Paz",
     "wof:parent_id":1108717887,
     "wof:placetype":"locality",

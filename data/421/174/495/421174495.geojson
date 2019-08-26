@@ -10,8 +10,12 @@
     "geom:latitude":-34.72263,
     "geom:longitude":-63.5092,
     "iso:country":"AR",
+    "lbl:bbox":"-63.5292,-34.74263,-63.4892,-34.70263",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Carlos L\u00f3pez Buchardo"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3863821,
         "gp:id":330031,
-        "qs:id":340738
+        "qs_pg:id":340738
     },
     "wof:country":"AR",
     "wof:created":1459009034,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421174495,
-    "wof:lastmodified":1505340620,
+    "wof:lastmodified":1566588183,
     "wof:name":"Buchardo",
     "wof:parent_id":421188041,
     "wof:placetype":"locality",

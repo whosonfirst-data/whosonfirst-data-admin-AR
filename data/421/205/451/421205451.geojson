@@ -10,8 +10,12 @@
     "geom:latitude":-38.0085,
     "geom:longitude":-57.70967,
     "iso:country":"AR",
+    "lbl:bbox":"-57.72967,-38.0285,-57.68967,-37.9885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Batan"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3436091,
         "gp:id":330006,
-        "qs:id":263210,
+        "qs_pg:id":263210,
         "wd:id":"Q5690728"
     },
     "wof:country":"AR",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421205451,
-    "wof:lastmodified":1562866663,
+    "wof:lastmodified":1566588172,
     "wof:name":"Bat\u00e1n",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

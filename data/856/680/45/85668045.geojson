@@ -31,6 +31,7 @@
     ],
     "lbl:latitude":-29.427881,
     "lbl:longitude":-67.149268,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.527065,
     "mps:longitude":-67.023695,
     "mz:hierarchy_label":1,
@@ -279,9 +280,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0420\u0456\u043e\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Provincia de La Rioja"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0631\u06cc\u0648\u062c\u0627 \u0635\u0648\u0628\u06c1\u060c \u0627\u0631\u062c\u0646\u0679\u06cc\u0646"
     ],
@@ -376,9 +374,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"89,680",
     "statoids:area_mi":"34,626",
     "statoids:as_of_date":"2010-10-27",
@@ -403,7 +401,7 @@
         "gp:id":2344686,
         "hasc:id":"AR.LR",
         "iso:id":"AR-F",
-        "qs:id":1142805,
+        "qs_pg:id":1142805,
         "unlc:id":"AR-F",
         "wd:id":"Q44796",
         "wk:page":"La Rioja Province, Argentina"
@@ -424,11 +422,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652039,
+    "wof:lastmodified":1566587673,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":333642,
     "wof:population_rank":10,

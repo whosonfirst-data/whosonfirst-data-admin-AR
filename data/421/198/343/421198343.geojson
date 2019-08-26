@@ -10,8 +10,12 @@
     "geom:latitude":-24.25648,
     "geom:longitude":-65.21163,
     "iso:country":"AR",
+    "lbl:bbox":"-65.23163,-24.27648,-65.19163,-24.23648",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Palpal\u00e1"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3842190,
         "gp:id":467021,
-        "qs:id":181923,
+        "qs_pg:id":181923,
         "wd:id":"Q55385"
     },
     "wof:country":"AR",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421198343,
-    "wof:lastmodified":1562866827,
+    "wof:lastmodified":1566588239,
     "wof:name":"Palpal\u00e1",
     "wof:parent_id":1108718277,
     "wof:placetype":"locality",

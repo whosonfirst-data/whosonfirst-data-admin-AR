@@ -10,10 +10,14 @@
     "geom:latitude":-32.593115,
     "geom:longitude":-69.345985,
     "iso:country":"AR",
+    "lbl:bbox":"-69.3659845395,-32.6131152153,-69.3259845395,-32.5731152153",
     "lbl:latitude":-32.593115,
     "lbl:longitude":-69.345985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0623\u0648\u0633\u0628\u0627\u0644\u0627\u062a\u0627"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u043f\u0430\u043b\u044c\u044f\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estancia Uspallata"
     ],
     "ne:ADM0CAP":0.0,
@@ -168,7 +172,7 @@
     "wof:concordances":{
         "gn:id":3833358,
         "gp:id":467071,
-        "qs:id":967991,
+        "qs_pg:id":967991,
         "wd:id":"Q54127",
         "wk:page":"Uspallata"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":1141906717,
-    "wof:lastmodified":1562867513,
+    "wof:lastmodified":1566588573,
     "wof:name":"Uspallata",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.91667,
     "geom:longitude":-67.53333,
     "iso:country":"AR",
+    "lbl:bbox":"-67.55333,-34.93667,-67.51333,-34.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3851553,
         "gp:id":330904,
-        "qs:id":1156160
+        "qs_pg:id":1156160
     },
     "wof:country":"AR",
     "wof:created":1459009711,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421191827,
-    "wof:lastmodified":1499924981,
+    "wof:lastmodified":1566588258,
     "wof:name":"La Escandinava",
     "wof:parent_id":421166643,
     "wof:placetype":"locality",

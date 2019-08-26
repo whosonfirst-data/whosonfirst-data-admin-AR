@@ -10,8 +10,12 @@
     "geom:latitude":-32.66174,
     "geom:longitude":-62.29678,
     "iso:country":"AR",
+    "lbl:bbox":"-62.31678,-32.68174,-62.27678,-32.64174",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Leones"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Per\u00f3n"
     ],
     "qs:gn_country":"AR",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3846991,
         "gp:id":467296,
-        "qs:id":893264,
+        "qs_pg:id":893264,
         "wd:id":"Q4907288"
     },
     "wof:country":"AR",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421185363,
-    "wof:lastmodified":1562867058,
+    "wof:lastmodified":1566588341,
     "wof:name":"Leones",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

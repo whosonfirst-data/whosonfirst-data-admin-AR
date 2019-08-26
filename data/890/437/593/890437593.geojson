@@ -11,10 +11,14 @@
     "geom:longitude":-71.30822,
     "gn:country":"AR",
     "gn:fcode":"PPLA3",
-    "gn:pop":95394,
+    "gn:population":95394,
     "iso:country":"AR",
+    "lbl:bbox":"-71.32822,-41.16557,-71.28822,-41.12557",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Bariloche"
     ],
@@ -213,9 +217,11 @@
     "wof:concordances":{
         "gn:id":7647007,
         "gp:id":332478,
-        "qs:id":1154924,
         "qs_pg:id":459212,
         "wd:id":"Q47772"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1154924
     },
     "wof:country":"AR",
     "wof:created":1469052157,
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":890437593,
-    "wof:lastmodified":1562867100,
+    "wof:lastmodified":1566588356,
     "wof:name":"San Carlos de Bariloche",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

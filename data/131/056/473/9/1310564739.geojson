@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-65.97096,-25.98898,-65.93096,-25.94898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Animan\u00e1"
     ],
@@ -36,9 +40,6 @@
         "Animan\u00e1"
     ],
     "name:swe_x_preferred":[
-        "Animan\u00e1"
-    ],
-    "name:und_x_variant":[
         "Animan\u00e1"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1310564739,
-    "wof:lastmodified":1562866417,
+    "wof:lastmodified":1566588059,
     "wof:name":"Animana",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

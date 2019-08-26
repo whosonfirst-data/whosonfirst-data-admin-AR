@@ -10,8 +10,12 @@
     "geom:latitude":-27.93357,
     "geom:longitude":-63.42938,
     "iso:country":"AR",
+    "lbl:bbox":"-63.44938,-27.95357,-63.40938,-27.91357",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Suncho Corral"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u0447\u043e-\u041a\u043e\u0440\u0440\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suncha Corral"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3834961,
         "gp:id":466523,
-        "qs:id":150389,
+        "qs_pg:id":150389,
         "wd:id":"Q1015579",
         "wk:page":"Suncho Corral"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421197805,
-    "wof:lastmodified":1562866910,
+    "wof:lastmodified":1566588272,
     "wof:name":"Suncho Corral",
     "wof:parent_id":1108718491,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.083265,
     "lbl:longitude":-61.303092,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Coronel Pringles",
     "meso:gadm_hasc2":"AR.BA.CP",
@@ -37,6 +39,7 @@
     "mps:longitude":-61.303092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Coronel Pringles"
     ],
@@ -65,9 +68,9 @@
         "Coronel Pringles"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,245.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108717907,
-    "wof:lastmodified":1562866238,
+    "wof:lastmodified":1566587948,
     "wof:name":"Coronel Pringles",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

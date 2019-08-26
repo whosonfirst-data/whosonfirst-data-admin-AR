@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":39590165.396476,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.189957,-31.404104,-64.189957,-31.404104",
     "geom:latitude":-31.404104,
     "geom:longitude":-64.189957,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-31.38945,
     "gn:longitude":-64.17566,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-64.194957,-31.409104,-64.184957,-31.399104",
     "lbl:latitude":-31.404104,
     "lbl:longitude":-64.189957,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-31.391586,
     "mps:longitude":-64.191112,
     "mz:hierarchy_label":0,
@@ -38,10 +40,6 @@
     "name:spa_x_variant":[
         "17 de Octubre",
         "Alto Cordoba"
-    ],
-    "name:unk_x_variant":[
-        "17 de Octubre",
-        "Alta C\u00f3rdoba"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
@@ -91,8 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85668031,
         102191577,
@@ -103,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3866169,
         "gp:id":329897,
-        "qs:id":900029,
         "qs_pg:id":900029
     },
     "wof:country":"AR",
@@ -122,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1566587665,
     "wof:name":"Alta C\u00f3rdoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

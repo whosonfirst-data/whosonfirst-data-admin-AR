@@ -10,8 +10,12 @@
     "geom:latitude":-35.00014,
     "geom:longitude":-61.03508,
     "iso:country":"AR",
+    "lbl:bbox":"-61.05508,-35.02014,-61.01508,-34.98014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Viamonte Partido"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "General Viamonte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Toldos"
     ],
     "qs:gn_country":"AR",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3855043,
         "gp:id":465455,
-        "qs:id":273153,
+        "qs_pg:id":273153,
         "wd:id":"Q644027",
         "wk:page":"General Viamonte Partido"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421166775,
-    "wof:lastmodified":1562866528,
+    "wof:lastmodified":1566588118,
     "wof:name":"Gral Viamonte",
     "wof:parent_id":1108717971,
     "wof:placetype":"locality",

@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-67.57,-28.88667,-67.53,-28.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "La Mesada"
     ],
     "name:und_x_variant":[
-        "Mesada",
-        "La Mesada"
+        "Mesada"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1277063557,
-    "wof:lastmodified":1562865916,
+    "wof:lastmodified":1566587768,
     "wof:name":"La Mesada",
     "wof:parent_id":1108718329,
     "wof:placetype":"locality",

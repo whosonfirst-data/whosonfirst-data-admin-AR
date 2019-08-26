@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00248,
-    "geom:area_square_m":25218419.533259,
+    "geom:area_square_m":25218419.533268,
     "geom:bbox":"-58.5424096679,-34.7222669104,-58.4739635086,-34.5858984409",
     "geom:latitude":-34.666258,
     "geom:longitude":-58.502763,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.68333,
     "gn:longitude":-58.5,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.604034,
     "lbl:longitude":-58.487463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.698486,
     "mps:longitude":-58.502578,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:spa_x_preferred":[
-        "Comandante L. Piedrabuena"
-    ],
-    "name:unk_x_variant":[
         "Comandante L. Piedrabuena"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -82,8 +80,7 @@
     "qs_pg:woe_id":330236,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -95,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3435281,
         "gp:id":330236,
-        "qs:id":1199785,
         "qs_pg:id":1199785
     },
     "wof:country":"AR",
@@ -114,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379087,
+    "wof:lastmodified":1566587668,
     "wof:name":"Comandante L. Piedrabuena",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

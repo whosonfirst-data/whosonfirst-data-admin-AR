@@ -10,8 +10,12 @@
     "geom:latitude":-32.95,
     "geom:longitude":-68.81667,
     "iso:country":"AR",
+    "lbl:bbox":"-68.83667,-32.97,-68.79667,-32.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Luzuriaga"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3845350,
         "gp:id":465736,
-        "qs:id":245231
+        "qs_pg:id":245231
     },
     "wof:country":"AR",
     "wof:created":1459010195,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421204705,
-    "wof:lastmodified":1562866628,
+    "wof:lastmodified":1566588157,
     "wof:name":"Luzuriaga",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-24.38682,
     "geom:longitude":-65.26177,
     "iso:country":"AR",
+    "lbl:bbox":"-65.28177,-24.40682,-65.24177,-24.36682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "El Carmen"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0430\u0440\u043c\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmen"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3858590,
         "gp:id":332540,
-        "qs:id":271239,
+        "qs_pg:id":271239,
         "wd:id":"Q579869",
         "wk:page":"El Carmen (Jujuy)"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421166747,
-    "wof:lastmodified":1562866524,
+    "wof:lastmodified":1566588116,
     "wof:name":"El Carmen",
     "wof:parent_id":421171243,
     "wof:placetype":"locality",

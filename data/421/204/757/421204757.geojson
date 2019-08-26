@@ -10,8 +10,12 @@
     "geom:latitude":-32.06641,
     "geom:longitude":-60.63836,
     "iso:country":"AR",
+    "lbl:bbox":"-60.65836,-32.08641,-60.61836,-32.04641",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Diamante"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3859384,
         "gp:id":466950,
-        "qs:id":247411,
+        "qs_pg:id":247411,
         "wd:id":"Q2381636",
         "wk:page":"Diamante, Entre R\u00edos"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421204757,
-    "wof:lastmodified":1562866630,
+    "wof:lastmodified":1566588157,
     "wof:name":"Diamante",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

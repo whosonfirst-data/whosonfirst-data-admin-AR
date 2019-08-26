@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.591462,
     "lbl:longitude":-58.532595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.506918,
     "mps:longitude":-58.509939,
     "mz:hierarchy_label":1,
@@ -102,10 +103,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0447"
     ],
-    "name:unk_x_variant":[
-        "General F. Lynch",
-        "Lynch"
-    ],
     "name:vol_x_preferred":[
         "Lynch"
     ],
@@ -135,9 +132,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":203,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85668015,
@@ -148,7 +144,7 @@
     "wof:concordances":{
         "gn:id":3430975,
         "gp:id":331430,
-        "qs:id":1210416
+        "qs_pg:id":1210416
     },
     "wof:country":"AR",
     "wof:geomhash":"cac53d2f37c50ee6469ee2f446114028",
@@ -165,7 +161,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865738,
+    "wof:lastmodified":1566587668,
     "wof:name":"Lynch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-26.75,
     "geom:longitude":-65.28333,
     "iso:country":"AR",
+    "lbl:bbox":"-65.30333,-26.77,-65.26333,-26.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3832790,
         "gp:id":466725,
-        "qs:id":1164487
+        "qs_pg:id":1164487
     },
     "wof:country":"AR",
     "wof:created":1459009715,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421191957,
-    "wof:lastmodified":1499925356,
+    "wof:lastmodified":1566588263,
     "wof:name":"Villa Carmela",
     "wof:parent_id":421202257,
     "wof:placetype":"locality",

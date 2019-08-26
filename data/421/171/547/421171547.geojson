@@ -10,8 +10,12 @@
     "geom:latitude":-41.135486,
     "geom:longitude":-71.398421,
     "iso:country":"AR",
+    "lbl:bbox":"-71.418421,-41.155486,-71.378421,-41.115486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Villa Los Coihues"
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56064277,
-        "qs:id":483438,
+        "qs_pg:id":483438,
         "wd:id":"Q7930398"
     },
     "wof:country":"AR",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421171547,
-    "wof:lastmodified":1562867055,
+    "wof:lastmodified":1566588339,
     "wof:name":"Villa Los Coihues",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

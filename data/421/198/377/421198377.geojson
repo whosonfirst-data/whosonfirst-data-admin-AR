@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-31.195262,
     "lbl:longitude":-68.436998,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Juan",
     "meso:gadm_admin":"Albard\u00f3n",
     "meso:gadm_hasc2":"AR.SJ.AL",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.436998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Albard\u00f3n"
@@ -67,9 +70,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"945.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":20070914,
         "hasc:id":"AR.SJ.AL",
-        "qs:id":1109565
+        "qs_pg:id":1109565
     },
     "wof:country":"AR",
     "wof:created":1459009946,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421198377,
-    "wof:lastmodified":1560898148,
+    "wof:lastmodified":1566588232,
     "wof:name":"Albardon",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

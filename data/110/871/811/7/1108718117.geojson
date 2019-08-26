@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.366457,
     "lbl:longitude":-58.613653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Tigre",
     "meso:gadm_hasc2":"AR.BA.TI",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.613653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Tigre"
     ],
@@ -113,9 +116,9 @@
         "Tigre"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"360.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108718117,
-    "wof:lastmodified":1562866250,
+    "wof:lastmodified":1566587957,
     "wof:name":"Tigre",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

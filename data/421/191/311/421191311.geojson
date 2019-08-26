@@ -10,8 +10,12 @@
     "geom:latitude":-34.85228,
     "geom:longitude":-58.08285,
     "iso:country":"AR",
+    "lbl:bbox":"-58.10285,-34.87228,-58.06285,-34.83228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Elisa"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3427442,
         "gp:id":466739,
-        "qs:id":1134940,
+        "qs_pg:id":1134940,
         "wd:id":"Q2509062"
     },
     "wof:country":"AR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421191311,
-    "wof:lastmodified":1562866903,
+    "wof:lastmodified":1566588268,
     "wof:name":"Villa Elisa",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

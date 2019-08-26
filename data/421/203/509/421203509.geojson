@@ -10,8 +10,12 @@
     "geom:latitude":-31.32383,
     "geom:longitude":-64.2977,
     "iso:country":"AR",
+    "lbl:bbox":"-64.3177,-31.34383,-64.2777,-31.30383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jos\u00e9 Rivera Indarte"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Jos\u00e9 Rivera Indarte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R. Indarte"
     ],
     "qs:gn_country":"AR",
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3838737,
         "gp:id":466391,
-        "qs:id":232472,
+        "qs_pg:id":232472,
         "wd:id":"Q6293869"
     },
     "wof:country":"AR",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421203509,
-    "wof:lastmodified":1562866646,
+    "wof:lastmodified":1566588165,
     "wof:name":"Rivera Indarte",
     "wof:parent_id":421180887,
     "wof:placetype":"locality",

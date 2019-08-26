@@ -10,8 +10,12 @@
     "geom:latitude":-34.69933,
     "geom:longitude":-58.59041,
     "iso:country":"AR",
+    "lbl:bbox":"-58.61041,-34.71933,-58.57041,-34.67933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u064a\u062f\u0631\u0648 \u0643\u0627\u0633\u0627\u0646\u0648\u0641\u0627"
@@ -127,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0456\u0434\u0440\u043e-\u041a\u0430\u0441\u0430\u043d\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I. Casanova"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":3433424,
         "gp:id":465596,
-        "qs:id":242707,
+        "qs_pg:id":242707,
         "wd:id":"Q2700395",
         "wk:page":"Isidro Casanova"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":421204605,
-    "wof:lastmodified":1562866624,
+    "wof:lastmodified":1566588155,
     "wof:name":"Isidro Casanova",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

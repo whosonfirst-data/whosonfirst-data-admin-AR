@@ -10,8 +10,12 @@
     "geom:latitude":-25.51606,
     "geom:longitude":-66.21875,
     "iso:country":"AR",
+    "lbl:bbox":"-66.23875,-25.53606,-66.19875,-25.49606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Angostura"
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3865752,
         "gp:id":464640,
-        "qs:id":887629
+        "qs_pg:id":887629
     },
     "wof:country":"AR",
     "wof:created":1459009436,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421185243,
-    "wof:lastmodified":1562867061,
+    "wof:lastmodified":1566588343,
     "wof:name":"Angostura",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

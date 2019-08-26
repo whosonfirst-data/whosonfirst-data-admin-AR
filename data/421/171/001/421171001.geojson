@@ -10,8 +10,12 @@
     "geom:latitude":-29.1431,
     "geom:longitude":-62.65248,
     "iso:country":"AR",
+    "lbl:bbox":"-62.67248,-29.1631,-62.63248,-29.1231",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa General Mitre"
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Pinto"
     ],
     "name:zho_x_preferred":[
         "\u5e73\u6258"
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3832733,
         "gp:id":332375,
-        "qs:id":1205261,
+        "qs_pg:id":1205261,
         "wd:id":"Q1016062",
         "wk:page":"Pinto, Santiago del Estero"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421171001,
-    "wof:lastmodified":1562867037,
+    "wof:lastmodified":1566588328,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":421184163,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.00565,
     "geom:longitude":-61.60757,
     "iso:country":"AR",
+    "lbl:bbox":"-61.62757,-34.02565,-61.58757,-33.98565",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Ca\u00f1\u00e1s"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3832793,
         "gp:id":467459,
-        "qs:id":1046747,
+        "qs_pg:id":1046747,
         "wd:id":"Q1865187",
         "wk:page":"Villa Ca\u00f1\u00e1s"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421195981,
-    "wof:lastmodified":1562866573,
+    "wof:lastmodified":1566588135,
     "wof:name":"Villa Ca\u00f1\u00e1s",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

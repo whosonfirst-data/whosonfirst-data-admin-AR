@@ -10,8 +10,12 @@
     "geom:latitude":-31.62487,
     "geom:longitude":-58.50524,
     "iso:country":"AR",
+    "lbl:bbox":"-58.52524,-31.64487,-58.48524,-31.60487",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Salvador"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3428481,
         "gp:id":332898,
-        "qs:id":180587,
+        "qs_pg:id":180587,
         "wd:id":"Q2065245",
         "wk:page":"San Salvador, Entre R\u00edos"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421198231,
-    "wof:lastmodified":1562866821,
+    "wof:lastmodified":1566588236,
     "wof:name":"San Salvador",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

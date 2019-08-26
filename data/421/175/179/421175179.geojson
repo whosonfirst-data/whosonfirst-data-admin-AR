@@ -10,10 +10,14 @@
     "geom:latitude":-34.79721,
     "geom:longitude":-58.38351,
     "iso:country":"AR",
+    "lbl:bbox":"-58.40351,-34.81721,-58.36351,-34.77721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A. Brown"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3436396,
         "gp:id":464586,
-        "qs:id":1326623
+        "qs_pg:id":1326623
     },
     "wof:country":"AR",
     "wof:created":1459009058,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421175179,
-    "wof:lastmodified":1501266412,
+    "wof:lastmodified":1566588228,
     "wof:name":"Almte Brown",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

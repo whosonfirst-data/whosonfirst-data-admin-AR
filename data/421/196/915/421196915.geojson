@@ -10,8 +10,12 @@
     "geom:latitude":-31.97542,
     "geom:longitude":-64.5559,
     "iso:country":"AR",
+    "lbl:bbox":"-64.5759,-31.99542,-64.5359,-31.95542",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Villa General Belgrano"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3832734,
         "gp:id":332373,
-        "qs:id":900031,
+        "qs_pg:id":900031,
         "wd:id":"Q1013424",
         "wk:page":"Villa General Belgrano"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421196915,
-    "wof:lastmodified":1562866846,
+    "wof:lastmodified":1566588247,
     "wof:name":"Villa General Belgrano",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

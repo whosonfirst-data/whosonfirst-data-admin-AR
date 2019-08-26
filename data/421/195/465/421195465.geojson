@@ -10,8 +10,12 @@
     "geom:latitude":-33.77004,
     "geom:longitude":-59.63798,
     "iso:country":"AR",
+    "lbl:bbox":"-59.65798,-33.79004,-59.61798,-33.75004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "R\u00edo Tala"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3429487,
         "gp:id":467873,
-        "qs:id":1044597,
+        "qs_pg:id":1044597,
         "wd:id":"Q6115742"
     },
     "wof:country":"AR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421195465,
-    "wof:lastmodified":1562866549,
+    "wof:lastmodified":1566588127,
     "wof:name":"R\u00edo Tala",
     "wof:parent_id":1108718105,
     "wof:placetype":"locality",

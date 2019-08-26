@@ -11,10 +11,14 @@
     "geom:longitude":-63.68842,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2385,
+    "gn:population":2385,
     "iso:country":"AR",
+    "lbl:bbox":"-63.70842,-36.87398,-63.66842,-36.83398",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miguel Riglos"
     ],
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0433\u0435\u043b\u044c-\u0420\u0456\u0433\u043b\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M. Riglos"
     ],
     "qs:name":"Miguel Riglos",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3844267,
         "gp:id":91863022,
-        "qs:id":585562,
+        "qs_pg:id":585562,
         "wd:id":"Q9297738",
         "wk:page":"Miguel Riglos"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890439977,
-    "wof:lastmodified":1562867091,
+    "wof:lastmodified":1566588354,
     "wof:name":"Miguel Riglos",
     "wof:parent_id":1108718285,
     "wof:placetype":"locality",

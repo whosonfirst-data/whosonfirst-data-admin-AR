@@ -10,8 +10,12 @@
     "geom:latitude":-36.754839,
     "geom:longitude":-56.675289,
     "iso:country":"AR",
+    "lbl:bbox":"-56.695289,-36.774839,-56.655289,-36.734839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26795641,
-        "qs:id":360427
+        "qs_pg:id":360427
     },
     "wof:country":"AR",
     "wof:created":1459009794,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421194099,
-    "wof:lastmodified":1499925074,
+    "wof:lastmodified":1566588136,
     "wof:name":"Nueva Atlantis",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

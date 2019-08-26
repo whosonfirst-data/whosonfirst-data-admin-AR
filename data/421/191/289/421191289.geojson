@@ -10,8 +10,12 @@
     "geom:latitude":-38.03522,
     "geom:longitude":-57.71086,
     "iso:country":"AR",
+    "lbl:bbox":"-57.73086,-38.05522,-57.69086,-38.01522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u062f\u0648\u0644\u0641\u0648 \u0631\u0648\u062f\u0631\u064a\u063a\u064a\u0632 \u0633\u0627"
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3435465,
         "gp:id":465027,
-        "qs:id":1134865,
+        "qs_pg:id":1134865,
         "wd:id":"Q2102655"
     },
     "wof:country":"AR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421191289,
-    "wof:lastmodified":1562866880,
+    "wof:lastmodified":1566588259,
     "wof:name":"Chapadmalal",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

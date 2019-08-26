@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/San_Juan",
     "iso:country":"AR",
+    "lbl:bbox":"-69.16791,-30.08786,-69.12791,-30.04786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buena Esperanza"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259549819,
-    "wof:lastmodified":1562867290,
+    "wof:lastmodified":1566588453,
     "wof:name":"Buena Esperanza",
     "wof:parent_id":421171511,
     "wof:placetype":"locality",

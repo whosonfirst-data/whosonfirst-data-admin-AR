@@ -11,10 +11,14 @@
     "geom:longitude":-63.75788,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1170,
+    "gn:population":1170,
     "iso:country":"AR",
+    "lbl:bbox":"-63.77788,-31.32158,-63.73788,-31.28158",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Piquill\u00edn"
     ],
@@ -222,7 +226,7 @@
     "name:tur_x_preferred":[
         "Piquill\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piquilin"
     ],
     "name:vec_x_preferred":[
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":3841035,
         "gp:id":91816518,
-        "qs:id":375515,
+        "qs_pg:id":375515,
         "wd:id":"Q6076671"
     },
     "wof:country":"AR",
@@ -280,7 +284,7 @@
         }
     ],
     "wof:id":890435031,
-    "wof:lastmodified":1562867136,
+    "wof:lastmodified":1566588367,
     "wof:name":"Piquill\u00edn",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-65.43586,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":6565,
+    "gn:population":6565,
     "iso:country":"AR",
+    "lbl:bbox":"-65.45586,-36.23505,-65.41586,-36.19505",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":3832923,
         "gp:id":91863209,
-        "qs:id":1046752,
+        "qs_pg:id":1046752,
         "wd:id":"Q2272570",
         "wk:page":"Victorica"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890435505,
-    "wof:lastmodified":1562867135,
+    "wof:lastmodified":1566588367,
     "wof:name":"Victorica",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

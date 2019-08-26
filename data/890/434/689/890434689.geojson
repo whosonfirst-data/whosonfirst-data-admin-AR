@@ -11,10 +11,14 @@
     "geom:longitude":-63.77445,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2138,
+    "gn:population":2138,
     "iso:country":"AR",
+    "lbl:bbox":"-63.79445,-37.39704,-63.75445,-37.35704",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alpachiri"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3866214,
         "gp:id":91863270,
-        "qs:id":585781,
+        "qs_pg:id":585781,
         "wd:id":"Q4734750",
         "wk:page":"Alpachiri"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890434689,
-    "wof:lastmodified":1562867131,
+    "wof:lastmodified":1566588365,
     "wof:name":"Alpachiri",
     "wof:parent_id":1108718303,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.66446,
     "geom:longitude":-58.70769,
     "iso:country":"AR",
+    "lbl:bbox":"-58.72769,-34.68446,-58.68769,-34.64446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0627\u0646\u0637\u0648\u0646\u064a\u0648 \u062f\u064a \u0628\u0627\u062f\u0648\u0627"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3429244,
         "gp:id":331854,
-        "qs:id":39973,
+        "qs_pg:id":39973,
         "wd:id":"Q1017367",
         "wk:page":"San Antonio de Padua"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421178077,
-    "wof:lastmodified":1561793259,
+    "wof:lastmodified":1566588313,
     "wof:name":"San Antonio de Padua",
     "wof:parent_id":1108718025,
     "wof:placetype":"locality",

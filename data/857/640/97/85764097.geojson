@@ -9,14 +9,15 @@
     "geom:bbox":"-58.3950805664,-34.6060845922,-58.3781691171,-34.5902585558",
     "geom:latitude":-34.598732,
     "geom:longitude":-58.385664,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.60502,
     "gn:longitude":-58.37607,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.610302,
     "lbl:longitude":-58.372518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.598941,
     "mps:longitude":-58.385087,
     "mz:hierarchy_label":1,
@@ -74,9 +75,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u041d\u0438\u043a\u043e\u043b\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Centro"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u5c3c\u53e4\u62c9\u65af"
     ],
@@ -126,8 +124,7 @@
     "qs_pg:woe_id":330111,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -139,7 +136,6 @@
     "wof:concordances":{
         "gn:id":6693229,
         "gp:id":330111,
-        "qs:id":232765,
         "qs_pg:id":232765,
         "wd:id":"Q2006239",
         "wk:page":"San Nicol\u00e1s, Buenos Aires"
@@ -160,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865731,
+    "wof:lastmodified":1566587665,
     "wof:name":"Centro",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

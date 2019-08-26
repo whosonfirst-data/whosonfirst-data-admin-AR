@@ -10,8 +10,12 @@
     "geom:latitude":-34.68324,
     "geom:longitude":-58.35118,
     "iso:country":"AR",
+    "lbl:bbox":"-58.37118,-34.70324,-58.33118,-34.66324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u064a"
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3428050,
         "gp:id":466455,
-        "qs:id":1262986,
+        "qs_pg:id":1262986,
         "wd:id":"Q2488555",
         "wk:page":"Sarand\u00ed, Buenos Aires"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421171593,
-    "wof:lastmodified":1562867029,
+    "wof:lastmodified":1566588323,
     "wof:name":"Sarand\u00ed",
     "wof:parent_id":421191687,
     "wof:placetype":"locality",

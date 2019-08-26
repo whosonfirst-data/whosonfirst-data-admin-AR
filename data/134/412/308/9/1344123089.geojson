@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/San_Juan",
     "iso:country":"AR",
+    "lbl:bbox":"-69.15307,-28.89475,-69.11307,-28.85475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pe\u00f1itas",
         "Las Pe\u00f1itas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344123089,
-    "wof:lastmodified":1537584863,
+    "wof:lastmodified":1566587612,
     "wof:name":"Las Penitas",
     "wof:parent_id":421171511,
     "wof:placetype":"locality",

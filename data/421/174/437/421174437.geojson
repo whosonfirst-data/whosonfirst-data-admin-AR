@@ -10,8 +10,12 @@
     "geom:latitude":-24.12549,
     "geom:longitude":-65.39908,
     "iso:country":"AR",
+    "lbl:bbox":"-65.41908,-24.14549,-65.37908,-24.10549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Yala"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3832345,
         "gp:id":466827,
-        "qs:id":335986,
+        "qs_pg:id":335986,
         "wd:id":"Q6169692"
     },
     "wof:country":"AR",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421174437,
-    "wof:lastmodified":1562866672,
+    "wof:lastmodified":1566588175,
     "wof:name":"Yala",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

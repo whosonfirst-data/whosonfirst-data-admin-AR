@@ -10,6 +10,9 @@
     "geom:latitude":-37.45467,
     "geom:longitude":-61.93343,
     "iso:country":"AR",
+    "lbl:bbox":"-61.95343,-37.47467,-61.91343,-37.43467",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":3860164,
         "gp:id":466941,
-        "qs:id":242771,
+        "qs_pg:id":242771,
         "wd:id":"Q3693997",
         "wk:page":"Coronel Su\u00e1rez"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421204621,
-    "wof:lastmodified":1562866621,
+    "wof:lastmodified":1566588154,
     "wof:name":"Coronel Su\u00e1rez",
     "wof:parent_id":1108717909,
     "wof:placetype":"locality",

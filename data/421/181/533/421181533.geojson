@@ -10,8 +10,12 @@
     "geom:latitude":-30.53572,
     "geom:longitude":-61.96119,
     "iso:country":"AR",
+    "lbl:bbox":"-61.98119,-30.55572,-61.94119,-30.51572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0631\u062f\u064a"
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":3835021,
         "gp:id":466517,
-        "qs:id":494276,
+        "qs_pg:id":494276,
         "wd:id":"Q747226"
     },
     "wof:country":"AR",
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":421181533,
-    "wof:lastmodified":1562866772,
+    "wof:lastmodified":1566588217,
     "wof:name":"Suardi",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

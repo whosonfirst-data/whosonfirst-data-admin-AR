@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.853542,
     "lbl:longitude":-58.245653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Florencio Varela",
     "meso:gadm_hasc2":"AR.BA.FC",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.245653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Florencio Varela"
     ],
@@ -68,9 +71,9 @@
         "Florencio Varela"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"190.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108717935,
-    "wof:lastmodified":1562866281,
+    "wof:lastmodified":1566587981,
     "wof:name":"Florencio Varela",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-41.004467,
     "lbl:longitude":-70.575129,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rio Negro",
     "meso:gadm_admin":"Pilcaniyeu",
     "meso:gadm_hasc2":"AR.RN.PI",
@@ -37,6 +39,7 @@
     "mps:longitude":-70.575129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pilcaniyeu"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"10,545.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":20071048,
         "hasc:id":"AR.RN.PI",
-        "qs:id":1087247,
+        "qs_pg:id":1087247,
         "wd:id":"Q1936853"
     },
     "wof:country":"AR",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421188063,
-    "wof:lastmodified":1562866728,
+    "wof:lastmodified":1566588197,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

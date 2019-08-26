@@ -11,8 +11,11 @@
     "geom:longitude":-70.92975,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":3588,
+    "gn:population":3588,
     "iso:country":"AR",
+    "lbl:bbox":"-70.94975,-46.60994,-70.90975,-46.56994",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0456\u0442\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lago Buenos Aires"
     ],
     "name:zho_x_preferred":[
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":3841475,
         "gp:id":91815445,
-        "qs:id":150421,
+        "qs_pg:id":150421,
         "wd:id":"Q2061265",
         "wk:page":"Perito Moreno"
     },
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":890429471,
-    "wof:lastmodified":1562867120,
+    "wof:lastmodified":1566588361,
     "wof:name":"Perito Moreno",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.1632,
     "geom:longitude":-58.40082,
     "iso:country":"AR",
+    "lbl:bbox":"-58.42082,-32.1832,-58.38082,-32.1432",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Elisa"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3427443,
         "gp:id":467952,
-        "qs:id":1178857,
+        "qs_pg:id":1178857,
         "wd:id":"Q52581",
         "wk:page":"Villa Elisa, Entre R\u00edos"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421177371,
-    "wof:lastmodified":1562866984,
+    "wof:lastmodified":1566588303,
     "wof:name":"Villa Elisa",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

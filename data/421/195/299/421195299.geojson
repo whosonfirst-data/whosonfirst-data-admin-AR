@@ -10,8 +10,12 @@
     "geom:latitude":-28.65338,
     "geom:longitude":-63.78737,
     "iso:country":"AR",
+    "lbl:bbox":"-63.80737,-28.67338,-63.76737,-28.63338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Medell\u00edn"
@@ -277,7 +281,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043b\u044c\u0457\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estaci\u00f3n Medell\u00edn"
     ],
     "name:urd_x_preferred":[
@@ -339,7 +343,7 @@
     "wof:concordances":{
         "gn:id":3844566,
         "gp:id":467777,
-        "qs:id":150435
+        "qs_pg:id":150435
     },
     "wof:country":"AR",
     "wof:created":1459009839,
@@ -354,7 +358,7 @@
         }
     ],
     "wof:id":421195299,
-    "wof:lastmodified":1564218005,
+    "wof:lastmodified":1566588134,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":1108718467,
     "wof:placetype":"locality",

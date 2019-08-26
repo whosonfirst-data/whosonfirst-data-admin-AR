@@ -10,8 +10,12 @@
     "geom:latitude":-30.16105,
     "geom:longitude":-63.5936,
     "iso:country":"AR",
+    "lbl:bbox":"-63.6136,-30.18105,-63.5736,-30.14105",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sebasti\u00e1n Elcano"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3835582,
         "gp:id":467891,
-        "qs:id":150390,
+        "qs_pg:id":150390,
         "wd:id":"Q6122885"
     },
     "wof:country":"AR",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421197807,
-    "wof:lastmodified":1562866915,
+    "wof:lastmodified":1566588273,
     "wof:name":"Sebasti\u00e1n Elcano",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

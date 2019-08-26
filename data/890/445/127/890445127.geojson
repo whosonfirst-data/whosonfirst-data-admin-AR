@@ -11,10 +11,14 @@
     "geom:longitude":-64.60431,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":12536,
+    "gn:population":12536,
     "iso:country":"AR",
+    "lbl:bbox":"-64.62431,-37.39698,-64.58431,-37.35698",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "General Acha"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3855143,
         "gp:id":467238,
-        "qs:id":1046962,
+        "qs_pg:id":1046962,
         "wd:id":"Q58350",
         "wk:page":"General Acha"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890445127,
-    "wof:lastmodified":1562867127,
+    "wof:lastmodified":1566588364,
     "wof:name":"General Acha",
     "wof:parent_id":1108718319,
     "wof:placetype":"locality",

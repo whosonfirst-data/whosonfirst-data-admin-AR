@@ -10,8 +10,12 @@
     "geom:latitude":-37.97904,
     "geom:longitude":-63.60449,
     "iso:country":"AR",
+    "lbl:bbox":"-63.62449,-37.99904,-63.58449,-37.95904",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General San Mart\u00edn"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jos\u00e9 de San Mart\u00edn"
     ],
     "qs:gn_country":"AR",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3855056,
         "gp:id":466976,
-        "qs:id":150495,
+        "qs_pg:id":150495,
         "wd:id":"Q5532167"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421195327,
-    "wof:lastmodified":1562866568,
+    "wof:lastmodified":1566588134,
     "wof:name":"General San Mart\u00edn",
     "wof:parent_id":421181665,
     "wof:placetype":"locality",

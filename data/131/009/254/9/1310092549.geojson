@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-66.43666,-30.99772,-66.39666,-30.95772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310092549,
-    "wof:lastmodified":1537014496,
+    "wof:lastmodified":1566588030,
     "wof:name":"Mollaco",
     "wof:parent_id":1108718339,
     "wof:placetype":"locality",

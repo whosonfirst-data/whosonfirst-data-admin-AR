@@ -11,10 +11,14 @@
     "geom:longitude":-64.93997,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1389,
+    "gn:population":1389,
     "iso:country":"AR",
+    "lbl:bbox":"-64.95997,-35.6936,-64.91997,-35.6536",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Maruja"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3849980,
         "gp:id":91816398,
-        "qs:id":150462,
+        "qs_pg:id":150462,
         "wd:id":"Q6463765",
         "wk:page":"La Maruja"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890441823,
-    "wof:lastmodified":1562867089,
+    "wof:lastmodified":1566588353,
     "wof:name":"La Maruja",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

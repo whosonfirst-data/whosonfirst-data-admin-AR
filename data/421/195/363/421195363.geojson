@@ -10,8 +10,12 @@
     "geom:latitude":-28.95488,
     "geom:longitude":-58.57277,
     "iso:country":"AR",
+    "lbl:bbox":"-58.59277,-28.97488,-58.55277,-28.93488",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chavarr\u00eda"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3435444,
         "gp:id":466928,
-        "qs:id":147796,
+        "qs_pg:id":147796,
         "wd:id":"Q5088475",
         "wk:page":"Chavarr\u00eda, Argentina"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421195363,
-    "wof:lastmodified":1562866541,
+    "wof:lastmodified":1566588123,
     "wof:name":"Chavarr\u00eda",
     "wof:parent_id":421191017,
     "wof:placetype":"locality",

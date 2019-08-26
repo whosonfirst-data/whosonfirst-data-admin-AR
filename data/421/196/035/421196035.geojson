@@ -10,8 +10,12 @@
     "geom:latitude":-33.05338,
     "geom:longitude":-68.56229,
     "iso:country":"AR",
+    "lbl:bbox":"-68.58229,-33.07338,-68.54229,-33.03338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Palmira"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3842265,
         "gp:id":467020,
-        "qs:id":1046850
+        "qs_pg:id":1046850
     },
     "wof:country":"AR",
     "wof:created":1459009867,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421196035,
-    "wof:lastmodified":1562866862,
+    "wof:lastmodified":1566588252,
     "wof:name":"Palmira",
     "wof:parent_id":1108718359,
     "wof:placetype":"locality",

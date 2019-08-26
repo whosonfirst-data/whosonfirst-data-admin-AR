@@ -10,8 +10,12 @@
     "geom:latitude":-32.17667,
     "geom:longitude":-64.45543,
     "iso:country":"AR",
+    "lbl:bbox":"-64.47543,-32.19667,-64.43543,-32.15667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa del Dique"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0434\u0435\u043b\u044c-\u0414\u0456\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Dique"
     ],
     "qs:gn_country":"AR",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3832769,
         "gp:id":466796,
-        "qs:id":271769,
+        "qs_pg:id":271769,
         "wd:id":"Q2170454",
         "wk:page":"Villa del Dique"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421166753,
-    "wof:lastmodified":1562866519,
+    "wof:lastmodified":1566588113,
     "wof:name":"Villa del Dique",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

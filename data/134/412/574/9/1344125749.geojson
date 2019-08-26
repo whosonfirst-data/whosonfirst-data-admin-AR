@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-63.59595,-26.77957,-63.55595,-26.73957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344125749,
-    "wof:lastmodified":1536781976,
+    "wof:lastmodified":1566587612,
     "wof:name":"Pozo Grande",
     "wof:parent_id":1108718465,
     "wof:placetype":"locality",

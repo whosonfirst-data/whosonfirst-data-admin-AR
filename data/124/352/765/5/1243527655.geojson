@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-70.95312,-39.39398,-70.91312,-39.35398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Rahue",
         "Rahu\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243527655,
-    "wof:lastmodified":1537584845,
+    "wof:lastmodified":1566588388,
     "wof:name":"Rahue",
     "wof:parent_id":421188059,
     "wof:placetype":"locality",

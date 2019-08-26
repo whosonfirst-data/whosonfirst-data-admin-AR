@@ -10,8 +10,12 @@
     "geom:latitude":-30.75048,
     "geom:longitude":-57.97962,
     "iso:country":"AR",
+    "lbl:bbox":"-57.99962,-30.77048,-57.95962,-30.73048",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chajar\u00ed"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3435486,
         "gp:id":466925,
-        "qs:id":261295,
+        "qs_pg:id":261295,
         "wd:id":"Q2654603",
         "wk:page":"Chajar\u00ed"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421205329,
-    "wof:lastmodified":1562866664,
+    "wof:lastmodified":1566588172,
     "wof:name":"Chajar\u00ed",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

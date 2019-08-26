@@ -10,8 +10,12 @@
     "geom:latitude":-31.97681,
     "geom:longitude":-64.374,
     "iso:country":"AR",
+    "lbl:bbox":"-64.394,-31.99681,-64.354,-31.95681",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Agust\u00edn"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3838174,
         "gp:id":331818,
-        "qs:id":1262712,
+        "qs_pg:id":1262712,
         "wd:id":"Q1863952",
         "wk:page":"San Agust\u00edn, C\u00f3rdoba"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421169431,
-    "wof:lastmodified":1562866604,
+    "wof:lastmodified":1566588147,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

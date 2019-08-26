@@ -10,8 +10,12 @@
     "geom:latitude":-31.51599,
     "geom:longitude":-68.35273,
     "iso:country":"AR",
+    "lbl:bbox":"-68.37273,-31.53599,-68.33273,-31.49599",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Departamento San Mart\u00edn"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3836993,
         "gp:id":331997,
-        "qs:id":1205228,
+        "qs_pg:id":1205228,
         "wd:id":"Q685766",
         "wk:page":"San Mart\u00edn Department, San Juan"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421205209,
-    "wof:lastmodified":1562866663,
+    "wof:lastmodified":1566588171,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108718429,
     "wof:placetype":"locality",

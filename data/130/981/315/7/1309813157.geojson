@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-61.822,-35.38402,-61.782,-35.34402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Toscas"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1309813157,
-    "wof:lastmodified":1562866499,
+    "wof:lastmodified":1566588106,
     "wof:name":"Las Toscas",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

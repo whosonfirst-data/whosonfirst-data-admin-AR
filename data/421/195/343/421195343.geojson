@@ -10,8 +10,12 @@
     "geom:latitude":-38.82224,
     "geom:longitude":-68.06293,
     "iso:country":"AR",
+    "lbl:bbox":"-68.08293,-38.84224,-68.04293,-38.80224",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cinco Saltos"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3861061,
         "gp:id":467185,
-        "qs:id":150536,
+        "qs_pg:id":150536,
         "wd:id":"Q2933923",
         "wk:page":"Cinco Saltos"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421195343,
-    "wof:lastmodified":1562866573,
+    "wof:lastmodified":1566588135,
     "wof:name":"Cinco Saltos",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

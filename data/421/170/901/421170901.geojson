@@ -10,8 +10,12 @@
     "geom:latitude":-30.11598,
     "geom:longitude":-63.84448,
     "iso:country":"AR",
+    "lbl:bbox":"-63.86448,-30.13598,-63.82448,-30.09598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Elena"
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3836332,
         "gp:id":332112,
-        "qs:id":270260,
+        "qs_pg:id":270260,
         "wd:id":"Q6120397"
     },
     "wof:country":"AR",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421170901,
-    "wof:lastmodified":1562866971,
+    "wof:lastmodified":1566588295,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

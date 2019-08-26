@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.662802,
     "lbl:longitude":-65.721226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Tumbaya",
     "meso:gadm_hasc2":"AR.JY.TU",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.721226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Tumbaya"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,442.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":20071066,
         "hasc:id":"AR.JY.TU",
-        "qs:id":902988,
+        "qs_pg:id":902988,
         "wd:id":"Q2302575"
     },
     "wof:country":"AR",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421201001,
-    "wof:lastmodified":1562866949,
+    "wof:lastmodified":1566588286,
     "wof:name":"Tumbaya",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

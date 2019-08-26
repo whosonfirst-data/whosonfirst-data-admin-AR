@@ -10,8 +10,12 @@
     "geom:latitude":-34.788,
     "geom:longitude":-58.37489,
     "iso:country":"AR",
+    "lbl:bbox":"-58.39489,-34.808,-58.35489,-34.768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u0645\u0648\u0644"
@@ -55,7 +59,7 @@
     "name:spa_x_preferred":[
         "Jos\u00e9 M\u00e1rmol"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e1rmol"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3433321,
         "gp:id":465621,
-        "qs:id":313538,
+        "qs_pg:id":313538,
         "wd:id":"Q9293211"
     },
     "wof:country":"AR",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421193959,
-    "wof:lastmodified":1562866587,
+    "wof:lastmodified":1566588141,
     "wof:name":"Jos\u00e9 M\u00e1rmol",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

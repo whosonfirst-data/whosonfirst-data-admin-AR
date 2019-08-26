@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.606665,
     "lbl:longitude":-64.447201,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cordoba",
     "meso:gadm_admin":"General Roca",
     "meso:gadm_hasc2":"AR.CB.GR",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.447201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Roca"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"12,659.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":20071007,
         "hasc:id":"AR.CB.GR",
-        "qs:id":1087238
+        "qs_pg:id":1087238
     },
     "wof:country":"AR",
     "wof:created":1459009532,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421188041,
-    "wof:lastmodified":1560898145,
+    "wof:lastmodified":1566588197,
     "wof:name":"General Roca",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

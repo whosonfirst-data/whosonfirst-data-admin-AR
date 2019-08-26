@@ -10,6 +10,9 @@
     "geom:latitude":-34.61772,
     "geom:longitude":-68.33007,
     "iso:country":"AR",
+    "lbl:bbox":"-68.35007,-34.63772,-68.31007,-34.59772",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -286,7 +289,7 @@
     "wof:concordances":{
         "gn:id":3836669,
         "gp:id":332481,
-        "qs:id":220696,
+        "qs_pg:id":220696,
         "wd:id":"Q23044",
         "wk:page":"San Rafael, Mendoza"
     },
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421202307,
-    "wof:lastmodified":1562866650,
+    "wof:lastmodified":1566588166,
     "wof:name":"San Rafael",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

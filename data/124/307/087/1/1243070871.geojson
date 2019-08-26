@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-66.34874,-27.57039,-66.30874,-27.53039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chaquiago"
     ],
@@ -36,8 +40,7 @@
         "Chaquiago"
     ],
     "name:und_x_variant":[
-        "Chaquiago Arriba",
-        "Chaquiago"
+        "Chaquiago Arriba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243070871,
-    "wof:lastmodified":1562867162,
+    "wof:lastmodified":1566588380,
     "wof:name":"Chaquiago",
     "wof:parent_id":421203617,
     "wof:placetype":"locality",

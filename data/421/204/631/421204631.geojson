@@ -10,8 +10,12 @@
     "geom:latitude":-37.26394,
     "geom:longitude":-56.97304,
     "iso:country":"AR",
+    "lbl:bbox":"-56.99304,-37.28394,-56.95304,-37.24394",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u062c\u064a\u0632\u064a\u0644"
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":3427431,
         "gp:id":467980,
-        "qs:id":242816,
+        "qs_pg:id":242816,
         "wd:id":"Q991574",
         "wk:page":"Villa Gesell"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":421204631,
-    "wof:lastmodified":1562866640,
+    "wof:lastmodified":1566588162,
     "wof:name":"Villa Gesell",
     "wof:parent_id":1108718135,
     "wof:placetype":"locality",

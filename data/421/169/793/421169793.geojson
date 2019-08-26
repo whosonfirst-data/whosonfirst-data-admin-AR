@@ -10,8 +10,12 @@
     "geom:latitude":-31.58477,
     "geom:longitude":-64.45416,
     "iso:country":"AR",
+    "lbl:bbox":"-64.47416,-31.60477,-64.43416,-31.56477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Comisi\u00f3n Nacional de Actividades Espaciales"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3855679,
         "gp:id":466958,
-        "qs:id":246730
+        "qs_pg:id":246730
     },
     "wof:country":"AR",
     "wof:created":1459008824,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421169793,
-    "wof:lastmodified":1499925199,
+    "wof:lastmodified":1566588149,
     "wof:name":"Falda del Carmen",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

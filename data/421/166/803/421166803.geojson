@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-25.09866,
     "lbl:longitude":-66.073868,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"Cachi",
     "meso:gadm_hasc2":"AR.SA.CA",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.073868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cachi"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,925.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":20070841,
         "hasc:id":"AR.SA.CA",
-        "qs:id":425254
+        "qs_pg:id":425254
     },
     "wof:country":"AR",
     "wof:created":1459008703,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421166803,
-    "wof:lastmodified":1562866523,
+    "wof:lastmodified":1566588115,
     "wof:name":"Cachi",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

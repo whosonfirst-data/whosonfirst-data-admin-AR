@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-65.90833,-29.08225,-65.86833,-29.04225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326942931,
-    "wof:lastmodified":1536888908,
+    "wof:lastmodified":1566587545,
     "wof:name":"Pozo Lindo",
     "wof:parent_id":1108718147,
     "wof:placetype":"locality",

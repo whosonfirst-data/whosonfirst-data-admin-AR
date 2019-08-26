@@ -10,8 +10,12 @@
     "geom:latitude":-38.57944,
     "geom:longitude":-68.312532,
     "iso:country":"AR",
+    "lbl:bbox":"-68.332532,-38.59944,-68.292532,-38.55944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Revoluci\u00f3n: El cruce de los Andes"
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040453,
-        "qs:id":790591
+        "qs_pg:id":790591
     },
     "wof:country":"AR",
     "wof:created":1459009887,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":421196601,
-    "wof:lastmodified":1499925034,
+    "wof:lastmodified":1566588253,
     "wof:name":"El Cruce",
     "wof:parent_id":421170123,
     "wof:placetype":"locality",

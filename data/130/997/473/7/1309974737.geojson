@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Ushuaia",
     "iso:country":"AR",
+    "lbl:bbox":"-68.20394,-53.45372,-68.16394,-53.41372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0629"
     ],
@@ -104,8 +108,7 @@
     "name:und_x_variant":[
         "Estancia Sara",
         "La Sara",
-        "Estancia La Sara",
-        "Sara"
+        "Estancia La Sara"
     ],
     "name:war_x_preferred":[
         "Sara"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1309974737,
-    "wof:lastmodified":1562866472,
+    "wof:lastmodified":1566588088,
     "wof:name":"Sara",
     "wof:parent_id":421175153,
     "wof:placetype":"locality",

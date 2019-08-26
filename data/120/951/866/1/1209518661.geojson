@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-66.84504,-27.11428,-66.80504,-27.07428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Villa V\u00edl"
     ],
@@ -39,9 +43,6 @@
         "Villa Vil"
     ],
     "name:swe_x_preferred":[
-        "Villa V\u00edl"
-    ],
-    "name:und_x_variant":[
         "Villa V\u00edl"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1209518661,
-    "wof:lastmodified":1562866119,
+    "wof:lastmodified":1566587875,
     "wof:name":"Villa Vil",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

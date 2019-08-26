@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.81347,-28.39054,-64.77347,-28.35054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Punta"
     ],
@@ -48,8 +52,7 @@
         "La Punta"
     ],
     "name:und_x_variant":[
-        "Villa La Punta",
-        "La Punta"
+        "Villa La Punta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343429767,
-    "wof:lastmodified":1562865683,
+    "wof:lastmodified":1566587645,
     "wof:name":"La Punta",
     "wof:parent_id":1108718479,
     "wof:placetype":"locality",

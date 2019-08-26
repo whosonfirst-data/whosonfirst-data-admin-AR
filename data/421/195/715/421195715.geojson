@@ -10,8 +10,12 @@
     "geom:latitude":-35.69837,
     "geom:longitude":-64.13218,
     "iso:country":"AR",
+    "lbl:bbox":"-64.15218,-35.71837,-64.11218,-35.67837",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Trenel"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3833880,
         "gp:id":467926,
-        "qs:id":494342,
+        "qs_pg:id":494342,
         "wd:id":"Q3037564",
         "wk:page":"Trenel"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421195715,
-    "wof:lastmodified":1562866553,
+    "wof:lastmodified":1566588128,
     "wof:name":"Trenel",
     "wof:parent_id":421177929,
     "wof:placetype":"locality",

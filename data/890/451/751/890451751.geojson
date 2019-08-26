@@ -11,10 +11,14 @@
     "geom:longitude":-63.99535,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":8595,
+    "gn:population":8595,
     "iso:country":"AR",
+    "lbl:bbox":"-64.01535,-24.45276,-63.97535,-24.41276",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Apolinario Saravia"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3865605,
         "gp:id":467116,
-        "qs:id":150550,
+        "qs_pg:id":150550,
         "wd:id":"Q4780228",
         "wk:page":"Apolinario Saravia, Salta"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890451751,
-    "wof:lastmodified":1562867130,
+    "wof:lastmodified":1566588365,
     "wof:name":"Apolinario Saravia",
     "wof:parent_id":1108718403,
     "wof:placetype":"locality",

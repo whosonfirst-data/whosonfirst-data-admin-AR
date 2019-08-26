@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-29.485397,
     "lbl:longitude":-62.769083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santiago Del Estero",
     "meso:gadm_admin":"Mitre",
     "meso:gadm_hasc2":"AR.SE.MI",
@@ -37,6 +39,7 @@
     "mps:longitude":-62.769083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Myter"
     ],
@@ -188,9 +191,9 @@
         "\u4e3b\u6559\u51a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,667.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":1108718495,
-    "wof:lastmodified":1562866298,
+    "wof:lastmodified":1566587992,
     "wof:name":"Mitre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

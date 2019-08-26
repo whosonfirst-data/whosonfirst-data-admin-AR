@@ -10,8 +10,12 @@
     "geom:latitude":-31.76762,
     "geom:longitude":-61.82886,
     "iso:country":"AR",
+    "lbl:bbox":"-61.84886,-31.78762,-61.80886,-31.74762",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sastre"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3835695,
         "gp:id":467417,
-        "qs:id":1046790,
+        "qs_pg:id":1046790,
         "wd:id":"Q3473836",
         "wk:page":"Sastre, Santa Fe"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421196025,
-    "wof:lastmodified":1562866836,
+    "wof:lastmodified":1566588242,
     "wof:name":"Sastre",
     "wof:parent_id":1108718461,
     "wof:placetype":"locality",

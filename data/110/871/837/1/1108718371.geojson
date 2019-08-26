@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.626741,
     "lbl:longitude":-55.381156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Misiones",
     "meso:gadm_admin":"Leandro N. Alem",
     "meso:gadm_hasc2":"AR.MN.LA",
@@ -37,6 +39,7 @@
     "mps:longitude":-55.381156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Leandro Nic\u00e9foro Alem"
     ],
@@ -71,9 +74,9 @@
         "Leandro Alem"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,185.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108718371,
-    "wof:lastmodified":1562866319,
+    "wof:lastmodified":1566588005,
     "wof:name":"Leandro N. Alem",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -10,6 +10,9 @@
     "geom:latitude":-38.00228,
     "geom:longitude":-57.55754,
     "iso:country":"AR",
+    "lbl:bbox":"-57.57754,-38.02228,-57.53754,-37.98228",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -224,7 +227,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440-\u0434\u0435\u043b\u044c-\u041f\u043b\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mar de Plata"
     ],
     "name:urd_x_preferred":[
@@ -374,7 +377,7 @@
     "wof:concordances":{
         "gn:id":3430863,
         "gp:id":466863,
-        "qs:id":778507,
+        "qs_pg:id":778507,
         "wd:id":"Q52607",
         "wk:page":"Mar del Plata"
     },
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":421169051,
-    "wof:lastmodified":1562866615,
+    "wof:lastmodified":1566588150,
     "wof:name":"Mar del Plata",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

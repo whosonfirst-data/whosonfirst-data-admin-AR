@@ -10,8 +10,12 @@
     "geom:latitude":-33.01667,
     "geom:longitude":-68.88333,
     "iso:country":"AR",
+    "lbl:bbox":"-68.90333,-33.03667,-68.86333,-32.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u062e\u0627\u0646 \u062f\u064a \u0643\u0648\u064a\u0648"
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3832509,
         "gp:id":466812,
-        "qs:id":181884,
+        "qs_pg:id":181884,
         "wd:id":"Q583524"
     },
     "wof:country":"AR",
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421198315,
-    "wof:lastmodified":1562866807,
+    "wof:lastmodified":1566588232,
     "wof:name":"Vistalba",
     "wof:parent_id":421169773,
     "wof:placetype":"locality",

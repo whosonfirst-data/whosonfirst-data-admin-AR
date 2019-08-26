@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.481822,
     "lbl:longitude":-63.226673,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santiago Del Estero",
     "meso:gadm_admin":"Avellaneda",
     "meso:gadm_hasc2":"AR.SE.AV",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.226673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
     ],
@@ -146,9 +149,9 @@
         "\u963f\u97e6\u5229\u4e9a\u5185\u8fbe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,902.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":1108718471,
-    "wof:lastmodified":1562866299,
+    "wof:lastmodified":1566587992,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

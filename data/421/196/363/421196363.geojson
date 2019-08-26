@@ -10,8 +10,12 @@
     "geom:latitude":-28.84051,
     "geom:longitude":-58.8265,
     "iso:country":"AR",
+    "lbl:bbox":"-58.8465,-28.86051,-58.8065,-28.82051",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueve de Julio"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0435-\u0434\u0435-\u0425\u0443\u043b\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "9 de Julio"
     ],
     "qs:gn_country":"AR",
@@ -68,10 +72,12 @@
     "wof:concordances":{
         "gn:id":3842882,
         "gp:id":467806,
-        "qs:id":1212410,
         "qs_pg:id":585578,
         "wd:id":"Q7068654",
         "wk:page":"Nueve de Julio, Corrientes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1212410
     },
     "wof:country":"AR",
     "wof:created":1459009879,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421196363,
-    "wof:lastmodified":1562866830,
+    "wof:lastmodified":1566588240,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

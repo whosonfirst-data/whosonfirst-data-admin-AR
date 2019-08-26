@@ -10,8 +10,12 @@
     "geom:latitude":-30.74485,
     "geom:longitude":-59.64566,
     "iso:country":"AR",
+    "lbl:bbox":"-59.66566,-30.76485,-59.62566,-30.72485",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Paz"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3432079,
         "gp:id":332491,
-        "qs:id":1044624,
+        "qs_pg:id":1044624,
         "wd:id":"Q2440276",
         "wk:page":"La Paz, Entre R\u00edos"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421168379,
-    "wof:lastmodified":1562866514,
+    "wof:lastmodified":1566588111,
     "wof:name":"La Paz",
     "wof:parent_id":421181879,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.651089,
     "lbl:longitude":-58.420882,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.652409,
     "mps:longitude":-58.414995,
     "mz:hierarchy_label":1,
@@ -62,9 +63,6 @@
     "name:spa_x_variant":[
         "Nuevo Pompeya"
     ],
-    "name:unk_x_variant":[
-        "Nueva Pompeya"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -93,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1459,
     "wof:belongsto":[
         102191577,
@@ -106,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3430387,
         "gp:id":331552,
-        "qs:id":1165531,
+        "qs_pg:id":1165531,
         "wd:id":"Q2004385",
         "wk:page":"Nueva Pompeya"
     },
@@ -126,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865722,
+    "wof:lastmodified":1566587662,
     "wof:name":"Nueva Pompeya",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-38.154942,
     "geom:longitude":-67.150412,
     "iso:country":"AR",
+    "lbl:bbox":"-67.1704115,-38.174942,-67.1304115,-38.134942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040587,
-        "qs:id":1002837
+        "qs_pg:id":1002837
     },
     "wof:country":"AR",
     "wof:created":1459009418,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421184657,
-    "wof:lastmodified":1499925121,
+    "wof:lastmodified":1566588291,
     "wof:name":"Villa Casa de Piedra",
     "wof:parent_id":1108718311,
     "wof:placetype":"locality",

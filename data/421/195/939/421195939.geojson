@@ -10,8 +10,12 @@
     "geom:latitude":-32.42657,
     "geom:longitude":-63.73333,
     "iso:country":"AR",
+    "lbl:bbox":"-63.75333,-32.44657,-63.71333,-32.40657",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Hernando"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3854331,
         "gp:id":466983,
-        "qs:id":967962,
+        "qs_pg:id":967962,
         "wd:id":"Q2648980",
         "wk:page":"Hernando, C\u00f3rdoba"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421195939,
-    "wof:lastmodified":1562866538,
+    "wof:lastmodified":1566588122,
     "wof:name":"Hernando",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

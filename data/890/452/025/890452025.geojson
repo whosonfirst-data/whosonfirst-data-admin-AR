@@ -12,8 +12,12 @@
     "gn:country":"AR",
     "gp:adm0":23424747,
     "iso:country":"AR",
+    "lbl:bbox":"-56.69881,-36.6908965,-56.65881,-36.6508965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Costa Azul"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56064314,
-        "qs:id":231048,
+        "qs_pg:id":231048,
         "wk:page":"Costa Azul"
     },
     "wof:country":"AR",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890452025,
-    "wof:lastmodified":1562867105,
+    "wof:lastmodified":1566588357,
     "wof:name":"Costa Azul",
     "wof:parent_id":85668015,
     "wof:placetype":"locality",

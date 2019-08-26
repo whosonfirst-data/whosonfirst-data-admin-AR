@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4733684642,-34.5750084122,-58.4256740143,-34.5315273336",
     "geom:latitude":-34.554892,
     "geom:longitude":-58.450298,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.5627,
     "gn:longitude":-58.45829,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.557609,
     "lbl:longitude":-58.449938,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.561344,
     "mps:longitude":-58.445132,
     "mz:hierarchy_label":1,
@@ -113,9 +114,6 @@
     "name:swe_x_preferred":[
         "Barrio Belgrano"
     ],
-    "name:unk_x_variant":[
-        "Belgrano"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -164,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -176,7 +174,6 @@
     "wof:concordances":{
         "gn:id":3436077,
         "gp:id":330010,
-        "qs:id":1074187,
         "qs_pg:id":1074187,
         "wd:id":"Q815569",
         "wk:page":"Belgrano, Buenos Aires"
@@ -197,7 +194,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865724,
+    "wof:lastmodified":1566587664,
     "wof:name":"Belgrano",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

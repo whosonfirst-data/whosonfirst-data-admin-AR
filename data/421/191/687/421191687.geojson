@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.678356,
     "lbl:longitude":-58.341159,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Avellaneda",
     "meso:gadm_hasc2":"AR.BA.AV",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.341159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
@@ -195,9 +198,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"55.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -218,7 +221,7 @@
         "gn:id":7535637,
         "gp:id":20070577,
         "hasc:id":"AR.BA.AV",
-        "qs:id":1151109,
+        "qs_pg:id":1151109,
         "wd:id":"Q753642",
         "wk:page":"Avellaneda"
     },
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1562866882,
+    "wof:lastmodified":1566588260,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

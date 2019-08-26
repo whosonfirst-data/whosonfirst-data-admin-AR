@@ -10,8 +10,12 @@
     "geom:latitude":-38.854881,
     "geom:longitude":-60.088434,
     "iso:country":"AR",
+    "lbl:bbox":"-60.108434,-38.874881,-60.068434,-38.834881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26795643,
-        "qs:id":360444
+        "qs_pg:id":360444
     },
     "wof:country":"AR",
     "wof:created":1459009059,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421175209,
-    "wof:lastmodified":1499925060,
+    "wof:lastmodified":1566588226,
     "wof:name":"Dunamar",
     "wof:parent_id":1108718125,
     "wof:placetype":"locality",

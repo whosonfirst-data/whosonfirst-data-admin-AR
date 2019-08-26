@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-25.322084,
     "lbl:longitude":-58.055287,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Formosa",
     "meso:gadm_admin":"Pilcomayo",
     "meso:gadm_hasc2":"AR.FM.PM",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.055287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Pilcomayo"
     ],
@@ -71,9 +74,9 @@
         "Pilcomayo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,342.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108718273,
-    "wof:lastmodified":1562866246,
+    "wof:lastmodified":1566587953,
     "wof:name":"Pilcomayo",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

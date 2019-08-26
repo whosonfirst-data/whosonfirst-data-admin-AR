@@ -10,8 +10,12 @@
     "geom:latitude":-25.38069,
     "geom:longitude":-64.65259,
     "iso:country":"AR",
+    "lbl:bbox":"-64.67259,-25.40069,-64.63259,-25.36069",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Galp\u00f3n"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3857974,
         "gp:id":332542,
-        "qs:id":886400,
+        "qs_pg:id":886400,
         "wd:id":"Q5351301",
         "wk:page":"El Galp\u00f3n, Salta"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421196233,
-    "wof:lastmodified":1562866844,
+    "wof:lastmodified":1566588245,
     "wof:name":"El Galp\u00f3n",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-31.34377,
     "geom:longitude":-64.33529,
     "iso:country":"AR",
+    "lbl:bbox":"-64.35529,-31.36377,-64.31529,-31.32377",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Calera"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3852374,
         "gp:id":464457,
-        "qs:id":322318,
+        "qs_pg:id":322318,
         "wd:id":"Q365146"
     },
     "wof:country":"AR",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421174265,
-    "wof:lastmodified":1562866692,
+    "wof:lastmodified":1566588182,
     "wof:name":"La Calera",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/San_Luis",
     "iso:country":"AR",
+    "lbl:bbox":"-65.44489,-35.69465,-65.40489,-35.65465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anchorena"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326592453,
-    "wof:lastmodified":1562865501,
+    "wof:lastmodified":1566587547,
     "wof:name":"Anchorena",
     "wof:parent_id":1108718443,
     "wof:placetype":"locality",

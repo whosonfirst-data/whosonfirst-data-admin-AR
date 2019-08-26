@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.47293,-38.74255,-60.43293,-38.70255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209323653,
-    "wof:lastmodified":1536290604,
+    "wof:lastmodified":1566587868,
     "wof:name":"Copetonas",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

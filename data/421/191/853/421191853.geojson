@@ -10,8 +10,12 @@
     "geom:latitude":-33.59816,
     "geom:longitude":-69.1783,
     "iso:country":"AR",
+    "lbl:bbox":"-69.1983,-33.61816,-69.1583,-33.57816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eus_x_preferred":[
         "Los Sauces"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3845595,
         "gp:id":331411,
-        "qs:id":1158864
+        "qs_pg:id":1158864
     },
     "wof:country":"AR",
     "wof:created":1459009712,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421191853,
-    "wof:lastmodified":1562866901,
+    "wof:lastmodified":1566588268,
     "wof:name":"Los Sauces",
     "wof:parent_id":421171485,
     "wof:placetype":"locality",

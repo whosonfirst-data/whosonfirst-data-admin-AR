@@ -11,8 +11,11 @@
     "geom:longitude":-65.10228,
     "gn:country":"AR",
     "gn:fcode":"PPLA",
-    "gn:pop":26335,
+    "gn:population":26335,
     "iso:country":"AR",
+    "lbl:bbox":"-65.12228,-43.32016,-65.08228,-43.28016",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -340,12 +343,12 @@
     "wof:concordances":{
         "gn:id":3839307,
         "gp:id":467039,
-        "qs:id":274523,
+        "qs_pg:id":274523,
         "wd:id":"Q44208",
         "wk:page":"Rawson"
     },
     "wof:concordances_alt":{
-        "qs:id":1077405
+        "qs_pg:id":1077405
     },
     "wof:country":"AR",
     "wof:created":1469052266,
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":890440195,
-    "wof:lastmodified":1562867073,
+    "wof:lastmodified":1566588348,
     "wof:name":"Rawson",
     "wof:parent_id":421172183,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.97963,
     "geom:longitude":-68.78461,
     "iso:country":"AR",
+    "lbl:bbox":"-68.80461,-32.99963,-68.76461,-32.95963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0628\u0648"
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3845247,
         "gp:id":466999,
-        "qs:id":1135022,
+        "qs_pg:id":1135022,
         "wd:id":"Q3117688",
         "wk:page":"Maip\u00fa, Mendoza"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421196095,
-    "wof:lastmodified":1562866863,
+    "wof:lastmodified":1566588253,
     "wof:name":"Maip\u00fa",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

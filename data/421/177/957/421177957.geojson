@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-36.707284,
     "lbl:longitude":-64.766555,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Pampa",
     "meso:gadm_admin":"Toay",
     "meso:gadm_hasc2":"AR.LP.TO",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.766555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Toay"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,092.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":20070695,
         "hasc:id":"AR.LP.TO",
-        "qs:id":19118,
+        "qs_pg:id":19118,
         "wd:id":"Q58372"
     },
     "wof:country":"AR",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421177957,
-    "wof:lastmodified":1562866984,
+    "wof:lastmodified":1566588303,
     "wof:name":"Toay",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

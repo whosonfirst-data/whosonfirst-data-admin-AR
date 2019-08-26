@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-66.8375,-23.96767,-66.7975,-23.92767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Medanitos"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Horno Auspurg",
-        "Horno Ruspura",
-        "Medanitos"
+        "Horno Ruspura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209208953,
-    "wof:lastmodified":1562866127,
+    "wof:lastmodified":1566587879,
     "wof:name":"Medanitos",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

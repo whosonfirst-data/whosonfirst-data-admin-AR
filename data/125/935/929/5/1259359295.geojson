@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-65.50333,-25.10333,-65.46333,-25.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zuviria",
         "Doctor Facundo Zubir\u00eda",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259359295,
-    "wof:lastmodified":1537584885,
+    "wof:lastmodified":1566588480,
     "wof:name":"Doctor Facundo Zuviria",
     "wof:parent_id":421204067,
     "wof:placetype":"locality",

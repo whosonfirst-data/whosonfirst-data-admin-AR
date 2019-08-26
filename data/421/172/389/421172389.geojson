@@ -10,8 +10,12 @@
     "geom:latitude":-32.896596,
     "geom:longitude":-68.851318,
     "iso:country":"AR",
+    "lbl:bbox":"-68.871318,-32.916596,-68.831318,-32.876596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,11 +46,11 @@
     "wof:concordances":{
         "gn:id":3858466,
         "gp:id":56064298,
-        "qs:id":1308608
+        "qs_pg:id":1308608
     },
     "wof:concordances_alt":{
         "gp:id":330361,
-        "qs:id":1062529
+        "qs_pg:id":1062529
     },
     "wof:country":"AR",
     "wof:created":1459008938,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421172389,
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1566588207,
     "wof:name":"El Challao",
     "wof:parent_id":1108718353,
     "wof:placetype":"locality",

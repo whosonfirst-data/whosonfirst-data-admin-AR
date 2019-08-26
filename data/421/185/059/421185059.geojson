@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-26.729676,
     "lbl:longitude":-60.760397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chaco",
     "meso:gadm_admin":"Independencia",
     "meso:gadm_hasc2":"AR.CC.IN",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.760397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,871.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gp:id":20070652,
         "hasc:id":"AR.CC.IN",
-        "qs:id":1017745
+        "qs_pg:id":1017745
     },
     "wof:country":"AR",
     "wof:created":1459009431,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421185059,
-    "wof:lastmodified":1562867067,
+    "wof:lastmodified":1566588346,
     "wof:name":"Independencia",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

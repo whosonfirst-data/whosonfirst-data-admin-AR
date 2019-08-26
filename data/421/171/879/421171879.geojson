@@ -10,8 +10,12 @@
     "geom:latitude":-33.17669,
     "geom:longitude":-60.66617,
     "iso:country":"AR",
+    "lbl:bbox":"-60.68617,-33.19669,-60.64617,-33.15669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Amelia"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3832814,
         "gp:id":466717,
-        "qs:id":1270845,
+        "qs_pg:id":1270845,
         "wd:id":"Q7930267",
         "wk:page":"Villa Amelia, Santa Fe"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421171879,
-    "wof:lastmodified":1562867047,
+    "wof:lastmodified":1566588334,
     "wof:name":"Villa Amelia",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

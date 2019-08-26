@@ -9,15 +9,15 @@
     "geom:bbox":"-58.3916446426,-34.5992928736,-58.3511383195,-34.5774840706",
     "geom:latitude":-34.588412,
     "geom:longitude":-58.375922,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":38635,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.58333,
     "gn:longitude":-58.38333,
     "gn:population":38635,
     "iso:country":"AR",
     "lbl:latitude":-34.589411,
     "lbl:longitude":-58.375929,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.578147,
     "mps:longitude":-58.360106,
     "mz:hierarchy_label":1,
@@ -90,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0442\u0456\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Retiro"
-    ],
     "name:zho_x_preferred":[
         "\u96f7\u8482\u7f57"
     ],
@@ -144,9 +141,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85632505,
@@ -158,7 +154,6 @@
     "wof:concordances":{
         "gn:id":3429576,
         "gp:id":331774,
-        "qs:id":897791,
         "qs_pg:id":897791,
         "wd:id":"Q516411",
         "wk:page":"Retiro, Buenos Aires"
@@ -179,7 +174,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865716,
+    "wof:lastmodified":1566587660,
     "wof:name":"Retiro",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

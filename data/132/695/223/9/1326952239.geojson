@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.11637,-29.13441,-59.07637,-29.09441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Isabel Victoria",
         "Colonia Isabel Victoria"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326952239,
-    "wof:lastmodified":1537584827,
+    "wof:lastmodified":1566587550,
     "wof:name":"Colonia Isabel Victoria",
     "wof:parent_id":421193663,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-24.98206,
     "geom:longitude":-65.57891,
     "iso:country":"AR",
+    "lbl:bbox":"-65.59891,-25.00206,-65.55891,-24.96206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Rosario de Lerma"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3838561,
         "gp:id":467051,
-        "qs:id":1048387,
+        "qs_pg:id":1048387,
         "wd:id":"Q1017556"
     },
     "wof:country":"AR",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421176595,
-    "wof:lastmodified":1562867021,
+    "wof:lastmodified":1566588320,
     "wof:name":"Rosario de Lerma",
     "wof:parent_id":421180301,
     "wof:placetype":"locality",

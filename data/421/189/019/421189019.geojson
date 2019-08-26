@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.815147,
     "lbl:longitude":-58.66272,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Corrientes",
     "meso:gadm_admin":"Empedrado",
     "meso:gadm_hasc2":"AR.CN.EM",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.66272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Empedrado"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,937.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":20070795,
         "hasc:id":"AR.CN.EM",
-        "qs:id":1109548
+        "qs_pg:id":1109548
     },
     "wof:country":"AR",
     "wof:created":1459009602,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421189019,
-    "wof:lastmodified":1562866724,
+    "wof:lastmodified":1566588195,
     "wof:name":"Empedrado",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

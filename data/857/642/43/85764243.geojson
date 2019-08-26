@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4887935721,-34.591723568,-58.4708152687,-34.5791249658",
     "geom:latitude":-34.585523,
     "geom:longitude":-58.479121,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.58333,
     "gn:longitude":-58.5,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.585153,
     "lbl:longitude":-58.478394,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.583999,
     "mps:longitude":-58.477456,
     "mz:hierarchy_label":1,
@@ -60,9 +61,6 @@
         "Parque Chas"
     ],
     "name:spa_x_preferred":[
-        "Parque Chas"
-    ],
-    "name:unk_x_variant":[
         "Parque Chas"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -113,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191577,
@@ -126,7 +124,6 @@
     "wof:concordances":{
         "gn:id":3430115,
         "gp:id":331605,
-        "qs:id":967517,
         "qs_pg:id":967517,
         "wd:id":"Q2053967",
         "wk:page":"Parque Chas"
@@ -147,7 +144,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865717,
+    "wof:lastmodified":1566587660,
     "wof:name":"Parque Chas",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-45.93333,
     "geom:longitude":-67.53333,
     "iso:country":"AR",
+    "lbl:bbox":"-67.55333,-45.95333,-67.51333,-45.91333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rada Tilly"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0430-\u0422\u0456\u043b\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rada Tilli"
     ],
     "qs:gn_country":"AR",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3839482,
         "gp:id":466320,
-        "qs:id":1326928,
+        "qs_pg:id":1326928,
         "wd:id":"Q998325",
         "wk:page":"Rada Tilly"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421175189,
-    "wof:lastmodified":1562866788,
+    "wof:lastmodified":1566588224,
     "wof:name":"Rada Tilly",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

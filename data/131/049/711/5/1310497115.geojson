@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.24671,-32.13296,-60.20671,-32.09296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Camps"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310497115,
-    "wof:lastmodified":1562866347,
+    "wof:lastmodified":1566588021,
     "wof:name":"Camps",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

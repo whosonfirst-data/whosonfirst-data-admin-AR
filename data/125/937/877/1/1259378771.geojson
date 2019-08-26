@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.61826,-31.4762,-59.57826,-31.4362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0632"
     ],
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1259378771,
-    "wof:lastmodified":1562867299,
+    "wof:lastmodified":1566588457,
     "wof:name":"Alcaraz",
     "wof:parent_id":421181879,
     "wof:placetype":"locality",

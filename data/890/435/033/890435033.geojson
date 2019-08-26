@@ -11,10 +11,14 @@
     "geom:longitude":-60.51749,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2548,
+    "gn:population":2548,
     "iso:country":"AR",
+    "lbl:bbox":"-60.53749,-31.84508,-60.49749,-31.80508",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oro Verde"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3842559,
         "gp:id":465990,
-        "qs:id":375516,
+        "qs_pg:id":375516,
         "wd:id":"Q2190329",
         "wk:page":"Oro Verde"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890435033,
-    "wof:lastmodified":1562867141,
+    "wof:lastmodified":1566588368,
     "wof:name":"Oro Verde",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

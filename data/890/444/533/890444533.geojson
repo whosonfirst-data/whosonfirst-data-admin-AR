@@ -11,10 +11,14 @@
     "geom:longitude":-57.02179,
     "gn:country":"AR",
     "gn:fcode":"PPLL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"AR",
+    "lbl:bbox":"-57.04179,-37.34512,-57.00179,-37.30512",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mar de las Pampas"
     ],
@@ -45,11 +49,11 @@
     "wof:concordances":{
         "gn:id":7304382,
         "gp:id":56040555,
-        "qs:id":1041026,
+        "qs_pg:id":1041026,
         "wd:id":"Q3845225"
     },
     "wof:concordances_alt":{
-        "qs:id":482832
+        "qs_pg:id":482832
     },
     "wof:country":"AR",
     "wof:created":1469052472,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890444533,
-    "wof:lastmodified":1561793267,
+    "wof:lastmodified":1566588360,
     "wof:name":"Mar de las Pampas",
     "wof:parent_id":1108718135,
     "wof:placetype":"locality",

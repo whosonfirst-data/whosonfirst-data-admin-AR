@@ -10,8 +10,12 @@
     "geom:latitude":-47.0256,
     "geom:longitude":-67.24815,
     "iso:country":"AR",
+    "lbl:bbox":"-67.26815,-47.0456,-67.22815,-47.0056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Fitz Roy"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3855544,
         "gp:id":465398,
-        "qs:id":27915,
+        "qs_pg:id":27915,
         "wd:id":"Q5455568",
         "wk:page":"Fitz Roy, Santa Cruz"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421202531,
-    "wof:lastmodified":1562866655,
+    "wof:lastmodified":1566588169,
     "wof:name":"Fitz Roy",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

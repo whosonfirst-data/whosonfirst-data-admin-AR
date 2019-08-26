@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Mendoza",
     "iso:country":"AR",
+    "lbl:bbox":"-68.4174,-32.77781,-68.3774,-32.73781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Costa del Araujo",
         "Costa de Araujo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293770105,
-    "wof:lastmodified":1537584887,
+    "wof:lastmodified":1566587718,
     "wof:name":"Costa de Araujo",
     "wof:parent_id":421187691,
     "wof:placetype":"locality",

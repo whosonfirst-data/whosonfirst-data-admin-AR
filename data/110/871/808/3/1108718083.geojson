@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-35.653785,
     "lbl:longitude":-59.695842,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Saladillo",
     "meso:gadm_hasc2":"AR.BA.SL",
@@ -37,6 +39,7 @@
     "mps:longitude":-59.695842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Saladillo"
     ],
@@ -62,9 +65,9 @@
         "Saladillo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,736.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108718083,
-    "wof:lastmodified":1562866320,
+    "wof:lastmodified":1566588006,
     "wof:name":"Saladillo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

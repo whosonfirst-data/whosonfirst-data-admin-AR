@@ -10,6 +10,9 @@
     "geom:latitude":-38.951265,
     "geom:longitude":-68.059616,
     "iso:country":"AR",
+    "lbl:bbox":"-68.079616,-38.971265,-68.039616,-38.931265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -206,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0443\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nequen"
     ],
     "name:urd_x_preferred":[
@@ -352,9 +355,11 @@
     "wof:concordances":{
         "gn:id":3843123,
         "gp:id":466868,
-        "qs:id":333228,
-        "qs_pg:id":1046852,
+        "qs_pg:id":333228,
         "wd:id":"Q44239"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1046852
     },
     "wof:country":"AR",
     "wof:created":1459009789,
@@ -369,7 +374,7 @@
         }
     ],
     "wof:id":421193995,
-    "wof:lastmodified":1562866586,
+    "wof:lastmodified":1566588141,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

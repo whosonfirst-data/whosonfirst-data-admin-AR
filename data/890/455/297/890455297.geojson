@@ -11,11 +11,15 @@
     "geom:longitude":-58.90846,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2114,
+    "gn:population":2114,
     "iso:country":"AR",
+    "lbl:bbox":"-58.92846,-29.03913,-58.88846,-28.99913",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yatayt\u00ed Calle"
     ],
     "qs:name":"Yataity Calle",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3427273,
         "gp:id":466833,
-        "qs:id":95538
+        "qs_pg:id":95538
     },
     "wof:country":"AR",
     "wof:created":1469052942,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890455297,
-    "wof:lastmodified":1505343662,
+    "wof:lastmodified":1566588357,
     "wof:name":"Yataity Calle",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

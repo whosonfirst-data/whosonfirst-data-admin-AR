@@ -10,8 +10,12 @@
     "geom:latitude":-27.56516,
     "geom:longitude":-58.25557,
     "iso:country":"AR",
+    "lbl:bbox":"-58.27557,-27.58516,-58.23557,-27.54516",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Herlitzka"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3433575,
         "gp:id":465516,
-        "qs:id":1211894,
+        "qs_pg:id":1211894,
         "wd:id":"Q5894887"
     },
     "wof:country":"AR",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421171199,
-    "wof:lastmodified":1562867046,
+    "wof:lastmodified":1566588333,
     "wof:name":"Herlitzka",
     "wof:parent_id":1108718187,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-31.14009,
     "lbl:longitude":-64.1557,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cordoba",
     "meso:gadm_admin":"Col\u00f3n",
     "meso:gadm_hasc2":"AR.CB.CO",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.1557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0639\u0646\u0649 \u0627\u0644\u0645\u0635\u0637\u0644\u062d \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a Colon"
@@ -136,9 +139,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,588.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gp:id":20070937,
         "hasc:id":"AR.CB.CO",
-        "qs:id":364579
+        "qs_pg:id":364579
     },
     "wof:country":"AR",
     "wof:created":1459009794,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421194115,
-    "wof:lastmodified":1562866580,
+    "wof:lastmodified":1566588138,
     "wof:name":"Colon",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

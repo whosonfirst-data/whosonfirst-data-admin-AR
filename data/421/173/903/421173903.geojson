@@ -10,8 +10,12 @@
     "geom:latitude":-32.88333,
     "geom:longitude":-68.8,
     "iso:country":"AR",
+    "lbl:bbox":"-68.82,-32.90333,-68.78,-32.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bermejo"
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3864299,
         "gp:id":464810,
-        "qs:id":304281,
+        "qs_pg:id":304281,
         "wd:id":"Q2171526"
     },
     "wof:country":"AR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421173903,
-    "wof:lastmodified":1562866717,
+    "wof:lastmodified":1566588193,
     "wof:name":"Bermejo",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.830243,
     "lbl:longitude":-64.793358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Ledesma",
     "meso:gadm_hasc2":"AR.JY.LE",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.793358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ledesma"
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,249.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gp:id":20071067,
         "hasc:id":"AR.JY.LE",
-        "qs:id":268804
+        "qs_pg:id":268804
     },
     "wof:country":"AR",
     "wof:created":1459008898,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421171555,
-    "wof:lastmodified":1562867044,
+    "wof:lastmodified":1566588332,
     "wof:name":"Ledesma",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

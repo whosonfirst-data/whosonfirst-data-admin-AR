@@ -10,8 +10,12 @@
     "geom:latitude":-26.820623,
     "geom:longitude":-55.025024,
     "iso:country":"AR",
+    "lbl:bbox":"-55.045024,-26.840623,-55.005024,-26.800623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":466270,
-        "qs:id":1055440
+        "qs_pg:id":1055440
     },
     "wof:country":"AR",
     "wof:created":1459009459,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421185943,
-    "wof:lastmodified":1499925626,
+    "wof:lastmodified":1566588347,
     "wof:name":"Puerto Libertador General San Mart\u00edn",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

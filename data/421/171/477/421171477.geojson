@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-33.126475,
     "lbl:longitude":-65.869979,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Luis",
     "meso:gadm_admin":"Coronel Pringles",
     "meso:gadm_hasc2":"AR.SL.CP",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.869979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Coronel Pringles"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"4,484.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":20070740,
         "hasc:id":"AR.SL.CP",
-        "qs:id":1251748
+        "qs_pg:id":1251748
     },
     "wof:country":"AR",
     "wof:created":1459008895,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421171477,
-    "wof:lastmodified":1562867033,
+    "wof:lastmodified":1566588326,
     "wof:name":"Coronel Pringles",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

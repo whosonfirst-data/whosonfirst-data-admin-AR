@@ -10,8 +10,12 @@
     "geom:latitude":-26.92614,
     "geom:longitude":-60.04956,
     "iso:country":"AR",
+    "lbl:bbox":"-60.06956,-26.94614,-60.02956,-26.90614",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Machagai"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3845330,
         "gp:id":466997,
-        "qs:id":1046886,
+        "qs_pg:id":1046886,
         "wd:id":"Q1579325",
         "wk:page":"Machagai"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421176559,
-    "wof:lastmodified":1562867021,
+    "wof:lastmodified":1566588320,
     "wof:name":"Machagai",
     "wof:parent_id":1108718231,
     "wof:placetype":"locality",

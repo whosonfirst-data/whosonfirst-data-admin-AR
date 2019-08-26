@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-63.87,-29.37,-63.83,-29.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Abra"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1310657151,
-    "wof:lastmodified":1562866352,
+    "wof:lastmodified":1566588025,
     "wof:name":"El Abra",
     "wof:parent_id":1108718499,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-38.88333,
     "geom:longitude":-62.06667,
     "iso:country":"AR",
+    "lbl:bbox":"-62.08667,-38.90333,-62.04667,-38.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3866224,
         "gp:id":464587,
-        "qs:id":1263006
+        "qs_pg:id":1263006
     },
     "wof:country":"AR",
     "wof:created":1459008899,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421171597,
-    "wof:lastmodified":1499925056,
+    "wof:lastmodified":1566588333,
     "wof:name":"Almirante Solier",
     "wof:parent_id":1108717903,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-42.22186,
     "geom:longitude":-71.38734,
     "iso:country":"AR",
+    "lbl:bbox":"-71.40734,-42.24186,-71.36734,-42.20186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Epuy\u00e9n"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Epuy\u00e9n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estancia Cholila"
     ],
     "qs:gn_country":"AR",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3856140,
         "gp:id":467221,
-        "qs:id":1327585,
+        "qs_pg:id":1327585,
         "wd:id":"Q3730773",
         "wk:page":"Epuy\u00e9n"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421195775,
-    "wof:lastmodified":1562866569,
+    "wof:lastmodified":1566588134,
     "wof:name":"Epuy\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

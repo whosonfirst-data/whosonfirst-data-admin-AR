@@ -10,8 +10,12 @@
     "geom:latitude":-29.29962,
     "geom:longitude":-67.48246,
     "iso:country":"AR",
+    "lbl:bbox":"-67.50246,-29.31962,-67.46246,-29.27962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Nonogasta"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3843006,
         "gp:id":467333,
-        "qs:id":1046861,
+        "qs_pg:id":1046861,
         "wd:id":"Q58387",
         "wk:page":"Nonogasta"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421196037,
-    "wof:lastmodified":1562866843,
+    "wof:lastmodified":1566588245,
     "wof:name":"Nonogasta",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

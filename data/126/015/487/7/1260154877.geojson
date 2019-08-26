@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.54794,-31.25639,-60.50794,-31.21639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -123,8 +127,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Campo Andino",
-        "San Pedro"
+        "Campo Andino"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1260154877,
-    "wof:lastmodified":1562866197,
+    "wof:lastmodified":1566587920,
     "wof:name":"San Pedro",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

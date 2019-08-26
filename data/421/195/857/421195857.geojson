@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.022878,
     "lbl:longitude":-69.03979,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mendoza",
     "meso:gadm_admin":"San Carlos",
     "meso:gadm_hasc2":"AR.MZ.SC",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.03979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "San Carlos"
@@ -159,9 +162,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"11,578.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gp:id":20070717,
         "hasc:id":"AR.MZ.SC",
-        "qs:id":130397
+        "qs_pg:id":130397
     },
     "wof:country":"AR",
     "wof:created":1459009861,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421195857,
-    "wof:lastmodified":1562866547,
+    "wof:lastmodified":1566588126,
     "wof:name":"San Carlos",
     "wof:parent_id":85668007,
     "wof:placetype":"county",
