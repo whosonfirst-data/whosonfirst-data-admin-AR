@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-67.70267,-28.20186,-67.66267,-28.16186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cieneguita",
         "Cienaguita"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310510437,
-    "wof:lastmodified":1537584892,
+    "wof:lastmodified":1566588060,
     "wof:name":"Cienaguita",
     "wof:parent_id":1108718161,
     "wof:placetype":"locality",

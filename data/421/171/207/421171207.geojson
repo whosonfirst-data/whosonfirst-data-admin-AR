@@ -10,8 +10,12 @@
     "geom:latitude":-26.98333,
     "geom:longitude":-55.05,
     "iso:country":"AR",
+    "lbl:bbox":"-55.07,-27.00333,-55.03,-26.96333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ruiz de Montoya"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3429426,
         "gp:id":466416,
-        "qs:id":1212042,
+        "qs_pg:id":1212042,
         "wd:id":"Q2550082",
         "wk:page":"Ruiz de Montoya"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421171207,
-    "wof:lastmodified":1561793262,
+    "wof:lastmodified":1566588337,
     "wof:name":"Ruiz de Montoya",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

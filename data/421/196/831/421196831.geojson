@@ -10,8 +10,12 @@
     "geom:latitude":-33.11444,
     "geom:longitude":-61.70316,
     "iso:country":"AR",
+    "lbl:bbox":"-61.72316,-33.13444,-61.68316,-33.09444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Jos\u00e9 de la Esquina"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u0415\u0441\u043a\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jose de las Esquinas"
     ],
     "qs:gn_country":"AR",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3837238,
         "gp:id":332663,
-        "qs:id":893123,
+        "qs_pg:id":893123,
         "wd:id":"Q2029581"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421196831,
-    "wof:lastmodified":1561793251,
+    "wof:lastmodified":1566588252,
     "wof:name":"San Jos\u00e9 de la Esquina",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

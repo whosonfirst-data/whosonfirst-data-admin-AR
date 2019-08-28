@@ -10,6 +10,9 @@
     "geom:latitude":-31.39296,
     "geom:longitude":-58.02089,
     "iso:country":"AR",
+    "lbl:bbox":"-58.04089,-31.41296,-58.00089,-31.37296",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3435261,
         "gp:id":332475,
-        "qs:id":900518,
+        "qs_pg:id":900518,
         "wd:id":"Q52578",
         "wk:page":"Concordia, Entre R\u00edos"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421174851,
-    "wof:lastmodified":1562866675,
+    "wof:lastmodified":1566588177,
     "wof:name":"Concordia",
     "wof:parent_id":1108718245,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-67.46821,-30.63353,-67.46821,-30.63353",
     "geom:latitude":-30.63353,
     "geom:longitude":-67.46821,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6864,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
     "gn:population":6864,
     "iso:country":"AR",
+    "lbl:bbox":"-67.48821,-30.65353,-67.44821,-30.61353",
     "lbl:latitude":-30.63353,
     "lbl:longitude":-67.46821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "San Agust\u00edn de Valle F\u00e9rtil"
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0421\u0430\u043d-\u0410\u0433\u0443\u0441\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Villa San Agust\u00edn"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u5967\u53e4\u65af\u6c40\u93ae"
     ],
@@ -58,7 +58,7 @@
     "qs_pg:qs_id":848412,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125777737,
-    "wof:lastmodified":1562867161,
+    "wof:lastmodified":1566588379,
     "wof:name":"San Agust\u00edn de Valle F\u00e9rtil",
     "wof:parent_id":421172583,
     "wof:placetype":"locality",

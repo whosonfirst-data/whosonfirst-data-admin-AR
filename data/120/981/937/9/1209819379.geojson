@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.18105,-34.80401,-58.14105,-34.76401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u0442\u0430\u043d\u043e\u0441"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1209819379,
-    "wof:lastmodified":1562866157,
+    "wof:lastmodified":1566587894,
     "wof:name":"Platanos",
     "wof:parent_id":1108717873,
     "wof:placetype":"locality",

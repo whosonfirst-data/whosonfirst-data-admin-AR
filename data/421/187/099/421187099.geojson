@@ -10,10 +10,14 @@
     "geom:latitude":-40.73488,
     "geom:longitude":-71.68492,
     "iso:country":"AR",
+    "lbl:bbox":"-71.70492,-40.75488,-71.66492,-40.71488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caprara"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3860054,
         "gp:id":330250,
-        "qs:id":1080378
+        "qs_pg:id":1080378
     },
     "wof:country":"AR",
     "wof:created":1459009502,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421187099,
-    "wof:lastmodified":1501268875,
+    "wof:lastmodified":1566588189,
     "wof:name":"Correntoso",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

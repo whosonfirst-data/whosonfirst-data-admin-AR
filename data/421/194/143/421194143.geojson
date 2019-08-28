@@ -10,6 +10,9 @@
     "geom:latitude":-22.51636,
     "geom:longitude":-63.80131,
     "iso:country":"AR",
+    "lbl:bbox":"-63.82131,-22.53636,-63.78131,-22.49636",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -262,7 +265,7 @@
     "wof:concordances":{
         "gn:id":3834601,
         "gp:id":467062,
-        "qs:id":984663,
+        "qs_pg:id":984663,
         "wd:id":"Q106115",
         "wk:page":"Tartagal, Salta"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421194143,
-    "wof:lastmodified":1562866577,
+    "wof:lastmodified":1566588137,
     "wof:name":"Tartagal",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

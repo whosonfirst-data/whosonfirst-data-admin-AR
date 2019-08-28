@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4789880538,-34.5905930921,-58.460224834,-34.5724961753",
     "geom:latitude":-34.580973,
     "geom:longitude":-58.467651,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.58333,
     "gn:longitude":-58.48333,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.580737,
     "lbl:longitude":-58.467014,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.484294,
     "mps:longitude":-58.465059,
     "mz:hierarchy_label":1,
@@ -71,9 +72,6 @@
     "name:spa_x_preferred":[
         "Villa Ort\u00fazar"
     ],
-    "name:unk_x_variant":[
-        "Villa Ort\u00fazar"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -122,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":94,
     "wof:belongsto":[
         102191577,
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3427387,
         "gp:id":332412,
-        "qs:id":1249670,
         "qs_pg:id":1249670,
         "wd:id":"Q1026701",
         "wk:page":"Villa Ort\u00fazar"
@@ -156,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865706,
+    "wof:lastmodified":1566587656,
     "wof:name":"Villa Ort\u00fazar",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-31.55097,
     "geom:longitude":-61.07734,
     "iso:country":"AR",
+    "lbl:bbox":"-61.09734,-31.57097,-61.05734,-31.53097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Jer\u00f3nimo Norte"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0435\u0440\u043e\u043d\u0456\u043c\u043e-\u041d\u043e\u0440\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Ger\u00f3nimo Norte"
     ],
     "qs:gn_country":"AR",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3837456,
         "gp:id":331947,
-        "qs:id":1262891,
+        "qs_pg:id":1262891,
         "wd:id":"Q2519528"
     },
     "wof:country":"AR",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421169575,
-    "wof:lastmodified":1562866605,
+    "wof:lastmodified":1566588147,
     "wof:name":"San Jer\u00f3nimo Norte",
     "wof:parent_id":421180885,
     "wof:placetype":"locality",

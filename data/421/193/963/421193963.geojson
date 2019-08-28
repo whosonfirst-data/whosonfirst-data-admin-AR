@@ -10,8 +10,12 @@
     "geom:latitude":-40.16038,
     "geom:longitude":-71.34865,
     "iso:country":"AR",
+    "lbl:bbox":"-71.36865,-40.18038,-71.32865,-40.14038",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Mart\u00edn de los Andes"
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3836951,
         "gp:id":332518,
-        "qs:id":666462,
+        "qs_pg:id":666462,
         "wd:id":"Q1019152",
         "wk:page":"San Mart\u00edn de los Andes"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421193963,
-    "wof:lastmodified":1561793228,
+    "wof:lastmodified":1566588139,
     "wof:name":"San Mart\u00edn de Los Andes",
     "wof:parent_id":421175299,
     "wof:placetype":"locality",

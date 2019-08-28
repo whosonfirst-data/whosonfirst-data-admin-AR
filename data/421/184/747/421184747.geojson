@@ -10,8 +10,12 @@
     "geom:latitude":-34.46312,
     "geom:longitude":-58.53481,
     "iso:country":"AR",
+    "lbl:bbox":"-58.55481,-34.48312,-58.51481,-34.44312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0627\u0631"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3436080,
         "gp:id":464784,
-        "qs:id":1006442,
+        "qs_pg:id":1006442,
         "wd:id":"Q8215298",
         "wk:page":"B\u00e9ccar"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421184747,
-    "wof:lastmodified":1562866961,
+    "wof:lastmodified":1566588291,
     "wof:name":"Beccar",
     "wof:parent_id":1108718097,
     "wof:placetype":"locality",

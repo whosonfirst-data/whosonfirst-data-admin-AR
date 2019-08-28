@@ -10,8 +10,12 @@
     "geom:latitude":-33.59876,
     "geom:longitude":-61.60581,
     "iso:country":"AR",
+    "lbl:bbox":"-61.62581,-33.61876,-61.58581,-33.57876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chovet"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3861257,
         "gp:id":467182,
-        "qs:id":150537,
+        "qs_pg:id":150537,
         "wd:id":"Q2741453"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421197529,
-    "wof:lastmodified":1562866912,
+    "wof:lastmodified":1566588272,
     "wof:name":"Chovet",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

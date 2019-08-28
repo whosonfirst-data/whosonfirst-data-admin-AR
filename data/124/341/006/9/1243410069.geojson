@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.52356,-27.08483,-65.48356,-27.04483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Caspichango"
     ],
     "name:und_x_variant":[
-        "Caspinchango",
-        "Caspichango"
+        "Caspinchango"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243410069,
-    "wof:lastmodified":1562867212,
+    "wof:lastmodified":1566588409,
     "wof:name":"Caspichango",
     "wof:parent_id":421183901,
     "wof:placetype":"locality",

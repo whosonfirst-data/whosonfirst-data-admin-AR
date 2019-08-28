@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.23123,-30.36093,-58.19123,-30.32093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "A. Dalzzotto"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259605623,
-    "wof:lastmodified":1537584905,
+    "wof:lastmodified":1566588483,
     "wof:name":"A. Dalzzotto",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

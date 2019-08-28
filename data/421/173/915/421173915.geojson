@@ -10,8 +10,12 @@
     "geom:latitude":-31.6789,
     "geom:longitude":-63.87964,
     "iso:country":"AR",
+    "lbl:bbox":"-63.89964,-31.6989,-63.85964,-31.6589",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pilar"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3841149,
         "gp:id":467366,
-        "qs:id":304423,
+        "qs_pg:id":304423,
         "wd:id":"Q7193761",
         "wk:page":"Pilar, C\u00f3rdoba Province"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421173915,
-    "wof:lastmodified":1562866713,
+    "wof:lastmodified":1566588191,
     "wof:name":"Pilar",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

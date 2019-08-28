@@ -9,15 +9,18 @@
     "geom:bbox":"-65.01796,-31.70578,-65.01796,-31.70578",
     "geom:latitude":-31.70578,
     "geom:longitude":-65.01796,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4707,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
     "gn:population":4707,
     "iso:country":"AR",
+    "lbl:bbox":"-65.03796,-31.72578,-64.99796,-31.68578",
     "lbl:latitude":-31.70578,
     "lbl:longitude":-65.01796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Villa Cura Brochero"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041a\u0443\u0440\u0430-\u0411\u0440\u043e\u0447\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Transito"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":1046746,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125781469,
-    "wof:lastmodified":1562867160,
+    "wof:lastmodified":1566588378,
     "wof:name":"Villa Cura Brochero",
     "wof:parent_id":421198475,
     "wof:placetype":"locality",

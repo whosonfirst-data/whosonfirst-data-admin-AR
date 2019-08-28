@@ -10,8 +10,12 @@
     "geom:latitude":-23.22582,
     "geom:longitude":-65.69213,
     "iso:country":"AR",
+    "lbl:bbox":"-65.71213,-23.24582,-65.67213,-23.20582",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Aguilar"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u0433\u0456\u043b\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aguilar"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3859000,
         "gp:id":26795818,
-        "qs:id":511485,
+        "qs_pg:id":511485,
         "wd:id":"Q3720844",
         "wk:page":"El Aguilar"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421194553,
-    "wof:lastmodified":1562866578,
+    "wof:lastmodified":1566588137,
     "wof:name":"El Chaguia",
     "wof:parent_id":421204061,
     "wof:placetype":"locality",

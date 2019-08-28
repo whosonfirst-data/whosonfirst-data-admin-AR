@@ -10,8 +10,12 @@
     "geom:latitude":-27.82913,
     "geom:longitude":-64.06098,
     "iso:country":"AR",
+    "lbl:bbox":"-64.08098,-27.84913,-64.04098,-27.80913",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Beltr\u00e1n"
@@ -275,7 +279,7 @@
     "wof:concordances":{
         "gn:id":3864328,
         "gp:id":464801,
-        "qs:id":1211779,
+        "qs_pg:id":1211779,
         "wd:id":"Q4884800",
         "wk:page":"Beltr\u00e1n, Santiago del Estero"
     },
@@ -292,7 +296,7 @@
         }
     ],
     "wof:id":421198935,
-    "wof:lastmodified":1562866812,
+    "wof:lastmodified":1566588234,
     "wof:name":"Beltr\u00e1n",
     "wof:parent_id":1108718509,
     "wof:placetype":"locality",

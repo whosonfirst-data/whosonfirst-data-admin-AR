@@ -10,10 +10,14 @@
     "geom:latitude":-41.300026,
     "geom:longitude":-69.583309,
     "iso:country":"AR",
+    "lbl:bbox":"-69.6033085548,-41.3200256157,-69.5633085548,-41.2800256157",
     "lbl:latitude":-41.300026,
     "lbl:longitude":-69.583309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ingeniero Jacobacci"
     ],
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":1141906741,
-    "wof:lastmodified":1562867505,
+    "wof:lastmodified":1566588569,
     "wof:name":"Ingeniero Jacobacci",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

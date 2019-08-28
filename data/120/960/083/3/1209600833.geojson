@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.43161,-31.90423,-60.39161,-31.86423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209600833,
-    "wof:lastmodified":1536282173,
+    "wof:lastmodified":1566587873,
     "wof:name":"Aldea Maria Luisa",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

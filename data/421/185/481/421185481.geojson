@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-33.399764,
     "lbl:longitude":-64.569955,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cordoba",
     "meso:gadm_admin":"Ri\u00f3 Cuarto",
     "meso:gadm_hasc2":"AR.CB.RC",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.569955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0643\u0648\u0627\u0631\u062a\u0648\u060c \u0642\u0631\u0637\u0628\u0629"
@@ -232,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"18,394.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -255,7 +258,7 @@
     "wof:concordances":{
         "gp:id":20071017,
         "hasc:id":"AR.CB.RC",
-        "qs:id":896895,
+        "qs_pg:id":896895,
         "wd:id":"Q983451"
     },
     "wof:country":"AR",
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421185481,
-    "wof:lastmodified":1562867066,
+    "wof:lastmodified":1566588345,
     "wof:name":"Rio Cuarto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

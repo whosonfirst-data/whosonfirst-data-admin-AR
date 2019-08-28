@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-70.45402,-40.54846,-70.41402,-40.50846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Paso Limay",
         "Paso del Limay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343840093,
-    "wof:lastmodified":1537584850,
+    "wof:lastmodified":1566587620,
     "wof:name":"Paso Limay",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

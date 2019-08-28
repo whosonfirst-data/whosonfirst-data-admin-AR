@@ -12,6 +12,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.678082,
     "lbl:longitude":-58.462188,
+    "lbl:max_zoom":13.0,
     "meso:admin_1":"Ciudad Autonoma De Bueno*",
     "meso:gadm_admin":"Distrito Federal",
     "meso:gadm_hasc2":"AR.DF.DF",
@@ -34,7 +35,7 @@
         "Distrito Federal"
     ],
     "src:geom":"arg-caba",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         421174285,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1109371865,
-    "wof:lastmodified":1536615885,
+    "wof:lastmodified":1566587944,
     "wof:name":"Comuna 8",
     "wof:parent_id":421174285,
     "wof:placetype":"borough",

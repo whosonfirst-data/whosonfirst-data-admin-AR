@@ -10,8 +10,12 @@
     "geom:latitude":-31.95021,
     "geom:longitude":-65.05354,
     "iso:country":"AR",
+    "lbl:bbox":"-65.07354,-31.97021,-65.03354,-31.93021",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Departamento de San Javier"
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0434\u0435-\u041b\u0430\u0441-\u0420\u043e\u0441\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Villa de Las Rosas"
-    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3832705,
@@ -91,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3832705,
         "gp:id":469004,
-        "qs:id":982137,
+        "qs_pg:id":982137,
         "wd:id":"Q9093939"
     },
     "wof:country":"AR",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":421183559,
-    "wof:lastmodified":1562866988,
+    "wof:lastmodified":1566588305,
     "wof:name":"Villa Las Rosas",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

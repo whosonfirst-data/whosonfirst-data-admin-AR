@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8107301.842127,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.676031,-32.937645,-60.676031,-32.937645",
     "geom:latitude":-32.937645,
     "geom:longitude":-60.676031,
     "gn:id":"",
     "iso:country":"AR",
+    "lbl:bbox":"-60.681031,-32.942645,-60.671031,-32.932645",
     "lbl:latitude":-32.937645,
     "lbl:longitude":-60.676031,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.939538,
     "mps:longitude":-60.686531,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Nueva Fisherton"
-    ],
-    "name:unk_x_variant":[
         "Nueva Fisherton"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -55,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85668077,
         102191577,
         85632505,
-        421171509,
-        85668077
+        421171509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":331549,
-        "qs:id":1075008
+        "qs_pg:id":1075008
     },
     "wof:country":"AR",
     "wof:geomhash":"97223ccc1e68eb131ae6bf8ef6c22fa6",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858886,
+    "wof:lastmodified":1566587660,
     "wof:name":"Nueva Fisherton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

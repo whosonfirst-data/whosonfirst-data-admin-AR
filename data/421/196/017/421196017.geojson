@@ -10,8 +10,12 @@
     "geom:latitude":-33.03203,
     "geom:longitude":-63.50666,
     "iso:country":"AR",
+    "lbl:bbox":"-63.52666,-33.05203,-63.48666,-33.01203",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ucacha"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3833463,
         "gp:id":467933,
-        "qs:id":1046763,
+        "qs_pg:id":1046763,
         "wd:id":"Q2628025"
     },
     "wof:country":"AR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421196017,
-    "wof:lastmodified":1562866861,
+    "wof:lastmodified":1566588252,
     "wof:name":"Ucacha",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

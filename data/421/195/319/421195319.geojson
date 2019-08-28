@@ -10,8 +10,12 @@
     "geom:latitude":-32.3373,
     "geom:longitude":-60.0216,
     "iso:country":"AR",
+    "lbl:bbox":"-60.0416,-32.3573,-60.0016,-32.3173",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Hern\u00e1ndez"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3854334,
         "gp:id":467696,
-        "qs:id":150481
+        "qs_pg:id":150481
     },
     "wof:country":"AR",
     "wof:created":1459009839,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421195319,
-    "wof:lastmodified":1562866571,
+    "wof:lastmodified":1566588134,
     "wof:name":"Hern\u00e1ndez",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

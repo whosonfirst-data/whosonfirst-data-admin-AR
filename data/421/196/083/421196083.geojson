@@ -10,8 +10,12 @@
     "geom:latitude":-34.26827,
     "geom:longitude":-62.71262,
     "iso:country":"AR",
+    "lbl:bbox":"-62.73262,-34.28827,-62.69262,-34.24827",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Rufino"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3838506,
         "gp:id":467052,
-        "qs:id":1065822,
+        "qs_pg:id":1065822,
         "wd:id":"Q960119",
         "wk:page":"Rufino, Santa Fe"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421196083,
-    "wof:lastmodified":1562866834,
+    "wof:lastmodified":1566588242,
     "wof:name":"Rufino",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

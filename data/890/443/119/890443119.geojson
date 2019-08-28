@@ -11,10 +11,14 @@
     "geom:longitude":-55.02402,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":17491,
+    "gn:population":17491,
     "iso:country":"AR",
+    "lbl:bbox":"-55.04402,-26.81598,-55.00402,-26.77598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Puerto Rico"
     ],
@@ -432,7 +436,7 @@
     "name:ukr_x_variant":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Libertador General San Mart\u00edn"
     ],
     "name:urd_x_preferred":[
@@ -490,7 +494,7 @@
     "wof:concordances":{
         "gn:id":3429732,
         "gp:id":91862995,
-        "qs:id":375416,
+        "qs_pg:id":375416,
         "wd:id":"Q2530831",
         "wk:page":"Puerto Rico"
     },
@@ -507,7 +511,7 @@
         }
     ],
     "wof:id":890443119,
-    "wof:lastmodified":1562867118,
+    "wof:lastmodified":1566588361,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

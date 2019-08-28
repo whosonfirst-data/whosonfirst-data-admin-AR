@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.107412,
     "lbl:longitude":-69.160582,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Neuquen",
     "meso:gadm_admin":"A\u00f1elo",
     "meso:gadm_hasc2":"AR.NQ.AN",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.160582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "A\u00f1elo"
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"11,655.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gp:id":20071038,
         "hasc:id":"AR.NQ.AN",
-        "qs:id":220149,
+        "qs_pg:id":220149,
         "wd:id":"Q794673"
     },
     "wof:country":"AR",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421170123,
-    "wof:lastmodified":1562866979,
+    "wof:lastmodified":1566588301,
     "wof:name":"A\u00f1elo",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

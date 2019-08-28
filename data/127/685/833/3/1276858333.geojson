@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-67.79502,-29.49279,-67.75502,-29.45279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aicu\u00f1a"
     ],
@@ -39,9 +43,6 @@
         "\u0410\u0439\u043a\u0443\u043d\u044c\u044f"
     ],
     "name:spa_x_preferred":[
-        "Aicu\u00f1a"
-    ],
-    "name:und_x_variant":[
         "Aicu\u00f1a"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1276858333,
-    "wof:lastmodified":1562865989,
+    "wof:lastmodified":1566587808,
     "wof:name":"Aicuna",
     "wof:parent_id":421197043,
     "wof:placetype":"locality",

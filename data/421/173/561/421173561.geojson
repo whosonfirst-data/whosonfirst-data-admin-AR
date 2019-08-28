@@ -10,8 +10,12 @@
     "geom:latitude":-30.41873,
     "geom:longitude":-57.85612,
     "iso:country":"AR",
+    "lbl:bbox":"-57.87612,-30.43873,-57.83612,-30.39873",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Juan Pujol"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3433291,
         "gp:id":465630,
-        "qs:id":290977,
+        "qs_pg:id":290977,
         "wd:id":"Q2313682"
     },
     "wof:country":"AR",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421173561,
-    "wof:lastmodified":1562866711,
+    "wof:lastmodified":1566588190,
     "wof:name":"Juan Pujol",
     "wof:parent_id":421191013,
     "wof:placetype":"locality",

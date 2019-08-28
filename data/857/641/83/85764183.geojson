@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001828,
-    "geom:area_square_m":18596009.923714,
+    "geom:area_square_m":18596009.923721,
     "geom:bbox":"-58.5808618164,-34.6996863168,-58.5159301758,-34.5653826895",
     "geom:latitude":-34.663928,
     "geom:longitude":-58.543589,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.66667,
     "gn:longitude":-58.51667,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.647158,
     "lbl:longitude":-58.54028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.680526,
     "mps:longitude":-58.535373,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:spa_x_preferred":[
-        "Los Perales"
-    ],
-    "name:unk_x_variant":[
         "Los Perales"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -82,8 +80,7 @@
     "qs_pg:woe_id":331383,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85668015,
@@ -94,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3431072,
         "gp:id":331383,
-        "qs:id":1262706,
         "qs_pg:id":1262706
     },
     "wof:country":"AR",
@@ -112,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379087,
+    "wof:lastmodified":1566587668,
     "wof:name":"Los Perales",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

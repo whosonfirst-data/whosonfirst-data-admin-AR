@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.9783,-33.50459,-60.9383,-33.46459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paz",
         "M. Paz",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310575179,
-    "wof:lastmodified":1537584856,
+    "wof:lastmodified":1566588056,
     "wof:name":"Maximo Paz",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

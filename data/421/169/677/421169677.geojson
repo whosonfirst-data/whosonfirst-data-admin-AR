@@ -10,8 +10,12 @@
     "geom:latitude":-26.78333,
     "geom:longitude":-65.28333,
     "iso:country":"AR",
+    "lbl:bbox":"-65.30333,-26.80333,-65.26333,-26.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cevil Redondo"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3861958,
         "gp:id":465008,
-        "qs:id":228680,
+        "qs_pg:id":228680,
         "wd:id":"Q2927134",
         "wk:page":"Cevil Redondo"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421169677,
-    "wof:lastmodified":1562866612,
+    "wof:lastmodified":1566588150,
     "wof:name":"Cevil Redondo",
     "wof:parent_id":421204063,
     "wof:placetype":"locality",

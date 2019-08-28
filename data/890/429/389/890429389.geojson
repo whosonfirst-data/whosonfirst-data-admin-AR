@@ -11,10 +11,14 @@
     "geom:longitude":-60.61947,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":36588,
+    "gn:population":36588,
     "iso:country":"AR",
+    "lbl:bbox":"-60.63947,-25.96679,-60.59947,-25.92679",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u0643\u0627\u0633\u062a\u064a\u0644\u064a\u060c \u062a\u0634\u0627\u0643\u0648"
     ],
@@ -81,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0430\u043d-\u0425\u043e\u0441\u0435-\u041a\u0430\u0441\u0442\u0435\u043b\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J.J. Castelli"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3862320,
         "gp:id":468750,
-        "qs:id":96656,
+        "qs_pg:id":96656,
         "wd:id":"Q568624",
         "wk:page":"Castelli"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890429389,
-    "wof:lastmodified":1562867123,
+    "wof:lastmodified":1566588362,
     "wof:name":"Castelli",
     "wof:parent_id":421191011,
     "wof:placetype":"locality",

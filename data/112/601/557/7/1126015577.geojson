@@ -9,17 +9,20 @@
     "geom:bbox":"-59.08435,-31.04837,-59.08435,-31.04837",
     "geom:latitude":-31.04837,
     "geom:longitude":-59.08435,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1464,
+    "gn:country":"AR",
+    "gn:fcode":"PPL",
     "gn:population":1464,
     "iso:country":"AR",
+    "lbl:bbox":"-59.10435,-31.06837,-59.06435,-31.02837",
     "lbl:latitude":-31.04837,
     "lbl:longitude":-59.08435,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kil\u00f3metro 101"
     ],
     "qs_pg:aaroncc":"AR",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":583326,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1126015577,
-    "wof:lastmodified":1509406900,
+    "wof:lastmodified":1566588375,
     "wof:name":"Conscripto Bernardi",
     "wof:parent_id":1108718247,
     "wof:placetype":"locality",

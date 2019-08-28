@@ -10,8 +10,12 @@
     "geom:latitude":-33.34856,
     "geom:longitude":-61.4444,
     "iso:country":"AR",
+    "lbl:bbox":"-61.4644,-33.36856,-61.4244,-33.32856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06cc\u0627\u062f\u0627"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3832772,
         "gp:id":332446,
-        "qs:id":180558
+        "qs_pg:id":180558
     },
     "wof:country":"AR",
     "wof:created":1459009940,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421198217,
-    "wof:lastmodified":1562866804,
+    "wof:lastmodified":1566588231,
     "wof:name":"Villada",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

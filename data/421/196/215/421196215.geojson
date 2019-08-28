@@ -10,8 +10,12 @@
     "geom:latitude":-27.5744,
     "geom:longitude":-64.13108,
     "iso:country":"AR",
+    "lbl:bbox":"-64.15108,-27.5944,-64.11108,-27.5544",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Clodomira"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3861002,
         "gp:id":467189,
-        "qs:id":1212226,
+        "qs_pg:id":1212226,
         "wd:id":"Q3680889",
         "wk:page":"Clodomira"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421196215,
-    "wof:lastmodified":1562866858,
+    "wof:lastmodified":1566588251,
     "wof:name":"Clodomira",
     "wof:parent_id":421184161,
     "wof:placetype":"locality",

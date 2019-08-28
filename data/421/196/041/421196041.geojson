@@ -10,8 +10,12 @@
     "geom:latitude":-33.20462,
     "geom:longitude":-62.60085,
     "iso:country":"AR",
+    "lbl:bbox":"-62.62085,-33.22462,-62.58085,-33.18462",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Monte Ma\u00edz"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435-\u041c\u0430\u0457\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monte Maize"
     ],
     "name:xmf_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3843830,
         "gp:id":467797,
-        "qs:id":1046872,
+        "qs_pg:id":1046872,
         "wd:id":"Q9034750"
     },
     "wof:country":"AR",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421196041,
-    "wof:lastmodified":1562866833,
+    "wof:lastmodified":1566588241,
     "wof:name":"Monte Ma\u00edz",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

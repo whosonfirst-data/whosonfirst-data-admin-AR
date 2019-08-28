@@ -10,8 +10,12 @@
     "geom:latitude":-33.14765,
     "geom:longitude":-68.47899,
     "iso:country":"AR",
+    "lbl:bbox":"-68.49899,-33.16765,-68.45899,-33.12765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0425\u0443\u043d\u0456\u043d"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043d\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Jun\u00edn"
     ],
     "name:zho_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3853355,
         "gp:id":332777,
-        "qs:id":890922,
+        "qs_pg:id":890922,
         "wd:id":"Q3036637"
     },
     "wof:country":"AR",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421174643,
-    "wof:lastmodified":1562866667,
+    "wof:lastmodified":1566588173,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":1108718355,
     "wof:placetype":"locality",

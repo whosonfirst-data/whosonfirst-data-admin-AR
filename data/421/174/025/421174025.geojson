@@ -10,6 +10,9 @@
     "geom:latitude":-45.86667,
     "geom:longitude":-67.5,
     "iso:country":"AR",
+    "lbl:bbox":"-67.52,-45.88667,-67.48,-45.84667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0434\u043e\u0440\u043e-\u0420\u0456\u0432\u0430\u0434\u0430\u0432\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comodoro"
     ],
     "name:urd_x_preferred":[
@@ -314,7 +317,7 @@
     "wof:concordances":{
         "gn:id":3860443,
         "gp:id":466874,
-        "qs:id":672222,
+        "qs_pg:id":672222,
         "wd:id":"Q221921",
         "wk:page":"Comodoro Rivadavia"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421174025,
-    "wof:lastmodified":1562866670,
+    "wof:lastmodified":1566588174,
     "wof:name":"Comodoro Rivadavia",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

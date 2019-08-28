@@ -10,8 +10,12 @@
     "geom:latitude":-32.43549,
     "geom:longitude":-60.81416,
     "iso:country":"AR",
+    "lbl:bbox":"-60.83416,-32.45549,-60.79416,-32.41549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gaboto"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0413\u0430\u0431\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Punta Gaboto"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3855288,
         "gp:id":467231,
-        "qs:id":891889,
+        "qs_pg:id":891889,
         "wd:id":"Q2143687",
         "wk:page":"Gaboto"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421200703,
-    "wof:lastmodified":1562866941,
+    "wof:lastmodified":1566588283,
     "wof:name":"Gaboto",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-33.60643,
     "geom:longitude":-62.62304,
     "iso:country":"AR",
+    "lbl:bbox":"-62.64304,-33.62643,-62.60304,-33.58643",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Alejo Ledesma"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u0445\u043e-\u041b\u0435\u0434\u0435\u0441\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ledesma"
     ],
     "qs:gn_country":"AR",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3866353,
         "gp:id":467487,
-        "qs:id":215121,
+        "qs_pg:id":215121,
         "wd:id":"Q8194316"
     },
     "wof:country":"AR",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421201883,
-    "wof:lastmodified":1562866952,
+    "wof:lastmodified":1566588287,
     "wof:name":"Alejo Ledesma",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

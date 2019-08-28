@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-31.474991,
     "lbl:longitude":-68.518743,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Juan",
     "meso:gadm_admin":"Chimbas",
     "meso:gadm_hasc2":"AR.SJ.CH",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.518743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chimbas"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"62.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":20070913,
         "hasc:id":"AR.SJ.CH",
-        "qs:id":1000673
+        "qs_pg:id":1000673
     },
     "wof:country":"AR",
     "wof:created":1459009412,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421184501,
-    "wof:lastmodified":1560898150,
+    "wof:lastmodified":1566588292,
     "wof:name":"Chimbas",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

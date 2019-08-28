@@ -10,8 +10,12 @@
     "geom:latitude":-23.363453,
     "geom:longitude":-65.346508,
     "iso:country":"AR",
+    "lbl:bbox":"-65.3665075,-23.3834525,-65.3265075,-23.3434525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26795813,
-        "qs:id":1317599
+        "qs_pg:id":1317599
     },
     "wof:country":"AR",
     "wof:created":1459009320,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421182147,
-    "wof:lastmodified":1499925302,
+    "wof:lastmodified":1566588319,
     "wof:name":"Chucalesna",
     "wof:parent_id":421204061,
     "wof:placetype":"locality",

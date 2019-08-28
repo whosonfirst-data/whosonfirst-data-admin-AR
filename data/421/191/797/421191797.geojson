@@ -10,8 +10,12 @@
     "geom:latitude":-40.12662,
     "geom:longitude":-71.21769,
     "iso:country":"AR",
+    "lbl:bbox":"-71.23769,-40.14662,-71.19769,-40.10662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cerro Chapelco"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Chapelco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bazan"
     ],
     "qs:gn_country":"AR",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3861704,
         "gp:id":465030,
-        "qs:id":1156087,
+        "qs_pg:id":1156087,
         "wd:id":"Q3301092"
     },
     "wof:country":"AR",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421191797,
-    "wof:lastmodified":1562866873,
+    "wof:lastmodified":1566588256,
     "wof:name":"Chapelco",
     "wof:parent_id":421175299,
     "wof:placetype":"locality",

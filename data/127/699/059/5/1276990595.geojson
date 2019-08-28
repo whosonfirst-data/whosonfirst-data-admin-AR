@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-62.62217,-36.58037,-62.58217,-36.54037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:som_x_preferred":[
         "Garre"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276990595,
-    "wof:lastmodified":1562866009,
+    "wof:lastmodified":1566587819,
     "wof:name":"Garre",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

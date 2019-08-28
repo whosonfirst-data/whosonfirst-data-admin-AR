@@ -11,10 +11,14 @@
     "geom:longitude":-70.08247,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":75,
+    "gn:population":75,
     "iso:country":"AR",
+    "lbl:bbox":"-70.10247,-35.16686,-70.06247,-35.12686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Las Le\u00f1as"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":7521918,
         "gp:id":91816427,
-        "qs:id":380848,
+        "qs_pg:id":380848,
         "wd:id":"Q1806472",
         "wk:page":"Las Le\u00f1as"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890423719,
-    "wof:lastmodified":1562867090,
+    "wof:lastmodified":1566588353,
     "wof:name":"Las Le\u00f1as",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

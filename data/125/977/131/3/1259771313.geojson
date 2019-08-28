@@ -24,12 +24,13 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.42651,-36.94613,-64.38651,-36.90613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
-        "Naic\u00f3"
-    ],
-    "name:und_x_variant":[
         "Naic\u00f3"
     ],
     "src:geom":"geonames",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1259771313,
-    "wof:lastmodified":1562867311,
+    "wof:lastmodified":1566588464,
     "wof:name":"Naico",
     "wof:parent_id":421177957,
     "wof:placetype":"locality",

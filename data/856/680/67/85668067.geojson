@@ -31,6 +31,7 @@
     ],
     "lbl:latitude":-25.045409,
     "lbl:longitude":-59.766831,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-25.101345,
     "mps:longitude":-59.697576,
     "mz:hierarchy_label":1,
@@ -259,7 +260,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u043c\u043e\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gobernaci\u00f3n de Formosa"
     ],
     "name:urd_x_preferred":[
@@ -352,9 +353,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"72,066",
     "statoids:area_mi":"27,825",
     "statoids:as_of_date":"2010-10-27",
@@ -379,7 +380,7 @@
         "gp:id":2344683,
         "hasc:id":"AR.FM",
         "iso:id":"AR-P",
-        "qs:id":219496,
+        "qs_pg:id":219496,
         "unlc:id":"AR-P",
         "wd:id":"Q44761",
         "wk:page":"Formosa Province"
@@ -400,11 +401,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652038,
+    "wof:lastmodified":1566587671,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":530162,
     "wof:population_rank":11,

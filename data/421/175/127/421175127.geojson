@@ -10,8 +10,12 @@
     "geom:latitude":-31.66565,
     "geom:longitude":-59.90182,
     "iso:country":"AR",
+    "lbl:bbox":"-59.92182,-31.68565,-59.88182,-31.64565",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Mar\u00eda Grande"
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u044f-\u0413\u0440\u0430\u043d\u0434\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Mar\u00eda Grande"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3427399,
         "gp:id":469006,
-        "qs:id":352921,
+        "qs_pg:id":352921,
         "wd:id":"Q2378999",
         "wk:page":"Mar\u00eda Grande"
     },
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":421175127,
-    "wof:lastmodified":1562866789,
+    "wof:lastmodified":1566588224,
     "wof:name":"Villa Mar\u00eda Grande",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

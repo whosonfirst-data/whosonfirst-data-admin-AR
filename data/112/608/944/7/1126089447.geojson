@@ -9,16 +9,19 @@
     "geom:bbox":"-60.68189,-32.91385,-60.68189,-32.91385",
     "geom:latitude":-32.91385,
     "geom:longitude":-60.68189,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-32.91385,
     "gn:longitude":-60.68189,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-60.68689,-32.91885,-60.67689,-32.90885",
     "lbl:latitude":-32.91385,
     "lbl:longitude":-60.68189,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Arroyito"
@@ -31,10 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0440\u043e\u0457\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Arroyito",
-        "Barrio Arroyito"
     ],
     "qs_pg:aaroncc":"AR",
     "qs_pg:gn_country":"AR",
@@ -57,7 +56,7 @@
     "qs_pg:woe_adm0":23424747,
     "qs_pg:woe_id":329935,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424747,
     "woe:name_adm0":"Argentina",
     "woe:name_adm1":"Santa Fe",
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3865421,
         "gp:id":329935,
-        "qs:id":1080375,
         "qs_pg:id":1080375
     },
     "wof:country":"AR",
@@ -89,7 +87,7 @@
         }
     ],
     "wof:id":1126089447,
-    "wof:lastmodified":1562867151,
+    "wof:lastmodified":1566588374,
     "wof:name":"Arroyito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

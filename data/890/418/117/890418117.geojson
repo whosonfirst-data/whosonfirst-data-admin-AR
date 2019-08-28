@@ -11,11 +11,15 @@
     "geom:longitude":-58.67134,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1261,
+    "gn:population":1261,
     "iso:country":"AR",
+    "lbl:bbox":"-58.69134,-26.64209,-58.65134,-26.60209",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Villa Escobar Navegaci\u00f3n R\u00edo Bermejo"
     ],
     "qs:name":"Villa Escolar",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3427439,
         "gp:id":91814614,
-        "qs:id":583210
+        "qs_pg:id":583210
     },
     "wof:country":"AR",
     "wof:created":1469051235,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418117,
-    "wof:lastmodified":1505343442,
+    "wof:lastmodified":1566588363,
     "wof:name":"Villa Escolar",
     "wof:parent_id":1108718263,
     "wof:placetype":"locality",

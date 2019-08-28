@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.72707,-35.07969,-60.68707,-35.03969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "M\u00e1ximo Fern\u00e1ndez"
     ],
     "name:und_x_variant":[
-        "M. Fern\u00e1ndez",
-        "M\u00e1ximo Fern\u00e1ndez"
+        "M. Fern\u00e1ndez"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310505475,
-    "wof:lastmodified":1562866407,
+    "wof:lastmodified":1566588055,
     "wof:name":"Maximo Fernandez",
     "wof:parent_id":1108717881,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-45.73831,
     "geom:longitude":-67.47536,
     "iso:country":"AR",
+    "lbl:bbox":"-67.49536,-45.75831,-67.45536,-45.71831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Astra"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3865297,
         "gp:id":332529,
-        "qs:id":494231,
+        "qs_pg:id":494231,
         "wd:id":"Q4811133",
         "wk:page":"Astra (Chubut)"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421195713,
-    "wof:lastmodified":1562866550,
+    "wof:lastmodified":1566588127,
     "wof:name":"Astra",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

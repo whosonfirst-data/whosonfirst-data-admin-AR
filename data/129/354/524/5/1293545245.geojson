@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.53401,-27.43035,-65.49401,-27.39035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Trinidad"
     ],
@@ -33,8 +37,7 @@
         "Ingenio La Trinidad"
     ],
     "name:und_x_variant":[
-        "Ingenio La Trin\u00eddad",
-        "La Trinidad"
+        "Ingenio La Trin\u00eddad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293545245,
-    "wof:lastmodified":1562865801,
+    "wof:lastmodified":1566587706,
     "wof:name":"La Trinidad",
     "wof:parent_id":421178317,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-29.46914,
     "geom:longitude":-56.81841,
     "iso:country":"AR",
+    "lbl:bbox":"-56.83841,-29.48914,-56.79841,-29.44914",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042f\u043f\u0435\u044e"
@@ -79,7 +83,7 @@
     "name:swe_x_preferred":[
         "Yapey\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Martin"
     ],
     "qs:gn_country":"AR",
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3427279,
         "gp:id":461625,
-        "qs:id":181790,
+        "qs_pg:id":181790,
         "wd:id":"Q55854",
         "wk:page":"Yapey\u00fa, Corrientes"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421198279,
-    "wof:lastmodified":1562866815,
+    "wof:lastmodified":1566588235,
     "wof:name":"Yapeyu",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

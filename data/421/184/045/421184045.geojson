@@ -10,8 +10,12 @@
     "geom:latitude":-31.77652,
     "geom:longitude":-63.80104,
     "iso:country":"AR",
+    "lbl:bbox":"-63.82104,-31.79652,-63.78104,-31.75652",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:dan_x_preferred":[
         "Laguna Larga"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3850929,
         "gp:id":465652,
-        "qs:id":388227,
+        "qs_pg:id":388227,
         "wd:id":"Q2067858"
     },
     "wof:country":"AR",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421184045,
-    "wof:lastmodified":1562866965,
+    "wof:lastmodified":1566588293,
     "wof:name":"Laguna Larga",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

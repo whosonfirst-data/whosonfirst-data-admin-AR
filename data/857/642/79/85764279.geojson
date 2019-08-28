@@ -9,14 +9,16 @@
     "geom:bbox":"-60.666836,-32.921682,-60.666836,-32.921682",
     "geom:latitude":-32.921682,
     "geom:longitude":-60.666836,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-32.91832,
     "gn:longitude":-60.67617,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-60.671836,-32.926682,-60.661836,-32.916682",
     "lbl:latitude":-32.921682,
     "lbl:longitude":-60.666836,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.907622,
     "mps:longitude":-60.657972,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:swe_x_preferred":[
         "Rivadavia"
     ],
-    "name:unk_x_variant":[
-        "Rivadavia"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3838583,
@@ -120,8 +119,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85668077,
         102191577,
@@ -132,7 +130,6 @@
     "wof:concordances":{
         "gn:id":3838756,
         "gp:id":331790,
-        "qs:id":1114201,
         "qs_pg:id":1114201
     },
     "wof:country":"AR",
@@ -151,7 +148,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865721,
+    "wof:lastmodified":1566587662,
     "wof:name":"Rivadavia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

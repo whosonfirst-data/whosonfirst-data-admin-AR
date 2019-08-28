@@ -10,8 +10,12 @@
     "geom:latitude":-34.79045,
     "geom:longitude":-58.40277,
     "iso:country":"AR",
+    "lbl:bbox":"-58.42277,-34.81045,-58.38277,-34.77045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Turdera"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3427602,
         "gp:id":466670,
-        "qs:id":1165582,
+        "qs_pg:id":1165582,
         "wd:id":"Q7854816",
         "wk:page":"Turdera"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421192279,
-    "wof:lastmodified":1562866533,
+    "wof:lastmodified":1566588121,
     "wof:name":"Turdera",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

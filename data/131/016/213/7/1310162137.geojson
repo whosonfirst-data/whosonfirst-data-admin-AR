@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.22792,-27.87871,-64.18792,-27.83871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maco"
     ],
@@ -48,8 +52,7 @@
         "Maco"
     ],
     "name:und_x_variant":[
-        "Maquito",
-        "Maco"
+        "Maquito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310162137,
-    "wof:lastmodified":1562866391,
+    "wof:lastmodified":1566588045,
     "wof:name":"Maco",
     "wof:parent_id":1108718475,
     "wof:placetype":"locality",

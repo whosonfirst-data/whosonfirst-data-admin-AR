@@ -10,8 +10,12 @@
     "geom:latitude":-36.98881,
     "geom:longitude":-70.74991,
     "iso:country":"AR",
+    "lbl:bbox":"-70.76991,-37.00881,-70.72991,-36.96881",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Ovejas"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3847971,
         "gp:id":331214,
-        "qs:id":1205125,
+        "qs_pg:id":1205125,
         "wd:id":"Q6492369",
         "wk:page":"Las Ovejas"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421169329,
-    "wof:lastmodified":1562866616,
+    "wof:lastmodified":1566588152,
     "wof:name":"Las Ovejas",
     "wof:parent_id":1108718383,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-62.01748,-35.41303,-61.97748,-35.37303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Carlos Salas"
     ],
@@ -45,8 +49,7 @@
         "Carlos Salas"
     ],
     "name:und_x_variant":[
-        "C. Salas",
-        "Carlos Salas"
+        "C. Salas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209725135,
-    "wof:lastmodified":1562866160,
+    "wof:lastmodified":1566587896,
     "wof:name":"Carlos Salas",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

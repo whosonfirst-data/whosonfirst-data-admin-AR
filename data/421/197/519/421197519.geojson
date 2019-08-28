@@ -10,8 +10,12 @@
     "geom:latitude":-32.31984,
     "geom:longitude":-64.27752,
     "iso:country":"AR",
+    "lbl:bbox":"-64.29752,-32.33984,-64.25752,-32.29984",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Los C\u00f3ndores"
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u041a\u043e\u043d\u0434\u043e\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u00f3ndores"
     ],
     "qs:gn_country":"AR",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3846236,
         "gp:id":468733,
-        "qs:id":150442,
+        "qs_pg:id":150442,
         "wd:id":"Q5979637"
     },
     "wof:country":"AR",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421197519,
-    "wof:lastmodified":1562866911,
+    "wof:lastmodified":1566588272,
     "wof:name":"Los C\u00f3ndores",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.73196,
     "geom:longitude":-61.91599,
     "iso:country":"AR",
+    "lbl:bbox":"-61.93599,-32.75196,-61.89599,-32.71196",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Roca"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3855066,
         "gp:id":467667,
-        "qs:id":150496,
+        "qs_pg:id":150496,
         "wd:id":"Q5877004"
     },
     "wof:country":"AR",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421195331,
-    "wof:lastmodified":1562866536,
+    "wof:lastmodified":1566588122,
     "wof:name":"General Roca",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

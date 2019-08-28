@@ -10,8 +10,12 @@
     "geom:latitude":-27.2616,
     "geom:longitude":-58.97219,
     "iso:country":"AR",
+    "lbl:bbox":"-58.99219,-27.2816,-58.95219,-27.2416",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Margarita Bel\u00e9n"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430-\u0411\u0435\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Margarita BeT\u00e9n"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3430857,
         "gp:id":465785,
-        "qs:id":181843,
+        "qs_pg:id":181843,
         "wd:id":"Q383019",
         "wk:page":"Margarita Bel\u00e9n"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421198307,
-    "wof:lastmodified":1562866797,
+    "wof:lastmodified":1566588228,
     "wof:name":"Margarita Bel\u00e9n",
     "wof:parent_id":1108718221,
     "wof:placetype":"locality",

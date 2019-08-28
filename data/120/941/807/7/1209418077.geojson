@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-65.24209,-28.60375,-65.20209,-28.56375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209418077,
-    "wof:lastmodified":1536287620,
+    "wof:lastmodified":1566587855,
     "wof:name":"Albigasta",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

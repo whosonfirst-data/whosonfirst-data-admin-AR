@@ -10,8 +10,12 @@
     "geom:latitude":-42.08095,
     "geom:longitude":-71.61405,
     "iso:country":"AR",
+    "lbl:bbox":"-71.63405,-42.10095,-71.59405,-42.06095",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lago Puelo"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3851100,
         "gp:id":465645,
-        "qs:id":1262929,
+        "qs_pg:id":1262929,
         "wd:id":"Q3825767",
         "wk:page":"Lago Puelo, Chubut"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421171589,
-    "wof:lastmodified":1562867043,
+    "wof:lastmodified":1566588332,
     "wof:name":"Lago Puelo",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

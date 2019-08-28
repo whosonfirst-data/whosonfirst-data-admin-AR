@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4280395508,-34.6045236073,-58.4033203125,-34.5879974401",
     "geom:latitude":-34.596583,
     "geom:longitude":-58.415831,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.60923,
     "gn:longitude":-58.40808,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.604048,
     "lbl:longitude":-58.408657,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.596617,
     "mps:longitude":-58.416066,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
         "Once"
     ],
     "name:spa_x_preferred":[
-        "Once"
-    ],
-    "name:unk_x_variant":[
         "Once"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -96,8 +94,7 @@
     "qs_pg:woe_id":331571,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -109,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3430291,
         "gp:id":331571,
-        "qs:id":1319769,
         "qs_pg:id":1319769,
         "wd:id":"Q871946",
         "wk:page":"Once - 30 de Diciembre (Buenos Aires Underground)"
@@ -130,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865713,
+    "wof:lastmodified":1566587659,
     "wof:name":"Once",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

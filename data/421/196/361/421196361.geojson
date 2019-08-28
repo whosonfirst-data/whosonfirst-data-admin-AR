@@ -10,8 +10,12 @@
     "geom:latitude":-32.66625,
     "geom:longitude":-58.32148,
     "iso:country":"AR",
+    "lbl:bbox":"-58.34148,-32.68625,-58.30148,-32.64625",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Colonia El\u00eda"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3435331,
         "gp:id":467587,
-        "qs:id":1212337,
+        "qs_pg:id":1212337,
         "wd:id":"Q385453"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421196361,
-    "wof:lastmodified":1562866849,
+    "wof:lastmodified":1566588248,
     "wof:name":"Colonia El\u00eda",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

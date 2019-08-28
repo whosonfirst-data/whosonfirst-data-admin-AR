@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.68942,-26.03132,-64.64942,-25.99132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Copo Quile"
     ],
@@ -36,8 +40,7 @@
         "Copo Quile"
     ],
     "name:und_x_variant":[
-        "Copo Quiles",
-        "Copo Quile"
+        "Copo Quiles"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293164461,
-    "wof:lastmodified":1562865885,
+    "wof:lastmodified":1566587751,
     "wof:name":"Copo Quile",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",

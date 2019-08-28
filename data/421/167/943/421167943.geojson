@@ -10,8 +10,12 @@
     "geom:latitude":-38.97736,
     "geom:longitude":-67.82714,
     "iso:country":"AR",
+    "lbl:bbox":"-67.84714,-38.99736,-67.80714,-38.95736",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Allen"
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":3866242,
         "gp:id":467106,
-        "qs:id":1047054,
+        "qs_pg:id":1047054,
         "wd:id":"Q2837875"
     },
     "wof:country":"AR",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":421167943,
-    "wof:lastmodified":1562866598,
+    "wof:lastmodified":1566588144,
     "wof:name":"Allen",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

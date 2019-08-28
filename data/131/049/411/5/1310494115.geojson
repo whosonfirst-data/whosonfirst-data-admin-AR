@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.78859,-28.99715,-58.74859,-28.95715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batel",
         "Puente Batel"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310494115,
-    "wof:lastmodified":1537584818,
+    "wof:lastmodified":1566588021,
     "wof:name":"Puente Batel",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

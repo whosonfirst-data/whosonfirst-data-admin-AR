@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-65.93426,-38.16562,-65.89426,-38.12562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puelches"
     ],
@@ -45,8 +49,7 @@
         "Puelches"
     ],
     "name:und_x_variant":[
-        "Curac\u00f3",
-        "Puelches"
+        "Curac\u00f3"
     ],
     "name:zho_x_preferred":[
         "\u666e\u57c3\u723e\u5207\u65af"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1360172605,
-    "wof:lastmodified":1562866457,
+    "wof:lastmodified":1566588079,
     "wof:name":"Puelches",
     "wof:parent_id":1108718297,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-64.02175,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1575,
+    "gn:population":1575,
     "iso:country":"AR",
+    "lbl:bbox":"-64.04175,-32.9337,-64.00175,-32.8937",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Carnerillo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3862575,
         "gp:id":91816092,
-        "qs:id":848435
+        "qs_pg:id":848435
     },
     "wof:country":"AR",
     "wof:created":1469052263,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890440123,
-    "wof:lastmodified":1505343575,
+    "wof:lastmodified":1566588352,
     "wof:name":"Carnerillo",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

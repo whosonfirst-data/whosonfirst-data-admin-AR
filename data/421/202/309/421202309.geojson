@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.6161,
     "lbl:longitude":-70.448113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Neuquen",
     "meso:gadm_admin":"Picunches",
     "meso:gadm_hasc2":"AR.NQ.PI",
@@ -37,6 +39,7 @@
     "mps:longitude":-70.448113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Picunches"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,913.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":20071039,
         "hasc:id":"AR.NQ.PI",
-        "qs:id":13448
+        "qs_pg:id":13448
     },
     "wof:country":"AR",
     "wof:created":1459010112,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421202309,
-    "wof:lastmodified":1560898143,
+    "wof:lastmodified":1566588167,
     "wof:name":"Picunches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

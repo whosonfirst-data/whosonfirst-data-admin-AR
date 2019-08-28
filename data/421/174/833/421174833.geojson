@@ -10,8 +10,12 @@
     "geom:latitude":-40.76173,
     "geom:longitude":-71.64631,
     "iso:country":"AR",
+    "lbl:bbox":"-71.66631,-40.78173,-71.62631,-40.74173",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Villa La Angostura"
@@ -61,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041b\u0430-\u0410\u043d\u0433\u043e\u0441\u0442\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Villa La Angostura"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u5b89\u6208\u65af\u5716\u62c9\u93ae"
     ],
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3832711,
         "gp:id":332386,
-        "qs:id":900030,
+        "qs_pg:id":900030,
         "wd:id":"Q106096",
         "wk:page":"Villa La Angostura"
     },
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421174833,
-    "wof:lastmodified":1562866676,
+    "wof:lastmodified":1566588177,
     "wof:name":"Villa la Angostura",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

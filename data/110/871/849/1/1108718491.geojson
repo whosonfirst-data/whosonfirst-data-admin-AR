@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.074565,
     "lbl:longitude":-62.543268,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santiago Del Estero",
     "meso:gadm_admin":"Juan Felipe Ibarra",
     "meso:gadm_hasc2":"AR.SE.JI",
@@ -37,6 +39,7 @@
     "mps:longitude":-62.543268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Juan Felipe Ibarra"
     ],
@@ -45,9 +48,9 @@
         "Juan Felipe Ibarra"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"9,139.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108718491,
-    "wof:lastmodified":1560898135,
+    "wof:lastmodified":1566587991,
     "wof:name":"Juan F Ibarra",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

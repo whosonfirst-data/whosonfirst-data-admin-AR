@@ -10,6 +10,9 @@
     "geom:latitude":-36.77698,
     "geom:longitude":-59.85854,
     "iso:country":"AR",
+    "lbl:bbox":"-59.87854,-36.79698,-59.83854,-36.75698",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -218,7 +221,7 @@
     "wof:concordances":{
         "gn:id":3436199,
         "gp:id":466897,
-        "qs:id":242762,
+        "qs_pg:id":242762,
         "wd:id":"Q54118",
         "wk:page":"Azul, Buenos Aires"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421204619,
-    "wof:lastmodified":1562866621,
+    "wof:lastmodified":1566588154,
     "wof:name":"Azul",
     "wof:parent_id":1108717861,
     "wof:placetype":"locality",

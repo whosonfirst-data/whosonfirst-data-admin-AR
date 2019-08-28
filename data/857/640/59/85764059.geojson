@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4150689762,-34.5925196089,-58.3740942382,-34.5485974291",
     "geom:latitude":-34.570085,
     "geom:longitude":-58.393103,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.58333,
     "gn:longitude":-58.4,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.583401,
     "lbl:longitude":-58.420859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.558768,
     "mps:longitude":-58.384892,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Barrio Norte"
     ],
     "name:spa_x_preferred":[
-        "Barrio Norte"
-    ],
-    "name:unk_x_variant":[
         "Barrio Norte"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -84,9 +82,8 @@
     "qs_pg:woe_id":329999,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":462,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85632505,
@@ -98,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3436109,
         "gp:id":329999,
-        "qs:id":900042,
         "qs_pg:id":900042,
         "wd:id":"Q4863739",
         "wk:page":"Barrio Norte, Buenos Aires"
@@ -119,7 +115,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865724,
+    "wof:lastmodified":1566587664,
     "wof:name":"Barrio Norte",
     "wof:parent_id":1109371879,
     "wof:placetype":"neighbourhood",

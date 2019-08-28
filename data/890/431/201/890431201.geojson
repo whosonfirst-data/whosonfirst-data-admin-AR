@@ -11,10 +11,14 @@
     "geom:longitude":-59.14545,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":13807,
+    "gn:population":13807,
     "iso:country":"AR",
+    "lbl:bbox":"-59.16545,-32.32286,-59.12545,-32.28286",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Rosario del Tala"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u0430\u0440\u0456\u043e-\u0434\u0435\u043b\u044c-\u0422\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosario Tala"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3429439,
         "gp:id":466411,
-        "qs:id":583244,
+        "qs_pg:id":583244,
         "wd:id":"Q2247641",
         "wk:page":"Rosario del Tala"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890431201,
-    "wof:lastmodified":1562867109,
+    "wof:lastmodified":1566588358,
     "wof:name":"Rosario del Tala",
     "wof:parent_id":1108718257,
     "wof:placetype":"locality",

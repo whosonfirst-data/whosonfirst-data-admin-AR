@@ -10,8 +10,12 @@
     "geom:latitude":-34.58468,
     "geom:longitude":-60.6995,
     "iso:country":"AR",
+    "lbl:bbox":"-60.7195,-34.60468,-60.6795,-34.56468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "O'Higgins"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3842752,
         "gp:id":465958,
-        "qs:id":832967
+        "qs_pg:id":832967
     },
     "wof:country":"AR",
     "wof:created":1459009897,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421196929,
-    "wof:lastmodified":1562866870,
+    "wof:lastmodified":1566588255,
     "wof:name":"O'Higgins",
     "wof:parent_id":1108717913,
     "wof:placetype":"locality",

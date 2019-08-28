@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.87393,
     "lbl:longitude":-58.570549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Esteban Echeverr\u00eda",
     "meso:gadm_hasc2":"AR.BA.EB",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.570549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ezeiza"
     ],
@@ -54,7 +57,7 @@
         "Ezeiza"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108717933,
-    "wof:lastmodified":1562866281,
+    "wof:lastmodified":1566587980,
     "wof:name":"Ezeiza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

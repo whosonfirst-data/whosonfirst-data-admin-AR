@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.28151,-31.92582,-59.24151,-31.88582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Ra\u00edces",
         "Ra\u00edces"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343546755,
-    "wof:lastmodified":1537584817,
+    "wof:lastmodified":1566587604,
     "wof:name":"Raices",
     "wof:parent_id":1108718259,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-31.5167,
     "geom:longitude":-60.67677,
     "iso:country":"AR",
+    "lbl:bbox":"-60.69677,-31.5367,-60.65677,-31.4967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Monte Vera"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3843788,
         "gp:id":465886,
-        "qs:id":1285900,
+        "qs_pg:id":1285900,
         "wd:id":"Q10751296"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421171941,
-    "wof:lastmodified":1562867039,
+    "wof:lastmodified":1566588329,
     "wof:name":"Monte Vera",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.54534,
     "geom:longitude":-62.98302,
     "iso:country":"AR",
+    "lbl:bbox":"-63.00302,-32.56534,-62.96302,-32.52534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ballesteros"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3864891,
         "gp:id":467130,
-        "qs:id":949694,
+        "qs_pg:id":949694,
         "wd:id":"Q11680131"
     },
     "wof:country":"AR",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421175279,
-    "wof:lastmodified":1562866792,
+    "wof:lastmodified":1566588225,
     "wof:name":"Ballesteros",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

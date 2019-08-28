@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.69699,-34.99887,-58.65699,-34.95887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Alejandro Peti\u00f3n"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343862417,
-    "wof:lastmodified":1537584830,
+    "wof:lastmodified":1566587652,
     "wof:name":"Alejandro Petion",
     "wof:parent_id":1108717887,
     "wof:placetype":"locality",

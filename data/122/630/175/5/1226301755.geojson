@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-62.14359,-33.60839,-62.10359,-33.56839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Francisco",
         "San Francisco de Santa Fe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226301755,
-    "wof:lastmodified":1537584842,
+    "wof:lastmodified":1566588553,
     "wof:name":"San Francisco de Santa Fe",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-25.745797,
     "lbl:longitude":-65.460937,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"Guachipas",
     "meso:gadm_hasc2":"AR.SA.GU",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.460937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guachipas"
     ],
@@ -68,9 +71,9 @@
         "\u74dc\u5947\u5e15\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,785.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108718407,
-    "wof:lastmodified":1562866301,
+    "wof:lastmodified":1566587993,
     "wof:name":"Guachipas",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-26.92998,
     "geom:longitude":-55.06084,
     "iso:country":"AR",
+    "lbl:bbox":"-55.08084,-26.94998,-55.04084,-26.90998",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Capiov\u00ed"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3435701,
         "gp:id":464938,
-        "qs:id":1010196,
+        "qs_pg:id":1010196,
         "wd:id":"Q5035413",
         "wk:page":"Capiov\u00ed"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421184779,
-    "wof:lastmodified":1562866962,
+    "wof:lastmodified":1566588292,
     "wof:name":"Capiov\u00ed",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

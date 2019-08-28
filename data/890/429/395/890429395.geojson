@@ -11,10 +11,14 @@
     "geom:longitude":-63.58253,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1619,
+    "gn:population":1619,
     "iso:country":"AR",
+    "lbl:bbox":"-63.60253,-35.04449,-63.56253,-35.00449",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bernardo Larroud\u00e9"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Bernardo Larroud\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Larroude"
     ],
     "qs:name":"Bernardo Larroud\u00e9",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3864285,
         "gp:id":91862904,
-        "qs:id":96664,
+        "qs_pg:id":96664,
         "wd:id":"Q584726",
         "wk:page":"Bernardo Larroud\u00e9"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890429395,
-    "wof:lastmodified":1562867121,
+    "wof:lastmodified":1566588362,
     "wof:name":"Bernardo Larroud\u00e9",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

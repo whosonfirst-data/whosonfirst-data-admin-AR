@@ -10,8 +10,12 @@
     "geom:latitude":-37.64522,
     "geom:longitude":-70.58006,
     "iso:country":"AR",
+    "lbl:bbox":"-70.60006,-37.66522,-70.56006,-37.62522",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Huec\u00fa"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3857879,
         "gp:id":330420,
-        "qs:id":1020259,
+        "qs_pg:id":1020259,
         "wd:id":"Q1017560",
         "wk:page":"El Huec\u00fa"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421185271,
-    "wof:lastmodified":1562867066,
+    "wof:lastmodified":1566588345,
     "wof:name":"El Huec\u00fa",
     "wof:parent_id":421169775,
     "wof:placetype":"locality",

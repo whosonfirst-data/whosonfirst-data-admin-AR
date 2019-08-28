@@ -10,8 +10,12 @@
     "geom:latitude":-27.63333,
     "geom:longitude":-59.9,
     "iso:country":"AR",
+    "lbl:bbox":"-59.92,-27.65333,-59.88,-27.61333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Charadai"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Charadai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Charaday"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3435453,
         "gp:id":465032,
-        "qs:id":925155,
+        "qs_pg:id":925155,
         "wd:id":"Q1578855",
         "wk:page":"Charadai"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421201661,
-    "wof:lastmodified":1562866949,
+    "wof:lastmodified":1566588286,
     "wof:name":"Charadai",
     "wof:parent_id":1108718229,
     "wof:placetype":"locality",

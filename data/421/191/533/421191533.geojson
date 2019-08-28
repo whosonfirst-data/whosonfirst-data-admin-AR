@@ -10,8 +10,12 @@
     "geom:latitude":-34.60071,
     "geom:longitude":-58.56424,
     "iso:country":"AR",
+    "lbl:bbox":"-58.58424,-34.62071,-58.54424,-34.58071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u064a\u0631\u0648\u0633"
@@ -174,7 +178,7 @@
     "wof:concordances":{
         "gn:id":3435611,
         "gp:id":330096,
-        "qs:id":1141819,
+        "qs_pg:id":1141819,
         "wd:id":"Q2400043",
         "wk:page":"Caseros, Buenos Aires"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":421191533,
-    "wof:lastmodified":1562866875,
+    "wof:lastmodified":1566588257,
     "wof:name":"Caseros",
     "wof:parent_id":421188023,
     "wof:placetype":"locality",

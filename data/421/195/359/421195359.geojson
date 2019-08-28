@@ -10,8 +10,12 @@
     "geom:latitude":-32.3843,
     "geom:longitude":-59.53013,
     "iso:country":"AR",
+    "lbl:bbox":"-59.55013,-32.4043,-59.51013,-32.3643",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0441-\u0413\u0430\u043d\u0441\u0430\u043b\u0435\u0441"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0441-\u0413\u043e\u043d\u0441\u0430\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L. Gonz\u00e1lez"
     ],
     "qs:gn_country":"AR",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3431005,
         "gp:id":467756,
-        "qs:id":147786,
+        "qs_pg:id":147786,
         "wd:id":"Q5981875",
         "wk:page":"Lucas Gonz\u00e1lez, Argentina"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421195359,
-    "wof:lastmodified":1562866557,
+    "wof:lastmodified":1566588129,
     "wof:name":"Lucas Gonz\u00e1lez",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

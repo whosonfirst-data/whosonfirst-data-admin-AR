@@ -32,6 +32,7 @@
     ],
     "lbl:latitude":-26.718552,
     "lbl:longitude":-54.269192,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-26.759178,
     "mps:longitude":-54.281385,
     "mz:hierarchy_label":1,
@@ -365,9 +366,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"29,801",
     "statoids:area_mi":"11,506",
     "statoids:as_of_date":"2010-10-27",
@@ -392,7 +393,7 @@
         "gp:id":2344688,
         "hasc:id":"AR.MN",
         "iso:id":"AR-N",
-        "qs:id":1131207,
+        "qs_pg:id":1131207,
         "unlc:id":"AR-N",
         "wd:id":"Q44798",
         "wk:page":"Misiones Province"
@@ -413,11 +414,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652043,
+    "wof:lastmodified":1566587680,
     "wof:name":"Misiones",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1101593,
     "wof:population_rank":12,

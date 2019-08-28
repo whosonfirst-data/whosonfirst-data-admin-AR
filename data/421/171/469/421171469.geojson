@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-33.037333,
     "lbl:longitude":-62.228606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cordoba",
     "meso:gadm_admin":"Marcos Ju\u00e1rez",
     "meso:gadm_hasc2":"AR.CB.MJ",
@@ -37,6 +39,7 @@
     "mps:longitude":-62.228606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Marcos Ju\u00e1rez"
@@ -67,9 +70,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"9,490.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":20070659,
         "hasc:id":"AR.CB.MJ",
-        "qs:id":1251743
+        "qs_pg:id":1251743
     },
     "wof:country":"AR",
     "wof:created":1459008895,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421171469,
-    "wof:lastmodified":1560898154,
+    "wof:lastmodified":1566588337,
     "wof:name":"Marcos Juarez",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

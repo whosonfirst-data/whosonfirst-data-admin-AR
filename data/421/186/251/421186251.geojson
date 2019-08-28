@@ -10,10 +10,14 @@
     "geom:latitude":-33.52171,
     "geom:longitude":-69.27339,
     "iso:country":"AR",
+    "lbl:bbox":"-69.29339,-33.54171,-69.25339,-33.50171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Arboles de Villegas"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3846474,
         "gp:id":331299,
-        "qs:id":1062670
+        "qs_pg:id":1062670
     },
     "wof:country":"AR",
     "wof:created":1459009475,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421186251,
-    "wof:lastmodified":1501268871,
+    "wof:lastmodified":1566588211,
     "wof:name":"Los \u00c1rboles",
     "wof:parent_id":421171485,
     "wof:placetype":"locality",

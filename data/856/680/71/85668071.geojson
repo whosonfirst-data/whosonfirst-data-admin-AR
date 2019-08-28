@@ -31,6 +31,7 @@
     ],
     "lbl:latitude":-28.684571,
     "lbl:longitude":-57.799607,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-28.703902,
     "mps:longitude":-57.83109,
     "mz:hierarchy_label":1,
@@ -277,9 +278,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0440\u0456\u0454\u043d\u0442\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Corrientes"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u0631\u06cc\u0646\u062a\u0633"
     ],
@@ -370,9 +368,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"88,199",
     "statoids:area_mi":"34,054",
     "statoids:as_of_date":"2010-10-27",
@@ -397,7 +395,7 @@
         "gp:id":2344680,
         "hasc:id":"AR.CN",
         "iso:id":"AR-W",
-        "qs:id":219495,
+        "qs_pg:id":219495,
         "unlc:id":"AR-W",
         "wd:id":"Q44758",
         "wk:page":"Corrientes Province"
@@ -418,11 +416,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652044,
+    "wof:lastmodified":1566587682,
     "wof:name":"Corrientes",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":992595,
     "wof:population_rank":11,

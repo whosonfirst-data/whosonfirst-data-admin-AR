@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.11137,-26.87333,-65.07137,-26.83333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Delf\u00edn Gallo"
     ],
@@ -39,9 +43,6 @@
         "Delf\u00edn Gallo"
     ],
     "name:swe_x_preferred":[
-        "Delf\u00edn Gallo"
-    ],
-    "name:und_x_variant":[
         "Delf\u00edn Gallo"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1259651887,
-    "wof:lastmodified":1562867295,
+    "wof:lastmodified":1566588455,
     "wof:name":"Delfin Gallo",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

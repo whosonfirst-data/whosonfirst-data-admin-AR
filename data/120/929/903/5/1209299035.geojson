@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.92073,-24.55256,-59.88073,-24.51256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fort\u00edn General San Mart\u00edn",
         "San Martin",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209299035,
-    "wof:lastmodified":1537584815,
+    "wof:lastmodified":1566587878,
     "wof:name":"San Martin Numero Uno",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

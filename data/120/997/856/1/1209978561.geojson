@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Rio_Gallegos",
     "iso:country":"AR",
+    "lbl:bbox":"-70.17834,-50.31126,-70.13834,-50.27126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rinc\u00f3n Grande"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209978561,
-    "wof:lastmodified":1562866056,
+    "wof:lastmodified":1566587845,
     "wof:name":"Rincon Grande",
     "wof:parent_id":421200653,
     "wof:placetype":"locality",

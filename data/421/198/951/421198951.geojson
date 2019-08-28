@@ -10,8 +10,12 @@
     "geom:latitude":-34.34093,
     "geom:longitude":-64.9203,
     "iso:country":"AR",
+    "lbl:bbox":"-64.9403,-34.36093,-64.9003,-34.32093",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Valeria"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3832602,
         "gp:id":467469,
-        "qs:id":1212299,
+        "qs_pg:id":1212299,
         "wd:id":"Q9093936"
     },
     "wof:country":"AR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421198951,
-    "wof:lastmodified":1562866813,
+    "wof:lastmodified":1566588234,
     "wof:name":"Villa Valeria",
     "wof:parent_id":421188041,
     "wof:placetype":"locality",

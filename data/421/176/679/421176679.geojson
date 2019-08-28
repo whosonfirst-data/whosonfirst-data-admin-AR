@@ -10,8 +10,12 @@
     "geom:latitude":-33.0276,
     "geom:longitude":-60.75529,
     "iso:country":"AR",
+    "lbl:bbox":"-60.77529,-33.0476,-60.73529,-33.0076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Soldini"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3835126,
         "gp:id":466504,
-        "qs:id":389957,
+        "qs_pg:id":389957,
         "wd:id":"Q7557446",
         "wk:page":"Soldini, Santa Fe"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421176679,
-    "wof:lastmodified":1562867027,
+    "wof:lastmodified":1566588322,
     "wof:name":"Soldini",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

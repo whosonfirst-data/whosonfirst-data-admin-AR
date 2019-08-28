@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-37.03905,
     "lbl:longitude":-58.561445,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Ayacucho",
     "meso:gadm_hasc2":"AR.BA.AY",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.561445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u0627\u0643\u0648\u062a\u0634\u0648"
     ],
@@ -149,9 +152,9 @@
         "\u963f\u4e9a\u5e93\u4e54"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"6,785.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1108717859,
-    "wof:lastmodified":1562866279,
+    "wof:lastmodified":1566587978,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

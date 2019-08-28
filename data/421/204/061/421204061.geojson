@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.092384,
     "lbl:longitude":-65.403582,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Humahuaca",
     "meso:gadm_hasc2":"AR.JY.HU",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.403582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Humahuaca"
@@ -111,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,792.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gp:id":20070678,
         "hasc:id":"AR.JY.HU",
-        "qs:id":237437
+        "qs_pg:id":237437
     },
     "wof:country":"AR",
     "wof:created":1459010172,
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421204061,
-    "wof:lastmodified":1564218020,
+    "wof:lastmodified":1566588160,
     "wof:name":"Humahuaca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

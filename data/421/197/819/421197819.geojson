@@ -10,8 +10,12 @@
     "geom:latitude":-32.23285,
     "geom:longitude":-65.80394,
     "iso:country":"AR",
+    "lbl:bbox":"-65.82394,-32.25285,-65.78394,-32.21285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Quines"
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3839554,
         "gp:id":467036,
-        "qs:id":150418,
+        "qs_pg:id":150418,
         "wd:id":"Q3414541"
     },
     "wof:country":"AR",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421197819,
-    "wof:lastmodified":1562866909,
+    "wof:lastmodified":1566588271,
     "wof:name":"Quines",
     "wof:parent_id":421171473,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-64.00947,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":3046,
+    "gn:population":3046,
     "iso:country":"AR",
+    "lbl:bbox":"-64.02947,-31.57574,-63.98947,-31.53574",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u064a\u062f\u0648"
     ],
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":3834251,
         "gp:id":91815135,
-        "qs:id":1152396,
+        "qs_pg:id":1152396,
         "wd:id":"Q1123650",
         "wk:page":"Toledo"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":890437759,
-    "wof:lastmodified":1562867103,
+    "wof:lastmodified":1566588356,
     "wof:name":"Toledo",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-60.670961,
     "gn:id":"",
     "iso:country":"AR",
+    "lbl:bbox":"-60.675961,-32.935057,-60.665961,-32.925057",
     "lbl:latitude":-32.930057,
     "lbl:longitude":-60.670961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.933079,
     "mps:longitude":-60.669634,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Moreno"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_id":0,
     "qs:gn_local":3838583,
@@ -124,8 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85668077,
         102191577,
@@ -135,7 +133,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":331517,
-        "qs:id":319710
+        "qs_pg:id":319710
     },
     "wof:country":"AR",
     "wof:geomhash":"10c8a685987aac2201ea87ca22da0907",
@@ -153,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865713,
+    "wof:lastmodified":1566587659,
     "wof:name":"Moreno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

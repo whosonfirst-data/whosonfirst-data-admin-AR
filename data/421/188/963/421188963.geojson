@@ -10,8 +10,12 @@
     "geom:latitude":-28.47732,
     "geom:longitude":-65.797,
     "iso:country":"AR",
+    "lbl:bbox":"-65.817,-28.49732,-65.777,-28.45732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3832774,
         "gp:id":466732,
-        "qs:id":33927
+        "qs_pg:id":33927
     },
     "wof:country":"AR",
     "wof:created":1459009589,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421188963,
-    "wof:lastmodified":1499925294,
+    "wof:lastmodified":1566588196,
     "wof:name":"Villa Cubas",
     "wof:parent_id":1108718149,
     "wof:placetype":"locality",

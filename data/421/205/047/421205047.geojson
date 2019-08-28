@@ -10,8 +10,12 @@
     "geom:latitude":-28.30189,
     "geom:longitude":-64.18031,
     "iso:country":"AR",
+    "lbl:bbox":"-64.20031,-28.32189,-64.16031,-28.28189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Loreto"
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0440\u0435\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Loreto"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u96f7\u6258"
@@ -72,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3861042,
         "gp:id":419832,
-        "qs:id":1191990,
+        "qs_pg:id":1191990,
         "wd:id":"Q1015586",
         "wk:page":"Loreto, Santiago del Estero"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":421205047,
-    "wof:lastmodified":1562866660,
+    "wof:lastmodified":1566588171,
     "wof:name":"Villa San Mart\u00edn",
     "wof:parent_id":1108718493,
     "wof:placetype":"locality",

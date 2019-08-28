@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-61.93296,-34.62224,-61.89296,-34.58224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293296785,
-    "wof:lastmodified":1537059314,
+    "wof:lastmodified":1566587750,
     "wof:name":"Guenther",
     "wof:parent_id":1108717961,
     "wof:placetype":"locality",

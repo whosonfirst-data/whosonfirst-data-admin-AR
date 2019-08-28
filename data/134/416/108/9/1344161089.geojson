@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.66694,-34.49354,-58.62694,-34.45354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1344161089,
-    "wof:lastmodified":1562865673,
+    "wof:lastmodified":1566587640,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":1108718117,
     "wof:placetype":"locality",

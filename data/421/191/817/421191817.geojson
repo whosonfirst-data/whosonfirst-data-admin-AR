@@ -10,8 +10,12 @@
     "geom:latitude":-40.13333,
     "geom:longitude":-71.41667,
     "iso:country":"AR",
+    "lbl:bbox":"-71.43667,-40.15333,-71.39667,-40.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3833604,
         "gp:id":466662,
-        "qs:id":1156117
+        "qs_pg:id":1156117
     },
     "wof:country":"AR",
     "wof:created":1459009710,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421191817,
-    "wof:lastmodified":1499925032,
+    "wof:lastmodified":1566588260,
     "wof:name":"Trompul",
     "wof:parent_id":421175299,
     "wof:placetype":"locality",

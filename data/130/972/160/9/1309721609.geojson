@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.11624,-34.35776,-60.07624,-34.31776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gahan"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309721609,
-    "wof:lastmodified":1562866504,
+    "wof:lastmodified":1566588107,
     "wof:name":"Gahan",
     "wof:parent_id":1108718085,
     "wof:placetype":"locality",

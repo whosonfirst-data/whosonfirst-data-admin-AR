@@ -10,8 +10,12 @@
     "geom:latitude":-36.14801,
     "geom:longitude":-59.14665,
     "iso:country":"AR",
+    "lbl:bbox":"-59.16665,-36.16801,-59.12665,-36.12801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3429926,
         "gp:id":466134,
-        "qs:id":1263062
+        "qs_pg:id":1263062
     },
     "wof:country":"AR",
     "wof:created":1459008900,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421171613,
-    "wof:lastmodified":1499925056,
+    "wof:lastmodified":1566588334,
     "wof:name":"Plaza Montero",
     "wof:parent_id":1108717997,
     "wof:placetype":"locality",

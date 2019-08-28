@@ -10,8 +10,12 @@
     "geom:latitude":-34.50316,
     "geom:longitude":-58.70596,
     "iso:country":"AR",
+    "lbl:bbox":"-58.72596,-34.52316,-58.68596,-34.48316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633 \u0628\u0648\u0644\u0641\u0648\u0631\u064a\u0646\u064a\u0633"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u041f\u043e\u043b\u044c\u0432\u043e\u0440\u0456\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polvorines"
     ],
     "name:zho_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3431057,
         "gp:id":464505,
-        "qs:id":1142055,
+        "qs_pg:id":1142055,
         "wd:id":"Q3723035",
         "wk:page":"Los Polvorines"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421191537,
-    "wof:lastmodified":1562866889,
+    "wof:lastmodified":1566588263,
     "wof:name":"Los Polvorines",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

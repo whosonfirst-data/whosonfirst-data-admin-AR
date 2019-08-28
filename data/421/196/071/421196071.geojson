@@ -10,8 +10,12 @@
     "geom:latitude":-32.50916,
     "geom:longitude":-61.03042,
     "iso:country":"AR",
+    "lbl:bbox":"-61.05042,-32.52916,-61.01042,-32.48916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ram\u00f3n Carrizales"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Ram\u00f3n Carrizales"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Clarke"
     ],
     "qs:gn_country":"AR",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3862489,
         "gp:id":467558,
-        "qs:id":1047003
+        "qs_pg:id":1047003
     },
     "wof:country":"AR",
     "wof:created":1459009868,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421196071,
-    "wof:lastmodified":1501268882,
+    "wof:lastmodified":1566588242,
     "wof:name":"Carrizales",
     "wof:parent_id":421203251,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":-34.60948,
     "geom:longitude":-58.39225,
     "iso:country":"AR",
+    "lbl:bbox":"-58.39725,-34.61448,-58.38725,-34.60448",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "U-Bahnhof Congreso"
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3435259,
         "gp:id":330240,
-        "qs:id":1210308,
+        "qs_pg:id":1210308,
         "wd:id":"Q3352074",
         "wk:page":"Congreso (Buenos Aires Underground)"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421171145,
-    "wof:lastmodified":1562867039,
+    "wof:lastmodified":1566588329,
     "wof:name":"Congreso",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

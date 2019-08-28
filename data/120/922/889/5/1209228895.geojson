@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-61.85841,-35.66818,-61.81841,-35.62818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P. Gamen",
         "Pedro Gamen"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209228895,
-    "wof:lastmodified":1537584850,
+    "wof:lastmodified":1566587863,
     "wof:name":"Pedro Gamen",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

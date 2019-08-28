@@ -10,8 +10,12 @@
     "geom:latitude":-30.81667,
     "geom:longitude":-63.71667,
     "iso:country":"AR",
+    "lbl:bbox":"-63.73667,-30.83667,-63.69667,-30.79667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa del Totoral"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u0434\u0435\u043b\u044c-\u0422\u043e\u0442\u043e\u0440\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Totoral"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3832763,
         "gp:id":466801,
-        "qs:id":181883,
+        "qs_pg:id":181883,
         "wd:id":"Q2636994",
         "wk:page":"Villa del Totoral"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421198313,
-    "wof:lastmodified":1562866809,
+    "wof:lastmodified":1566588233,
     "wof:name":"Villa del Totoral",
     "wof:parent_id":421203351,
     "wof:placetype":"locality",

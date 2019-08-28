@@ -10,10 +10,14 @@
     "geom:latitude":-26.216657,
     "geom:longitude":-65.283313,
     "iso:country":"AR",
+    "lbl:bbox":"-65.3033126237,-26.2366568819,-65.2633126237,-26.1966568819",
     "lbl:latitude":-26.216657,
     "lbl:longitude":-65.283313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0631\u0627\u0646\u0643\u0627\u0633\u060c \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646"
     ],
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":3833947,
         "gp:id":467435,
-        "qs:id":1046776,
+        "qs_pg:id":1046776,
         "wd:id":"Q976838",
         "wk:page":"Trancas, Argentina"
     },
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":1141906769,
-    "wof:lastmodified":1562867511,
+    "wof:lastmodified":1566588572,
     "wof:name":"Trancas",
     "wof:parent_id":1108718531,
     "wof:placetype":"locality",

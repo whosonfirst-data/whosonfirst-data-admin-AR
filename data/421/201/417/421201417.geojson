@@ -10,8 +10,12 @@
     "geom:latitude":-31.09928,
     "geom:longitude":-64.3619,
     "iso:country":"AR",
+    "lbl:bbox":"-64.3819,-31.11928,-64.3419,-31.07928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Juan Enrique Carre\u00f1o"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3862820,
         "gp:id":464918,
-        "qs:id":211202
+        "qs_pg:id":211202
     },
     "wof:country":"AR",
     "wof:created":1459010071,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421201417,
-    "wof:lastmodified":1499925226,
+    "wof:lastmodified":1566588287,
     "wof:name":"Candonga",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

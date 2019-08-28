@@ -10,8 +10,12 @@
     "geom:latitude":-35.27368,
     "geom:longitude":-58.40378,
     "iso:country":"AR",
+    "lbl:bbox":"-58.42378,-35.29368,-58.38378,-35.25368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3431266,
         "gp:id":467750,
-        "qs:id":296552
+        "qs_pg:id":296552
     },
     "wof:country":"AR",
     "wof:created":1459009875,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421196281,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1566588243,
     "wof:name":"Loma Verde",
     "wof:parent_id":1108717959,
     "wof:placetype":"locality",

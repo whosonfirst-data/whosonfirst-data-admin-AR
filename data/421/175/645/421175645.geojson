@@ -10,8 +10,12 @@
     "geom:latitude":-27.55068,
     "geom:longitude":-57.5346,
     "iso:country":"AR",
+    "lbl:bbox":"-57.5546,-27.57068,-57.5146,-27.53068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ber\u00f3n de Astrada"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3436029,
         "gp:id":464814,
-        "qs:id":1013017,
+        "qs_pg:id":1013017,
         "wd:id":"Q55856"
     },
     "wof:country":"AR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421175645,
-    "wof:lastmodified":1562866786,
+    "wof:lastmodified":1566588223,
     "wof:name":"Ber\u00f3n de Astrada",
     "wof:parent_id":1108718169,
     "wof:placetype":"locality",

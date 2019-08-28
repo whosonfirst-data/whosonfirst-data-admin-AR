@@ -10,6 +10,9 @@
     "geom:latitude":-36.31322,
     "geom:longitude":-57.67918,
     "iso:country":"AR",
+    "lbl:bbox":"-57.69918,-36.33322,-57.65918,-36.29322",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -274,7 +277,7 @@
     "wof:concordances":{
         "gn:id":3435038,
         "gp:id":466951,
-        "qs:id":1327230,
+        "qs_pg:id":1327230,
         "wd:id":"Q2024388"
     },
     "wof:country":"AR",
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":421200977,
-    "wof:lastmodified":1562866933,
+    "wof:lastmodified":1566588281,
     "wof:name":"Dolores",
     "wof:parent_id":1108717921,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":35180433.805267,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-64.183277,-31.438036,-64.183277,-31.438036",
     "geom:latitude":-31.438036,
     "geom:longitude":-64.183277,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-31.44385,
     "gn:longitude":-64.15908,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-64.188277,-31.443036,-64.178277,-31.433036",
     "lbl:latitude":-31.438036,
     "lbl:longitude":-64.183277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-31.43562,
     "mps:longitude":-64.17785,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Villa Revol"
-    ],
-    "name:unk_x_variant":[
         "Villa Revol"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -82,8 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85668031,
         102191577,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3832644,
         "gp:id":332421,
-        "qs:id":1120436,
         "qs_pg:id":1120436
     },
     "wof:country":"AR",
@@ -113,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1566587656,
     "wof:name":"Villa Revol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

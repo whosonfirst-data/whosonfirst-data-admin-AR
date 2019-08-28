@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Mendoza",
     "iso:country":"AR",
+    "lbl:bbox":"-68.32726,-37.09688,-68.28726,-37.05688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jag\u00fcel del Mayo",
         "Jag\u00fcel de Maya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326509533,
-    "wof:lastmodified":1537584871,
+    "wof:lastmodified":1566587552,
     "wof:name":"Jagueel de Maya",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

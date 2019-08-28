@@ -11,10 +11,14 @@
     "geom:longitude":-65.45783,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":96781,
+    "gn:population":96781,
     "iso:country":"AR",
+    "lbl:bbox":"-65.47783,-33.69571,-65.43783,-33.65571",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0645\u0631\u0633\u064a\u062f\u0633\u060c \u0633\u0627\u0646 \u0644\u0648\u064a\u0633"
     ],
@@ -121,7 +125,7 @@
         "Villa Mercedes"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe  \u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd"
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bae\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf\u0b9f\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c47 \u0c2e\u0c46\u0c30\u0c4d\u0c38\u0c3f\u0c21\u0c46\u0c38\u0c4d"
@@ -135,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mercedes"
     ],
     "name:urd_x_preferred":[
@@ -162,12 +166,12 @@
     "wof:concordances":{
         "gn:id":7116866,
         "gp:id":468697,
-        "qs:id":280229,
+        "qs_pg:id":280229,
         "wd:id":"Q1756745"
     },
     "wof:concordances_alt":{
         "gn:id":3832678,
-        "qs:id":585450
+        "qs_pg:id":585450
     },
     "wof:country":"AR",
     "wof:created":1469052828,
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":890452757,
-    "wof:lastmodified":1562867105,
+    "wof:lastmodified":1566588357,
     "wof:name":"Villa Mercedes",
     "wof:parent_id":421203353,
     "wof:placetype":"locality",

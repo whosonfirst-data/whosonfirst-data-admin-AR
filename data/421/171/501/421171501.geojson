@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-26.786247,
     "lbl:longitude":-60.457506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chaco",
     "meso:gadm_admin":"Comandante Fern\u00e1ndez",
     "meso:gadm_hasc2":"AR.CC.CF",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.457506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Comandante Fern\u00e1ndez"
@@ -67,9 +70,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,500.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":20070821,
         "hasc:id":"AR.CC.CF",
-        "qs:id":1251788
+        "qs_pg:id":1251788
     },
     "wof:country":"AR",
     "wof:created":1459008896,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421171501,
-    "wof:lastmodified":1560898153,
+    "wof:lastmodified":1566588332,
     "wof:name":"Comandante Fernandez",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

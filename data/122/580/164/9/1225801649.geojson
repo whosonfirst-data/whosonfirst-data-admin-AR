@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.92592,-27.80056,-61.88592,-27.76056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Desv\u00edo Tres Mojones",
         "Tres Mojones"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225801649,
-    "wof:lastmodified":1537584835,
+    "wof:lastmodified":1566588533,
     "wof:name":"Tres Mojones",
     "wof:parent_id":1108718497,
     "wof:placetype":"locality",

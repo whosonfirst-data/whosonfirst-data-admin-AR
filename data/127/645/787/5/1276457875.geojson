@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-62.95584,-37.92975,-62.91584,-37.88975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "17 de Agosto",
         "Diecisiete de Agosto"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276457875,
-    "wof:lastmodified":1537584885,
+    "wof:lastmodified":1566587778,
     "wof:name":"Diecisiete de Agosto",
     "wof:parent_id":1108718063,
     "wof:placetype":"locality",

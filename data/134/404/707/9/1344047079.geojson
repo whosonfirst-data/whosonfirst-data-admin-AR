@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.59112,-25.42766,-59.55112,-25.38766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344047079,
-    "wof:lastmodified":1536894691,
+    "wof:lastmodified":1566587643,
     "wof:name":"Bartolome de las Casas",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

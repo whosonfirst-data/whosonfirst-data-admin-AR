@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-35.121884,
     "lbl:longitude":-57.685073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Magdalena",
     "meso:gadm_hasc2":"AR.BA.ML",
@@ -37,6 +39,7 @@
     "mps:longitude":-57.685073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u062f\u0627\u0644\u064a\u0646\u0627"
     ],
@@ -134,7 +137,7 @@
         "Magdalena"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108718011,
-    "wof:lastmodified":1562866327,
+    "wof:lastmodified":1566588011,
     "wof:name":"Magdalena",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

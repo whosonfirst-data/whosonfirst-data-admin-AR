@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.735505,
     "lbl:longitude":-65.227498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tucuman",
     "meso:gadm_admin":"Graneros",
     "meso:gadm_hasc2":"AR.TM.GR",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.227498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
     ],
@@ -98,9 +101,9 @@
         "\u683c\u62c9\u5167\u7f85\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,678.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1108718521,
-    "wof:lastmodified":1562866328,
+    "wof:lastmodified":1566588012,
     "wof:name":"Graneros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

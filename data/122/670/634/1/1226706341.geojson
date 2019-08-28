@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Ushuaia",
     "iso:country":"AR",
+    "lbl:bbox":"-68.46769,-52.90293,-68.42769,-52.86293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cullen"
     ],
@@ -61,8 +65,7 @@
     ],
     "name:und_x_variant":[
         "Estancia Cullen",
-        "Estancia R\u00edo Cullen",
-        "Cullen"
+        "Estancia R\u00edo Cullen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1226706341,
-    "wof:lastmodified":1562867463,
+    "wof:lastmodified":1566588548,
     "wof:name":"Cullen",
     "wof:parent_id":421175153,
     "wof:placetype":"locality",

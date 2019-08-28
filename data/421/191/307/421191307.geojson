@@ -10,8 +10,12 @@
     "geom:latitude":-31.73105,
     "geom:longitude":-64.4063,
     "iso:country":"AR",
+    "lbl:bbox":"-64.4263,-31.75105,-64.3863,-31.71105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Anisacate"
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456\u0441\u0430\u043a\u0430\u0442\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Anisacate"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3832809,
         "gp:id":466719,
-        "qs:id":1134936,
+        "qs_pg:id":1134936,
         "wd:id":"Q2919174"
     },
     "wof:country":"AR",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":421191307,
-    "wof:lastmodified":1562866873,
+    "wof:lastmodified":1566588256,
     "wof:name":"Villa Anizacate",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

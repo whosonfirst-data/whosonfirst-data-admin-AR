@@ -10,8 +10,12 @@
     "geom:latitude":-28.92322,
     "geom:longitude":-67.52253,
     "iso:country":"AR",
+    "lbl:bbox":"-67.54253,-28.94322,-67.50253,-28.90322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Famatina"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3855661,
         "gp:id":467641,
-        "qs:id":935827,
+        "qs_pg:id":935827,
         "wd:id":"Q58386",
         "wk:page":"Famatina"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421196315,
-    "wof:lastmodified":1562866847,
+    "wof:lastmodified":1566588247,
     "wof:name":"Famatina",
     "wof:parent_id":1108718329,
     "wof:placetype":"locality",

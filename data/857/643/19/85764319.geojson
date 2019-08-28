@@ -9,15 +9,15 @@
     "geom:bbox":"-58.5025259134,-34.6917921802,-58.4506411432,-34.6575154679",
     "geom:latitude":-34.674993,
     "geom:longitude":-58.476167,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.67907,
     "gn:longitude":-58.47263,
-    "gn:population":114000,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.672355,
     "lbl:longitude":-58.480092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.671617,
     "mps:longitude":-58.469734,
     "mz:hierarchy_label":1,
@@ -81,9 +81,6 @@
     "name:swe_x_preferred":[
         "Villa Lugano"
     ],
-    "name:unk_x_variant":[
-        "Villa Lugano"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -132,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":318,
     "wof:belongsto":[
@@ -146,7 +143,6 @@
     "wof:concordances":{
         "gn:id":3427408,
         "gp:id":332393,
-        "qs:id":1319874,
         "qs_pg:id":1319874,
         "wd:id":"Q731094",
         "wk:page":"Villa Lugano"
@@ -167,7 +163,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865707,
+    "wof:lastmodified":1566587656,
     "wof:name":"Villa Lugano",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

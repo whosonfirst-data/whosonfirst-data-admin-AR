@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-55.61191,-28.12936,-55.57191,-28.08936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barra",
         "Barra de Concepci\u00f3n",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277150649,
-    "wof:lastmodified":1537584829,
+    "wof:lastmodified":1566587800,
     "wof:name":"Barra Concepcion",
     "wof:parent_id":1108718365,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-30.3544,
     "geom:longitude":-63.94872,
     "iso:country":"AR",
+    "lbl:bbox":"-63.96872,-30.3744,-63.92872,-30.3344",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Jos\u00e9 de La Dormida"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3837239,
         "gp:id":332662,
-        "qs:id":150398,
+        "qs_pg:id":150398,
         "wd:id":"Q6119038"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421195397,
-    "wof:lastmodified":1561793221,
+    "wof:lastmodified":1566588123,
     "wof:name":"San Jos\u00e9 de la Dormida",
     "wof:parent_id":421196955,
     "wof:placetype":"locality",

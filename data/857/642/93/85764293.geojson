@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2540974.982854,
+    "geom:area_square_m":2540974.982851,
     "geom:bbox":"-58.4795918633,-34.6987191705,-58.4618879798,-34.6761348798",
     "geom:latitude":-34.687382,
     "geom:longitude":-58.471095,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.68333,
     "gn:longitude":-58.46667,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.68818,
     "lbl:longitude":-58.468323,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.687294,
     "mps:longitude":-58.470044,
     "mz:hierarchy_label":1,
@@ -40,9 +41,6 @@
         "\u0422\u0435\u043b\u044c\u0435"
     ],
     "name:spa_x_preferred":[
-        "Tellier"
-    ],
-    "name:unk_x_variant":[
         "Tellier"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -91,9 +89,8 @@
     "qs_pg:woe_id":332248,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":70,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191577,
         85632505,
@@ -105,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3427779,
         "gp:id":332248,
-        "qs:id":1062689,
         "qs_pg:id":1062689
     },
     "wof:country":"AR",
@@ -124,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379082,
+    "wof:lastmodified":1566587658,
     "wof:name":"Tellier",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

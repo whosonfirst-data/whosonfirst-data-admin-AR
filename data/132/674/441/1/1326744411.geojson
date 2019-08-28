@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-59.08733,-35.95826,-59.04733,-35.91826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326744411,
-    "wof:lastmodified":1536678077,
+    "wof:lastmodified":1566587542,
     "wof:name":"Coronel Boerr",
     "wof:parent_id":1108717997,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-30.365,
     "lbl:longitude":-64.653914,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cordoba",
     "meso:gadm_admin":"Ischil\u00edn",
     "meso:gadm_hasc2":"AR.CB.IS",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.653914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Departamento Ischil\u00edn"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"5,123.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":20070658,
         "hasc:id":"AR.CB.IS",
-        "qs:id":237436
+        "qs_pg:id":237436
     },
     "wof:country":"AR",
     "wof:created":1459010172,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421204057,
-    "wof:lastmodified":1560898143,
+    "wof:lastmodified":1566588161,
     "wof:name":"Ischilin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

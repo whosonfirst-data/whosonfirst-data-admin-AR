@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-65.9397,-31.49643,-65.8997,-31.45643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "San Solano"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243054919,
-    "wof:lastmodified":1562867244,
+    "wof:lastmodified":1566588429,
     "wof:name":"San Solano",
     "wof:parent_id":1108718341,
     "wof:placetype":"locality",

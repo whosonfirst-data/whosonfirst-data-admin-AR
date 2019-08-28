@@ -10,8 +10,12 @@
     "geom:latitude":-31.33084,
     "geom:longitude":-69.40783,
     "iso:country":"AR",
+    "lbl:bbox":"-69.42783,-31.35084,-69.38783,-31.31084",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0646\u063a\u0633\u0637\u0629"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3863362,
         "gp:id":467143,
-        "qs:id":1047016,
+        "qs_pg:id":1047016,
         "wd:id":"Q2883341"
     },
     "wof:country":"AR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421196075,
-    "wof:lastmodified":1562866860,
+    "wof:lastmodified":1566588252,
     "wof:name":"Calingasta",
     "wof:parent_id":421171513,
     "wof:placetype":"locality",

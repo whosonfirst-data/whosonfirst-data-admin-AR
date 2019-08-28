@@ -11,10 +11,14 @@
     "geom:longitude":-63.94437,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":6914,
+    "gn:population":6914,
     "iso:country":"AR",
+    "lbl:bbox":"-63.96437,-31.36312,-63.92437,-31.32312",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Monte Cristo"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3843871,
         "gp:id":331505,
-        "qs:id":244600,
+        "qs_pg:id":244600,
         "wd:id":"Q9034733",
         "wk:page":"Monte Cristo"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890453023,
-    "wof:lastmodified":1562867110,
+    "wof:lastmodified":1566588359,
     "wof:name":"Monte Cristo",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

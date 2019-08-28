@@ -11,10 +11,14 @@
     "geom:longitude":-60.94617,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":5830,
+    "gn:population":5830,
     "iso:country":"AR",
+    "lbl:bbox":"-60.96617,-26.61926,-60.92617,-26.57926",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Concepci\u00f3n del Bermejo"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3860419,
         "gp:id":91863216,
-        "qs:id":585707,
+        "qs_pg:id":585707,
         "wd:id":"Q785491",
         "wk:page":"Concepci\u00f3n del Bermejo"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890440045,
-    "wof:lastmodified":1562867079,
+    "wof:lastmodified":1566588350,
     "wof:name":"Concepci\u00f3n del Bermejo",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

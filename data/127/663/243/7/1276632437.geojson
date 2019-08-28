@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/La_Rioja",
     "iso:country":"AR",
+    "lbl:bbox":"-69.15119,-28.58961,-69.11119,-28.54961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276632437,
-    "wof:lastmodified":1536874335,
+    "wof:lastmodified":1566587821,
     "wof:name":"Pastos Largos",
     "wof:parent_id":1108718337,
     "wof:placetype":"locality",

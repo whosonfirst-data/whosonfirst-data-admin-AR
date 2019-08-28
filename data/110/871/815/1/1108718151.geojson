@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.421497,
     "lbl:longitude":-65.364363,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Catamarca",
     "meso:gadm_admin":"El Alto",
     "meso:gadm_hasc2":"AR.CT.EA",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.364363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "El Alto"
     ],
@@ -167,9 +170,9 @@
         "\u57c3\u723e\u963f\u723e\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,327.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1108718151,
-    "wof:lastmodified":1564217785,
+    "wof:lastmodified":1566587990,
     "wof:name":"El Alto",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-38.03333,
     "geom:longitude":-60.1,
     "iso:country":"AR",
+    "lbl:bbox":"-60.12,-38.05333,-60.08,-38.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Adolfo Gonzales Chaves"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3866923,
         "gp:id":329842,
-        "qs:id":888042,
+        "qs_pg:id":888042,
         "wd:id":"Q505050",
         "wk:page":"Adolfo Gonz\u00e1les Chaves Partido"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421200591,
-    "wof:lastmodified":1562866942,
+    "wof:lastmodified":1566588283,
     "wof:name":"Adolfo Gonz\u00e1les Chaves",
     "wof:parent_id":1108717851,
     "wof:placetype":"locality",

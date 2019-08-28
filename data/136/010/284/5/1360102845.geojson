@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-62.77792,-37.19668,-62.73792,-37.15668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carhu\u00e9"
     ],
@@ -57,8 +61,7 @@
         "Carhu\u00e9"
     ],
     "name:und_x_variant":[
-        "Adolfo Alsina",
-        "Carhu\u00e9"
+        "Adolfo Alsina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1360102845,
-    "wof:lastmodified":1562866461,
+    "wof:lastmodified":1566588081,
     "wof:name":"Carhue",
     "wof:parent_id":1108717849,
     "wof:placetype":"locality",

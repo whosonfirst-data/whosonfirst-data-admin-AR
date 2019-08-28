@@ -10,10 +10,14 @@
     "geom:latitude":-25.083341,
     "geom:longitude":-64.183354,
     "iso:country":"AR",
+    "lbl:bbox":"-64.2033539242,-25.1033410453,-64.1633539242,-25.0633410453",
     "lbl:latitude":-25.083341,
     "lbl:longitude":-64.183354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0643\u064a\u0646 \u063a\u0648\u0646\u0632\u0627\u0644\u064a\u0633"
     ],
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":1141906765,
-    "wof:lastmodified":1562867512,
+    "wof:lastmodified":1566588573,
     "wof:name":"Joaquin V. Gonzalez",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",

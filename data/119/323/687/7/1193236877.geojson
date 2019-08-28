@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.43667,-27.13667,-64.39667,-27.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uclar",
         "El Uclar"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193236877,
-    "wof:lastmodified":1537584879,
+    "wof:lastmodified":1566587903,
     "wof:name":"El Uclar",
     "wof:parent_id":1108718489,
     "wof:placetype":"locality",

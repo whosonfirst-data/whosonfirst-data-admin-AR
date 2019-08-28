@@ -10,8 +10,12 @@
     "geom:latitude":-28.50918,
     "geom:longitude":-59.04009,
     "iso:country":"AR",
+    "lbl:bbox":"-59.06009,-28.52918,-59.02009,-28.48918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bella Vista"
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":3436062,
         "gp:id":466908,
-        "qs:id":1044649,
+        "qs_pg:id":1044649,
         "wd:id":"Q55855"
     },
     "wof:country":"AR",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421196005,
-    "wof:lastmodified":1562866867,
+    "wof:lastmodified":1566588254,
     "wof:name":"Bella Vista",
     "wof:parent_id":421191015,
     "wof:placetype":"locality",

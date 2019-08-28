@@ -10,8 +10,12 @@
     "geom:latitude":-36.50784,
     "geom:longitude":-56.69503,
     "iso:country":"AR",
+    "lbl:bbox":"-56.71503,-36.52784,-56.67503,-36.48784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Costa Chica"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":8014949,
         "gp:id":56064290,
-        "qs:id":355742
+        "qs_pg:id":355742
     },
     "wof:country":"AR",
     "wof:created":1459009058,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421175171,
-    "wof:lastmodified":1562866796,
+    "wof:lastmodified":1566588228,
     "wof:name":"Costa Chica",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",

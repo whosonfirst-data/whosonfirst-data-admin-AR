@@ -10,8 +10,12 @@
     "geom:latitude":-34.88952,
     "geom:longitude":-58.12579,
     "iso:country":"AR",
+    "lbl:bbox":"-58.14579,-34.90952,-58.10579,-34.86952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Arturo Segu\u00ed"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Arturo Segu\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Segu\u00ed"
     ],
     "qs:gn_country":"AR",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3436249,
         "gp:id":464700,
-        "qs:id":1134818,
+        "qs_pg:id":1134818,
         "wd:id":"Q8206035"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421191281,
-    "wof:lastmodified":1562866883,
+    "wof:lastmodified":1566588261,
     "wof:name":"Arturo Segu\u00ed",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

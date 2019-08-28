@@ -10,8 +10,12 @@
     "geom:latitude":-26.1409,
     "geom:longitude":-59.59541,
     "iso:country":"AR",
+    "lbl:bbox":"-59.61541,-26.1609,-59.57541,-26.1209",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Presidencia Roca"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0456\u0434\u0435\u043d\u0441\u044c\u044f-\u0420\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Presidente Roca"
     ],
     "qs:gn_country":"AR",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3429864,
         "gp:id":466190,
-        "qs:id":291157,
+        "qs_pg:id":291157,
         "wd:id":"Q1657374",
         "wk:page":"Presidencia Roca"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421173575,
-    "wof:lastmodified":1562866714,
+    "wof:lastmodified":1566588191,
     "wof:name":"Presidencia Roca",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

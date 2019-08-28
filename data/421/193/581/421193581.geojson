@@ -10,8 +10,12 @@
     "geom:latitude":-27.51667,
     "geom:longitude":-55.16667,
     "iso:country":"AR",
+    "lbl:bbox":"-55.18667,-27.53667,-55.14667,-27.49667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guaran\u00ed"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0430\u0440\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pueblo Guaran\u00ed"
     ],
     "qs:gn_country":"AR",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3433648,
         "gp:id":465500,
-        "qs:id":925185,
+        "qs_pg:id":925185,
         "wd:id":"Q5613944",
         "wk:page":"Guaran\u00ed, Misiones"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421193581,
-    "wof:lastmodified":1562866585,
+    "wof:lastmodified":1566588140,
     "wof:name":"Guaran\u00ed",
     "wof:parent_id":421198473,
     "wof:placetype":"locality",

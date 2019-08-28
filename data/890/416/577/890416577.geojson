@@ -11,10 +11,14 @@
     "geom:longitude":-64.66253,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":4883,
+    "gn:population":4883,
     "iso:country":"AR",
+    "lbl:bbox":"-64.68253,-24.32921,-64.64253,-24.28921",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Santa Clara"
     ],
@@ -148,7 +152,7 @@
     "wof:concordances":{
         "gn:id":3836407,
         "gp:id":91815613,
-        "qs:id":585491,
+        "qs_pg:id":585491,
         "wd:id":"Q2001906",
         "wk:page":"Santa Clara"
     },
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":890416577,
-    "wof:lastmodified":1562867125,
+    "wof:lastmodified":1566588363,
     "wof:name":"Santa Clara",
     "wof:parent_id":1108718279,
     "wof:placetype":"locality",

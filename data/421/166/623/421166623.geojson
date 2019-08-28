@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-30.423535,
     "lbl:longitude":-68.418705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Juan",
     "meso:gadm_admin":"J\u00e1chal",
     "meso:gadm_hasc2":"AR.SJ.JA",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.418705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de J\u00e1chal"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"14,749.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":20070908,
         "hasc:id":"AR.SJ.JA",
-        "qs:id":1251809
+        "qs_pg:id":1251809
     },
     "wof:country":"AR",
     "wof:created":1459008696,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421166623,
-    "wof:lastmodified":1560898141,
+    "wof:lastmodified":1566588117,
     "wof:name":"Jachal",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

@@ -10,6 +10,9 @@
     "geom:latitude":-24.23127,
     "geom:longitude":-64.86614,
     "iso:country":"AR",
+    "lbl:bbox":"-64.88614,-24.25127,-64.84614,-24.21127",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -194,7 +197,7 @@
     "wof:concordances":{
         "gn:id":3836772,
         "gp:id":332520,
-        "qs:id":1219101,
+        "qs_pg:id":1219101,
         "wd:id":"Q1020263",
         "wk:page":"San Pedro de Jujuy"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421178997,
-    "wof:lastmodified":1562867001,
+    "wof:lastmodified":1566588313,
     "wof:name":"San Pedro",
     "wof:parent_id":421171259,
     "wof:placetype":"locality",

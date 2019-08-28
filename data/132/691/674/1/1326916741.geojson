@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Mendoza",
     "iso:country":"AR",
+    "lbl:bbox":"-69.19568,-33.73077,-69.15568,-33.69077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Andes",
         "Campo Los Andes"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326916741,
-    "wof:lastmodified":1537584898,
+    "wof:lastmodified":1566587586,
     "wof:name":"Campo Los Andes",
     "wof:parent_id":421171485,
     "wof:placetype":"locality",

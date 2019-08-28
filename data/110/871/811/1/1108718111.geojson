@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.785813,
     "lbl:longitude":-59.679552,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Suipacha",
     "meso:gadm_hasc2":"AR.BA.SU",
@@ -37,6 +39,7 @@
     "mps:longitude":-59.679552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Suipacha"
     ],
@@ -56,9 +59,9 @@
         "Suipacha"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"950.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108718111,
-    "wof:lastmodified":1562866250,
+    "wof:lastmodified":1566587957,
     "wof:name":"Suipacha",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

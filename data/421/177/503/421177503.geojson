@@ -10,8 +10,12 @@
     "geom:latitude":-27.95124,
     "geom:longitude":-58.80542,
     "iso:country":"AR",
+    "lbl:bbox":"-58.82542,-27.97124,-58.78542,-27.93124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Empedrado"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3434154,
         "gp:id":467630,
-        "qs:id":1200221,
+        "qs_pg:id":1200221,
         "wd:id":"Q2792846",
         "wk:page":"Empedrado, Corrientes"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421177503,
-    "wof:lastmodified":1562866981,
+    "wof:lastmodified":1566588302,
     "wof:name":"Empedrado",
     "wof:parent_id":421189019,
     "wof:placetype":"locality",

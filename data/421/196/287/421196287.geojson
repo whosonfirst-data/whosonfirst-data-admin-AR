@@ -10,8 +10,12 @@
     "geom:latitude":-34.24968,
     "geom:longitude":-59.46945,
     "iso:country":"AR",
+    "lbl:bbox":"-59.48945,-34.26968,-59.44945,-34.22968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio de Areco"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "San Antonio de Areco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San A. de Areco"
     ],
     "qs:gn_country":"AR",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3429248,
         "gp:id":332504,
-        "qs:id":666435,
+        "qs_pg:id":666435,
         "wd:id":"Q2501423",
         "wk:page":"San Antonio de Areco"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421196287,
-    "wof:lastmodified":1527716361,
+    "wof:lastmodified":1566588241,
     "wof:name":"San Antonio de Areco",
     "wof:parent_id":1108718093,
     "wof:placetype":"locality",

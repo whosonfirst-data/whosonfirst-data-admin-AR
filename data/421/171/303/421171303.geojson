@@ -10,8 +10,12 @@
     "geom:latitude":-32.43293,
     "geom:longitude":-63.24763,
     "iso:country":"AR",
+    "lbl:bbox":"-63.26763,-32.45293,-63.22763,-32.41293",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Nueva"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3832662,
         "gp:id":466765,
-        "qs:id":1233212,
+        "qs_pg:id":1233212,
         "wd:id":"Q6162298"
     },
     "wof:country":"AR",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421171303,
-    "wof:lastmodified":1562867044,
+    "wof:lastmodified":1566588333,
     "wof:name":"Villa Nueva",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

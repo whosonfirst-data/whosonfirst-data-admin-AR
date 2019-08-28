@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.44983,-34.71676,-58.40983,-34.67676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Caraza"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343363059,
-    "wof:lastmodified":1537584828,
+    "wof:lastmodified":1566587599,
     "wof:name":"Caraza",
     "wof:parent_id":421179647,
     "wof:placetype":"locality",

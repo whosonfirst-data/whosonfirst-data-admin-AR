@@ -10,8 +10,12 @@
     "geom:latitude":-40.80064,
     "geom:longitude":-71.60575,
     "iso:country":"AR",
+    "lbl:bbox":"-71.62575,-40.82064,-71.58575,-40.78064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3840091,
         "gp:id":331727,
-        "qs:id":313491
+        "qs_pg:id":313491
     },
     "wof:country":"AR",
     "wof:created":1459009016,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421174001,
-    "wof:lastmodified":1499925029,
+    "wof:lastmodified":1566588177,
     "wof:name":"Puerto Manzano",
     "wof:parent_id":421186305,
     "wof:placetype":"locality",

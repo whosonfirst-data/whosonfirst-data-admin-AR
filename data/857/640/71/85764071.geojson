@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.632325,
     "lbl:longitude":-58.362535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.637843,
     "mps:longitude":-58.347608,
     "mz:hierarchy_label":1,
@@ -125,10 +126,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430 \u0411\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Boca",
-        "Boca"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0628\u0648\u06a9\u0627"
     ],
@@ -163,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -175,7 +172,7 @@
     "wof:concordances":{
         "gn:id":3436004,
         "gp:id":330019,
-        "qs:id":232757,
+        "qs_pg:id":232757,
         "wd:id":"Q690649",
         "wk:page":"La Boca"
     },
@@ -195,7 +192,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865733,
+    "wof:lastmodified":1566587666,
     "wof:name":"La Boca",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

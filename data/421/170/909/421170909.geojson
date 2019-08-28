@@ -10,8 +10,12 @@
     "geom:latitude":-32.24309,
     "geom:longitude":-63.9807,
     "iso:country":"AR",
+    "lbl:bbox":"-64.0007,-32.26309,-63.9607,-32.22309",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tancacha"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3834665,
         "gp:id":466575,
-        "qs:id":271146,
+        "qs_pg:id":271146,
         "wd:id":"Q9081736"
     },
     "wof:country":"AR",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421170909,
-    "wof:lastmodified":1562866970,
+    "wof:lastmodified":1566588295,
     "wof:name":"Tancacha",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

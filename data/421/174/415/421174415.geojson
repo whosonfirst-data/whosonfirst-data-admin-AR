@@ -10,8 +10,12 @@
     "geom:latitude":-27.34278,
     "geom:longitude":-65.59726,
     "iso:country":"AR",
+    "lbl:bbox":"-65.61726,-27.36278,-65.57726,-27.32278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0628\u0633\u064a\u0648\u0646\u060c \u062a\u0648\u0643\u0648\u0645\u0627\u0646"
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3860427,
         "gp:id":466936,
-        "qs:id":833791,
+        "qs_pg:id":833791,
         "wd:id":"Q1123806",
         "wk:page":"Concepci\u00f3n, Tucum\u00e1n"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421174415,
-    "wof:lastmodified":1562866670,
+    "wof:lastmodified":1566588174,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":421178317,
     "wof:placetype":"locality",

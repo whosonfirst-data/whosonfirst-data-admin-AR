@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-35.642299,
     "lbl:longitude":-64.217144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Pampa",
     "meso:gadm_admin":"Trenel",
     "meso:gadm_hasc2":"AR.LP.TR",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.217144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Trenel"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,955.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":20070696,
         "hasc:id":"AR.LP.TR",
-        "qs:id":13423,
+        "qs_pg:id":13423,
         "wd:id":"Q3037564"
     },
     "wof:country":"AR",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421177929,
-    "wof:lastmodified":1562866987,
+    "wof:lastmodified":1566588304,
     "wof:name":"Trenel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.69467,
     "geom:longitude":-58.31287,
     "iso:country":"AR",
+    "lbl:bbox":"-58.33287,-34.71467,-58.29287,-34.67467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u064a\u0644\u062f"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Wilde"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3427326,
         "gp:id":466821,
-        "qs:id":242752,
+        "qs_pg:id":242752,
         "wd:id":"Q3315977",
         "wk:page":"Wilde, Buenos Aires"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421204613,
-    "wof:lastmodified":1562866631,
+    "wof:lastmodified":1566588157,
     "wof:name":"Wilde",
     "wof:parent_id":421191687,
     "wof:placetype":"locality",

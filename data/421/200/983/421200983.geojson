@@ -10,8 +10,12 @@
     "geom:latitude":-30.91858,
     "geom:longitude":-62.67814,
     "iso:country":"AR",
+    "lbl:bbox":"-62.69814,-30.93858,-62.65814,-30.89858",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Miramar"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3844159,
         "gp:id":467007,
-        "qs:id":1327475,
+        "qs_pg:id":1327475,
         "wd:id":"Q991707",
         "wk:page":"Miramar, C\u00f3rdoba"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421200983,
-    "wof:lastmodified":1562866933,
+    "wof:lastmodified":1566588281,
     "wof:name":"Miramar",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-24.18027,
     "geom:longitude":-65.26379,
     "iso:country":"AR",
+    "lbl:bbox":"-65.28379,-24.20027,-65.24379,-24.16027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3866046,
         "gp:id":464596,
-        "qs:id":267204
+        "qs_pg:id":267204
     },
     "wof:country":"AR",
     "wof:created":1459008693,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421166525,
-    "wof:lastmodified":1499925304,
+    "wof:lastmodified":1566588118,
     "wof:name":"Alto la Vi\u00f1a",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.6711,-34.24612,-60.6311,-34.20612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226060313,
-    "wof:lastmodified":1536704446,
+    "wof:lastmodified":1566588553,
     "wof:name":"Guido Spano",
     "wof:parent_id":1108718077,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-35.30094,
     "geom:longitude":-59.16821,
     "iso:country":"AR",
+    "lbl:bbox":"-59.18821,-35.32094,-59.14821,-35.28094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Salvador Mar\u00eda del Carril"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3429355,
         "gp:id":467886,
-        "qs:id":221894
+        "qs_pg:id":221894
     },
     "wof:country":"AR",
     "wof:created":1459010116,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421202407,
-    "wof:lastmodified":1499925090,
+    "wof:lastmodified":1566588168,
     "wof:name":"Salvador Mar\u00eda",
     "wof:parent_id":1108718007,
     "wof:placetype":"locality",

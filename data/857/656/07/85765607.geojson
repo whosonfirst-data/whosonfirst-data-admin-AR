@@ -9,15 +9,15 @@
     "geom:bbox":"-58.4947856336,-34.6246298693,-58.4716211588,-34.6081267543",
     "geom:latitude":-34.616193,
     "geom:longitude":-58.482957,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":34000,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.61082,
     "gn:longitude":-58.481,
     "gn:population":34000,
     "iso:country":"AR",
     "lbl:latitude":-34.616126,
     "lbl:longitude":-58.482781,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.62417,
     "mps:longitude":-58.474728,
     "mz:hierarchy_label":1,
@@ -79,9 +79,6 @@
     "name:swe_x_preferred":[
         "Villa Santa Rita"
     ],
-    "name:unk_x_variant":[
-        "Villa Santa Rita"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -130,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -144,7 +141,6 @@
     "wof:concordances":{
         "gn:id":6693230,
         "gp:id":22530018,
-        "qs:id":23818,
         "qs_pg:id":23818,
         "wd:id":"Q1026695",
         "wk:page":"Villa Santa Rita"
@@ -165,7 +161,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865723,
+    "wof:lastmodified":1566587663,
     "wof:name":"Villa Santa Rita",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

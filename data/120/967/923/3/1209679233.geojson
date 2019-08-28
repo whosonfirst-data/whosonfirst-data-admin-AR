@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.66531,-25.83214,-64.62531,-25.79214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Bordo"
     ],
@@ -39,8 +43,7 @@
         "El Bordo"
     ],
     "name:und_x_variant":[
-        "Recreo",
-        "El Bordo"
+        "Recreo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209679233,
-    "wof:lastmodified":1562866111,
+    "wof:lastmodified":1566587871,
     "wof:name":"El Bordo",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

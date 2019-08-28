@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-57.26007,-28.92586,-57.22007,-28.88586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310494137,
-    "wof:lastmodified":1536934079,
+    "wof:lastmodified":1566588021,
     "wof:name":"Capitania Balsa",
     "wof:parent_id":421171455,
     "wof:placetype":"locality",

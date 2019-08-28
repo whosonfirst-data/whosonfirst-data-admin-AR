@@ -10,8 +10,12 @@
     "geom:latitude":-33.3839,
     "geom:longitude":-64.72211,
     "iso:country":"AR",
+    "lbl:bbox":"-64.74211,-33.4039,-64.70211,-33.3639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sampacho"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3838201,
         "gp:id":467057,
-        "qs:id":925260,
+        "qs_pg:id":925260,
         "wd:id":"Q2982604"
     },
     "wof:country":"AR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421175113,
-    "wof:lastmodified":1562866796,
+    "wof:lastmodified":1566588228,
     "wof:name":"Sampacho",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

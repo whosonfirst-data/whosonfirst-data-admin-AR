@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.87,-29.17,-59.83,-29.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colonia N. Molinas",
         "Nicanor Molina",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360044275,
-    "wof:lastmodified":1537584820,
+    "wof:lastmodified":1566588084,
     "wof:name":"Nicanor E. Molinas",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

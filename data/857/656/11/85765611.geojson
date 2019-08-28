@@ -15,6 +15,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.603686,
     "lbl:longitude":-58.380514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.606818,
     "mps:longitude":-58.380579,
     "mz:hierarchy_label":1,
@@ -79,9 +80,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u041d\u0438\u043a\u043e\u043b\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "San Nicolas"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u5c3c\u53e4\u62c9\u65af"
     ],
@@ -113,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -126,7 +124,7 @@
         "fct:id":"031b2588-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6693229,
         "gp:id":22530019,
-        "qs:id":212295,
+        "qs_pg:id":212295,
         "wd:id":"Q2006239",
         "wk:page":"San Nicol\u00e1s, Buenos Aires"
     },
@@ -146,7 +144,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865722,
+    "wof:lastmodified":1566587663,
     "wof:name":"San Nicolas",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

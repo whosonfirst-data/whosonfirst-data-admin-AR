@@ -10,8 +10,12 @@
     "geom:latitude":-27.48706,
     "geom:longitude":-55.11994,
     "iso:country":"AR",
+    "lbl:bbox":"-55.13994,-27.50706,-55.09994,-27.46706",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0648\u0628\u064a\u0631\u0627"
@@ -82,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yerbal Viejo"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3430340,
         "gp:id":467017,
-        "qs:id":967960,
+        "qs_pg:id":967960,
         "wd:id":"Q55377",
         "wk:page":"Ober\u00e1"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421175461,
-    "wof:lastmodified":1562866795,
+    "wof:lastmodified":1566588227,
     "wof:name":"Ober\u00e1",
     "wof:parent_id":421198473,
     "wof:placetype":"locality",

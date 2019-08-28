@@ -10,8 +10,12 @@
     "geom:latitude":-37.95269,
     "geom:longitude":-57.77161,
     "iso:country":"AR",
+    "lbl:bbox":"-57.79161,-37.97269,-57.75161,-37.93269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sierra de los Padres"
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u044c\u0454\u0440\u0440\u0430-\u0434\u0435-\u043b\u043e\u0441-\u041f\u0430\u0434\u0440\u0435\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Sierra de los Padres"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3427958,
         "gp:id":466486,
-        "qs:id":1062541,
+        "qs_pg:id":1062541,
         "wd:id":"Q940095",
         "wk:page":"Sierra de los Padres"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421186249,
-    "wof:lastmodified":1561793244,
+    "wof:lastmodified":1566588214,
     "wof:name":"Sierra de Los Padres",
     "wof:parent_id":1108717963,
     "wof:placetype":"locality",

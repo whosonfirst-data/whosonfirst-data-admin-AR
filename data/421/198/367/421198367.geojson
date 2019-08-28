@@ -10,8 +10,12 @@
     "geom:latitude":-31.15231,
     "geom:longitude":-63.40191,
     "iso:country":"AR",
+    "lbl:bbox":"-63.42191,-31.17231,-63.38191,-31.13231",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Rosa de R\u00edo Primero"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430-\u0434\u0435-\u0420\u0456\u043e-\u041f\u0440\u0456\u043c\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Santa Rosa"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3835938,
         "gp:id":468769,
-        "qs:id":181977,
+        "qs_pg:id":181977,
         "wd:id":"Q2765854",
         "wk:page":"Santa Rosa de R\u00edo Primero"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421198367,
-    "wof:lastmodified":1561793248,
+    "wof:lastmodified":1566588234,
     "wof:name":"Santa Rosa de R\u00edo Primero",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

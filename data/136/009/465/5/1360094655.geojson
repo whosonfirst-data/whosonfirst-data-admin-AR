@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-59.24313,-35.19421,-59.20313,-35.15421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "J. Santos Ar\u00e9valo",
         "Jos\u00e9 S. Ar\u00e9valo",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360094655,
-    "wof:lastmodified":1537584823,
+    "wof:lastmodified":1566588070,
     "wof:name":"Jose Santos Arevalo",
     "wof:parent_id":1108718007,
     "wof:placetype":"locality",

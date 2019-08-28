@@ -10,8 +10,12 @@
     "geom:latitude":-35.39794,
     "geom:longitude":-59.33271,
     "iso:country":"AR",
+    "lbl:bbox":"-59.35271,-35.41794,-59.31271,-35.37794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Roque P\u00e9rez"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u0435-\u041f\u0435\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R. P\u00e9rez"
     ],
     "qs:gn_country":"AR",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3429450,
         "gp:id":467881,
-        "qs:id":861945,
+        "qs_pg:id":861945,
         "wd:id":"Q2149613",
         "wk:page":"Roque P\u00e9rez"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421174455,
-    "wof:lastmodified":1562866674,
+    "wof:lastmodified":1566588176,
     "wof:name":"Roque P\u00e9rez",
     "wof:parent_id":1108718079,
     "wof:placetype":"locality",

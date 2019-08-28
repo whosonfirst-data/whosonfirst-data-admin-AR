@@ -10,8 +10,11 @@
     "geom:latitude":-34.68333,
     "geom:longitude":-58.46667,
     "iso:country":"AR",
+    "lbl:bbox":"-58.47167,-34.68833,-58.46167,-34.67833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u063a\u0648\u0633\u062a\u064a\u0646 \u0628\u064a\u062f\u0631\u0648 \u062e\u0648\u0633\u062a\u0648"
@@ -63,17 +66,17 @@
     "qs:woe_id":331426,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85668081,
         102191577,
         85632505,
         421174285,
-        1109371865
+        1109371865,
+        85668081
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3430990,
         "gp:id":331426,
-        "qs:id":401966
+        "qs_pg:id":401966
     },
     "wof:country":"AR",
     "wof:created":1459009423,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421184803,
-    "wof:lastmodified":1531858545,
+    "wof:lastmodified":1566588290,
     "wof:name":"Luis J. Garc\u00eda",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

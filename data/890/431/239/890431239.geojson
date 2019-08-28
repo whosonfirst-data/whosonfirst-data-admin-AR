@@ -11,10 +11,14 @@
     "geom:longitude":-58.93292,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":3529,
+    "gn:population":3529,
     "iso:country":"AR",
+    "lbl:bbox":"-58.95292,-28.93705,-58.91292,-28.89705",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gobernador Juan E. Mart\u00ednez"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Gobernador Juan E. Mart\u00ednez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yatay"
     ],
     "qs:name":"Gobernador Juan E. Mart\u00ednez",
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3433751,
-        "qs:id":583303,
+        "qs_pg:id":583303,
         "wd:id":"Q5881697"
     },
     "wof:country":"AR",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890431239,
-    "wof:lastmodified":1562867108,
+    "wof:lastmodified":1566588358,
     "wof:name":"Gobernador Juan E. Mart\u00ednez",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

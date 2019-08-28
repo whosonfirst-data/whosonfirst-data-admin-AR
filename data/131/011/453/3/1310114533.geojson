@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-67.12587,-27.726,-67.08587,-27.686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Represa"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310114533,
-    "wof:lastmodified":1562866387,
+    "wof:lastmodified":1566588043,
     "wof:name":"La Represa",
     "wof:parent_id":421204045,
     "wof:placetype":"locality",

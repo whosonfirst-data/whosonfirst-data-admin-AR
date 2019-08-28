@@ -10,8 +10,12 @@
     "geom:latitude":-31.89882,
     "geom:longitude":-64.77331,
     "iso:country":"AR",
+    "lbl:bbox":"-64.79331,-31.91882,-64.75331,-31.87882",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Cumbrecita"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":6948895,
         "gp:id":22528935,
-        "qs:id":241496,
+        "qs_pg:id":241496,
         "wd:id":"Q48295",
         "wk:page":"La Cumbrecita"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204549,
-    "wof:lastmodified":1562866642,
+    "wof:lastmodified":1566588162,
     "wof:name":"La Cumbrecita",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

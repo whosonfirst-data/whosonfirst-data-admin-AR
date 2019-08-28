@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-59.47444,-28.26258,-59.43444,-28.22258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guillermina",
         "Guillermino",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192977491,
-    "wof:lastmodified":1537584813,
+    "wof:lastmodified":1566587912,
     "wof:name":"Villa Guillermina",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

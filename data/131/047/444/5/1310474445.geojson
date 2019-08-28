@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-71.17,-41.13667,-71.13,-41.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00d1irihuau"
     ],
@@ -38,8 +42,7 @@
     ],
     "name:und_x_variant":[
         "Nirihau",
-        "Nirihuao",
-        "\u00d1irihuau"
+        "Nirihuao"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310474445,
-    "wof:lastmodified":1562866350,
+    "wof:lastmodified":1566588023,
     "wof:name":"Nirihuau",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

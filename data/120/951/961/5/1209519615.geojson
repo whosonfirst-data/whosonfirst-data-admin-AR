@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-63.14291,-35.06896,-63.10291,-35.02896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209519615,
-    "wof:lastmodified":1536284622,
+    "wof:lastmodified":1566587875,
     "wof:name":"Elordi",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

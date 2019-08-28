@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-54.15082,-27.31885,-54.11082,-27.27885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Monteagudo"
     ],
@@ -63,8 +67,7 @@
         "Monteagudo"
     ],
     "name:und_x_variant":[
-        "Moteagudo",
-        "Monteagudo"
+        "Moteagudo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1276410995,
-    "wof:lastmodified":1562866000,
+    "wof:lastmodified":1566587814,
     "wof:name":"Monteagudo",
     "wof:parent_id":421175303,
     "wof:placetype":"locality",

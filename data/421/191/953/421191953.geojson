@@ -10,8 +10,12 @@
     "geom:latitude":-32.7566,
     "geom:longitude":-63.78611,
     "iso:country":"AR",
+    "lbl:bbox":"-63.80611,-32.7766,-63.76611,-32.7366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Deheza"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0414\u0435\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deheza"
     ],
     "qs:gn_country":"AR",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3855118,
         "gp:id":330681,
-        "qs:id":1164485,
+        "qs_pg:id":1164485,
         "wd:id":"Q2507132"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421191953,
-    "wof:lastmodified":1562866875,
+    "wof:lastmodified":1566588257,
     "wof:name":"General Deheza",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

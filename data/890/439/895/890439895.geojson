@@ -11,10 +11,14 @@
     "geom:longitude":-62.41667,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":10959,
+    "gn:population":10959,
     "iso:country":"AR",
+    "lbl:bbox":"-62.43667,-27.65333,-62.39667,-27.61333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Quimil\u00ed"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3839565,
         "gp:id":91862933,
-        "qs:id":1244305,
+        "qs_pg:id":1244305,
         "wd:id":"Q1015595",
         "wk:page":"Quimil\u00ed"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890439895,
-    "wof:lastmodified":1562867091,
+    "wof:lastmodified":1566588353,
     "wof:name":"Quimil\u00ed",
     "wof:parent_id":1108718497,
     "wof:placetype":"locality",

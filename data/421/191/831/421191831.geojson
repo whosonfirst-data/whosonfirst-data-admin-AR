@@ -10,8 +10,12 @@
     "geom:latitude":-32.91656,
     "geom:longitude":-65.37535,
     "iso:country":"AR",
+    "lbl:bbox":"-65.39535,-32.93656,-65.35535,-32.89656",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Naschel"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3843407,
         "gp:id":467798,
-        "qs:id":1156438,
+        "qs_pg:id":1156438,
         "wd:id":"Q1257238",
         "wk:page":"Naschel"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421191831,
-    "wof:lastmodified":1562866900,
+    "wof:lastmodified":1566588267,
     "wof:name":"Naschel",
     "wof:parent_id":1108718441,
     "wof:placetype":"locality",

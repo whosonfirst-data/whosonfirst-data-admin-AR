@@ -10,8 +10,12 @@
     "geom:latitude":-24.23592,
     "geom:longitude":-66.40713,
     "iso:country":"AR",
+    "lbl:bbox":"-66.42713,-24.25592,-66.38713,-24.21592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chorrillos"
@@ -19,7 +23,7 @@
     "name:swe_x_preferred":[
         "Chorrillos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chorillos"
     ],
     "qs:gn_country":"AR",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3861284,
         "gp:id":465061,
-        "qs:id":1270792
+        "qs_pg:id":1270792
     },
     "wof:country":"AR",
     "wof:created":1459008910,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421171871,
-    "wof:lastmodified":1562867048,
+    "wof:lastmodified":1566588335,
     "wof:name":"Chorrillos",
     "wof:parent_id":1108718411,
     "wof:placetype":"locality",

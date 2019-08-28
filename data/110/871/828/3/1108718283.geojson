@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.486305,
     "lbl:longitude":-65.014458,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Valle Grande",
     "meso:gadm_hasc2":"AR.JY.VG",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.014458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Valle Grande"
     ],
@@ -53,9 +56,9 @@
         "Valle Grande"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"962.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108718283,
-    "wof:lastmodified":1562866256,
+    "wof:lastmodified":1566587961,
     "wof:name":"Valle Grande",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

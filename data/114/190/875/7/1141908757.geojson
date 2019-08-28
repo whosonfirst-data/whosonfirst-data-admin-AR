@@ -10,10 +10,14 @@
     "geom:latitude":-38.900017,
     "geom:longitude":-70.066664,
     "iso:country":"AR",
+    "lbl:bbox":"-70.0866640642,-38.9200170708,-70.0466640642,-38.8800170708",
     "lbl:latitude":-38.900017,
     "lbl:longitude":-70.066664,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0628\u0627\u0644\u0627"
     ],
@@ -193,7 +197,7 @@
     "wof:concordances":{
         "gn:id":3832132,
         "gp:id":467088,
-        "qs:id":1165588,
+        "qs_pg:id":1165588,
         "wd:id":"Q147196",
         "wk:page":"Zapala"
     },
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":1141908757,
-    "wof:lastmodified":1562867506,
+    "wof:lastmodified":1566588570,
     "wof:name":"Zapala",
     "wof:parent_id":421191185,
     "wof:placetype":"locality",

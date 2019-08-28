@@ -10,8 +10,12 @@
     "geom:latitude":-36.84258,
     "geom:longitude":-60.22611,
     "iso:country":"AR",
+    "lbl:bbox":"-60.24611,-36.86258,-60.20611,-36.82258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sierra Chica"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3835306,
         "gp:id":466481,
-        "qs:id":1222503,
+        "qs_pg:id":1222503,
         "wd:id":"Q3389948"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421169365,
-    "wof:lastmodified":1562866598,
+    "wof:lastmodified":1566588145,
     "wof:name":"Sierra Chica",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

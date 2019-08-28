@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.59599,-27.32568,-65.55599,-27.28568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arcadia"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225902119,
-    "wof:lastmodified":1562867438,
+    "wof:lastmodified":1566588534,
     "wof:name":"Arcadia",
     "wof:parent_id":421178317,
     "wof:placetype":"locality",

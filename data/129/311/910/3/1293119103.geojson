@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-65.50413,-24.19668,-65.46413,-24.15668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293119103,
-    "wof:lastmodified":1536820351,
+    "wof:lastmodified":1566587750,
     "wof:name":"Termas de Reyes",
     "wof:parent_id":421169781,
     "wof:placetype":"locality",

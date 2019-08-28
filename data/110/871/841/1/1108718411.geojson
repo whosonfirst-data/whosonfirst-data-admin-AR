@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-24.640394,
     "lbl:longitude":-67.339758,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"Los Andes",
     "meso:gadm_hasc2":"AR.SA.LA",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.339758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Los Andes"
     ],
@@ -74,9 +77,9 @@
         "Los Andes"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"25,636.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108718411,
-    "wof:lastmodified":1562866285,
+    "wof:lastmodified":1566587984,
     "wof:name":"Los Andes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

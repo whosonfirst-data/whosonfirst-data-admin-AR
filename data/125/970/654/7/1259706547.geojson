@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-63.26398,-32.68167,-63.22398,-32.64167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0432\u0437\u043e\u043d\u0438\u044f"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1259706547,
-    "wof:lastmodified":1562867316,
+    "wof:lastmodified":1566588468,
     "wof:name":"Ausonia",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

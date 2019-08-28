@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-59.85967,-34.7582,-59.81967,-34.7182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rom\u00e1n B\u00e1ez",
         "R. B\u00e1ez",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326547837,
-    "wof:lastmodified":1537584816,
+    "wof:lastmodified":1566587590,
     "wof:name":"Ramon Baez",
     "wof:parent_id":1108718111,
     "wof:placetype":"locality",

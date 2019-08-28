@@ -10,8 +10,12 @@
     "geom:latitude":-33.22377,
     "geom:longitude":-66.22509,
     "iso:country":"AR",
+    "lbl:bbox":"-66.24509,-33.24377,-66.20509,-33.20377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Circuito de Potrero de los Funes"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Circuito de Potrero de los Funes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potrero Funes"
     ],
     "qs:gn_country":"AR",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3840631,
         "gp:id":466155,
-        "qs:id":906648,
+        "qs_pg:id":906648,
         "wd:id":"Q169280"
     },
     "wof:country":"AR",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421194743,
-    "wof:lastmodified":1561793227,
+    "wof:lastmodified":1566588138,
     "wof:name":"Potrero de Los Funes",
     "wof:parent_id":1108718445,
     "wof:placetype":"locality",

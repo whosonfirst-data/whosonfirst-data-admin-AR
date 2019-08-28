@@ -24,8 +24,12 @@
     "gn:population":2671,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.8465,-28.86051,-58.8065,-28.82051",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "9 de Julio",
         "Nueve de Julio"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310398179,
-    "wof:lastmodified":1537584820,
+    "wof:lastmodified":1566588036,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

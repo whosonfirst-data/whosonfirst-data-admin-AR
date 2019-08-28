@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1242037.73902,
+    "geom:area_square_m":1242037.739021,
     "geom:bbox":"-58.4832944531,-34.6693585452,-58.4680871361,-34.6580630118",
     "geom:latitude":-34.664369,
     "geom:longitude":-58.476165,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.66667,
     "gn:longitude":-58.48333,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.665852,
     "lbl:longitude":-58.47114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.664555,
     "mps:longitude":-58.47678,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:spa_x_preferred":[
-        "Calaza"
-    ],
-    "name:unk_x_variant":[
         "Calaza"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -81,8 +79,7 @@
     "qs_pg:woe_id":330047,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -94,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3435838,
         "gp:id":330047,
-        "qs:id":268070,
         "qs_pg:id":268070
     },
     "wof:country":"AR",
@@ -113,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379084,
+    "wof:lastmodified":1566587664,
     "wof:name":"Calaza",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

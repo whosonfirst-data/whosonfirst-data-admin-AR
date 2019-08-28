@@ -10,8 +10,12 @@
     "geom:latitude":-34.17269,
     "geom:longitude":-59.78987,
     "iso:country":"AR",
+    "lbl:bbox":"-59.80987,-34.19269,-59.76987,-34.15269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Capit\u00e1n Sarmiento"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3435690,
         "gp:id":464944,
-        "qs:id":304309,
+        "qs_pg:id":304309,
         "wd:id":"Q3246516"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421173905,
-    "wof:lastmodified":1562866718,
+    "wof:lastmodified":1566588193,
     "wof:name":"Capit\u00e1n Sarmiento",
     "wof:parent_id":1108717889,
     "wof:placetype":"locality",

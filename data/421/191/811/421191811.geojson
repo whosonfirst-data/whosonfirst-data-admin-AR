@@ -10,8 +10,12 @@
     "geom:latitude":-34.62537,
     "geom:longitude":-59.25556,
     "iso:country":"AR",
+    "lbl:bbox":"-59.27556,-34.64537,-59.23556,-34.60537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Olivera"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3430311,
         "gp:id":465975,
-        "qs:id":1156104
+        "qs_pg:id":1156104
     },
     "wof:country":"AR",
     "wof:created":1459009710,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421191811,
-    "wof:lastmodified":1527716372,
+    "wof:lastmodified":1566588259,
     "wof:name":"Olivera",
     "wof:parent_id":1108718009,
     "wof:placetype":"locality",

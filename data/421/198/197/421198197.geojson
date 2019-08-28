@@ -10,8 +10,12 @@
     "geom:latitude":-31.68333,
     "geom:longitude":-68.58333,
     "iso:country":"AR",
+    "lbl:bbox":"-68.60333,-31.70333,-68.56333,-31.66333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:dan_x_preferred":[
         "Departementet Pocito"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3840860,
         "gp:id":331664,
-        "qs:id":180539,
+        "qs_pg:id":180539,
         "wd:id":"Q1190967",
         "wk:page":"Pocito Department"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421198197,
-    "wof:lastmodified":1562866813,
+    "wof:lastmodified":1566588234,
     "wof:name":"Pocito",
     "wof:parent_id":421203709,
     "wof:placetype":"locality",

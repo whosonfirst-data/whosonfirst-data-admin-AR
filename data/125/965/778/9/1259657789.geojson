@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.20135,-30.20985,-61.16135,-30.16985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Santurce"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259657789,
-    "wof:lastmodified":1562867295,
+    "wof:lastmodified":1566588455,
     "wof:name":"Santurce",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

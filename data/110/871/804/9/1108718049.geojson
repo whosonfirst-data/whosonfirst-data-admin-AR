@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-36.272889,
     "lbl:longitude":-63.201324,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Pellegrini",
     "meso:gadm_hasc2":"AR.BA.PE",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.201324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Pellegrini"
     ],
@@ -92,9 +95,9 @@
         "\u041f\u0435\u043b\u043b\u0435\u0433\u0440\u0456\u043d\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,853.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1108718049,
-    "wof:lastmodified":1562866265,
+    "wof:lastmodified":1566587969,
     "wof:name":"Pellegrini",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

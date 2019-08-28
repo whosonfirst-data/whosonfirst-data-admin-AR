@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.75333,-29.38667,-61.71333,-29.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Independ\u00e8ncia"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1276183601,
-    "wof:lastmodified":1562865945,
+    "wof:lastmodified":1566587783,
     "wof:name":"Independencia",
     "wof:parent_id":1108718455,
     "wof:placetype":"locality",

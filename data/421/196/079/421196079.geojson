@@ -10,8 +10,12 @@
     "geom:latitude":-27.03084,
     "geom:longitude":-65.30315,
     "iso:country":"AR",
+    "lbl:bbox":"-65.32315,-27.05084,-65.28315,-27.01084",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bella Vista"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3864375,
         "gp:id":466907,
-        "qs:id":1047028,
+        "qs_pg:id":1047028,
         "wd:id":"Q815781",
         "wk:page":"Bella Vista, Tucum\u00e1n"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421196079,
-    "wof:lastmodified":1562866833,
+    "wof:lastmodified":1566588241,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108718525,
     "wof:placetype":"locality",

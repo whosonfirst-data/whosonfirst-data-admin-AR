@@ -10,8 +10,12 @@
     "geom:latitude":-34.453239,
     "geom:longitude":-58.84473,
     "iso:country":"AR",
+    "lbl:bbox":"-58.86473,-34.473239,-58.82473,-34.433239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u0644\u062d\u0631\u064a\u0631"
@@ -126,7 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22528582,
-        "qs:id":268687
+        "qs_pg:id":268687
     },
     "wof:country":"AR",
     "wof:created":1459008697,
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421166635,
-    "wof:lastmodified":1527716103,
+    "wof:lastmodified":1566588115,
     "wof:name":"La Lonja",
     "wof:parent_id":1108718057,
     "wof:placetype":"locality",

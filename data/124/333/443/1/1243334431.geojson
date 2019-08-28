@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-54.64808,-26.12844,-54.60808,-26.08844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerto Yrigoyen",
         "Puerto Hip\u00f3lito Irigoyen",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243334431,
-    "wof:lastmodified":1537584818,
+    "wof:lastmodified":1566588428,
     "wof:name":"Puerto Irigoyen",
     "wof:parent_id":421198471,
     "wof:placetype":"locality",

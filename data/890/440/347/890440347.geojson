@@ -11,10 +11,14 @@
     "geom:longitude":-65.9787,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":7779,
+    "gn:population":7779,
     "iso:country":"AR",
+    "lbl:bbox":"-65.9987,-28.74533,-65.9587,-28.70533",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Huillapima"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3853981,
         "gp:id":91815747,
-        "qs:id":279892,
+        "qs_pg:id":279892,
         "wd:id":"Q81653",
         "wk:page":"Huillapima"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890440347,
-    "wof:lastmodified":1562867077,
+    "wof:lastmodified":1566588350,
     "wof:name":"Huillapima",
     "wof:parent_id":1108718147,
     "wof:placetype":"locality",

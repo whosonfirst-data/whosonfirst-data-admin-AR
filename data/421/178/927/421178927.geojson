@@ -10,8 +10,12 @@
     "geom:latitude":-33.35369,
     "geom:longitude":-63.71849,
     "iso:country":"AR",
+    "lbl:bbox":"-63.73849,-33.37369,-63.69849,-33.33369",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Alejandro Roca"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u0445\u0430\u043d\u0434\u0440\u043e-\u0420\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alejandro"
     ],
     "qs:gn_country":"AR",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3866356,
         "gp:id":468740,
-        "qs:id":291497,
+        "qs_pg:id":291497,
         "wd:id":"Q8194200"
     },
     "wof:country":"AR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421178927,
-    "wof:lastmodified":1562867009,
+    "wof:lastmodified":1566588315,
     "wof:name":"Alejandro Roca",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

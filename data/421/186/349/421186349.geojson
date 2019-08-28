@@ -10,8 +10,12 @@
     "geom:latitude":-38.96667,
     "geom:longitude":-68.23333,
     "iso:country":"AR",
+    "lbl:bbox":"-68.25333,-38.98667,-68.21333,-38.94667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Plottier"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3840885,
         "gp:id":466136,
-        "qs:id":1064533,
+        "qs_pg:id":1064533,
         "wd:id":"Q1017590",
         "wk:page":"Plottier"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421186349,
-    "wof:lastmodified":1562866759,
+    "wof:lastmodified":1566588211,
     "wof:name":"Plottier",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

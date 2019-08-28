@@ -10,8 +10,12 @@
     "geom:latitude":-37.03333,
     "geom:longitude":-62.41667,
     "iso:country":"AR",
+    "lbl:bbox":"-62.43667,-37.05333,-62.39667,-37.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guamin\u00ed"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3854604,
         "gp:id":466980,
-        "qs:id":150489,
+        "qs_pg:id":150489,
         "wd:id":"Q1973966",
         "wk:page":"Guamin\u00ed"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421195323,
-    "wof:lastmodified":1562866550,
+    "wof:lastmodified":1566588127,
     "wof:name":"Guamin\u00ed",
     "wof:parent_id":1108717975,
     "wof:placetype":"locality",

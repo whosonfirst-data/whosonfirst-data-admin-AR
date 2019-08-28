@@ -10,6 +10,9 @@
     "geom:latitude":-38.7196,
     "geom:longitude":-62.27243,
     "iso:country":"AR",
+    "lbl:bbox":"-62.29243,-38.7396,-62.25243,-38.6996",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
@@ -439,7 +442,7 @@
     "wof:concordances":{
         "gn:id":3865086,
         "gp:id":466866,
-        "qs:id":1327035,
+        "qs_pg:id":1327035,
         "wd:id":"Q54108",
         "wk:page":"Bah\u00eda Blanca"
     },
@@ -456,7 +459,7 @@
         }
     ],
     "wof:id":421193467,
-    "wof:lastmodified":1562866590,
+    "wof:lastmodified":1566588142,
     "wof:name":"Bah\u00eda Blanca",
     "wof:parent_id":1108717863,
     "wof:placetype":"locality",

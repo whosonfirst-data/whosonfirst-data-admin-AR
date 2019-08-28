@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Rio_Gallegos",
     "iso:country":"AR",
+    "lbl:bbox":"-71.50333,-51.05333,-71.46333,-51.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fuentes del Coig",
         "Fuentes de Coyle",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326591725,
-    "wof:lastmodified":1537584876,
+    "wof:lastmodified":1566587548,
     "wof:name":"Fuentes del Coyle",
     "wof:parent_id":421200655,
     "wof:placetype":"locality",

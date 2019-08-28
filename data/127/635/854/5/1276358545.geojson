@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.63233,-32.07386,-60.59233,-32.03386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Strobel"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276358545,
-    "wof:lastmodified":1562865960,
+    "wof:lastmodified":1566587793,
     "wof:name":"Strobel",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

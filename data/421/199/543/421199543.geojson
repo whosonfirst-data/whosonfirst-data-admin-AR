@@ -10,8 +10,12 @@
     "geom:latitude":-27.03786,
     "geom:longitude":-58.70347,
     "iso:country":"AR",
+    "lbl:bbox":"-58.72347,-27.05786,-58.68347,-27.01786",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Leonesa"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3432355,
         "gp:id":332797,
-        "qs:id":194232,
+        "qs_pg:id":194232,
         "wd:id":"Q1657423",
         "wk:page":"La Leonesa"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421199543,
-    "wof:lastmodified":1562866921,
+    "wof:lastmodified":1566588276,
     "wof:name":"La Leonesa",
     "wof:parent_id":421185063,
     "wof:placetype":"locality",

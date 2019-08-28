@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.292838,
     "lbl:longitude":-60.334701,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Salto",
     "meso:gadm_hasc2":"AR.BA.ST",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.334701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Saltu"
     ],
@@ -131,9 +134,9 @@
         "\u8428\u5c14\u56fe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,630.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1108718085,
-    "wof:lastmodified":1562866321,
+    "wof:lastmodified":1566588006,
     "wof:name":"Salto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

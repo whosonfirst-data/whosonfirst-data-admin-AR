@@ -10,8 +10,12 @@
     "geom:latitude":-32.22337,
     "geom:longitude":-58.14341,
     "iso:country":"AR",
+    "lbl:bbox":"-58.16341,-32.24337,-58.12341,-32.20337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Col\u00f3n"
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3435352,
         "gp:id":466935,
-        "qs:id":778573,
+        "qs_pg:id":778573,
         "wd:id":"Q52591",
         "wk:page":"Col\u00f3n, Entre R\u00edos"
     },
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421195103,
-    "wof:lastmodified":1562866536,
+    "wof:lastmodified":1566588122,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

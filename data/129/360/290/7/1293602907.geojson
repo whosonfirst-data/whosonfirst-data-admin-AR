@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-60.53667,-35.52,-60.49667,-35.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293602907,
-    "wof:lastmodified":1536618519,
+    "wof:lastmodified":1566587740,
     "wof:name":"Gerente Cilley",
     "wof:parent_id":1108718041,
     "wof:placetype":"locality",

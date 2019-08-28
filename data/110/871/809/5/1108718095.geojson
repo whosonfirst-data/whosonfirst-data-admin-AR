@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-38.332092,
     "lbl:longitude":-59.581554,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"San Cayetano",
     "meso:gadm_hasc2":"AR.BA.SC",
@@ -37,6 +39,7 @@
     "mps:longitude":-59.581554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Cayetano"
     ],
@@ -77,9 +80,9 @@
         "San Cayetano"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"3,004.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108718095,
-    "wof:lastmodified":1562866317,
+    "wof:lastmodified":1566588003,
     "wof:name":"San Cayetano",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

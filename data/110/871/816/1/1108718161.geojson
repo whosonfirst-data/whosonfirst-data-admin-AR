@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.486165,
     "lbl:longitude":-67.912737,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Catamarca",
     "meso:gadm_admin":"Tinogasta",
     "meso:gadm_hasc2":"AR.CT.TI",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.912737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tinogasta"
     ],
@@ -74,9 +77,9 @@
         "\u8482\u8afe\u52a0\u65af\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"23,582.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108718161,
-    "wof:lastmodified":1562866249,
+    "wof:lastmodified":1566587956,
     "wof:name":"Tinogasta",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

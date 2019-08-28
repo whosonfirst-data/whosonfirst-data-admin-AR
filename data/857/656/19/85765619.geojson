@@ -9,14 +9,15 @@
     "geom:bbox":"-58.495302185,-34.6627728024,-58.460401777,-34.6366552047",
     "geom:latitude":-34.648642,
     "geom:longitude":-58.476455,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.64422,
     "gn:longitude":-58.47679,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.648533,
     "lbl:longitude":-58.476191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.650552,
     "mps:longitude":-58.480718,
     "mz:hierarchy_label":1,
@@ -60,9 +61,6 @@
         "\u041f\u0430\u0440\u043a\u0435 \u0410\u0432\u0435\u043b\u044c\u044f\u043d\u0435\u0434\u0430"
     ],
     "name:spa_x_preferred":[
-        "Parque Avellaneda"
-    ],
-    "name:unk_x_variant":[
         "Parque Avellaneda"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -113,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191577,
@@ -126,7 +124,6 @@
     "wof:concordances":{
         "gn:id":8426315,
         "gp:id":22530021,
-        "qs:id":291530,
         "qs_pg:id":291530,
         "wd:id":"Q597824",
         "wk:page":"Parque Avellaneda"
@@ -147,7 +144,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865723,
+    "wof:lastmodified":1566587663,
     "wof:name":"Parque Avellaneda",
     "wof:parent_id":1109371867,
     "wof:placetype":"neighbourhood",

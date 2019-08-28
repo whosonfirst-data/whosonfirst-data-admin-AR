@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.45297,-34.70189,-58.41297,-34.66189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Villa Diamante"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209928337,
-    "wof:lastmodified":1537584813,
+    "wof:lastmodified":1566587867,
     "wof:name":"Villa Diamante",
     "wof:parent_id":421179647,
     "wof:placetype":"locality",

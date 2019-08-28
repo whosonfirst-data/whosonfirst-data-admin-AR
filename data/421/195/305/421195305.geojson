@@ -10,8 +10,12 @@
     "geom:latitude":-32.54069,
     "geom:longitude":-63.47775,
     "iso:country":"AR",
+    "lbl:bbox":"-63.49775,-32.56069,-63.45775,-32.52069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Luca"
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3845430,
         "gp:id":467755,
-        "qs:id":150441
+        "qs_pg:id":150441
     },
     "wof:country":"AR",
     "wof:created":1459009839,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421195305,
-    "wof:lastmodified":1562866562,
+    "wof:lastmodified":1566588132,
     "wof:name":"Luca",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

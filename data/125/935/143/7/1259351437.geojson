@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Ushuaia",
     "iso:country":"AR",
+    "lbl:bbox":"-67.94701,-53.69298,-67.90701,-53.65298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Las Violetas",
         "Las Violetas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259351437,
-    "wof:lastmodified":1537584862,
+    "wof:lastmodified":1566588479,
     "wof:name":"Las Violetas",
     "wof:parent_id":421175153,
     "wof:placetype":"locality",

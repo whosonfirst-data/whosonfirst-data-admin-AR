@@ -11,10 +11,14 @@
     "geom:longitude":-72.56092,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":400,
+    "gn:population":400,
     "iso:country":"AR",
+    "lbl:bbox":"-72.58092,-48.48521,-72.54092,-48.44521",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Villa O'Higgins"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":6694355,
         "gp:id":350010,
-        "qs:id":105190,
+        "qs_pg:id":105190,
         "wd:id":"Q992143",
         "wk:page":"Villa O'Higgins"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890429613,
-    "wof:lastmodified":1562867122,
+    "wof:lastmodified":1566588362,
     "wof:name":"Villa O'Higgins",
     "wof:parent_id":102063085,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-22.281745,
     "lbl:longitude":-65.558368,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jujuy",
     "meso:gadm_admin":"Yavi",
     "meso:gadm_hasc2":"AR.JY.YA",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.558368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Yavi"
@@ -81,9 +84,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,942.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":20070681,
         "hasc:id":"AR.JY.YA",
-        "qs:id":332508
+        "qs_pg:id":332508
     },
     "wof:country":"AR",
     "wof:created":1459009032,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421174419,
-    "wof:lastmodified":1562866680,
+    "wof:lastmodified":1566588178,
     "wof:name":"Yavi",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-42.41225,
     "geom:longitude":-71.06797,
     "iso:country":"AR",
+    "lbl:bbox":"-71.08797,-42.43225,-71.04797,-42.39225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Leleque"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Leleque"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cholila"
     ],
     "qs:gn_country":"AR",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3847073,
         "gp:id":467295,
-        "qs:id":150449,
+        "qs_pg:id":150449,
         "wd:id":"Q2515820",
         "wk:page":"Leleque"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421171985,
-    "wof:lastmodified":1562867041,
+    "wof:lastmodified":1566588331,
     "wof:name":"Leleque",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

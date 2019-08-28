@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4704620381,-34.6849321782,-58.4240353261,-34.6508230774",
     "geom:latitude":-34.665378,
     "geom:longitude":-58.446602,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.66072,
     "gn:longitude":-58.44387,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.665849,
     "lbl:longitude":-58.446957,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.686639,
     "mps:longitude":-58.421947,
     "mz:hierarchy_label":1,
@@ -68,9 +69,6 @@
     "name:spa_x_preferred":[
         "Villa Soldati"
     ],
-    "name:unk_x_variant":[
-        "Villa Soldati"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -119,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":394,
     "wof:belongsto":[
         102191577,
@@ -132,7 +130,6 @@
     "wof:concordances":{
         "gn:id":3427366,
         "gp:id":332433,
-        "qs:id":1199940,
         "qs_pg:id":1199940,
         "wd:id":"Q1686228",
         "wk:page":"Villa Soldati"
@@ -153,7 +150,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865709,
+    "wof:lastmodified":1566587657,
     "wof:name":"Villa Soldati",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

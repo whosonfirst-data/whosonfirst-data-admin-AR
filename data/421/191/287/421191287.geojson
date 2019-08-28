@@ -10,8 +10,12 @@
     "geom:latitude":-28.53556,
     "geom:longitude":-57.17434,
     "iso:country":"AR",
+    "lbl:bbox":"-57.19434,-28.55556,-57.15434,-28.51556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Colonia Carlos Pellegrini"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Colonia Carlos Pellegrini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carlos Pellegrini"
     ],
     "qs:gn_country":"AR",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3435338,
         "gp:id":465122,
-        "qs:id":1134861,
+        "qs_pg:id":1134861,
         "wd:id":"Q5148219",
         "wk:page":"Colonia Carlos Pellegrini"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421191287,
-    "wof:lastmodified":1562866879,
+    "wof:lastmodified":1566588259,
     "wof:name":"Colonia Carlos Pellegrini",
     "wof:parent_id":421171455,
     "wof:placetype":"locality",

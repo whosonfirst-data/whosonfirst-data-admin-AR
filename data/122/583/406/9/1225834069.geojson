@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Jujuy",
     "iso:country":"AR",
+    "lbl:bbox":"-66.40021,-22.72758,-66.36021,-22.68758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antiuyo",
         "Antiguyo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225834069,
-    "wof:lastmodified":1537584902,
+    "wof:lastmodified":1566588566,
     "wof:name":"Antiguyo",
     "wof:parent_id":421174423,
     "wof:placetype":"locality",

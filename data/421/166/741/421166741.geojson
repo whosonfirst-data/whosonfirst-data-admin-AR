@@ -10,8 +10,12 @@
     "geom:latitude":-39.11505,
     "geom:longitude":-66.92714,
     "iso:country":"AR",
+    "lbl:bbox":"-66.94714,-39.13505,-66.90714,-39.09505",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chichinales"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043d\u0447\u0430\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chinchinales"
     ],
     "qs:gn_country":"AR",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3861528,
         "gp:id":465041,
-        "qs:id":271143,
+        "qs_pg:id":271143,
         "wd:id":"Q5096059",
         "wk:page":"Chichinales"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421166741,
-    "wof:lastmodified":1562866525,
+    "wof:lastmodified":1566588116,
     "wof:name":"Chichinales",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

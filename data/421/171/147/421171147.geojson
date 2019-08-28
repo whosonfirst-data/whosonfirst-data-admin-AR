@@ -10,8 +10,12 @@
     "geom:latitude":-32.82262,
     "geom:longitude":-60.71852,
     "iso:country":"AR",
+    "lbl:bbox":"-60.73852,-32.84262,-60.69852,-32.80262",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Capit\u00e1n Berm\u00fadez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Juan Ort\u00edz"
     ],
     "qs:gn_country":"AR",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3862738,
         "gp:id":330075,
-        "qs:id":1210312,
+        "qs_pg:id":1210312,
         "wd:id":"Q1620664",
         "wk:page":"Capit\u00e1n Berm\u00fadez"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421171147,
-    "wof:lastmodified":1562867056,
+    "wof:lastmodified":1566588341,
     "wof:name":"Capit\u00e1n Berm\u00fadez",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

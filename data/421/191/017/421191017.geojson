@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.718109,
     "lbl:longitude":-58.699951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Corrientes",
     "meso:gadm_admin":"San Roque",
     "meso:gadm_hasc2":"AR.CN.SR",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.699951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0648\u062c"
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,243.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":20070829,
         "hasc:id":"AR.CN.SR",
-        "qs:id":59540
+        "qs_pg:id":59540
     },
     "wof:country":"AR",
     "wof:created":1459009677,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421191017,
-    "wof:lastmodified":1562866898,
+    "wof:lastmodified":1566588266,
     "wof:name":"San Roque",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

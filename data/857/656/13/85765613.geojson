@@ -9,14 +9,15 @@
     "geom:bbox":"-58.4146599809,-34.6206423349,-58.391657398,-34.5980030768",
     "geom:latitude":-34.609099,
     "geom:longitude":-58.403062,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.61032,
     "gn:longitude":-58.39766,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.608859,
     "lbl:longitude":-58.402845,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.610394,
     "mps:longitude":-58.400225,
     "mz:hierarchy_label":1,
@@ -83,9 +84,6 @@
     "name:spa_x_preferred":[
         "Balvanera"
     ],
-    "name:unk_x_variant":[
-        "Balvanera"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -134,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1497,
     "wof:belongsto":[
         102191577,
@@ -147,7 +145,6 @@
     "wof:concordances":{
         "gn:id":6693228,
         "gp:id":22530020,
-        "qs:id":217540,
         "qs_pg:id":217540,
         "wd:id":"Q805848",
         "wk:page":"Balvanera"
@@ -168,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865724,
+    "wof:lastmodified":1566587663,
     "wof:name":"Balvanera",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

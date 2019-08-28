@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-36.429646,
     "lbl:longitude":-57.611189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Dolores",
     "meso:gadm_hasc2":"AR.BA.DO",
@@ -37,6 +39,7 @@
     "mps:longitude":-57.611189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Dolores"
     ],
@@ -110,9 +113,9 @@
         "Dolores"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,980.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108717921,
-    "wof:lastmodified":1562866283,
+    "wof:lastmodified":1566587983,
     "wof:name":"Dolores",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

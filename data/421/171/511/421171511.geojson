@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-29.486928,
     "lbl:longitude":-69.484235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Juan",
     "meso:gadm_admin":"Iglesia",
     "meso:gadm_hasc2":"AR.SJ.IG",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.484235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Iglesia"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"19,801.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":20070924,
         "hasc:id":"AR.SJ.IG",
-        "qs:id":1251815
+        "qs_pg:id":1251815
     },
     "wof:country":"AR",
     "wof:created":1459008896,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421171511,
-    "wof:lastmodified":1562867042,
+    "wof:lastmodified":1566588331,
     "wof:name":"Iglesia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-33.59682,
     "geom:longitude":-59.8173,
     "iso:country":"AR",
+    "lbl:bbox":"-59.8373,-33.61682,-59.7973,-33.57682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:epo_x_preferred":[
         "Batalo de Vuelta de Obligado"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Batalla de la Vuelta de Obligado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Punto Obligado"
     ],
     "qs:gn_country":"AR",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3427330,
         "gp:id":466817,
-        "qs:id":1149919,
+        "qs_pg:id":1149919,
         "wd:id":"Q2890596"
     },
     "wof:country":"AR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421191645,
-    "wof:lastmodified":1562866880,
+    "wof:lastmodified":1566588260,
     "wof:name":"Vuelta de Obligado",
     "wof:parent_id":1108718105,
     "wof:placetype":"locality",

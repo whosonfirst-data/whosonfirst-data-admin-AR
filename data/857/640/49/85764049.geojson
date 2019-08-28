@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":3091504.320111,
+    "geom:area_square_m":3091504.320114,
     "geom:bbox":"-58.4765897986,-34.6697904961,-58.4503248164,-34.6467661849",
     "geom:latitude":-34.65767,
     "geom:longitude":-58.46265,
@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.655187,
     "lbl:longitude":-58.463995,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.657382,
     "mps:longitude":-58.462447,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:spa_x_preferred":[
-        "Balbastro"
-    ],
-    "name:unk_x_variant":[
         "Balbastro"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -59,8 +57,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -72,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3436182,
         "gp:id":329965,
-        "qs:id":1080376
+        "qs_pg:id":1080376
     },
     "wof:country":"AR",
     "wof:geomhash":"96298a4d293be172022e6d8cfd8f45b8",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659281,
+    "wof:lastmodified":1566587666,
     "wof:name":"Balbastro",
     "wof:parent_id":1109371867,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.89255,
     "geom:longitude":-58.56888,
     "iso:country":"AR",
+    "lbl:bbox":"-58.58888,-34.91255,-58.54888,-34.87255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T. Su\u00e1rez"
     ],
     "qs:gn_country":"AR",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3427626,
         "gp:id":332297,
-        "qs:id":490053,
+        "qs_pg:id":490053,
         "wd:id":"Q7844233",
         "wk:page":"Trist\u00e1n Su\u00e1rez"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421181413,
-    "wof:lastmodified":1562866774,
+    "wof:lastmodified":1566588217,
     "wof:name":"Trist\u00e1n Su\u00e1rez",
     "wof:parent_id":1108717933,
     "wof:placetype":"locality",

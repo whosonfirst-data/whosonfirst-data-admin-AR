@@ -10,8 +10,12 @@
     "geom:latitude":-33.89512,
     "geom:longitude":-61.1011,
     "iso:country":"AR",
+    "lbl:bbox":"-61.1211,-33.91512,-61.0811,-33.87512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Partido Col\u00f3n"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3860828,
         "gp:id":466934,
-        "qs:id":150534,
+        "qs_pg:id":150534,
         "wd:id":"Q692762",
         "wk:page":"Col\u00f3n Partido"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421195341,
-    "wof:lastmodified":1562866549,
+    "wof:lastmodified":1566588127,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108717901,
     "wof:placetype":"locality",

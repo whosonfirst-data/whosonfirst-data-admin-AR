@@ -10,8 +10,12 @@
     "geom:latitude":-28.45196,
     "geom:longitude":-65.7931,
     "iso:country":"AR",
+    "lbl:bbox":"-65.8131,-28.47196,-65.7731,-28.43196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Choya"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3861255,
         "gp:id":465064,
-        "qs:id":495549
+        "qs_pg:id":495549
     },
     "wof:country":"AR",
     "wof:created":1459009302,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421181619,
-    "wof:lastmodified":1562866774,
+    "wof:lastmodified":1566588217,
     "wof:name":"Choya",
     "wof:parent_id":1108718149,
     "wof:placetype":"locality",

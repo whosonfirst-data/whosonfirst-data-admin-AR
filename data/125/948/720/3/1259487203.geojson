@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-57.67295,-35.20086,-57.63295,-35.16086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kil\u00f3metro 99",
         "R. Payr\u00f3",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259487203,
-    "wof:lastmodified":1537584816,
+    "wof:lastmodified":1566588463,
     "wof:name":"Roberto Payro",
     "wof:parent_id":1108718011,
     "wof:placetype":"locality",

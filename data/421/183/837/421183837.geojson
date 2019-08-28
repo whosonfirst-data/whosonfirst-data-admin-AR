@@ -10,8 +10,12 @@
     "geom:latitude":-24.90982,
     "geom:longitude":-65.63656,
     "iso:country":"AR",
+    "lbl:bbox":"-65.65656,-24.92982,-65.61656,-24.88982",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Campo Quijano"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e-\u041a\u0456\u0445\u0430\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quijano"
     ],
     "qs:gn_country":"AR",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3863050,
         "gp:id":467543,
-        "qs:id":1047014,
+        "qs_pg:id":1047014,
         "wd:id":"Q2553556",
         "wk:page":"Campo Quijano"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421183837,
-    "wof:lastmodified":1562866995,
+    "wof:lastmodified":1566588309,
     "wof:name":"Campo Quijano",
     "wof:parent_id":421180301,
     "wof:placetype":"locality",

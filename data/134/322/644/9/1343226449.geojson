@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-60.39939,-33.28038,-60.35939,-33.24038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Empalme Villa Constituci\u00f3n"
     ],
@@ -45,8 +49,7 @@
         "Empalme Villa Constituci\u00f3n"
     ],
     "name:und_x_variant":[
-        "Empalme Constituci\u00f3n",
-        "Empalme Villa Constituci\u00f3n"
+        "Empalme Constituci\u00f3n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1343226449,
-    "wof:lastmodified":1562865646,
+    "wof:lastmodified":1566587627,
     "wof:name":"Empalme Villa Constitucion",
     "wof:parent_id":421171517,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.06905,
     "geom:longitude":-64.53631,
     "iso:country":"AR",
+    "lbl:bbox":"-64.55631,-32.08905,-64.51631,-32.04905",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Rosa de Calamuchita"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430-\u0434\u0435-\u041a\u0430\u043b\u0430\u043c\u0443\u0447\u0456\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "qs:gn_country":"AR",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3835943,
         "gp:id":332154,
-        "qs:id":1254918,
+        "qs_pg:id":1254918,
         "wd:id":"Q15329",
         "wk:page":"Santa Rosa de Calamuchita"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421200019,
-    "wof:lastmodified":1561793256,
+    "wof:lastmodified":1566588283,
     "wof:name":"Santa Rosa de Calamuchita",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

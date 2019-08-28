@@ -10,8 +10,12 @@
     "geom:latitude":-35.27049,
     "geom:longitude":-59.55707,
     "iso:country":"AR",
+    "lbl:bbox":"-59.57707,-35.29049,-59.53707,-35.25049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ernestina"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3434136,
         "gp:id":467632,
-        "qs:id":935825
+        "qs_pg:id":935825
     },
     "wof:country":"AR",
     "wof:created":1459009876,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421196311,
-    "wof:lastmodified":1562866870,
+    "wof:lastmodified":1566588255,
     "wof:name":"Ernestina",
     "wof:parent_id":1108718131,
     "wof:placetype":"locality",

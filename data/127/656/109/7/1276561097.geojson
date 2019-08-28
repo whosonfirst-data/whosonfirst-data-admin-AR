@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-66.0991,-26.76838,-66.0591,-26.72838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Famatanca"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276561097,
-    "wof:lastmodified":1562865954,
+    "wof:lastmodified":1566587788,
     "wof:name":"Famatanca",
     "wof:parent_id":1108718157,
     "wof:placetype":"locality",

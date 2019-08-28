@@ -10,8 +10,12 @@
     "geom:latitude":-32.79122,
     "geom:longitude":-60.72819,
     "iso:country":"AR",
+    "lbl:bbox":"-60.74819,-32.81122,-60.70819,-32.77122",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Fray Luis A. Beltr\u00e1n"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Fray Luis A. Beltr\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borghi"
     ],
     "qs:gn_country":"AR",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3855370,
         "gp:id":330667,
-        "qs:id":1025748,
+        "qs_pg:id":1025748,
         "wd:id":"Q5493943",
         "wk:page":"Fray Luis Beltr\u00e1n"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421185509,
-    "wof:lastmodified":1562867065,
+    "wof:lastmodified":1566588345,
     "wof:name":"Fray Luis A. Beltr\u00e1n",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

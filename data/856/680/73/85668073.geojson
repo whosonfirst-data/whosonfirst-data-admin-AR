@@ -31,6 +31,7 @@
     ],
     "lbl:latitude":-32.298751,
     "lbl:longitude":-59.353459,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-32.196611,
     "mps:longitude":-59.328712,
     "mz:hierarchy_label":1,
@@ -288,9 +289,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0442\u0440\u0435-\u0420\u0456\u043e\u0441"
     ],
-    "name:unk_x_variant":[
-        "Entre R\u00edos"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u062a\u0631\u06d2 \u0631\u06cc\u0648\u0633"
     ],
@@ -381,9 +379,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"78,781",
     "statoids:area_mi":"30,418",
     "statoids:as_of_date":"2010-10-27",
@@ -408,7 +406,7 @@
         "gp:id":2344682,
         "hasc:id":"AR.ER",
         "iso:id":"AR-E",
-        "qs:id":407109,
+        "qs_pg:id":407109,
         "unlc:id":"AR-E",
         "wd:id":"Q44762",
         "wk:page":"Entre R\u00edos Province"
@@ -429,11 +427,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652039,
+    "wof:lastmodified":1566587673,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1235994,
     "wof:population_rank":12,

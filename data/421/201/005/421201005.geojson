@@ -10,8 +10,12 @@
     "geom:latitude":-36.28016,
     "geom:longitude":-62.54599,
     "iso:country":"AR",
+    "lbl:bbox":"-62.56599,-36.30016,-62.52599,-36.26016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Treinta de Agosto"
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0439\u043d\u0442\u0430-\u0434\u0435-\u0410\u0433\u043e\u0441\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "30 de Agosto"
     ],
     "qs:gn_country":"AR",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3833892,
         "gp:id":466633,
-        "qs:id":904814,
+        "qs_pg:id":904814,
         "wd:id":"Q6152075"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421201005,
-    "wof:lastmodified":1562866954,
+    "wof:lastmodified":1566588288,
     "wof:name":"Treinta de Agosto",
     "wof:parent_id":1108718123,
     "wof:placetype":"locality",

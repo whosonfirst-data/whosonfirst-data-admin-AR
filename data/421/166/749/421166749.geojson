@@ -10,8 +10,12 @@
     "geom:latitude":-36.9334,
     "geom:longitude":-60.15923,
     "iso:country":"AR",
+    "lbl:bbox":"-60.17923,-36.9534,-60.13923,-36.9134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sierras Bayas"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u0454\u0440\u0440\u0430\u0441-\u0411\u0430\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sierra Bayas"
     ],
     "qs:gn_country":"AR",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3835289,
         "gp:id":466487,
-        "qs:id":271253,
+        "qs_pg:id":271253,
         "wd:id":"Q5839782"
     },
     "wof:country":"AR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421166749,
-    "wof:lastmodified":1562866525,
+    "wof:lastmodified":1566588116,
     "wof:name":"Sierras Bayas",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

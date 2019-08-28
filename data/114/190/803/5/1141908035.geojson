@@ -10,10 +10,14 @@
     "geom:latitude":-30.215586,
     "geom:longitude":-69.139951,
     "iso:country":"AR",
+    "lbl:bbox":"-69.1599506039,-30.2355859184,-69.1199506039,-30.1955859184",
     "lbl:latitude":-30.215586,
     "lbl:longitude":-69.139951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f\u064a\u0648"
     ],
@@ -240,7 +244,7 @@
     "wof:concordances":{
         "gn:id":3838703,
         "gp:id":467878,
-        "qs:id":1327709
+        "qs_pg:id":1327709
     },
     "wof:country":"AR",
     "wof:created":1499130807,
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":1141908035,
-    "wof:lastmodified":1562867510,
+    "wof:lastmodified":1566588571,
     "wof:name":"Rodeo",
     "wof:parent_id":421171511,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-38.886757,
     "geom:longitude":-71.167288,
     "iso:country":"AR",
+    "lbl:bbox":"-71.1872875,-38.906757,-71.1472875,-38.866757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Villa Uni\u00f3n"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040556,
-        "qs:id":482833
+        "qs_pg:id":482833
     },
     "wof:country":"AR",
     "wof:created":1459008855,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421170473,
-    "wof:lastmodified":1562866978,
+    "wof:lastmodified":1566588300,
     "wof:name":"Villa Uni\u00f3n",
     "wof:parent_id":421188059,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-63.27468,-37.47534,-63.23468,-37.43534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A. Gasc\u00f3n",
         "E.A. Gasc\u00f3n",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276984513,
-    "wof:lastmodified":1537584878,
+    "wof:lastmodified":1566587827,
     "wof:name":"Esteban Agustin Gascon",
     "wof:parent_id":1108717849,
     "wof:placetype":"locality",

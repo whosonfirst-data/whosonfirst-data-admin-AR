@@ -10,8 +10,12 @@
     "geom:latitude":-29.48728,
     "geom:longitude":-67.5071,
     "iso:country":"AR",
+    "lbl:bbox":"-67.5271,-29.50728,-67.4871,-29.46728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Vichigasta"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3832940,
         "gp:id":467944,
-        "qs:id":150383,
+        "qs_pg:id":150383,
         "wd:id":"Q7925260",
         "wk:page":"Vichigasta"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421195393,
-    "wof:lastmodified":1562866561,
+    "wof:lastmodified":1566588131,
     "wof:name":"Vichigasta",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

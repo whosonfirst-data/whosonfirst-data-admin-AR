@@ -10,8 +10,12 @@
     "geom:latitude":-31.97263,
     "geom:longitude":-60.91982,
     "iso:country":"AR",
+    "lbl:bbox":"-60.93982,-31.99263,-60.89982,-31.95263",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Coronda"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cordona"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3860217,
         "gp:id":466937,
-        "qs:id":833885,
+        "qs_pg:id":833885,
         "wd:id":"Q52542",
         "wk:page":"Coronda"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421196303,
-    "wof:lastmodified":1562866854,
+    "wof:lastmodified":1566588249,
     "wof:name":"Coronda",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

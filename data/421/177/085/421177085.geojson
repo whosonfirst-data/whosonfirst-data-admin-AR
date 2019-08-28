@@ -10,8 +10,11 @@
     "geom:latitude":-34.63333,
     "geom:longitude":-58.43333,
     "iso:country":"AR",
+    "lbl:bbox":"-58.43833,-34.63833,-58.42833,-34.62833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "U-Bahnhof Primera Junta"
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3429855,
         "gp:id":331688,
-        "qs:id":401983,
+        "qs_pg:id":401983,
         "wd:id":"Q3351980",
         "wk:page":"Primera Junta (Buenos Aires Underground)"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421177085,
-    "wof:lastmodified":1562866982,
+    "wof:lastmodified":1566588302,
     "wof:name":"Primera Junta",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

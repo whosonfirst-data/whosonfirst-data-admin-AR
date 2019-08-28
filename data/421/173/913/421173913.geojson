@@ -10,8 +10,12 @@
     "geom:latitude":-33.70029,
     "geom:longitude":-61.61693,
     "iso:country":"AR",
+    "lbl:bbox":"-61.63693,-33.72029,-61.59693,-33.68029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Elortondo"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u043e\u0440\u0442\u043e\u043d\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elertondo"
     ],
     "qs:gn_country":"AR",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3857431,
         "gp:id":467217,
-        "qs:id":304408,
+        "qs_pg:id":304408,
         "wd:id":"Q10751520"
     },
     "wof:country":"AR",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421173913,
-    "wof:lastmodified":1562866715,
+    "wof:lastmodified":1566588192,
     "wof:name":"Elortondo",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

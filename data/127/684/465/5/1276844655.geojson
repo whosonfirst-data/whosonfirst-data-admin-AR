@@ -24,8 +24,12 @@
     "gn:population":6650,
     "gn:timezone":"America/Argentina/Rio_Gallegos",
     "iso:country":"AR",
+    "lbl:bbox":"-72.35673,-51.55587,-72.31673,-51.51587",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00edo Turbio"
     ],
@@ -57,9 +61,6 @@
         "R\u00edo Turbio"
     ],
     "name:swe_x_preferred":[
-        "R\u00edo Turbio"
-    ],
-    "name:und_x_variant":[
         "R\u00edo Turbio"
     ],
     "src:geom":"geonames",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1276844655,
-    "wof:lastmodified":1562866003,
+    "wof:lastmodified":1566587816,
     "wof:name":"Rio Turbio",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

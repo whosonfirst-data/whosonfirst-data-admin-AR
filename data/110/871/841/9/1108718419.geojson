@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-31.185,
     "lbl:longitude":-68.116926,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Juan",
     "meso:gadm_admin":"Angaco",
     "meso:gadm_hasc2":"AR.SJ.AN",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.116926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Angaco"
     ],
@@ -44,9 +47,9 @@
         "Angaco"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,865.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108718419,
-    "wof:lastmodified":1560898133,
+    "wof:lastmodified":1566587983,
     "wof:name":"Angaco",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

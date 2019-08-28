@@ -10,8 +10,12 @@
     "geom:latitude":-30.94768,
     "geom:longitude":-59.78696,
     "iso:country":"AR",
+    "lbl:bbox":"-59.80696,-30.96768,-59.76696,-30.92768",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Elena"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3428359,
         "gp:id":332521,
-        "qs:id":924637,
+        "qs_pg:id":924637,
         "wd:id":"Q2475908",
         "wk:page":"Santa Elena, Entre R\u00edos"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421175105,
-    "wof:lastmodified":1562866783,
+    "wof:lastmodified":1566588222,
     "wof:name":"Santa Elena",
     "wof:parent_id":421181879,
     "wof:placetype":"locality",

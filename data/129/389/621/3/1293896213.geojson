@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-66.22502,-28.15978,-66.18502,-28.11978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293896213,
-    "wof:lastmodified":1537486309,
+    "wof:lastmodified":1566587752,
     "wof:name":"San Miguel",
     "wof:parent_id":1108718155,
     "wof:placetype":"locality",

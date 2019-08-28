@@ -10,6 +10,9 @@
     "geom:latitude":-31.42797,
     "geom:longitude":-62.08266,
     "iso:country":"AR",
+    "lbl:bbox":"-62.10266,-31.44797,-62.06266,-31.40797",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -235,7 +238,7 @@
     "wof:concordances":{
         "gn:id":3837675,
         "gp:id":332510,
-        "qs:id":338484,
+        "qs_pg:id":338484,
         "wd:id":"Q949535",
         "wk:page":"San Francisco, C\u00f3rdoba"
     },
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421178987,
-    "wof:lastmodified":1562867009,
+    "wof:lastmodified":1566588315,
     "wof:name":"San Francisco",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

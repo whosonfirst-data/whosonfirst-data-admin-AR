@@ -10,8 +10,12 @@
     "geom:latitude":-23.85626,
     "geom:longitude":-65.45741,
     "iso:country":"AR",
+    "lbl:bbox":"-65.47741,-23.87626,-65.43741,-23.83626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Tumbaya"
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3833549,
         "gp:id":466667,
-        "qs:id":1156118,
+        "qs_pg:id":1156118,
         "wd:id":"Q2302575"
     },
     "wof:country":"AR",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421191821,
-    "wof:lastmodified":1562866881,
+    "wof:lastmodified":1566588260,
     "wof:name":"Tumbaya",
     "wof:parent_id":421201001,
     "wof:placetype":"locality",

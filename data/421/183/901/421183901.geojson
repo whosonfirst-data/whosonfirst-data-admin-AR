@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.109136,
     "lbl:longitude":-65.611938,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tucuman",
     "meso:gadm_admin":"Monteros",
     "meso:gadm_hasc2":"AR.TM.MO",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.611938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Monteros"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,169.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":20070750,
         "hasc:id":"AR.TM.MO",
-        "qs:id":985973
+        "qs_pg:id":985973
     },
     "wof:country":"AR",
     "wof:created":1459009391,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421183901,
-    "wof:lastmodified":1562866988,
+    "wof:lastmodified":1566588305,
     "wof:name":"Monteros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

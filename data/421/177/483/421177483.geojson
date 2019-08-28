@@ -10,8 +10,12 @@
     "geom:latitude":-31.66966,
     "geom:longitude":-69.48193,
     "iso:country":"AR",
+    "lbl:bbox":"-69.50193,-31.68966,-69.46193,-31.64966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Villa Pituil"
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041f\u0456\u0442\u0443\u0457\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pituil"
     ],
     "qs:gn_country":"AR",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3832652,
         "gp:id":332931,
-        "qs:id":1199946,
+        "qs_pg:id":1199946,
         "wd:id":"Q6162340"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421177483,
-    "wof:lastmodified":1562866982,
+    "wof:lastmodified":1566588302,
     "wof:name":"Villa Pituil",
     "wof:parent_id":421171513,
     "wof:placetype":"locality",

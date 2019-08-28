@@ -10,8 +10,12 @@
     "geom:latitude":-34.79882,
     "geom:longitude":-58.44947,
     "iso:country":"AR",
+    "lbl:bbox":"-58.46947,-34.81882,-58.42947,-34.77882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Partido de Esteban Echeverr\u00eda"
@@ -43,7 +47,7 @@
     "name:srp_x_preferred":[
         "\u0415\u0441\u0442\u0435\u0431\u0430\u043d \u0415\u0447\u0435\u0432\u0435\u0440\u0438\u0458\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L. Guill\u00f3n"
     ],
     "qs:gn_country":"AR",
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3430992,
         "gp:id":465724,
-        "qs:id":903017
+        "qs_pg:id":903017
     },
     "wof:country":"AR",
     "wof:created":1459009792,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421194041,
-    "wof:lastmodified":1501266404,
+    "wof:lastmodified":1566588135,
     "wof:name":"Luis Guill\u00f3n",
     "wof:parent_id":1108717927,
     "wof:placetype":"locality",

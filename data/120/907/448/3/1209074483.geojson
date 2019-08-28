@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
+    "lbl:bbox":"-65.98533,-26.47057,-65.94533,-26.43057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632505
@@ -35,7 +39,7 @@
         "gn:id":3863363
     },
     "wof:country":"AR",
-    "wof:geomhash":"04b1c399bbfd4293a370b0f7b93cd1aa",
+    "wof:geomhash":"2f68ad55f3f8c50baf421bc94fde2208",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209074483,
-    "wof:lastmodified":1536298540,
+    "wof:lastmodified":1566587833,
     "wof:name":"Calimonte",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -65.96533000000001,
-    -26.450570000000006,
+    -26.45057000000001,
     -65.96533000000001,
-    -26.450570000000006
+    -26.45057000000001
 ],
   "geometry": {"coordinates":[-65.96533000000001,-26.45057000000001],"type":"Point"}
 }

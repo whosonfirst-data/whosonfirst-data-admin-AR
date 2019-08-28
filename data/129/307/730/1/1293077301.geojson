@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.84212,-23.09372,-64.80212,-23.05372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tablada"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293077301,
-    "wof:lastmodified":1562865789,
+    "wof:lastmodified":1566587700,
     "wof:name":"Tablada",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",

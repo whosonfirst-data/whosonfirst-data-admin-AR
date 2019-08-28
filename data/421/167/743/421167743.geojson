@@ -10,8 +10,12 @@
     "geom:latitude":-26.53743,
     "geom:longitude":-59.34158,
     "iso:country":"AR",
+    "lbl:bbox":"-59.36158,-26.55743,-59.32158,-26.51743",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0646\u0631\u0627\u0644 \u062e\u0648\u0633\u064a\u0647 \u062f\u064a \u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u064a\u0646"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0425\u043e\u0441\u0435-\u0434\u0435-\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zapallar"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3433803,
         "gp:id":466970,
-        "qs:id":147792,
+        "qs_pg:id":147792,
         "wd:id":"Q2330916"
     },
     "wof:country":"AR",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421167743,
-    "wof:lastmodified":1561793229,
+    "wof:lastmodified":1566588144,
     "wof:name":"General Jos\u00e9 de San Mart\u00edn",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-30.94404,
     "geom:longitude":-61.56148,
     "iso:country":"AR",
+    "lbl:bbox":"-61.58148,-30.96404,-61.54148,-30.92404",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":3834971,
         "gp:id":467060,
-        "qs:id":242800,
+        "qs_pg:id":242800,
         "wd:id":"Q2509609",
         "wk:page":"Sunchales, Santa Fe"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421170351,
-    "wof:lastmodified":1562866977,
+    "wof:lastmodified":1566588300,
     "wof:name":"Sunchales",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

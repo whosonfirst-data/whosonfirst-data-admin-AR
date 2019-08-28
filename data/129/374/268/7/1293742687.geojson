@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-61.26576,-31.72078,-61.22576,-31.68078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rodriguez",
         "Coronel Rodr\u00edguez"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293742687,
-    "wof:lastmodified":1537584887,
+    "wof:lastmodified":1566587756,
     "wof:name":"Coronel Rodriguez",
     "wof:parent_id":421180885,
     "wof:placetype":"locality",

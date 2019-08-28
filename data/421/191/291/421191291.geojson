@@ -10,8 +10,12 @@
     "geom:latitude":-32.91568,
     "geom:longitude":-60.80995,
     "iso:country":"AR",
+    "lbl:bbox":"-60.82995,-32.93568,-60.78995,-32.89568",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u064a\u0633"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3855302,
         "gp:id":465425,
-        "qs:id":1134874,
+        "qs_pg:id":1134874,
         "wd:id":"Q2370892",
         "wk:page":"Funes, Santa Fe"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421191291,
-    "wof:lastmodified":1562866901,
+    "wof:lastmodified":1566588268,
     "wof:name":"Funes",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

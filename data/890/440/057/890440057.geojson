@@ -11,10 +11,14 @@
     "geom:longitude":-69.91667,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":1098,
+    "gn:population":1098,
     "iso:country":"AR",
+    "lbl:bbox":"-69.93667,-36.83667,-69.89667,-36.79667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Barrancas"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3864729,
         "gp:id":91815461,
-        "qs:id":585783,
+        "qs_pg:id":585783,
         "wd:id":"Q4863233",
         "wk:page":"Fort Barrancas"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890440057,
-    "wof:lastmodified":1562867082,
+    "wof:lastmodified":1566588351,
     "wof:name":"Barrancas",
     "wof:parent_id":421192925,
     "wof:placetype":"locality",

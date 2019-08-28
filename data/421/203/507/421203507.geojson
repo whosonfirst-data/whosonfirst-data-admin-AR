@@ -10,8 +10,12 @@
     "geom:latitude":-42.731792,
     "geom:longitude":-71.747251,
     "iso:country":"AR",
+    "lbl:bbox":"-71.7672505,-42.751792,-71.7272505,-42.711792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Lago Verde"
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040205,
-        "qs:id":232463
+        "qs_pg:id":232463
     },
     "wof:country":"AR",
     "wof:created":1459010154,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421203507,
-    "wof:lastmodified":1562866645,
+    "wof:lastmodified":1566588165,
     "wof:name":"Lago Verde",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-32.76923,
     "geom:longitude":-60.7824,
     "iso:country":"AR",
+    "lbl:bbox":"-60.8024,-32.78923,-60.7624,-32.74923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ricardone"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3839061,
         "gp:id":331778,
-        "qs:id":246347,
+        "qs_pg:id":246347,
         "wd:id":"Q9069081"
     },
     "wof:country":"AR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421204735,
-    "wof:lastmodified":1562866630,
+    "wof:lastmodified":1566588157,
     "wof:name":"Ricardone",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

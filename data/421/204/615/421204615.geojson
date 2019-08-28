@@ -10,6 +10,9 @@
     "geom:latitude":-26.17753,
     "geom:longitude":-58.17814,
     "iso:country":"AR",
+    "lbl:bbox":"-58.19814,-26.19753,-58.15814,-26.15753",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -328,7 +331,7 @@
     "wof:concordances":{
         "gn:id":3433899,
         "gp:id":466875,
-        "qs:id":242755,
+        "qs_pg:id":242755,
         "wd:id":"Q44214",
         "wk:page":"Formosa, Argentina"
     },
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":421204615,
-    "wof:lastmodified":1562866635,
+    "wof:lastmodified":1566588159,
     "wof:name":"Formosa",
     "wof:parent_id":421180291,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-30.95465,
     "geom:longitude":-58.78326,
     "iso:country":"AR",
+    "lbl:bbox":"-58.80326,-30.97465,-58.76326,-30.93465",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Federal"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Federal"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3433956,
         "gp:id":466959,
-        "qs:id":147794,
+        "qs_pg:id":147794,
         "wd:id":"Q2158248",
         "wk:page":"Federal, Entre R\u00edos"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421195361,
-    "wof:lastmodified":1562866556,
+    "wof:lastmodified":1566588129,
     "wof:name":"Federal",
     "wof:parent_id":1108718247,
     "wof:placetype":"locality",

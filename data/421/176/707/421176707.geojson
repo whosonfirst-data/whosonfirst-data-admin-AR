@@ -10,8 +10,12 @@
     "geom:latitude":-31.71278,
     "geom:longitude":-64.62364,
     "iso:country":"AR",
+    "lbl:bbox":"-64.64364,-31.73278,-64.60364,-31.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Clemente"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3837834,
         "gp:id":331881,
-        "qs:id":1071976,
+        "qs_pg:id":1071976,
         "wd:id":"Q6118563"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421176707,
-    "wof:lastmodified":1562867022,
+    "wof:lastmodified":1566588320,
     "wof:name":"San Clemente",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

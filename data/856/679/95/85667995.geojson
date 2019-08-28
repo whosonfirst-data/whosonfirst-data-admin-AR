@@ -31,6 +31,7 @@
     ],
     "lbl:latitude":-54.279346,
     "lbl:longitude":-68.027233,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-54.256947,
     "mps:longitude":-68.053067,
     "mz:hierarchy_label":1,
@@ -406,7 +407,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0433\u043d\u044f\u043d\u0430 \u0417\u0435\u043c\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Territorio Nacional de la Tierra del Fuego"
     ],
     "name:urd_x_preferred":[
@@ -514,9 +515,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"21,571",
     "statoids:area_mi":"8,329",
     "statoids:as_of_date":"2010-10-27",
@@ -542,7 +543,7 @@
         "gp:id":2344697,
         "hasc:id":"AR.TF",
         "iso:id":"AR-V",
-        "qs:id":1134912,
+        "qs_pg:id":1134912,
         "unlc:id":"AR-V",
         "wd:id":"Q44832"
     },
@@ -562,11 +563,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565652049,
+    "wof:lastmodified":1566587695,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":127205,
     "wof:population_rank":9,

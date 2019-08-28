@@ -10,8 +10,12 @@
     "geom:latitude":-30.15058,
     "geom:longitude":-68.57116,
     "iso:country":"AR",
+    "lbl:bbox":"-68.59116,-30.17058,-68.55116,-30.13058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Ci\u00e9naga"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3852020,
         "gp:id":330871,
-        "qs:id":1262709
+        "qs_pg:id":1262709
     },
     "wof:country":"AR",
     "wof:created":1459010075,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421201515,
-    "wof:lastmodified":1562866955,
+    "wof:lastmodified":1566588289,
     "wof:name":"La Ci\u00e9naga",
     "wof:parent_id":421166623,
     "wof:placetype":"locality",

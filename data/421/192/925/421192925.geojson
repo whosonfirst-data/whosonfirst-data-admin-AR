@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-37.431537,
     "lbl:longitude":-69.388805,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Neuquen",
     "meso:gadm_admin":"Pehuenches",
     "meso:gadm_hasc2":"AR.NQ.PE",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.388805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pehuenches"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"8,720.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":20071035,
         "hasc:id":"AR.NQ.PE",
-        "qs:id":1184082
+        "qs_pg:id":1184082
     },
     "wof:country":"AR",
     "wof:created":1459009753,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421192925,
-    "wof:lastmodified":1560898141,
+    "wof:lastmodified":1566588120,
     "wof:name":"Pehuenches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-38.13807,
     "geom:longitude":-61.79518,
     "iso:country":"AR",
+    "lbl:bbox":"-61.81518,-38.15807,-61.77518,-38.11807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Sierra de La Ventana"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3835300,
         "gp:id":466485,
-        "qs:id":1276699,
+        "qs_pg:id":1276699,
         "wd:id":"Q3925137",
         "wk:page":"Sierra de La Ventana (town)"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421197023,
-    "wof:lastmodified":1561793254,
+    "wof:lastmodified":1566588271,
     "wof:name":"Sierra de la Ventana",
     "wof:parent_id":1108718121,
     "wof:placetype":"locality",

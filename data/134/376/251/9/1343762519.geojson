@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-67.55333,-45.82,-67.51333,-45.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kil\u00f3metro 8",
         "Petroqu\u00edmica"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343762519,
-    "wof:lastmodified":1537584849,
+    "wof:lastmodified":1566587624,
     "wof:name":"Petroquimica",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-51.370104,
     "lbl:longitude":-70.567052,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Cruz",
     "meso:gadm_admin":"G\u00fcer Aike",
     "meso:gadm_hasc2":"AR.SC.GA",
@@ -37,6 +39,7 @@
     "mps:longitude":-70.567052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Departamento G\u00fcer Aike"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"33,841.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":20071073,
         "hasc:id":"AR.SC.GA",
-        "qs:id":890573
+        "qs_pg:id":890573
     },
     "wof:country":"AR",
     "wof:created":1459010034,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421200655,
-    "wof:lastmodified":1560898150,
+    "wof:lastmodified":1566588283,
     "wof:name":"G\u00fcer Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

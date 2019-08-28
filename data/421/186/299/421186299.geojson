@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-23.766066,
     "lbl:longitude":-66.186019,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Salta",
     "meso:gadm_admin":"La Poma",
     "meso:gadm_hasc2":"AR.SA.LP",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.186019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Poma"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"4,447.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":20070840,
         "hasc:id":"AR.SA.LP",
-        "qs:id":1063354,
+        "qs_pg:id":1063354,
         "wd:id":"Q3211792"
     },
     "wof:country":"AR",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421186299,
-    "wof:lastmodified":1562866769,
+    "wof:lastmodified":1566588216,
     "wof:name":"La Poma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

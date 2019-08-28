@@ -10,8 +10,12 @@
     "geom:latitude":-27.02277,
     "geom:longitude":-54.68669,
     "iso:country":"AR",
+    "lbl:bbox":"-54.70669,-27.04277,-54.66669,-27.00277",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dos de Mayo"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0441-\u0434\u0435-\u041c\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "2 de Mayo"
     ],
     "qs:gn_country":"AR",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3434995,
         "gp:id":465318,
-        "qs:id":1013018,
+        "qs_pg:id":1013018,
         "wd:id":"Q5299217",
         "wk:page":"Dos de Mayo (Misiones)"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421184809,
-    "wof:lastmodified":1562866967,
+    "wof:lastmodified":1566588294,
     "wof:name":"Dos de Mayo",
     "wof:parent_id":421183163,
     "wof:placetype":"locality",

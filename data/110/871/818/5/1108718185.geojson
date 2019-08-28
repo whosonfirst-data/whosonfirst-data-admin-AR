@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-28.186942,
     "lbl:longitude":-58.618232,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Corrientes",
     "meso:gadm_admin":"Saladas",
     "meso:gadm_hasc2":"AR.CN.SL",
@@ -37,6 +39,7 @@
     "mps:longitude":-58.618232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Saladas"
     ],
@@ -44,9 +47,9 @@
         "Saladas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,907.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108718185,
-    "wof:lastmodified":1560898126,
+    "wof:lastmodified":1566587952,
     "wof:name":"Saladas",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

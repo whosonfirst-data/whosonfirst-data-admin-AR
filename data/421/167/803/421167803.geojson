@@ -10,6 +10,9 @@
     "geom:latitude":-30.78913,
     "geom:longitude":-60.59189,
     "iso:country":"AR",
+    "lbl:bbox":"-60.61189,-30.80913,-60.57189,-30.76913",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -170,7 +173,7 @@
     "wof:concordances":{
         "gn:id":3837124,
         "gp:id":332515,
-        "qs:id":150397,
+        "qs_pg:id":150397,
         "wd:id":"Q2134760",
         "wk:page":"San Justo, Santa Fe"
     },
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421167803,
-    "wof:lastmodified":1562866595,
+    "wof:lastmodified":1566588144,
     "wof:name":"San Justo",
     "wof:parent_id":421171505,
     "wof:placetype":"locality",

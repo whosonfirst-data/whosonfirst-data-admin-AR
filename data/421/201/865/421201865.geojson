@@ -10,8 +10,12 @@
     "geom:latitude":-34.942869,
     "geom:longitude":-58.11613,
     "iso:country":"AR",
+    "lbl:bbox":"-58.13613,-34.962869,-58.09613,-34.922869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Peligro"
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56064305,
-        "qs:id":214992,
+        "qs_pg:id":214992,
         "wd:id":"Q5195428"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421201865,
-    "wof:lastmodified":1562866954,
+    "wof:lastmodified":1566588288,
     "wof:name":"El Peligro",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

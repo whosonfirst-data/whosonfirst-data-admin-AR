@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.80333,-26.22,-64.76333,-26.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Salamanca"
     ],
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":1259346387,
-    "wof:lastmodified":1562867352,
+    "wof:lastmodified":1566588487,
     "wof:name":"Salamanca",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",

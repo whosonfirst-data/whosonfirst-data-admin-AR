@@ -10,6 +10,9 @@
     "geom:latitude":-38.87588,
     "geom:longitude":-62.07359,
     "iso:country":"AR",
+    "lbl:bbox":"-62.09359,-38.89588,-62.05359,-38.85588",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":3839982,
         "gp:id":466884,
-        "qs:id":672371,
+        "qs_pg:id":672371,
         "wd:id":"Q603592",
         "wk:page":"Punta Alta"
     },
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421193965,
-    "wof:lastmodified":1562866582,
+    "wof:lastmodified":1566588139,
     "wof:name":"Punta Alta",
     "wof:parent_id":1108717903,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-30.09392,
     "geom:longitude":-63.92913,
     "iso:country":"AR",
+    "lbl:bbox":"-63.94913,-30.11392,-63.90913,-30.07392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cerro Colorado"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3862044,
         "gp:id":465001,
-        "qs:id":260083,
+        "qs_pg:id":260083,
         "wd:id":"Q8344241"
     },
     "wof:country":"AR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421205259,
-    "wof:lastmodified":1562866660,
+    "wof:lastmodified":1566588171,
     "wof:name":"Cerro Colorado",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.28046,-31.66573,-64.24046,-31.62573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Destino",
         "Rafael Garc\u00eda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259706475,
-    "wof:lastmodified":1537584845,
+    "wof:lastmodified":1566588468,
     "wof:name":"Rafael Garcia",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

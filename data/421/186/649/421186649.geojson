@@ -10,8 +10,12 @@
     "geom:latitude":-42.079287,
     "geom:longitude":-63.758181,
     "iso:country":"AR",
+    "lbl:bbox":"-63.778181,-42.099287,-63.738181,-42.059287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":332629,
-        "qs:id":1075067
+        "qs_pg:id":1075067
     },
     "wof:country":"AR",
     "wof:created":1459009487,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421186649,
-    "wof:lastmodified":1527716316,
+    "wof:lastmodified":1566588213,
     "wof:name":"Loberia",
     "wof:parent_id":1108718233,
     "wof:placetype":"locality",

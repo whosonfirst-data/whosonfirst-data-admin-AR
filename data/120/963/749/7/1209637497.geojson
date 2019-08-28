@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-56.48667,-28.85333,-56.44667,-28.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u062a"
     ],
@@ -110,8 +114,7 @@
     ],
     "name:und_x_variant":[
         "J.E. Torrent",
-        "Juan E. Torrent",
-        "Torrent"
+        "Juan E. Torrent"
     ],
     "name:uzb_x_preferred":[
         "Torrent"
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1209637497,
-    "wof:lastmodified":1562866055,
+    "wof:lastmodified":1566587845,
     "wof:name":"Torrent",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

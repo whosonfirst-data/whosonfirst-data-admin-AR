@@ -10,8 +10,12 @@
     "geom:latitude":-34.517023,
     "geom:longitude":-58.743166,
     "iso:country":"AR",
+    "lbl:bbox":"-58.763166,-34.537023,-58.723166,-34.497023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0633\u064a. \u0628\u0627\u0632"
@@ -173,7 +177,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":465620,
-        "qs:id":219330,
+        "qs_pg:id":219330,
         "wd:id":"Q2224587"
     },
     "wof:country":"AR",
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":421202089,
-    "wof:lastmodified":1562866656,
+    "wof:lastmodified":1566588169,
     "wof:name":"Jos\u00e9 C. Paz",
     "wof:parent_id":1108717985,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":-26.829923,
     "lbl:longitude":-65.216596,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tucuman",
     "meso:gadm_admin":"Capital",
     "meso:gadm_hasc2":"AR.TM.TM",
@@ -43,6 +45,7 @@
     "mps:longitude":-65.216596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Capital"
     ],
@@ -143,9 +146,9 @@
         "T\u01b0 b\u1ea3n"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"90.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1108718529,
-    "wof:lastmodified":1562866328,
+    "wof:lastmodified":1566588011,
     "wof:name":"Capital",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

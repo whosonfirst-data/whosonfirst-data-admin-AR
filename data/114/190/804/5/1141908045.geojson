@@ -10,10 +10,14 @@
     "geom:latitude":-35.466118,
     "geom:longitude":-69.583309,
     "iso:country":"AR",
+    "lbl:bbox":"-69.6033085548,-35.486118145,-69.5633085548,-35.446118145",
     "lbl:latitude":-35.466118,
     "lbl:longitude":-69.583309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Malarg\u00fce"
     ],
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":1141908045,
-    "wof:lastmodified":1562867509,
+    "wof:lastmodified":1566588571,
     "wof:name":"Malargue",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-27.25586,
     "geom:longitude":-55.5339,
     "iso:country":"AR",
+    "lbl:bbox":"-55.5539,-27.27586,-55.5139,-27.23586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Ignacio"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3429016,
         "gp:id":332659,
-        "qs:id":117697,
+        "qs_pg:id":117697,
         "wd:id":"Q3181334",
         "wk:page":"San Ignacio, Misiones"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421203779,
-    "wof:lastmodified":1562866645,
+    "wof:lastmodified":1566588165,
     "wof:name":"San Ignacio",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-64.08927,-30.72458,-64.04927,-30.68458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Villa General Mitre"
     ],
@@ -48,8 +52,7 @@
         "Villa General Mitre"
     ],
     "name:und_x_variant":[
-        "General Mitre",
-        "Villa General Mitre"
+        "General Mitre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226752307,
-    "wof:lastmodified":1564218368,
+    "wof:lastmodified":1566588504,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":421203351,
     "wof:placetype":"locality",

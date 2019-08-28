@@ -10,8 +10,12 @@
     "geom:latitude":-34.49674,
     "geom:longitude":-58.63915,
     "iso:country":"AR",
+    "lbl:bbox":"-58.65915,-34.51674,-58.61915,-34.47674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646 \u062a\u0648\u0631\u0643\u0648\u0627\u062a\u0648"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3435010,
         "gp:id":465311,
-        "qs:id":1026382,
+        "qs_pg:id":1026382,
         "wd:id":"Q2743879",
         "wk:page":"Don Torcuato"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421185549,
-    "wof:lastmodified":1562867070,
+    "wof:lastmodified":1566588347,
     "wof:name":"Don Torcuato",
     "wof:parent_id":1108718117,
     "wof:placetype":"locality",

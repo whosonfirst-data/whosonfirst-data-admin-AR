@@ -10,8 +10,12 @@
     "geom:latitude":-35.67502,
     "geom:longitude":-58.43456,
     "iso:country":"AR",
+    "lbl:bbox":"-58.45456,-35.69502,-58.41456,-35.65502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villanueva"
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3427394,
         "gp:id":467471,
-        "qs:id":181963
+        "qs_pg:id":181963
     },
     "wof:country":"AR",
     "wof:created":1459009945,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421198363,
-    "wof:lastmodified":1562866801,
+    "wof:lastmodified":1566588229,
     "wof:name":"Villanueva",
     "wof:parent_id":1108717959,
     "wof:placetype":"locality",

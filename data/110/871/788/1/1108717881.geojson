@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-35.125138,
     "lbl:longitude":-60.600467,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"Bragado",
     "meso:gadm_hasc2":"AR.BA.BG",
@@ -37,6 +39,7 @@
     "mps:longitude":-60.600467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u063a\u062f\u0648"
     ],
@@ -83,9 +86,9 @@
         "\u5e03\u62c9\u52a0\u591a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,230.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108717881,
-    "wof:lastmodified":1562866329,
+    "wof:lastmodified":1566588012,
     "wof:name":"Bragado",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

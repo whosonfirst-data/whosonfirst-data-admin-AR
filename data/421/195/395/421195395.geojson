@@ -10,8 +10,12 @@
     "geom:latitude":-33.17658,
     "geom:longitude":-63.28281,
     "iso:country":"AR",
+    "lbl:bbox":"-63.30281,-33.19658,-63.26281,-33.15658",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Santa Eufemia"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3836284,
         "gp:id":56040077,
-        "qs:id":150394,
+        "qs_pg:id":150394,
         "wd:id":"Q10367830"
     },
     "wof:country":"AR",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421195395,
-    "wof:lastmodified":1562866557,
+    "wof:lastmodified":1566588129,
     "wof:name":"Santa Eufemia",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

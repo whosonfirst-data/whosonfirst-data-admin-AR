@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-58.09755,-30.77739,-58.05755,-30.73739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "F.S. Pedri"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226428141,
-    "wof:lastmodified":1537584906,
+    "wof:lastmodified":1566588513,
     "wof:name":"F.S. Pedri",
     "wof:parent_id":421181877,
     "wof:placetype":"locality",

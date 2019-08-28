@@ -11,10 +11,14 @@
     "geom:longitude":-57.27531,
     "gn:country":"AR",
     "gn:fcode":"PPL",
-    "gn:pop":2856,
+    "gn:population":2856,
     "iso:country":"AR",
+    "lbl:bbox":"-57.29531,-27.78834,-57.25531,-27.74834",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b2\u09cb\u09b0\u09c7\u099f\u09cb"
     ],
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3431244,
         "gp:id":467752,
-        "qs:id":583307,
+        "qs_pg:id":583307,
         "wk:page":"Loreto"
     },
     "wof:country":"AR",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890439913,
-    "wof:lastmodified":1562867094,
+    "wof:lastmodified":1566588354,
     "wof:name":"Loreto",
     "wof:parent_id":1108718189,
     "wof:placetype":"locality",

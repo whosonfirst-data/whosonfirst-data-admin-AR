@@ -10,8 +10,12 @@
     "geom:latitude":-24.70585,
     "geom:longitude":-65.39791,
     "iso:country":"AR",
+    "lbl:bbox":"-65.41791,-24.72585,-65.37791,-24.68585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "vaqueiro"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3833182,
         "gp:id":332316,
-        "qs:id":1013216,
+        "qs_pg:id":1013216,
         "wd:id":"Q1401609"
     },
     "wof:country":"AR",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421184813,
-    "wof:lastmodified":1562866966,
+    "wof:lastmodified":1566588293,
     "wof:name":"Vaqueros",
     "wof:parent_id":421187151,
     "wof:placetype":"locality",

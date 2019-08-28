@@ -10,10 +10,14 @@
     "geom:latitude":-26.66418,
     "geom:longitude":-65.4052,
     "iso:country":"AR",
+    "lbl:bbox":"-65.4252,-26.68418,-65.3852,-26.64418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tipas"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3847753,
         "gp:id":468933,
-        "qs:id":495641
+        "qs_pg:id":495641
     },
     "wof:country":"AR",
     "wof:created":1459009302,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421181627,
-    "wof:lastmodified":1501268871,
+    "wof:lastmodified":1566588218,
     "wof:name":"Las Tipas",
     "wof:parent_id":421202257,
     "wof:placetype":"locality",

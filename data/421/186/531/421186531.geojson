@@ -10,8 +10,12 @@
     "geom:latitude":-33.07872,
     "geom:longitude":-63.27657,
     "iso:country":"AR",
+    "lbl:bbox":"-63.29657,-33.09872,-63.25657,-33.05872",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chaz\u00f3n"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3861595,
         "gp:id":465037,
-        "qs:id":1072494,
+        "qs_pg:id":1072494,
         "wd:id":"Q8345116"
     },
     "wof:country":"AR",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421186531,
-    "wof:lastmodified":1562866763,
+    "wof:lastmodified":1566588213,
     "wof:name":"Chaz\u00f3n",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

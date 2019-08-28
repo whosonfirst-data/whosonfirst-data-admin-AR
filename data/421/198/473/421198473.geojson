@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.445434,
     "lbl:longitude":-55.090751,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Misiones",
     "meso:gadm_admin":"Ober\u00e1",
     "meso:gadm_hasc2":"AR.MN.OB",
@@ -37,6 +39,7 @@
     "mps:longitude":-55.090751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ober\u00e1"
@@ -67,9 +70,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"1,620.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":20070724,
         "hasc:id":"AR.MN.OB",
-        "qs:id":425238
+        "qs_pg:id":425238
     },
     "wof:country":"AR",
     "wof:created":1459009949,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421198473,
-    "wof:lastmodified":1560898148,
+    "wof:lastmodified":1566588236,
     "wof:name":"Obera",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

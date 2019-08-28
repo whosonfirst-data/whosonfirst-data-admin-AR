@@ -10,8 +10,12 @@
     "geom:latitude":-32.0186,
     "geom:longitude":-62.91984,
     "iso:country":"AR",
+    "lbl:bbox":"-62.93984,-32.0386,-62.89984,-31.9986",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pozo del Molle"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3840470,
         "gp:id":467030,
-        "qs:id":1046831,
+        "qs_pg:id":1046831,
         "wd:id":"Q3909741"
     },
     "wof:country":"AR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421196033,
-    "wof:lastmodified":1562866866,
+    "wof:lastmodified":1566588254,
     "wof:name":"Pozo del Molle",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

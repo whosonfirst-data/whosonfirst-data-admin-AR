@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Catamarca",
     "iso:country":"AR",
+    "lbl:bbox":"-66.08168,-26.67326,-66.04168,-26.63326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Mojarras"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242586243,
-    "wof:lastmodified":1562867207,
+    "wof:lastmodified":1566588407,
     "wof:name":"Las Mojarras",
     "wof:parent_id":1108718157,
     "wof:placetype":"locality",

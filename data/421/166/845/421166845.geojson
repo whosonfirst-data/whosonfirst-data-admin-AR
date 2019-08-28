@@ -10,8 +10,12 @@
     "geom:latitude":-33.19494,
     "geom:longitude":-60.4687,
     "iso:country":"AR",
+    "lbl:bbox":"-60.4887,-33.21494,-60.4487,-33.17494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Fighiera"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3855570,
         "gp:id":465396,
-        "qs:id":1262924,
+        "qs_pg:id":1262924,
         "wd:id":"Q5861895"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421166845,
-    "wof:lastmodified":1562866519,
+    "wof:lastmodified":1566588114,
     "wof:name":"Fighiera",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

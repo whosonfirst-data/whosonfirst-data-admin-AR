@@ -10,10 +10,14 @@
     "geom:latitude":-35.76952,
     "geom:longitude":-58.49341,
     "iso:country":"AR",
+    "lbl:bbox":"-58.51341,-35.78952,-58.47341,-35.74952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "General Belgrano"
     ],
     "qs:gn_country":"AR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3433817,
         "gp:id":466967,
-        "qs:id":181914
+        "qs_pg:id":181914
     },
     "wof:country":"AR",
     "wof:created":1459009944,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421198331,
-    "wof:lastmodified":1501266406,
+    "wof:lastmodified":1566588228,
     "wof:name":"Gral Belgrano",
     "wof:parent_id":1108717945,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-33.14156,
     "geom:longitude":-59.30966,
     "iso:country":"AR",
+    "lbl:bbox":"-59.32966,-33.16156,-59.28966,-33.12156",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -217,7 +220,7 @@
     "wof:concordances":{
         "gn:id":3433663,
         "gp:id":466979,
-        "qs:id":1230043,
+        "qs_pg:id":1230043,
         "wd:id":"Q52602",
         "wk:page":"Gualeguay, Entre R\u00edos"
     },
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421180723,
-    "wof:lastmodified":1562866704,
+    "wof:lastmodified":1566588186,
     "wof:name":"Gualeguay",
     "wof:parent_id":421194439,
     "wof:placetype":"locality",

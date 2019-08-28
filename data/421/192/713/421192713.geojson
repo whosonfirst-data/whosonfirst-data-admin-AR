@@ -10,8 +10,12 @@
     "geom:latitude":-45.7,
     "geom:longitude":-67.46667,
     "iso:country":"AR",
+    "lbl:bbox":"-67.48667,-45.72,-67.44667,-45.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Mosconi neighbourhood"
@@ -20,9 +24,6 @@
         "General Mosconi neighbourhood"
     ],
     "name:spa_x_preferred":[
-        "General Mosconi"
-    ],
-    "name:unk_x_variant":[
         "General Mosconi"
     ],
     "qs:gn_country":"AR",
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3855087,
         "gp:id":22528824,
-        "qs:id":1173678,
+        "qs_pg:id":1173678,
         "wd:id":"Q5532032",
         "wk:page":"General Mosconi neighbourhood"
     },
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":421192713,
-    "wof:lastmodified":1562866531,
+    "wof:lastmodified":1566588119,
     "wof:name":"Gral Mosconi",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

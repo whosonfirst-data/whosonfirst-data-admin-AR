@@ -10,8 +10,12 @@
     "geom:latitude":-26.01517,
     "geom:longitude":-54.67306,
     "iso:country":"AR",
+    "lbl:bbox":"-54.69306,-26.03517,-54.65306,-25.99517",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Puerto Esperanza"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esperanza"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3429786,
         "gp:id":466248,
-        "qs:id":1010246,
+        "qs_pg:id":1010246,
         "wd:id":"Q3112889",
         "wk:page":"Puerto Esperanza, Misiones"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421184789,
-    "wof:lastmodified":1562866969,
+    "wof:lastmodified":1566588295,
     "wof:name":"Puerto Esperanza",
     "wof:parent_id":85676705,
     "wof:placetype":"locality",

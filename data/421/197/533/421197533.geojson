@@ -10,8 +10,12 @@
     "geom:latitude":-35.05224,
     "geom:longitude":-59.51275,
     "iso:country":"AR",
+    "lbl:bbox":"-59.53275,-35.07224,-59.49275,-35.03224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Las Marianas"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3431721,
         "gp:id":331202,
-        "qs:id":342449,
+        "qs_pg:id":342449,
         "wd:id":"Q5970554"
     },
     "wof:country":"AR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421197533,
-    "wof:lastmodified":1562866907,
+    "wof:lastmodified":1566588270,
     "wof:name":"Las Marianas",
     "wof:parent_id":1108718035,
     "wof:placetype":"locality",

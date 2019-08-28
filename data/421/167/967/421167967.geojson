@@ -10,8 +10,12 @@
     "geom:latitude":-26.30808,
     "geom:longitude":-59.37291,
     "iso:country":"AR",
+    "lbl:bbox":"-59.39291,-26.32808,-59.35291,-26.28808",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Colorado"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3434731,
         "gp:id":332730,
-        "qs:id":1205345,
+        "qs_pg:id":1205345,
         "wd:id":"Q994889",
         "wk:page":"El Colorado"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421167967,
-    "wof:lastmodified":1562866597,
+    "wof:lastmodified":1566588144,
     "wof:name":"El Colorado",
     "wof:parent_id":421200145,
     "wof:placetype":"locality",

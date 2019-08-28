@@ -10,8 +10,12 @@
     "geom:latitude":-38.66667,
     "geom:longitude":-70.9,
     "iso:country":"AR",
+    "lbl:bbox":"-70.92,-38.68667,-70.88,-38.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Pas de Pino Hachado"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3841079,
         "gp:id":466126,
-        "qs:id":1062840,
+        "qs_pg:id":1062840,
         "wd:id":"Q7196378"
     },
     "wof:country":"AR",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421186253,
-    "wof:lastmodified":1562866768,
+    "wof:lastmodified":1566588215,
     "wof:name":"Pino Hachado",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",

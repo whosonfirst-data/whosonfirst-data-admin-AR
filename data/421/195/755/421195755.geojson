@@ -10,8 +10,12 @@
     "geom:latitude":-35.18286,
     "geom:longitude":-59.08975,
     "iso:country":"AR",
+    "lbl:bbox":"-59.10975,-35.20286,-59.06975,-35.16286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0648\u0633"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3431313,
         "gp:id":466995,
-        "qs:id":672513,
+        "qs_pg:id":672513,
         "wd:id":"Q1867123",
         "wk:page":"Lobos"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421195755,
-    "wof:lastmodified":1562866535,
+    "wof:lastmodified":1566588121,
     "wof:name":"Lobos",
     "wof:parent_id":1108718007,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Buenos_Aires",
     "iso:country":"AR",
+    "lbl:bbox":"-58.7939,-35.95091,-58.7539,-35.91091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Newton"
     ],
@@ -235,7 +239,7 @@
         }
     ],
     "wof:id":1226256981,
-    "wof:lastmodified":1562867449,
+    "wof:lastmodified":1566588539,
     "wof:name":"Newton",
     "wof:parent_id":1108717997,
     "wof:placetype":"locality",

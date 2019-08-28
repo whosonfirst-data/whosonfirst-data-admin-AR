@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000854,
-    "geom:area_square_m":8680252.562323,
+    "geom:area_square_m":8680252.562319,
     "geom:bbox":"-58.4664916992,-34.6940901724,-58.4240016545,-34.6567433494",
     "geom:latitude":-34.675682,
     "geom:longitude":-58.445506,
@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.666493,
     "lbl:longitude":-58.449295,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.675554,
     "mps:longitude":-58.445506,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:spa_x_preferred":[
-        "Lacarra"
-    ],
-    "name:unk_x_variant":[
         "Lacarra"
     ],
     "qs:gn_adm0_cc":"AR",
@@ -59,8 +57,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -72,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3432891,
         "gp:id":331106,
-        "qs:id":216602
+        "qs_pg:id":216602
     },
     "wof:country":"AR",
     "wof:geomhash":"3dbc8d069fd8744ef4e6f09d60c11264",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659281,
+    "wof:lastmodified":1566587667,
     "wof:name":"Lacarra",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

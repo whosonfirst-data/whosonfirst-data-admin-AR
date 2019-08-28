@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-34.848573,
     "lbl:longitude":-68.356655,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mendoza",
     "meso:gadm_admin":"San Rafael",
     "meso:gadm_hasc2":"AR.MZ.SR",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.356655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Rafael"
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"31,235.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":20071013,
         "hasc:id":"AR.MZ.SR",
-        "qs:id":1087240
+        "qs_pg:id":1087240
     },
     "wof:country":"AR",
     "wof:created":1459009532,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421188045,
-    "wof:lastmodified":1562866729,
+    "wof:lastmodified":1566588198,
     "wof:name":"San Rafael",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

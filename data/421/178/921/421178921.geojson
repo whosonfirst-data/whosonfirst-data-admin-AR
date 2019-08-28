@@ -10,8 +10,12 @@
     "geom:latitude":-27.00147,
     "geom:longitude":-59.84243,
     "iso:country":"AR",
+    "lbl:bbox":"-59.86243,-27.02147,-59.82243,-26.98147",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Presidencia de la Plaza"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0456\u0434\u0435\u043d\u0441\u044c\u044f-\u0434\u0435-\u043b\u0430-\u041f\u043b\u0430\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto de la Plaza"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3429866,
         "gp:id":466191,
-        "qs:id":291160,
+        "qs_pg:id":291160,
         "wd:id":"Q1656867",
         "wk:page":"Presidencia de la Plaza"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421178921,
-    "wof:lastmodified":1561793260,
+    "wof:lastmodified":1566588316,
     "wof:name":"Presidencia de la Plaza",
     "wof:parent_id":1108718219,
     "wof:placetype":"locality",

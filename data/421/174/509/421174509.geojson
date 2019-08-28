@@ -10,8 +10,12 @@
     "geom:latitude":-31.829,
     "geom:longitude":-58.82081,
     "iso:country":"AR",
+    "lbl:bbox":"-58.84081,-31.849,-58.80081,-31.809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f \u041a\u043b\u0430\u0440\u0430"
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041a\u043b\u0430\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Villa Clara"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3435373,
         "gp:id":467583,
-        "qs:id":884014,
+        "qs_pg:id":884014,
         "wd:id":"Q2955801",
         "wk:page":"Villa Clara, Entre R\u00edos"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421174509,
-    "wof:lastmodified":1562866680,
+    "wof:lastmodified":1566588178,
     "wof:name":"Clara",
     "wof:parent_id":1108718259,
     "wof:placetype":"locality",

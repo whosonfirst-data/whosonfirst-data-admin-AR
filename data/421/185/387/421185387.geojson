@@ -10,8 +10,12 @@
     "geom:latitude":-31.26738,
     "geom:longitude":-64.30087,
     "iso:country":"AR",
+    "lbl:bbox":"-64.32087,-31.28738,-64.28087,-31.24738",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mendiolaza"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3844424,
         "gp:id":465828,
-        "qs:id":1024099,
+        "qs_pg:id":1024099,
         "wd:id":"Q9031514"
     },
     "wof:country":"AR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421185387,
-    "wof:lastmodified":1562867070,
+    "wof:lastmodified":1566588347,
     "wof:name":"Mendiolaza",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

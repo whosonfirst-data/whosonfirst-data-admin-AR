@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-35.008594,
     "lbl:longitude":-61.026962,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Buenos Aires",
     "meso:gadm_admin":"General Viamonte",
     "meso:gadm_hasc2":"AR.BA.GT",
@@ -37,6 +39,7 @@
     "mps:longitude":-61.026962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "General Viamonte"
     ],
@@ -44,9 +47,9 @@
         "General Viamonte"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"2,150.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108717971,
-    "wof:lastmodified":1560901502,
+    "wof:lastmodified":1566587947,
     "wof:name":"General Viamonte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -9,14 +9,15 @@
     "geom:bbox":"-58.5072937378,-34.6412999737,-58.4785455518,-34.6213705332",
     "geom:latitude":-34.631361,
     "geom:longitude":-58.493277,
-    "gn:gn_country":"AR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.63333,
     "gn:longitude":-58.48333,
+    "gn:population":0,
     "iso:country":"AR",
     "lbl:latitude":-34.631314,
     "lbl:longitude":-58.493052,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.630948,
     "mps:longitude":-58.483649,
     "mz:hierarchy_label":1,
@@ -75,9 +76,6 @@
         "Velez Sarsfield",
         "V\u00e9lez S\u00e1rsfield"
     ],
-    "name:unk_x_variant":[
-        "V\u00e9lez Sarsfield"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -126,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -138,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3427528,
         "gp:id":332320,
-        "qs:id":1270633,
         "qs_pg:id":1270633,
         "wd:id":"Q643942",
         "wk:page":"V\u00e9lez S\u00e1rsfield (barrio)"
@@ -159,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1562865708,
+    "wof:lastmodified":1566587657,
     "wof:name":"V\u00e9lez Sarsfield",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

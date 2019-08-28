@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001667,
-    "geom:area_square_m":16985788.630089,
+    "geom:area_square_m":16985788.630077,
     "geom:bbox":"-58.5588891601,-34.6041073673,-58.5049438477,-34.4544831153",
     "geom:latitude":-34.525523,
     "geom:longitude":-58.527786,
@@ -14,6 +14,7 @@
     "iso:country":"AR",
     "lbl:latitude":-34.576744,
     "lbl:longitude":-58.538041,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.594846,
     "mps:longitude":-58.545337,
     "mz:hierarchy_label":1,
@@ -45,10 +46,6 @@
         "General Jos\u00e9 de S Mart\u00edn",
         "General Jos\u00e9 de S. Mart\u00edn"
     ],
-    "name:unk_x_variant":[
-        "General J. de San Mart\u00edn",
-        "General Jos\u00e9 de San Mart\u00edn"
-    ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3435910,
@@ -75,8 +72,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191577,
         85668015,
@@ -87,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3433802,
         "gp:id":330685,
-        "qs:id":216598
+        "qs_pg:id":216598
     },
     "wof:country":"AR",
     "wof:geomhash":"d8d5d4367490da63d773ec29c9f42524",
@@ -104,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1507659281,
+    "wof:lastmodified":1566587667,
     "wof:name":"General Jos\u00e9 de San Mart\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

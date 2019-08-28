@@ -10,8 +10,12 @@
     "geom:latitude":-34.90314,
     "geom:longitude":-60.75461,
     "iso:country":"AR",
+    "lbl:bbox":"-60.77461,-34.92314,-60.73461,-34.88314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "General O'Brien"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0443\u0430\u0440\u0434\u043e-\u041e'\u0411\u0440\u0430\u0454\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "O\u2019Brien"
     ],
     "qs:gn_country":"AR",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3855083,
         "gp:id":467663,
-        "qs:id":1222505,
+        "qs_pg:id":1222505,
         "wd:id":"Q8963745",
         "wk:page":"O'Brien, Argentina"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421179721,
-    "wof:lastmodified":1562867000,
+    "wof:lastmodified":1566588312,
     "wof:name":"General O'Brien",
     "wof:parent_id":1108717881,
     "wof:placetype":"locality",

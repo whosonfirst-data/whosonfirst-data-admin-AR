@@ -10,8 +10,12 @@
     "geom:latitude":-35.07927,
     "geom:longitude":-57.74787,
     "iso:country":"AR",
+    "lbl:bbox":"-57.76787,-35.09927,-57.72787,-35.05927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "General Mansilla"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3433791,
         "gp:id":332582,
-        "qs:id":975883,
+        "qs_pg:id":975883,
         "wd:id":"Q5876974"
     },
     "wof:country":"AR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421195955,
-    "wof:lastmodified":1562866541,
+    "wof:lastmodified":1566588124,
     "wof:name":"General Mansilla",
     "wof:parent_id":1108718011,
     "wof:placetype":"locality",

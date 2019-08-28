@@ -10,8 +10,12 @@
     "geom:latitude":-49.809167,
     "geom:longitude":-72.053089,
     "iso:country":"AR",
+    "lbl:bbox":"-72.0730895,-49.829167,-72.0330895,-49.789167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56040307,
-        "qs:id":972550
+        "qs_pg:id":972550
     },
     "wof:country":"AR",
     "wof:created":1459009366,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421183331,
-    "wof:lastmodified":1499924679,
+    "wof:lastmodified":1566588305,
     "wof:name":"Parador la Leona",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16875571.650632,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-60.735708,-32.927791,-60.735708,-32.927791",
     "geom:latitude":-32.927791,
     "geom:longitude":-60.735708,
     "gn:id":"",
     "iso:country":"AR",
+    "lbl:bbox":"-60.740708,-32.932791,-60.730708,-32.922791",
     "lbl:latitude":-32.927791,
     "lbl:longitude":-60.735708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-32.927016,
     "mps:longitude":-60.738909,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:spa_x_variant":[
         "Fisherton"
-    ],
-    "name:unk_x_variant":[
-        "Ant\u00e1rtida Argentina"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_id":0,
@@ -61,18 +60,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85668077,
         102191577,
         85632505,
-        421171509,
-        85668077
+        421171509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":329924,
-        "qs:id":1074933
+        "qs_pg:id":1074933
     },
     "wof:country":"AR",
     "wof:geomhash":"ba15d2343397f10fc9c25e992f0f28a0",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858881,
+    "wof:lastmodified":1566587664,
     "wof:name":"Ant\u00e1rtida Argentina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

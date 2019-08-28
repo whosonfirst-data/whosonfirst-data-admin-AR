@@ -10,8 +10,12 @@
     "geom:latitude":-39.1,
     "geom:longitude":-67.06667,
     "iso:country":"AR",
+    "lbl:bbox":"-67.08667,-39.12,-67.04667,-39.08",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Villa Regina"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3832647,
         "gp:id":467087,
-        "qs:id":1046734,
+        "qs_pg:id":1046734,
         "wd:id":"Q1017096",
         "wk:page":"Villa Regina"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421193035,
-    "wof:lastmodified":1562866591,
+    "wof:lastmodified":1566588142,
     "wof:name":"Villa Regina",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

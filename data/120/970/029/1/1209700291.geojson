@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
+    "lbl:bbox":"-62.27339,-24.11998,-62.23339,-24.07998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1209700291,
-    "wof:lastmodified":1562866075,
+    "wof:lastmodified":1566587852,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108718265,
     "wof:placetype":"locality",

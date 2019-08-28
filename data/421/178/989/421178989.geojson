@@ -10,6 +10,9 @@
     "geom:latitude":-39.26667,
     "geom:longitude":-65.68333,
     "iso:country":"AR",
+    "lbl:bbox":"-65.70333,-39.28667,-65.66333,-39.24667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0435\u043b\u0435-\u0427\u043e\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C. Choel"
     ],
     "name:zho_x_preferred":[
@@ -197,7 +200,7 @@
     "wof:concordances":{
         "gn:id":3861329,
         "gp:id":467179,
-        "qs:id":150538,
+        "qs_pg:id":150538,
         "wd:id":"Q52522",
         "wk:page":"Choele Choel"
     },
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421178989,
-    "wof:lastmodified":1562867010,
+    "wof:lastmodified":1566588315,
     "wof:name":"Choele Choel",
     "wof:parent_id":1108718387,
     "wof:placetype":"locality",

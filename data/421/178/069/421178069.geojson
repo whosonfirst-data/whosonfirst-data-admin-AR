@@ -10,8 +10,12 @@
     "geom:latitude":-34.49397,
     "geom:longitude":-58.51679,
     "iso:country":"AR",
+    "lbl:bbox":"-58.53679,-34.51397,-58.49679,-34.47397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0632"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3430813,
         "gp:id":465801,
-        "qs:id":276997,
+        "qs_pg:id":276997,
         "wd:id":"Q1840873",
         "wk:page":"Mart\u00ednez, Buenos Aires"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421178069,
-    "wof:lastmodified":1562867008,
+    "wof:lastmodified":1566588315,
     "wof:name":"Mart\u00ednez",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

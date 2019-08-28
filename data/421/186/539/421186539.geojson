@@ -10,8 +10,12 @@
     "geom:latitude":-46.7949,
     "geom:longitude":-67.95731,
     "iso:country":"AR",
+    "lbl:bbox":"-67.97731,-46.8149,-67.93731,-46.7749",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Pico Truncado"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043a\u043e-\u0422\u0440\u0443\u043d\u043a\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pico Troncado"
     ],
     "qs:gn_country":"AR",
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3841309,
         "gp:id":466108,
-        "qs:id":1072737,
+        "qs_pg:id":1072737,
         "wd:id":"Q81562",
         "wk:page":"Pico Truncado"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421186539,
-    "wof:lastmodified":1562866761,
+    "wof:lastmodified":1566588212,
     "wof:name":"Pico Truncado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

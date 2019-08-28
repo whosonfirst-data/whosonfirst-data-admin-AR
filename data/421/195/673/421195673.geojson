@@ -10,8 +10,12 @@
     "geom:latitude":-33.19051,
     "geom:longitude":-68.46081,
     "iso:country":"AR",
+    "lbl:bbox":"-68.48081,-33.21051,-68.44081,-33.17051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rivadavia"
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3838759,
         "gp:id":467045,
-        "qs:id":489572,
+        "qs_pg:id":489572,
         "wd:id":"Q3117988"
     },
     "wof:country":"AR",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421195673,
-    "wof:lastmodified":1562866545,
+    "wof:lastmodified":1566588125,
     "wof:name":"Rivadavia",
     "wof:parent_id":421173921,
     "wof:placetype":"locality",

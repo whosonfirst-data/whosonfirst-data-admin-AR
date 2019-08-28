@@ -10,8 +10,12 @@
     "geom:latitude":-29.23202,
     "geom:longitude":-61.76917,
     "iso:country":"AR",
+    "lbl:bbox":"-61.78917,-29.25202,-61.74917,-29.21202",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tostado"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3834048,
         "gp:id":467066,
-        "qs:id":245169,
+        "qs_pg:id":245169,
         "wd:id":"Q971021",
         "wk:page":"Tostado, Santa Fe"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204699,
-    "wof:lastmodified":1562866637,
+    "wof:lastmodified":1566588160,
     "wof:name":"Tostado",
     "wof:parent_id":1108718455,
     "wof:placetype":"locality",

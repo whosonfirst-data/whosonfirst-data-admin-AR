@@ -10,6 +10,9 @@
     "geom:latitude":-29.18186,
     "geom:longitude":-58.07895,
     "iso:country":"AR",
+    "lbl:bbox":"-58.09895,-29.20186,-58.05895,-29.16186",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":3430709,
         "gp:id":467004,
-        "qs:id":1044610,
+        "qs_pg:id":1044610,
         "wd:id":"Q1783539",
         "wk:page":"Mercedes, Corrientes"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421176125,
-    "wof:lastmodified":1562867028,
+    "wof:lastmodified":1566588322,
     "wof:name":"Mercedes",
     "wof:parent_id":421171455,
     "wof:placetype":"locality",

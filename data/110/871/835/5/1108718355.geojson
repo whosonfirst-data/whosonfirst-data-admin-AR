@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-33.124207,
     "lbl:longitude":-68.458025,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mendoza",
     "meso:gadm_admin":"Jun\u00edn",
     "meso:gadm_hasc2":"AR.MZ.JU",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.458025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jun\u00edn"
     ],
@@ -45,9 +48,9 @@
         "Jun\u00edn"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"263.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108718355,
-    "wof:lastmodified":1560898130,
+    "wof:lastmodified":1566587972,
     "wof:name":"Junin",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

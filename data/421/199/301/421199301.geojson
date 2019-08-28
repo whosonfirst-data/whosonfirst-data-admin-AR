@@ -10,8 +10,12 @@
     "geom:latitude":-31.79765,
     "geom:longitude":-65.00312,
     "iso:country":"AR",
+    "lbl:bbox":"-65.02312,-31.81765,-64.98312,-31.77765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nono"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3843007,
         "gp:id":331543,
-        "qs:id":468694,
+        "qs_pg:id":468694,
         "wd:id":"Q9050593",
         "wk:page":"Nono, C\u00f3rdoba"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421199301,
-    "wof:lastmodified":1562866919,
+    "wof:lastmodified":1566588274,
     "wof:name":"Nono",
     "wof:parent_id":421198475,
     "wof:placetype":"locality",

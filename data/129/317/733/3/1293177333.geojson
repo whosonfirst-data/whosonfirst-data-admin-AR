@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Mendoza",
     "iso:country":"AR",
+    "lbl:bbox":"-69.14602,-33.34977,-69.10602,-33.30977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293177333,
-    "wof:lastmodified":1536737292,
+    "wof:lastmodified":1566587758,
     "wof:name":"Villa Bastia",
     "wof:parent_id":421171271,
     "wof:placetype":"locality",

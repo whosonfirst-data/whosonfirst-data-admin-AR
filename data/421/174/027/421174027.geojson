@@ -10,8 +10,12 @@
     "geom:latitude":-30.01444,
     "geom:longitude":-59.52719,
     "iso:country":"AR",
+    "lbl:bbox":"-59.54719,-30.03444,-59.50719,-29.99444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Esquina"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3434095,
         "gp:id":466957,
-        "qs:id":672400,
+        "qs_pg:id":672400,
         "wd:id":"Q55860",
         "wk:page":"Esquina, Corrientes"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421174027,
-    "wof:lastmodified":1562866684,
+    "wof:lastmodified":1566588179,
     "wof:name":"Esquina",
     "wof:parent_id":421191007,
     "wof:placetype":"locality",

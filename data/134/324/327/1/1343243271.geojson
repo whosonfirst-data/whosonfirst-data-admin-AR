@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
+    "lbl:bbox":"-64.37149,-37.56473,-64.33149,-37.52473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Unanu\u00e9"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343243271,
-    "wof:lastmodified":1537584834,
+    "wof:lastmodified":1566587621,
     "wof:name":"Unanue",
     "wof:parent_id":1108718319,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.87459,
     "geom:longitude":-58.05774,
     "iso:country":"AR",
+    "lbl:bbox":"-58.07774,-34.89459,-58.03774,-34.85459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "City Bell"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3435379,
         "gp:id":467582,
-        "qs:id":219216,
+        "qs_pg:id":219216,
         "wd:id":"Q2436247",
         "wk:page":"City Bell"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421202087,
-    "wof:lastmodified":1562866657,
+    "wof:lastmodified":1566588169,
     "wof:name":"City Bell",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

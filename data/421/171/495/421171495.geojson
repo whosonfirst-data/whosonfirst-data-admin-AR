@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-27.96969,
     "lbl:longitude":-57.028561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Corrientes",
     "meso:gadm_admin":"Ituzaing\u00f3",
     "meso:gadm_hasc2":"AR.CN.IZ",
@@ -37,6 +39,7 @@
     "mps:longitude":-57.028561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ituzaing\u00f3"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-27",
+    "src:population_date":"2010-10-27",
     "statoids:area_km":"8,613.0",
     "statoids:as_of_date":"2010-10-27",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":20070812,
         "hasc:id":"AR.CN.IZ",
-        "qs:id":1251776
+        "qs_pg:id":1251776
     },
     "wof:country":"AR",
     "wof:created":1459008896,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421171495,
-    "wof:lastmodified":1560898154,
+    "wof:lastmodified":1566588338,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-34.47706,
     "geom:longitude":-58.50177,
     "iso:country":"AR",
+    "lbl:bbox":"-58.52177,-34.49706,-58.48177,-34.45706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Acassuso"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3436508,
         "gp:id":464516,
-        "qs:id":242682,
+        "qs_pg:id":242682,
         "wd:id":"Q2351223",
         "wk:page":"Acassuso"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421204603,
-    "wof:lastmodified":1562866626,
+    "wof:lastmodified":1566588156,
     "wof:name":"Acassuso",
     "wof:parent_id":1108718099,
     "wof:placetype":"locality",

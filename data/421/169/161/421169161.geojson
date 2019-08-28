@@ -10,6 +10,9 @@
     "geom:latitude":-32.40751,
     "geom:longitude":-63.24016,
     "iso:country":"AR",
+    "lbl:bbox":"-63.26016,-32.42751,-63.22016,-32.38751",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -274,7 +277,7 @@
     "wof:concordances":{
         "gn:id":3832694,
         "gp:id":466889,
-        "qs:id":274518,
+        "qs_pg:id":274518,
         "wd:id":"Q2525523",
         "wk:page":"Villa Mar\u00eda"
     },
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421169161,
-    "wof:lastmodified":1562866599,
+    "wof:lastmodified":1566588145,
     "wof:name":"Villa Mar\u00eda",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",
