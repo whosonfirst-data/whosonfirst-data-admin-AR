@@ -195,6 +195,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009068,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b025ecb6d530d8ca69a2d56e18c94a63",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421175465,
-    "wof:lastmodified":1561793246,
+    "wof:lastmodified":1582358634,
     "wof:name":"Uspallata",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

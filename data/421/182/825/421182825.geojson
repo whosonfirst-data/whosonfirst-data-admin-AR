@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009348,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c33aa98c9280c175a2b6a77563081bb8",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421182825,
-    "wof:lastmodified":1566588318,
+    "wof:lastmodified":1582358641,
     "wof:name":"Famailla",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

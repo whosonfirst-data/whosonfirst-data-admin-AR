@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009247,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03ba0c60e4b21804dc13db1501e70bf9",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421180187,
-    "wof:lastmodified":1566588185,
+    "wof:lastmodified":1582358629,
     "wof:name":"Montecarlo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

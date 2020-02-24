@@ -363,6 +363,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009789,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4697831a939ce32cc7355aa80be666be",
     "wof:hierarchy":[
         {
@@ -374,7 +377,7 @@
         }
     ],
     "wof:id":421193995,
-    "wof:lastmodified":1566588141,
+    "wof:lastmodified":1582358624,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

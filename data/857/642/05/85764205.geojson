@@ -133,6 +133,9 @@
         "wk:page":"Monte Castro"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3471e42f76d953c04a0da8f912ad380",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587658,
+    "wof:lastmodified":1582358590,
     "wof:name":"Monte Castro",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

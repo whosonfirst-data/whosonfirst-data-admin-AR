@@ -215,6 +215,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009817,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"0d11374b8519c9b9849271bc2f9375f4",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421194705,
-    "wof:lastmodified":1561793227,
+    "wof:lastmodified":1582358624,
     "wof:name":"Esquel",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",

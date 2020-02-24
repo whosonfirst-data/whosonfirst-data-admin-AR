@@ -159,6 +159,9 @@
         "wk:page":"Retiro, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"410a06e228c9d4197d152c1b82d41044",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587660,
+    "wof:lastmodified":1582358590,
     "wof:name":"Retiro",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

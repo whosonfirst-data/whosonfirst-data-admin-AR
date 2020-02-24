@@ -208,6 +208,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009046,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"1746dd1bce20f6e8ca3d359c8dab6777",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421174843,
-    "wof:lastmodified":1566588175,
+    "wof:lastmodified":1582358628,
     "wof:name":"Humahuaca",
     "wof:parent_id":421204061,
     "wof:placetype":"locality",

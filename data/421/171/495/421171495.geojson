@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a9e603739124e0535f4cb9f546f0d90",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421171495,
-    "wof:lastmodified":1566588338,
+    "wof:lastmodified":1582358644,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

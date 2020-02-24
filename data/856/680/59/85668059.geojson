@@ -406,6 +406,9 @@
         "wk:page":"Tucum\u00e1n Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfc0b12219cbe6f23a5f036c89016bf4",
     "wof:hierarchy":[
         {
@@ -421,7 +424,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587669,
+    "wof:lastmodified":1582358594,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"703e0db8dd48053cd3b4f152857a057d",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171465,
-    "wof:lastmodified":1566588328,
+    "wof:lastmodified":1582358642,
     "wof:name":"Tercero Arriba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

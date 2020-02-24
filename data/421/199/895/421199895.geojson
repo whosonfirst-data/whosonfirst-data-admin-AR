@@ -121,6 +121,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae3b99e09802110da819cc6cb47346c6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421199895,
-    "wof:lastmodified":1566588275,
+    "wof:lastmodified":1582358637,
     "wof:name":"El Cuy",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

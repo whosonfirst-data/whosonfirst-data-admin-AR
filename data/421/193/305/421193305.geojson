@@ -196,6 +196,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009767,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"fe497e0d9e4c70de34bfbfd555b856ee",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421193305,
-    "wof:lastmodified":1566588142,
+    "wof:lastmodified":1582358625,
     "wof:name":"Las Plumas",
     "wof:parent_id":421199905,
     "wof:placetype":"locality",

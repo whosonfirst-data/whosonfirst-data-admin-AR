@@ -179,6 +179,9 @@
         "wk:page":"Belgrano, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f89a0869f003874363640bd27faad56",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587664,
+    "wof:lastmodified":1582358591,
     "wof:name":"Belgrano",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

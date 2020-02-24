@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2959d7ce304d7d8899cc94267c4d899f",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421193663,
-    "wof:lastmodified":1566588142,
+    "wof:lastmodified":1582358625,
     "wof:name":"Goya",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

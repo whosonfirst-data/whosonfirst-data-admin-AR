@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009228,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bfde8d2a4eb862231f1931c716db5b3",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421179647,
-    "wof:lastmodified":1566588311,
+    "wof:lastmodified":1582358640,
     "wof:name":"Lanus",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

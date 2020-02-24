@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010148,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"390bf53264aa9f3bd6189a3722ac2b44",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421203353,
-    "wof:lastmodified":1566588163,
+    "wof:lastmodified":1582358626,
     "wof:name":"General Pedernera",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

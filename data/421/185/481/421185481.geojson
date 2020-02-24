@@ -263,6 +263,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009444,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86701b4c69e64281f7a25631e53855dc",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421185481,
-    "wof:lastmodified":1566588345,
+    "wof:lastmodified":1582358645,
     "wof:name":"Rio Cuarto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ea13f53a747e60cfe715235f1c7a3de",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421198473,
-    "wof:lastmodified":1566588236,
+    "wof:lastmodified":1582358635,
     "wof:name":"Obera",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -156,6 +156,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"115ddcb25c8492b22bd5bee22737474a",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421203247,
-    "wof:lastmodified":1566588165,
+    "wof:lastmodified":1582358627,
     "wof:name":"Candelaria",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

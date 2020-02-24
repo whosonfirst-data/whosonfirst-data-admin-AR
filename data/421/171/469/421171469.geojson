@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"713d139939201dfc845149e1502e684d",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421171469,
-    "wof:lastmodified":1566588337,
+    "wof:lastmodified":1582358644,
     "wof:name":"Marcos Juarez",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

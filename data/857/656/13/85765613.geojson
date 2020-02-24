@@ -150,6 +150,9 @@
         "wk:page":"Balvanera"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea9952ac59c4b2d37ed9e10e758c8558",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587663,
+    "wof:lastmodified":1582358591,
     "wof:name":"Balvanera",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

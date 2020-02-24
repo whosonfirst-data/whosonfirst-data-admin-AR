@@ -141,6 +141,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e33e6f30aab29599e3a21dcfad3cf7a",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421185323,
-    "wof:lastmodified":1566588344,
+    "wof:lastmodified":1582358645,
     "wof:name":"Magallanes",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

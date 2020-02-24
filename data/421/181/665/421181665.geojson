@@ -100,6 +100,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009303,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73b51fa8a466f086a10b091e6783b488",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421181665,
-    "wof:lastmodified":1566588220,
+    "wof:lastmodified":1582358633,
     "wof:name":"Hucal",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

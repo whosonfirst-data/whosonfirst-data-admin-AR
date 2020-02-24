@@ -156,6 +156,9 @@
         "wk:page":"Constituci\u00f3n, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4aaa0fc317f26d16d47742137b41513",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587667,
+    "wof:lastmodified":1582358592,
     "wof:name":"Constituci\u00f3n",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

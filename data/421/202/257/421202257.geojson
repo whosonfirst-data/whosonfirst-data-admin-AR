@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3be7b35fc0b2fe758b607c7d4fb68aee",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421202257,
-    "wof:lastmodified":1566588168,
+    "wof:lastmodified":1582358627,
     "wof:name":"Tafi Viejo",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

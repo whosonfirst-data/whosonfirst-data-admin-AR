@@ -168,6 +168,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f515afa72656717ca6cf21b0f3df585d",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421191017,
-    "wof:lastmodified":1566588266,
+    "wof:lastmodified":1582358636,
     "wof:name":"San Roque",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

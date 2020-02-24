@@ -138,6 +138,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008886,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"daba67cbffcaca4020055589c0317237",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421171243,
-    "wof:lastmodified":1566588326,
+    "wof:lastmodified":1582358642,
     "wof:name":"El Carmen",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

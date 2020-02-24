@@ -167,6 +167,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469051994,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"f3fad42db1de649788e49012a49bc405",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890433769,
-    "wof:lastmodified":1566588366,
+    "wof:lastmodified":1582358646,
     "wof:name":"General Conesa",
     "wof:parent_id":1108718389,
     "wof:placetype":"locality",

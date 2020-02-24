@@ -152,6 +152,9 @@
         "wk:page":"Flores, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b7e13e2a5ecb31fb5c23856b2fbee49",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587667,
+    "wof:lastmodified":1582358592,
     "wof:name":"Flores",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

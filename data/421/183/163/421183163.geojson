@@ -99,6 +99,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009360,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ca38454563478dae7cb91846408c214",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421183163,
-    "wof:lastmodified":1566588308,
+    "wof:lastmodified":1582358640,
     "wof:name":"Cainguas",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

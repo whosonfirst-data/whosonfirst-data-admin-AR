@@ -97,6 +97,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009531,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d23099497c2117e49ef734081b6cb470",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421188023,
-    "wof:lastmodified":1566588196,
+    "wof:lastmodified":1582358630,
     "wof:name":"Tres De Febrero",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

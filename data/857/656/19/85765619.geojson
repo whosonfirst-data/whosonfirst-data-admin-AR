@@ -129,6 +129,9 @@
         "wk:page":"Parque Avellaneda"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"929c8e005490d02f5666c07c3ca378fa",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587663,
+    "wof:lastmodified":1582358591,
     "wof:name":"Parque Avellaneda",
     "wof:parent_id":1109371867,
     "wof:placetype":"neighbourhood",

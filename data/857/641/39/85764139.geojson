@@ -96,6 +96,9 @@
         "qs:id":351989
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d8cba24f608c19b9e05ee083d1a750c",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1582358592,
     "wof:name":"La Florida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

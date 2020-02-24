@@ -205,6 +205,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010008,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"8e5fe694020ad228b61f39e176385495",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421199995,
-    "wof:lastmodified":1566588277,
+    "wof:lastmodified":1582358637,
     "wof:name":"Chos Malal",
     "wof:parent_id":421199899,
     "wof:placetype":"locality",

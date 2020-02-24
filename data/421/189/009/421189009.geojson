@@ -293,6 +293,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009596,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e8c5e9d1c3f242881396ab30503ac07",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421189009,
-    "wof:lastmodified":1566588195,
+    "wof:lastmodified":1582358630,
     "wof:name":"Victoria",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

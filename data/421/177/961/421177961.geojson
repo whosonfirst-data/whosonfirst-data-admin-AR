@@ -138,6 +138,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009166,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"616bf9beecb3d9ce7b73e0945a446879",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421177961,
-    "wof:lastmodified":1566588303,
+    "wof:lastmodified":1582358640,
     "wof:name":"San Javier",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

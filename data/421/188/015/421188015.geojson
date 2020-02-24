@@ -127,6 +127,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009531,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f04134d718e45efaba4d03060dfaf43c",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421188015,
-    "wof:lastmodified":1566588197,
+    "wof:lastmodified":1582358630,
     "wof:name":"San Jeronimo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

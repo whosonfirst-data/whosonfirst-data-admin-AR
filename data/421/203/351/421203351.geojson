@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010148,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5bc268b2696234e5a70d1b5083b37871",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421203351,
-    "wof:lastmodified":1566588165,
+    "wof:lastmodified":1582358627,
     "wof:name":"Totoral",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

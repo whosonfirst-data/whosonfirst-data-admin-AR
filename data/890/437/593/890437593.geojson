@@ -225,6 +225,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052157,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"906feff286bb4714aa891b6498763f59",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":890437593,
-    "wof:lastmodified":1566588356,
+    "wof:lastmodified":1582358645,
     "wof:name":"San Carlos de Bariloche",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

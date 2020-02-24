@@ -204,6 +204,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052143,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d182c84c6e84e5c66731602ddaf25569",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":890437223,
-    "wof:lastmodified":1566588357,
+    "wof:lastmodified":1582358645,
     "wof:name":"Puerto Deseado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

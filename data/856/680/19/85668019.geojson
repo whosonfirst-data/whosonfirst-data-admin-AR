@@ -390,6 +390,9 @@
         "wk:page":"La Pampa Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"059494e822f840be54121e923163fb80",
     "wof:hierarchy":[
         {
@@ -405,7 +408,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587674,
+    "wof:lastmodified":1582358596,
     "wof:name":"La Pampa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

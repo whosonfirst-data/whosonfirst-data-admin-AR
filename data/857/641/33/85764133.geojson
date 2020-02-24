@@ -118,6 +118,9 @@
         "wk:page":"Villa Urquiza"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"365fa0421b0eb06723faf92af3f44b9e",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587667,
+    "wof:lastmodified":1582358592,
     "wof:name":"Villa Urquiza",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

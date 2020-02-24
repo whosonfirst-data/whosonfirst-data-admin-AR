@@ -177,6 +177,9 @@
         "wk:page":"La Boca"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3a35c0e4af43cd2a2cbe6e4d9429c66",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587666,
+    "wof:lastmodified":1582358592,
     "wof:name":"La Boca",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

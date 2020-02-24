@@ -127,6 +127,9 @@
         "wk:page":"La Paternal, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9aaac1287a31bd004539ef3bf2390403",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587658,
+    "wof:lastmodified":1582358590,
     "wof:name":"La Paternal",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

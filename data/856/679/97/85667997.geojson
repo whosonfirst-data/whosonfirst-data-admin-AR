@@ -385,6 +385,9 @@
         "wk:page":"San Juan Province, Argentina"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29b5ce51019fa74eef9eb8353a0143f0",
     "wof:hierarchy":[
         {
@@ -400,7 +403,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587698,
+    "wof:lastmodified":1582358611,
     "wof:name":"San Juan",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

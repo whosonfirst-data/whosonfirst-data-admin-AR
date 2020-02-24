@@ -198,6 +198,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4159a68679163d7e43380cf77a2adff",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421199907,
-    "wof:lastmodified":1566588274,
+    "wof:lastmodified":1582358637,
     "wof:name":"San Pedro",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

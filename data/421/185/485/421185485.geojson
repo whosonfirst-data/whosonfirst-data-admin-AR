@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009444,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"28d5de515a80c7e9769c5ced2ed539b3",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421185485,
-    "wof:lastmodified":1566588342,
+    "wof:lastmodified":1582358644,
     "wof:name":"Collon Cura",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

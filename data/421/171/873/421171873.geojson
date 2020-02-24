@@ -91,6 +91,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008910,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5230a65e952c0ba43fb02a0e69de85c6",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421171873,
-    "wof:lastmodified":1566588325,
+    "wof:lastmodified":1582358641,
     "wof:name":"Corralito",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

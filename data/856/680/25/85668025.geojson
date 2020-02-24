@@ -408,6 +408,9 @@
         "wk:page":"R\u00edo Negro Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04bb9a230d65ff7298a4678e84d531c6",
     "wof:hierarchy":[
         {
@@ -423,7 +426,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587684,
+    "wof:lastmodified":1582358602,
     "wof:name":"Rio Negro",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

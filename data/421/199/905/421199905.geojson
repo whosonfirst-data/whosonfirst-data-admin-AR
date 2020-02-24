@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"94f02d4b2c53c644db15e9f9a1dd6a13",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421199905,
-    "wof:lastmodified":1566588278,
+    "wof:lastmodified":1582358637,
     "wof:name":"Martires",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

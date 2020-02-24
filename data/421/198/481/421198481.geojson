@@ -719,6 +719,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f04b348d2cd4807e095dc88a7802121",
     "wof:hierarchy":[
         {
@@ -729,7 +732,7 @@
         }
     ],
     "wof:id":421198481,
-    "wof:lastmodified":1566588235,
+    "wof:lastmodified":1582358635,
     "wof:name":"Uruguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

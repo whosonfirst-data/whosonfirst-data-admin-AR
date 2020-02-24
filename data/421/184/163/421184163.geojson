@@ -156,6 +156,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7997a86100a013336c5d703b3b9dffe",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421184163,
-    "wof:lastmodified":1566588292,
+    "wof:lastmodified":1582358638,
     "wof:name":"Aguirre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

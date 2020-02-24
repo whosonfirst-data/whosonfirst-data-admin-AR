@@ -119,6 +119,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009391,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e82b9960f41f9eca7b2f13c54ae6be6",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421183901,
-    "wof:lastmodified":1566588305,
+    "wof:lastmodified":1582358640,
     "wof:name":"Monteros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

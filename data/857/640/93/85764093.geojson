@@ -75,6 +75,9 @@
         "qs:id":1120366
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26ad4e97dcc1f601bacf8222ce77da0b",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379085,
+    "wof:lastmodified":1582358591,
     "wof:name":"Calzada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

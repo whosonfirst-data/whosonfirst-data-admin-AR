@@ -257,6 +257,9 @@
         "qs_pg:id":389088
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf1d92afa07e65bf36c85b05c22c92a6",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587661,
+    "wof:lastmodified":1582358590,
     "wof:name":"Sorrento",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

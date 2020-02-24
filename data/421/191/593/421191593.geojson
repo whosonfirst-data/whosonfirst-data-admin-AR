@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009698,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9daf27fe78fa0e73eafa917b0db1fb75",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421191593,
-    "wof:lastmodified":1566588257,
+    "wof:lastmodified":1582358635,
     "wof:name":"General G\u00fcemes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

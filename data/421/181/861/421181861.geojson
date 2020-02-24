@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009309,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9052a50ff2148d965650aa0e0fe1a289",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421181861,
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582358633,
     "wof:name":"Arauco",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

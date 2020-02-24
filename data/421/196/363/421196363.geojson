@@ -81,6 +81,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009879,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15912732fae40e1326503deb39baa731",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421196363,
-    "wof:lastmodified":1566588240,
+    "wof:lastmodified":1582358635,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",

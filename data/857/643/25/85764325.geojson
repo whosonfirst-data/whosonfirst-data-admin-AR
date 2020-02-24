@@ -144,6 +144,9 @@
         "wk:page":"Villa Luro"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"086797d4c8bf9a14cd53b0955cf4e6f1",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587657,
+    "wof:lastmodified":1582358589,
     "wof:name":"Villa Luro",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

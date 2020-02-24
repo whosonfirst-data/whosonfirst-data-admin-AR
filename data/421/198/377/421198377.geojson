@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009946,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"405328b50ae2063eecf7a2b9cec62206",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421198377,
-    "wof:lastmodified":1566588232,
+    "wof:lastmodified":1582358634,
     "wof:name":"Albardon",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

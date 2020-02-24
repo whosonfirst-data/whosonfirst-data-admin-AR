@@ -147,6 +147,9 @@
         "wk:page":"N\u00fa\u00f1ez, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"217b2b034b59107fcf12fb2cb060376f",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587659,
+    "wof:lastmodified":1582358590,
     "wof:name":"N\u00fa\u00f1ez",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

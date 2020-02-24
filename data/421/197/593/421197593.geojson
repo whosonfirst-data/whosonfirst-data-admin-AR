@@ -138,6 +138,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009919,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aef638d5bbe7ca343b99f44f2dc72e8a",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421197593,
-    "wof:lastmodified":1566588270,
+    "wof:lastmodified":1582358636,
     "wof:name":"Molinos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

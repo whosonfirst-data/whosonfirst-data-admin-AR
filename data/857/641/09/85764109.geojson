@@ -117,6 +117,9 @@
         "wk:page":"Colegiales"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82a6823104408aa46410a13b3e798477",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587668,
+    "wof:lastmodified":1582358592,
     "wof:name":"Colegiales",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",

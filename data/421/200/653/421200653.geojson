@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010034,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7eb19a4af7cd049d9bf3327f5fb79bdb",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421200653,
-    "wof:lastmodified":1566588284,
+    "wof:lastmodified":1582358638,
     "wof:name":"Corpen Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

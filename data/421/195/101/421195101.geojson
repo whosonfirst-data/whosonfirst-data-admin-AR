@@ -196,6 +196,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009832,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"e505f6c53141829d77aef9ff02053df1",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421195101,
-    "wof:lastmodified":1566588132,
+    "wof:lastmodified":1582358624,
     "wof:name":"Las Heras",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

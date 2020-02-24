@@ -110,6 +110,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009032,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7d63e13a04e94faca8ed1bbebc72ec2",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421174419,
-    "wof:lastmodified":1566588178,
+    "wof:lastmodified":1582358628,
     "wof:name":"Yavi",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

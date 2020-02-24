@@ -153,6 +153,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3981a1af17a4c62675f8fb9bac31aa1a",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421191015,
-    "wof:lastmodified":1566588259,
+    "wof:lastmodified":1582358636,
     "wof:name":"Bella Vista",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

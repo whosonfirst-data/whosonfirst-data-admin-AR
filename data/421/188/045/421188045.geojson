@@ -168,6 +168,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ce7af3e814b26c2fe72e15df58a24da",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421188045,
-    "wof:lastmodified":1566588198,
+    "wof:lastmodified":1582358631,
     "wof:name":"San Rafael",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

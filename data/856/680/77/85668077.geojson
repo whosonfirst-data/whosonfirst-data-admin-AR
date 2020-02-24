@@ -398,6 +398,9 @@
         "wk:page":"Santa Fe Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b5794895d184e6f495ba7781bf0ca50",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587681,
+    "wof:lastmodified":1582358600,
     "wof:name":"Santa Fe",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

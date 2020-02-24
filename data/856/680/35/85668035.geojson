@@ -404,6 +404,9 @@
         "wk:page":"Catamarca Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f178fd30d001538e8e5f9441ebf32455",
     "wof:hierarchy":[
         {
@@ -419,7 +422,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587670,
+    "wof:lastmodified":1582358594,
     "wof:name":"Catamarca",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

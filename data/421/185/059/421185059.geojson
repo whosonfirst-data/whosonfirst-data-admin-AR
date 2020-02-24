@@ -138,6 +138,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78e112bc15a31e38cd8170170c06bd9d",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421185059,
-    "wof:lastmodified":1566588346,
+    "wof:lastmodified":1582358645,
     "wof:name":"Independencia",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

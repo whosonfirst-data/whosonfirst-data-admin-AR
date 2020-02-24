@@ -138,6 +138,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009011,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"365266476ed00a45c3ff2a423911443c",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421173921,
-    "wof:lastmodified":1566588194,
+    "wof:lastmodified":1582358630,
     "wof:name":"Rivadavia",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

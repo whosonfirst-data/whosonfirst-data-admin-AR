@@ -290,6 +290,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009849,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52ece8cd539b79ee9089716db4f226f1",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421195477,
-    "wof:lastmodified":1566588125,
+    "wof:lastmodified":1582358624,
     "wof:name":"Almafuerte",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

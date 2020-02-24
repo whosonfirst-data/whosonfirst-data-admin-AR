@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37e6fd32b429e8a80f181b1cb3981b6f",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421197043,
-    "wof:lastmodified":1566588273,
+    "wof:lastmodified":1582358637,
     "wof:name":"Coronel Felipe Varela",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

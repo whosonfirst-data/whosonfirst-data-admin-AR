@@ -178,6 +178,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052070,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d735da6f93bac220b73d3425ac1358cd",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890435505,
-    "wof:lastmodified":1566588367,
+    "wof:lastmodified":1582358646,
     "wof:name":"Victorica",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

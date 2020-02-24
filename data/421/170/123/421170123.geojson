@@ -136,6 +136,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008837,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08939ad48ce8fe1bede4542832667e0b",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421170123,
-    "wof:lastmodified":1566588301,
+    "wof:lastmodified":1582358639,
     "wof:name":"A\u00f1elo",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

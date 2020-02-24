@@ -1120,7 +1120,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1176,6 +1177,11 @@
     },
     "wof:country":"AR",
     "wof:country_alpha3":"ARG",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"d2e227856be2059214e287445d06303b",
     "wof:hierarchy":[
         {
@@ -1190,7 +1196,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587686,
+    "wof:lastmodified":1582358604,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

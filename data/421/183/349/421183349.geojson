@@ -80,6 +80,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009366,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb158e82030d9f777c44d7d727f67da5",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421183349,
-    "wof:lastmodified":1566588306,
+    "wof:lastmodified":1582358640,
     "wof:name":"Lago Argentino",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

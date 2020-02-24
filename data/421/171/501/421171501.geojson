@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9595f4ceaf9db35629f7a6645b3a1c28",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421171501,
-    "wof:lastmodified":1566588332,
+    "wof:lastmodified":1582358643,
     "wof:name":"Comandante Fernandez",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

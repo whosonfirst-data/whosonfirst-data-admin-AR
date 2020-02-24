@@ -136,6 +136,9 @@
         "qs_pg:id":319710
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10c8a685987aac2201ea87ca22da0907",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587659,
+    "wof:lastmodified":1582358590,
     "wof:name":"Moreno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

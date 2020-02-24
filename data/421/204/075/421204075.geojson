@@ -94,6 +94,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72ce321808c442e22265ee0aaf149785",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421204075,
-    "wof:lastmodified":1566588159,
+    "wof:lastmodified":1582358626,
     "wof:name":"Deseado",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

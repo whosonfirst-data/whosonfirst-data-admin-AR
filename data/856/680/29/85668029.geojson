@@ -380,6 +380,9 @@
         "wk:page":"San Luis Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3cd0e252564a9a9991c133b99d38471",
     "wof:hierarchy":[
         {
@@ -395,7 +398,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587672,
+    "wof:lastmodified":1582358595,
     "wof:name":"San Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

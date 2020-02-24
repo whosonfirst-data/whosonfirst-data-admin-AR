@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008697,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d345770143db0a6f40b122a4b62279c",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421166647,
-    "wof:lastmodified":1566588117,
+    "wof:lastmodified":1582358623,
     "wof:name":"Paso De Indios",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

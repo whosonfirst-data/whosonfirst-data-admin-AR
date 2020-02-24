@@ -410,6 +410,9 @@
         "wk:page":"Neuqu\u00e9n Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e874fa2637d20e24b6a8ee6c8aba0a90",
     "wof:hierarchy":[
         {
@@ -425,7 +428,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587671,
+    "wof:lastmodified":1582358595,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

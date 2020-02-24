@@ -144,6 +144,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d991236b5dc15d17a4b4296b9f27b250",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421191021,
-    "wof:lastmodified":1566588267,
+    "wof:lastmodified":1582358636,
     "wof:name":"Garay",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

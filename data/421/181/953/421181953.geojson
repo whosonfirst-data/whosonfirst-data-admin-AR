@@ -200,6 +200,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009313,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"cf8cc184367ced93a3dcde821b5b5f0d",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421181953,
-    "wof:lastmodified":1566588217,
+    "wof:lastmodified":1582358633,
     "wof:name":"Vera",
     "wof:parent_id":1108718463,
     "wof:placetype":"locality",

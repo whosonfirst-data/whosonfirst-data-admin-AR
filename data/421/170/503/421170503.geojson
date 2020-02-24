@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008856,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6b8140a6e0dfc02b1f6880b788414e6",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421170503,
-    "wof:lastmodified":1566588296,
+    "wof:lastmodified":1582358639,
     "wof:name":"Punilla",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

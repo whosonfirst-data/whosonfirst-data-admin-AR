@@ -178,6 +178,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009495,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"c155f9df7bdd46afb752c9e3d1d45c26",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421186901,
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582358632,
     "wof:name":"Susques",
     "wof:parent_id":421171265,
     "wof:placetype":"locality",

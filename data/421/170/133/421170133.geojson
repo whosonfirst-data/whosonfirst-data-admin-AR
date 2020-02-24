@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008838,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67dc7d172caf43ba4d2edab398387a9b",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421170133,
-    "wof:lastmodified":1566588296,
+    "wof:lastmodified":1582358638,
     "wof:name":"Lago Buenos Aires",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

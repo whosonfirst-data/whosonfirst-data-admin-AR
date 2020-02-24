@@ -100,6 +100,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd62198a02d0e14aebc3f59631982783",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421171491,
-    "wof:lastmodified":1566588329,
+    "wof:lastmodified":1582358642,
     "wof:name":"Pocho",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

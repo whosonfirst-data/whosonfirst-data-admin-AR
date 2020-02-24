@@ -99,6 +99,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef76c002fa85a284a686926c92a25de0",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421185061,
-    "wof:lastmodified":1566588346,
+    "wof:lastmodified":1582358645,
     "wof:name":"Fray Mamerto Esquiu",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

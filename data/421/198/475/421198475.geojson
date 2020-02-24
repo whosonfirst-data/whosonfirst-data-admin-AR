@@ -122,6 +122,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c105e53087e9588e07f02a753da1539c",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421198475,
-    "wof:lastmodified":1566588235,
+    "wof:lastmodified":1582358635,
     "wof:name":"San Alberto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

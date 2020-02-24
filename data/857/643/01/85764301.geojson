@@ -141,6 +141,9 @@
         "wk:page":"V\u00e9lez S\u00e1rsfield (barrio)"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84826edf385e718042545b9fc941fddb",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587657,
+    "wof:lastmodified":1582358589,
     "wof:name":"V\u00e9lez Sarsfield",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

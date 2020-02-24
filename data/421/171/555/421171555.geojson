@@ -132,6 +132,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"537953e7d912c839f80a4299153a08aa",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421171555,
-    "wof:lastmodified":1566588332,
+    "wof:lastmodified":1582358643,
     "wof:name":"Ledesma",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

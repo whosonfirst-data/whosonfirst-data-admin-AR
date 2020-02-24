@@ -196,6 +196,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008887,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46de0a3a27aa0ed63778d8e3635326aa",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421171271,
-    "wof:lastmodified":1566588335,
+    "wof:lastmodified":1582358643,
     "wof:name":"Tupungato",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

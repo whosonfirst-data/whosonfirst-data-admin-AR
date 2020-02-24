@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3033be2d3a1e26b2e721d7752a5f10d3",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171483,
-    "wof:lastmodified":1566588326,
+    "wof:lastmodified":1582358642,
     "wof:name":"Rosario De La Frontera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

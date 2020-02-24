@@ -140,6 +140,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009503,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dadf3e2190681611d3289d9f968f5ddc",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421187151,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1582358629,
     "wof:name":"La Caldera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

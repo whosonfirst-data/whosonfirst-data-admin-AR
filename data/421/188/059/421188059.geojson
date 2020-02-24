@@ -120,6 +120,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c50824c9ffa4ddd5e2f83b47385b6f2",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421188059,
-    "wof:lastmodified":1566588200,
+    "wof:lastmodified":1582358632,
     "wof:name":"Alumine",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -167,6 +167,9 @@
         "wk:page":"Recoleta, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7085b47dfa8269c23fcff68767cce8f6",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587659,
+    "wof:lastmodified":1582358590,
     "wof:name":"Recoleta",
     "wof:parent_id":1109371853,
     "wof:placetype":"neighbourhood",

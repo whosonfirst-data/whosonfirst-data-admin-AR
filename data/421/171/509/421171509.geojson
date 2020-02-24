@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21a88d04d0790ec91c859e42fe827dc4",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171509,
-    "wof:lastmodified":1566588334,
+    "wof:lastmodified":1582358643,
     "wof:name":"Rosario",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -132,6 +132,9 @@
         "wk:page":"Villa General Mitre"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09f8f07c7ca0c797a5f0e50c36aaffb4",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587657,
+    "wof:lastmodified":1582358589,
     "wof:name":"Villa General Mitre",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

@@ -125,6 +125,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009032,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c2eab29b194d72b82e3e3dfdf8d0308a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421174423,
-    "wof:lastmodified":1566588175,
+    "wof:lastmodified":1582358628,
     "wof:name":"Rinconada",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -162,6 +162,9 @@
         "wk:page":"San Telmo, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15f356ea2cca9d56769f678c3a2cc682",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587659,
+    "wof:lastmodified":1582358590,
     "wof:name":"San Telmo",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

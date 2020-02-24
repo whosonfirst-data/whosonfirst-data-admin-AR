@@ -187,6 +187,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"118af38d6c92c756f2a2e244f4804cbf",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421175303,
-    "wof:lastmodified":1566588225,
+    "wof:lastmodified":1582358634,
     "wof:name":"Guarani",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

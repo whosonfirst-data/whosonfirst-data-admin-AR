@@ -144,6 +144,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008947,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f92324f000aceaf985442a05e5df8d80",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421172581,
-    "wof:lastmodified":1566588204,
+    "wof:lastmodified":1582358632,
     "wof:name":"Diamante",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

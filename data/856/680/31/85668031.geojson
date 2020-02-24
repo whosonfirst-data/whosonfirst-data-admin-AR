@@ -422,6 +422,9 @@
         "wk:page":"C\u00f3rdoba Province, Argentina"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f587675c2cfd39fca6318666998b022",
     "wof:hierarchy":[
         {
@@ -437,7 +440,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587677,
+    "wof:lastmodified":1582358598,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

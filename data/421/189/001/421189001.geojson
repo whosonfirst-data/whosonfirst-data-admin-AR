@@ -97,6 +97,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009596,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb0a6b9536868e9ff5869768938e9c38",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421189001,
-    "wof:lastmodified":1566588195,
+    "wof:lastmodified":1582358630,
     "wof:name":"Junin",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

@@ -154,6 +154,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009442,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51caef65bce215fa07b8d8c81b64c5f3",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421185417,
-    "wof:lastmodified":1566588345,
+    "wof:lastmodified":1582358645,
     "wof:name":"Itati",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -167,6 +167,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052511,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"647ec06abdbd72f50b7e4f209347e7c3",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890445477,
-    "wof:lastmodified":1561793268,
+    "wof:lastmodified":1582358645,
     "wof:name":"Las Lomitas",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

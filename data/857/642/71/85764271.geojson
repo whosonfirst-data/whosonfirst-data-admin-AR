@@ -116,6 +116,9 @@
         "wk:page":"Villa Pueyrred\u00f3n"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05c3f8912e7976a7f3c19bfc0c1d9167",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587662,
+    "wof:lastmodified":1582358591,
     "wof:name":"Villa Pueyrred\u00f3n",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

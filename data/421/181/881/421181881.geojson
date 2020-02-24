@@ -120,6 +120,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009311,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1107e6ebd88e3695ddb84d251d2f6cfa",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421181881,
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582358633,
     "wof:name":"Chapaleufu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

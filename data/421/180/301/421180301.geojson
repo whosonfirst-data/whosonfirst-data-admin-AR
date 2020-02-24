@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009251,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e5232b59cb64c91e6bc243191187e84",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421180301,
-    "wof:lastmodified":1566588184,
+    "wof:lastmodified":1582358629,
     "wof:name":"Rosario De Lerma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

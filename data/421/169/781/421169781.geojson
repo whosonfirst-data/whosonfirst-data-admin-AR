@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3662d540cd795b8dee274204d052b1d0",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421169781,
-    "wof:lastmodified":1566588151,
+    "wof:lastmodified":1582358625,
     "wof:name":"Doctor Manuel Belgrano",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

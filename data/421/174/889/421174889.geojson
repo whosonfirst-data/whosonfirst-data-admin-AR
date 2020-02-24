@@ -66,6 +66,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009047,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff597414399ef3929ff01bf231221ef5",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421174889,
-    "wof:lastmodified":1566588174,
+    "wof:lastmodified":1582358628,
     "wof:name":"Versailles",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

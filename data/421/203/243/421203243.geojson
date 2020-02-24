@@ -107,6 +107,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e441df664669aee2050073b556cdfba5",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421203243,
-    "wof:lastmodified":1566588164,
+    "wof:lastmodified":1582358627,
     "wof:name":"Vinchina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

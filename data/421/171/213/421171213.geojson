@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008885,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08f4c1a58e477fd4b1b7f28596cc871d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421171213,
-    "wof:lastmodified":1566588336,
+    "wof:lastmodified":1582358643,
     "wof:name":"Cerrillos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

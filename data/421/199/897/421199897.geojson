@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0abe9711be67b27572c38b8641e2e3f3",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421199897,
-    "wof:lastmodified":1566588279,
+    "wof:lastmodified":1582358637,
     "wof:name":"Presidente Roque Saenz Pe\u00f1a",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

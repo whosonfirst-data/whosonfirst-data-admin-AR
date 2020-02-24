@@ -121,6 +121,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e39f0a0655a6a0efd03f94033bfb115b",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421204067,
-    "wof:lastmodified":1566588161,
+    "wof:lastmodified":1582358626,
     "wof:name":"Chicoana",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

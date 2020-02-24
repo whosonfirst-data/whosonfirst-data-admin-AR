@@ -75,6 +75,9 @@
         "qs:id":281704
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29b9e58211c5ca45db53557555658d70",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1582358591,
     "wof:name":"Saladillo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

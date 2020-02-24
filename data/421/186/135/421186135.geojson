@@ -100,6 +100,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009471,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b7606fb2096ae0da8b0bdb448f16998",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421186135,
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582358632,
     "wof:name":"General San Martin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

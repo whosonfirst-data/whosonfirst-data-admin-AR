@@ -191,6 +191,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008850,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4634759c48550a459e9a0b5575a6ee25",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421170351,
-    "wof:lastmodified":1566588300,
+    "wof:lastmodified":1582358639,
     "wof:name":"Sunchales",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

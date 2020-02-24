@@ -132,6 +132,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009521,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ec05b6754a1e25939309b15c6af1cb9",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421187691,
-    "wof:lastmodified":1566588189,
+    "wof:lastmodified":1582358630,
     "wof:name":"Lavalle",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

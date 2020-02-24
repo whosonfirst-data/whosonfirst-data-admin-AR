@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab0ab3f245540505726ed2eaba25ed9a",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421199903,
-    "wof:lastmodified":1566588277,
+    "wof:lastmodified":1582358637,
     "wof:name":"\u00d1orquinco",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

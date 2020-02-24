@@ -142,6 +142,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008913,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f2bb089a282496008b1f1ac1ff3cd88",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421171949,
-    "wof:lastmodified":1566588331,
+    "wof:lastmodified":1582358643,
     "wof:name":"Guaymallen",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

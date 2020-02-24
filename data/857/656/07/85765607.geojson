@@ -146,6 +146,9 @@
         "wk:page":"Villa Santa Rita"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c52d165230cca7b8b2e6cb61f1b264a0",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587663,
+    "wof:lastmodified":1582358591,
     "wof:name":"Villa Santa Rita",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010161,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2f556cf058edd9ad9e023d9f067f071",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421203709,
-    "wof:lastmodified":1566588163,
+    "wof:lastmodified":1582358627,
     "wof:name":"Pocito",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

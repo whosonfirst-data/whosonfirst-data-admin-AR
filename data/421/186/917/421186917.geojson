@@ -231,6 +231,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009496,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d897ab61dea1a8304046dba6701bda40",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421186917,
-    "wof:lastmodified":1566588216,
+    "wof:lastmodified":1582358633,
     "wof:name":"Viedma",
     "wof:parent_id":421186207,
     "wof:placetype":"locality",

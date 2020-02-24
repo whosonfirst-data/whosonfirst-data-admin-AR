@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008705,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3ca86713c150c5a171356758ecf335e",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421166875,
-    "wof:lastmodified":1566588115,
+    "wof:lastmodified":1582358623,
     "wof:name":"Castellanos",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

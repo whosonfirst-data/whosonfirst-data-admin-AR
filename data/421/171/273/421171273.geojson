@@ -136,6 +136,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008887,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93600bcee9c2f5398f01217fa2641a70",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421171273,
-    "wof:lastmodified":1566588325,
+    "wof:lastmodified":1582358641,
     "wof:name":"Nogoya",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

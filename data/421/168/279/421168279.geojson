@@ -193,6 +193,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008760,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"58106a4aa372e3725ebc3500181c0fb6",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421168279,
-    "wof:lastmodified":1566588112,
+    "wof:lastmodified":1582358622,
     "wof:name":"Ingeniero Jacobacci",
     "wof:parent_id":1108718401,
     "wof:placetype":"locality",

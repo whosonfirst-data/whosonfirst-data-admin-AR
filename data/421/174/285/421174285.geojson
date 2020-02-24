@@ -786,6 +786,9 @@
     ],
     "wof:country":"AR",
     "wof:created":1459009026,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa4b9f8e19f98ba1654e26398ce3cdc9",
     "wof:hierarchy":[
         {
@@ -796,7 +799,7 @@
         }
     ],
     "wof:id":421174285,
-    "wof:lastmodified":1566588180,
+    "wof:lastmodified":1582358628,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85668081,
     "wof:placetype":"locality",

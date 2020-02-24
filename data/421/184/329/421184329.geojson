@@ -119,6 +119,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009407,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89a847c3195055d804119b87582b594f",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421184329,
-    "wof:lastmodified":1566588294,
+    "wof:lastmodified":1582358638,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

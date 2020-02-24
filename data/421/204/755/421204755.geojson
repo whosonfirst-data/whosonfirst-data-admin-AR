@@ -197,6 +197,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010196,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b610d5374ef7a51f8cb6055c9a191381",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421204755,
-    "wof:lastmodified":1566588153,
+    "wof:lastmodified":1582358625,
     "wof:name":"Eldorado",
     "wof:parent_id":421202251,
     "wof:placetype":"locality",

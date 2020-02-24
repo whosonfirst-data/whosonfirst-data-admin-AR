@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009601,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d1eb5c71313ea00a2f6b33905a01a75",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421189013,
-    "wof:lastmodified":1566588195,
+    "wof:lastmodified":1582358630,
     "wof:name":"Valle Viejo",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

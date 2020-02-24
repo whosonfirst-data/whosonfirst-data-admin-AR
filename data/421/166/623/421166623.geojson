@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008696,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3e5b8e9441322171037c4114a25ef68",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421166623,
-    "wof:lastmodified":1566588117,
+    "wof:lastmodified":1582358624,
     "wof:name":"Jachal",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

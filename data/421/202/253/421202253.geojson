@@ -189,6 +189,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23fc890e6fe89664c8df34b38f7d6dc1",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421202253,
-    "wof:lastmodified":1566588170,
+    "wof:lastmodified":1582358628,
     "wof:name":"San Carlos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -83,6 +83,9 @@
         "qs:id":1080375
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69ce4f1871765add2d4a26be7565a28a",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1582358591,
     "wof:name":"Arroyito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

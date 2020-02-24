@@ -404,6 +404,9 @@
         "wk:page":"Santa Cruz Province, Argentina"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20b7d152cdd3705bbdeb2c9795acf202",
     "wof:hierarchy":[
         {
@@ -419,7 +422,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587696,
+    "wof:lastmodified":1582358610,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -401,6 +401,9 @@
         "wk:page":"Corrientes Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d9830a38b64bfc876b386674844db16",
     "wof:hierarchy":[
         {
@@ -416,7 +419,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587682,
+    "wof:lastmodified":1582358601,
     "wof:name":"Corrientes",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

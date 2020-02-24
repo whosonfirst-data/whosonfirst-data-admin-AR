@@ -102,6 +102,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009683,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ab5a5bfc4f062cff6db55a126f49252",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191195,
-    "wof:lastmodified":1566588258,
+    "wof:lastmodified":1582358635,
     "wof:name":"Villa del Parque",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

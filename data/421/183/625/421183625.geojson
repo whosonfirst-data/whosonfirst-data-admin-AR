@@ -187,6 +187,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009376,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"f86ad1d40709818df9ca31325d370097",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421183625,
-    "wof:lastmodified":1561793259,
+    "wof:lastmodified":1582358640,
     "wof:name":"Las Lajas",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",

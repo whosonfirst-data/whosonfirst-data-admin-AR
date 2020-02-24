@@ -132,6 +132,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008897,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c155263fb83ad9bea234bbb5a6c04ffa",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421171529,
-    "wof:lastmodified":1566588331,
+    "wof:lastmodified":1582358643,
     "wof:name":"Sarmiento",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

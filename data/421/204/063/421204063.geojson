@@ -134,6 +134,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de108a16a900ee3b44aa00f4bc9a13f8",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421204063,
-    "wof:lastmodified":1566588156,
+    "wof:lastmodified":1582358626,
     "wof:name":"Yerba Buena",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

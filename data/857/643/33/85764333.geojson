@@ -129,6 +129,9 @@
         "wk:page":"Villa Real, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a888b8639c470d0cc3fa064d213b6416",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587656,
+    "wof:lastmodified":1582358587,
     "wof:name":"Villa Real",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

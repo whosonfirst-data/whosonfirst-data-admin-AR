@@ -102,6 +102,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009391,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b87ad34b519b0d35f1d1016d67758069",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421183903,
-    "wof:lastmodified":1566588308,
+    "wof:lastmodified":1582358640,
     "wof:name":"Metan",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

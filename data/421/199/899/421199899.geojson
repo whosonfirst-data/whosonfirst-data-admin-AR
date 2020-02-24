@@ -151,6 +151,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010004,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a719a17011ff6f7cc107d45496a9eee",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1566588279,
+    "wof:lastmodified":1582358637,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4eeff533cbc69b87c3c222f94f8eafbf",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421175301,
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1582358633,
     "wof:name":"Langui\u00f1eo",
     "wof:parent_id":85668001,
     "wof:placetype":"county",
