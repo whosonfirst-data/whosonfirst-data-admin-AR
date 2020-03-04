@@ -401,6 +401,9 @@
         "wk:page":"Jujuy Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07c381a1175235abef9c17f3c7fcf98b",
     "wof:hierarchy":[
         {
@@ -416,7 +419,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587681,
+    "wof:lastmodified":1582358600,
     "wof:name":"Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

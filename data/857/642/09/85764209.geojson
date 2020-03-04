@@ -167,6 +167,9 @@
         "wk:page":"Monserrat, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d04fe0503587f1d2694487978b0e75c9",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587661,
+    "wof:lastmodified":1582358590,
     "wof:name":"Montserrat",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

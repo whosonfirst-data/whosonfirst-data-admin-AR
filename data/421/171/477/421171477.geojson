@@ -116,6 +116,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58b7b9ad1400ad133407c3c7f1c8df83",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421171477,
-    "wof:lastmodified":1566588326,
+    "wof:lastmodified":1582358641,
     "wof:name":"Coronel Pringles",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

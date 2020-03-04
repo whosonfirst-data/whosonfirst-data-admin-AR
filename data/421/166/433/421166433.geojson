@@ -165,6 +165,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008690,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"a0462ecbd139a6bf242f923eb4935d02",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421166433,
-    "wof:lastmodified":1534379080,
+    "wof:lastmodified":1582358624,
     "wof:name":"La Paz",
     "wof:parent_id":1108718357,
     "wof:placetype":"locality",

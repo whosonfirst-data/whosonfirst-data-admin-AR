@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009366,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"969f5c2306f2795bbb63a72441625c41",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421183345,
-    "wof:lastmodified":1566588310,
+    "wof:lastmodified":1582358640,
     "wof:name":"General Obligado",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

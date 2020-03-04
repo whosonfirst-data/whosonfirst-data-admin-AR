@@ -125,6 +125,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"949bd6269028a58fdec5e6848f99874c",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421175299,
-    "wof:lastmodified":1566588227,
+    "wof:lastmodified":1582358634,
     "wof:name":"Lacar",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

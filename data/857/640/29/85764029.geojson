@@ -116,6 +116,9 @@
         "qs_pg:id":1053746
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e7f8dc7ee5a7a35455e5de6cabc8471",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587664,
+    "wof:lastmodified":1582358591,
     "wof:name":"Alberdi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

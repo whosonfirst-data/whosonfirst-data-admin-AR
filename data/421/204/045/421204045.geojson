@@ -163,6 +163,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a09ecbe85afe22ae710ad296338a7f1",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421204045,
-    "wof:lastmodified":1566588158,
+    "wof:lastmodified":1582358626,
     "wof:name":"Belen",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

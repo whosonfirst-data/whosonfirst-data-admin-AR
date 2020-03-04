@@ -160,6 +160,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009473,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2351518a5395ca1dac8a9609eb92c2e3",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421186207,
-    "wof:lastmodified":1566588214,
+    "wof:lastmodified":1582358633,
     "wof:name":"Adolfo Alsina",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

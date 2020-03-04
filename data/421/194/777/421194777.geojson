@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009819,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b1b50d1145a2f6be290d1e568493fcc",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421194777,
-    "wof:lastmodified":1566588137,
+    "wof:lastmodified":1582358624,
     "wof:name":"Zonda",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

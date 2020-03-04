@@ -100,6 +100,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab0983bff9b555514eb90fb6b148c718",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421198477,
-    "wof:lastmodified":1566588230,
+    "wof:lastmodified":1582358634,
     "wof:name":"Rio Chico",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

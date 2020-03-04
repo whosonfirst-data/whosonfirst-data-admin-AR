@@ -834,6 +834,10 @@
         421174285
     ],
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa4b9f8e19f98ba1654e26398ce3cdc9",
     "wof:hierarchy":[
         {
@@ -849,7 +853,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587675,
+    "wof:lastmodified":1582358596,
     "wof:name":"Ciudad de Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009348,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa1fc17d2350e7a06b978db08fc51945",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421182827,
-    "wof:lastmodified":1566588316,
+    "wof:lastmodified":1582358641,
     "wof:name":"Simoca",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

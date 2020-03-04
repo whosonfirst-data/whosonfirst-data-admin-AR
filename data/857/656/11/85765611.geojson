@@ -129,6 +129,9 @@
         "wk:page":"San Nicol\u00e1s, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"204cb7a9c53f8738d75fed2d930df6c1",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587663,
+    "wof:lastmodified":1582358591,
     "wof:name":"San Nicolas",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

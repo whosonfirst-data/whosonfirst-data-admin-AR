@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d9bb312ef3bf00fd28e172dec3c7e2b",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171499,
-    "wof:lastmodified":1566588328,
+    "wof:lastmodified":1582358642,
     "wof:name":"Paso De Los Libres",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"938a4e934d33610742e14b965f0dd0e0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171503,
-    "wof:lastmodified":1566588324,
+    "wof:lastmodified":1582358641,
     "wof:name":"Islas Del Ibicuy",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

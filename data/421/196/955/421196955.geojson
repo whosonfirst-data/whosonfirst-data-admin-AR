@@ -166,6 +166,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7741f226354738254e59cbc9336b9af6",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421196955,
-    "wof:lastmodified":1566588241,
+    "wof:lastmodified":1582358635,
     "wof:name":"Tulumba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

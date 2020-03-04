@@ -107,6 +107,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32419306e311ffc5cb56cf8670dba061",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421203245,
-    "wof:lastmodified":1566588163,
+    "wof:lastmodified":1582358627,
     "wof:name":"General Manuel Belgrano",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

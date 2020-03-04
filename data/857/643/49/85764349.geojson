@@ -135,6 +135,9 @@
         "wk:page":"Villa Soldati"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fbde9cf3d888ee4d332e8b7103cfd50",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587657,
+    "wof:lastmodified":1582358589,
     "wof:name":"Villa Soldati",
     "wof:parent_id":1109371865,
     "wof:placetype":"neighbourhood",

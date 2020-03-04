@@ -129,6 +129,9 @@
         "wk:page":"Parque Chas"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ea9057e8528563d31a9ffb738f39adc",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587660,
+    "wof:lastmodified":1582358590,
     "wof:name":"Parque Chas",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

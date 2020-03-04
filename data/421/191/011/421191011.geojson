@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"801fb44986fadd723d729d7e26ed0bdf",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421191011,
-    "wof:lastmodified":1566588266,
+    "wof:lastmodified":1582358636,
     "wof:name":"General Guemes",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

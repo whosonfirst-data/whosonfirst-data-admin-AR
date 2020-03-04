@@ -103,6 +103,9 @@
         "qs_pg:id":900029
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a745589fefdb4d9280e23150d2c212ac",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587665,
+    "wof:lastmodified":1582358591,
     "wof:name":"Alta C\u00f3rdoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

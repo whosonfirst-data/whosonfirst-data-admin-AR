@@ -170,6 +170,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052267,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b5d9e8ce04def58be3a44aa508b4621d",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":890440225,
-    "wof:lastmodified":1561793264,
+    "wof:lastmodified":1582358645,
     "wof:name":"Charata",
     "wof:parent_id":1108718193,
     "wof:placetype":"locality",

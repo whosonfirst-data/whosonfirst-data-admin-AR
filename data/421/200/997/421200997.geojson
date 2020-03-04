@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010048,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5bedb3d6b25a96113cedc34d206d6e89",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421200997,
-    "wof:lastmodified":1566588280,
+    "wof:lastmodified":1582358637,
     "wof:name":"General Lopez",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

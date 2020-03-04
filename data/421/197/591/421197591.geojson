@@ -133,6 +133,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009919,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47a675fe0e7505473d19896d3b8873c8",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421197591,
-    "wof:lastmodified":1566588273,
+    "wof:lastmodified":1582358636,
     "wof:name":"Cafayate",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

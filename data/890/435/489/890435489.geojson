@@ -389,6 +389,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052070,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3eeda470bf05bf27b62633ee5461a497",
     "wof:hierarchy":[
         {
@@ -400,7 +403,7 @@
         }
     ],
     "wof:id":890435489,
-    "wof:lastmodified":1566588368,
+    "wof:lastmodified":1582358646,
     "wof:name":"Ushuaia",
     "wof:parent_id":1108718533,
     "wof:placetype":"locality",

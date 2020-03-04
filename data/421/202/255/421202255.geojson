@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"953a64e7578f53c0eb4717f587d597e5",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421202255,
-    "wof:lastmodified":1566588170,
+    "wof:lastmodified":1582358628,
     "wof:name":"La Vi\u00f1a",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

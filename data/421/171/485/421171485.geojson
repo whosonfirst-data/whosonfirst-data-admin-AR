@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81112cceb6127df1e0f207b263c4cf1a",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421171485,
-    "wof:lastmodified":1566588325,
+    "wof:lastmodified":1582358641,
     "wof:name":"Tunuyan",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

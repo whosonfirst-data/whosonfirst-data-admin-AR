@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010158,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"154199d65f89846a6bb831bda6dfbc74",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421203617,
-    "wof:lastmodified":1566588163,
+    "wof:lastmodified":1582358627,
     "wof:name":"Andalgala",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

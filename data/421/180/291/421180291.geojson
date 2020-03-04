@@ -261,6 +261,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009251,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2eecc26daa9f4bb283d7eaeb700ecd23",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":421180291,
-    "wof:lastmodified":1566588187,
+    "wof:lastmodified":1582358629,
     "wof:name":"Formosa",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

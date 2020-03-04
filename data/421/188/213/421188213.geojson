@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3f0e2c989966ca1941c0abd3ad0b7a0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421188213,
-    "wof:lastmodified":1566588199,
+    "wof:lastmodified":1582358631,
     "wof:name":"Lihuel Calel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

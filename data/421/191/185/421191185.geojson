@@ -149,6 +149,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009683,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"034660ca22aac2b650d6f5bffe060e98",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421191185,
-    "wof:lastmodified":1566588269,
+    "wof:lastmodified":1582358636,
     "wof:name":"Zapala",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

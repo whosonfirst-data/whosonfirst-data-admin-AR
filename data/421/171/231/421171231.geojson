@@ -140,6 +140,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008886,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68293a4f3ffb70103d2c29daed5d8796",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421171231,
-    "wof:lastmodified":1566588336,
+    "wof:lastmodified":1582358643,
     "wof:name":"Belgrano",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

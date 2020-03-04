@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b5261896cf9e32a9cf8aef89639f331",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421169775,
-    "wof:lastmodified":1566588151,
+    "wof:lastmodified":1582358625,
     "wof:name":"\u00d1orquin",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

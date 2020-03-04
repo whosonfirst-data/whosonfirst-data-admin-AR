@@ -399,6 +399,9 @@
         "wk:page":"Misiones Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"776b5fcf431e09fedea53f19ca8f4740",
     "wof:hierarchy":[
         {
@@ -414,7 +417,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587680,
+    "wof:lastmodified":1582358600,
     "wof:name":"Misiones",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

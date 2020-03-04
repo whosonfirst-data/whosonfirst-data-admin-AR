@@ -108,6 +108,9 @@
         "wk:page":"Saavedra, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"370461dcc1a7a1ead827ae3ca021fdf2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587660,
+    "wof:lastmodified":1582358590,
     "wof:name":"Saavedra",
     "wof:parent_id":1109371875,
     "wof:placetype":"neighbourhood",

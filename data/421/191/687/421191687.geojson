@@ -227,6 +227,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009702,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0338fd33b23e0ad764c81081be3c767c",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1566588260,
+    "wof:lastmodified":1582358636,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -133,6 +133,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009710,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ca8db7770a7aa0c00a989c78b22de3b",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421191805,
-    "wof:lastmodified":1566588262,
+    "wof:lastmodified":1582358636,
     "wof:name":"Tilcara",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

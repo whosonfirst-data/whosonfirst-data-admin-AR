@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22c655cb75bfff55e4bef37e75c57e45",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421171507,
-    "wof:lastmodified":1566588333,
+    "wof:lastmodified":1582358643,
     "wof:name":"Caseros",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

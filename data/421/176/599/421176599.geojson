@@ -196,6 +196,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009113,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"3979d3e0a093f06286dfd35085f531b8",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421176599,
-    "wof:lastmodified":1561793261,
+    "wof:lastmodified":1582358641,
     "wof:name":"Abra Pampa",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

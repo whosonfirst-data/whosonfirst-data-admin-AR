@@ -410,6 +410,9 @@
         "wk:page":"Mendoza Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54369150edde46c134f6a3d343c7c5bc",
     "wof:hierarchy":[
         {
@@ -425,7 +428,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587676,
+    "wof:lastmodified":1582358597,
     "wof:name":"Mendoza",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

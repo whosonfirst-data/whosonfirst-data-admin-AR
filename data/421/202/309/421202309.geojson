@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"044d7766d0c3b6f63015384473c8aa23",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421202309,
-    "wof:lastmodified":1566588167,
+    "wof:lastmodified":1582358627,
     "wof:name":"Picunches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

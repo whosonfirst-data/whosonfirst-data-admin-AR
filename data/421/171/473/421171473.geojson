@@ -200,6 +200,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43913b05f93b47e4e2e49d1da8df04d6",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421171473,
-    "wof:lastmodified":1566588335,
+    "wof:lastmodified":1582358643,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

@@ -127,6 +127,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58bc6bad9ea08438f6ad3ea9575da388",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421186297,
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1582358633,
     "wof:name":"Tafi Del Valle",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

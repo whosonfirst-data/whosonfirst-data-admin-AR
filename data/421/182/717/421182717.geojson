@@ -122,6 +122,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009339,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cae7de51dfbef20a226e1049ef50ce7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421182717,
-    "wof:lastmodified":1566588319,
+    "wof:lastmodified":1582358641,
     "wof:name":"General Alvear",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

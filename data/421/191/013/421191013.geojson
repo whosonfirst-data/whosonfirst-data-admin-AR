@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1677e7005a48fc3c4d433cba064b513",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421191013,
-    "wof:lastmodified":1566588260,
+    "wof:lastmodified":1582358636,
     "wof:name":"Monte Caseros",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

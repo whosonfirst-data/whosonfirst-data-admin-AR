@@ -161,6 +161,9 @@
         "wk:page":"Palermo, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"931a572e2a7281c87b245271c40ac010",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587658,
+    "wof:lastmodified":1582358589,
     "wof:name":"Palermo",
     "wof:parent_id":1109371879,
     "wof:placetype":"neighbourhood",

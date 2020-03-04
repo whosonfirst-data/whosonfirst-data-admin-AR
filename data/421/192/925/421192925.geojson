@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3e12614a421626ecddcf3ed1c6066b5",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421192925,
-    "wof:lastmodified":1566588120,
+    "wof:lastmodified":1582358624,
     "wof:name":"Pehuenches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

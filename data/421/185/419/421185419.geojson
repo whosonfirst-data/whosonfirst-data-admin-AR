@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009442,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d00f9ed34f37360768b3daa99d149c15",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421185419,
-    "wof:lastmodified":1566588345,
+    "wof:lastmodified":1582358645,
     "wof:name":"Almirante Brown",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

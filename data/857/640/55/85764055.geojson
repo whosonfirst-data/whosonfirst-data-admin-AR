@@ -152,6 +152,9 @@
         "wk:page":"Barracas, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f32c3b9eb9bf9e76f0a7c9bb83e4e221",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587665,
+    "wof:lastmodified":1582358592,
     "wof:name":"Barracas",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

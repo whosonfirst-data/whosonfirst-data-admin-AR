@@ -114,6 +114,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7318f921991bf3ec2e3ef4d891de27a2",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421194439,
-    "wof:lastmodified":1566588136,
+    "wof:lastmodified":1582358624,
     "wof:name":"Gualeguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

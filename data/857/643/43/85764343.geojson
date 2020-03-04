@@ -95,6 +95,9 @@
         "qs_pg:id":1120436
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30856e24737cec83af218ed3ff55c51d",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587656,
+    "wof:lastmodified":1582358589,
     "wof:name":"Villa Revol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

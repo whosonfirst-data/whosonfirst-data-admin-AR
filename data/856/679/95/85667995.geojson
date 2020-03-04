@@ -548,6 +548,9 @@
         "wd:id":"Q44832"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ba1e1a355e96fbeaed17037f834ba46",
     "wof:hierarchy":[
         {
@@ -563,7 +566,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587695,
+    "wof:lastmodified":1582358609,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

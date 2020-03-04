@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009166,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30eae13fa09d384627ecde359a0cf91b",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421177957,
-    "wof:lastmodified":1566588303,
+    "wof:lastmodified":1582358640,
     "wof:name":"Toay",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

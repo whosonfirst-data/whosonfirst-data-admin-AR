@@ -129,6 +129,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"798abb4120aec9e9dcb555a170230b9a",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421192923,
-    "wof:lastmodified":1566588120,
+    "wof:lastmodified":1582358624,
     "wof:name":"Minas",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

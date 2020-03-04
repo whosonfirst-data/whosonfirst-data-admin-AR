@@ -392,6 +392,9 @@
         "wk:page":"Salta Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a57c5cf47bde765ba7e56efde526c72",
     "wof:hierarchy":[
         {
@@ -407,7 +410,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587683,
+    "wof:lastmodified":1582358601,
     "wof:name":"Salta",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

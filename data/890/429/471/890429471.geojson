@@ -196,6 +196,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469051815,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"da9e37c3f35df8072ec7309f1d232d48",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":890429471,
-    "wof:lastmodified":1566588361,
+    "wof:lastmodified":1582358645,
     "wof:name":"Perito Moreno",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010199,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"40792ceb7cab1c6dc940f75b7daf3ca2",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421204837,
-    "wof:lastmodified":1566588161,
+    "wof:lastmodified":1582358626,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

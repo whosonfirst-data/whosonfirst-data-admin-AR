@@ -152,6 +152,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d174a499d5dc18b2e547e097a8e7608",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421202261,
-    "wof:lastmodified":1566588168,
+    "wof:lastmodified":1582358627,
     "wof:name":"Chilecito",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

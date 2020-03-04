@@ -149,6 +149,9 @@
         "wk:page":"Caballito, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b094ef752540b8b4c1c18c209edf87c",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587665,
+    "wof:lastmodified":1582358592,
     "wof:name":"Caballito",
     "wof:parent_id":1109371861,
     "wof:placetype":"neighbourhood",

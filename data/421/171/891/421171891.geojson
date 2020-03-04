@@ -117,6 +117,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008911,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"377f74ba91785026b7a7b363cf6a5c96",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421171891,
-    "wof:lastmodified":1566588337,
+    "wof:lastmodified":1582358644,
     "wof:name":"San Cosme",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -144,6 +144,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009879,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"b8b06b6b1eb542bc0b9969187ccf3119",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421196385,
-    "wof:lastmodified":1534379081,
+    "wof:lastmodified":1582358635,
     "wof:name":"Rodeo",
     "wof:parent_id":421171511,
     "wof:placetype":"locality",

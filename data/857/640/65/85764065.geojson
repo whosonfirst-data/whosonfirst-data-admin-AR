@@ -75,6 +75,9 @@
         "qs:id":1114200
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84b3cba9825cf86398bfdc9c816b3014",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379086,
+    "wof:lastmodified":1582358591,
     "wof:name":"Bella Vista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

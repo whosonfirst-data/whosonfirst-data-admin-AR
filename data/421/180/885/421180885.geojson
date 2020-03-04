@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009274,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29e2a8fb1415dfb8ef04d00176fb06f9",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421180885,
-    "wof:lastmodified":1566588186,
+    "wof:lastmodified":1582358629,
     "wof:name":"Las Colonias",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

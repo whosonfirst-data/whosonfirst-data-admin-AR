@@ -119,6 +119,9 @@
         "qs_pg:id":1062666
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"beab638382975aa0a076f02922ae65ec",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587668,
+    "wof:lastmodified":1582358592,
     "wof:name":"Liniers",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

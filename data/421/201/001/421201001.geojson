@@ -118,6 +118,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010048,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df62f3bab5960f7309e68becad11606a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421201001,
-    "wof:lastmodified":1566588286,
+    "wof:lastmodified":1582358638,
     "wof:name":"Tumbaya",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

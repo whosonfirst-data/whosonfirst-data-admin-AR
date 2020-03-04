@@ -206,6 +206,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009200,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d33726714afff494ce2e3655e57b170b",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421178989,
-    "wof:lastmodified":1566588315,
+    "wof:lastmodified":1582358641,
     "wof:name":"Choele Choel",
     "wof:parent_id":1108718387,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a47f04bbca8098309e78ee70759fdbbe",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421185063,
-    "wof:lastmodified":1566588343,
+    "wof:lastmodified":1582358644,
     "wof:name":"Bermejo",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

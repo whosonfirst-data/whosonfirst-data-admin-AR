@@ -156,6 +156,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f70b61feb1bfeaa669a4c9b82b6f7227",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421173247,
-    "wof:lastmodified":1566588193,
+    "wof:lastmodified":1582358630,
     "wof:name":"Libertad",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

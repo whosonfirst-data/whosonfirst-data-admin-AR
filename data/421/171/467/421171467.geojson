@@ -127,6 +127,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008895,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"baf008b95340486117f5af4986da6965",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421171467,
-    "wof:lastmodified":1566588336,
+    "wof:lastmodified":1582358644,
     "wof:name":"Parana",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

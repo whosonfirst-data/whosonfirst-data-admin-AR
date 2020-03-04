@@ -127,6 +127,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb4a4937de177ced271928bb8f5bc074",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421204055,
-    "wof:lastmodified":1566588156,
+    "wof:lastmodified":1582358626,
     "wof:name":"Antofagasta De La Sierra",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

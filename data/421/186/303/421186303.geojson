@@ -99,6 +99,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd330da8b7831cd03e6b237ee82c61df",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421186303,
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582358632,
     "wof:name":"Calamuchita",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

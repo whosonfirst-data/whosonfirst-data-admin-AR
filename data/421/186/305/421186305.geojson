@@ -135,6 +135,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"032390daca7ccbe3515837f7c049effc",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421186305,
-    "wof:lastmodified":1566588213,
+    "wof:lastmodified":1582358632,
     "wof:name":"Los Lagos",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

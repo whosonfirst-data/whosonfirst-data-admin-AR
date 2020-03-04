@@ -129,6 +129,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ece434c703bd43085703b23be174994c",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421169779,
-    "wof:lastmodified":1566588148,
+    "wof:lastmodified":1582358625,
     "wof:name":"Escalante",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -444,6 +444,9 @@
         "wk:page":"Buenos Aires Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d6a5a5f547daafe9708b33426dd6636",
     "wof:hierarchy":[
         {
@@ -459,7 +462,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587682,
+    "wof:lastmodified":1582358600,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

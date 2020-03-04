@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cf8aa1e20a501f7edaa5e8434be2d82",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421198471,
-    "wof:lastmodified":1566588230,
+    "wof:lastmodified":1582358634,
     "wof:name":"Iguazu",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

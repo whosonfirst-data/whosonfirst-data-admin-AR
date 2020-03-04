@@ -209,6 +209,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009274,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"391ffe14dd2eed2aa742326c133b11f5",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421180887,
-    "wof:lastmodified":1566588184,
+    "wof:lastmodified":1582358629,
     "wof:name":"Capital",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

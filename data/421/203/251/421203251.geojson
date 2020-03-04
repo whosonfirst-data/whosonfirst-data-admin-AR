@@ -99,6 +99,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34c00512d1f86f10603372be06453d00",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421203251,
-    "wof:lastmodified":1566588164,
+    "wof:lastmodified":1582358627,
     "wof:name":"Iriondo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

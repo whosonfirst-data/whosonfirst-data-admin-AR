@@ -358,6 +358,9 @@
     },
     "wof:country":"AR",
     "wof:created":1469052145,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fe97f31a3fb495f936709b4fc043e81",
     "wof:hierarchy":[
         {
@@ -369,7 +372,7 @@
         }
     ],
     "wof:id":890437285,
-    "wof:lastmodified":1566588357,
+    "wof:lastmodified":1582358645,
     "wof:name":"Santiago del Estero",
     "wof:parent_id":1108718475,
     "wof:placetype":"locality",

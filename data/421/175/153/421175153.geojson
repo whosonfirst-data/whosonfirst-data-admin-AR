@@ -307,6 +307,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce92fbb0203efcd965e78222e8853533",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421175153,
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582358634,
     "wof:name":"Rio Grande",
     "wof:parent_id":85667995,
     "wof:placetype":"county",

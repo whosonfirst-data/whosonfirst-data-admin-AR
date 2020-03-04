@@ -118,6 +118,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1439d354cb87313d1e1d055b51c1a0cb",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421186299,
-    "wof:lastmodified":1566588216,
+    "wof:lastmodified":1582358633,
     "wof:name":"La Poma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

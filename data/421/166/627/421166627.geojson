@@ -425,6 +425,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008696,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d8ec046db32508cfd6060258a41eada",
     "wof:hierarchy":[
         {
@@ -435,7 +438,7 @@
         }
     ],
     "wof:id":421166627,
-    "wof:lastmodified":1566588114,
+    "wof:lastmodified":1582358623,
     "wof:name":"San Antonio",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -200,6 +200,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009251,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dc5f734807198e18e7045a98e5ef81c",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421180295,
-    "wof:lastmodified":1566588185,
+    "wof:lastmodified":1582358629,
     "wof:name":"San Fernando",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

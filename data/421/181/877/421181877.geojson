@@ -199,6 +199,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009309,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b161f4ebb7c5c79a147c3aa7b749cbd7",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421181877,
-    "wof:lastmodified":1566588220,
+    "wof:lastmodified":1582358633,
     "wof:name":"Federacion",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

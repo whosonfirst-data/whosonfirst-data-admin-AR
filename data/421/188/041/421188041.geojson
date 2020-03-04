@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79e187fd4717018780a40e189c6829c9",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421188041,
-    "wof:lastmodified":1566588197,
+    "wof:lastmodified":1582358630,
     "wof:name":"General Roca",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

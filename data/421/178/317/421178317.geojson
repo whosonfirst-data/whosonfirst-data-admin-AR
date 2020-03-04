@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009178,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7b9eb35b0410cdc61f132a7e0e8ec6e",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421178317,
-    "wof:lastmodified":1566588316,
+    "wof:lastmodified":1582358641,
     "wof:name":"Chicligasta",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

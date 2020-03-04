@@ -109,6 +109,9 @@
         "wk:page":"Nueva Pompeya"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b15c9957bab53b0005283eb193cc0b4",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587662,
+    "wof:lastmodified":1582358591,
     "wof:name":"Nueva Pompeya",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",

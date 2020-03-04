@@ -147,6 +147,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009251,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2231e28014fa7cb9b4e6bb41720dbe7f",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421180297,
-    "wof:lastmodified":1566588187,
+    "wof:lastmodified":1582358629,
     "wof:name":"San Ignacio",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

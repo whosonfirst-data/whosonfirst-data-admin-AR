@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010181,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb126e921866b39548deb41a2e65a161",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421204337,
-    "wof:lastmodified":1566588153,
+    "wof:lastmodified":1582358626,
     "wof:name":"Santo Tome",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

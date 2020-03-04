@@ -118,6 +118,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"167ca6a0777f9b9cd290ef6bd1e258cb",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421171489,
-    "wof:lastmodified":1566588335,
+    "wof:lastmodified":1582358643,
     "wof:name":"Iruya",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

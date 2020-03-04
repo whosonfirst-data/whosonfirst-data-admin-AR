@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008697,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0407889d0f42429bd17e5f25846402c8",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421166645,
-    "wof:lastmodified":1566588114,
+    "wof:lastmodified":1582358623,
     "wof:name":"Tehuelches",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

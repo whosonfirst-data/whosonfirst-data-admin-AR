@@ -141,6 +141,9 @@
         "wk:page":"Boedo"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65588e7e9aad72a7f04396307d7dbd47",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587664,
+    "wof:lastmodified":1582358591,
     "wof:name":"Boedo",
     "wof:parent_id":1109371859,
     "wof:placetype":"neighbourhood",

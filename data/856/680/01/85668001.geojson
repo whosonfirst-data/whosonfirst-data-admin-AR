@@ -413,6 +413,9 @@
         "wk:page":"Chubut Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f3e0c979e471cb5b9ddef4145c029b0",
     "wof:hierarchy":[
         {
@@ -428,7 +431,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587678,
+    "wof:lastmodified":1582358598,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -130,6 +130,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"744a034073720e549a711df31c071acc",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421173251,
-    "wof:lastmodified":1566588191,
+    "wof:lastmodified":1582358630,
     "wof:name":"La Cocha",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

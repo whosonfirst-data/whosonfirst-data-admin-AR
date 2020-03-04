@@ -152,6 +152,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009940,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bcd7b284621d8d4917d4772639d5214c",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421198213,
-    "wof:lastmodified":1566588236,
+    "wof:lastmodified":1582358635,
     "wof:name":"San Miguel",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

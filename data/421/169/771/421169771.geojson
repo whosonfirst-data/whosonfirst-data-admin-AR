@@ -201,6 +201,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008823,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ace0e6a900a7bfe89b476e854a728d1f",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421169771,
-    "wof:lastmodified":1566588148,
+    "wof:lastmodified":1582358625,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

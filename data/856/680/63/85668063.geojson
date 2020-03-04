@@ -412,6 +412,9 @@
         "wk:page":"Chaco Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e820c0a4bb0dfa09a365ae2fe5ac3405",
     "wof:hierarchy":[
         {
@@ -427,7 +430,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587680,
+    "wof:lastmodified":1582358600,
     "wof:name":"Chaco",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

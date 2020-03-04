@@ -407,6 +407,9 @@
         "wk:page":"La Rioja Province, Argentina"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cb6ac295b1a7150faa7483c2ea3d66a",
     "wof:hierarchy":[
         {
@@ -422,7 +425,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587673,
+    "wof:lastmodified":1582358596,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

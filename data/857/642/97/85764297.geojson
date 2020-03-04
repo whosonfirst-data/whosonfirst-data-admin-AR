@@ -126,6 +126,9 @@
         "qs_pg:id":1075048
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4aa03a3c7b780d8cf4639afb678a8585",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587661,
+    "wof:lastmodified":1582358590,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

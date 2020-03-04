@@ -135,6 +135,9 @@
         "wk:page":"Mataderos"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b4a268a97a839c8edad86dbd457038d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587667,
+    "wof:lastmodified":1582358592,
     "wof:name":"Mataderos",
     "wof:parent_id":1109371867,
     "wof:placetype":"neighbourhood",

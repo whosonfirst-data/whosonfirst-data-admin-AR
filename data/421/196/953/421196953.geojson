@@ -115,6 +115,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd9fb2f4f33dc61724ae36818d0414d6",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421196953,
-    "wof:lastmodified":1566588239,
+    "wof:lastmodified":1582358635,
     "wof:name":"Rio Segundo",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009683,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48394aa19c303665c0f29c7a6b5bfe37",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421191183,
-    "wof:lastmodified":1566588269,
+    "wof:lastmodified":1582358636,
     "wof:name":"Cruz Del Eje",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

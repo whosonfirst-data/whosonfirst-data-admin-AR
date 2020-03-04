@@ -243,6 +243,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009464,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"fc9c7e447377d202d239dd8351b1680f",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":421186089,
-    "wof:lastmodified":1566588213,
+    "wof:lastmodified":1582358633,
     "wof:name":"Mercedes",
     "wof:parent_id":421203353,
     "wof:placetype":"locality",

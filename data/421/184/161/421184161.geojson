@@ -195,6 +195,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3cca41d8c8025f3d0f5de86b6eab2661",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421184161,
-    "wof:lastmodified":1566588289,
+    "wof:lastmodified":1582358638,
     "wof:name":"Banda",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

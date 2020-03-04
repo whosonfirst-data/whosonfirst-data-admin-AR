@@ -138,6 +138,9 @@
         "wk:page":"Villa Ort\u00fazar"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07f39769641302c9ef29450fea31cdfb",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587656,
+    "wof:lastmodified":1582358588,
     "wof:name":"Villa Ort\u00fazar",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

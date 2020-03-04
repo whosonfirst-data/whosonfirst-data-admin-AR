@@ -386,6 +386,9 @@
         "wk:page":"Formosa Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91dded4dab7f7f0f86c824732ce062c0",
     "wof:hierarchy":[
         {
@@ -401,7 +404,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587671,
+    "wof:lastmodified":1582358594,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

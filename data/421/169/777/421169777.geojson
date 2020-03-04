@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e167b01fa822181c6059e9c03a2f997",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421169777,
-    "wof:lastmodified":1566588148,
+    "wof:lastmodified":1582358625,
     "wof:name":"Confluencia",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

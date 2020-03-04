@@ -123,6 +123,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02e87940c74322d8f5e4b8b26b24a263",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421188043,
-    "wof:lastmodified":1566588199,
+    "wof:lastmodified":1582358631,
     "wof:name":"Malarg\u00fce",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

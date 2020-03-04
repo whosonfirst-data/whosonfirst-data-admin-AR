@@ -125,6 +125,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008703,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"189404eb458530f9d1eedd4b5ca28cd1",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421166803,
-    "wof:lastmodified":1566588115,
+    "wof:lastmodified":1582358623,
     "wof:name":"Cachi",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

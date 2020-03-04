@@ -127,6 +127,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"442fcf92b8f5782545773d9bc71f3323",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421171517,
-    "wof:lastmodified":1566588329,
+    "wof:lastmodified":1582358642,
     "wof:name":"Constitucion",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -156,6 +156,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008926,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e06ce2316f579c70ffae482da21dd19",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421172183,
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582358632,
     "wof:name":"Rawson",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

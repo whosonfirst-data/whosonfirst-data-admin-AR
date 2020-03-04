@@ -412,6 +412,9 @@
         "wk:page":"Entre R\u00edos Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c813cbf13a9311e58fae3f1dcfcd19c",
     "wof:hierarchy":[
         {
@@ -427,7 +430,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587673,
+    "wof:lastmodified":1582358596,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

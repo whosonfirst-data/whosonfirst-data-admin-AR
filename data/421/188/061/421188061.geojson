@@ -223,6 +223,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"900a0961cbe1881fe1009d450887388d",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":421188061,
-    "wof:lastmodified":1566588200,
+    "wof:lastmodified":1582358631,
     "wof:name":"Bariloche",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

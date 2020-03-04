@@ -210,6 +210,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009731,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"5bf63f730556aa10b11e682248276b9a",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421192281,
-    "wof:lastmodified":1561793219,
+    "wof:lastmodified":1582358624,
     "wof:name":"Zapala",
     "wof:parent_id":421191185,
     "wof:placetype":"locality",

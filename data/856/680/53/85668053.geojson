@@ -381,6 +381,9 @@
         "wk:page":"Santiago del Estero Province"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"725ee4045ed1a4c00f6b0b21dac191b3",
     "wof:hierarchy":[
         {
@@ -396,7 +399,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566587678,
+    "wof:lastmodified":1582358598,
     "wof:name":"Santiago del Estero",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -179,6 +179,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008744,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"91d38d14b1c6815ce6ca2526acc8b080",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":421167803,
-    "wof:lastmodified":1566588144,
+    "wof:lastmodified":1582358625,
     "wof:name":"San Justo",
     "wof:parent_id":421171505,
     "wof:placetype":"locality",

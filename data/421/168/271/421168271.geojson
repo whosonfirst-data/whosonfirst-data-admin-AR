@@ -184,6 +184,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008760,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"e86e103fc3fa05053ea4c026d2b3d920",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421168271,
-    "wof:lastmodified":1561793217,
+    "wof:lastmodified":1582358622,
     "wof:name":"Trancas",
     "wof:parent_id":1108718531,
     "wof:placetype":"locality",

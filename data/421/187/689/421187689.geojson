@@ -121,6 +121,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009521,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7c7131abf6ca7164fba1d222a3e4011",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421187689,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1582358630,
     "wof:name":"Maipu",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

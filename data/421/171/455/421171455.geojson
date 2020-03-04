@@ -195,6 +195,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008894,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54a45a364f25ab6fbb9f280db25cfed1",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421171455,
-    "wof:lastmodified":1566588328,
+    "wof:lastmodified":1582358642,
     "wof:name":"Mercedes",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

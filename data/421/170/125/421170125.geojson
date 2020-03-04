@@ -118,6 +118,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008837,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91f952b15a0418d4a4a35e5f583a1d78",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421170125,
-    "wof:lastmodified":1566588301,
+    "wof:lastmodified":1582358639,
     "wof:name":"Cushamen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

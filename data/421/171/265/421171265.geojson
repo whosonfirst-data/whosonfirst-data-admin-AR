@@ -124,6 +124,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008887,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1b36ff636805c382900a75bc5830fc0",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421171265,
-    "wof:lastmodified":1566588337,
+    "wof:lastmodified":1582358644,
     "wof:name":"Susques",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

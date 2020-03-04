@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009412,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d183ceb5b081c96b148b813285424275",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421184501,
-    "wof:lastmodified":1566588292,
+    "wof:lastmodified":1582358638,
     "wof:name":"Chimbas",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

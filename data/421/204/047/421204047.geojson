@@ -172,6 +172,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aff3394a8bc3341f274c35f67eca5316",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421204047,
-    "wof:lastmodified":1566588155,
+    "wof:lastmodified":1582358626,
     "wof:name":"Lomas De Zamora",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

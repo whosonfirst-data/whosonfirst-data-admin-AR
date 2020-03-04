@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17d0b3afae5d40bcfe8cc37f11ca07a7",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421175287,
-    "wof:lastmodified":1566588223,
+    "wof:lastmodified":1582358634,
     "wof:name":"General Jose De San Martin",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

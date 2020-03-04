@@ -114,6 +114,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6a62e00c26d27338e8b3f245707e5b5",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421198469,
-    "wof:lastmodified":1566588236,
+    "wof:lastmodified":1582358635,
     "wof:name":"Godoy Cruz",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

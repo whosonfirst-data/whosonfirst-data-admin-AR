@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6321c40604a2833250ba18612fac8d8c",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421175289,
-    "wof:lastmodified":1566588223,
+    "wof:lastmodified":1582358634,
     "wof:name":"Lules",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

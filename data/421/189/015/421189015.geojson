@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009601,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf3e9e0d3bc77e074d5344fd79267aff",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421189015,
-    "wof:lastmodified":1566588195,
+    "wof:lastmodified":1582358630,
     "wof:name":"Rio Primero",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

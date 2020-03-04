@@ -166,6 +166,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009794,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6611ef55331fc4737ab25fb04de9451",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421194115,
-    "wof:lastmodified":1566588138,
+    "wof:lastmodified":1582358624,
     "wof:name":"Colon",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -107,6 +107,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008838,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"316fb21675ca0457ece47c486fb3ef90",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421170131,
-    "wof:lastmodified":1566588300,
+    "wof:lastmodified":1582358639,
     "wof:name":"Gaiman",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

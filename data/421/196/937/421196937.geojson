@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcd12a652d5d25460e542c8e0d9ef033",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421196937,
-    "wof:lastmodified":1566588240,
+    "wof:lastmodified":1582358635,
     "wof:name":"Huiliches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

@@ -116,6 +116,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008823,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6cdb759ddfcb10314f4f57137b2ede7b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421169773,
-    "wof:lastmodified":1566588152,
+    "wof:lastmodified":1582358625,
     "wof:name":"Lujan De Cuyo",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

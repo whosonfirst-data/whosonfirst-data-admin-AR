@@ -120,6 +120,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008896,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64ff8f36cfc9ad0151c9b3db4b25edca",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421171511,
-    "wof:lastmodified":1566588331,
+    "wof:lastmodified":1582358643,
     "wof:name":"Iglesia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

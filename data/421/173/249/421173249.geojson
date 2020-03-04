@@ -340,6 +340,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af052f1df06449cc3fbda0f32cc16ae4",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":421173249,
-    "wof:lastmodified":1566588194,
+    "wof:lastmodified":1582358630,
     "wof:name":"Juan Bautista Alberdi",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

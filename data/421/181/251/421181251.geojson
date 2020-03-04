@@ -95,6 +95,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009290,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c66ecd5b3496ee2d31b681f36af2b75",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421181251,
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582358633,
     "wof:name":"Santa Victoria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

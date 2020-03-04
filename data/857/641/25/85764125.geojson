@@ -137,6 +137,9 @@
         "wk:page":"Floresta, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"599692bf6506cdba744d4515fcd2302b",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587668,
+    "wof:lastmodified":1582358592,
     "wof:name":"Floresta",
     "wof:parent_id":1109371871,
     "wof:placetype":"neighbourhood",

@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009062,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6258f6651290db843f828a6c1553955d",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421175285,
-    "wof:lastmodified":1566588226,
+    "wof:lastmodified":1582358634,
     "wof:name":"Maraco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

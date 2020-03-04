@@ -121,6 +121,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8762427d579fae488002543ba074f9e",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421188063,
-    "wof:lastmodified":1566588197,
+    "wof:lastmodified":1582358631,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

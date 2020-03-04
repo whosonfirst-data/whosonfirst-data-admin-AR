@@ -149,6 +149,10 @@
         "wk:page":"Puerto Madero"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54b9e84fa70e14166b605853e77b67e9",
     "wof:hierarchy":[
         {
@@ -164,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587661,
+    "wof:lastmodified":1582358591,
     "wof:name":"Puerto Madero",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",

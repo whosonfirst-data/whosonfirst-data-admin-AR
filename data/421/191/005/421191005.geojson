@@ -126,6 +126,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe91fd19b8f2621c2afae451a718ab9d",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421191005,
-    "wof:lastmodified":1566588268,
+    "wof:lastmodified":1582358636,
     "wof:name":"Paclin",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

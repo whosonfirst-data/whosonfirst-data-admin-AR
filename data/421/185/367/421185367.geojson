@@ -109,6 +109,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009441,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f578c548c532a6374228e7ff6dea4702",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421185367,
-    "wof:lastmodified":1566588344,
+    "wof:lastmodified":1582358645,
     "wof:name":"Cochinoca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

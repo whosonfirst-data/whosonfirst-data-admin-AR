@@ -164,6 +164,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009286,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"3aa02537773f7e8cc2b44d6b9a77a70e",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421181141,
-    "wof:lastmodified":1561793245,
+    "wof:lastmodified":1582358633,
     "wof:name":"Villa Rumipal",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

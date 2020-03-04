@@ -96,6 +96,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010013,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d81a4f12cda9b101a4499d0acd2e10bd",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421200145,
-    "wof:lastmodified":1566588282,
+    "wof:lastmodified":1582358637,
     "wof:name":"Pirane",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

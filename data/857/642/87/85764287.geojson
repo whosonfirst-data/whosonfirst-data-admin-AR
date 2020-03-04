@@ -138,6 +138,9 @@
         "wk:page":"San Crist\u00f3bal, Buenos Aires"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d66378be182c9d0fa3f73bf859fa9b88",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587659,
+    "wof:lastmodified":1582358590,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

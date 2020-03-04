@@ -194,6 +194,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459009031,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"7db523a10d08ef081a8a499eaea596f9",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421174411,
-    "wof:lastmodified":1566588180,
+    "wof:lastmodified":1582358628,
     "wof:name":"Chamical",
     "wof:parent_id":1108718327,
     "wof:placetype":"locality",

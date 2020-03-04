@@ -132,6 +132,9 @@
         "wk:page":"Villa Devoto"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0433e6cd9dc49187199a5fe03891f5c",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587656,
+    "wof:lastmodified":1582358588,
     "wof:name":"Villa Devoto",
     "wof:parent_id":1109371873,
     "wof:placetype":"neighbourhood",

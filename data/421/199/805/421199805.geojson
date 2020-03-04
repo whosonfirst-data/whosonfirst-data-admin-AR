@@ -184,6 +184,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459010001,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"04dbd591a9107237ad303df50e20691b",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421199805,
-    "wof:lastmodified":1561793255,
+    "wof:lastmodified":1582358637,
     "wof:name":"Pampa del Infierno",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

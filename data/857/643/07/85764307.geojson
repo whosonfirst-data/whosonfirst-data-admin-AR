@@ -138,6 +138,9 @@
         "wk:page":"Villa Crespo"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"077066407ea0153f5dad2567f02cbf90",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587657,
+    "wof:lastmodified":1582358589,
     "wof:name":"Villa Crespo",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

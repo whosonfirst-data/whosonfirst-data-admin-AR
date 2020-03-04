@@ -150,6 +150,9 @@
         "wk:page":"Agronom\u00eda"
     },
     "wof:country":"AR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4cbf763f0849006bfb165be7afb006e",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566587666,
+    "wof:lastmodified":1582358592,
     "wof:name":"Agronom\u00eda",
     "wof:parent_id":1109371881,
     "wof:placetype":"neighbourhood",

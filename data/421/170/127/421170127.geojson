@@ -121,6 +121,9 @@
     },
     "wof:country":"AR",
     "wof:created":1459008837,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfb9a1ec6d36e005626db2dfc0899dc9",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421170127,
-    "wof:lastmodified":1566588298,
+    "wof:lastmodified":1582358639,
     "wof:name":"Futaleufu",
     "wof:parent_id":85668001,
     "wof:placetype":"county",
