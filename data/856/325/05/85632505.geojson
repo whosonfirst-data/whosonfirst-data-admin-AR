@@ -1120,8 +1120,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1196,7 +1195,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582358604,
+    "wof:lastmodified":1583239926,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
