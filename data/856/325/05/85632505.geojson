@@ -1152,9 +1152,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Argentina",
-        "digitalenvoy:country_code":[
-            32
-        ],
+        "digitalenvoy:country_code":32,
         "fb:id":"en.argentina",
         "fifa:id":"ARG",
         "fips:code":"AR",
@@ -1198,7 +1196,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529070,
+    "wof:lastmodified":1583797273,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
