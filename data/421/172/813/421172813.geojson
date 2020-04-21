@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0631\u062f\u0648\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0637\u0628\u0647"
+    ],
     "name:ast_x_preferred":[
         "C\u00f3rdoba"
     ],
@@ -80,11 +83,20 @@
     "name:dan_x_preferred":[
         "C\u00f3rdoba"
     ],
+    "name:deu_ch_x_preferred":[
+        "C\u00f3rdoba"
+    ],
     "name:deu_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c1\u03b4\u03bf\u03b2\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:eng_gb_x_preferred":[
+        "C\u00f3rdoba"
     ],
     "name:eng_x_preferred":[
         "C\u00f3rdoba"
@@ -147,6 +159,9 @@
         "C\u00f3rdoba"
     ],
     "name:ind_x_preferred":[
+        "C\u00f3rdoba"
+    ],
+    "name:isl_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:ita_x_preferred":[
@@ -236,6 +251,9 @@
     "name:pol_x_preferred":[
         "C\u00f3rdoba"
     ],
+    "name:por_br_x_preferred":[
+        "C\u00f3rdova"
+    ],
     "name:por_x_preferred":[
         "C\u00f3rdova"
     ],
@@ -284,11 +302,17 @@
     "name:swe_x_preferred":[
         "C\u00f3rdoba"
     ],
+    "name:szl_x_preferred":[
+        "C\u00f3rdoba"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb\u0baa\u0bbe"
     ],
     "name:tam_x_variant":[
         "\u0b95\u0bcb\u0bb0\u0bcd\u0ba4\u0bcb\u0baa\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u0431\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c30\u0c4d\u0c21\u0c4b\u0c2c\u0c3e"
@@ -323,11 +347,17 @@
     "name:war_x_preferred":[
         "C\u00f3rdoba"
     ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u5c14\u591a\u74e6"
+    ],
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e8\u05d3\u05d0\u05d1\u05e2"
     ],
     "name:yue_x_preferred":[
         "\u54e5\u591a\u83ef"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u79d1\u5c14\u591a\u74e6"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5c14\u591a\u74e6"
@@ -450,8 +480,8 @@
     "wof:belongsto":[
         102191577,
         85632505,
-        85668031,
-        421180887
+        421180887,
+        85668031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -475,7 +505,7 @@
         }
     ],
     "wof:id":421172813,
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1587427761,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":421180887,
     "wof:placetype":"locality",
