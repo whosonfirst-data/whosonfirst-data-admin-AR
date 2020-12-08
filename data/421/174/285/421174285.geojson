@@ -786,7 +786,9 @@
         85668081
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632505,
+    "wof:capital_of":[
+        85632505
+    ],
     "wof:concordances":{
         "gn:id":3435910,
         "gp:id":468739,
@@ -811,7 +813,7 @@
         }
     ],
     "wof:id":421174285,
-    "wof:lastmodified":1587427760,
+    "wof:lastmodified":1607390879,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85668081,
     "wof:placetype":"locality",
