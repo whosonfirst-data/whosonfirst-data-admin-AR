@@ -165,10 +165,10 @@
         "\u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
     ],
     "name:ell_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0384A\u03b9\u03c1\u03b5\u03c2"
+        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
+        "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0384A\u03b9\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Buenos Aires"
@@ -252,10 +252,10 @@
         "Buenos Aires"
     ],
     "name:hin_x_preferred":[
-        "\u092c\u094d\u092f\u0941\u090f\u0928\u0949\u0938 \u090f\u0930\u0940\u0938"
+        "\u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
     ],
     "name:hin_x_variant":[
-        "\u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
+        "\u092c\u094d\u092f\u0941\u090f\u0928\u0949\u0938 \u090f\u0930\u0940\u0938"
     ],
     "name:hrv_x_preferred":[
         "Buenos Aires"
@@ -548,13 +548,13 @@
         "Santa Mar\u00eda del Buen Ayre"
     ],
     "name:spa_x_preferred":[
-        "Ciudad Aut\u00f3noma de Buenos Aires"
+        "Buenos Aires"
     ],
     "name:spa_x_variant":[
-        "Buenos Aires",
         "Baires",
         "Ciudad de La Sant\u00edsima Trinidad y Puerto de Santa Mar\u00eda del Buen Ayre",
-        "Santa Mar\u00eda del Buen Ayre"
+        "Santa Mar\u00eda del Buen Ayre",
+        "Ciudad Aut\u00f3noma de Buenos Aires"
     ],
     "name:sqi_x_preferred":[
         "Buenos Aires"
@@ -656,10 +656,10 @@
         "Buenos Aires"
     ],
     "name:zho_x_preferred":[
-        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af"
+        "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
     ],
     "name:zho_x_variant":[
-        "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
+        "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af"
     ],
     "name:zul_x_preferred":[
         "Buenos Aires"
@@ -793,7 +793,9 @@
         "gn:id":3435910,
         "gp:id":468739,
         "loc:id":"n79079054",
-        "qs_pg:id":778713
+        "ne:id":1159151559,
+        "qs_pg:id":778713,
+        "wd:id":"Q1486"
     },
     "wof:coterminous":[
         85668081
@@ -813,7 +815,7 @@
         }
     ],
     "wof:id":421174285,
-    "wof:lastmodified":1608675986,
+    "wof:lastmodified":1608677555,
     "wof:megacity":1,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85668081,
