@@ -488,6 +488,7 @@
         "gn:id":3860259,
         "gp:id":466861,
         "loc:id":"n80040286",
+        "ne:id":1159151105,
         "qs_pg:id":274531,
         "wd:id":"Q44210",
         "wk:page":"C\u00f3rdoba, Argentina"
@@ -505,7 +506,8 @@
         }
     ],
     "wof:id":421172813,
-    "wof:lastmodified":1587427761,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":421180887,
     "wof:placetype":"locality",

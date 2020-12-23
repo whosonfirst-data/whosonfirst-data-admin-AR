@@ -396,13 +396,14 @@
     "wof:belongsto":[
         102191577,
         85632505,
-        85668007,
-        421171949
+        421171949,
+        85668007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3844421,
         "gp:id":332471,
+        "ne:id":1159151093,
         "qs_pg:id":1299039,
         "wd:id":"Q44237",
         "wk:page":"Mendoza, Argentina"
@@ -420,7 +421,8 @@
         }
     ],
     "wof:id":421200319,
-    "wof:lastmodified":1566588285,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"Mendoza",
     "wof:parent_id":421171949,
     "wof:placetype":"locality",

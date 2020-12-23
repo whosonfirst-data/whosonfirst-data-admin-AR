@@ -793,7 +793,9 @@
         "gn:id":3435910,
         "gp:id":468739,
         "loc:id":"n79079054",
-        "qs_pg:id":778713
+        "ne:id":1159151559,
+        "qs_pg:id":778713,
+        "wd:id":"Q1486"
     },
     "wof:coterminous":[
         85668081
@@ -813,7 +815,8 @@
         }
     ],
     "wof:id":421174285,
-    "wof:lastmodified":1607390879,
+    "wof:lastmodified":1608688190,
+    "wof:megacity":1,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85668081,
     "wof:placetype":"locality",
