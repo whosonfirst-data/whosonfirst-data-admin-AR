@@ -368,6 +368,9 @@
         "wd:id":"Q44255",
         "wk:page":"San Miguel de Tucum\u00e1n"
     },
+    "wof:coterminous":[
+        1108718529
+    ],
     "wof:country":"AR",
     "wof:created":1459008955,
     "wof:geom_alt":[
@@ -384,7 +387,7 @@
         }
     ],
     "wof:id":421172797,
-    "wof:lastmodified":1608689809,
+    "wof:lastmodified":1608696100,
     "wof:megacity":1,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":1108718529,
