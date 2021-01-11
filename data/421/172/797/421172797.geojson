@@ -10,7 +10,6 @@
     "geom:latitude":-26.833234,
     "geom:longitude":-65.217489,
     "iso:country":"AR",
-    "lbl:bbox":"-65.2426,-26.84414,-65.2026,-26.80414",
     "lbl:latitude":-26.833053,
     "lbl:longitude":-65.194171,
     "lbl:max_zoom":13.0,
@@ -387,7 +386,7 @@
         }
     ],
     "wof:id":421172797,
-    "wof:lastmodified":1608696100,
+    "wof:lastmodified":1610156128,
     "wof:megacity":1,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":1108718529,

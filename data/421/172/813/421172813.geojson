@@ -10,7 +10,6 @@
     "geom:latitude":-31.415348,
     "geom:longitude":-64.183764,
     "iso:country":"AR",
-    "lbl:bbox":"-64.20105,-31.4335,-64.16105,-31.3935",
     "lbl:latitude":-31.428579,
     "lbl:longitude":-64.184884,
     "lbl:max_zoom":13.0,
@@ -517,7 +516,7 @@
         }
     ],
     "wof:id":421172813,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610156128,
     "wof:megacity":1,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":421180887,

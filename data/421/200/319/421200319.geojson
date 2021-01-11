@@ -10,7 +10,6 @@
     "geom:latitude":-32.951882,
     "geom:longitude":-68.703068,
     "iso:country":"AR",
-    "lbl:bbox":"-68.84717,-32.91084,-68.80717,-32.87084",
     "lbl:latitude":-32.896444,
     "lbl:longitude":-68.840949,
     "lbl:max_zoom":14.0,
@@ -432,7 +431,7 @@
         }
     ],
     "wof:id":421200319,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610156130,
     "wof:megacity":1,
     "wof:name":"Mendoza",
     "wof:parent_id":421171949,
