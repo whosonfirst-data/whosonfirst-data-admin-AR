@@ -129,6 +129,9 @@
         "C\u00f3rdoba"
     ],
     "name:fra_x_preferred":[
+        "Cordoue"
+    ],
+    "name:fra_x_variant":[
         "C\u00f3rdoba"
     ],
     "name:glg_x_preferred":[
@@ -516,7 +519,7 @@
         }
     ],
     "wof:id":421172813,
-    "wof:lastmodified":1610156128,
+    "wof:lastmodified":1614808612,
     "wof:megacity":1,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":421180887,
