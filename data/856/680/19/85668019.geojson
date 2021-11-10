@@ -128,6 +128,9 @@
     "name:hin_x_preferred":[
         "\u0932\u093e \u092a\u092e\u094d\u092a\u093e"
     ],
+    "name:hun_x_preferred":[
+        "La Pampa"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u054a\u0561\u0574\u057a\u0561"
     ],
@@ -414,7 +417,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808609,
+    "wof:lastmodified":1636502752,
     "wof:name":"La Pampa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.3459845395,-32.5931152153,-69.3459845395,-32.5931152153",
+    "geom:bbox":"-69.345985,-32.593115,-69.345985,-32.593115",
     "geom:latitude":-32.593115,
     "geom:longitude":-69.345985,
     "iso:country":"AR",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0623\u0648\u0633\u0628\u0627\u0644\u0627\u062a\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09b8\u09aa\u09be\u09b2\u09cd\u09b2\u09be\u09a4\u09be"
+    ],
     "name:cat_x_preferred":[
         "Uspallata"
     ],
@@ -30,17 +33,38 @@
     "name:deu_x_preferred":[
         "Uspallata"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03c0\u03b1\u03bb\u03ac\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Uspallata"
     ],
     "name:fra_x_preferred":[
         "Uspallata"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05e4\u05dc\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0938\u094d\u092a\u0932\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Uspallata"
+    ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u057d\u057a\u0561\u056c\u0575\u0561\u057f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Uspallata"
+    ],
+    "name:ita_x_preferred":[
+        "Uspallata"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30b9\u30d1\u30b8\u30e3\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc2a4\ud314\ub77c\ud0c0"
     ],
     "name:nld_x_preferred":[
         "Uspallata"
@@ -60,11 +84,29 @@
     "name:spa_x_preferred":[
         "Uspallata"
     ],
+    "name:swe_x_preferred":[
+        "Uspallata"
+    ],
+    "name:tur_x_preferred":[
+        "Uspallata"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u043f\u0430\u043b\u044c\u044f\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Estancia Uspallata"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u0644\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Uspallata"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u65af\u5e15\u4e9a\u5854"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u65af\u5e15\u4e9e\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -178,7 +220,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130629,
-    "wof:geomhash":"7f1f9bd8668f50ba8e38b4747d8a511e",
+    "wof:geomhash":"c707b6ce3a3caae84289989cb6107d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +231,7 @@
         }
     ],
     "wof:id":1141906717,
-    "wof:lastmodified":1566588573,
+    "wof:lastmodified":1636502851,
     "wof:name":"Uspallata",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",
@@ -201,10 +243,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.34598453945239,
-    -32.59311521528321,
-    -69.34598453945239,
-    -32.59311521528321
+    -69.345985,
+    -32.593115,
+    -69.345985,
+    -32.593115
 ],
-  "geometry": {"coordinates":[-69.34598453945239,-32.59311521528321],"type":"Point"}
+  "geometry": {"coordinates":[-69.345985,-32.593115],"type":"Point"}
 }

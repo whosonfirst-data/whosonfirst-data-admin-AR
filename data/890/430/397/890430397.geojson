@@ -98,6 +98,9 @@
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0446\u043e"
     ],
     "name:vie_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:vie_x_variant":[
         "San-Lorenzo"
     ],
     "name:vol_x_preferred":[
@@ -105,6 +108,12 @@
     ],
     "name:war_x_preferred":[
         "San-Lorenzo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -231,7 +240,7 @@
         }
     ],
     "wof:id":890430397,
-    "wof:lastmodified":1566588355,
+    "wof:lastmodified":1636502828,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108718185,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0631\u0627\u0641\u0627\u0626\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ab\u09be\u09df\u09c7\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Rafaela"
     ],
@@ -53,6 +56,15 @@
     "name:heb_x_preferred":[
         "\u05e8\u05e4\u05d0\u05dc\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092b\u093c\u093e\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rafaela"
+    ],
+    "name:ind_x_preferred":[
+        "Rafaela"
+    ],
     "name:ita_x_preferred":[
         "Rafaela"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10e4\u10d0\u10d4\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc5d8\ub77c"
     ],
     "name:lit_x_preferred":[
         "Rafaela"
@@ -89,8 +104,17 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e1f\u0e32\u0e40\u0e2d\u0e25\u0e32"
     ],
+    "name:tur_x_preferred":[
+        "Rafaela"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0444\u0430\u0435\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Rafaela"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6590\u62c9"
@@ -235,7 +259,7 @@
         }
     ],
     "wof:id":421176549,
-    "wof:lastmodified":1566588322,
+    "wof:lastmodified":1636502825,
     "wof:name":"Rafaela",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

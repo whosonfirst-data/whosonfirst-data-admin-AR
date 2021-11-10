@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0643\u0627\u0628\u0648\u0643\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u0627\u06a9\u0627\u0628\u0648\u06a9\u0648"
     ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u043a\u0430\u0431\u0443\u043a\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u0995\u09be\u09ac\u09c1\u0995\u09cb"
     ],
     "name:cat_x_preferred":[
         "Chacabuco"
@@ -35,6 +41,12 @@
     "name:dan_x_preferred":[
         "Chacabuco"
     ],
+    "name:deu_x_preferred":[
+        "Chacabuco"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03ba\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Chacabuco"
     ],
@@ -47,11 +59,23 @@
     "name:heb_x_preferred":[
         "\u05e6'\u05e7\u05d1\u05d5\u05e7\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u0915\u093e\u092c\u0941\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Chacabuco"
+    ],
+    "name:ind_x_preferred":[
+        "Chacabuco"
+    ],
     "name:ita_x_preferred":[
         "Chacabuco"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30ab\u30d6\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\uce74\ubd80\ucf54"
     ],
     "name:nld_x_preferred":[
         "Chacabuco"
@@ -79,6 +103,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043a\u0430\u0431\u0443\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u06a9\u0627\u0628\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Chacabuco"
     ],
     "name:zho_x_preferred":[
         "\u67e5\u5361\u5e03\u79d1"
@@ -223,7 +253,7 @@
         }
     ],
     "wof:id":421193967,
-    "wof:lastmodified":1566588141,
+    "wof:lastmodified":1636502803,
     "wof:name":"Chacabuco",
     "wof:parent_id":1108717913,
     "wof:placetype":"locality",

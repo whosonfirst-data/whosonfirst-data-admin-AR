@@ -45,6 +45,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05d0\u05d9\u05d2\u05e0\u05e1\u05d9\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "San Ignacio"
+    ],
     "name:ita_x_preferred":[
         "San Ignacio"
     ],
@@ -93,7 +96,7 @@
         "gn:id":3837554
     },
     "wof:country":"AR",
-    "wof:geomhash":"ee1a9ea996b6a253bb58956967cf798d",
+    "wof:geomhash":"b0c24bdcfac3dde8b77b0ae078bad7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1327210133,
-    "wof:lastmodified":1566587594,
+    "wof:lastmodified":1636502745,
     "wof:name":"San Ignacio",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",
@@ -114,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.36666999999999,
-    -23.86667000000001,
-    -63.36666999999999,
-    -23.86667000000001
+    -63.36667,
+    -23.86667,
+    -63.36667,
+    -23.86667
 ],
-  "geometry": {"coordinates":[-63.36666999999999,-23.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.36667,-23.86667],"type":"Point"}
 }

@@ -95,6 +95,9 @@
     "name:hin_x_preferred":[
         "\u0932\u093e \u0930\u093f\u092f\u094b\u0917\u093e"
     ],
+    "name:hun_x_preferred":[
+        "La Rioja"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u054c\u056b\u0578\u056d\u0561"
     ],
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":421172805,
-    "wof:lastmodified":1566588204,
+    "wof:lastmodified":1636502813,
     "wof:name":"La Rioja",
     "wof:parent_id":1108718321,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0435\u043b\u044c-\u0412\u0456\u043b\u044c\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2 \u09ad\u09bf\u09b2\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Bell Ville"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Bell Ville"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb \u0392\u03b9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Bell Ville"
@@ -53,7 +59,13 @@
     "name:heb_x_preferred":[
         "\u05d1\u05dc \u05d5\u05d9\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932 \u0935\u093f\u0932\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Bell Ville"
+    ],
+    "name:ind_x_preferred":[
         "Bell Ville"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +73,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30fb\u30d3\u30b8\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8 \ube4c"
     ],
     "name:nld_x_preferred":[
         "Bell Ville"
@@ -85,6 +100,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u044c-\u0412\u0456\u043b\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644 \u0648\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Bell Ville"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u723e\u7dad\u723e"
@@ -231,7 +252,7 @@
         }
     ],
     "wof:id":421174005,
-    "wof:lastmodified":1566588183,
+    "wof:lastmodified":1636502809,
     "wof:name":"Bell Ville",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

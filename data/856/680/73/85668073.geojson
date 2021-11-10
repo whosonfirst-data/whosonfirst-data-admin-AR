@@ -293,10 +293,16 @@
         "\u0415\u043d\u0442\u0440\u0435-\u0420\u0456\u043e\u0441"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u0631\u06cc \u0631\u06cc\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u062a\u0631\u06d2 \u0631\u06cc\u0648\u0633"
     ],
     "name:vie_x_preferred":[
         "Entre R\u00edos"
+    ],
+    "name:vie_x_variant":[
+        "Entre Rios"
     ],
     "name:vol_x_preferred":[
         "Entre R\u00edos"
@@ -306,6 +312,12 @@
     ],
     "name:wuu_x_preferred":[
         "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u5965\u65af\u6e7f\u5730"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6069\u7279\u96f7\u91cc\u7d04\u65af"
     ],
     "name:zho_x_preferred":[
         "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
@@ -433,7 +445,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808608,
+    "wof:lastmodified":1636502751,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

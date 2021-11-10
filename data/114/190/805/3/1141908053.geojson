@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.3665940772,-38.5162678846,-70.3665940772,-38.5162678846",
+    "geom:bbox":"-70.366594,-38.516268,-70.366594,-38.516268",
     "geom:latitude":-38.516268,
     "geom:longitude":-70.366594,
     "iso:country":"AR",
@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09b2\u09be\u099c\u09be\u09b8"
+    ],
     "name:deu_x_preferred":[
         "Las Lajas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u039b\u03ac\u03c7\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Las Lajas"
@@ -33,11 +42,29 @@
     "name:glg_x_preferred":[
         "Las Lajas"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05dc\u05d0\u05d7\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0932\u091c\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Las Lajas"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u057d \u053c\u0561\u056d\u0561\u057d"
     ],
+    "name:ind_x_preferred":[
+        "Las Lajas"
+    ],
     "name:ita_x_preferred":[
         "Las Lajas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30e9\u30cf\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4 \ub77c\ud558\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Las Lachasas"
@@ -57,8 +84,17 @@
     "name:spa_x_preferred":[
         "Las Lajas"
     ],
+    "name:swe_x_preferred":[
+        "Las Lajas"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441-\u041b\u0430\u0445\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Las Lajas"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u62c9\u54c8\u65af"
@@ -176,7 +212,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130810,
-    "wof:geomhash":"5c292977cdbefbca323bead105aad751",
+    "wof:geomhash":"65252f0361e625524298741338cdd0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +223,7 @@
         }
     ],
     "wof:id":1141908053,
-    "wof:lastmodified":1566588572,
+    "wof:lastmodified":1636502850,
     "wof:name":"Las Lajas",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",
@@ -201,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.36659407721692,
-    -38.51626788457781,
-    -70.36659407721692,
-    -38.51626788457781
+    -70.366594,
+    -38.516268,
+    -70.366594,
+    -38.516268
 ],
-  "geometry": {"coordinates":[-70.36659407721692,-38.51626788457781],"type":"Point"}
+  "geometry": {"coordinates":[-70.36659400000001,-38.516268],"type":"Point"}
 }

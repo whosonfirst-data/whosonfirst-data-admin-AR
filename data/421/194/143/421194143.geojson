@@ -59,6 +59,9 @@
     "name:hin_x_preferred":[
         "\u0924\u093e\u0930\u094d\u0924\u093e\u0917\u093c\u093e\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Tartagal"
+    ],
     "name:ind_x_preferred":[
         "Tartagal"
     ],
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421194143,
-    "wof:lastmodified":1566588137,
+    "wof:lastmodified":1636502803,
     "wof:name":"Tartagal",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-67.6989952038,-53.7914455169,-67.6989952038,-53.7914455169",
+    "geom:bbox":"-67.698995,-53.791446,-67.698995,-53.791446",
     "geom:latitude":-53.791446,
     "geom:longitude":-67.698995,
     "iso:country":"AR",
@@ -130,6 +130,9 @@
         "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05d0\u05e0\u05d3\u05d4"
     ],
     "name:hin_x_preferred":[
+        "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u0948\u0902\u0921\u0947"
+    ],
+    "name:hin_x_variant":[
         "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u093e\u0902\u0921\u0947"
     ],
     "name:hrv_x_preferred":[
@@ -282,6 +285,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e-\u0413\u0440\u0430\u043d\u0434\u0435"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u0688\u06d2"
+    ],
     "name:uzb_x_preferred":[
         "Rio-grande"
     ],
@@ -408,7 +414,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499131024,
-    "wof:geomhash":"3df88a84618f40b879882ffb9a053a7f",
+    "wof:geomhash":"2c5ac8d065dff30e60041bb1844894b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -419,7 +425,7 @@
         }
     ],
     "wof:id":1141909093,
-    "wof:lastmodified":1566588566,
+    "wof:lastmodified":1636502847,
     "wof:name":"Rio Grande",
     "wof:parent_id":421175153,
     "wof:placetype":"locality",
@@ -429,10 +435,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.69899520382046,
-    -53.79144551687307,
-    -67.69899520382046,
-    -53.79144551687307
+    -67.698995,
+    -53.791446,
+    -67.698995,
+    -53.791446
 ],
-  "geometry": {"coordinates":[-67.69899520382046,-53.79144551687307],"type":"Point"}
+  "geometry": {"coordinates":[-67.698995,-53.791446],"type":"Point"}
 }

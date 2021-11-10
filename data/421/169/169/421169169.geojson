@@ -68,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u090f\u0932 \u0915\u0947\u0932\u092b\u091f\u092f"
     ],
+    "name:hun_x_preferred":[
+        "El Calafate"
+    ],
     "name:ind_x_preferred":[
         "El Calafate"
     ],
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421169169,
-    "wof:lastmodified":1566588145,
+    "wof:lastmodified":1636502804,
     "wof:name":"El Calafate",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

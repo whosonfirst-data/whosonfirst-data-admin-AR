@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.1399506039,-30.2155859184,-69.1399506039,-30.2155859184",
+    "geom:bbox":"-69.139951,-30.215586,-69.139951,-30.215586",
     "geom:latitude":-30.215586,
     "geom:longitude":-69.139951,
     "iso:country":"AR",
@@ -73,9 +73,18 @@
         "Rodeo"
     ],
     "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d3\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e8\u05d5\u05d3\u05d9\u05d0\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0921\u093f\u092f\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Rodeo"
+    ],
+    "name:hun_x_preferred":[
         "Rodeo"
     ],
     "name:ind_x_preferred":[
@@ -132,8 +141,17 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434\u0435\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0688\u06cc\u0648"
+    ],
     "name:vie_x_preferred":[
         "Rodeo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u5fb7\u5965"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u5730\u5967"
     ],
     "name:zho_x_preferred":[
         "\u725b\u4ed4\u7af6\u6280"
@@ -248,7 +266,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130807,
-    "wof:geomhash":"fc57b6fa28809ea023fada20b5efd566",
+    "wof:geomhash":"d1a81b2c01d2a1a4e62b65a2f295b6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -259,7 +277,7 @@
         }
     ],
     "wof:id":1141908035,
-    "wof:lastmodified":1566588571,
+    "wof:lastmodified":1636502850,
     "wof:name":"Rodeo",
     "wof:parent_id":421171511,
     "wof:placetype":"locality",
@@ -271,10 +289,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.13995060390477,
-    -30.21558591839869,
-    -69.13995060390477,
-    -30.21558591839869
+    -69.139951,
+    -30.215586,
+    -69.139951,
+    -30.215586
 ],
-  "geometry": {"coordinates":[-69.13995060390477,-30.21558591839869],"type":"Point"}
+  "geometry": {"coordinates":[-69.139951,-30.215586],"type":"Point"}
 }

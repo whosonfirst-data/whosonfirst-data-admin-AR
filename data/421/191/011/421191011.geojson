@@ -41,6 +41,15 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0631\u0627\u0644 \u062c\u064a\u0645\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u0997\u09bf\u0989\u09ae\u09c7\u09b8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bd\u03b5\u03c1\u03ac\u03bb \u0393\u03ba\u03bf\u03c5\u03ad\u03bc\u03b5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "General G\u00fcemes"
     ],
@@ -49,6 +58,36 @@
         "General G\u00fcemes"
     ],
     "name:fra_x_preferred":[
+        "General Guemes"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0928\u0930\u0932 \u0917\u094d\u0935\u0940\u092e\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "General Guemes"
+    ],
+    "name:ind_x_preferred":[
+        "General Guemes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30b0\u30a8\u30e1\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub108\ub7f4 \uac8c\uba54\uc2a4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0413\u0443\u044d\u043c\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "General Guemes"
+    ],
+    "name:tur_x_preferred":[
+        "General Guemes"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0631\u0644 \u06af\u0648\u0626\u06cc\u0645\u0632"
+    ],
+    "name:vie_x_preferred":[
         "General Guemes"
     ],
     "qs:gn_country":null,
@@ -112,7 +151,7 @@
         }
     ],
     "wof:id":421191011,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1636502818,
     "wof:name":"General Guemes",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

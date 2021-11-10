@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-67.5499959734,-33.4661368624,-67.5499959734,-33.4661368624",
+    "geom:bbox":"-67.549996,-33.466137,-67.549996,-33.466137",
     "geom:latitude":-33.466137,
     "geom:longitude":-67.549996,
     "iso:country":"AR",
@@ -21,13 +21,31 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0644\u0629 \u0644\u0627\u0628\u0627\u0632"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u099c"
+    ],
     "name:deu_x_preferred":[
         "La Paz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
     ],
     "name:eng_x_preferred":[
         "La Paz"
     ],
     "name:fra_x_preferred":[
+        "La Paz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "La Paz"
+    ],
+    "name:ind_x_preferred":[
         "La Paz"
     ],
     "name:ita_x_preferred":[
@@ -36,13 +54,25 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30d1\u30b9"
     ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc2a4"
+    ],
     "name:nld_x_preferred":[
         "La Paz"
     ],
     "name:por_x_preferred":[
         "La Paz"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
+        "La Paz"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz"
+    ],
+    "name:tur_x_preferred":[
         "La Paz"
     ],
     "name:ukr_x_preferred":[
@@ -53,6 +83,15 @@
     ],
     "name:urd_x_variant":[
         "\u0644\u0627 \u067e\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5df4\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -166,7 +205,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130809,
-    "wof:geomhash":"c53aa8a3a7ac16c836284e00f4066a56",
+    "wof:geomhash":"e0f28e23c74a92d0d980d61b8f5f5df6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +216,7 @@
         }
     ],
     "wof:id":1141908049,
-    "wof:lastmodified":1566588570,
+    "wof:lastmodified":1636502849,
     "wof:name":"La Paz",
     "wof:parent_id":1108718357,
     "wof:placetype":"locality",
@@ -189,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.54999597336456,
-    -33.46613686242205,
-    -67.54999597336456,
-    -33.46613686242205
+    -67.549996,
+    -33.466137,
+    -67.549996,
+    -33.466137
 ],
-  "geometry": {"coordinates":[-67.54999597336456,-33.46613686242205],"type":"Point"}
+  "geometry": {"coordinates":[-67.54999599999999,-33.466137],"type":"Point"}
 }

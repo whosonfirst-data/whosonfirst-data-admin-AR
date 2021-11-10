@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.4833004167,-24.8996313285,-65.4833004167,-24.8996313285",
+    "geom:bbox":"-65.4833,-24.899631,-65.4833,-24.899631",
     "geom:latitude":-24.899631,
     "geom:longitude":-65.4833,
     "iso:country":"AR",
@@ -21,26 +21,59 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u064a\u0644\u0648\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09b0\u09b0\u09bf\u09b2\u09cd\u09b2\u09cb\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Cerrillos"
     ],
     "name:deu_x_preferred":[
         "Cerrillos"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03af\u03b3\u03b9\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Cerrillos"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0644\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05dc\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u093f\u0932\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:ind_x_preferred":[
         "Cerrillos"
     ],
     "name:ita_x_preferred":[
         "Cerrillos"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ea\u30ed\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub9ac\uc694"
+    ],
     "name:nld_x_preferred":[
+        "Cerrillos"
+    ],
+    "name:pol_x_preferred":[
         "Cerrillos"
     ],
     "name:por_x_preferred":[
         "Cerrillos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0438\u043b\u044c\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Cerrillos"
@@ -50,6 +83,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0456\u043b\u044c\u0439\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0644\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Cerrillos"
     ],
     "name:zho_x_preferred":[
         "\u585e\u91cc\u7565\u65af"
@@ -166,7 +205,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130818,
-    "wof:geomhash":"a2a58fb8291fba45c336f3a9cbbd911b",
+    "wof:geomhash":"8c2d374918b5a4c67b9939df53e913a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +216,7 @@
         }
     ],
     "wof:id":1141908099,
-    "wof:lastmodified":1566588576,
+    "wof:lastmodified":1636502853,
     "wof:name":"Cerrillos",
     "wof:parent_id":421171213,
     "wof:placetype":"locality",
@@ -189,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.48330041671562,
-    -24.8996313285337,
-    -65.48330041671562,
-    -24.8996313285337
+    -65.4833,
+    -24.899631,
+    -65.4833,
+    -24.899631
 ],
-  "geometry": {"coordinates":[-65.48330041671562,-24.8996313285337],"type":"Point"}
+  "geometry": {"coordinates":[-65.4833,-24.899631],"type":"Point"}
 }

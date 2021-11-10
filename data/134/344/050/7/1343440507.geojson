@@ -36,6 +36,9 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0644\u0633\u06cc\u062a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09b2\u09c7\u0995\u09bf\u09a4\u09bf\u0993"
+    ],
     "name:ceb_x_preferred":[
         "Chilecito"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Chilecito"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bb\u03b5\u03c3\u03af\u03c4\u03bf"
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0644\u0633\u06cc\u062a\u0648"
@@ -54,11 +60,20 @@
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05dc\u05e1\u05d9\u05d8\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0932\u0947\u0938\u093f\u091f\u094b"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u056b\u056c\u0565\u057d\u056b\u057f\u0578"
     ],
+    "name:ind_x_preferred":[
+        "Chilecito"
+    ],
     "name:ita_x_preferred":[
         "Chilecito"
+    ],
+    "name:kor_x_preferred":[
+        "\uce60\ub808\uc2dc\ud1a0"
     ],
     "name:lit_x_preferred":[
         "\u010cilesitas"
@@ -84,6 +99,12 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043b\u0435\u0441\u0456\u0442\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0626\u0644\u0633\u06cc\u0679\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Chilecito"
+    ],
     "name:zho_x_preferred":[
         "\u5947\u840a\u897f\u6258"
     ],
@@ -99,7 +120,7 @@
         "gn:id":3861444
     },
     "wof:country":"AR",
-    "wof:geomhash":"822b044c11eed498b47b14e7bf6258be",
+    "wof:geomhash":"ae8b1b3147c7fe7aa7a7ad4b1b670628",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":1343440507,
-    "wof:lastmodified":1566587654,
+    "wof:lastmodified":1636502750,
     "wof:name":"Chilecito",
     "wof:parent_id":421195857,
     "wof:placetype":"locality",
@@ -120,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.07198000000001,
+    -69.07198,
     -33.88817,
-    -69.07198000000001,
+    -69.07198,
     -33.88817
 ],
-  "geometry": {"coordinates":[-69.07198000000001,-33.88817],"type":"Point"}
+  "geometry": {"coordinates":[-69.07198,-33.88817],"type":"Point"}
 }

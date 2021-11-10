@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5 \u05d3\u05d5\u05de\u05d9\u05e0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Santo Domingo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259360215,
-    "wof:lastmodified":1566588451,
+    "wof:lastmodified":1636502838,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108718329,
     "wof:placetype":"locality",

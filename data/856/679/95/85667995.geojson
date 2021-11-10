@@ -189,6 +189,9 @@
         "Ognjena zemlja"
     ],
     "name:hun_x_preferred":[
+        "Tierra del Fuego"
+    ],
+    "name:hun_x_variant":[
         "T\u0171zf\u00f6ld"
     ],
     "name:hye_x_preferred":[
@@ -567,7 +570,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808611,
+    "wof:lastmodified":1636502755,
     "wof:name":"Tierra del Fuego",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

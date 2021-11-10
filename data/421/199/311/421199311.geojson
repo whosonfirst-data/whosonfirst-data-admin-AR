@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.878639,-46.6848935,-70.878639,-46.6848935",
+    "geom:bbox":"-70.878639,-46.684894,-70.878639,-46.684894",
     "geom:latitude":-46.684894,
     "geom:longitude":-70.878639,
     "iso:country":"AR",
@@ -17,6 +17,30 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0997\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03ba\u03bf \u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06af\u0648 \u0628\u0648\u0626\u0646\u0648\u0633 \u0627\u06cc\u0631\u0632"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0917\u094b \u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Buenos Aires"
+    ],
+    "name:tur_x_preferred":[
+        "Lago Buenos Aires"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0648 \u0628\u06cc\u0648\u0646\u0648\u0633 \u0627\u06cc\u0626\u0631\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Buenos Aires"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -49,7 +73,7 @@
     },
     "wof:country":"AR",
     "wof:created":1459009985,
-    "wof:geomhash":"ddc8837b34aeb8e742de843e62b21203",
+    "wof:geomhash":"da3c787127327e2262f6ebf703ed6005",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":421199311,
-    "wof:lastmodified":1566588279,
+    "wof:lastmodified":1636502820,
     "wof:name":"Lago Buenos Aires",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",
@@ -71,9 +95,9 @@
 },
   "bbox": [
     -70.878639,
-    -46.6848935,
+    -46.684894,
     -70.878639,
-    -46.6848935
+    -46.684894
 ],
-  "geometry": {"coordinates":[-70.87863900000001,-46.6848935],"type":"Point"}
+  "geometry": {"coordinates":[-70.87863900000001,-46.684894],"type":"Point"}
 }

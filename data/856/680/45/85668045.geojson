@@ -135,6 +135,9 @@
     "name:hrv_x_preferred":[
         "La Rioja"
     ],
+    "name:hun_x_preferred":[
+        "La Rioja"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u054c\u056b\u0578\u056d\u0561"
     ],
@@ -431,7 +434,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808608,
+    "wof:lastmodified":1636502751,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

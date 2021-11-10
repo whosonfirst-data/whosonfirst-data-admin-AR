@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0628\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09ac\u09cb\u09df\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0431\u043e\u0430"
     ],
@@ -51,6 +57,9 @@
     "name:epo_x_preferred":[
         "Balboo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0628\u0648\u0622"
+    ],
     "name:fin_x_preferred":[
         "Balboa"
     ],
@@ -63,7 +72,13 @@
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d1\u05d5\u05d0\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u092c\u094b\u0906"
+    ],
     "name:hun_x_preferred":[
+        "Balboa"
+    ],
+    "name:ind_x_preferred":[
         "Balboa"
     ],
     "name:ita_x_preferred":[
@@ -108,8 +123,14 @@
     "name:swe_x_preferred":[
         "Balboa"
     ],
+    "name:tur_x_preferred":[
+        "Balboa"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0431\u043e\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Balboa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -123,7 +144,7 @@
         "gn:id":3864961
     },
     "wof:country":"AR",
-    "wof:geomhash":"70fb8ee5b3734881af5ab32b86993ec8",
+    "wof:geomhash":"ee4928346270d8f22783949ca411c739",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +155,7 @@
         }
     ],
     "wof:id":1310381695,
-    "wof:lastmodified":1566588026,
+    "wof:lastmodified":1636502789,
     "wof:name":"Balboa",
     "wof:parent_id":421171483,
     "wof:placetype":"locality",
@@ -144,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.82533000000001,
+    -64.82533,
     -25.86857,
-    -64.82533000000001,
+    -64.82533,
     -25.86857
 ],
-  "geometry": {"coordinates":[-64.82533000000001,-25.86857],"type":"Point"}
+  "geometry": {"coordinates":[-64.82532999999999,-25.86857],"type":"Point"}
 }

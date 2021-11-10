@@ -60,6 +60,9 @@
     "name:fra_x_preferred":[
         "Valle"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Valle"
     ],
@@ -102,7 +105,7 @@
         "gn:id":3833259
     },
     "wof:country":"AR",
-    "wof:geomhash":"59b2eb69a29aaed3f55ae2a515eef05a",
+    "wof:geomhash":"12fd08177d5df0c9aba66bc8fae38b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1327466841,
-    "wof:lastmodified":1566587563,
+    "wof:lastmodified":1636502742,
     "wof:name":"Valle",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",
@@ -123,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.48333000000001,
+    -67.48333,
     -45.8,
-    -67.48333000000001,
+    -67.48333,
     -45.8
 ],
-  "geometry": {"coordinates":[-67.48333000000001,-45.8],"type":"Point"}
+  "geometry": {"coordinates":[-67.48333,-45.8],"type":"Point"}
 }

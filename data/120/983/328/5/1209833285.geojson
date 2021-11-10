@@ -72,6 +72,12 @@
     "name:hrv_x_preferred":[
         "Volta"
     ],
+    "name:hun_x_preferred":[
+        "Volta"
+    ],
+    "name:ind_x_preferred":[
+        "Volta"
+    ],
     "name:ita_x_preferred":[
         "Volta"
     ],
@@ -126,6 +132,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044c\u0442\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u0644\u0679\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Volta"
     ],
@@ -141,7 +150,7 @@
         "gn:id":3832430
     },
     "wof:country":"AR",
-    "wof:geomhash":"255e4fee92f75c5bf2c66289a820d286",
+    "wof:geomhash":"09729d3f44c7d3e19a944b3426e045fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":1209833285,
-    "wof:lastmodified":1566587852,
+    "wof:lastmodified":1636502771,
     "wof:name":"Volta",
     "wof:parent_id":1108717973,
     "wof:placetype":"locality",
@@ -162,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.61666999999999,
+    -62.61667,
     -34.88333,
-    -62.61666999999999,
+    -62.61667,
     -34.88333
 ],
-  "geometry": {"coordinates":[-62.61666999999999,-34.88333],"type":"Point"}
+  "geometry": {"coordinates":[-62.61667,-34.88333],"type":"Point"}
 }

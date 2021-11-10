@@ -62,6 +62,9 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab2\u0acb\u0ab0\u0ac7\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d5\u05e8\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u094b\u0932\u094b\u0930\u0938"
     ],
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":421200977,
-    "wof:lastmodified":1566588281,
+    "wof:lastmodified":1636502820,
     "wof:name":"Dolores",
     "wof:parent_id":1108717921,
     "wof:placetype":"locality",

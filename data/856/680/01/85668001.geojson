@@ -294,9 +294,15 @@
         "\u0427\u0443\u0431\u0443\u0442"
     ],
     "name:urd_x_preferred":[
+        "\u0686\u0648\u0628\u0648\u0679"
+    ],
+    "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0648\u0628\u0648\u062a"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Chubut"
+    ],
+    "name:vie_x_variant":[
         "Chubut"
     ],
     "name:vol_x_preferred":[
@@ -437,7 +443,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808610,
+    "wof:lastmodified":1636502753,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

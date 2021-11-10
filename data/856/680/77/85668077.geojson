@@ -131,6 +131,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928\u094d\u091f\u093e \u092b\u0948 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Santa Fe"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u057f\u0561 \u0556\u0565 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
@@ -422,7 +425,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808610,
+    "wof:lastmodified":1636502754,
     "wof:name":"Santa Fe",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

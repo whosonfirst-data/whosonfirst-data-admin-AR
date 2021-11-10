@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0633 \u0645\u0644\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09b8 \u09ae\u09be\u09b2\u09be\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Chos Malal"
     ],
     "name:deu_x_preferred":[
         "Chos Malal"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c2 \u039c\u03b1\u03bb\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Chos Malal"
@@ -35,14 +44,29 @@
     "name:grn_x_preferred":[
         "Chos Malal"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e1 \u05de\u05dc\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u0938 \u092e\u0932\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Chos Malal"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u057d \u0544\u0561\u056c\u0561\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Chos Malal"
     ],
     "name:ita_x_preferred":[
         "Chos Malal"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30b9\u30fb\u30de\u30e9\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08\ub9d0\ub784"
     ],
     "name:lit_x_preferred":[
         "\u010cos Malalis"
@@ -70,6 +94,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0441-\u041c\u0430\u043b\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0624\u0633 \u0645\u0644\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Chos Malal"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u65af\u99ac\u62c9\u723e"
@@ -219,7 +249,7 @@
         }
     ],
     "wof:id":421199995,
-    "wof:lastmodified":1582358637,
+    "wof:lastmodified":1636502820,
     "wof:name":"Chos Malal",
     "wof:parent_id":421199899,
     "wof:placetype":"locality",

@@ -45,6 +45,12 @@
     "name:fra_x_preferred":[
         "Independencia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d3\u05e4\u05e0\u05d3\u05e0\u05e1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Independencia"
+    ],
     "name:ita_x_preferred":[
         "Independencia"
     ],
@@ -84,7 +90,7 @@
         "gn:id":3853855
     },
     "wof:country":"AR",
-    "wof:geomhash":"2156e35fd01ea6098eb8a8e940b96e3d",
+    "wof:geomhash":"f34d8b01d0b52a1ef9d08cf2dcb201b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1276183601,
-    "wof:lastmodified":1566587783,
+    "wof:lastmodified":1636502764,
     "wof:name":"Independencia",
     "wof:parent_id":1108718455,
     "wof:placetype":"locality",
@@ -106,9 +112,9 @@
 },
   "bbox": [
     -61.73333,
-    -29.36667000000001,
+    -29.36667,
     -61.73333,
-    -29.36667000000001
+    -29.36667
 ],
-  "geometry": {"coordinates":[-61.73333,-29.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-61.73333,-29.36667],"type":"Point"}
 }

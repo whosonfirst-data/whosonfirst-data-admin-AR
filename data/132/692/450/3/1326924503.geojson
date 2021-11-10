@@ -45,6 +45,12 @@
     "name:fra_x_preferred":[
         "San Bernardo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d1\u05e8\u05e0\u05e8\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Bernardo"
+    ],
     "name:ita_x_preferred":[
         "San Bernardo"
     ],
@@ -96,7 +102,7 @@
         "gn:id":3837945
     },
     "wof:country":"AR",
-    "wof:geomhash":"15c624415be78d5d04e4b2d8a348883c",
+    "wof:geomhash":"9c1d0c0afdc231d5190d05cb2aaba18e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1326924503,
-    "wof:lastmodified":1566587549,
+    "wof:lastmodified":1636502741,
     "wof:name":"San Bernardo",
     "wof:parent_id":421201001,
     "wof:placetype":"locality",
@@ -117,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.32318000000001,
+    -65.32318,
     -23.82025,
-    -65.32318000000001,
+    -65.32318,
     -23.82025
 ],
-  "geometry": {"coordinates":[-65.32318000000001,-23.82025],"type":"Point"}
+  "geometry": {"coordinates":[-65.32317999999999,-23.82025],"type":"Point"}
 }

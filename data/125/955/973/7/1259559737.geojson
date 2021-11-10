@@ -33,6 +33,9 @@
     "name:ceb_x_preferred":[
         "La Uni\u00f3n"
     ],
+    "name:hun_x_preferred":[
+        "La Union"
+    ],
     "name:spa_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -52,7 +55,7 @@
         "wk:page":"La_Uni%C3%B3n%2C_Salta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"e55578131fb93e88f0a5c9224642cf35",
+    "wof:geomhash":"b1920d615c65213e4f65d8d7e5c7a8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259559737,
-    "wof:lastmodified":1566588461,
+    "wof:lastmodified":1636502839,
     "wof:name":"La Union",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",
@@ -73,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.19383000000001,
+    -63.19383,
     -23.89757,
-    -63.19383000000001,
+    -63.19383,
     -23.89757
 ],
-  "geometry": {"coordinates":[-63.19383000000001,-23.89757],"type":"Point"}
+  "geometry": {"coordinates":[-63.19383,-23.89757],"type":"Point"}
 }

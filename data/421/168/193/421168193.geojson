@@ -45,10 +45,19 @@
         "\u041b\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:urd_x_preferred":[
-        "\u0644\u0627 \u06a9\u0631\u0648\u0632\u060c \u06a9\u0648\u0631\u06cc\u0646\u0679\u06cc\u0633"
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632"
     ],
     "name:urd_x_variant":[
-        "\u0644\u0627 \u06a9\u0631\u0648\u0632"
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632\u060c \u06a9\u0648\u0631\u06cc\u0646\u0679\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "La Cruz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u514b\u9c81\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u514b\u9b6f\u65af"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421168193,
-    "wof:lastmodified":1566588110,
+    "wof:lastmodified":1636502800,
     "wof:name":"La Cruz",
     "wof:parent_id":421189963,
     "wof:placetype":"locality",

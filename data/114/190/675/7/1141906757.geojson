@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.3499493832,-23.1999934705,-65.3499493832,-23.1999934705",
+    "geom:bbox":"-65.349949,-23.199993,-65.349949,-23.199993",
     "geom:latitude":-23.199993,
     "geom:longitude":-65.349949,
     "iso:country":"AR",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0645\u0627\u0647\u0648\u0627\u0643\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c1\u09ae\u09be\u099b\u09c1\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Humahuaca"
     ],
@@ -30,6 +33,9 @@
     "name:deu_x_preferred":[
         "Humahuaca"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bc\u03b1\u03c7\u03bf\u03c5\u03ac\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Humahuaca"
     ],
@@ -38,6 +44,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05d5\u05d5\u05d0\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u092e\u093e\u0939\u0941\u0906\u091a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Humahuaca"
+    ],
+    "name:ind_x_preferred":[
+        "Humahuaca"
     ],
     "name:ita_x_preferred":[
         "Humahuaca"
@@ -63,6 +78,9 @@
     "name:por_x_preferred":[
         "Humahuaca"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0430\u0443\u0430\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
         "Humahuaca"
     ],
@@ -71,6 +89,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0430\u0432\u0430\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0645\u0627\u06c1\u0648\u0627\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Humahuaca"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u746a\u74e6\u5361"
@@ -183,7 +207,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130634,
-    "wof:geomhash":"e0138ccb8b63a78e0b276354b7068621",
+    "wof:geomhash":"426f4e48f9d515a256f6bd0d831e413d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -194,7 +218,7 @@
         }
     ],
     "wof:id":1141906757,
-    "wof:lastmodified":1566588567,
+    "wof:lastmodified":1636502847,
     "wof:name":"Humahuaca",
     "wof:parent_id":421204061,
     "wof:placetype":"locality",
@@ -204,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.34994938318641,
-    -23.19999347045405,
-    -65.34994938318641,
-    -23.19999347045405
+    -65.349949,
+    -23.199993,
+    -65.349949,
+    -23.199993
 ],
-  "geometry": {"coordinates":[-65.34994938318641,-23.19999347045405],"type":"Point"}
+  "geometry": {"coordinates":[-65.349949,-23.199993],"type":"Point"}
 }

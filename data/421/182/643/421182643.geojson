@@ -17,14 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09b0\u09c7\u09a4\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Loreto"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c1\u03ad\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Loreto"
     ],
     "name:fra_x_preferred":[
         "Loreto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0930\u0947\u091f\u094b"
     ],
     "name:nld_x_preferred":[
         "Loreto"
@@ -37,6 +49,12 @@
     ],
     "name:swe_x_preferred":[
         "Loreto"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u0679\u0648"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":421182643,
-    "wof:lastmodified":1566588317,
+    "wof:lastmodified":1636502824,
     "wof:name":"Loreto",
     "wof:parent_id":421203247,
     "wof:placetype":"locality",

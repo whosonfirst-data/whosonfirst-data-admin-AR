@@ -294,16 +294,29 @@
         "Gobernaci\u00f3n del R\u00edo Negro"
     ],
     "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u0646\u06cc\u06af\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0631\u06cc\u0648 \u0646\u06cc\u06af\u0631\u0648"
     ],
     "name:vie_x_preferred":[
-        "R\u00edo Negro"
+        "S\u00f4ng R\u00edo Negro"
+    ],
+    "name:vie_x_variant":[
+        "R\u00edo Negro",
+        "Rio Negro"
     ],
     "name:vol_x_preferred":[
         "R\u00edo Negro"
     ],
     "name:war_x_preferred":[
         "R\u00edo Negro"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u91cc\u5965\u5185\u683c\u7f57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u91cc\u5967\u5167\u683c\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u5185\u683c\u7f57\u6cb3\u7701"
@@ -432,7 +445,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808611,
+    "wof:lastmodified":1636502754,
     "wof:name":"Rio Negro",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.4500207943,-36.2162532361,-65.4500207943,-36.2162532361",
+    "geom:bbox":"-65.450021,-36.216253,-65.450021,-36.216253",
     "geom:latitude":-36.216253,
     "geom:longitude":-65.450021,
     "iso:country":"AR",
@@ -18,20 +18,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0643\u062a\u0648\u0631\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Victorica"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u0995\u09cd\u099f\u09cb\u09b0\u09bf\u09df\u09be"
     ],
     "name:ceb_x_preferred":[
         "Victorica"
     ],
+    "name:deu_x_preferred":[
+        "Victorica"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03ba\u03c4\u03cc\u03c1\u03b9\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Victorica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Victorica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e7\u05d8\u05d5\u05e8\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0915\u094d\u091f\u094b\u0930\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Victorica"
+    ],
+    "name:ind_x_preferred":[
+        "Victorica"
+    ],
     "name:ita_x_preferred":[
         "Victorica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30af\u30c8\u30ea\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ube45\ud1a0\ub9ac\uce74"
     ],
     "name:lit_x_preferred":[
         "Viktorika"
@@ -45,6 +78,9 @@
     "name:por_x_preferred":[
         "Victorica"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u043a\u0430"
+    ],
     "name:slv_x_preferred":[
         "Victorica"
     ],
@@ -56,6 +92,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Victorica"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u514b\u6258\u91cc\u5361"
@@ -168,7 +210,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130814,
-    "wof:geomhash":"4c7646ea83dd5910dcc4ba625172a450",
+    "wof:geomhash":"459d2ba2c391fe789297c82e10533d28",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +221,7 @@
         }
     ],
     "wof:id":1141908079,
-    "wof:lastmodified":1566588576,
+    "wof:lastmodified":1636502853,
     "wof:name":"Victorica",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",
@@ -189,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.45002079431964,
-    -36.21625323613108,
-    -65.45002079431964,
-    -36.21625323613108
+    -65.450021,
+    -36.216253,
+    -65.450021,
+    -36.216253
 ],
-  "geometry": {"coordinates":[-65.45002079431964,-36.21625323613108],"type":"Point"}
+  "geometry": {"coordinates":[-65.45002100000001,-36.216253],"type":"Point"}
 }

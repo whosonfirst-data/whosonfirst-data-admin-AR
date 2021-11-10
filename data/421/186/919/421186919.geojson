@@ -17,6 +17,42 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0633\u0627\u062f\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u09b8\u09c0\u09df\u09be\u09a6\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03c3\u03b5\u03ac\u03bd\u03c4\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05b6\u05e1\u05b6\u05d0\u05b8\u05d3\u05d5\u05b9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0938\u0940\u0921\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Deseado"
+    ],
+    "name:ind_x_preferred":[
+        "Deseado"
+    ],
+    "name:ita_x_preferred":[
+        "Deseado"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc2dc\ub3c4"
+    ],
+    "name:tur_x_preferred":[
+        "Deseado"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0633\u06cc\u0627\u0688\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Deseado"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":421186919,
-    "wof:lastmodified":1566588216,
+    "wof:lastmodified":1636502814,
     "wof:name":"Deseado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

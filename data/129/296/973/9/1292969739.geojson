@@ -63,6 +63,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0440\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09c7\u09b0\u09ae\u09cb"
+    ],
     "name:bos_x_preferred":[
         "Palermo"
     ],
@@ -399,7 +402,7 @@
         "gn:id":3842302
     },
     "wof:country":"AR",
-    "wof:geomhash":"16078a55d620c2dd9698703375d7206c",
+    "wof:geomhash":"ec2b8b29417b5427d631695cfe21c10f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -410,7 +413,7 @@
         }
     ],
     "wof:id":1292969739,
-    "wof:lastmodified":1566587743,
+    "wof:lastmodified":1636502760,
     "wof:name":"Palermo",
     "wof:parent_id":1108718471,
     "wof:placetype":"locality",
@@ -420,10 +423,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.93333000000001,
+    -62.93333,
     -28.53333,
-    -62.93333000000001,
+    -62.93333,
     -28.53333
 ],
-  "geometry": {"coordinates":[-62.93333000000001,-28.53333],"type":"Point"}
+  "geometry": {"coordinates":[-62.93333,-28.53333],"type":"Point"}
 }

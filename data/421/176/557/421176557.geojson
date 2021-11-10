@@ -17,14 +17,38 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u062a\u0648 \u0645\u0648\u0631\u064a\u0646\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09b0\u09bf\u09a4\u09cb \u09ae\u09cb\u09b0\u09c7\u09a8\u09cb"
+    ],
     "name:ces_x_preferred":[
         "Perito Moreno"
     ],
     "name:deu_x_preferred":[
         "Perito Moreno"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03af\u03c4\u03bf \u039c\u03bf\u03c1\u03ad\u03bd\u03bf"
+    ],
     "name:fra_x_preferred":[
         "Perito Moreno"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d8\u05d5 \u05de\u05d5\u05e8\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0930\u093f\u091f\u094b \u092e\u094b\u0930\u0947\u0928\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:ind_x_preferred":[
+        "Perito Moreno"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub9ac\ud1a0 \ubaa8\ub808\ub178"
     ],
     "name:lit_x_preferred":[
         "Perito Moreno"
@@ -49,6 +73,12 @@
     ],
     "name:und_x_variant":[
         "Puerto Moreno"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u062a\u0648 \u0645\u0648\u0631\u06cc\u0646\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Perito Moreno"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -95,7 +125,7 @@
         }
     ],
     "wof:id":421176557,
-    "wof:lastmodified":1566588320,
+    "wof:lastmodified":1636502825,
     "wof:name":"Perito Moreno",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

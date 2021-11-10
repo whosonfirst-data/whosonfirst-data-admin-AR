@@ -51,6 +51,9 @@
     "name:fra_x_preferred":[
         "Pichincha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e6'\u05d9\u05e0\u05e6'\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Pichincha"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209120119,
-    "wof:lastmodified":1566587855,
+    "wof:lastmodified":1636502771,
     "wof:name":"Pichincha",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",

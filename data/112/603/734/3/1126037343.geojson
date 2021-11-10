@@ -20,23 +20,84 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631 \u062a\u0634\u064a\u0643\u064a\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0 \u099a\u09bf\u0995\u09c1\u0987\u09a4\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u0443\u043d\u0430 \u041c\u0430\u0440 \u0427\u0438\u043a\u0438\u0442\u0430"
     ],
     "name:deu_x_preferred":[
         "Mar Chiquita"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1 \u03a4\u03c3\u03b9\u03ba\u03af\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mar Chiquita"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631 \u0686\u06cc\u06a9\u06cc\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Mar Chiquita"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05d0\u05e6'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d \u091a\u093f\u0915\u094d\u0935\u093f\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:ind_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:ita_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30fc\u30eb\u30fb\u30c1\u30ad\u30fc\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974 \uce58\ud0a4\ud0c0"
+    ],
     "name:nld_x_preferred":[
         "Mar Chiquita"
     ],
+    "name:pol_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:por_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:rus_x_preferred":[
+        "\u043e\u0437\u0435\u0440\u043e \u041c\u0430\u0440-\u0427\u0438\u043a\u0438\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "Mar Chiquita"
+    ],
+    "name:spa_x_variant":[],
+    "name:tur_x_preferred":[
+        "Mar Chiquita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440-\u0427\u0456\u043a\u0456\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631 \u0686\u06cc\u06a9\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Mar Chiquita"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u5951\u57fa\u5854\u6e56"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u5947\u57fa\u5854"
     ],
     "qs_pg:aaroncc":"AR",
     "qs_pg:gn_country":"AR",
@@ -82,7 +143,7 @@
         }
     ],
     "wof:id":1126037343,
-    "wof:lastmodified":1566588370,
+    "wof:lastmodified":1636502831,
     "wof:name":"Mar Chiquita",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

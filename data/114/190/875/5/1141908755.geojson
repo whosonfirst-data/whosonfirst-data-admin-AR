@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.3166136085,-42.9000313123,-71.3166136085,-42.9000313123",
+    "geom:bbox":"-71.316614,-42.900031,-71.316614,-42.900031",
     "geom:latitude":-42.900031,
     "geom:longitude":-71.316614,
     "iso:country":"AR",
@@ -20,6 +20,9 @@
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0633\u0643\u064a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b8\u09cd\u0995\u09c1\u09df\u09c7\u09b2"
     ],
     "name:bre_x_preferred":[
         "Esquel"
@@ -39,6 +42,9 @@
     "name:deu_x_preferred":[
         "Esquel"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03ba\u03bf\u03c5\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Esquel"
     ],
@@ -48,7 +54,13 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05e7\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0938\u094d\u0915\u094d\u0935\u0947\u0932"
+    ],
     "name:hun_x_preferred":[
+        "Esquel"
+    ],
+    "name:ind_x_preferred":[
         "Esquel"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +68,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30b9\u30b1\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud004"
     ],
     "name:lit_x_preferred":[
         "Eskelis"
@@ -86,6 +101,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043a\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0648\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Esquel"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u514b\u723e"
@@ -203,7 +224,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130971,
-    "wof:geomhash":"403e5f5773e047edaed8b4ba6f7561cf",
+    "wof:geomhash":"5067cc0aea334b7e6e91cfdace0237d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -214,7 +235,7 @@
         }
     ],
     "wof:id":1141908755,
-    "wof:lastmodified":1566588570,
+    "wof:lastmodified":1636502849,
     "wof:name":"Esquel",
     "wof:parent_id":421170127,
     "wof:placetype":"locality",
@@ -228,10 +249,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.31661360847079,
-    -42.9000313123297,
-    -71.31661360847079,
-    -42.9000313123297
+    -71.316614,
+    -42.900031,
+    -71.316614,
+    -42.900031
 ],
-  "geometry": {"coordinates":[-71.31661360847079,-42.9000313123297],"type":"Point"}
+  "geometry": {"coordinates":[-71.316614,-42.900031],"type":"Point"}
 }

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio"
+    ],
     "name:nld_x_preferred":[
         "San Antonio"
     ],
@@ -52,7 +58,7 @@
         "wk:page":"San_Antonio%2C_Misiones"
     },
     "wof:country":"AR",
-    "wof:geomhash":"5f315a2fd0a4db4364d324e25d563581",
+    "wof:geomhash":"ab5f7154427ff6e11ea3ba1cf3b12850",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1276209961,
-    "wof:lastmodified":1566587783,
+    "wof:lastmodified":1636502764,
     "wof:name":"San Antonio",
     "wof:parent_id":421203245,
     "wof:placetype":"locality",
@@ -73,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -53.73204000000001,
+    -53.73204,
     -26.05927,
-    -53.73204000000001,
+    -53.73204,
     -26.05927
 ],
-  "geometry": {"coordinates":[-53.73204000000001,-26.05927],"type":"Point"}
+  "geometry": {"coordinates":[-53.73204,-26.05927],"type":"Point"}
 }

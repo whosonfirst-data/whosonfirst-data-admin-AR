@@ -153,6 +153,9 @@
         "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0646 \u0631\u0627\u0641\u06cc\u0644"
     ],
     "name:vie_x_preferred":[
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421202307,
-    "wof:lastmodified":1566588166,
+    "wof:lastmodified":1636502807,
     "wof:name":"San Rafael",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

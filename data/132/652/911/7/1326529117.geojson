@@ -48,6 +48,9 @@
     "name:frr_x_preferred":[
         "Cabinda"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d9\u05e0\u05d3\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Cabinda"
     ],
@@ -90,7 +93,7 @@
         "gn:id":3863595
     },
     "wof:country":"AR",
-    "wof:geomhash":"a4965140ab60e081ff61ea3669314a06",
+    "wof:geomhash":"7c2ef3721cb5b837081949a00c3d6db1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1326529117,
-    "wof:lastmodified":1566587581,
+    "wof:lastmodified":1636502744,
     "wof:name":"Cabinda",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",
@@ -112,9 +115,9 @@
 },
   "bbox": [
     -63.81649,
-    -30.98744000000001,
+    -30.98744,
     -63.81649,
-    -30.98744000000001
+    -30.98744
 ],
-  "geometry": {"coordinates":[-63.81649,-30.98744000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.81649,-30.98744],"type":"Point"}
 }

@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u062c\u0646\u0631\u0627\u0644 \u067e\u06cc\u06a9\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09bf\u0995\u09cb"
+    ],
     "name:cat_x_preferred":[
         "General Pico"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "General Pico"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bd\u03b5\u03c1\u03ac\u03bb \u03a0\u03af\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "General Pico"
@@ -44,11 +50,23 @@
     "name:heb_x_preferred":[
         "\u05d7\u05e0\u05e8\u05dc \u05e4\u05d9\u05e7\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u0928\u0930\u0932 \u092a\u0940\u0915\u094b"
+    ],
     "name:hun_x_preferred":[
+        "General Pico"
+    ],
+    "name:ind_x_preferred":[
+        "General Pico"
+    ],
+    "name:ita_x_preferred":[
         "General Pico"
     ],
     "name:jpn_x_preferred":[
         "\u30d8\u30cd\u30e9\u30eb\u30fb\u30d4\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub108\ub7f4 \ud53c\ucf54"
     ],
     "name:lit_x_preferred":[
         "Cheneral Pikas"
@@ -68,6 +86,9 @@
     "name:por_x_preferred":[
         "General Pico"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041f\u0438\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
         "General Pico"
     ],
@@ -79,6 +100,12 @@
     ],
     "name:und_x_variant":[
         "Pico"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0631\u0644 \u067e\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "General Pico"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u79d1\u5c07\u8ecd\u93ae"
@@ -226,7 +253,7 @@
         }
     ],
     "wof:id":421177953,
-    "wof:lastmodified":1566588302,
+    "wof:lastmodified":1636502822,
     "wof:name":"General Pico",
     "wof:parent_id":421175285,
     "wof:placetype":"locality",

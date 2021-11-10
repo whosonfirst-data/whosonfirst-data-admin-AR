@@ -17,6 +17,27 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0629 \u0641\u064a\u062f\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0997\u09cb \u09ad\u09bf\u09df\u09c7\u09a6\u09ae\u09be"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0917\u094b \u0935\u093f\u0926\u092e\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Viedma"
+    ],
+    "name:por_x_preferred":[
+        "Lago Viedma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0648 \u0648\u06cc\u0688\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Viedma"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3851093,
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":421176561,
-    "wof:lastmodified":1566588320,
+    "wof:lastmodified":1636502825,
     "wof:name":"Lago Viedma",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

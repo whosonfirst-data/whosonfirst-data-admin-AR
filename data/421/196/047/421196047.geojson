@@ -17,13 +17,43 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u099c"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
+    ],
     "name:eng_x_preferred":[
         "La Paz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "La Paz"
+    ],
+    "name:ind_x_preferred":[
+        "La Paz"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc2a4"
     ],
     "name:por_x_preferred":[
         "La Paz"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
+        "La Paz"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz"
+    ],
+    "name:tur_x_preferred":[
         "La Paz"
     ],
     "name:urd_x_preferred":[
@@ -31,6 +61,15 @@
     ],
     "name:urd_x_variant":[
         "\u0644\u0627 \u067e\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5df4\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -79,7 +118,7 @@
         }
     ],
     "wof:id":421196047,
-    "wof:lastmodified":1566588242,
+    "wof:lastmodified":1636502817,
     "wof:name":"La Paz",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

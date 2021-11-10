@@ -30,6 +30,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0631\u0648\u0632\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b0\u09cb\u09b8\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03cc\u03c3\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u0632\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05d6\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0930\u094b\u091c\u093c\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0627 \u0631\u0648\u0633\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -43,7 +70,7 @@
         "wk:page":"Santa_Rosa_%28Salta%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"5e03f6765bf85de412bdf57b9b1d90cf",
+    "wof:geomhash":"21de840e70b3ed907f0e667420cf3fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1276846793,
-    "wof:lastmodified":1566587816,
+    "wof:lastmodified":1636502767,
     "wof:name":"Santa Rosa",
     "wof:parent_id":1108718417,
     "wof:placetype":"locality",
@@ -64,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.69498000000001,
+    -62.69498,
     -24.244,
-    -62.69498000000001,
+    -62.69498,
     -24.244
 ],
-  "geometry": {"coordinates":[-62.69498000000001,-24.244],"type":"Point"}
+  "geometry": {"coordinates":[-62.69498,-24.244],"type":"Point"}
 }

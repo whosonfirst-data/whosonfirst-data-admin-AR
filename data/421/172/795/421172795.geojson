@@ -65,6 +65,9 @@
     "name:hin_x_preferred":[
         "\u0935\u0947\u0928\u093e\u0921\u094b \u091f\u0942\u092f\u0930\u0924\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Venado Tuerto"
+    ],
     "name:ind_x_preferred":[
         "Venado Tuerto"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421172795,
-    "wof:lastmodified":1566588205,
+    "wof:lastmodified":1636502813,
     "wof:name":"Venado Tuerto",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

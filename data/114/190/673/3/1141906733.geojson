@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-62.6833162858,-39.4833406385,-62.6833162858,-39.4833406385",
+    "geom:bbox":"-62.683316,-39.483341,-62.683316,-39.483341",
     "geom:latitude":-39.483341,
     "geom:longitude":-62.683316,
     "iso:country":"AR",
@@ -21,19 +21,52 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u062f\u0631\u0648 \u0644\u0648\u0631\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a6\u09cd\u09b0\u09cb \u09b2\u09c1\u09b0\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03b4\u03c1\u03bf \u039b\u03bf\u03cd\u03c1\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Pedro Luro"
     ],
     "name:eus_x_preferred":[
         "Pedro Luro"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0631\u0648 \u0644\u0648\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05d5 \u05dc\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0921\u094d\u0930\u094b \u0932\u094d\u092f\u0942\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:ind_x_preferred":[
         "Pedro Luro"
     ],
     "name:ita_x_preferred":[
         "Pedro Luro"
     ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c9\u30ed\u30fb\u30eb\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub4dc\ub85c \ub8e8\ub85c"
+    ],
     "name:nld_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:pol_x_preferred":[
         "Pedro Luro"
     ],
     "name:por_x_preferred":[
@@ -45,8 +78,26 @@
     "name:spa_x_preferred":[
         "Pedro Luro"
     ],
+    "name:swe_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:tur_x_preferred":[
+        "Pedro Luro"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0434\u0440\u043e-\u041b\u0443\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0688\u0631\u0648 \u0644\u06cc\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Pedro Luro"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f69\u5fb7\u7f57\u5362\u7f57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u00b7\u8def\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -156,7 +207,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130631,
-    "wof:geomhash":"63aef133c3258f6c6469ee1a0dae0c09",
+    "wof:geomhash":"0bbda0c359117525447026410264b6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +218,7 @@
         }
     ],
     "wof:id":1141906733,
-    "wof:lastmodified":1566588569,
+    "wof:lastmodified":1636502849,
     "wof:name":"Pedro Luro",
     "wof:parent_id":1108718137,
     "wof:placetype":"locality",
@@ -177,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.68331628584497,
-    -39.48334063848785,
-    -62.68331628584497,
-    -39.48334063848785
+    -62.683316,
+    -39.483341,
+    -62.683316,
+    -39.483341
 ],
-  "geometry": {"coordinates":[-62.68331628584497,-39.48334063848785],"type":"Point"}
+  "geometry": {"coordinates":[-62.683316,-39.483341],"type":"Point"}
 }

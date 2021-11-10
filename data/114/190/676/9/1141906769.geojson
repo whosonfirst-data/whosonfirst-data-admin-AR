@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.2833126237,-26.2166568819,-65.2833126237,-26.2166568819",
+    "geom:bbox":"-65.283313,-26.216657,-65.283313,-26.216657",
     "geom:latitude":-26.216657,
     "geom:longitude":-65.283313,
     "iso:country":"AR",
@@ -24,26 +24,59 @@
     "name:ara_x_variant":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0631\u0627\u0646\u0643\u0627\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09be\u09a8\u0995\u09cd\u09af\u09be\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Trancas"
     ],
     "name:deu_x_preferred":[
         "Trancas"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ac\u03bd\u03ba\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Trancas"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u06a9\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Trancas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05e0\u05e7\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0902\u0915\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Trancas"
+    ],
+    "name:ind_x_preferred":[
         "Trancas"
     ],
     "name:ita_x_preferred":[
         "Trancas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30f3\u30ab\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub79c\uce74\uc2a4"
+    ],
     "name:nld_x_preferred":[
+        "Trancas"
+    ],
+    "name:pol_x_preferred":[
         "Trancas"
     ],
     "name:por_x_preferred":[
         "Trancas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u043d\u043a\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Trancas"
@@ -53,6 +86,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u043d\u043a\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u06cc\u0646\u06a9\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Trancas"
     ],
     "name:zho_x_preferred":[
         "\u7279\u862d\u5361\u65af"
@@ -170,7 +209,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130636,
-    "wof:geomhash":"47941a35eea803cbad8b344e656618f5",
+    "wof:geomhash":"3fcf3f495dae177b007dcb43f2e752b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +220,7 @@
         }
     ],
     "wof:id":1141906769,
-    "wof:lastmodified":1566588572,
+    "wof:lastmodified":1636502851,
     "wof:name":"Trancas",
     "wof:parent_id":1108718531,
     "wof:placetype":"locality",
@@ -195,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.28331262374604,
-    -26.21665688192445,
-    -65.28331262374604,
-    -26.21665688192445
+    -65.283313,
+    -26.216657,
+    -65.283313,
+    -26.216657
 ],
-  "geometry": {"coordinates":[-65.28331262374604,-26.21665688192445],"type":"Point"}
+  "geometry": {"coordinates":[-65.28331300000001,-26.216657],"type":"Point"}
 }

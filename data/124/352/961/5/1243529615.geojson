@@ -49,6 +49,9 @@
     "name:bel_x_preferred":[
         "\u0427\u044b\u043c\u0431\u0430\u0440\u0430\u0441\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09ae\u09cd\u09ac\u09cb\u09b0\u09be\u099c\u09cb"
+    ],
     "name:bos_x_preferred":[
         "Chimborazo"
     ],
@@ -226,6 +229,9 @@
     "name:und_x_variant":[
         "El Chimborazo"
     ],
+    "name:urd_x_preferred":[
+        "\u0686\u0645\u0628\u0648\u0631\u0627\u0632\u0648"
+    ],
     "name:vie_x_preferred":[
         "Chimborazo"
     ],
@@ -250,7 +256,7 @@
         "gn:id":3861414
     },
     "wof:country":"AR",
-    "wof:geomhash":"9b127da26477e7a43560fb42cb106fa4",
+    "wof:geomhash":"c5b180c680bb06603df50290bf8a4de8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":1243529615,
-    "wof:lastmodified":1566588389,
+    "wof:lastmodified":1636502832,
     "wof:name":"Chimborazo",
     "wof:parent_id":421171231,
     "wof:placetype":"locality",
@@ -271,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.76666999999999,
+    -66.76667,
     -32.45,
-    -66.76666999999999,
+    -66.76667,
     -32.45
 ],
-  "geometry": {"coordinates":[-66.76666999999999,-32.45],"type":"Point"}
+  "geometry": {"coordinates":[-66.76667,-32.45],"type":"Point"}
 }

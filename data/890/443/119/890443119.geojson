@@ -431,10 +431,10 @@
         "\u067e\u0648\u0626\u06d0\u0631\u062a\u0648 \u0631\u0649\u0643\u0648"
     ],
     "name:ukr_x_preferred":[
-        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0456\u043a\u043e"
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
     ],
     "name:ukr_x_variant":[
-        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0456\u043a\u043e"
     ],
     "name:und_x_variant":[
         "Puerto Libertador General San Mart\u00edn"
@@ -471,6 +471,12 @@
     ],
     "name:zea_x_preferred":[
         "Puerto Rico"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6ce2\u591a\u9ece\u5404\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6ce2\u591a\u9ece\u5404"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u79d1\u6e2f"
@@ -511,7 +517,7 @@
         }
     ],
     "wof:id":890443119,
-    "wof:lastmodified":1566588361,
+    "wof:lastmodified":1636502830,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

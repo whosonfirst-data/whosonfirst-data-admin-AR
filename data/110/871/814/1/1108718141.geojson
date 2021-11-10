@@ -58,6 +58,12 @@
     "name:fra_x_preferred":[
         "Ambato"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d1\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Ambato"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0574\u0562\u0561\u057f\u0578"
     ],
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108718141,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1636502785,
     "wof:name":"Ambato",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

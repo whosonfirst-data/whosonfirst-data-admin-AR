@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u062a\u0631\u0633 \u0622\u0631\u0648\u06cc\u0648\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09b0\u09c7\u09b8 \u0986\u09b0\u09b0\u09cb\u09df\u09b8"
+    ],
     "name:ces_x_preferred":[
         "Tres Arroyos"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:dan_x_preferred":[
         "Tres Arroyos"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Arroyos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03c2 \u0391\u03c1\u03c1\u03cc\u03b3\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tres Arroyos"
@@ -44,6 +53,15 @@
     "name:fra_x_preferred":[
         "Tres Arroyos"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e1 \u05d0\u05e8\u05d5\u05d9\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0947\u0938 \u090f\u0930\u094b\u092f\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Tres Arroyos"
+    ],
     "name:ind_x_preferred":[
         "Tres Arroyos"
     ],
@@ -52,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ec\u30b9\u30fb\u30a2\u30ed\u30e8\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub808\uc2a4 \uc544\ub85c\uc694\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Tres Arojosas"
@@ -71,14 +92,26 @@
     "name:por_x_preferred":[
         "Tres Arroyos"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0441-\u0410\u0440\u0440\u043e\u0439\u043e\u0441"
+    ],
     "name:sco_x_preferred":[
         "Tres Arroyos"
     ],
     "name:spa_x_preferred":[
         "Tres Arroyos"
     ],
+    "name:swe_x_preferred":[
+        "Tres Arroyos"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0441-\u0410\u0440\u0440\u043e\u0439\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u06cc\u0633 \u0622\u0631\u0648\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Tres Arroyos"
     ],
     "name:zho_x_preferred":[
         "\u7279\u96f7\u65af\u963f\u7f85\u7d04\u65af"
@@ -226,7 +259,7 @@
         }
     ],
     "wof:id":421170331,
-    "wof:lastmodified":1566588295,
+    "wof:lastmodified":1636502821,
     "wof:name":"Tres Arroyos",
     "wof:parent_id":1108718125,
     "wof:placetype":"locality",

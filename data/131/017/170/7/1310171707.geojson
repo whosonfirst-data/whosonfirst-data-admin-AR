@@ -118,6 +118,9 @@
         "\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\uc12c"
     ],
     "name:kur_x_preferred":[
@@ -231,7 +234,7 @@
         "gn:id":3833650
     },
     "wof:country":"AR",
-    "wof:geomhash":"106f78c1e896ba6956f979eeb00427d3",
+    "wof:geomhash":"b126e8106832220af14cf02c38beb47b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":1310171707,
-    "wof:lastmodified":1566588047,
+    "wof:lastmodified":1636502791,
     "wof:name":"Trinidad",
     "wof:parent_id":1108718427,
     "wof:placetype":"locality",
@@ -252,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.51666999999999,
+    -68.51667,
     -31.55,
-    -68.51666999999999,
+    -68.51667,
     -31.55
 ],
-  "geometry": {"coordinates":[-68.51666999999999,-31.55],"type":"Point"}
+  "geometry": {"coordinates":[-68.51667,-31.55],"type":"Point"}
 }

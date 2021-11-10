@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0622\u0633\u0648\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u099c\u09c1\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Azul"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Azul"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03bf\u03cd\u03bb"
     ],
     "name:eng_x_preferred":[
         "Azul"
@@ -50,7 +56,13 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05d5\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u091c\u093c\u0941\u0932"
+    ],
     "name:hun_x_preferred":[
+        "Azul"
+    ],
+    "name:ind_x_preferred":[
         "Azul"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc904"
     ],
     "name:lit_x_preferred":[
         "Asulis"
@@ -91,6 +106,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0443\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0632\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Azul"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8607\u723e"
@@ -238,7 +259,7 @@
         }
     ],
     "wof:id":421204619,
-    "wof:lastmodified":1566588154,
+    "wof:lastmodified":1636502806,
     "wof:name":"Azul",
     "wof:parent_id":1108717861,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0623\u0646\u0637\u0648\u0646\u064a\u0648 \u0623\u0648\u064a\u0633\u062a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09cb\u09a8\u09bf\u0993 \u0993\u09df\u09c7\u09b8\u09cd\u09a4\u09c7"
+    ],
     "name:cat_x_preferred":[
         "San Antonio Oeste"
     ],
@@ -32,10 +35,25 @@
     "name:deu_x_preferred":[
         "San Antonio Oeste"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u039f\u03ad\u03c3\u03c4\u03b5"
+    ],
     "name:eng_x_preferred":[
         "San Antonio Oeste"
     ],
     "name:fra_x_preferred":[
+        "San Antonio Oeste"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5 \u05d0\u05e1\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u090f\u0902\u091f\u094b\u0928\u093f\u092f\u094b \u090a\u0938\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio Oeste"
+    ],
+    "name:ind_x_preferred":[
         "San Antonio Oeste"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +61,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30aa\u30a8\u30b9\u30c6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \uc548\ud1a0\ub2c8\uc624 \uc624\uc5d0\uc2a4\ud14c"
     ],
     "name:lit_x_preferred":[
         "San Antonio Oest\u0117"
@@ -76,6 +97,12 @@
     ],
     "name:und_x_variant":[
         "Puerto San Antonio Oeste"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u06cc\u0646\u0679\u0648\u0646\u06cc\u0648 \u0627\u0648\u0626\u06cc\u0633\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio Oeste"
     ],
     "name:zho_x_preferred":[
         "\u897f\u5723\u5b89\u4e1c\u5c3c\u5965"
@@ -229,7 +256,7 @@
         }
     ],
     "wof:id":421172339,
-    "wof:lastmodified":1582358632,
+    "wof:lastmodified":1636502812,
     "wof:name":"San Antonio Oeste",
     "wof:parent_id":1108718395,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0627 \u06a9\u0627\u0631\u0644\u0648\u0633 \u067e\u0627\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8 \u09aa\u09be\u099c"
+    ],
     "name:cat_x_preferred":[
         "Villa Carlos Paz"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Villa Carlos Paz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b1 \u039a\u03ac\u03c1\u03bb\u03bf\u03c2 \u03a0\u03b1\u03b6"
     ],
     "name:eng_x_preferred":[
         "Villa Carlos Paz"
@@ -56,8 +62,17 @@
     "name:heb_x_variant":[
         "\u05d5\u05d9\u05d6\u05d4 \u05e7\u05e8\u05dc\u05d5\u05e1 \u05e4\u05d0\u05e1"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u093e \u0915\u093e\u0930\u094d\u0932\u094b\u0938 \u092a\u093e\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Villa Carlos Paz"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056c\u0575\u0561 \u053f\u0561\u057c\u056c\u0578\u057d \u054a\u0561\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Carlos Paz"
     ],
     "name:ita_x_preferred":[
         "Villa Carlos Paz"
@@ -67,6 +82,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub77c \uce74\ub97c\ub85c\uc2a4 \ud30c\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Vilja Karlos Pasas"
@@ -111,8 +129,17 @@
     "name:szl_x_preferred":[
         "Villa Carlos Paz"
     ],
+    "name:tur_x_preferred":[
+        "Villa Carlos Paz"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f-\u041a\u0430\u0440\u043b\u043e\u0441-\u041f\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0644\u0627 \u06a9\u0627\u0631\u0644\u0648\u0633 \u067e\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Carlos Paz"
     ],
     "name:zho_x_preferred":[
         "\u5361\u6d1b\u65af\u5e15\u65af\u93ae"
@@ -259,7 +286,7 @@
         }
     ],
     "wof:id":421203525,
-    "wof:lastmodified":1566588166,
+    "wof:lastmodified":1636502807,
     "wof:name":"Villa Carlos Paz",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

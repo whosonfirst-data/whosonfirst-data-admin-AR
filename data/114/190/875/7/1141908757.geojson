@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.0666640642,-38.9000170708,-70.0666640642,-38.9000170708",
+    "geom:bbox":"-70.066664,-38.900017,-70.066664,-38.900017",
     "geom:latitude":-38.900017,
     "geom:longitude":-70.066664,
     "iso:country":"AR",
@@ -24,6 +24,9 @@
     "name:azb_x_preferred":[
         "\u0633\u0627\u067e\u0627\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09aa\u09be\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Zapala"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "Zapala"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c0\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zapala"
@@ -51,14 +57,26 @@
     "name:heb_x_preferred":[
         "\u05d6\u05e4\u05d0\u05dc\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u092a\u093e\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Zapala"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u057a\u0561\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Zapala"
     ],
     "name:ita_x_preferred":[
         "Zapala"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30d1\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ud314\ub77c"
     ],
     "name:lit_x_preferred":[
         "Sapala"
@@ -86,6 +104,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043f\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u067e\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Zapala"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5e15\u62c9"
@@ -203,7 +227,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130971,
-    "wof:geomhash":"89f01f99894d2f43f6e74f3abd00b5c0",
+    "wof:geomhash":"94714e00cd0893d74eb2e5057aedeb19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":1141908757,
-    "wof:lastmodified":1566588570,
+    "wof:lastmodified":1636502849,
     "wof:name":"Zapala",
     "wof:parent_id":421191185,
     "wof:placetype":"locality",
@@ -228,10 +252,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.06666406419492,
-    -38.90001707077727,
-    -70.06666406419492,
-    -38.90001707077727
+    -70.066664,
+    -38.900017,
+    -70.066664,
+    -38.900017
 ],
-  "geometry": {"coordinates":[-70.06666406419492,-38.90001707077727],"type":"Point"}
+  "geometry": {"coordinates":[-70.066664,-38.900017],"type":"Point"}
 }

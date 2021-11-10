@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "San Salvador"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "San Salvador"
+    ],
     "name:ita_x_preferred":[
         "San Salvador"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421198231,
-    "wof:lastmodified":1566588236,
+    "wof:lastmodified":1636502816,
     "wof:name":"San Salvador",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

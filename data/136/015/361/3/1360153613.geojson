@@ -48,10 +48,19 @@
     "name:eus_x_preferred":[
         "San Vicente"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0648\u06cc\u0633\u0646\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
         "San Vicente"
     ],
     "name:glg_x_preferred":[
+        "San Vicente"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d5\u05d9\u05e1\u05e0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "San Vicente"
     ],
     "name:ilo_x_preferred":[
@@ -117,7 +126,7 @@
         "gn:id":3835765
     },
     "wof:country":"AR",
-    "wof:geomhash":"92fe47045896515cebac586939364802",
+    "wof:geomhash":"cb291c5cde452cf4aa857ac520bf2ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1360153613,
-    "wof:lastmodified":1566588066,
+    "wof:lastmodified":1636502794,
     "wof:name":"San Vicente",
     "wof:parent_id":1108718517,
     "wof:placetype":"locality",
@@ -138,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.18701999999999,
+    -64.18702,
     -28.22548,
-    -64.18701999999999,
+    -64.18702,
     -28.22548
 ],
-  "geometry": {"coordinates":[-64.18701999999999,-28.22548],"type":"Point"}
+  "geometry": {"coordinates":[-64.18702,-28.22548],"type":"Point"}
 }
