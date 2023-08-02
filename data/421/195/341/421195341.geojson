@@ -50,6 +50,9 @@
     "name:spa_x_variant":[
         "Col\u00f3n"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3860828,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195341,
-    "wof:lastmodified":1566588127,
+    "wof:lastmodified":1690850574,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":1108717901,
     "wof:placetype":"locality",

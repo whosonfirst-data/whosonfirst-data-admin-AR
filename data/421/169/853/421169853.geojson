@@ -20,6 +20,9 @@
     "name:als_x_preferred":[
         "Humboldt"
     ],
+    "name:bar_x_preferred":[
+        "Humboldt"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0443\u043c\u0431\u043e\u043b\u0442"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421169853,
-    "wof:lastmodified":1636502805,
+    "wof:lastmodified":1690850598,
     "wof:name":"Humboldt",
     "wof:parent_id":421180885,
     "wof:placetype":"locality",

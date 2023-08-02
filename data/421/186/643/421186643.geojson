@@ -65,6 +65,9 @@
     "name:swe_x_preferred":[
         "Tapiales"
     ],
+    "name:zho_x_preferred":[
+        "\u5854\u76ae\u4e9a\u83b1\u65af"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421186643,
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1690850648,
     "wof:name":"Tapiales",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

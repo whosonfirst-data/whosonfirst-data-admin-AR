@@ -44,6 +44,12 @@
     "name:pol_x_preferred":[
         "Fern\u00e1ndez"
     ],
+    "name:por_x_preferred":[
+        "Fern\u00e1ndez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
         "Fern\u00e1ndez"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421198327,
-    "wof:lastmodified":1566588237,
+    "wof:lastmodified":1690850671,
     "wof:name":"Fern\u00e1ndez",
     "wof:parent_id":1108718509,
     "wof:placetype":"locality",

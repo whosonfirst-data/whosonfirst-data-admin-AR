@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Unquillo"
+    ],
     "name:ceb_x_preferred":[
         "Unquillo"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Unquillo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u06a9\u0648\u06cc\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "Unquillo"
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Unquillo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u043a\u0456\u043b\u044c\u0439\u043e"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421172879,
-    "wof:lastmodified":1566588205,
+    "wof:lastmodified":1690850645,
     "wof:name":"Unquillo",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "P\u00e9rez"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ec\u30b9"
+    ],
     "name:nld_x_preferred":[
         "P\u00e9rez"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421168413,
-    "wof:lastmodified":1566588110,
+    "wof:lastmodified":1690850559,
     "wof:name":"P\u00e9rez",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

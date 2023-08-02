@@ -40,6 +40,12 @@
     "name:nld_x_preferred":[
         "Calilegua"
     ],
+    "name:pol_x_preferred":[
+        "Calilegua"
+    ],
+    "name:por_x_preferred":[
+        "Calilegua"
+    ],
     "name:spa_x_preferred":[
         "Calilegua"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890435663,
-    "wof:lastmodified":1566588368,
+    "wof:lastmodified":1690850792,
     "wof:name":"Calilegua",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

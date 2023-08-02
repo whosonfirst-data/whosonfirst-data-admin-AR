@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Villa General Roca"
     ],
+    "name:eng_x_variant":[
+        "Los Manantiales"
+    ],
     "name:fra_x_preferred":[
         "Villa General Roca"
     ],
@@ -41,7 +44,13 @@
     "name:spa_x_preferred":[
         "Villa General Roca"
     ],
+    "name:spa_x_variant":[
+        "Los Manantiales"
+    ],
     "name:swe_x_preferred":[
+        "Villa General Roca"
+    ],
+    "name:tur_x_preferred":[
         "Villa General Roca"
     ],
     "name:und_x_variant":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421182641,
-    "wof:lastmodified":1566588318,
+    "wof:lastmodified":1690850745,
     "wof:name":"Villa General Roca",
     "wof:parent_id":421171231,
     "wof:placetype":"locality",

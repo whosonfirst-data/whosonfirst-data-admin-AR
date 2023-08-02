@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0633\u0648\u0633 \u0645\u0627\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u064a\u0633\u0648\u0633 \u0645\u0627\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Jes\u00fas Mar\u00eda"
+    ],
     "name:cat_x_preferred":[
         "Jes\u00fas Mar\u00eda"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:est_x_preferred":[
         "Jes\u00fas Mar\u00eda"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0633\u0648\u0633 \u0645\u0627\u0631\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Jes\u00fas Mar\u00eda"
@@ -66,6 +75,9 @@
         "Jes\u00fas Mar\u00eda"
     ],
     "name:swe_x_preferred":[
+        "Jes\u00fas Mar\u00eda"
+    ],
+    "name:tur_x_preferred":[
         "Jes\u00fas Mar\u00eda"
     ],
     "name:ukr_x_preferred":[
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":421191327,
-    "wof:lastmodified":1566588268,
+    "wof:lastmodified":1690850702,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

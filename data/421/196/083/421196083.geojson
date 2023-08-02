@@ -17,6 +17,18 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0641\u064a\u0646\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0641\u064a\u0646\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Rufino"
+    ],
+    "name:ceb_x_preferred":[
+        "Rufino"
+    ],
     "name:ces_x_preferred":[
         "Rufino"
     ],
@@ -28,6 +40,12 @@
     ],
     "name:eng_x_preferred":[
         "Rufino"
+    ],
+    "name:eus_x_preferred":[
+        "Rufino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0641\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Rufino"
@@ -47,6 +65,9 @@
     "name:nld_x_preferred":[
         "Rufino"
     ],
+    "name:pol_x_preferred":[
+        "Rufino"
+    ],
     "name:por_x_preferred":[
         "Rufino"
     ],
@@ -57,6 +78,12 @@
         "Rufino"
     ],
     "name:spa_x_preferred":[
+        "Rufino"
+    ],
+    "name:swe_x_preferred":[
+        "Rufino"
+    ],
+    "name:szl_x_preferred":[
         "Rufino"
     ],
     "name:ukr_x_preferred":[
@@ -110,7 +137,7 @@
         }
     ],
     "wof:id":421196083,
-    "wof:lastmodified":1566588242,
+    "wof:lastmodified":1690850675,
     "wof:name":"Rufino",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

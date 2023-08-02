@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "San Ram\u00f3n de la Nueva Or\u00e1n"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a1\u03b1\u03bc\u03cc\u03bd \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u039f\u03c1\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Or\u00e1n"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125777723,
-    "wof:lastmodified":1566588378,
+    "wof:lastmodified":1690850799,
     "wof:name":"San Ram\u00f3n de la Nueva Or\u00e1n",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",

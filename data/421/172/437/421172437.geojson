@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0643\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0633\u0643\u064a\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Cosqu\u00edn"
+    ],
+    "name:cat_x_preferred":[
+        "Cosqu\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Cosqu\u00edn"
     ],
@@ -63,6 +72,9 @@
         "Cosqu\u00edn"
     ],
     "name:swe_x_preferred":[
+        "Cosqu\u00edn"
+    ],
+    "name:tur_x_preferred":[
         "Cosqu\u00edn"
     ],
     "name:ukr_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421172437,
-    "wof:lastmodified":1566588202,
+    "wof:lastmodified":1690850643,
     "wof:name":"Cosqu\u00edn",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

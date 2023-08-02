@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Puerto General San Mart\u00edn"
     ],
+    "name:fra_x_preferred":[
+        "Puerto General San Mart\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto General San Mart\u00edn"
+    ],
     "name:nld_x_preferred":[
         "Puerto General San Mart\u00edn"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421175119,
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1690850659,
     "wof:name":"Puerto San Mart\u00edn",
     "wof:parent_id":421169771,
     "wof:placetype":"locality",

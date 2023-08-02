@@ -66,6 +66,9 @@
     "name:nld_x_preferred":[
         "Pampa del Infierno"
     ],
+    "name:pol_x_preferred":[
+        "Pampa del Infierno"
+    ],
     "name:por_x_preferred":[
         "Pampa del Infierno"
     ],
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":1141906771,
-    "wof:lastmodified":1636502852,
+    "wof:lastmodified":1690850810,
     "wof:name":"Pampa del Infierno",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

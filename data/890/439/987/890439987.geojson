@@ -76,6 +76,9 @@
     "name:swe_x_preferred":[
         "Graneros"
     ],
+    "name:tur_x_preferred":[
+        "Graneros"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890439987,
-    "wof:lastmodified":1566588355,
+    "wof:lastmodified":1690850775,
     "wof:name":"Graneros",
     "wof:parent_id":1108718521,
     "wof:placetype":"locality",

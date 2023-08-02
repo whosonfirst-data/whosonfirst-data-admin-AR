@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Corzuela"
     ],
+    "name:tur_x_preferred":[
+        "Corzuela"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0441\u0443\u0435\u043b\u0430"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421195337,
-    "wof:lastmodified":1566588122,
+    "wof:lastmodified":1690850570,
     "wof:name":"Corzuela",
     "wof:parent_id":1108718203,
     "wof:placetype":"locality",

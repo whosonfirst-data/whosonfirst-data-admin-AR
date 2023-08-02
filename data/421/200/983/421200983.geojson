@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Miramar"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0645\u0631"
+    ],
     "name:fra_x_preferred":[
         "Miramar"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421200983,
-    "wof:lastmodified":1566588281,
+    "wof:lastmodified":1690850714,
     "wof:name":"Miramar",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

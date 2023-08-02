@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Chorotis"
     ],
+    "name:fra_x_preferred":[
+        "Chorotis"
+    ],
     "name:ita_x_preferred":[
         "Chorotis"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125869065,
-    "wof:lastmodified":1566588371,
+    "wof:lastmodified":1690850794,
     "wof:name":"Chorotis",
     "wof:parent_id":1108718201,
     "wof:placetype":"locality",

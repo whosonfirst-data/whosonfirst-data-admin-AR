@@ -56,6 +56,9 @@
     "name:swe_x_preferred":[
         "Nogoy\u00e1"
     ],
+    "name:tur_x_preferred":[
+        "Nogoy\u00e1"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0433\u043e\u044f"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421175561,
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1690850657,
     "wof:name":"Nogoy\u00e1",
     "wof:parent_id":421171273,
     "wof:placetype":"locality",

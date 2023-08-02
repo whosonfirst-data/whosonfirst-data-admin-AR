@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Uriburu"
     ],
+    "name:fra_x_preferred":[
+        "Uriburu"
+    ],
+    "name:ita_x_preferred":[
+        "Uriburu"
+    ],
     "name:por_x_preferred":[
         "Uriburu"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890451667,
-    "wof:lastmodified":1566588365,
+    "wof:lastmodified":1690850788,
     "wof:name":"Uriburu",
     "wof:parent_id":1108718293,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:nob_x_preferred":[
         "Rodeo del Medio"
     ],
+    "name:pol_x_preferred":[
+        "Rodeo del Medio"
+    ],
     "name:spa_x_preferred":[
         "Rodeo del Medio"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421169843,
-    "wof:lastmodified":1566588146,
+    "wof:lastmodified":1690850594,
     "wof:name":"Rodeo del Medio",
     "wof:parent_id":421187689,
     "wof:placetype":"locality",

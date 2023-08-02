@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.0832825131,-38.9665763156,-64.0832825131,-38.9665763156",
+    "geom:bbox":"-64.083283,-38.966576,-64.083283,-38.966576",
     "geom:latitude":-38.966576,
     "geom:longitude":-64.083283,
     "iso:country":"AR",
@@ -30,6 +30,9 @@
     "name:deu_x_preferred":[
         "R\u00edo Colorado"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03bf\u03bb\u03bf\u03c1\u03ac\u03b4\u03bf"
+    ],
     "name:eng_x_preferred":[
         "R\u00edo Colorado"
     ],
@@ -42,6 +45,9 @@
     "name:nld_x_preferred":[
         "R\u00edo Colorado"
     ],
+    "name:pol_x_preferred":[
+        "R\u00edo Colorado"
+    ],
     "name:por_x_preferred":[
         "R\u00edo Colorado"
     ],
@@ -52,6 +58,9 @@
         "R\u00edo Colorado"
     ],
     "name:swe_x_preferred":[
+        "R\u00edo Colorado"
+    ],
+    "name:tur_x_preferred":[
         "R\u00edo Colorado"
     ],
     "name:ukr_x_preferred":[
@@ -168,7 +177,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499131025,
-    "wof:geomhash":"353735528115d3a23c0c2980dcccfce0",
+    "wof:geomhash":"2b500605880e3ca8273038aba2fe1da9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":1141909097,
-    "wof:lastmodified":1566588566,
+    "wof:lastmodified":1690850801,
     "wof:name":"Rio Colorado",
     "wof:parent_id":1108718287,
     "wof:placetype":"locality",
@@ -189,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.08328251306415,
-    -38.96657631556911,
-    -64.08328251306415,
-    -38.96657631556911
+    -64.083283,
+    -38.966576,
+    -64.083283,
+    -38.966576
 ],
-  "geometry": {"coordinates":[-64.08328251306415,-38.96657631556911],"type":"Point"}
+  "geometry": {"coordinates":[-64.08328299999999,-38.966576],"type":"Point"}
 }

@@ -62,6 +62,9 @@
     "name:swe_x_preferred":[
         "Molinos"
     ],
+    "name:tur_x_preferred":[
+        "Molinos"
+    ],
     "name:zho_x_preferred":[
         "\u83ab\u5229\u8afe\u65af"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421174451,
-    "wof:lastmodified":1566588182,
+    "wof:lastmodified":1690850627,
     "wof:name":"Molinos",
     "wof:parent_id":421197593,
     "wof:placetype":"locality",

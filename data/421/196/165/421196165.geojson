@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Mburucuy\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Mburucuy\u00e1"
     ],
@@ -35,10 +38,16 @@
     "name:por_x_preferred":[
         "Mburucuy\u00e1"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0443\u0440\u0443\u043a\u0443\u044f"
+    ],
     "name:spa_x_preferred":[
         "Mburucuy\u00e1"
     ],
     "name:swe_x_preferred":[
+        "Mburucuy\u00e1"
+    ],
+    "name:tur_x_preferred":[
         "Mburucuy\u00e1"
     ],
     "name:ukr_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421196165,
-    "wof:lastmodified":1566588249,
+    "wof:lastmodified":1690850683,
     "wof:name":"Mburucuy\u00e1",
     "wof:parent_id":1108718183,
     "wof:placetype":"locality",

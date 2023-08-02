@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Concepci\u00f3n del Bermejo"
     ],
+    "name:fra_x_preferred":[
+        "Concepci\u00f3n del Bermejo"
+    ],
     "name:ita_x_preferred":[
         "Concepci\u00f3n del Bermejo"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890440045,
-    "wof:lastmodified":1566588350,
+    "wof:lastmodified":1690850768,
     "wof:name":"Concepci\u00f3n del Bermejo",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

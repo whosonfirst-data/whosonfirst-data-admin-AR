@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0626\u0646"
+    ],
     "name:fra_x_preferred":[
         "Bel\u00e9n"
     ],
@@ -48,6 +51,9 @@
         "Bel\u00e9n"
     ],
     "name:spa_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:tur_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:ukr_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421198319,
-    "wof:lastmodified":1566588238,
+    "wof:lastmodified":1690850672,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":421204045,
     "wof:placetype":"locality",

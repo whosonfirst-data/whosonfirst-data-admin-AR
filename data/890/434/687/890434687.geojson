@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Ataliva Roca"
     ],
+    "name:fra_x_preferred":[
+        "Ataliva Roca"
+    ],
     "name:nld_x_preferred":[
         "Ataliva Roca"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890434687,
-    "wof:lastmodified":1566588365,
+    "wof:lastmodified":1690850789,
     "wof:name":"Ataliva Roca",
     "wof:parent_id":1108718319,
     "wof:placetype":"locality",

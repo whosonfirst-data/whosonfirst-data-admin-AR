@@ -68,6 +68,9 @@
     "name:ces_x_preferred":[
         "La Rioja"
     ],
+    "name:cym_x_preferred":[
+        "Talaith La Rioja"
+    ],
     "name:dan_x_preferred":[
         "Provincia de La Rioja"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u03a1\u03b9\u03cc\u03c4\u03b6\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1 \u03a1\u03b9\u03cc\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Rioja"
@@ -92,15 +98,22 @@
     "name:epo_x_preferred":[
         "Provinco Rio\u0125o"
     ],
+    "name:epo_x_variant":[
+        "La Rio\u0125o"
+    ],
     "name:eus_x_preferred":[
         "La Riojako probintzia"
+    ],
+    "name:eus_x_variant":[
+        "La Rioja probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0644\u0627\u0631\u06cc\u0648\u062e\u0627\u060c \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
     ],
     "name:fas_x_variant":[
         "\u0627\u06cc\u0627\u0644\u062a \u0644\u0627\u0631\u06cc\u0648\u062e\u0627",
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u0631\u06cc\u0648\u062e\u0627"
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u0631\u06cc\u0648\u062e\u0627",
+        "\u0644\u0627\u0631\u06cc\u0648\u062e\u0627"
     ],
     "name:fin_x_preferred":[
         "La Riojan maakunta"
@@ -265,6 +278,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe \u0bb0\u0bbf\u0baf\u0bcb\u0b9c \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430-\u0420\u0438\u043e\u0445\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c30\u0c3f\u0c2f\u0c4b\u0c1c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -296,6 +312,9 @@
         "\u0644\u0627 \u0631\u06cc\u0648\u062c\u0627 \u0635\u0648\u0628\u06c1",
         "\u0635\u0648\u0628\u06c1 \u0644\u0627 \u0631\u06cc\u0648\u062e\u0627"
     ],
+    "name:vec_x_preferred":[
+        "La Rioja Province"
+    ],
     "name:vie_x_preferred":[
         "La Rioja"
     ],
@@ -307,6 +326,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u62c9\u91cc\u5965\u54c8\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u91cc\u5967\u54c8\u7701"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u91cc\u5965\u54c8\u7701"
@@ -434,7 +456,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636502751,
+    "wof:lastmodified":1690850543,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

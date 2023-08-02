@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Los Antiguos"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633 \u0622\u0646\u062a\u06cc\u06af\u0648\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Los Antiguos"
     ],
@@ -36,6 +39,9 @@
         "Los Antigvosas"
     ],
     "name:nld_x_preferred":[
+        "Los Antiguos"
+    ],
+    "name:por_x_preferred":[
         "Los Antiguos"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421195307,
-    "wof:lastmodified":1566588121,
+    "wof:lastmodified":1690850568,
     "wof:name":"Los Antiguos",
     "wof:parent_id":421170133,
     "wof:placetype":"locality",

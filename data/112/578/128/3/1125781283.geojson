@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Basail"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Basail"
+    ],
     "name:nld_x_preferred":[
         "Basail"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1125781283,
-    "wof:lastmodified":1566588378,
+    "wof:lastmodified":1690850799,
     "wof:name":"Basail",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

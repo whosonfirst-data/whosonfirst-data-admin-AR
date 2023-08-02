@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0623\u0644\u0646\u062f\u064a\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Allende"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Allende"
+    ],
     "name:deu_x_preferred":[
         "Villa Allende"
     ],
@@ -43,6 +52,12 @@
     ],
     "name:spa_x_preferred":[
         "Villa Allende"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Allende"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8fde\u5fb7\u9547"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":421203295,
-    "wof:lastmodified":1566588164,
+    "wof:lastmodified":1690850610,
     "wof:name":"Villa Allende",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

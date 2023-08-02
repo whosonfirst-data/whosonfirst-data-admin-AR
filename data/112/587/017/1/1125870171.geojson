@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Tintina"
     ],
+    "name:por_x_preferred":[
+        "Tintina"
+    ],
     "name:spa_x_preferred":[
         "Tintina"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125870171,
-    "wof:lastmodified":1566588373,
+    "wof:lastmodified":1690850796,
     "wof:name":"Tintina",
     "wof:parent_id":1108718497,
     "wof:placetype":"locality",

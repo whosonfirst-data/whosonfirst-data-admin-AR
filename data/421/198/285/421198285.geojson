@@ -284,6 +284,9 @@
     "name:jbo_x_preferred":[
         "Matilde"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c6\u30a3\u30eb\u30c7"
+    ],
     "name:jut_x_preferred":[
         "Matilde"
     ],
@@ -509,6 +512,9 @@
     "name:rup_x_preferred":[
         "Matilde"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0438\u043b\u044c\u0434\u0430"
+    ],
     "name:sag_x_preferred":[
         "Matilde"
     ],
@@ -711,7 +717,7 @@
         }
     ],
     "wof:id":421198285,
-    "wof:lastmodified":1566588236,
+    "wof:lastmodified":1690850669,
     "wof:name":"Matilde",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

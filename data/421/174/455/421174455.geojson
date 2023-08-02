@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u043a\u0435-\u041f\u0435\u0440\u044d\u0441"
+    ],
     "name:ceb_x_preferred":[
         "Roque P\u00e9rez"
     ],
@@ -45,6 +51,9 @@
         "Roque P\u00e9rez"
     ],
     "name:swe_x_preferred":[
+        "Roque P\u00e9rez"
+    ],
+    "name:tur_x_preferred":[
         "Roque P\u00e9rez"
     ],
     "name:ukr_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421174455,
-    "wof:lastmodified":1566588176,
+    "wof:lastmodified":1690850621,
     "wof:name":"Roque P\u00e9rez",
     "wof:parent_id":1108718079,
     "wof:placetype":"locality",

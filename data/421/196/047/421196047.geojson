@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "La Paz"
     ],
+    "name:fra_x_preferred":[
+        "La Paz"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4 \u05e4\u05d6"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421196047,
-    "wof:lastmodified":1636502817,
+    "wof:lastmodified":1690850677,
     "wof:name":"La Paz",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

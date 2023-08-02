@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Ingeniero Luis A. Huergo"
     ],
+    "name:por_x_preferred":[
+        "Ingeniero Luis A. Huergo"
+    ],
     "name:spa_x_preferred":[
         "Ingeniero Luis A. Huergo"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421196057,
-    "wof:lastmodified":1566588253,
+    "wof:lastmodified":1690850689,
     "wof:name":"Ingeniero Luis A. Huergo",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

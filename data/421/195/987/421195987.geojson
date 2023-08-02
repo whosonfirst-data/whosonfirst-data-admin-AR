@@ -23,7 +23,13 @@
     "name:eng_x_preferred":[
         "Aranguren"
     ],
+    "name:fra_x_preferred":[
+        "Villa Aranguren"
+    ],
     "name:nld_x_preferred":[
+        "Aranguren"
+    ],
+    "name:por_x_preferred":[
         "Aranguren"
     ],
     "name:spa_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421195987,
-    "wof:lastmodified":1566588134,
+    "wof:lastmodified":1690850583,
     "wof:name":"Aranguren",
     "wof:parent_id":421189009,
     "wof:placetype":"locality",

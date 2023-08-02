@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Los Jur\u00edes"
     ],
+    "name:por_x_preferred":[
+        "Los Jur\u00edes"
+    ],
     "name:spa_x_preferred":[
         "Los Jur\u00edes"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890440003,
-    "wof:lastmodified":1566588351,
+    "wof:lastmodified":1690850768,
     "wof:name":"Los Jur\u00edes",
     "wof:parent_id":1108718483,
     "wof:placetype":"locality",

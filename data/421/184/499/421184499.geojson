@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u0641\u06cc \u0648\u06cc\u062e\u0648"
     ],
@@ -60,6 +63,9 @@
         "Taf\u00ed Viejo"
     ],
     "name:swe_x_preferred":[
+        "Taf\u00ed Viejo"
+    ],
+    "name:tur_x_preferred":[
         "Taf\u00ed Viejo"
     ],
     "name:ukr_x_preferred":[
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421184499,
-    "wof:lastmodified":1566588290,
+    "wof:lastmodified":1690850722,
     "wof:name":"Taf\u00ed Viejo",
     "wof:parent_id":421202257,
     "wof:placetype":"locality",

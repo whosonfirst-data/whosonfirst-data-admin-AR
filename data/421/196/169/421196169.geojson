@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Gilbert"
     ],
+    "name:szl_x_preferred":[
+        "Gilbert"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3433769,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421196169,
-    "wof:lastmodified":1566588241,
+    "wof:lastmodified":1690850674,
     "wof:name":"Gilbert",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

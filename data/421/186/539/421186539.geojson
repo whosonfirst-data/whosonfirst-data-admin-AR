@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0643\u0648 \u062a\u0631\u0648\u0646\u0643\u0627\u062f\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Pico Truncado"
+    ],
     "name:cat_x_preferred":[
         "Pico Truncado"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Pico Truncado"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u06a9\u0648 \u062a\u0631\u0648\u0646\u06a9\u0627\u062f\u0648"
     ],
     "name:fra_x_preferred":[
         "Pico Truncado"
@@ -51,6 +60,9 @@
         "Pico Truncado"
     ],
     "name:pol_x_preferred":[
+        "Pico Truncado"
+    ],
+    "name:por_x_preferred":[
         "Pico Truncado"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421186539,
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1690850650,
     "wof:name":"Pico Truncado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

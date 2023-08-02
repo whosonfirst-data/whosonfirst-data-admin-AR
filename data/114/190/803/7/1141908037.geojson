@@ -57,6 +57,9 @@
     "name:hin_x_preferred":[
         "\u0932\u093e \u092a\u094d\u0932\u0942\u092e\u093e\u0938"
     ],
+    "name:hun_x_preferred":[
+        "Las Plumas"
+    ],
     "name:ind_x_preferred":[
         "Las Plumas"
     ],
@@ -91,6 +94,9 @@
         "Las Plumas"
     ],
     "name:swe_x_preferred":[
+        "Las Plumas"
+    ],
+    "name:tur_x_preferred":[
         "Las Plumas"
     ],
     "name:ukr_x_preferred":[
@@ -224,7 +230,7 @@
         }
     ],
     "wof:id":1141908037,
-    "wof:lastmodified":1636502850,
+    "wof:lastmodified":1690850806,
     "wof:name":"Las Plumas",
     "wof:parent_id":421199905,
     "wof:placetype":"locality",

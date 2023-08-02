@@ -17,31 +17,82 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aar_x_preferred":[
+        "Guido"
+    ],
+    "name:ace_x_preferred":[
+        "Guido"
+    ],
     "name:afr_x_preferred":[
+        "Guido"
+    ],
+    "name:aka_x_preferred":[
+        "Guido"
+    ],
+    "name:aln_x_preferred":[
         "Guido"
     ],
     "name:als_x_preferred":[
         "Guido"
     ],
+    "name:ang_x_preferred":[
+        "Guido"
+    ],
     "name:ara_x_preferred":[
         "\u0642\u0627\u064a\u062f\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u064a\u062f\u0648"
+    ],
     "name:arg_x_preferred":[
+        "Guido"
+    ],
+    "name:arn_x_preferred":[
         "Guido"
     ],
     "name:ast_x_preferred":[
         "Guido"
     ],
+    "name:atj_x_preferred":[
+        "Guido"
+    ],
+    "name:avk_x_preferred":[
+        "Guido"
+    ],
+    "name:aym_x_preferred":[
+        "Guido"
+    ],
     "name:aze_x_preferred":[
+        "Guido"
+    ],
+    "name:bam_x_preferred":[
+        "Guido"
+    ],
+    "name:ban_x_preferred":[
         "Guido"
     ],
     "name:bar_x_preferred":[
         "Guido"
     ],
+    "name:bbc_x_preferred":[
+        "Guido"
+    ],
+    "name:bcl_x_preferred":[
+        "Guido"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0432\u0456\u0434\u0430"
     ],
+    "name:bis_x_preferred":[
+        "Guido"
+    ],
+    "name:bos_x_preferred":[
+        "Guido"
+    ],
     "name:bre_x_preferred":[
+        "Guido"
+    ],
+    "name:bto_x_preferred":[
         "Guido"
     ],
     "name:bul_x_preferred":[
@@ -56,7 +107,25 @@
     "name:ces_x_preferred":[
         "Guido"
     ],
+    "name:cha_x_preferred":[
+        "Guido"
+    ],
+    "name:cho_x_preferred":[
+        "Guido"
+    ],
+    "name:chy_x_preferred":[
+        "Guido"
+    ],
+    "name:cor_x_preferred":[
+        "Guido"
+    ],
     "name:cos_x_preferred":[
+        "Guido"
+    ],
+    "name:cps_x_preferred":[
+        "Guido"
+    ],
+    "name:csb_x_preferred":[
         "Guido"
     ],
     "name:cym_x_preferred":[
@@ -68,8 +137,23 @@
     "name:deu_x_preferred":[
         "Guido"
     ],
+    "name:din_x_preferred":[
+        "Guido"
+    ],
+    "name:dsb_x_preferred":[
+        "Guido"
+    ],
+    "name:dtp_x_preferred":[
+        "Guido"
+    ],
+    "name:egl_x_preferred":[
+        "Guido"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c5\u0390\u03bd\u03c4\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "Guido"
     ],
     "name:eng_x_preferred":[
         "Guido"
@@ -83,16 +167,46 @@
     "name:eus_x_preferred":[
         "Guido"
     ],
+    "name:ewe_x_preferred":[
+        "Guido"
+    ],
+    "name:ext_x_preferred":[
+        "Guido"
+    ],
+    "name:fao_x_preferred":[
+        "Guido"
+    ],
+    "name:fij_x_preferred":[
+        "Guido"
+    ],
     "name:fin_x_preferred":[
+        "Guido"
+    ],
+    "name:fit_x_preferred":[
         "Guido"
     ],
     "name:fra_x_preferred":[
         "Guido"
     ],
+    "name:frc_x_preferred":[
+        "Guido"
+    ],
     "name:frp_x_preferred":[
         "Guido"
     ],
+    "name:frr_x_preferred":[
+        "Guido"
+    ],
+    "name:fry_x_preferred":[
+        "Guido"
+    ],
+    "name:ful_x_preferred":[
+        "Guido"
+    ],
     "name:fur_x_preferred":[
+        "Guido"
+    ],
+    "name:gag_x_preferred":[
         "Guido"
     ],
     "name:gla_x_preferred":[
@@ -104,13 +218,55 @@
     "name:glg_x_preferred":[
         "Guido"
     ],
+    "name:glv_x_preferred":[
+        "Guido"
+    ],
+    "name:gor_x_preferred":[
+        "Guido"
+    ],
+    "name:grn_x_preferred":[
+        "Guido"
+    ],
     "name:gsw_x_preferred":[
+        "Guido"
+    ],
+    "name:hat_x_preferred":[
+        "Guido"
+    ],
+    "name:hau_x_preferred":[
+        "Guido"
+    ],
+    "name:haw_x_preferred":[
+        "Guido"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d5\u05d9\u05d3\u05d5"
+    ],
+    "name:her_x_preferred":[
+        "Guido"
+    ],
+    "name:hif_x_preferred":[
+        "Guido"
+    ],
+    "name:hil_x_preferred":[
+        "Guido"
+    ],
+    "name:hmo_x_preferred":[
         "Guido"
     ],
     "name:hrv_x_preferred":[
         "Guido"
     ],
+    "name:hrx_x_preferred":[
+        "Guido"
+    ],
+    "name:hsb_x_preferred":[
+        "Guido"
+    ],
     "name:hun_x_preferred":[
+        "Guido"
+    ],
+    "name:ibo_x_preferred":[
         "Guido"
     ],
     "name:ido_x_preferred":[
@@ -119,10 +275,16 @@
     "name:ile_x_preferred":[
         "Guido"
     ],
+    "name:ilo_x_preferred":[
+        "Guido"
+    ],
     "name:ina_x_preferred":[
         "Guido"
     ],
     "name:ind_x_preferred":[
+        "Guido"
+    ],
+    "name:ipk_x_preferred":[
         "Guido"
     ],
     "name:isl_x_preferred":[
@@ -131,10 +293,67 @@
     "name:ita_x_preferred":[
         "Guido"
     ],
+    "name:jam_x_preferred":[
+        "Guido"
+    ],
+    "name:jav_x_preferred":[
+        "Guido"
+    ],
+    "name:jbo_x_preferred":[
+        "Guido"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a4\u30fc\u30c9"
     ],
+    "name:jpn_x_variant":[
+        "\u30b0\u30a4\u30c9"
+    ],
+    "name:jut_x_preferred":[
+        "Guido"
+    ],
+    "name:kaa_x_preferred":[
+        "Guido"
+    ],
+    "name:kab_x_preferred":[
+        "Guido"
+    ],
+    "name:kal_x_preferred":[
+        "Guido"
+    ],
+    "name:kau_x_preferred":[
+        "Guido"
+    ],
+    "name:kbp_x_preferred":[
+        "Guido"
+    ],
+    "name:kea_x_preferred":[
+        "Guido"
+    ],
+    "name:kik_x_preferred":[
+        "Guido"
+    ],
+    "name:kin_x_preferred":[
+        "Guido"
+    ],
     "name:kon_x_preferred":[
+        "Guido"
+    ],
+    "name:kri_x_preferred":[
+        "Guido"
+    ],
+    "name:krj_x_preferred":[
+        "Guido"
+    ],
+    "name:krl_x_preferred":[
+        "Guido"
+    ],
+    "name:ksh_x_preferred":[
+        "Guido"
+    ],
+    "name:kua_x_preferred":[
+        "Guido"
+    ],
+    "name:lad_x_preferred":[
         "Guido"
     ],
     "name:lat_x_preferred":[
@@ -143,16 +362,43 @@
     "name:lav_x_preferred":[
         "Guido"
     ],
+    "name:lfn_x_preferred":[
+        "Guido"
+    ],
     "name:lij_x_preferred":[
         "Guido"
     ],
     "name:lim_x_preferred":[
         "Guido"
     ],
+    "name:lin_x_preferred":[
+        "Guido"
+    ],
     "name:lit_x_preferred":[
         "Guido"
     ],
+    "name:liv_x_preferred":[
+        "Guido"
+    ],
+    "name:lmo_x_preferred":[
+        "Guido"
+    ],
+    "name:loz_x_preferred":[
+        "Guido"
+    ],
+    "name:ltg_x_preferred":[
+        "Guido"
+    ],
     "name:ltz_x_preferred":[
+        "Guido"
+    ],
+    "name:lug_x_preferred":[
+        "Guido"
+    ],
+    "name:lus_x_preferred":[
+        "Guido"
+    ],
+    "name:mah_x_preferred":[
         "Guido"
     ],
     "name:min_x_preferred":[
@@ -161,13 +407,40 @@
     "name:mlg_x_preferred":[
         "Guido"
     ],
+    "name:mlt_x_preferred":[
+        "Guido"
+    ],
+    "name:mri_x_preferred":[
+        "Guido"
+    ],
     "name:msa_x_preferred":[
+        "Guido"
+    ],
+    "name:mus_x_preferred":[
+        "Guido"
+    ],
+    "name:mwl_x_preferred":[
+        "Guido"
+    ],
+    "name:nah_x_preferred":[
         "Guido"
     ],
     "name:nap_x_preferred":[
         "Guido"
     ],
+    "name:nau_x_preferred":[
+        "Guido"
+    ],
+    "name:nav_x_preferred":[
+        "Guido"
+    ],
+    "name:ndo_x_preferred":[
+        "Guido"
+    ],
     "name:nds_x_preferred":[
+        "Guido"
+    ],
+    "name:niu_x_preferred":[
         "Guido"
     ],
     "name:nld_x_preferred":[
@@ -179,13 +452,49 @@
     "name:nob_x_preferred":[
         "Guido"
     ],
+    "name:nov_x_preferred":[
+        "Guido"
+    ],
     "name:nrm_x_preferred":[
+        "Guido"
+    ],
+    "name:nso_x_preferred":[
+        "Guido"
+    ],
+    "name:nya_x_preferred":[
+        "Guido"
+    ],
+    "name:nys_x_preferred":[
         "Guido"
     ],
     "name:oci_x_preferred":[
         "Guido"
     ],
+    "name:olo_x_preferred":[
+        "Guido"
+    ],
+    "name:pag_x_preferred":[
+        "Guido"
+    ],
+    "name:pam_x_preferred":[
+        "Guido"
+    ],
+    "name:pap_x_preferred":[
+        "Guido"
+    ],
     "name:pcd_x_preferred":[
+        "Guido"
+    ],
+    "name:pdc_x_preferred":[
+        "Guido"
+    ],
+    "name:pdt_x_preferred":[
+        "Guido"
+    ],
+    "name:pfl_x_preferred":[
+        "Guido"
+    ],
+    "name:pih_x_preferred":[
         "Guido"
     ],
     "name:pms_x_preferred":[
@@ -197,19 +506,58 @@
     "name:por_x_preferred":[
         "Guido"
     ],
+    "name:prg_x_preferred":[
+        "Guido"
+    ],
+    "name:que_x_preferred":[
+        "Guido"
+    ],
+    "name:qug_x_preferred":[
+        "Guido"
+    ],
+    "name:rgn_x_preferred":[
+        "Guido"
+    ],
+    "name:rif_x_preferred":[
+        "Guido"
+    ],
     "name:roh_x_preferred":[
         "Guido"
     ],
     "name:ron_x_preferred":[
         "Guido"
     ],
+    "name:run_x_preferred":[
+        "Guido"
+    ],
+    "name:rup_x_preferred":[
+        "Guido"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0432\u0438\u0434\u043e\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Guido"
     ],
     "name:scn_x_preferred":[
         "Guido"
     ],
     "name:sco_x_preferred":[
+        "Guido"
+    ],
+    "name:sdc_x_preferred":[
+        "Guido"
+    ],
+    "name:sei_x_preferred":[
+        "Guido"
+    ],
+    "name:sgs_x_preferred":[
+        "Guido"
+    ],
+    "name:sje_x_preferred":[
+        "Guido"
+    ],
+    "name:sli_x_preferred":[
         "Guido"
     ],
     "name:slk_x_preferred":[
@@ -218,14 +566,53 @@
     "name:slv_x_preferred":[
         "Guido"
     ],
+    "name:sma_x_preferred":[
+        "Guido"
+    ],
+    "name:sme_x_preferred":[
+        "Guido"
+    ],
+    "name:smj_x_preferred":[
+        "Guido"
+    ],
+    "name:smo_x_preferred":[
+        "Guido"
+    ],
+    "name:sna_x_preferred":[
+        "Guido"
+    ],
+    "name:som_x_preferred":[
+        "Guido"
+    ],
+    "name:sot_x_preferred":[
+        "Guido"
+    ],
     "name:spa_x_preferred":[
+        "Guido"
+    ],
+    "name:sqi_x_preferred":[
         "Guido"
     ],
     "name:srd_x_preferred":[
         "Guido"
     ],
+    "name:srn_x_preferred":[
+        "Guido"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0432\u0438\u0434\u043e"
+    ],
+    "name:srq_x_preferred":[
+        "Guido"
+    ],
+    "name:ssw_x_preferred":[
+        "Guido"
+    ],
+    "name:stq_x_preferred":[
+        "Guido"
+    ],
+    "name:sun_x_preferred":[
+        "Guido"
     ],
     "name:swa_x_preferred":[
         "Guido"
@@ -233,10 +620,43 @@
     "name:swe_x_preferred":[
         "Guido"
     ],
+    "name:szl_x_preferred":[
+        "Guido"
+    ],
+    "name:tah_x_preferred":[
+        "Guido"
+    ],
+    "name:tet_x_preferred":[
+        "Guido"
+    ],
+    "name:ton_x_preferred":[
+        "Guido"
+    ],
+    "name:tpi_x_preferred":[
+        "Guido"
+    ],
+    "name:tsn_x_preferred":[
+        "Guido"
+    ],
+    "name:tso_x_preferred":[
+        "Guido"
+    ],
+    "name:tum_x_preferred":[
+        "Guido"
+    ],
     "name:tur_x_preferred":[
         "Guido"
     ],
+    "name:twi_x_preferred":[
+        "Guido"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0432\u0456\u0434\u043e"
+    ],
     "name:vec_x_preferred":[
+        "Guido"
+    ],
+    "name:ven_x_preferred":[
         "Guido"
     ],
     "name:vie_x_preferred":[
@@ -245,13 +665,31 @@
     "name:vls_x_preferred":[
         "Guido"
     ],
+    "name:vmf_x_preferred":[
+        "Guido"
+    ],
     "name:vol_x_preferred":[
+        "Guido"
+    ],
+    "name:vro_x_preferred":[
+        "Guido"
+    ],
+    "name:war_x_preferred":[
         "Guido"
     ],
     "name:wln_x_preferred":[
         "Guido"
     ],
     "name:wol_x_preferred":[
+        "Guido"
+    ],
+    "name:xho_x_preferred":[
+        "Guido"
+    ],
+    "name:yor_x_preferred":[
+        "Guido"
+    ],
+    "name:zea_x_preferred":[
         "Guido"
     ],
     "name:zho_x_preferred":[
@@ -306,7 +744,7 @@
         }
     ],
     "wof:id":421191807,
-    "wof:lastmodified":1566588267,
+    "wof:lastmodified":1690850701,
     "wof:name":"Guido",
     "wof:parent_id":421170121,
     "wof:placetype":"locality",

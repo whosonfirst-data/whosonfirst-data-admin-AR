@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Loncopu\u00e9"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u06a9\u0648\u067e\u0648"
+    ],
     "name:fra_x_preferred":[
         "Loncopu\u00e9"
     ],
@@ -57,6 +60,9 @@
         "Loncopu\u00e9"
     ],
     "name:swe_x_preferred":[
+        "Loncopu\u00e9"
+    ],
+    "name:tur_x_preferred":[
         "Loncopu\u00e9"
     ],
     "name:ukr_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421193585,
-    "wof:lastmodified":1566588143,
+    "wof:lastmodified":1690850591,
     "wof:name":"Loncopu\u00e9",
     "wof:parent_id":1108718381,
     "wof:placetype":"locality",

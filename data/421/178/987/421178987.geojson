@@ -23,11 +23,20 @@
     "name:ara_x_variant":[
         "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "San Francisco"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u09cd\u0995\u09cb"
     ],
     "name:cat_x_preferred":[
         "San Francisco"
@@ -123,6 +132,9 @@
         "San Francisco"
     ],
     "name:swe_x_preferred":[
+        "San Francisco"
+    ],
+    "name:tur_x_preferred":[
         "San Francisco"
     ],
     "name:ukr_x_preferred":[
@@ -279,7 +291,7 @@
         }
     ],
     "wof:id":421178987,
-    "wof:lastmodified":1636502824,
+    "wof:lastmodified":1690850742,
     "wof:name":"San Francisco",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

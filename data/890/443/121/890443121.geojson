@@ -58,10 +58,16 @@
     "name:nld_x_preferred":[
         "Purmamarca"
     ],
+    "name:slv_x_preferred":[
+        "Purmamarca"
+    ],
     "name:spa_x_preferred":[
         "Purmamarca"
     ],
     "name:swe_x_preferred":[
+        "Purmamarca"
+    ],
+    "name:tur_x_preferred":[
         "Purmamarca"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":890443121,
-    "wof:lastmodified":1566588360,
+    "wof:lastmodified":1690850782,
     "wof:name":"Purmamarca",
     "wof:parent_id":421201001,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:swe_x_preferred":[
         "El Huec\u00fa"
     ],
+    "name:tur_x_preferred":[
+        "El Huec\u00fa"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u97cb\u5eab"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421185271,
-    "wof:lastmodified":1566588345,
+    "wof:lastmodified":1690850762,
     "wof:name":"El Huec\u00fa",
     "wof:parent_id":421169775,
     "wof:placetype":"locality",

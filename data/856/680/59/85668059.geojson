@@ -75,6 +75,9 @@
     "name:ces_x_preferred":[
         "Tucum\u00e1n"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tucum\u00e1n"
+    ],
     "name:dan_x_preferred":[
         "Provincia de Tucum\u00e1n"
     ],
@@ -104,10 +107,14 @@
         "Provincia de Tucum\u00e1n"
     ],
     "name:epo_x_variant":[
-        "Tukumano"
+        "Tukumano",
+        "Tucum\u00e1n"
     ],
     "name:eus_x_preferred":[
         "Tucum\u00e1ngo probintzia"
+    ],
+    "name:eus_x_variant":[
+        "Tucum\u00e1n"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
@@ -119,6 +126,9 @@
         "Tucum\u00e1nin maakunta"
     ],
     "name:fra_x_preferred":[
+        "Tucum\u00e1n"
+    ],
+    "name:frr_x_preferred":[
         "Tucum\u00e1n"
     ],
     "name:glg_x_preferred":[
@@ -135,6 +145,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u0941\u0915\u0941\u092e\u0947\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u056f\u0578\u0582\u0574\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tucum\u00e1n"
@@ -214,6 +227,9 @@
     "name:por_x_preferred":[
         "Tucum\u00e1n"
     ],
+    "name:por_x_variant":[
+        "Tucum\u00e3"
+    ],
     "name:que_x_preferred":[
         "Tukuman wamani"
     ],
@@ -271,6 +287,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c42\u0c15\u0c41\u0c2e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -295,6 +314,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Tucum\u00e1n Province"
+    ],
     "name:vie_x_preferred":[
         "Tucum\u00e1n"
     ],
@@ -303,6 +325,12 @@
     ],
     "name:war_x_preferred":[
         "Tucum\u00e1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u56fe\u5e93\u66fc\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5716\u53e4\u66fc\u7701"
     ],
     "name:zho_x_preferred":[
         "\u56fe\u5e93\u66fc\u7701"
@@ -430,7 +458,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808608,
+    "wof:lastmodified":1690850540,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

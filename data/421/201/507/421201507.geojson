@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ver\u00f3nica"
+    ],
     "name:eng_x_preferred":[
         "Ver\u00f3nica"
     ],
@@ -30,6 +33,9 @@
         "Ver\u00f3nica"
     ],
     "name:spa_x_preferred":[
+        "Ver\u00f3nica"
+    ],
+    "name:tur_x_preferred":[
         "Ver\u00f3nica"
     ],
     "name:ukr_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421201507,
-    "wof:lastmodified":1566588287,
+    "wof:lastmodified":1690850719,
     "wof:name":"Ver\u00f3nica",
     "wof:parent_id":1108718065,
     "wof:placetype":"locality",

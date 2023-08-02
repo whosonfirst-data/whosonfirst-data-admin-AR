@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Bernardo Larroud\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Bernardo Larroud\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Bernardo Larroud\u00e9"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890429395,
-    "wof:lastmodified":1566588362,
+    "wof:lastmodified":1690850784,
     "wof:name":"Bernardo Larroud\u00e9",
     "wof:parent_id":421181881,
     "wof:placetype":"locality",

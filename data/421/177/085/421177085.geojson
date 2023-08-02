@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Primera Junta"
     ],
+    "name:fra_x_preferred":[
+        "Primera Junta"
+    ],
     "name:ita_x_preferred":[
         "Primera Junta"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Primera Junta"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u4e00\u8b70\u6703\u7ad9"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPLX",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421177085,
-    "wof:lastmodified":1566588302,
+    "wof:lastmodified":1690850732,
     "wof:name":"Primera Junta",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

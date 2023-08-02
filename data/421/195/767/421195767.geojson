@@ -32,6 +32,12 @@
     "name:nld_x_preferred":[
         "La Mendieta"
     ],
+    "name:pol_x_preferred":[
+        "La Mendieta"
+    ],
+    "name:por_x_preferred":[
+        "La Mendieta"
+    ],
     "name:spa_x_preferred":[
         "La Mendieta"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421195767,
-    "wof:lastmodified":1566588130,
+    "wof:lastmodified":1690850578,
     "wof:name":"La Mendieta",
     "wof:parent_id":421171259,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Villa Tulumba"
     ],
+    "name:deu_x_preferred":[
+        "Villa Tulumba"
+    ],
     "name:eng_x_preferred":[
         "Villa Tulumba"
     ],
@@ -47,6 +50,9 @@
         "Villa Tulumba"
     ],
     "name:swe_x_preferred":[
+        "Villa Tulumba"
+    ],
+    "name:tur_x_preferred":[
         "Villa Tulumba"
     ],
     "name:und_x_variant":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890429379,
-    "wof:lastmodified":1566588361,
+    "wof:lastmodified":1690850784,
     "wof:name":"Villa Tulumba",
     "wof:parent_id":421196955,
     "wof:placetype":"locality",

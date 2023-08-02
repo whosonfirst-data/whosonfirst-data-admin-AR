@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Angastaco"
+    ],
     "name:ceb_x_preferred":[
         "Angastaco"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421200987,
-    "wof:lastmodified":1566588284,
+    "wof:lastmodified":1690850716,
     "wof:name":"Angastaco",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",

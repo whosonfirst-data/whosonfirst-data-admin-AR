@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u0648\u0631\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0631\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Dolores"
+    ],
     "name:aze_x_preferred":[
         "Dolores"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:est_x_preferred":[
         "Dolores"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0631\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Dolores"
@@ -157,6 +166,9 @@
     ],
     "name:war_x_preferred":[
         "Dolores"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u6d1b\u96f7\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -296,7 +308,7 @@
         }
     ],
     "wof:id":421200977,
-    "wof:lastmodified":1636502820,
+    "wof:lastmodified":1690850713,
     "wof:name":"Dolores",
     "wof:parent_id":1108717921,
     "wof:placetype":"locality",

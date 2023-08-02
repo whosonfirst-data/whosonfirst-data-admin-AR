@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Colonia Caroya"
     ],
+    "name:pol_x_preferred":[
+        "Colonia Caroya"
+    ],
     "name:por_x_preferred":[
         "Colonia Caroya"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421191625,
-    "wof:lastmodified":1566588265,
+    "wof:lastmodified":1690850700,
     "wof:name":"Caroya",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

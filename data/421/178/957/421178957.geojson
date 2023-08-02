@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Monteros"
+    ],
     "name:ceb_x_preferred":[
         "Monteros"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Monteros"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0631\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "Monteros"
@@ -45,6 +51,9 @@
         "Monteros"
     ],
     "name:swe_x_preferred":[
+        "Monteros"
+    ],
+    "name:tur_x_preferred":[
         "Monteros"
     ],
     "name:ukr_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421178957,
-    "wof:lastmodified":1566588314,
+    "wof:lastmodified":1690850740,
     "wof:name":"Monteros",
     "wof:parent_id":421183901,
     "wof:placetype":"locality",

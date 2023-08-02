@@ -40,6 +40,12 @@
     "name:nld_x_preferred":[
         "Palma Sola"
     ],
+    "name:pol_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:por_x_preferred":[
+        "Palma Sola"
+    ],
     "name:spa_x_preferred":[
         "Palma Sola"
     ],
@@ -47,6 +53,9 @@
         "\u041f\u0430\u043b\u043c\u0430 \u0421\u043e\u043b\u0430"
     ],
     "name:swe_x_preferred":[
+        "Palma Sola"
+    ],
+    "name:tur_x_preferred":[
         "Palma Sola"
     ],
     "name:ukr_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890433223,
-    "wof:lastmodified":1566588367,
+    "wof:lastmodified":1690850790,
     "wof:name":"Palma Sola",
     "wof:parent_id":1108718279,
     "wof:placetype":"locality",

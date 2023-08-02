@@ -58,6 +58,9 @@
     "name:pol_x_preferred":[
         "Candelaria"
     ],
+    "name:por_x_preferred":[
+        "Candelaria"
+    ],
     "name:ron_x_preferred":[
         "Candelaria"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890435589,
-    "wof:lastmodified":1566588367,
+    "wof:lastmodified":1690850791,
     "wof:name":"Candelaria",
     "wof:parent_id":421171473,
     "wof:placetype":"locality",

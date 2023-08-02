@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Laguna Yema"
     ],
+    "name:tur_x_preferred":[
+        "Laguna Yema"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0433\u0443\u043d\u0430-\u0404\u043c\u0430"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890440153,
-    "wof:lastmodified":1566588350,
+    "wof:lastmodified":1690850767,
     "wof:name":"Laguna Yema",
     "wof:parent_id":1108718261,
     "wof:placetype":"locality",

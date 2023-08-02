@@ -26,6 +26,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u062f\u06cc\u0627 \u0633\u0627\u0646 \u0627\u0646\u062a\u0648\u0646\u06cc\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Aldea San Antonio"
+    ],
     "name:nld_x_preferred":[
         "Aldea San Antonio"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421166687,
-    "wof:lastmodified":1566588114,
+    "wof:lastmodified":1690850563,
     "wof:name":"Aldea San Antonio",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

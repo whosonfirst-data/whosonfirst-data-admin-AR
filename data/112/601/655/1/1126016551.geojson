@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Pozo del Tigre"
     ],
+    "name:fra_x_preferred":[
+        "Pozo del Tigre"
+    ],
     "name:nld_x_preferred":[
         "Pozo del Tigre"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126016551,
-    "wof:lastmodified":1566588376,
+    "wof:lastmodified":1690850798,
     "wof:name":"Pozo del Tigre",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

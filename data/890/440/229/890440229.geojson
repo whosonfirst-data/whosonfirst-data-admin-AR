@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Colonia Dora"
     ],
+    "name:por_x_preferred":[
+        "Colonia Dora"
+    ],
     "name:spa_x_preferred":[
         "Colonia Dora"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890440229,
-    "wof:lastmodified":1566588348,
+    "wof:lastmodified":1690850765,
     "wof:name":"Colonia Dora",
     "wof:parent_id":1108718471,
     "wof:placetype":"locality",

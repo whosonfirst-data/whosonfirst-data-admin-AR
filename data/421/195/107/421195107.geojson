@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0641\u0631\u064a\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u064a\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Fr\u00edas"
+    ],
     "name:ceb_x_preferred":[
         "Fr\u00edas"
     ],
@@ -32,8 +38,14 @@
     "name:eng_x_preferred":[
         "Fr\u00edas"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u06cc\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
         "Fr\u00edas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d0\u05e1"
     ],
     "name:ita_x_preferred":[
         "Fr\u00edas"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421195107,
-    "wof:lastmodified":1566588130,
+    "wof:lastmodified":1690850579,
     "wof:name":"Fr\u00edas",
     "wof:parent_id":1108718479,
     "wof:placetype":"locality",

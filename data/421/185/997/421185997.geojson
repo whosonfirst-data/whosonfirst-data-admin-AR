@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u062f\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Tandil"
+    ],
     "name:aym_x_preferred":[
         "Tandil"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09a6\u09bf\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043d\u0434\u0438\u043b"
     ],
     "name:cat_x_preferred":[
         "Tandil"
@@ -56,6 +62,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bd\u03c4\u03af\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b1\u03bd\u03b4\u03af\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Tandil"
     ],
@@ -69,6 +78,9 @@
         "Tandil"
     ],
     "name:fra_x_preferred":[
+        "Tandil"
+    ],
+    "name:gle_x_preferred":[
         "Tandil"
     ],
     "name:glg_x_preferred":[
@@ -116,8 +128,14 @@
     "name:lit_x_preferred":[
         "Tandilis"
     ],
+    "name:ltz_x_preferred":[
+        "Tandil"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u0902\u0926\u0940\u0932"
+    ],
+    "name:mlg_x_preferred":[
+        "Tandil"
     ],
     "name:msa_x_preferred":[
         "Tandil"
@@ -167,6 +185,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043d\u0434\u0438\u043b"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c02\u0c21\u0c3f\u0c32\u0c4d"
     ],
@@ -181,6 +202,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0646\u062f\u06cc\u0644"
+    ],
+    "name:vec_x_preferred":[
+        "Tandil"
     ],
     "name:vie_x_preferred":[
         "Tandil"
@@ -330,7 +354,7 @@
         }
     ],
     "wof:id":421185997,
-    "wof:lastmodified":1566588341,
+    "wof:lastmodified":1690850760,
     "wof:name":"Tandil",
     "wof:parent_id":1108718113,
     "wof:placetype":"locality",

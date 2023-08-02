@@ -26,6 +26,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09a8\u09cd\u09b8\u09c7\u09a8\u09cd\u09a4 \u09b2\u09cb\u09aa\u09c7\u099c"
     ],
+    "name:cat_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
     "name:ceb_x_preferred":[
         "Vicente L\u00f3pez"
     ],
@@ -33,6 +36,9 @@
         "Vicente L\u00f3pez"
     ],
     "name:dan_x_preferred":[
+        "Vicente L\u00f3pez"
+    ],
+    "name:deu_x_preferred":[
         "Vicente L\u00f3pez"
     ],
     "name:ell_x_preferred":[
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421204121,
-    "wof:lastmodified":1566588157,
+    "wof:lastmodified":1690850604,
     "wof:name":"Olivos",
     "wof:parent_id":1108718133,
     "wof:placetype":"locality",

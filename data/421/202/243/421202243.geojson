@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-58.77737,-34.4268975,-58.77737,-34.4268975",
+    "geom:bbox":"-58.77737,-34.426898,-58.77737,-34.426898",
     "geom:latitude":-34.426898,
     "geom:longitude":-58.77737,
     "iso:country":"AR",
@@ -19,6 +19,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0648\u064a\u0644 \u0627\u0644\u0628\u0631\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u064a\u0644 \u0627\u0644\u0628\u0631\u062a\u0649"
     ],
     "name:ast_x_preferred":[
         "Manuel Alberti"
@@ -36,6 +39,9 @@
         "Manuel Alberti"
     ],
     "name:fra_x_preferred":[
+        "Manuel Alberti"
+    ],
+    "name:gle_x_preferred":[
         "Manuel Alberti"
     ],
     "name:nld_x_preferred":[
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Manuel Alberti"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u52aa\u57c3\u5c14\u00b7\u963f\u5c14\u8d1d\u6258"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -99,7 +108,7 @@
     },
     "wof:country":"AR",
     "wof:created":1459010110,
-    "wof:geomhash":"182c11840335d503599bdf17281a3507",
+    "wof:geomhash":"6333ec47aee1f826dc2456f34f308a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":421202243,
-    "wof:lastmodified":1566588167,
+    "wof:lastmodified":1690850611,
     "wof:name":"Manuel Alberti",
     "wof:parent_id":1108718057,
     "wof:placetype":"locality",
@@ -121,9 +130,9 @@
 },
   "bbox": [
     -58.77737,
-    -34.4268975,
+    -34.426898,
     -58.77737,
-    -34.4268975
+    -34.426898
 ],
-  "geometry": {"coordinates":[-58.77737,-34.4268975],"type":"Point"}
+  "geometry": {"coordinates":[-58.77737,-34.426898],"type":"Point"}
 }

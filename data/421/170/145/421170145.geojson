@@ -26,6 +26,12 @@
     "name:arg_x_preferred":[
         "Reconquista"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u0643\u0648\u0646\u0643\u064a\u0633\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Reconquista"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u06a9\u0648\u0646\u06a9\u06cc\u0633\u062a\u0627"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Reconquista"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03ba\u03bf\u03bd\u03ba\u03af\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Reconquista"
@@ -70,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "Reconquista"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u056f\u0578\u0576\u056f\u056b\u057d\u057f\u0561"
     ],
     "name:ita_x_preferred":[
         "Reconquista"
@@ -183,7 +195,7 @@
         }
     ],
     "wof:id":421170145,
-    "wof:lastmodified":1566588297,
+    "wof:lastmodified":1690850728,
     "wof:name":"Puerto Reconquista",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:swe_x_preferred":[
         "Pilcaniyeu"
     ],
+    "name:tur_x_preferred":[
+        "Pilcaniyeu"
+    ],
     "name:und_x_variant":[
         "Estancia Pilcaniyeu"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421176551,
-    "wof:lastmodified":1566588319,
+    "wof:lastmodified":1690850747,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

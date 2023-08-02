@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pilar"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b2\u09be\u09b0"
     ],
@@ -48,6 +51,9 @@
         "Pilar"
     ],
     "name:nld_x_preferred":[
+        "Pilar"
+    ],
+    "name:pol_x_preferred":[
         "Pilar"
     ],
     "name:por_x_preferred":[
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421173915,
-    "wof:lastmodified":1636502810,
+    "wof:lastmodified":1690850634,
     "wof:name":"Pilar",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

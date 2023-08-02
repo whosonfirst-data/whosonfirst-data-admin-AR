@@ -59,8 +59,11 @@
     "name:eng_x_preferred":[
         "Chos Malal"
     ],
-    "name:eng_x_variant":[
+    "name:eus_x_preferred":[
         "Chos Malal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0632 \u0645\u0627\u0644\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Chos Malal"
@@ -73,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05e1 \u05de\u05dc\u05d0\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05d5\u05e1 \u05de\u05dc\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u091a\u094b\u0938 \u092e\u0932\u093e\u0932"
@@ -104,6 +110,9 @@
     "name:oci_x_preferred":[
         "Chos Malal"
     ],
+    "name:pol_x_preferred":[
+        "Chos Malal"
+    ],
     "name:por_x_preferred":[
         "Chos Malal"
     ],
@@ -117,6 +126,9 @@
         "Chos Malal"
     ],
     "name:swe_x_preferred":[
+        "Chos Malal"
+    ],
+    "name:tur_x_preferred":[
         "Chos Malal"
     ],
     "name:ukr_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1636502820,
+    "wof:lastmodified":1690850711,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

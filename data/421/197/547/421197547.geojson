@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Suipacha"
     ],
+    "name:fra_x_preferred":[
+        "Suipacha"
+    ],
     "name:nld_x_preferred":[
         "Suipacha"
     ],
@@ -30,6 +33,9 @@
         "Suipacha"
     ],
     "name:swe_x_preferred":[
+        "Suipacha"
+    ],
+    "name:tur_x_preferred":[
         "Suipacha"
     ],
     "name:ukr_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421197547,
-    "wof:lastmodified":1566588274,
+    "wof:lastmodified":1690850707,
     "wof:name":"Suipacha",
     "wof:parent_id":1108718111,
     "wof:placetype":"locality",

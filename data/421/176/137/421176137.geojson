@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jard\u00edn Am\u00e9rica"
+    ],
     "name:ceb_x_preferred":[
         "Jard\u00edn Am\u00e9rica"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u062f\u06cc\u0646 \u0627\u0645\u06cc\u0631\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u6d32\u82b1\u56ed"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421176137,
-    "wof:lastmodified":1566588322,
+    "wof:lastmodified":1690850749,
     "wof:name":"Jard\u00edn Am\u00e9rica",
     "wof:parent_id":421180297,
     "wof:placetype":"locality",

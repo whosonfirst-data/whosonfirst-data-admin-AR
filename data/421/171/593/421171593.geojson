@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u062f\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Sarand\u00ed"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u06cc"
     ],
@@ -69,6 +75,9 @@
         "Sarand\u00ed"
     ],
     "name:oci_x_preferred":[
+        "Sarand\u00ed"
+    ],
+    "name:pol_x_preferred":[
         "Sarand\u00ed"
     ],
     "name:por_x_preferred":[
@@ -149,7 +158,7 @@
         }
     ],
     "wof:id":421171593,
-    "wof:lastmodified":1566588323,
+    "wof:lastmodified":1690850750,
     "wof:name":"Sarand\u00ed",
     "wof:parent_id":421191687,
     "wof:placetype":"locality",

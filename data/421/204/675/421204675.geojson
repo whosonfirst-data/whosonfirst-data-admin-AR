@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Caseros"
     ],
+    "name:fra_x_preferred":[
+        "Caseros"
+    ],
     "name:nld_x_preferred":[
         "Caseros"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421204675,
-    "wof:lastmodified":1566588153,
+    "wof:lastmodified":1690850600,
     "wof:name":"Caseros",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

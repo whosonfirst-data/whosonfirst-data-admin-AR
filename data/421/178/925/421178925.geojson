@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Villa Reducci\u00f3n"
     ],
+    "name:por_x_preferred":[
+        "Villa Reducci\u00f3n"
+    ],
     "name:spa_x_preferred":[
         "Villa Reducci\u00f3n"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421178925,
-    "wof:lastmodified":1566588314,
+    "wof:lastmodified":1690850740,
     "wof:name":"Villa Reducci\u00f3n",
     "wof:parent_id":421166595,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Puerto Vilelas"
     ],
+    "name:fra_x_preferred":[
+        "Puerto Vilelas"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d3\u30e9\u30ec\u30b9"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421183709,
-    "wof:lastmodified":1566588305,
+    "wof:lastmodified":1690850734,
     "wof:name":"Puerto Vilelas",
     "wof:parent_id":421180295,
     "wof:placetype":"locality",

@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u062a\u0631\u0633\u064a\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u0648 \u062a\u0631\u0633\u064a\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "R\u00edo Tercero"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0648 \u062a\u0631\u0633\u0631\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo Tercero"
     ],
     "name:ceb_x_preferred":[
         "R\u00edo Tercero"
@@ -31,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "R\u00edo Tercero"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u03a4\u03b5\u03c1\u03c3\u03ad\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "R\u00edo Tercero"
@@ -49,6 +61,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30aa\u30fb\u30bb\u30eb\u30bb\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ud14c\ub974\uc138\ub85c"
     ],
     "name:lit_x_preferred":[
         "Rio Terseras"
@@ -222,7 +237,7 @@
         }
     ],
     "wof:id":421173539,
-    "wof:lastmodified":1566588192,
+    "wof:lastmodified":1690850636,
     "wof:name":"R\u00edo Tercero",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

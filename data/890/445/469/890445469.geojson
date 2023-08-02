@@ -22,6 +22,9 @@
     "name:als_x_preferred":[
         "Santa Maria"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bre_x_preferred":[
         "Santa Maria"
     ],
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890445469,
-    "wof:lastmodified":1566588364,
+    "wof:lastmodified":1690850787,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108718369,
     "wof:placetype":"locality",

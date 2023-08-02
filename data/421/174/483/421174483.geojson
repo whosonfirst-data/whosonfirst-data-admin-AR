@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Makall\u00e9"
     ],
+    "name:tur_x_preferred":[
+        "Makall\u00e9"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043b\u044c\u0454"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421174483,
-    "wof:lastmodified":1566588174,
+    "wof:lastmodified":1690850619,
     "wof:name":"Makall\u00e9",
     "wof:parent_id":1108718205,
     "wof:placetype":"locality",

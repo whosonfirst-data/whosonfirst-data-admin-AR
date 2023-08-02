@@ -200,6 +200,9 @@
     "name:swe_x_preferred":[
         "La Toma"
     ],
+    "name:tur_x_preferred":[
+        "La Toma"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0422\u043e\u043c\u0430"
     ],
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":421166431,
-    "wof:lastmodified":1566588115,
+    "wof:lastmodified":1690850563,
     "wof:name":"La Toma",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

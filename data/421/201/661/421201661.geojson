@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Charadai"
     ],
+    "name:tur_x_preferred":[
+        "Charadai"
+    ],
     "name:und_x_variant":[
         "Charaday"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421201661,
-    "wof:lastmodified":1566588286,
+    "wof:lastmodified":1690850718,
     "wof:name":"Charadai",
     "wof:parent_id":1108718229,
     "wof:placetype":"locality",

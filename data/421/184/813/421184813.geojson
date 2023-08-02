@@ -23,7 +23,19 @@
     "name:deu_x_preferred":[
         "Vaquero"
     ],
+    "name:deu_x_variant":[
+        "Vaqueiro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b2\u03b1\u03ba\u03ad\u03c1\u03bf"
+    ],
     "name:eng_x_preferred":[
+        "Vaquero"
+    ],
+    "name:eng_x_variant":[
+        "vaquero"
+    ],
+    "name:fin_x_preferred":[
         "Vaquero"
     ],
     "name:fra_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421184813,
-    "wof:lastmodified":1566588293,
+    "wof:lastmodified":1690850725,
     "wof:name":"Vaqueros",
     "wof:parent_id":421187151,
     "wof:placetype":"locality",

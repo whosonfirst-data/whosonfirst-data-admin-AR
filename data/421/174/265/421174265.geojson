@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u0643\u0627\u0644\u064a\u0631\u0627"
+    ],
     "name:ceb_x_preferred":[
         "La Calera"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421174265,
-    "wof:lastmodified":1566588182,
+    "wof:lastmodified":1690850627,
     "wof:name":"La Calera",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

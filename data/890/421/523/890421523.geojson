@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Taco Pozo"
     ],
+    "name:fra_x_preferred":[
+        "Taco Pozo"
+    ],
     "name:ita_x_preferred":[
         "Taco Pozo"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890421523,
-    "wof:lastmodified":1566588359,
+    "wof:lastmodified":1690850781,
     "wof:name":"Taco Pozo",
     "wof:parent_id":421185419,
     "wof:placetype":"locality",

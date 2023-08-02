@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.1479755,-38.891333,-71.1479755,-38.891333",
+    "geom:bbox":"-71.147976,-38.891333,-71.147976,-38.891333",
     "geom:latitude":-38.891333,
     "geom:longitude":-71.147976,
     "iso:country":"AR",
@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Villa Pehuenia"
+    ],
     "name:eng_x_preferred":[
         "Villa Pehuenia"
     ],
@@ -27,6 +30,9 @@
         "villa Pehuenia"
     ],
     "name:nld_x_preferred":[
+        "Villa Pehuenia"
+    ],
+    "name:por_x_preferred":[
         "Villa Pehuenia"
     ],
     "name:spa_x_preferred":[
@@ -66,7 +72,7 @@
     },
     "wof:country":"AR",
     "wof:created":1459010121,
-    "wof:geomhash":"4930f5fc090059380191e206a7de420d",
+    "wof:geomhash":"21d71fdf03a88216c83ecfd65d289a76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421202541,
-    "wof:lastmodified":1566588171,
+    "wof:lastmodified":1690850614,
     "wof:name":"Villa Pehuenia",
     "wof:parent_id":421188059,
     "wof:placetype":"locality",
@@ -87,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.1479755,
+    -71.147976,
     -38.891333,
-    -71.1479755,
+    -71.147976,
     -38.891333
 ],
-  "geometry": {"coordinates":[-71.1479755,-38.891333],"type":"Point"}
+  "geometry": {"coordinates":[-71.147976,-38.891333],"type":"Point"}
 }

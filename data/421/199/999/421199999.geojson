@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u06a9\u0648\u0646\u0627 \u0645\u06a9\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Vicu\u00f1a Mackenna"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421199999,
-    "wof:lastmodified":1566588275,
+    "wof:lastmodified":1690850708,
     "wof:name":"Vicu\u00f1a Mackenna",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

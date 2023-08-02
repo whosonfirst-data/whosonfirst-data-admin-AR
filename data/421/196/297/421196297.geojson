@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Libertador General San Mart\u00edn"
     ],
+    "name:tur_x_preferred":[
+        "San Mart\u00edn"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u4e01\u93ae"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421196297,
-    "wof:lastmodified":1566588254,
+    "wof:lastmodified":1690850690,
     "wof:name":"Libertador General San Mart\u00edn",
     "wof:parent_id":1108718447,
     "wof:placetype":"locality",

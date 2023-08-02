@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Epuy\u00e9n"
     ],
+    "name:por_x_preferred":[
+        "Epuy\u00e9n"
+    ],
     "name:spa_x_preferred":[
         "Epuy\u00e9n"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421195775,
-    "wof:lastmodified":1566588134,
+    "wof:lastmodified":1690850582,
     "wof:name":"Epuy\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Puerto Libertad"
     ],
+    "name:deu_x_preferred":[
+        "Puerto Libertad"
+    ],
     "name:eng_x_preferred":[
         "Puerto Libertad"
     ],
@@ -33,6 +36,9 @@
         "\u30d7\u30a8\u30eb\u30c8\u30fb\u30ea\u30d9\u30eb\u30bf"
     ],
     "name:nld_x_preferred":[
+        "Puerto Libertad"
+    ],
+    "name:pol_x_preferred":[
         "Puerto Libertad"
     ],
     "name:por_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421184729,
-    "wof:lastmodified":1566588295,
+    "wof:lastmodified":1690850726,
     "wof:name":"Puerto Libertad",
     "wof:parent_id":85676705,
     "wof:placetype":"locality",

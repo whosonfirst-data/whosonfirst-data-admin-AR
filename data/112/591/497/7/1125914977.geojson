@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Bella Italia"
     ],
+    "name:por_x_preferred":[
+        "Bella Italia"
+    ],
     "name:sco_x_preferred":[
         "Bella Italia"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125914977,
-    "wof:lastmodified":1566588373,
+    "wof:lastmodified":1690850797,
     "wof:name":"Bella Italia",
     "wof:parent_id":421166875,
     "wof:placetype":"locality",

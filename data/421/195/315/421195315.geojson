@@ -20,11 +20,23 @@
     "name:ast_x_preferred":[
         "La Poblaci\u00f3n"
     ],
+    "name:cat_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:dan_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "La Poblaci\u00f3n"
     ],
     "name:eng_x_preferred":[
         "La Poblaci\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "La poblaci\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "La poblaci\u00f3n"
     ],
     "name:fin_x_preferred":[
         "La Poblaci\u00f3n"
@@ -32,10 +44,46 @@
     "name:fra_x_preferred":[
         "La Poblaci\u00f3n"
     ],
+    "name:heb_x_preferred":[
+        "La Poblaci\u00f3n"
+    ],
+    "name:hun_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
     "name:nld_x_preferred":[
         "La Poblaci\u00f3n"
     ],
+    "name:nno_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:nob_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:ron_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:sme_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
     "name:spa_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:sqi_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "La poblaci\u00f3n"
+    ],
+    "name:tur_x_preferred":[
         "La poblaci\u00f3n"
     ],
     "qs:gn_country":"AR",
@@ -84,7 +132,7 @@
         }
     ],
     "wof:id":421195315,
-    "wof:lastmodified":1566588128,
+    "wof:lastmodified":1690850576,
     "wof:name":"La Poblaci\u00f3n",
     "wof:parent_id":421177961,
     "wof:placetype":"locality",

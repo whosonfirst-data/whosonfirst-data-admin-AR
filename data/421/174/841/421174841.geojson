@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0686\u0627\u0633\u06a9\u0648\u0645\u0648\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0441\u043a\u0430\u043c\u0443\u0441"
+    ],
     "name:cat_x_preferred":[
         "Chascom\u00fas"
     ],
@@ -51,6 +54,9 @@
         "\u0686\u0627\u0633\u06a9\u0648\u0645\u0648\u0633"
     ],
     "name:fra_x_preferred":[
+        "Chascom\u00fas"
+    ],
+    "name:gle_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:glg_x_preferred":[
@@ -102,6 +108,9 @@
         "Chascom\u00fas"
     ],
     "name:swe_x_preferred":[
+        "Chascom\u00fas"
+    ],
+    "name:tur_x_preferred":[
         "Chascom\u00fas"
     ],
     "name:ukr_x_preferred":[
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":421174841,
-    "wof:lastmodified":1566588179,
+    "wof:lastmodified":1690850624,
     "wof:name":"Chascom\u00fas",
     "wof:parent_id":1108717915,
     "wof:placetype":"locality",

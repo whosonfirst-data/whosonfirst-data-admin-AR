@@ -71,6 +71,9 @@
     "name:chv_x_preferred":[
         "\u0416\u0443\u0436\u0443\u0439"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Jujuy"
+    ],
     "name:dan_x_preferred":[
         "Jujuy"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03c5\u03c4\u03b6\u03bf\u03cd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c5\u03c7\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Jujuy"
@@ -107,16 +113,23 @@
     "name:eus_x_preferred":[
         "Jujuyko probintzia"
     ],
+    "name:eus_x_variant":[
+        "Jujuy"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u062e\u0648\u062e\u0648\u06cc"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u062e\u0648\u06cc"
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u062e\u0648\u06cc",
+        "\u062e\u0648\u062e\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Jujuyn maakunta"
     ],
     "name:fra_x_preferred":[
+        "Jujuy"
+    ],
+    "name:frr_x_preferred":[
         "Jujuy"
     ],
     "name:glg_x_preferred":[
@@ -139,6 +152,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u0582\u056d\u0578\u0582\u0575"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Jujuy"
     ],
     "name:ind_x_preferred":[
         "Jujuy"
@@ -218,6 +234,9 @@
     "name:por_x_preferred":[
         "Jujuy"
     ],
+    "name:pus_x_preferred":[
+        "\u062e\u0648\u062e\u0648\u06cc"
+    ],
     "name:que_x_preferred":[
         "Jujuy wamani"
     ],
@@ -237,6 +256,9 @@
         "\u0da2\u0dd4\u0da2\u0dd4\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:slk_x_preferred":[
+        "Jujuy"
+    ],
+    "name:slv_x_preferred":[
         "Jujuy"
     ],
     "name:spa_x_preferred":[
@@ -259,6 +281,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bc2\u0b9c\u0bc2\u0baf\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0443\u0445\u0443\u0439"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c41\u0c1c\u0c42\u0c2f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -297,6 +322,9 @@
         "Jujuy"
     ],
     "name:wuu_x_preferred":[
+        "\u80e1\u80e1\u4f0a\u7701"
+    ],
+    "name:yue_x_preferred":[
         "\u80e1\u80e1\u4f0a\u7701"
     ],
     "name:zho_x_preferred":[
@@ -425,7 +453,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808610,
+    "wof:lastmodified":1690850548,
     "wof:name":"Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

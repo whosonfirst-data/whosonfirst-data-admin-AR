@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Puerto Yeru\u00e1"
     ],
+    "name:fra_x_preferred":[
+        "Puerto Yeru\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Puerto Yeru\u00e1"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421190491,
-    "wof:lastmodified":1566588270,
+    "wof:lastmodified":1690850702,
     "wof:name":"Puerto Yeru\u00e1",
     "wof:parent_id":1108718245,
     "wof:placetype":"locality",

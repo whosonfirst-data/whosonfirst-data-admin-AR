@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.0166764747,-33.5661824353,-69.0166764747,-33.5661824353",
+    "geom:bbox":"-69.016676,-33.566182,-69.016676,-33.566182",
     "geom:latitude":-33.566182,
     "geom:longitude":-69.016676,
     "iso:country":"AR",
@@ -21,11 +21,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u0648\u064a\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u0648\u064a\u0627\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Tunuy\u00e1n"
+    ],
     "name:ceb_x_preferred":[
+        "Tunuy\u00e1n"
+    ],
+    "name:deu_x_preferred":[
         "Tunuy\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Tunuy\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u0648\u06cc\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Tunuy\u00e1n"
@@ -51,10 +63,16 @@
     "name:por_x_preferred":[
         "Tunuy\u00e1n"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043d\u0443\u044f\u043d"
+    ],
     "name:spa_x_preferred":[
         "Tunuy\u00e1n"
     ],
     "name:swe_x_preferred":[
+        "Tunuy\u00e1n"
+    ],
+    "name:tur_x_preferred":[
         "Tunuy\u00e1n"
     ],
     "name:ukr_x_preferred":[
@@ -171,7 +189,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130809,
-    "wof:geomhash":"dbc06db6922b3a1e031a998964e9b0b4",
+    "wof:geomhash":"ca79b2cf351a9edc7c241626d6475bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +200,7 @@
         }
     ],
     "wof:id":1141908047,
-    "wof:lastmodified":1566588570,
+    "wof:lastmodified":1690850805,
     "wof:name":"Tunuyan",
     "wof:parent_id":421171485,
     "wof:placetype":"locality",
@@ -192,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.01667647467241,
-    -33.56618243533916,
-    -69.01667647467241,
-    -33.56618243533916
+    -69.016676,
+    -33.566182,
+    -69.016676,
+    -33.566182
 ],
-  "geometry": {"coordinates":[-69.01667647467241,-33.56618243533916],"type":"Point"}
+  "geometry": {"coordinates":[-69.016676,-33.566182],"type":"Point"}
 }

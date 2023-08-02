@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lago Puelo"
     ],
+    "name:fra_x_preferred":[
+        "Lago Puelo"
+    ],
     "name:ita_x_preferred":[
         "Lago Puelo"
     ],
@@ -30,6 +33,9 @@
         "Lago Puelas"
     ],
     "name:nld_x_preferred":[
+        "Lago Puelo"
+    ],
+    "name:por_x_preferred":[
         "Lago Puelo"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421171589,
-    "wof:lastmodified":1566588332,
+    "wof:lastmodified":1690850754,
     "wof:name":"Lago Puelo",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

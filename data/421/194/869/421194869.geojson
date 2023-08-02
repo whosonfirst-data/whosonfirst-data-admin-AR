@@ -62,6 +62,9 @@
     "name:swe_x_preferred":[
         "Tres Sargentos"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u0441-\u0421\u0430\u0440\u0445\u0435\u043d\u0442\u043e\u0441"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3833685,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421194869,
-    "wof:lastmodified":1566588136,
+    "wof:lastmodified":1690850584,
     "wof:name":"Tres Sargentos",
     "wof:parent_id":1108717897,
     "wof:placetype":"locality",

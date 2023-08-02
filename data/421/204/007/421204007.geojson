@@ -23,11 +23,20 @@
     "name:ara_x_variant":[
         "\u0645\u064a\u0631\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Merlo"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u0644\u0648"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09b2\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Merlo"
     ],
     "name:ceb_x_preferred":[
         "Merlo"
@@ -57,6 +66,9 @@
         "Merlo"
     ],
     "name:fra_x_preferred":[
+        "Merlo"
+    ],
+    "name:gle_x_preferred":[
         "Merlo"
     ],
     "name:guj_x_preferred":[
@@ -137,11 +149,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc6\u0bb0\u0bcd\u0bb2\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0440\u043b\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c46\u0c30\u0c4d\u0c32\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e2d\u0e23\u0e4c\u0e42\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e21\u0e23\u0e4c\u0e42\u0e25"
     ],
     "name:tur_x_preferred":[
         "Merlo"
@@ -151,6 +169,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0631\u0644\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Merlo"
     ],
     "name:vie_x_preferred":[
         "Merlo"
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":421204007,
-    "wof:lastmodified":1566588155,
+    "wof:lastmodified":1690850602,
     "wof:name":"Merlo",
     "wof:parent_id":1108718025,
     "wof:placetype":"locality",

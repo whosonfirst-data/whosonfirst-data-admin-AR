@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0443\u043d\u0456\u043d"
     ],
@@ -74,6 +77,9 @@
     "name:swe_x_preferred":[
         "Jun\u00edn"
     ],
+    "name:tur_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043d\u0456\u043d"
     ],
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421174643,
-    "wof:lastmodified":1566588173,
+    "wof:lastmodified":1690850619,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":1108718355,
     "wof:placetype":"locality",

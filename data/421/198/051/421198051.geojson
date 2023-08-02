@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Campo Largo"
     ],
+    "name:pol_x_preferred":[
+        "Campo Largo"
+    ],
     "name:por_x_preferred":[
         "Campo Largo"
     ],
@@ -42,6 +45,9 @@
         "Campo Largo"
     ],
     "name:swe_x_preferred":[
+        "Campo Largo"
+    ],
+    "name:tur_x_preferred":[
         "Campo Largo"
     ],
     "name:ukr_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421198051,
-    "wof:lastmodified":1566588237,
+    "wof:lastmodified":1690850671,
     "wof:name":"Campo Largo",
     "wof:parent_id":421185059,
     "wof:placetype":"locality",

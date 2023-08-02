@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tancacha"
+    ],
     "name:eng_x_preferred":[
         "Tancacha"
     ],
@@ -27,6 +30,9 @@
         "Tancacha"
     ],
     "name:spa_x_preferred":[
+        "Tancacha"
+    ],
+    "name:swe_x_preferred":[
         "Tancacha"
     ],
     "name:ukr_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421170909,
-    "wof:lastmodified":1566588295,
+    "wof:lastmodified":1690850726,
     "wof:name":"Tancacha",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

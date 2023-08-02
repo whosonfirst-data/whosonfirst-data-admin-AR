@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Laguna Paiva"
     ],
+    "name:ceb_x_preferred":[
+        "Laguna Paiva"
+    ],
     "name:eng_x_preferred":[
         "Laguna Paiva"
     ],
@@ -32,6 +35,9 @@
     "name:nld_x_preferred":[
         "Laguna Paiva"
     ],
+    "name:pol_x_preferred":[
+        "Laguna Paiva"
+    ],
     "name:por_x_preferred":[
         "Laguna Paiva"
     ],
@@ -39,6 +45,9 @@
         "\u041b\u0430\u0433\u0443\u043d\u0430-\u041f\u0430\u0439\u0432\u0430"
     ],
     "name:spa_x_preferred":[
+        "Laguna Paiva"
+    ],
+    "name:swe_x_preferred":[
         "Laguna Paiva"
     ],
     "name:ukr_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421182627,
-    "wof:lastmodified":1566588317,
+    "wof:lastmodified":1690850744,
     "wof:name":"Laguna Paiva",
     "wof:parent_id":1108718453,
     "wof:placetype":"locality",

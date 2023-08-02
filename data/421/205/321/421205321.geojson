@@ -35,6 +35,9 @@
     "name:ang_x_preferred":[
         "Gui\u00f1az\u00fa"
     ],
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0646\u0627\u062b\u0648"
+    ],
     "name:arg_x_preferred":[
         "Gui\u00f1az\u00fa"
     ],
@@ -702,7 +705,7 @@
         }
     ],
     "wof:id":421205321,
-    "wof:lastmodified":1566588172,
+    "wof:lastmodified":1690850617,
     "wof:name":"Gui\u00f1az\u00fa",
     "wof:parent_id":421180887,
     "wof:placetype":"locality",

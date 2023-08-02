@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "San Rafael"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
     ],
@@ -62,6 +68,9 @@
     "name:fra_x_preferred":[
         "San Rafael"
     ],
+    "name:gle_x_preferred":[
+        "San Rafael"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0ab0\u0aab\u0ac7\u0ab2"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "San Rafael"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u054c\u0561\u0586\u0561\u0575\u0565\u056c"
     ],
     "name:ind_x_preferred":[
         "San Rafael"
@@ -100,6 +112,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0930\u093e\u092b\u0947\u0932"
+    ],
+    "name:mlg_x_preferred":[
+        "San Rafael"
     ],
     "name:msa_x_preferred":[
         "San Rafael"
@@ -140,11 +155,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb0\u0baa\u0bc7\u0bb2\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b"
+    ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c28\u0c4d \u0c30\u0c3e\u0c2b\u0c46\u0c32\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e40\u0e1b\u0e42\u0e14\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e23\u0e32\u0e1f\u0e32\u0e40\u0e2d\u0e25"
     ],
     "name:tur_x_preferred":[
         "San Rafael"
@@ -157,6 +178,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u0646 \u0631\u0627\u0641\u06cc\u0644"
+    ],
+    "name:vec_x_preferred":[
+        "San Rafael"
     ],
     "name:vie_x_preferred":[
         "San Rafael"
@@ -309,7 +333,7 @@
         }
     ],
     "wof:id":421202307,
-    "wof:lastmodified":1636502807,
+    "wof:lastmodified":1690850611,
     "wof:name":"San Rafael",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

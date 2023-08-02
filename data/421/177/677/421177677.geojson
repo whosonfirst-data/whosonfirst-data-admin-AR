@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Marcos Ju\u00e1rez"
+    ],
     "name:ceb_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
     "name:deu_x_preferred":[
         "Marcos Ju\u00e1rez"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03ba\u03bf\u03c2 \u03a7\u03bf\u03c5\u03ac\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Marcos Ju\u00e1rez"
@@ -54,6 +60,9 @@
         "Marcos Ju\u00e1rez"
     ],
     "name:swe_x_preferred":[
+        "Marcos Ju\u00e1rez"
+    ],
+    "name:tur_x_preferred":[
         "Marcos Ju\u00e1rez"
     ],
     "name:ukr_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421177677,
-    "wof:lastmodified":1566588304,
+    "wof:lastmodified":1690850733,
     "wof:name":"Marcos Ju\u00e1rez",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

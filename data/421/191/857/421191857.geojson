@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Los Surgentes"
+    ],
     "name:ceb_x_preferred":[
         "Los Surgentes"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421191857,
-    "wof:lastmodified":1566588261,
+    "wof:lastmodified":1690850696,
     "wof:name":"Los Surgentes",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

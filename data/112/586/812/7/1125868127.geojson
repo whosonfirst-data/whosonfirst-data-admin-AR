@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Perugorr\u00eda"
     ],
+    "name:por_x_preferred":[
+        "Perugorr\u00eda"
+    ],
     "name:spa_x_preferred":[
         "Perugorr\u00eda"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125868127,
-    "wof:lastmodified":1566588371,
+    "wof:lastmodified":1690850794,
     "wof:name":"Perugorr\u00eda",
     "wof:parent_id":1108718175,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Palpal\u00e1"
+    ],
     "name:cat_x_preferred":[
+        "Palpal\u00e1"
+    ],
+    "name:ceb_x_preferred":[
         "Palpal\u00e1"
     ],
     "name:deu_x_preferred":[
@@ -51,6 +57,12 @@
         "Palpal\u00e1"
     ],
     "name:spa_x_preferred":[
+        "Palpal\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Palpal\u00e1"
+    ],
+    "name:tur_x_preferred":[
         "Palpal\u00e1"
     ],
     "name:ukr_x_preferred":[
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":421198343,
-    "wof:lastmodified":1566588239,
+    "wof:lastmodified":1690850672,
     "wof:name":"Palpal\u00e1",
     "wof:parent_id":1108718277,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Puerto Bandera"
     ],
+    "name:fra_x_preferred":[
+        "Punta Bandera"
+    ],
     "name:nld_x_preferred":[
         "Puerto Bandera"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421194745,
-    "wof:lastmodified":1566588139,
+    "wof:lastmodified":1690850586,
     "wof:name":"Puerto Bandera",
     "wof:parent_id":421183349,
     "wof:placetype":"locality",

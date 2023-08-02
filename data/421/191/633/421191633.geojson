@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Laguna Naick-Neck"
+    ],
     "name:eng_x_preferred":[
         "Laguna Naick Neck"
+    ],
+    "name:eng_x_variant":[
+        "Laguna Naick-Neck"
+    ],
+    "name:fra_x_preferred":[
+        "Laguna Naineck"
     ],
     "name:nld_x_preferred":[
         "Laguna Naick Neck"
@@ -28,6 +37,9 @@
     ],
     "name:spa_x_preferred":[
         "Laguna Naick Neck"
+    ],
+    "name:swe_x_preferred":[
+        "Laguna Naick-Neck"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0433\u0443\u043d\u0430-\u041d\u0430\u0439\u043a-\u041d\u0435\u043a"
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":421191633,
-    "wof:lastmodified":1566588261,
+    "wof:lastmodified":1690850696,
     "wof:name":"Laguna Naick-Neck",
     "wof:parent_id":1108718273,
     "wof:placetype":"locality",

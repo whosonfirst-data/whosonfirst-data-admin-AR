@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Las Paredes"
     ],
+    "name:spa_x_preferred":[
+        "Aut\u00f3dromo Las Paredes"
+    ],
     "name:und_x_variant":[
         "Capit\u00e1n Montoya"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421180949,
-    "wof:lastmodified":1566588186,
+    "wof:lastmodified":1690850631,
     "wof:name":"Las Paredes",
     "wof:parent_id":421188045,
     "wof:placetype":"locality",

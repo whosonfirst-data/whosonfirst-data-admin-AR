@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Parera"
     ],
+    "name:fra_x_preferred":[
+        "Parera"
+    ],
     "name:ita_x_preferred":[
         "Parera"
     ],
@@ -41,6 +44,9 @@
         "Parera"
     ],
     "name:swe_x_preferred":[
+        "Parera"
+    ],
+    "name:tur_x_preferred":[
         "Parera"
     ],
     "name:ukr_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125870379,
-    "wof:lastmodified":1566588372,
+    "wof:lastmodified":1690850795,
     "wof:name":"Parera",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

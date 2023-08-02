@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Herlitzka"
     ],
+    "name:por_x_preferred":[
+        "Herlitzka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043b\u0438\u0442\u0441\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
         "Herlitzka"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":421171199,
-    "wof:lastmodified":1566588333,
+    "wof:lastmodified":1690850755,
     "wof:name":"Herlitzka",
     "wof:parent_id":1108718187,
     "wof:placetype":"locality",

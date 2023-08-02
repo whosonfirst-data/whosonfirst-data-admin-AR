@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Mocoret\u00e1"
     ],
+    "name:por_x_preferred":[
+        "Mocoret\u00e1"
+    ],
     "name:spa_x_preferred":[
         "Mocoret\u00e1"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421205035,
-    "wof:lastmodified":1566588172,
+    "wof:lastmodified":1690850617,
     "wof:name":"Mocoret\u00e1",
     "wof:parent_id":421191013,
     "wof:placetype":"locality",

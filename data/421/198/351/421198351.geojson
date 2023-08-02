@@ -44,6 +44,9 @@
     "name:oci_x_preferred":[
         "Aguas Blancas"
     ],
+    "name:por_x_preferred":[
+        "Aguas Blancas"
+    ],
     "name:spa_x_preferred":[
         "Aguas Blancas"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421198351,
-    "wof:lastmodified":1566588234,
+    "wof:lastmodified":1690850667,
     "wof:name":"Aguas Blancas",
     "wof:parent_id":85669431,
     "wof:placetype":"locality",

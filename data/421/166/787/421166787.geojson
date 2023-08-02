@@ -113,6 +113,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0bb0\u0bc6\u0b95\u0bcb\u0bb0\u0bcd\u0baf\u0bcb \u0b9f\u0bc7 \u0bb2\u0baa\u0bc7\u0bb0\u0bc7\u0bb1\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0435\u0433\u043e\u0440\u0438\u043e-\u0434\u0435-\u041b\u0430\u0444\u0435\u0440\u0440\u0435\u0440\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c46\u0c17\u0c4b\u0c30\u0c3f\u0c2f\u0c4b \u0c21\u0c3f \u0c32\u0c3e\u0c2b\u0c46\u0c30\u0c47\u0c30\u0c4d"
     ],
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421166787,
-    "wof:lastmodified":1566588118,
+    "wof:lastmodified":1690850566,
     "wof:name":"Laferrere",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

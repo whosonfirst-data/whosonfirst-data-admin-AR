@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Villa Cura Brochero"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0686\u0631\u0648 \u0648\u06cc\u0644\u0627 \u06a9\u0648\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "villa Cura Brochero"
     ],
@@ -53,6 +56,9 @@
         "Villa Cura Brochero"
     ],
     "name:swe_x_preferred":[
+        "Villa Cura Brochero"
+    ],
+    "name:tur_x_preferred":[
         "Villa Cura Brochero"
     ],
     "name:ukr_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125781469,
-    "wof:lastmodified":1566588378,
+    "wof:lastmodified":1690850799,
     "wof:name":"Villa Cura Brochero",
     "wof:parent_id":421198475,
     "wof:placetype":"locality",

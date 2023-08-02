@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0634\u0648\u0627\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0634\u0648\u0627\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ushuaia"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0627\u06cc\u0627"
     ],
@@ -130,6 +136,9 @@
     "name:ind_x_preferred":[
         "Ushuaia"
     ],
+    "name:isl_x_preferred":[
+        "Ushuaia"
+    ],
     "name:ita_x_preferred":[
         "Ushuaia"
     ],
@@ -160,6 +169,9 @@
     "name:lit_x_preferred":[
         "U\u0161uaja"
     ],
+    "name:mal_x_preferred":[
+        "\u0d09\u0d37\u0d4d\u0d2f\u0d42\u0d2f\u0d3f\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0909\u0936\u0941\u0906\u0907\u092f\u093e"
     ],
@@ -168,6 +180,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0423\u0448\u0443\u0430\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Ushuaia"
     ],
     "name:msa_x_preferred":[
         "Ushuaia"
@@ -238,6 +253,9 @@
     "name:tam_x_preferred":[
         "\u0b89\u0bb8\u0bc1\u0bb5\u0baf\u0bbf\u0baf"
     ],
+    "name:tat_x_preferred":[
+        "\u0423\u0448\u0443\u0430\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c09\u0c37\u0c41\u0c2f\u0c3f\u0c2f\u0c3e"
     ],
@@ -251,7 +269,8 @@
         "\u0423\u0448\u0443\u0430\u044f"
     ],
     "name:ukr_x_variant":[
-        "\u0423\u0448\u0443\u0430\u0439\u044f"
+        "\u0423\u0448\u0443\u0430\u0439\u044f",
+        "\u0423\u0441\u0432\u0430\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0634\u0648\u0627\u06cc\u0627"
@@ -259,8 +278,20 @@
     "name:vie_x_preferred":[
         "Ushuaia"
     ],
+    "name:vol_x_preferred":[
+        "Ushuaia"
+    ],
     "name:war_x_preferred":[
         "Ushuaia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u65af\u6000\u4e9a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10e8\u10e3\u10d0\u10d8\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u70cf\u65af\u61f7\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u65af\u6000\u4e9a"
@@ -403,7 +434,7 @@
         }
     ],
     "wof:id":890435489,
-    "wof:lastmodified":1582358646,
+    "wof:lastmodified":1690850792,
     "wof:name":"Ushuaia",
     "wof:parent_id":1108718533,
     "wof:placetype":"locality",

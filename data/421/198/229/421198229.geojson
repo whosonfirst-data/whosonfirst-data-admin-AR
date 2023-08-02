@@ -20,6 +20,9 @@
     "name:bre_x_preferred":[
         "Las Perdices"
     ],
+    "name:ceb_x_preferred":[
+        "Las Perdices"
+    ],
     "name:cos_x_preferred":[
         "Las Perdices"
     ],
@@ -51,6 +54,9 @@
         "Las Perdices"
     ],
     "name:ron_x_preferred":[
+        "Las Perdices"
+    ],
+    "name:sco_x_preferred":[
         "Las Perdices"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421198229,
-    "wof:lastmodified":1566588229,
+    "wof:lastmodified":1690850664,
     "wof:name":"Las Perdices",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

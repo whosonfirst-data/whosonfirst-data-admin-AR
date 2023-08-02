@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Villa General Belgrano"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0698\u0646\u0631\u0627\u0644 \u0628\u0644\u06af\u0631\u0627\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
         "villa General Belgrano"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Villa General Belgrano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30ea\u30e3\u30fb\u30d8\u30cd\u30e9\u30eb\u30fb\u30d9\u30eb\u30b0\u30e9\u30fc\u30ce"
     ],
     "name:nld_x_preferred":[
         "Villa General Belgrano"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421196915,
-    "wof:lastmodified":1566588247,
+    "wof:lastmodified":1690850680,
     "wof:name":"Villa General Belgrano",
     "wof:parent_id":421186303,
     "wof:placetype":"locality",

@@ -94,6 +94,9 @@
     "name:zho_x_preferred":[
         "\u4e94\u6708\u4e8c\u5341\u4e94\u65e5"
     ],
+    "name:zho_x_variant":[
+        "\u4e94\u6708\u4e8c\u5341\u4e94\u5e02"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
     "ne:ADM0_A3":"ARG",
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890435487,
-    "wof:lastmodified":1636502831,
+    "wof:lastmodified":1690850792,
     "wof:name":"Veinticinco de Mayo",
     "wof:parent_id":1108718131,
     "wof:placetype":"locality",

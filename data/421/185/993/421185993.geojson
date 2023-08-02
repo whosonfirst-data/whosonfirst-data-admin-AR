@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Jauregui"
     ],
+    "name:ita_x_preferred":[
+        "J\u00e1uregui"
+    ],
     "name:nld_x_preferred":[
         "J\u00e1uregui"
     ],
@@ -43,7 +46,8 @@
     ],
     "name:spa_x_variant":[
         "Villa Flandria",
-        "Jos\u00e9 Mar\u00eda J\u00e1uregui"
+        "Jos\u00e9 Mar\u00eda J\u00e1uregui",
+        "J\u00e1uregui"
     ],
     "name:swe_x_preferred":[
         "J\u00e1uregui"
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421185993,
-    "wof:lastmodified":1566588344,
+    "wof:lastmodified":1690850761,
     "wof:name":"J\u00e1uregui",
     "wof:parent_id":1108718009,
     "wof:placetype":"locality",

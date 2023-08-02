@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Fort Barrancas"
     ],
+    "name:por_x_preferred":[
+        "Barrancas"
+    ],
     "name:spa_x_preferred":[
         "Barrancas"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890440057,
-    "wof:lastmodified":1566588351,
+    "wof:lastmodified":1690850769,
     "wof:name":"Barrancas",
     "wof:parent_id":421192925,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-56.6766028255,-36.7162227186,-56.6766028255,-36.7162227186",
+    "geom:bbox":"-56.676603,-36.716223,-56.676603,-36.716223",
     "geom:latitude":-36.716223,
     "geom:longitude":-56.676603,
     "iso:country":"AR",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631 \u062f\u064a \u0622\u062c\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631 \u062f\u0649 \u0622\u062c\u0648"
     ],
     "name:deu_x_preferred":[
         "Mar de Aj\u00f3"
@@ -159,7 +162,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130812,
-    "wof:geomhash":"1217b5b56bae6e0ad3d3749662737e7f",
+    "wof:geomhash":"0a0a2e883811c326b334ffde9550e136",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1141908069,
-    "wof:lastmodified":1566588578,
+    "wof:lastmodified":1690850812,
     "wof:name":"Mar de Ajo",
     "wof:parent_id":1108717989,
     "wof:placetype":"locality",
@@ -180,10 +183,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -56.67660282553459,
-    -36.71622271855489,
-    -56.67660282553459,
-    -36.71622271855489
+    -56.676603,
+    -36.716223,
+    -56.676603,
+    -36.716223
 ],
-  "geometry": {"coordinates":[-56.67660282553459,-36.71622271855489],"type":"Point"}
+  "geometry": {"coordinates":[-56.676603,-36.716223],"type":"Point"}
 }

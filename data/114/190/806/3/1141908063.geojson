@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-62.7333132341,-37.1828609022,-62.7333132341,-37.1828609022",
+    "geom:bbox":"-62.733313,-37.182861,-62.733313,-37.182861",
     "geom:latitude":-37.182861,
     "geom:longitude":-62.733313,
     "iso:country":"AR",
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0647\u064a\u0648"
+    ],
+    "name:arz_x_preferred":[
         "\u0643\u0627\u0631\u0647\u064a\u0648"
     ],
     "name:cat_x_preferred":[
@@ -60,8 +63,14 @@
     "name:swe_x_preferred":[
         "Carhu\u00e9"
     ],
+    "name:tur_x_preferred":[
+        "Carhu\u00e9"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0443\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c14\u97e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -171,7 +180,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130811,
-    "wof:geomhash":"bed77ff12b5e4c6603051e46670eac22",
+    "wof:geomhash":"623f0413a3dfa3d1eab0d552a314c766",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":1141908063,
-    "wof:lastmodified":1566588578,
+    "wof:lastmodified":1690850812,
     "wof:name":"Carhue",
     "wof:parent_id":1108717849,
     "wof:placetype":"locality",
@@ -192,10 +201,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.7333132340874,
-    -37.18286090215059,
-    -62.7333132340874,
-    -37.18286090215059
+    -62.733313,
+    -37.182861,
+    -62.733313,
+    -37.182861
 ],
-  "geometry": {"coordinates":[-62.7333132340874,-37.18286090215059],"type":"Point"}
+  "geometry": {"coordinates":[-62.733313,-37.182861],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-62.2999805111,-22.4799857393,-62.2999805111,-22.4799857393",
+    "geom:bbox":"-62.299981,-22.479986,-62.299981,-22.479986",
     "geom:latitude":-22.479986,
     "geom:longitude":-62.299981,
     "iso:country":"AR",
@@ -34,6 +34,9 @@
         "Dr. Pedro P. Pe\u00f1a"
     ],
     "name:spa_x_preferred":[
+        "Doctor Pedro P. Pe\u00f1a"
+    ],
+    "name:tur_x_preferred":[
         "Doctor Pedro P. Pe\u00f1a"
     ],
     "ne:ADM0CAP":0.0,
@@ -147,7 +150,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130638,
-    "wof:geomhash":"4de51e95a21817b018eee86949580a69",
+    "wof:geomhash":"a7e6aaca55259815f74a2cb49a7b3193",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1141906781,
-    "wof:lastmodified":1566588574,
+    "wof:lastmodified":1690850808,
     "wof:name":"Doctor Pedro P. Pena",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
@@ -175,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.29998051110391,
-    -22.47998573933137,
-    -62.29998051110391,
-    -22.47998573933137
+    -62.299981,
+    -22.479986,
+    -62.299981,
+    -22.479986
 ],
-  "geometry": {"coordinates":[-62.29998051110391,-22.47998573933137],"type":"Point"}
+  "geometry": {"coordinates":[-62.299981,-22.479986],"type":"Point"}
 }

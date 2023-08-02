@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Villa R\u00edo Hondo"
     ],
+    "name:por_x_preferred":[
+        "Villa R\u00edo Hondo"
+    ],
     "name:spa_x_preferred":[
         "Villa R\u00edo Hondo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421194877,
-    "wof:lastmodified":1566588138,
+    "wof:lastmodified":1690850586,
     "wof:name":"R\u00edo Hondo",
     "wof:parent_id":421186443,
     "wof:placetype":"locality",

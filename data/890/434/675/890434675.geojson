@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Buta Ranquil"
     ],
+    "name:por_x_preferred":[
+        "Buta Ranquil"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0442\u0430-\u0420\u0430\u043d\u043a\u0438\u043b\u044c"
     ],
@@ -44,6 +47,9 @@
         "Buta Ranquil"
     ],
     "name:swe_x_preferred":[
+        "Buta Ranquil"
+    ],
+    "name:tur_x_preferred":[
         "Buta Ranquil"
     ],
     "name:ukr_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890434675,
-    "wof:lastmodified":1566588365,
+    "wof:lastmodified":1690850788,
     "wof:name":"Buta Ranquil",
     "wof:parent_id":421192925,
     "wof:placetype":"locality",

@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
     "name:eng_x_preferred":[
         "Los C\u00f3ndores"
     ],
     "name:nld_x_preferred":[
         "Los C\u00f3ndores"
     ],
+    "name:por_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
     "name:spa_x_preferred":[
+        "Los C\u00f3ndores"
+    ],
+    "name:swe_x_preferred":[
         "Los C\u00f3ndores"
     ],
     "name:ukr_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":421197519,
-    "wof:lastmodified":1566588272,
+    "wof:lastmodified":1690850705,
     "wof:name":"Los C\u00f3ndores",
     "wof:parent_id":421171465,
     "wof:placetype":"locality",

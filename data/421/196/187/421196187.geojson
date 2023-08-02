@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Rancul"
+    ],
     "name:ceb_x_preferred":[
         "Rancul"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421196187,
-    "wof:lastmodified":1566588246,
+    "wof:lastmodified":1690850680,
     "wof:name":"Rancul",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

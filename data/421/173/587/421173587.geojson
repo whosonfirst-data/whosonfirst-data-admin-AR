@@ -50,6 +50,9 @@
     "name:swe_x_preferred":[
         "Pic\u00fan Leuf\u00fa"
     ],
+    "name:tur_x_preferred":[
+        "Pic\u00fan Leuf\u00fa"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043a\u0443\u043d-\u041b\u0435\u0443\u0444\u0443"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421173587,
-    "wof:lastmodified":1566588192,
+    "wof:lastmodified":1690850635,
     "wof:name":"Pic\u00fan Leuf\u00fa",
     "wof:parent_id":1108718385,
     "wof:placetype":"locality",

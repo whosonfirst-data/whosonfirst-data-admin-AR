@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Mar Del Plata"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Astor Piazzolla"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Mar del Plata"
+    ],
     "name:eng_x_preferred":[
         "Astor Piazzolla International Airport"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":102553577,
-    "wof:lastmodified":1566587597,
+    "wof:lastmodified":1690850528,
     "wof:name":"Mar del Plata Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

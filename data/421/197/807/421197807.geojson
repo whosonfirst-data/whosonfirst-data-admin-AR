@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sebasti\u00e1n Elcano"
+    ],
     "name:eng_x_preferred":[
         "Sebasti\u00e1n Elcano"
     ],
@@ -27,6 +30,9 @@
         "Sebasti\u00e1n Elcano"
     ],
     "name:spa_x_preferred":[
+        "Sebasti\u00e1n Elcano"
+    ],
+    "name:swe_x_preferred":[
         "Sebasti\u00e1n Elcano"
     ],
     "name:ukr_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421197807,
-    "wof:lastmodified":1566588273,
+    "wof:lastmodified":1690850707,
     "wof:name":"Sebasti\u00e1n Elcano",
     "wof:parent_id":1108718165,
     "wof:placetype":"locality",

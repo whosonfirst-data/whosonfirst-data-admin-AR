@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Obispo Trejo"
     ],
+    "name:deu_x_preferred":[
+        "Obispo Trejo"
+    ],
     "name:eng_x_preferred":[
         "Obispo Trejo"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421196413,
-    "wof:lastmodified":1566588241,
+    "wof:lastmodified":1690850675,
     "wof:name":"Obispo Trejo",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",

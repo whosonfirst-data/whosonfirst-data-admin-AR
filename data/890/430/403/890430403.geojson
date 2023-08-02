@@ -28,6 +28,9 @@
     "name:ast_x_preferred":[
         "Gernika-Lumo"
     ],
+    "name:ast_x_variant":[
+        "Guernica"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0631\u0646\u06cc\u06a9\u0627"
     ],
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":890430403,
-    "wof:lastmodified":1566588355,
+    "wof:lastmodified":1690850776,
     "wof:name":"Guernica",
     "wof:parent_id":1108718061,
     "wof:placetype":"locality",

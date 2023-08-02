@@ -29,6 +29,9 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d5\u05d3\u05dc\u05d9\u05e0\u05d4"
     ],
+    "name:ita_x_preferred":[
+        "Teodelina"
+    ],
     "name:jpn_x_preferred":[
         "\u30c6\u30aa\u30c7\u30ea\u30fc\u30ca"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421197509,
-    "wof:lastmodified":1566588272,
+    "wof:lastmodified":1690850706,
     "wof:name":"Teodolina",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
     "name:swe_x_preferred":[
         "Gastre"
     ],
+    "name:tur_x_preferred":[
+        "Gastre"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0441\u0442\u0440\u0435"
     ],
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1141908041,
-    "wof:lastmodified":1636502850,
+    "wof:lastmodified":1690850806,
     "wof:name":"Gastre",
     "wof:parent_id":1108718239,
     "wof:placetype":"locality",

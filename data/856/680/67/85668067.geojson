@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0648\u0631\u0645\u0648\u0632\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0648\u0631\u0645\u0648\u0632\u0627"
+    ],
     "name:aym_x_preferred":[
         "Formosa jisk'a suyu"
     ],
@@ -101,16 +104,23 @@
     "name:eus_x_preferred":[
         "Formosako probintzia"
     ],
+    "name:eus_x_variant":[
+        "Formosa probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0641\u0631\u0645\u0648\u0632\u0627"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648\u0631\u0645\u0648\u0633\u0627"
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648\u0631\u0645\u0648\u0633\u0627",
+        "\u0641\u0631\u0645\u0648\u0632\u0627"
     ],
     "name:fin_x_preferred":[
         "Formosan maakunta"
     ],
     "name:fra_x_preferred":[
+        "Formosa"
+    ],
+    "name:frr_x_preferred":[
         "Formosa"
     ],
     "name:glg_x_preferred":[
@@ -248,6 +258,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0bb0\u0bcd\u0bae\u0bca\u0bb8\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u043e\u0440\u043c\u043e\u0441\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4b\u0c30\u0c4d\u0c2e\u0c4b\u0c38\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -275,6 +288,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u0648\u0631\u0645\u0648\u0633\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Formosa Province"
+    ],
     "name:vie_x_preferred":[
         "Formosa"
     ],
@@ -286,6 +302,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u798f\u5c14\u6469\u6c99\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u798f\u723e\u6469\u6c99\u7701"
     ],
     "name:zho_x_preferred":[
         "\u798f\u723e\u6469\u6c99\u7701"
@@ -413,7 +432,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636502751,
+    "wof:lastmodified":1690850541,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

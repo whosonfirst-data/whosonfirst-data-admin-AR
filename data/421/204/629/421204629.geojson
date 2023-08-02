@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Playa Uni\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Playa Uni\u00f3n"
+    ],
     "name:nld_x_preferred":[
         "Playa Uni\u00f3n"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421204629,
-    "wof:lastmodified":1566588154,
+    "wof:lastmodified":1690850601,
     "wof:name":"Playa Uni\u00f3n",
     "wof:parent_id":421172183,
     "wof:placetype":"locality",

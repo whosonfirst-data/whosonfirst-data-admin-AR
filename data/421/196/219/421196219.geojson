@@ -44,6 +44,9 @@
     "name:swe_x_preferred":[
         "Burruyac\u00fa"
     ],
+    "name:tur_x_preferred":[
+        "Burruyac\u00fa"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0440\u0443\u044f\u043a\u0443"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421196219,
-    "wof:lastmodified":1566588242,
+    "wof:lastmodified":1690850676,
     "wof:name":"Burruyac\u00fa",
     "wof:parent_id":1108718519,
     "wof:placetype":"locality",

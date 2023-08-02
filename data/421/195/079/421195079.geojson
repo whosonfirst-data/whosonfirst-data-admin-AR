@@ -71,6 +71,9 @@
     "name:pol_x_preferred":[
         "Ko\u0142odziej"
     ],
+    "name:por_x_preferred":[
+        "Wheelwright"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0435\u0441\u043d\u0438\u043a"
     ],
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421195079,
-    "wof:lastmodified":1566588124,
+    "wof:lastmodified":1690850572,
     "wof:name":"Wheelwright",
     "wof:parent_id":421200997,
     "wof:placetype":"locality",

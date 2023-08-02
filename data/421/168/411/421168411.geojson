@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Quitilipi"
+    ],
     "name:ceb_x_preferred":[
         "Quitilipi"
     ],
@@ -42,6 +45,9 @@
         "Quitilipi"
     ],
     "name:swe_x_preferred":[
+        "Quitilipi"
+    ],
+    "name:tur_x_preferred":[
         "Quitilipi"
     ],
     "name:ukr_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421168411,
-    "wof:lastmodified":1566588112,
+    "wof:lastmodified":1690850562,
     "wof:name":"Quitilipi",
     "wof:parent_id":1108718223,
     "wof:placetype":"locality",

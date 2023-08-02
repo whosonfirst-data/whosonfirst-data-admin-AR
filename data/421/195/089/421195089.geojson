@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Malabrigo"
+    ],
     "name:eng_x_preferred":[
         "Malabrigo"
     ],
@@ -30,6 +33,9 @@
         "Malabrigo"
     ],
     "name:spa_x_preferred":[
+        "Malabrigo"
+    ],
+    "name:swe_x_preferred":[
         "Malabrigo"
     ],
     "name:ukr_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421195089,
-    "wof:lastmodified":1566588132,
+    "wof:lastmodified":1690850580,
     "wof:name":"Malabrigo",
     "wof:parent_id":421183345,
     "wof:placetype":"locality",

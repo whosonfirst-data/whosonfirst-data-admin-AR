@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Arroyo Cabral"
+    ],
     "name:cym_x_preferred":[
         "Arroyo Cabral"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Dipartimento di General San Mart\u00edn"
+    ],
+    "name:ita_x_variant":[
+        "Arroyo Cabral"
     ],
     "name:nld_x_preferred":[
         "General San Mart\u00edn"
@@ -57,6 +63,9 @@
         "Departamento General San Mart\u00edn"
     ],
     "name:spa_x_variant":[
+        "Arroyo Cabral"
+    ],
+    "name:swe_x_preferred":[
         "Arroyo Cabral"
     ],
     "name:ukr_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421183119,
-    "wof:lastmodified":1566588307,
+    "wof:lastmodified":1690850735,
     "wof:name":"Arroyo Cabral",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

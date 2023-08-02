@@ -41,6 +41,9 @@
     "name:por_x_preferred":[
         "R\u00edo Ceballos"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0421\u0435\u0431\u0430\u043b\u044c\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "R\u00edo Ceballos"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421185865,
-    "wof:lastmodified":1566588346,
+    "wof:lastmodified":1690850763,
     "wof:name":"R\u00edo Ceballos",
     "wof:parent_id":421194115,
     "wof:placetype":"locality",

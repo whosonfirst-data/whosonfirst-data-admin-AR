@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "San Isidro"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0627\u06cc\u0633\u06cc\u062f\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Isidro"
     ],
@@ -42,6 +45,9 @@
         "San Isidro"
     ],
     "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "name:tur_x_preferred":[
         "San Isidro"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421174507,
-    "wof:lastmodified":1566588178,
+    "wof:lastmodified":1690850623,
     "wof:name":"San Isidro",
     "wof:parent_id":421189013,
     "wof:placetype":"locality",

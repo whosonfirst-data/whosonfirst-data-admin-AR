@@ -20,7 +20,13 @@
     "name:ceb_x_preferred":[
         "Santa Florentina"
     ],
+    "name:deu_x_preferred":[
+        "Santa Florentina"
+    ],
     "name:eng_x_preferred":[
+        "Santa Florentina"
+    ],
+    "name:fra_x_preferred":[
         "Santa Florentina"
     ],
     "name:spa_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421169721,
-    "wof:lastmodified":1566588152,
+    "wof:lastmodified":1690850599,
     "wof:name":"Santa Florentina",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

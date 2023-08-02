@@ -75,6 +75,9 @@
     "name:oci_x_preferred":[
         "Abra Pampa"
     ],
+    "name:pol_x_preferred":[
+        "Abra Pampa"
+    ],
     "name:por_x_preferred":[
         "Abra Pampa"
     ],
@@ -88,6 +91,9 @@
         "Abra Pampa"
     ],
     "name:swe_x_preferred":[
+        "Abra Pampa"
+    ],
+    "name:tur_x_preferred":[
         "Abra Pampa"
     ],
     "name:ukr_x_preferred":[
@@ -226,7 +232,7 @@
         }
     ],
     "wof:id":1141906755,
-    "wof:lastmodified":1636502847,
+    "wof:lastmodified":1690850802,
     "wof:name":"Abra Pampa",
     "wof:parent_id":421185367,
     "wof:placetype":"locality",

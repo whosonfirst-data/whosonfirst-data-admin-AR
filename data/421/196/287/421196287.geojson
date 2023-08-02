@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "San Antonio de Areco"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03bd\u03c4\u03b5 \u0391\u03c1\u03ad\u03ba\u03bf"
+    ],
     "name:fra_x_preferred":[
         "San Antonio de Areco"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421196287,
-    "wof:lastmodified":1566588241,
+    "wof:lastmodified":1690850675,
     "wof:name":"San Antonio de Areco",
     "wof:parent_id":1108718093,
     "wof:placetype":"locality",

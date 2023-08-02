@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ap\u00f3stoles"
+    ],
     "name:ceb_x_preferred":[
         "Ap\u00f3stoles"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Ap\u00f3stoles"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0648\u0633\u062a\u0648\u0644\u0632"
     ],
     "name:fra_x_preferred":[
         "Ap\u00f3stoles"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421174033,
-    "wof:lastmodified":1566588182,
+    "wof:lastmodified":1690850628,
     "wof:name":"Ap\u00f3stoles",
     "wof:parent_id":1108718365,
     "wof:placetype":"locality",

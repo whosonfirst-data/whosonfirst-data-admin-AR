@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "El Colorado"
     ],
+    "name:dan_x_preferred":[
+        "El Colorado"
+    ],
     "name:deu_x_preferred":[
         "El Colorado"
     ],
@@ -27,6 +30,12 @@
         "El Colorado"
     ],
     "name:fra_x_preferred":[
+        "El Colorado"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e7\u05d5\u05dc\u05d5\u05e8\u05d3\u05d5"
+    ],
+    "name:ita_x_preferred":[
         "El Colorado"
     ],
     "name:jpn_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421167967,
-    "wof:lastmodified":1566588144,
+    "wof:lastmodified":1690850593,
     "wof:name":"El Colorado",
     "wof:parent_id":421200145,
     "wof:placetype":"locality",

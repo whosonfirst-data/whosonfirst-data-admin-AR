@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cafayate"
+    ],
     "name:ceb_x_preferred":[
         "Cafayate"
     ],
@@ -47,6 +50,9 @@
     "name:nld_x_preferred":[
         "Cafayate"
     ],
+    "name:pol_x_preferred":[
+        "Cafayate"
+    ],
     "name:por_x_preferred":[
         "Cafayate"
     ],
@@ -60,6 +66,9 @@
         "Cafayate"
     ],
     "name:swe_x_preferred":[
+        "Cafayate"
+    ],
+    "name:tur_x_preferred":[
         "Cafayate"
     ],
     "name:ukr_x_preferred":[
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":421167835,
-    "wof:lastmodified":1636502804,
+    "wof:lastmodified":1690850592,
     "wof:name":"Cafayate",
     "wof:parent_id":421197591,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cot\u00e9-Lai"
+    ],
     "name:eng_x_preferred":[
+        "Cote Lai"
+    ],
+    "name:fra_x_preferred":[
         "Cote Lai"
     ],
     "name:nld_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:spa_x_preferred":[
         "Cote Lai"
+    ],
+    "name:swe_x_preferred":[
+        "Cot\u00e9-Lai"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421199275,
-    "wof:lastmodified":1566588275,
+    "wof:lastmodified":1690850709,
     "wof:name":"Cot\u00e9-Lai",
     "wof:parent_id":1108718229,
     "wof:placetype":"locality",

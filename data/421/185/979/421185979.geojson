@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Carolina"
     ],
+    "name:por_x_preferred":[
+        "La Carolina"
+    ],
     "name:spa_x_preferred":[
         "La Carolina"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:und_x_variant":[
         "Carolina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u5229\u7d0d"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421185979,
-    "wof:lastmodified":1566588343,
+    "wof:lastmodified":1690850761,
     "wof:name":"La Carolina",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

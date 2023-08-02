@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Campo Grande"
+    ],
     "name:ceb_x_preferred":[
         "Campo Grande"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421166771,
-    "wof:lastmodified":1566588116,
+    "wof:lastmodified":1690850563,
     "wof:name":"Campo Grande",
     "wof:parent_id":421183163,
     "wof:placetype":"locality",

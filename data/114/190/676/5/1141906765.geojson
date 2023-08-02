@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.1833539242,-25.0833410453,-64.1833539242,-25.0833410453",
+    "geom:bbox":"-64.183354,-25.083341,-64.183354,-25.083341",
     "geom:latitude":-25.083341,
     "geom:longitude":-64.183354,
     "iso:country":"AR",
@@ -46,6 +46,9 @@
         "Joaqu\u00edn V. Gonz\u00e1lez"
     ],
     "name:swe_x_preferred":[
+        "Joaqu\u00edn V. Gonz\u00e1lez"
+    ],
+    "name:tur_x_preferred":[
         "Joaqu\u00edn V. Gonz\u00e1lez"
     ],
     "name:ukr_x_preferred":[
@@ -162,7 +165,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130635,
-    "wof:geomhash":"0687855cab249b2f46609b4cc56964dc",
+    "wof:geomhash":"ba89facd7938ea5bdaf3cd18a06922ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1141906765,
-    "wof:lastmodified":1566588573,
+    "wof:lastmodified":1690850807,
     "wof:name":"Joaquin V. Gonzalez",
     "wof:parent_id":421183903,
     "wof:placetype":"locality",
@@ -183,10 +186,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.18335392419743,
-    -25.08334104533128,
-    -64.18335392419743,
-    -25.08334104533128
+    -64.183354,
+    -25.083341,
+    -64.183354,
+    -25.083341
 ],
-  "geometry": {"coordinates":[-64.18335392419743,-25.08334104533128],"type":"Point"}
+  "geometry": {"coordinates":[-64.18335399999999,-25.083341],"type":"Point"}
 }

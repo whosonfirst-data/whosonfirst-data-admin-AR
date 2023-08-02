@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ceres"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09b0\u09c7\u09b8"
     ],
     "name:ceb_x_preferred":[
+        "Ceres"
+    ],
+    "name:deu_x_preferred":[
         "Ceres"
     ],
     "name:ell_x_preferred":[
@@ -54,6 +60,12 @@
         "\ucf00\ub808\uc2a4"
     ],
     "name:nld_x_preferred":[
+        "Ceres"
+    ],
+    "name:pol_x_preferred":[
+        "Ceres"
+    ],
+    "name:por_x_preferred":[
         "Ceres"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421204693,
-    "wof:lastmodified":1636502806,
+    "wof:lastmodified":1690850603,
     "wof:name":"Ceres",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

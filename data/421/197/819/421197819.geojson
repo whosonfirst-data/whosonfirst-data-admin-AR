@@ -29,6 +29,9 @@
     "name:pol_x_preferred":[
         "Quines"
     ],
+    "name:por_x_preferred":[
+        "Quines"
+    ],
     "name:spa_x_preferred":[
         "Quines"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421197819,
-    "wof:lastmodified":1566588271,
+    "wof:lastmodified":1690850704,
     "wof:name":"Quines",
     "wof:parent_id":421171473,
     "wof:placetype":"locality",

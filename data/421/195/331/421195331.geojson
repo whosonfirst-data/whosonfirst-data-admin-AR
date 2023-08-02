@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Roca"
+    ],
     "name:eng_x_preferred":[
         "General Roca"
     ],
@@ -27,6 +30,9 @@
         "General Roca"
     ],
     "name:spa_x_preferred":[
+        "General Roca"
+    ],
+    "name:swe_x_preferred":[
         "General Roca"
     ],
     "name:ukr_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421195331,
-    "wof:lastmodified":1566588122,
+    "wof:lastmodified":1690850569,
     "wof:name":"General Roca",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

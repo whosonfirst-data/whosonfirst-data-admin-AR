@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0627\u0644\u062c\u0627\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Andalgal\u00e1"
+    ],
     "name:cat_x_preferred":[
         "Andalgal\u00e1"
     ],
@@ -66,6 +69,9 @@
         "Andalgal\u00e1"
     ],
     "name:swe_x_preferred":[
+        "Andalgal\u00e1"
+    ],
+    "name:tur_x_preferred":[
         "Andalgal\u00e1"
     ],
     "name:ukr_x_preferred":[
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421185229,
-    "wof:lastmodified":1566588342,
+    "wof:lastmodified":1690850760,
     "wof:name":"Andalgal\u00e1",
     "wof:parent_id":421203617,
     "wof:placetype":"locality",

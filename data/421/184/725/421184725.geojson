@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u064a\u0632 \u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Mu\u00f1iz"
+    ],
     "name:ceb_x_preferred":[
         "Mu\u00f1iz"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421184725,
-    "wof:lastmodified":1566588291,
+    "wof:lastmodified":1690850723,
     "wof:name":"Mu\u00f1iz",
     "wof:parent_id":1108718101,
     "wof:placetype":"locality",

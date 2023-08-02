@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Colonias Unidas"
     ],
+    "name:fra_x_preferred":[
+        "Colonias Unidas"
+    ],
     "name:nld_x_preferred":[
         "Colonias Unidas"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421195561,
-    "wof:lastmodified":1566588123,
+    "wof:lastmodified":1690850570,
     "wof:name":"Colonias Unidas",
     "wof:parent_id":1108718227,
     "wof:placetype":"locality",

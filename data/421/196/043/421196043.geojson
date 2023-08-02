@@ -119,6 +119,9 @@
     "name:jam_x_preferred":[
         "Monte Buey"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30fb\u30d6\u30a4\u30fc"
+    ],
     "name:kab_x_preferred":[
         "Monte Buey"
     ],
@@ -196,6 +199,9 @@
     ],
     "name:ron_x_preferred":[
         "Monte Buey"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435 \u0411\u0443\u044d\u0439"
     ],
     "name:scn_x_preferred":[
         "Monte Buey"
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":421196043,
-    "wof:lastmodified":1566588252,
+    "wof:lastmodified":1690850687,
     "wof:name":"Monte Buey",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

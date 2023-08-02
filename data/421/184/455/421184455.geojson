@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Villaguay"
+    ],
     "name:ceb_x_preferred":[
         "Villaguay"
     ],
@@ -60,6 +63,9 @@
         "Villaguay"
     ],
     "name:swe_x_preferred":[
+        "Villaguay"
+    ],
+    "name:tur_x_preferred":[
         "Villaguay"
     ],
     "name:ukr_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421184455,
-    "wof:lastmodified":1566588290,
+    "wof:lastmodified":1690850722,
     "wof:name":"Villaguay",
     "wof:parent_id":1108718259,
     "wof:placetype":"locality",

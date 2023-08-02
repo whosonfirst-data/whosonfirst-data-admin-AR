@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Alba Posse"
     ],
+    "name:tur_x_preferred":[
+        "Alba Posse"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u74e6\u6ce2\u585e"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421194797,
-    "wof:lastmodified":1566588135,
+    "wof:lastmodified":1690850584,
     "wof:name":"Alba Posse",
     "wof:parent_id":421204837,
     "wof:placetype":"locality",

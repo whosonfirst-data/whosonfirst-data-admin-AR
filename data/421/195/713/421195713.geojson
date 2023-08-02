@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Astra"
     ],
+    "name:fra_x_preferred":[
+        "Astra"
+    ],
     "name:nld_x_preferred":[
         "Astra"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421195713,
-    "wof:lastmodified":1566588127,
+    "wof:lastmodified":1690850575,
     "wof:name":"Astra",
     "wof:parent_id":421169779,
     "wof:placetype":"locality",

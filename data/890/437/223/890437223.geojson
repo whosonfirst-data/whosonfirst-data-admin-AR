@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u062f\u064a\u0633\u0627\u062f\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0648 \u062f\u064a\u0633\u0627\u062f\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Deseado"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u09a6\u09c7\u09b8\u09bf\u09a6\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Deseado"
     ],
     "name:ceb_x_preferred":[
         "Puerto Deseado"
@@ -37,11 +46,17 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0394\u03b5\u03c3\u03b5\u03ac\u03b4\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039d\u03c4\u03b5\u03c3\u03b5\u03ac\u03b4\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Puerto Deseado"
     ],
     "name:epo_x_preferred":[
         "Puerto Deseado"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u062f\u0633\u06cc\u0627\u062f\u0648"
     ],
     "name:fra_x_preferred":[
         "Puerto Deseado"
@@ -89,6 +104,12 @@
         "Puerto Deseado"
     ],
     "name:swe_x_preferred":[
+        "Puerto Deseado"
+    ],
+    "name:szl_x_preferred":[
+        "Puerto Deseado"
+    ],
+    "name:tur_x_preferred":[
         "Puerto Deseado"
     ],
     "name:ukr_x_preferred":[
@@ -239,7 +260,7 @@
         }
     ],
     "wof:id":890437223,
-    "wof:lastmodified":1636502829,
+    "wof:lastmodified":1690850778,
     "wof:name":"Puerto Deseado",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

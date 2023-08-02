@@ -49,6 +49,9 @@
     "name:nld_x_preferred":[
         "Cerro Azul"
     ],
+    "name:pol_x_preferred":[
+        "Cerro Azul"
+    ],
     "name:por_x_preferred":[
         "Cerro Azul"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890431315,
-    "wof:lastmodified":1566588358,
+    "wof:lastmodified":1690850779,
     "wof:name":"Cerro Azul",
     "wof:parent_id":1108718371,
     "wof:placetype":"locality",

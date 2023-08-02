@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ibicuy"
     ],
+    "name:fra_x_preferred":[
+        "Ibicuy"
+    ],
     "name:nld_x_preferred":[
         "Puerto Ibicuy"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421184791,
-    "wof:lastmodified":1566588290,
+    "wof:lastmodified":1690850721,
     "wof:name":"Puerto Ibicuy",
     "wof:parent_id":421171503,
     "wof:placetype":"locality",

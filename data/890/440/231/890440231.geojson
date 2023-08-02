@@ -31,6 +31,12 @@
     "name:oci_x_preferred":[
         "Chimpay"
     ],
+    "name:por_x_preferred":[
+        "Chimpay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u043f\u0430\u0439"
+    ],
     "name:spa_x_preferred":[
         "Chimpay"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890440231,
-    "wof:lastmodified":1566588351,
+    "wof:lastmodified":1690850769,
     "wof:name":"Chimpay",
     "wof:parent_id":1108718387,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Lima"
     ],
+    "name:fra_x_preferred":[
+        "Lima"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05de\u05d4"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421197553,
-    "wof:lastmodified":1636502819,
+    "wof:lastmodified":1690850706,
     "wof:name":"Lima",
     "wof:parent_id":1108718139,
     "wof:placetype":"locality",

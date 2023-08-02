@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Palo Santo"
     ],
+    "name:fra_x_preferred":[
+        "Palo Santo"
+    ],
     "name:ita_x_preferred":[
         "Palo Santo"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:nor_x_preferred":[
         "Palo santo"
+    ],
+    "name:pol_x_preferred":[
+        "Palo Santo"
     ],
     "name:por_x_preferred":[
         "Palo Santo"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421195463,
-    "wof:lastmodified":1566588127,
+    "wof:lastmodified":1690850574,
     "wof:name":"Palo Santo",
     "wof:parent_id":421200145,
     "wof:placetype":"locality",

@@ -44,6 +44,12 @@
     "name:spa_x_preferred":[
         "El T\u00edo"
     ],
+    "name:swe_x_preferred":[
+        "El T\u00edo"
+    ],
+    "name:uzb_x_preferred":[
+        "El Tio"
+    ],
     "name:zho_x_preferred":[
         "\u7926\u5751\u5927\u53d4"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421174645,
-    "wof:lastmodified":1566588174,
+    "wof:lastmodified":1690850619,
     "wof:name":"El T\u00edo",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

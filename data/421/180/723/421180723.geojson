@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0643\u0648\u0627\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0643\u0648\u0627\u0649"
+    ],
     "name:ast_x_preferred":[
         "Gualeguay"
     ],
@@ -102,6 +108,9 @@
         "Gualeguay"
     ],
     "name:swe_x_preferred":[
+        "Gualeguay"
+    ],
+    "name:tur_x_preferred":[
         "Gualeguay"
     ],
     "name:ukr_x_preferred":[
@@ -258,7 +267,7 @@
         }
     ],
     "wof:id":421180723,
-    "wof:lastmodified":1636502810,
+    "wof:lastmodified":1690850631,
     "wof:name":"Gualeguay",
     "wof:parent_id":421194439,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Pueblo Libertador"
     ],
+    "name:por_x_preferred":[
+        "Pueblo Libertador"
+    ],
     "name:spa_x_preferred":[
         "Pueblo Libertador"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421184793,
-    "wof:lastmodified":1566588292,
+    "wof:lastmodified":1690850724,
     "wof:name":"Pueblo Libertador",
     "wof:parent_id":421191007,
     "wof:placetype":"locality",

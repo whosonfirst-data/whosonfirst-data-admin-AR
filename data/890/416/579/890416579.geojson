@@ -49,6 +49,9 @@
     "name:swe_x_preferred":[
         "Sierra Colorada"
     ],
+    "name:tur_x_preferred":[
+        "Sierra Colorada"
+    ],
     "name:und_x_variant":[
         "Sierra Colorado"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890416579,
-    "wof:lastmodified":1566588363,
+    "wof:lastmodified":1690850786,
     "wof:name":"Sierra Colorada",
     "wof:parent_id":421184329,
     "wof:placetype":"locality",

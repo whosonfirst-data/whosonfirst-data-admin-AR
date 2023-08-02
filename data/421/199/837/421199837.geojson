@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "El Hoyo"
     ],
+    "name:por_x_preferred":[
+        "El Hoyo"
+    ],
     "name:spa_x_preferred":[
         "El Hoyo"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421199837,
-    "wof:lastmodified":1566588278,
+    "wof:lastmodified":1690850711,
     "wof:name":"Hoyo de Epuy\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

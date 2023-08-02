@@ -50,6 +50,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041a\u0443\u043c\u0431\u0440\u0435"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u574e\u8c9d\u5229"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3851798,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421195645,
-    "wof:lastmodified":1566588125,
+    "wof:lastmodified":1690850573,
     "wof:name":"La Cumbre",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

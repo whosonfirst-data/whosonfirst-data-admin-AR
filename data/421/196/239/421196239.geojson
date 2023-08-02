@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Malarg\u00fce"
+    ],
     "name:ces_x_preferred":[
         "Malarg\u00fce"
     ],
@@ -29,8 +32,14 @@
     "name:eng_x_preferred":[
         "Malarg\u00fce"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0631\u06af\u0648\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Malarg\u00fce"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05e8\u05d2\u05d5\u05d0\u05d4"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30e9\u30eb\u30b2"
@@ -51,6 +60,9 @@
         "El Cruce"
     ],
     "name:spa_x_variant":[
+        "Malarg\u00fce"
+    ],
+    "name:tur_x_preferred":[
         "Malarg\u00fce"
     ],
     "name:ukr_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421196239,
-    "wof:lastmodified":1566588254,
+    "wof:lastmodified":1690850689,
     "wof:name":"Malarg\u00fce",
     "wof:parent_id":421188043,
     "wof:placetype":"locality",

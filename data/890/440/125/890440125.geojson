@@ -148,6 +148,9 @@
     "name:zho_x_preferred":[
         "\u963f\u59c6\u65af\u7279\u6717"
     ],
+    "name:zho_x_variant":[
+        "\u963f\u59c6\u65af\u58ef"
+    ],
     "qs:name":"Armstrong",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":890440125,
-    "wof:lastmodified":1566588352,
+    "wof:lastmodified":1690850770,
     "wof:name":"Armstrong",
     "wof:parent_id":1108718449,
     "wof:placetype":"locality",

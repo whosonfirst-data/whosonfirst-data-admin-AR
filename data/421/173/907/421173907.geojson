@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0648 \u062f\u064a\u0644 \u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0633\u0648 \u062f\u064a\u0644 \u0631\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0627\u0633\u0648 \u062f\u0644 \u0631\u06cc"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421173907,
-    "wof:lastmodified":1566588190,
+    "wof:lastmodified":1690850633,
     "wof:name":"Paso del Rey",
     "wof:parent_id":1108718031,
     "wof:placetype":"locality",

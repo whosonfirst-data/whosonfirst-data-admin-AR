@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b8 \u09b2\u09be\u099c\u09be\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Las Lajas"
+    ],
     "name:deu_x_preferred":[
         "Las Lajas"
     ],
@@ -85,6 +88,9 @@
         "Las Lajas"
     ],
     "name:swe_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:tur_x_preferred":[
         "Las Lajas"
     ],
     "name:ukr_x_preferred":[
@@ -223,7 +229,7 @@
         }
     ],
     "wof:id":1141908053,
-    "wof:lastmodified":1636502850,
+    "wof:lastmodified":1690850806,
     "wof:name":"Las Lajas",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "El Volc\u00e1n"
     ],
+    "name:por_x_preferred":[
+        "El Volc\u00e1n"
+    ],
     "name:spa_x_preferred":[
         "Cerro El Volc\u00e1n"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421204325,
-    "wof:lastmodified":1566588157,
+    "wof:lastmodified":1690850604,
     "wof:name":"El Volc\u00e1n",
     "wof:parent_id":1108718445,
     "wof:placetype":"locality",

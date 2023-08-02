@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0631\u0648\u0633\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0633\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Rawson"
+    ],
     "name:aym_x_preferred":[
         "Rawson"
     ],
@@ -95,6 +101,9 @@
         "\u0930\u0949\u0938\u0928"
     ],
     "name:hrv_x_preferred":[
+        "Rawson"
+    ],
+    "name:hun_x_preferred":[
         "Rawson"
     ],
     "name:hye_x_preferred":[
@@ -363,7 +372,7 @@
         }
     ],
     "wof:id":890440195,
-    "wof:lastmodified":1566588348,
+    "wof:lastmodified":1690850765,
     "wof:name":"Rawson",
     "wof:parent_id":421172183,
     "wof:placetype":"locality",

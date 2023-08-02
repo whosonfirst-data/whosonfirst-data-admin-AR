@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Campo Quijano"
     ],
+    "name:eus_x_preferred":[
+        "Campo Quijano"
+    ],
     "name:fra_x_preferred":[
         "Campo Quijano"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421183837,
-    "wof:lastmodified":1566588309,
+    "wof:lastmodified":1690850736,
     "wof:name":"Campo Quijano",
     "wof:parent_id":421180301,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Lago Epuy\u00e9n"
     ],
+    "name:fra_x_preferred":[
+        "Lago Epuy\u00e9n"
+    ],
     "name:spa_x_preferred":[
         "Lago Epuy\u00e9n"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421183875,
-    "wof:lastmodified":1566588306,
+    "wof:lastmodified":1690850735,
     "wof:name":"Lago Epuyen",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

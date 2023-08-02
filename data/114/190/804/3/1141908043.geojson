@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b2\u09b8\u09c7\u09a8"
     ],
+    "name:cym_x_preferred":[
+        "Telsen"
+    ],
     "name:deu_x_preferred":[
         "Telsen"
     ],
@@ -82,6 +85,9 @@
         "Telsen"
     ],
     "name:swe_x_preferred":[
+        "Telsen"
+    ],
+    "name:tur_x_preferred":[
         "Telsen"
     ],
     "name:ukr_x_preferred":[
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":1141908043,
-    "wof:lastmodified":1636502850,
+    "wof:lastmodified":1690850806,
     "wof:name":"Telsen",
     "wof:parent_id":1108718241,
     "wof:placetype":"locality",
