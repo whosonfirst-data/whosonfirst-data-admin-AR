@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Totoras"
     ],
+    "name:ita_x_preferred":[
+        "Totoras"
+    ],
     "name:nld_x_preferred":[
         "Totoras"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421191933,
-    "wof:lastmodified":1566588265,
+    "wof:lastmodified":1690850699,
     "wof:name":"Totoras",
     "wof:parent_id":421203251,
     "wof:placetype":"locality",

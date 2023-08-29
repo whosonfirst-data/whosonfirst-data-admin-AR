@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Ezpeleta"
     ],
+    "name:pol_x_preferred":[
+        "Ezpeleta"
+    ],
     "name:por_x_preferred":[
         "Ezpeleta"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421186479,
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1690850649,
     "wof:name":"Ezpeleta",
     "wof:parent_id":1108718067,
     "wof:placetype":"locality",

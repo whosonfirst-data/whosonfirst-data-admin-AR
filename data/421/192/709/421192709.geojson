@@ -44,6 +44,9 @@
     "name:und_x_variant":[
         "V. Casares"
     ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u68ee\u7279\u00b7\u5361\u8428\u96f7\u65af"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3427506,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421192709,
-    "wof:lastmodified":1566588119,
+    "wof:lastmodified":1690850566,
     "wof:name":"Vicente Casares",
     "wof:parent_id":1108717887,
     "wof:placetype":"locality",

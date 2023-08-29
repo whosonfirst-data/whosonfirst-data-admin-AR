@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quilino"
+    ],
     "name:eng_x_preferred":[
         "Quilino"
     ],
@@ -27,6 +30,9 @@
         "Quilino"
     ],
     "name:spa_x_preferred":[
+        "Quilino"
+    ],
+    "name:swe_x_preferred":[
         "Quilino"
     ],
     "name:ukr_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421174249,
-    "wof:lastmodified":1566588180,
+    "wof:lastmodified":1690850626,
     "wof:name":"Quilino",
     "wof:parent_id":421204057,
     "wof:placetype":"locality",

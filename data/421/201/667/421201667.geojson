@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Itat\u00ed"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062a\u0627\u062a\u0626\u06cc"
+    ],
     "name:fra_x_preferred":[
         "D\u00e9partement d'Itat\u00ed"
     ],
@@ -66,6 +69,9 @@
         "Itat\u00ed"
     ],
     "name:swe_x_preferred":[
+        "Itat\u00ed"
+    ],
+    "name:tur_x_preferred":[
         "Itat\u00ed"
     ],
     "name:ukr_x_preferred":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421201667,
-    "wof:lastmodified":1566588286,
+    "wof:lastmodified":1690850718,
     "wof:name":"Ramada Paso",
     "wof:parent_id":421185417,
     "wof:placetype":"locality",

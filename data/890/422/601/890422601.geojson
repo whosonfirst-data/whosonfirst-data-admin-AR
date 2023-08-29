@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "La Eduvigis"
     ],
+    "name:fra_x_preferred":[
+        "La Eduvigis"
+    ],
     "name:nld_x_preferred":[
         "La Eduvigis"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890422601,
-    "wof:lastmodified":1566588352,
+    "wof:lastmodified":1690850771,
     "wof:name":"La Eduvigis",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

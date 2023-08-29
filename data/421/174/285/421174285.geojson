@@ -47,16 +47,25 @@
     "name:ang_x_preferred":[
         "Buenos Aires"
     ],
+    "name:anp_x_preferred":[
+        "\u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633"
     ],
     "name:arg_x_preferred":[
         "Buenos Aires"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u0648\u0633 \u0623\u064a\u0631\u0633"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0648\u0633 \u0627\u064a\u0631\u064a\u0633"
     ],
     "name:ast_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:avk_x_preferred":[
         "Buenos Aires"
     ],
     "name:aym_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:bam_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:ban_x_preferred":[
+        "Bu\u00e9nos Air\u00e9s"
     ],
     "name:bar_x_preferred":[
         "Buenos Aires"
@@ -128,6 +140,9 @@
     "name:che_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
+    "name:chv_x_preferred":[
+        "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+    ],
     "name:chy_x_preferred":[
         "Buenos Aires"
     ],
@@ -147,6 +162,9 @@
         "Buenos Ayres"
     ],
     "name:cym_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:dag_x_preferred":[
         "Buenos Aires"
     ],
     "name:dan_x_preferred":[
@@ -170,6 +188,9 @@
     "name:ell_x_variant":[
         "\u039c\u03c0\u03bf\u03c5\u03ad\u03bd\u03bf\u03c2 \u0386\u03b9\u03c1\u03b5\u03c2"
     ],
+    "name:eml_x_preferred":[
+        "Buenux\u00e2ires"
+    ],
     "name:eng_x_preferred":[
         "Buenos Aires"
     ],
@@ -180,6 +201,9 @@
         "Buenos Aires"
     ],
     "name:eus_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:ewe_x_preferred":[
         "Buenos Aires"
     ],
     "name:ext_x_preferred":[
@@ -230,8 +254,20 @@
     "name:got_x_preferred":[
         "\ud800\udf31\ud800\udf3f\ud800\udf34\ud800\udf3d\ud800\udf30\ud800\udf3f\ud800\udf43 \ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf34\ud800\udf43"
     ],
+    "name:gpe_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:grc_x_preferred":[
+        "\u0395\u1f50\u03b1\u03b5\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:gsw_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0aaf\u0ac1\u0aa8\u0acb\u0ab8 \u0a8f\u0ab0\u0ac7\u0ab8"
     ],
     "name:hak_x_preferred":[
         "Buenos Aires"
@@ -268,6 +304,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0565\u0576\u0578\u057d \u0531\u0575\u0580\u0565\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0578\u0582\u0567\u0576\u0578\u057d \u0531\u0575\u0580\u0565\u057d"
     ],
     "name:ido_x_preferred":[
         "Buenos Aires"
@@ -325,6 +364,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441 \u0410\u0439\u0440\u0435\u0441"
+    ],
+    "name:kbd_x_variant":[
+        "\u0411\u0443\u044d\u043d\u043e\u0441 \u0410\u0438\u0440\u044d\u0441"
     ],
     "name:kbp_x_preferred":[
         "Puyenez\u025br\u0269"
@@ -386,6 +428,9 @@
     "name:ltz_x_preferred":[
         "Buenos Aires"
     ],
+    "name:lzh_x_preferred":[
+        "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
+    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d2f\u0d42\u0d23\u0d38\u0d4d \u0d05\u0d2f\u0d47\u0d34\u0d4d\u0d38\u0d4d"
     ],
@@ -394,6 +439,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u090f\u0928\u094b\u0938 \u0906\u0907\u0930\u0947\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u044d\u0441"
     ],
     "name:min_x_preferred":[
         "Buenos Aires"
@@ -407,6 +455,9 @@
     "name:mlt_x_preferred":[
         "Buenos Aires"
     ],
+    "name:mni_x_preferred":[
+        "\uabd5\uabe8\uabcf\uabc5\uabe3\uabc1 \uabd1\uabe9\uabd4\uabe6\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
@@ -419,20 +470,38 @@
     "name:mwl_x_preferred":[
         "Buonos Aires"
     ],
+    "name:mwl_x_variant":[
+        "Buenos Aires"
+    ],
     "name:mya_x_preferred":[
         "\u1017\u103b\u1030\u1014\u102d\u102f\u1021\u1031\u1038\u101b\u102d\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441 \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u0633 \u0622\u06cc\u0631\u0633"
+    ],
     "name:nah_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:nan_x_preferred":[
         "Buenos Aires"
     ],
     "name:nap_x_preferred":[
         "Buenos Aires"
     ],
+    "name:nav_x_preferred":[
+        "N\u00ed\u0142ch\u02bci Y\u00e1\u02bc\u00e1daat\u02bc\u00e9ehii"
+    ],
+    "name:nds_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:nep_x_preferred":[
         "\u092c\u0941\u092f\u0947\u0928\u094b\u0938 \u0906\u0907\u0930\u0947\u0938"
+    ],
+    "name:nep_x_variant":[
+        "\u092c\u094d\u092f\u0942\u0928\u0938 \u0906\u092f\u0930\u094d\u0938"
     ],
     "name:new_x_preferred":[
         "\u092c\u0941\u092f\u0928\u094b\u0938 \u0906\u092f\u0930\u0947\u0938"
@@ -443,7 +512,13 @@
     "name:nno_x_preferred":[
         "Buenos Aires"
     ],
+    "name:nob_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:nor_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:nov_x_preferred":[
         "Buenos Aires"
     ],
     "name:nrm_x_preferred":[
@@ -494,7 +569,13 @@
     "name:pus_x_preferred":[
         "\u0628\u0648\u06cc\u0646\u0633 \u0622\u06cc\u0631\u0633"
     ],
+    "name:pus_x_variant":[
+        "\u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u064a\u0631\u0632"
+    ],
     "name:que_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:rmf_x_preferred":[
         "Buenos Aires"
     ],
     "name:rmy_x_preferred":[
@@ -512,11 +593,17 @@
     "name:run_x_preferred":[
         "Buenos Aires"
     ],
+    "name:rup_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
     "name:sah_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441 \u0410\u0439\u0440\u0435\u0441"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c69\u1c6d\u1c6e\u1c71\u1c73\u1c65 \u1c5f\u1c6d\u1c68\u1c6e\u1c65"
     ],
     "name:scn_x_preferred":[
         "Buenos Aires"
@@ -524,10 +611,25 @@
     "name:sco_x_preferred":[
         "Buenos Aires"
     ],
+    "name:sgs_x_preferred":[
+        "Buenas Air\u0113s"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0dc0\u0db1\u0ddc\u0dc3\u0dca \u0d85\u0dba\u0dd2\u0dbb\u0dd3\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Buenos Aires"
     ],
     "name:slv_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:sme_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:smn_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:sms_x_preferred":[
         "Buenos Aires"
     ],
     "name:sna_x_preferred":[
@@ -586,6 +688,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c2f\u0c42\u0c28\u0c38\u0c4d \u0c0f\u0c30\u0c40\u0c38\u0c4d"
+    ],
     "name:tet_x_preferred":[
         "Buenos Aires"
     ],
@@ -601,11 +706,17 @@
     "name:tuk_x_preferred":[
         "Buenos-A\u00fdres"
     ],
+    "name:tum_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:tur_x_preferred":[
         "Buenos Aires"
     ],
     "name:twi_x_preferred":[
         "Buen\u0254s Aires"
+    ],
+    "name:twi_x_variant":[
+        "Buenos Aires"
     ],
     "name:udm_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
@@ -634,6 +745,9 @@
     "name:vol_x_preferred":[
         "Buenos Aires"
     ],
+    "name:vro_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:war_x_preferred":[
         "Buenos Aires"
     ],
@@ -648,6 +762,9 @@
     ],
     "name:yor_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
     ],
     "name:zea_x_preferred":[
         "Buenos Aires"
@@ -815,7 +932,7 @@
         }
     ],
     "wof:id":421174285,
-    "wof:lastmodified":1617130606,
+    "wof:lastmodified":1690850626,
     "wof:megacity":1,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85668081,

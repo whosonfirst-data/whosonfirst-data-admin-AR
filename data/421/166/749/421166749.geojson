@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Sierras Bayas"
     ],
+    "name:fra_x_preferred":[
+        "Sierras Bayas"
+    ],
     "name:nld_x_preferred":[
         "Sierras Bayas"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421166749,
-    "wof:lastmodified":1566588116,
+    "wof:lastmodified":1690850564,
     "wof:name":"Sierras Bayas",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

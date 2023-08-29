@@ -26,7 +26,13 @@
     "name:fra_x_preferred":[
         "Laguna Blanca"
     ],
+    "name:ita_x_preferred":[
+        "Laguna Blanca"
+    ],
     "name:nld_x_preferred":[
+        "Laguna Blanca"
+    ],
+    "name:pol_x_preferred":[
         "Laguna Blanca"
     ],
     "name:por_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421196293,
-    "wof:lastmodified":1566588244,
+    "wof:lastmodified":1690850678,
     "wof:name":"Laguna Blanca",
     "wof:parent_id":1108718273,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Bajo Caracoles"
     ],
+    "name:cat_x_preferred":[
+        "Bajo Caracoles"
+    ],
     "name:eng_x_preferred":[
         "Bajo Caracoles"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421202713,
-    "wof:lastmodified":1566588169,
+    "wof:lastmodified":1690850613,
     "wof:name":"Bajo de Los Caracoles",
     "wof:parent_id":421198477,
     "wof:placetype":"locality",

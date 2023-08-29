@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0648\u0633 \u0645\u064a\u062e\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0645\u0648\u0633 \u0645\u064a\u062e\u064a\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u0648\u0633 \u0645\u062e\u06cc\u0627"
     ],
@@ -33,6 +36,9 @@
         "Ramos Mej\u00eda"
     ],
     "name:dan_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:deu_x_preferred":[
         "Ramos Mej\u00eda"
     ],
     "name:ell_x_preferred":[
@@ -51,6 +57,9 @@
         "Ramos Mej\u00eda"
     ],
     "name:fra_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
+    "name:gle_x_preferred":[
         "Ramos Mej\u00eda"
     ],
     "name:glg_x_preferred":[
@@ -128,14 +137,23 @@
     "name:swe_x_preferred":[
         "Ramos Mej\u00eda"
     ],
+    "name:szl_x_preferred":[
+        "Ramos Mej\u00eda"
+    ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bbe\u0bae\u0bcb\u0bb8\u0bcd \u0bae\u0bc6\u0b9c\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043c\u043e\u0441-\u041c\u0435\u0445\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c3e\u0c2e\u0c4b\u0c38\u0c4d \u0c2e\u0c46\u0c1c\u0c3f\u0c2f\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e21\u0e2d\u0e2a \u0e40\u0e21\u0e04\u0e34\u0e2d\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e32\u0e42\u0e21\u0e2a \u0e40\u0e21\u0e06\u0e34\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Ramos Mejaio"
@@ -148,6 +166,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645\u0648\u0633 \u0645\u06cc\u062c\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Ramos Mej\u00eda"
     ],
     "name:vie_x_preferred":[
         "Ramos Mejia"
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":421191539,
-    "wof:lastmodified":1566588263,
+    "wof:lastmodified":1690850698,
     "wof:name":"Ramos Mej\u00eda",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

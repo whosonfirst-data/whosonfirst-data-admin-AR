@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Justo Daract"
     ],
+    "name:por_x_preferred":[
+        "Justo Daract"
+    ],
     "name:spa_x_preferred":[
         "Justo Daract"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421195985,
-    "wof:lastmodified":1566588128,
+    "wof:lastmodified":1690850576,
     "wof:name":"Justo Daract",
     "wof:parent_id":421203353,
     "wof:placetype":"locality",

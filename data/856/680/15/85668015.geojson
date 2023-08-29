@@ -51,6 +51,9 @@
     "name:azb_x_preferred":[
         "\u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Buenos-Ayres \u0259yal\u0259ti"
+    ],
     "name:bar_x_preferred":[
         "Provinz Buenos Aires"
     ],
@@ -103,8 +106,14 @@
     "name:eng_x_unknown":[
         "BR"
     ],
+    "name:eng_x_variant":[
+        "Buenos Aires Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Bonaero"
+    ],
+    "name:epo_x_variant":[
+        "Bonaero"
     ],
     "name:est_x_preferred":[
         "Buenos Airese provints"
@@ -112,17 +121,24 @@
     "name:eus_x_preferred":[
         "Buenos Airesko probintzia"
     ],
+    "name:eus_x_variant":[
+        "Buenos Aires probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633",
+        "\u0628\u0648\u0626\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
     ],
     "name:fin_x_preferred":[
         "Buenos Airesin maakunta"
     ],
     "name:fra_x_preferred":[
         "Buenos Aires"
+    ],
+    "name:frr_x_preferred":[
+        "Prowins Buenos Aires"
     ],
     "name:glg_x_preferred":[
         "Provincia de Bos Aires"
@@ -131,7 +147,8 @@
         "Buenos Aires Tet\u00e3mini"
     ],
     "name:grn_x_variant":[
-        "Tet\u00e3vore Buenos Aires"
+        "Tet\u00e3vore Buenos Aires",
+        "Tet\u00e3vore Vuenos\u00e1ire"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0aaf\u0ac1\u0aa8\u0acb\u0ab8 \u0a8f\u0ab0\u0ac7\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -194,7 +211,8 @@
         "Bona\u00ebropolis"
     ],
     "name:lat_x_variant":[
-        "Bonus A\u00ebr"
+        "Bonus A\u00ebr",
+        "Provincia Bona\u00ebropolitana"
     ],
     "name:lav_x_preferred":[
         "Buenosairesas province"
@@ -259,6 +277,9 @@
     "name:ron_x_preferred":[
         "Provincia Buenos Aires"
     ],
+    "name:ron_x_variant":[
+        "Buenos Aires"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
@@ -293,6 +314,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0b8f\u0ba9\u0bcb\u0bb8\u0bcd \u0b90\u0bb0\u0bbf\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0b8f\u0ba9\u0bcb\u0bb8\u0bcd \u0b90\u0bb0\u0bbf\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u0443\u0439\u043d\u044b\u0441-\u0410\u0439\u0440\u044b\u0441"
     ],
@@ -322,6 +346,9 @@
     ],
     "name:vec_x_preferred":[
         "Provincia de Buenos Aires"
+    ],
+    "name:vec_x_variant":[
+        "Buenos Aires Province"
     ],
     "name:vie_x_preferred":[
         "Buenos Aires"
@@ -466,7 +493,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614808610,
+    "wof:lastmodified":1690850549,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

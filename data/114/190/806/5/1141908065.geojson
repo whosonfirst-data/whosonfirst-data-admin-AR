@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09b0\u09b0\u09c7\u0997\u09c1\u09df\u09c7\u0987\u09b0\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Darregueira"
+    ],
     "name:deu_x_preferred":[
         "Darregueira"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1141908065,
-    "wof:lastmodified":1636502854,
+    "wof:lastmodified":1690850812,
     "wof:name":"Darregueira",
     "wof:parent_id":1108718063,
     "wof:placetype":"locality",

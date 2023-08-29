@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0644\u064a\u0633\u064a\u062a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0644\u064a\u0633\u064a\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Chilecito"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u0644\u0633\u06cc\u062a\u0648"
     ],
@@ -77,6 +83,9 @@
     "name:lit_x_preferred":[
         "\u010cilesitas"
     ],
+    "name:mlg_x_preferred":[
+        "Chilecito"
+    ],
     "name:nld_x_preferred":[
         "Chilecito"
     ],
@@ -93,6 +102,9 @@
         "Chilecito"
     ],
     "name:swe_x_preferred":[
+        "Chilecito"
+    ],
+    "name:tur_x_preferred":[
         "Chilecito"
     ],
     "name:ukr_x_preferred":[
@@ -258,7 +270,7 @@
         }
     ],
     "wof:id":421172041,
-    "wof:lastmodified":1636502812,
+    "wof:lastmodified":1690850642,
     "wof:name":"Chilecito",
     "wof:parent_id":421202261,
     "wof:placetype":"locality",

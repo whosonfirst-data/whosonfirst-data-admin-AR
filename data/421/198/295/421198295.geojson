@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Chimbas"
     ],
+    "name:ceb_x_preferred":[
+        "Chimbas"
+    ],
     "name:ces_x_preferred":[
         "Chimbas"
     ],
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":421198295,
-    "wof:lastmodified":1566588231,
+    "wof:lastmodified":1690850665,
     "wof:name":"Chimbas",
     "wof:parent_id":421184501,
     "wof:placetype":"locality",

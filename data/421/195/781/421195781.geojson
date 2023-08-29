@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u063a \u062a\u0634\u0627\u0645\u0628\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0646\u062c \u062a\u0634\u0627\u0645\u0628\u0632"
+    ],
     "name:ceb_x_preferred":[
         "Longchamps"
     ],
     "name:eng_x_preferred":[
         "Longchamps"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0686\u0645\u067e\u0632"
     ],
     "name:fra_x_preferred":[
         "Longchamps"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421195781,
-    "wof:lastmodified":1566588134,
+    "wof:lastmodified":1690850583,
     "wof:name":"Longchamps",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

@@ -59,6 +59,9 @@
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Governor Francisco Gabrielli"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u043e \u0413\u0430\u0431\u0440\u0438\u044d\u043b\u043b\u0438"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Gobernador Francisco Gabrielli"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102553673,
-    "wof:lastmodified":1566587597,
+    "wof:lastmodified":1690850527,
     "wof:name":"El Plumerillo Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

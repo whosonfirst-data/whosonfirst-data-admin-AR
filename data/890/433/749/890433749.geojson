@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Estanislao del Campo"
+    ],
     "name:ceb_x_preferred":[
         "Estanislao del Campo"
     ],
@@ -29,6 +32,9 @@
         "Estanislao del Campo"
     ],
     "name:epo_x_preferred":[
+        "Estanislao del Campo"
+    ],
+    "name:fra_x_preferred":[
         "Estanislao del Campo"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890433749,
-    "wof:lastmodified":1566588366,
+    "wof:lastmodified":1690850789,
     "wof:name":"Estanislao del Campo",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

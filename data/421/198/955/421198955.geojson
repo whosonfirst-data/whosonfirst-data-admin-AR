@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Coronel Dorrego"
+    ],
     "name:ceb_x_preferred":[
         "Coronel Dorrego"
     ],
     "name:eng_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:eus_x_preferred":[
         "Coronel Dorrego"
     ],
     "name:fra_x_preferred":[
@@ -39,6 +45,9 @@
         "Coronel Dorrego"
     ],
     "name:swe_x_preferred":[
+        "Coronel Dorrego"
+    ],
+    "name:tur_x_preferred":[
         "Coronel Dorrego"
     ],
     "name:ukr_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421198955,
-    "wof:lastmodified":1566588229,
+    "wof:lastmodified":1690850663,
     "wof:name":"Cnel Dorrego",
     "wof:parent_id":1108717905,
     "wof:placetype":"locality",

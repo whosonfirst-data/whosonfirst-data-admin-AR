@@ -29,6 +29,9 @@
     "name:bar_x_preferred":[
         "Pellegrini"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u0433\u0440\u044b\u043d\u0456"
+    ],
     "name:bos_x_preferred":[
         "Pellegrini"
     ],
@@ -133,6 +136,9 @@
     ],
     "name:kon_x_preferred":[
         "Pellegrini"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3a0\ub808\uadf8\ub9ac\ub2c8"
     ],
     "name:lat_x_preferred":[
         "Pellegrini"
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":421194003,
-    "wof:lastmodified":1566588138,
+    "wof:lastmodified":1690850586,
     "wof:name":"Pellegrini",
     "wof:parent_id":1108718049,
     "wof:placetype":"locality",

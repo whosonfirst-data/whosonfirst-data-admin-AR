@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
     "name:eng_x_preferred":[
         "Idiaz\u00e1bal"
     ],
@@ -30,6 +33,9 @@
         "Idiaz\u00e1bal"
     ],
     "name:spa_x_preferred":[
+        "Idiaz\u00e1bal"
+    ],
+    "name:swe_x_preferred":[
         "Idiaz\u00e1bal"
     ],
     "name:und_x_variant":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421196059,
-    "wof:lastmodified":1566588253,
+    "wof:lastmodified":1690850689,
     "wof:name":"Idiaz\u00e1bal",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

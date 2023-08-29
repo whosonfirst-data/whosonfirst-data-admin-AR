@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Federal"
+    ],
     "name:ceb_x_preferred":[
         "Federal"
     ],
@@ -29,6 +32,9 @@
     "name:nld_x_preferred":[
         "Federal"
     ],
+    "name:pol_x_preferred":[
+        "Federal"
+    ],
     "name:por_x_preferred":[
         "Federal"
     ],
@@ -39,6 +45,9 @@
         "Federal"
     ],
     "name:swe_x_preferred":[
+        "Federal"
+    ],
+    "name:tur_x_preferred":[
         "Federal"
     ],
     "name:ukr_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421195361,
-    "wof:lastmodified":1566588129,
+    "wof:lastmodified":1690850578,
     "wof:name":"Federal",
     "wof:parent_id":1108718247,
     "wof:placetype":"locality",

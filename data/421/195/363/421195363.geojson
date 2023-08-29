@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Chavarr\u00eda"
     ],
+    "name:eus_x_preferred":[
+        "Txabarria"
+    ],
     "name:ita_x_preferred":[
         "Chavarr\u00eda"
     ],
     "name:nld_x_preferred":[
+        "Chavarr\u00eda"
+    ],
+    "name:por_x_preferred":[
         "Chavarr\u00eda"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421195363,
-    "wof:lastmodified":1566588123,
+    "wof:lastmodified":1690850571,
     "wof:name":"Chavarr\u00eda",
     "wof:parent_id":421191017,
     "wof:placetype":"locality",

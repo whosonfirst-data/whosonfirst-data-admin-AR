@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Pintos"
     ],
+    "name:gle_x_preferred":[
+        "Pintos"
+    ],
     "name:ita_x_preferred":[
         "Pintos"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421192253,
-    "wof:lastmodified":1566588121,
+    "wof:lastmodified":1690850568,
     "wof:name":"Pintos",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

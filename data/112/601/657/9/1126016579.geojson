@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Avia Terai"
     ],
+    "name:fra_x_preferred":[
+        "Avi\u00e1 Tera\u00ed"
+    ],
     "name:por_x_preferred":[
         "Avia Terai"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1126016579,
-    "wof:lastmodified":1566588375,
+    "wof:lastmodified":1690850797,
     "wof:name":"Avi\u00e1 Terai",
     "wof:parent_id":421185059,
     "wof:placetype":"locality",

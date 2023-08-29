@@ -17,8 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Partido Rauch"
+    ],
     "name:eng_x_preferred":[
         "Rauch Partido"
+    ],
+    "name:eng_x_variant":[
+        "Rauch"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u0627\u0648\u0686"
     ],
     "name:fra_x_preferred":[
         "Rauch"
@@ -40,6 +49,9 @@
     ],
     "name:spa_x_preferred":[
         "Rauch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0443\u0447"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":421195467,
-    "wof:lastmodified":1566588133,
+    "wof:lastmodified":1690850581,
     "wof:name":"Rauch",
     "wof:parent_id":1108718071,
     "wof:placetype":"locality",

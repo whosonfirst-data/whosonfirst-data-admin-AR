@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Fitz Roy"
     ],
+    "name:por_x_preferred":[
+        "Fitz Roy"
+    ],
     "name:spa_x_preferred":[
         "Fitz Roy"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421202531,
-    "wof:lastmodified":1566588169,
+    "wof:lastmodified":1690850613,
     "wof:name":"Fitz Roy",
     "wof:parent_id":421204075,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:und_x_variant":[
         "Sagrado Temple"
     ],
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u5766\u666e\u5c14"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3835866,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421193793,
-    "wof:lastmodified":1566588141,
+    "wof:lastmodified":1690850589,
     "wof:name":"Santiago Temple",
     "wof:parent_id":421196953,
     "wof:placetype":"locality",

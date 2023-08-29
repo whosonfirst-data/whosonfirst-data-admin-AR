@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Hers\u00edlia"
     ],
+    "name:ceb_x_preferred":[
+        "Hersilia"
+    ],
     "name:deu_x_preferred":[
         "Hersilia"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421197521,
-    "wof:lastmodified":1566588272,
+    "wof:lastmodified":1690850705,
     "wof:name":"Hersilia",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

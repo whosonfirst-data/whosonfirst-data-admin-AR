@@ -48,10 +48,16 @@
     "name:eng_x_preferred":[
         "Flores"
     ],
+    "name:eus_x_preferred":[
+        "Flores"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0632"
     ],
     "name:fra_x_preferred":[
+        "Flores"
+    ],
+    "name:gle_x_preferred":[
         "Flores"
     ],
     "name:heb_x_preferred":[
@@ -101,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "Flores"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u96f7\u65af\u5340"
     ],
     "qs:gn_adm0_cc":"AR",
     "qs:gn_fcode":"PPLX",
@@ -185,7 +194,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1642549407,
+    "wof:lastmodified":1690850539,
     "wof:name":"Flores",
     "wof:parent_id":1109371863,
     "wof:placetype":"neighbourhood",

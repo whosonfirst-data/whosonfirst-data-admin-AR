@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Capit\u00e1n Solari"
     ],
+    "name:fra_x_preferred":[
+        "Capit\u00e1n Solari"
+    ],
     "name:nld_x_preferred":[
         "Capit\u00e1n Solari"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421183121,
-    "wof:lastmodified":1566588307,
+    "wof:lastmodified":1690850735,
     "wof:name":"Capit\u00e1n Solari",
     "wof:parent_id":1108718227,
     "wof:placetype":"locality",

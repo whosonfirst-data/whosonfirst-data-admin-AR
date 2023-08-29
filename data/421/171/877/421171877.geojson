@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Buenos Aires Chico"
     ],
+    "name:fra_x_preferred":[
+        "Buenos Aires Chico"
+    ],
     "name:nld_x_preferred":[
         "Buenos Aires Chico"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421171877,
-    "wof:lastmodified":1566588334,
+    "wof:lastmodified":1690850756,
     "wof:name":"Buenos Aires Chico",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

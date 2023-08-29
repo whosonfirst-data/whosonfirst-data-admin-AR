@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Ciervo Petiso"
     ],
+    "name:fra_x_preferred":[
+        "Ciervo Petiso"
+    ],
+    "name:por_x_preferred":[
+        "Ciervo Petiso"
+    ],
     "name:spa_x_preferred":[
         "Ciervo Petiso"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421173555,
-    "wof:lastmodified":1566588193,
+    "wof:lastmodified":1690850636,
     "wof:name":"Ciervo Petiso",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

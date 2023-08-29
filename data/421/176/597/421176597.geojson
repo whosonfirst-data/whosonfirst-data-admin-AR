@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Alumin\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Alumin\u00e9"
     ],
@@ -51,6 +54,9 @@
         "Alumin\u00e9"
     ],
     "name:swe_x_preferred":[
+        "Alumin\u00e9"
+    ],
+    "name:tur_x_preferred":[
         "Alumin\u00e9"
     ],
     "name:ukr_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421176597,
-    "wof:lastmodified":1566588321,
+    "wof:lastmodified":1690850749,
     "wof:name":"Alumin\u00e9",
     "wof:parent_id":421188059,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Caleuf\u00fa"
     ],
+    "name:fra_x_preferred":[
+        "Caleuf\u00fa"
+    ],
     "name:nld_x_preferred":[
         "Caleuf\u00fa"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890434677,
-    "wof:lastmodified":1566588365,
+    "wof:lastmodified":1690850789,
     "wof:name":"Caleuf\u00fa",
     "wof:parent_id":1108718315,
     "wof:placetype":"locality",

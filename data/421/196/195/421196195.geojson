@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "M\u00e9danos"
     ],
+    "name:dan_x_preferred":[
+        "M\u00e9danos"
+    ],
     "name:deu_x_preferred":[
         "M\u00e9danos"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u062f\u0648\u0646\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9danos"
     ],
     "name:nds_x_preferred":[
         "M\u00e9danos"
@@ -45,6 +51,9 @@
         "M\u00e9danos"
     ],
     "name:swe_x_preferred":[
+        "M\u00e9danos"
+    ],
+    "name:tur_x_preferred":[
         "M\u00e9danos"
     ],
     "name:ukr_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421196195,
-    "wof:lastmodified":1566588239,
+    "wof:lastmodified":1690850673,
     "wof:name":"M\u00e9danos",
     "wof:parent_id":1108718137,
     "wof:placetype":"locality",

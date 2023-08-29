@@ -96,7 +96,8 @@
         "Ciudad de Tupungato"
     ],
     "name:spa_x_variant":[
-        "Volc\u00e1n Tupungato"
+        "Volc\u00e1n Tupungato",
+        "Tupungato"
     ],
     "name:swe_x_preferred":[
         "Tupungato"
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421200991,
-    "wof:lastmodified":1566588280,
+    "wof:lastmodified":1690850713,
     "wof:name":"Tupungato",
     "wof:parent_id":421171271,
     "wof:placetype":"locality",

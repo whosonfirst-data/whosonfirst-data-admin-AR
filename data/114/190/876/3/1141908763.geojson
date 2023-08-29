@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.3200122494,-23.1399971326,-64.3200122494,-23.1399971326",
+    "geom:bbox":"-64.320012,-23.139997,-64.320012,-23.139997",
     "geom:latitude":-23.139997,
     "geom:longitude":-64.320012,
     "iso:country":"AR",
@@ -29,6 +29,9 @@
     ],
     "name:deu_x_preferred":[
         "San Ram\u00f3n de la Nueva Or\u00e1n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a1\u03b1\u03bc\u03cc\u03bd \u03bd\u03c4\u03b5 \u03bb\u03b1 \u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u039f\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "San Ram\u00f3n de la Nueva Or\u00e1n"
@@ -189,7 +192,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130972,
-    "wof:geomhash":"e4d14e19ca789dc0324b73164562b8bf",
+    "wof:geomhash":"ca7234d735977d6b5ec1b3e9c2d7e223",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":1141908763,
-    "wof:lastmodified":1566588574,
+    "wof:lastmodified":1690850809,
     "wof:name":"San Ramon de la Nueva Oran",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",
@@ -210,10 +213,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.32001224939324,
-    -23.13999713256317,
-    -64.32001224939324,
-    -23.13999713256317
+    -64.320012,
+    -23.139997,
+    -64.320012,
+    -23.139997
 ],
-  "geometry": {"coordinates":[-64.32001224939324,-23.13999713256317],"type":"Point"}
+  "geometry": {"coordinates":[-64.32001200000001,-23.139997],"type":"Point"}
 }

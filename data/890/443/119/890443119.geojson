@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Puertu Ricu"
     ],
+    "name:ast_x_variant":[
+        "Puerto Rico"
+    ],
     "name:aym_x_preferred":[
         "Burinkin"
     ],
@@ -517,7 +520,7 @@
         }
     ],
     "wof:id":890443119,
-    "wof:lastmodified":1636502830,
+    "wof:lastmodified":1690850783,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108718373,
     "wof:placetype":"locality",

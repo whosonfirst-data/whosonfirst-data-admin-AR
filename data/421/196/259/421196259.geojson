@@ -26,10 +26,19 @@
     "name:deu_x_preferred":[
         "Salto"
     ],
+    "name:deu_x_variant":[
+        "Salto / Buenos Aires"
+    ],
     "name:eng_x_preferred":[
         "Salto"
     ],
     "name:fra_x_preferred":[
+        "Salto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Salto"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +50,9 @@
     "name:pol_x_preferred":[
         "Salto"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u043e"
+    ],
     "name:slv_x_preferred":[
         "Salto"
     ],
@@ -48,6 +60,9 @@
         "Salto"
     ],
     "name:swe_x_preferred":[
+        "Salto"
+    ],
+    "name:tur_x_preferred":[
         "Salto"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":421196259,
-    "wof:lastmodified":1566588243,
+    "wof:lastmodified":1690850677,
     "wof:name":"Marcelino Ugarte",
     "wof:parent_id":1108718085,
     "wof:placetype":"locality",

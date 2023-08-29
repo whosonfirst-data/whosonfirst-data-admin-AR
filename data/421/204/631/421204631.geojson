@@ -35,8 +35,14 @@
     "name:ell_x_preferred":[
         "\u0392\u03af\u03bb\u03bb\u03b1 \u0393\u03ba\u03ad\u03c3\u03b5\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03af\u03b3\u03b9\u03b1 \u0393\u03ba\u03b5\u03c3\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Villa Gesell"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u06af\u0633\u0644"
     ],
     "name:fin_x_preferred":[
         "Villa Gesell"
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":421204631,
-    "wof:lastmodified":1566588162,
+    "wof:lastmodified":1690850609,
     "wof:name":"Villa Gesell",
     "wof:parent_id":1108718135,
     "wof:placetype":"locality",

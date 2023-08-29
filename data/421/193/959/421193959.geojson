@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u0645\u0648\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Jos\u00e9 M\u00e1rmol"
+    ],
     "name:cym_x_preferred":[
         "Jos\u00e9 M\u00e1rmol"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421193959,
-    "wof:lastmodified":1566588141,
+    "wof:lastmodified":1690850589,
     "wof:name":"Jos\u00e9 M\u00e1rmol",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Villa Hernandarias"
     ],
+    "name:fra_x_preferred":[
+        "Villa Hernandarias"
+    ],
     "name:nld_x_preferred":[
         "Villa Hernandarias"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126015545,
-    "wof:lastmodified":1566588376,
+    "wof:lastmodified":1690850798,
     "wof:name":"Villa Hernandarias",
     "wof:parent_id":421171467,
     "wof:placetype":"locality",

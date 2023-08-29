@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Comandante Nicanor Otamendi"
     ],
+    "name:fra_x_preferred":[
+        "Comandante Nicanor Otamendi"
+    ],
     "name:nld_x_preferred":[
         "Comandante Nicanor Otamendi"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421200597,
-    "wof:lastmodified":1566588282,
+    "wof:lastmodified":1690850715,
     "wof:name":"Comandante Nicanor Otamendi",
     "wof:parent_id":1108717939,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0411\u0430\u0437\u0438\u043b\u0438\u043e"
     ],
+    "name:swe_x_preferred":[
+        "San Basilio"
+    ],
     "name:tur_x_preferred":[
         "San Basilio"
     ],
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421199539,
-    "wof:lastmodified":1566588277,
+    "wof:lastmodified":1690850710,
     "wof:name":"San Basilio",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

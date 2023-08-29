@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
+    "name:eng_x_variant":[
+        "Jacinto Arauz"
+    ],
     "name:fra_x_preferred":[
         "Jacinto Ar\u00e1uz"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:spa_x_preferred":[
         "Jacinto Ar\u00e1uz"
+    ],
+    "name:spa_x_variant":[
+        "Jacinto Arauz"
     ],
     "name:swe_x_preferred":[
         "Jacinto Arauz"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421195081,
-    "wof:lastmodified":1566588132,
+    "wof:lastmodified":1690850581,
     "wof:name":"Jacinto Arauz",
     "wof:parent_id":421181665,
     "wof:placetype":"locality",

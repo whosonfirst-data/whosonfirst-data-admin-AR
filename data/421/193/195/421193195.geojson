@@ -47,6 +47,9 @@
     "name:oci_x_preferred":[
         "El Mait\u00e9n"
     ],
+    "name:pol_x_preferred":[
+        "El Mait\u00e9n"
+    ],
     "name:por_x_preferred":[
         "El Mait\u00e9n"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421193195,
-    "wof:lastmodified":1566588139,
+    "wof:lastmodified":1690850587,
     "wof:name":"El Mait\u00e9n",
     "wof:parent_id":421170125,
     "wof:placetype":"locality",

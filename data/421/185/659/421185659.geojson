@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
     "name:ceb_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:ces_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
     ],
     "name:deu_x_preferred":[
@@ -26,8 +32,14 @@
     "name:eng_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u0627 \u062f\u0644 \u0631\u06cc\u0648 \u0633\u0627\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d3\u05d4 \u05d3\u05dc \u05e8\u05d9\u05d5 \u05e1\u05d0\u05dc\u05d9"
     ],
     "name:ita_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
@@ -47,10 +59,16 @@
     "name:por_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
     ],
+    "name:slk_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
     ],
     "name:swe_x_preferred":[
+        "Banda del R\u00edo Sal\u00ed"
+    ],
+    "name:tur_x_preferred":[
         "Banda del R\u00edo Sal\u00ed"
     ],
     "name:ukr_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":421185659,
-    "wof:lastmodified":1566588343,
+    "wof:lastmodified":1690850761,
     "wof:name":"Banda del R\u00edo Sal\u00ed",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",

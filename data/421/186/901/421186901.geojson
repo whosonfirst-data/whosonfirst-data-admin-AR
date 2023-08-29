@@ -83,6 +83,9 @@
     "name:swe_x_preferred":[
         "Susques"
     ],
+    "name:tur_x_preferred":[
+        "Susques"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0441\u043a\u0435\u0441"
     ],
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421186901,
-    "wof:lastmodified":1636502813,
+    "wof:lastmodified":1690850648,
     "wof:name":"Susques",
     "wof:parent_id":421171265,
     "wof:placetype":"locality",

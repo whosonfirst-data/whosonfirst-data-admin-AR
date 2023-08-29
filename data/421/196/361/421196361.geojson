@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Colonia El\u00eda"
     ],
+    "name:fra_x_preferred":[
+        "Colonia El\u00eda"
+    ],
     "name:nld_x_preferred":[
         "Colonia El\u00eda"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421196361,
-    "wof:lastmodified":1566588248,
+    "wof:lastmodified":1690850682,
     "wof:name":"Colonia El\u00eda",
     "wof:parent_id":421198481,
     "wof:placetype":"locality",

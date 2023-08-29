@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -33,6 +36,12 @@
         "Santa Luc\u00eda"
     ],
     "name:spa_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:tur_x_preferred":[
         "Santa Luc\u00eda"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421183979,
-    "wof:lastmodified":1566588306,
+    "wof:lastmodified":1690850735,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":1108718431,
     "wof:placetype":"locality",

@@ -17,8 +17,14 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Partido General Viamonte"
+    ],
     "name:eng_x_preferred":[
         "General Viamonte Partido"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u062e\u0646\u0631\u0627\u0644 \u0648\u06cc\u0627\u0645\u0648\u0646\u062a"
     ],
     "name:fra_x_preferred":[
         "General Viamonte"
@@ -43,6 +49,9 @@
     ],
     "name:spa_x_preferred":[
         "General Viamonte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0412'\u044f\u043c\u043e\u043d\u0442\u0435"
     ],
     "name:und_x_variant":[
         "Los Toldos"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421166775,
-    "wof:lastmodified":1566588118,
+    "wof:lastmodified":1690850565,
     "wof:name":"Gral Viamonte",
     "wof:parent_id":1108717971,
     "wof:placetype":"locality",

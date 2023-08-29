@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Ticino"
     ],
+    "name:ceb_x_preferred":[
+        "Ticino"
+    ],
     "name:eng_x_preferred":[
         "Ticino"
     ],
@@ -32,6 +35,9 @@
         "\u091f\u093f\u0938\u093f\u0928\u094b"
     ],
     "name:ind_x_preferred":[
+        "Ticino"
+    ],
+    "name:ita_x_preferred":[
         "Ticino"
     ],
     "name:kor_x_preferred":[
@@ -46,6 +52,9 @@
     "name:spa_x_preferred":[
         "Ticino"
     ],
+    "name:swe_x_preferred":[
+        "Ticino"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0441\u0456\u043d\u043e"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Ticino"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u5951\u8bfa\u5dde"
     ],
     "qs:name":"Ticino",
     "qs:photos_9r":0,
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":890422937,
-    "wof:lastmodified":1636502828,
+    "wof:lastmodified":1690850770,
     "wof:name":"Ticino",
     "wof:parent_id":421186135,
     "wof:placetype":"locality",

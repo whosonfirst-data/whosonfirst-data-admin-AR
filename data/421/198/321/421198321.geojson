@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Balnearia"
     ],
+    "name:por_x_preferred":[
+        "Balnearia"
+    ],
     "name:spa_x_preferred":[
         "Balnearia"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421198321,
-    "wof:lastmodified":1566588238,
+    "wof:lastmodified":1690850672,
     "wof:name":"Balnearia",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

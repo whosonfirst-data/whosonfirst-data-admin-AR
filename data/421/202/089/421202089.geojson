@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u062e\u0648\u0633\u064a\u0647 \u0643. \u0628\u0627\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u0633\u064a\u0647 \u0633\u0649. \u0628\u0627\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0648\u0633\u0647 \u0633. \u067e\u0627\u0633"
     ],
@@ -41,6 +47,9 @@
     "name:ell_x_preferred":[
         "\u03a7\u03cc\u03c3\u03ad \u03a3\u03b5 \u03a0\u03b1\u03b6"
     ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c3\u03ad \u039a. \u03a0\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Jos\u00e9 C. Paz"
     ],
@@ -54,6 +63,9 @@
         "Jos\u00e9 C. Paz"
     ],
     "name:fra_x_preferred":[
+        "Jos\u00e9 C. Paz"
+    ],
+    "name:gle_x_preferred":[
         "Jos\u00e9 C. Paz"
     ],
     "name:guj_x_preferred":[
@@ -128,6 +140,9 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bcb\u0bb8\u0bcd \u0b9a\u0bbf. \u0baa\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u043ece-\u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0435-\u041f\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4b\u0c38\u0c4d \u0c38\u0c3f. \u0c2a\u0c3e\u0c1c\u0c4d"
     ],
@@ -142,6 +157,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0648\u0633\u06cc \u0633\u06cc . \u067e\u0627\u0632"
+    ],
+    "name:vec_x_preferred":[
+        "Jos\u00e9 C. Paz"
     ],
     "name:vie_x_preferred":[
         "Jose C. Paz"
@@ -193,7 +211,7 @@
         }
     ],
     "wof:id":421202089,
-    "wof:lastmodified":1566588169,
+    "wof:lastmodified":1690850614,
     "wof:name":"Jos\u00e9 C. Paz",
     "wof:parent_id":1108717985,
     "wof:placetype":"locality",

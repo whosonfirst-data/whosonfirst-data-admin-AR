@@ -53,6 +53,12 @@
     "name:ind_x_preferred":[
         "San Justo"
     ],
+    "name:ita_x_preferred":[
+        "San Justo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30b9\u30c8"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0 \ud6c4\uc2a4\ud1a0"
     ],
@@ -60,6 +66,9 @@
         "San Justo"
     ],
     "name:pol_x_preferred":[
+        "San Justo"
+    ],
+    "name:por_x_preferred":[
         "San Justo"
     ],
     "name:rus_x_preferred":[
@@ -232,7 +241,7 @@
         }
     ],
     "wof:id":421167803,
-    "wof:lastmodified":1636502804,
+    "wof:lastmodified":1690850592,
     "wof:name":"San Justo",
     "wof:parent_id":421171505,
     "wof:placetype":"locality",

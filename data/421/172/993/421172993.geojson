@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0627\u0628\u064a\u0643\u0648\u064a\u0646"
+    ],
     "name:aze_x_preferred":[
         "Villa Epekuyen"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Villa Epecu\u00e9n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627 \u0627\u067e\u06a9\u0648\u0626\u0646"
     ],
     "name:fra_x_preferred":[
         "Villa Epecu\u00e9n"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421172993,
-    "wof:lastmodified":1566588205,
+    "wof:lastmodified":1690850644,
     "wof:name":"Lago Epecu\u00e9n",
     "wof:parent_id":1108717849,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Congreso"
     ],
+    "name:fra_x_preferred":[
+        "Congreso"
+    ],
     "name:ita_x_preferred":[
         "Congreso"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Congreso"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fd\u4f1a\u7ad9"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPLX",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421171145,
-    "wof:lastmodified":1566588329,
+    "wof:lastmodified":1690850753,
     "wof:name":"Congreso",
     "wof:parent_id":1109371855,
     "wof:placetype":"neighbourhood",

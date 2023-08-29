@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Buena Esperanza"
     ],
+    "name:tur_x_preferred":[
+        "Buena Esperanza"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0435\u043d\u0430-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890429393,
-    "wof:lastmodified":1566588362,
+    "wof:lastmodified":1690850784,
     "wof:name":"Buena Esperanza",
     "wof:parent_id":1108718443,
     "wof:placetype":"locality",

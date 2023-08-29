@@ -41,6 +41,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d5\u05d9\u05d5 \u05e1\u05e7\u05d5"
     ],
+    "name:ita_x_preferred":[
+        "Arroyo Seco"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ed\u30fc\u30e8\u30fb\u30bb\u30b3"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421198283,
-    "wof:lastmodified":1566588235,
+    "wof:lastmodified":1690850669,
     "wof:name":"Arroyo Seco",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

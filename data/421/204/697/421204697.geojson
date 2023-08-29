@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "La Consulta"
     ],
+    "name:pol_x_preferred":[
+        "La Consulta"
+    ],
     "name:spa_x_preferred":[
         "La Consulta"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421204697,
-    "wof:lastmodified":1566588160,
+    "wof:lastmodified":1690850608,
     "wof:name":"La Consulta",
     "wof:parent_id":421195857,
     "wof:placetype":"locality",

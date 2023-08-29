@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Iruya"
     ],
+    "name:ita_x_preferred":[
+        "Iruya"
+    ],
     "name:lad_x_preferred":[
         "Iruya"
     ],
@@ -39,6 +42,9 @@
         "Iruya"
     ],
     "name:spa_x_preferred":[
+        "Iruya"
+    ],
+    "name:tur_x_preferred":[
         "Iruya"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421170103,
-    "wof:lastmodified":1566588295,
+    "wof:lastmodified":1690850727,
     "wof:name":"Iruya",
     "wof:parent_id":421171489,
     "wof:placetype":"locality",

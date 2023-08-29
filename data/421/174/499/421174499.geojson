@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Devoto"
+    ],
     "name:deu_x_preferred":[
         "Devoto"
     ],
@@ -39,6 +42,9 @@
         "Divotu"
     ],
     "name:spa_x_preferred":[
+        "Devoto"
+    ],
+    "name:swe_x_preferred":[
         "Devoto"
     ],
     "name:ukr_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421174499,
-    "wof:lastmodified":1566588176,
+    "wof:lastmodified":1690850621,
     "wof:name":"Devoto",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

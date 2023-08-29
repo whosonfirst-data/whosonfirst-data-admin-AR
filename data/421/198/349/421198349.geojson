@@ -23,7 +23,13 @@
     "name:ceb_x_preferred":[
         "Adelia Mar\u00eda"
     ],
+    "name:deu_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
     "name:eng_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:fra_x_preferred":[
         "Adelia Mar\u00eda"
     ],
     "name:glg_x_preferred":[
@@ -33,6 +39,9 @@
         "Adelia Mar\u00eda"
     ],
     "name:por_x_preferred":[
+        "Adelia Mar\u00eda"
+    ],
+    "name:sco_x_preferred":[
         "Adelia Mar\u00eda"
     ],
     "name:spa_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421198349,
-    "wof:lastmodified":1566588232,
+    "wof:lastmodified":1690850666,
     "wof:name":"Adelia Mar\u00eda",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

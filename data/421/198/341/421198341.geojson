@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Monte Caseros"
+    ],
     "name:ceb_x_preferred":[
         "Monte Caseros"
     ],
     "name:deu_x_preferred":[
         "Monte Caseros"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03c4\u03b5 \u039a\u03b1\u03c3\u03ad\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Monte Caseros"
@@ -47,10 +53,16 @@
     "name:por_x_preferred":[
         "Monte Caseros"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u041a\u0430\u0441\u0435\u0440\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Monte Caseros"
     ],
     "name:swe_x_preferred":[
+        "Monte Caseros"
+    ],
+    "name:tur_x_preferred":[
         "Monte Caseros"
     ],
     "name:ukr_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":421198341,
-    "wof:lastmodified":1566588232,
+    "wof:lastmodified":1690850665,
     "wof:name":"Monte Caseros",
     "wof:parent_id":421191013,
     "wof:placetype":"locality",

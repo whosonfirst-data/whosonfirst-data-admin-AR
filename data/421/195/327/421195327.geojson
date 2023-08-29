@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General San Mart\u00edn"
+    ],
     "name:eng_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:fra_x_preferred":[
         "General San Mart\u00edn"
     ],
     "name:nld_x_preferred":[
@@ -27,6 +33,9 @@
         "General San Mart\u00edn"
     ],
     "name:spa_x_preferred":[
+        "General San Mart\u00edn"
+    ],
+    "name:swe_x_preferred":[
         "General San Mart\u00edn"
     ],
     "name:ukr_x_preferred":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421195327,
-    "wof:lastmodified":1566588134,
+    "wof:lastmodified":1690850582,
     "wof:name":"General San Mart\u00edn",
     "wof:parent_id":421181665,
     "wof:placetype":"locality",

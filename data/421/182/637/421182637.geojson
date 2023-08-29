@@ -35,6 +35,12 @@
     "name:nld_x_preferred":[
         "Fraile Pintado"
     ],
+    "name:pol_x_preferred":[
+        "Fraile Pintado"
+    ],
+    "name:por_x_preferred":[
+        "Fraile Pintado"
+    ],
     "name:spa_x_preferred":[
         "Fraile Pintado"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421182637,
-    "wof:lastmodified":1566588318,
+    "wof:lastmodified":1690850746,
     "wof:name":"Fraile Pintado",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

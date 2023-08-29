@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Ingeniero Ju\u00e1rez"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d7\u05e0\u05d9\u05d9\u05e8\u05d5 \u05d7\u05d5\u05d0\u05e8\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
+    ],
     "name:lit_x_preferred":[
         "Incheniero Chuaresas"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Ingeniero Guillermo N. Ju\u00e1rez"
+    ],
+    "name:tur_x_preferred":[
+        "Ingeniero Ju\u00e1rez"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0445\u0435\u043d\u044c\u0454\u0440\u043e-\u0425\u0443\u0430\u0440\u0435\u0441"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890434711,
-    "wof:lastmodified":1566588366,
+    "wof:lastmodified":1690850789,
     "wof:name":"Ingeniero Guillermo N. Ju\u00e1rez",
     "wof:parent_id":1108718265,
     "wof:placetype":"locality",

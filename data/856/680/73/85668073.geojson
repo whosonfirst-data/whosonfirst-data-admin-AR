@@ -81,6 +81,9 @@
     "name:cym_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:cym_x_variant":[
+        "Talaith Entre R\u00edos"
+    ],
     "name:dan_x_preferred":[
         "Entre R\u00edos"
     ],
@@ -112,11 +115,15 @@
     "name:eus_x_preferred":[
         "Entre R\u00edosko probintzia"
     ],
+    "name:eus_x_variant":[
+        "Entre R\u00edos probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0633"
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0633",
+        "\u0627\u0646\u062a\u0631\u0647 \u0631\u06cc\u0648\u0632"
     ],
     "name:fin_x_preferred":[
         "Entre R\u00edosin maakunta"
@@ -144,6 +151,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0537\u0576\u057f\u0580\u0565 \u054c\u056b\u0578\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Entre R\u00edos"
     ],
     "name:ind_x_preferred":[
         "Provinsi Entre R\u00edos"
@@ -268,6 +278,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0ba9\u0bcd\u0bb1\u0bc7 \u0bb0\u0bbf\u0baf\u0bcb\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043d\u0442\u0440\u0435-\u0420\u0438\u043e\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c3f \u0c30\u0c3f\u0c2f\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -298,6 +311,9 @@
     "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u062a\u0631\u06d2 \u0631\u06cc\u0648\u0633"
     ],
+    "name:vec_x_preferred":[
+        "Entre R\u00edos Province"
+    ],
     "name:vie_x_preferred":[
         "Entre R\u00edos"
     ],
@@ -312,6 +328,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u6069\u7279\u91cc\u5229\u5967\u65af\u7701"
     ],
     "name:zho_cn_x_preferred":[
         "\u6069\u7279\u96f7\u91cc\u5965\u65af\u6e7f\u5730"
@@ -445,7 +464,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636502751,
+    "wof:lastmodified":1690850543,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

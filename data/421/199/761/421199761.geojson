@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Aimogasta"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d0\u05d9\u05de\u05d5\u05d2\u05e1\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Aimogasta"
     ],
@@ -42,6 +45,9 @@
         "Aimogasta"
     ],
     "name:spa_x_preferred":[
+        "Aimogasta"
+    ],
+    "name:tur_x_preferred":[
         "Aimogasta"
     ],
     "name:ukr_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421199761,
-    "wof:lastmodified":1566588278,
+    "wof:lastmodified":1690850711,
     "wof:name":"Aimogasta",
     "wof:parent_id":421181861,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Maip\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Maip\u00fa"
     ],
@@ -30,6 +33,9 @@
         "Maip\u00fa"
     ],
     "name:spa_x_preferred":[
+        "Maip\u00fa"
+    ],
+    "name:tur_x_preferred":[
         "Maip\u00fa"
     ],
     "name:ukr_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421198333,
-    "wof:lastmodified":1566588234,
+    "wof:lastmodified":1690850668,
     "wof:name":"Maip\u00fa",
     "wof:parent_id":1108718013,
     "wof:placetype":"locality",

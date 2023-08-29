@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villa Catedral"
+    ],
     "name:eng_x_preferred":[
         "Villa Cerro Catedral"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:spa_x_preferred":[
         "Villa Cerro Catedral"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Catedral"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421187161,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1690850632,
     "wof:name":"Villa Catedral",
     "wof:parent_id":421188061,
     "wof:placetype":"locality",

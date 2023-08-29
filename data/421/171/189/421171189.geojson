@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Azara"
     ],
+    "name:pol_x_preferred":[
+        "Azara"
+    ],
     "name:por_x_preferred":[
         "Azara"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421171189,
-    "wof:lastmodified":1566588329,
+    "wof:lastmodified":1690850754,
     "wof:name":"Azara",
     "wof:parent_id":1108718365,
     "wof:placetype":"locality",

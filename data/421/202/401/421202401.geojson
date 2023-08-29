@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u063a\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u062c\u0631\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0642\u0631\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0433\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Tigre"
     ],
     "name:ceb_x_preferred":[
         "Tigre"
@@ -38,10 +47,19 @@
     "name:eng_x_preferred":[
         "Tigre"
     ],
+    "name:eus_x_preferred":[
+        "Tigre"
+    ],
+    "name:fao_x_preferred":[
+        "Tigre"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u06af\u0631\u0647"
     ],
     "name:fra_x_preferred":[
+        "Tigre"
+    ],
+    "name:gle_x_preferred":[
         "Tigre"
     ],
     "name:glg_x_preferred":[
@@ -89,11 +107,17 @@
     "name:swe_x_preferred":[
         "Tigre"
     ],
+    "name:szl_x_preferred":[
+        "Tigre"
+    ],
     "name:tur_x_preferred":[
         "Tigre"
     ],
     "name:ukr_x_preferred":[
         "\u0442\u0438\u0433\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0438\u0433\u0440\u0435"
     ],
     "name:und_x_variant":[
         "Las Conchas"
@@ -149,7 +173,7 @@
         }
     ],
     "wof:id":421202401,
-    "wof:lastmodified":1566588168,
+    "wof:lastmodified":1690850612,
     "wof:name":"Tigre",
     "wof:parent_id":1108718117,
     "wof:placetype":"locality",

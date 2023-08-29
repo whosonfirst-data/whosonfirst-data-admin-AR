@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Salsacate"
     ],
+    "name:tur_x_preferred":[
+        "Salsacate"
+    ],
     "name:zho_x_preferred":[
         "\u85a9\u723e\u85a9\u5361\u7279"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421174703,
-    "wof:lastmodified":1566588178,
+    "wof:lastmodified":1690850623,
     "wof:name":"Salsacate",
     "wof:parent_id":421171491,
     "wof:placetype":"locality",

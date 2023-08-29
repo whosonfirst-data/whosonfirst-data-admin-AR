@@ -38,6 +38,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0424\u0440\u0430\u043d\u0441\u044c\u044f"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u00b7\u5f17\u6717\u897f\u4e9a"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3851181,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421191829,
-    "wof:lastmodified":1566588259,
+    "wof:lastmodified":1690850694,
     "wof:name":"La Francia",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

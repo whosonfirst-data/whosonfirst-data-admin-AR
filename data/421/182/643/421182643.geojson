@@ -35,6 +35,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e8\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05e8\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u0930\u0947\u091f\u094b"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421182643,
-    "wof:lastmodified":1636502824,
+    "wof:lastmodified":1690850744,
     "wof:name":"Loreto",
     "wof:parent_id":421203247,
     "wof:placetype":"locality",

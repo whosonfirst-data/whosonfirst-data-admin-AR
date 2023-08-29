@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pichanal"
+    ],
     "name:ceb_x_preferred":[
         "Pichanal"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421174511,
-    "wof:lastmodified":1566588177,
+    "wof:lastmodified":1690850623,
     "wof:name":"Pichanal",
     "wof:parent_id":1108718413,
     "wof:placetype":"locality",

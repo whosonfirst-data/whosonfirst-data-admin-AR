@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u0440\u0434\u043e\u043d"
+    ],
     "name:deu_x_preferred":[
         "Departamento Albard\u00f3n"
     ],
@@ -42,6 +45,9 @@
     "name:ita_x_preferred":[
         "Dipartimento di Albard\u00f3n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30eb\u30c9\u30f3\u30fb\u30c7\u30d1\u30eb\u30bf\u30e1\u30f3\u30c8"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d1\u10d0\u10e0\u10d3\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
     ],
@@ -58,6 +64,9 @@
         "Albard\u00f3n"
     ],
     "name:spa_x_preferred":[
+        "Departamento Albard\u00f3n"
+    ],
+    "name:tur_x_preferred":[
         "Departamento Albard\u00f3n"
     ],
     "name:xmf_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421179005,
-    "wof:lastmodified":1566588312,
+    "wof:lastmodified":1690850737,
     "wof:name":"Albard\u00f3n",
     "wof:parent_id":421198377,
     "wof:placetype":"locality",

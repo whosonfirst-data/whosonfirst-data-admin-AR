@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0631\u0627\u0644 \u062c\u064a\u0645\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "General G\u00fcemes"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b2 \u0997\u09bf\u0989\u09ae\u09c7\u09b8"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "General G\u00fcemes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0646\u0631\u0627\u0644 \u06af\u0648\u0645\u0633"
     ],
     "name:fra_x_preferred":[
         "General G\u00fcemes"
@@ -80,6 +86,9 @@
     ],
     "name:tur_x_preferred":[
         "General Guemes"
+    ],
+    "name:tur_x_variant":[
+        "General G\u00fcemes"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0413\u0443\u0435\u043c\u0435\u0441"
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":1141906767,
-    "wof:lastmodified":1636502851,
+    "wof:lastmodified":1690850807,
     "wof:name":"General Guemes",
     "wof:parent_id":421191593,
     "wof:placetype":"locality",

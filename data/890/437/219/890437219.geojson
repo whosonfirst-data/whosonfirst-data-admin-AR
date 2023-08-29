@@ -52,6 +52,9 @@
     "name:swe_x_preferred":[
         "Tres Isletas"
     ],
+    "name:tur_x_preferred":[
+        "Tres Isletas"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0441-\u0406\u0441\u043b\u0435\u0442\u0430\u0441"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890437219,
-    "wof:lastmodified":1566588356,
+    "wof:lastmodified":1690850777,
     "wof:name":"Tres Isletas",
     "wof:parent_id":1108718209,
     "wof:placetype":"locality",

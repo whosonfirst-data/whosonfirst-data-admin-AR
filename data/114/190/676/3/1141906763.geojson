@@ -81,6 +81,9 @@
     "name:swe_x_preferred":[
         "Chepes Viejo"
     ],
+    "name:tur_x_preferred":[
+        "Chepes"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043f\u0435\u0441"
     ],
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":1141906763,
-    "wof:lastmodified":1636502851,
+    "wof:lastmodified":1690850807,
     "wof:name":"Chepes",
     "wof:parent_id":1108718347,
     "wof:placetype":"locality",

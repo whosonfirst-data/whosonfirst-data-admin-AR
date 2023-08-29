@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.1767425,-41.08,-71.1767425,-41.08",
+    "geom:bbox":"-71.176743,-41.08,-71.176743,-41.08",
     "geom:latitude":-41.08,
     "geom:longitude":-71.176743,
     "iso:country":"AR",
@@ -24,6 +24,9 @@
         "Dina Huapi"
     ],
     "name:nld_x_preferred":[
+        "Dina Huapi"
+    ],
+    "name:por_x_preferred":[
         "Dina Huapi"
     ],
     "name:rus_x_preferred":[
@@ -69,7 +72,7 @@
     },
     "wof:country":"AR",
     "wof:created":1459009444,
-    "wof:geomhash":"fc57fff09bf9330128bd294edd847080",
+    "wof:geomhash":"de43f3d6513742613d40249bd0b9eb7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421185459,
-    "wof:lastmodified":1566588346,
+    "wof:lastmodified":1690850763,
     "wof:name":"Dina Huapi",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",
@@ -90,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.1767425,
+    -71.176743,
     -41.08,
-    -71.1767425,
+    -71.176743,
     -41.08
 ],
-  "geometry": {"coordinates":[-71.1767425,-41.08],"type":"Point"}
+  "geometry": {"coordinates":[-71.176743,-41.08],"type":"Point"}
 }

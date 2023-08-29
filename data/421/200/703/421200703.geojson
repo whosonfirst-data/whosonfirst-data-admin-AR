@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Puerto Gaboto"
+    ],
     "name:ceb_x_preferred":[
         "Gaboto"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421200703,
-    "wof:lastmodified":1566588283,
+    "wof:lastmodified":1690850715,
     "wof:name":"Gaboto",
     "wof:parent_id":421188015,
     "wof:placetype":"locality",

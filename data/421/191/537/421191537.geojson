@@ -59,6 +59,9 @@
     "name:swe_x_preferred":[
         "Los Polvorines"
     ],
+    "name:tur_x_preferred":[
+        "Los Polvorines"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u041f\u043e\u043b\u044c\u0432\u043e\u0440\u0456\u043d\u0435\u0441"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421191537,
-    "wof:lastmodified":1566588263,
+    "wof:lastmodified":1690850698,
     "wof:name":"Los Polvorines",
     "wof:parent_id":1108718015,
     "wof:placetype":"locality",

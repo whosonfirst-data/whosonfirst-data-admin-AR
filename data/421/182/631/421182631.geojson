@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Campo Viera"
     ],
+    "name:pol_x_preferred":[
+        "Campo Viera"
+    ],
     "name:por_x_preferred":[
         "Campo Viera"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421182631,
-    "wof:lastmodified":1566588319,
+    "wof:lastmodified":1690850746,
     "wof:name":"Campo Viera",
     "wof:parent_id":421198473,
     "wof:placetype":"locality",

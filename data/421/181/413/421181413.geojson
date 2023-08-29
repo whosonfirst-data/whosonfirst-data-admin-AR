@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
+    "name:ita_x_preferred":[
+        "Trist\u00e1n Su\u00e1rez"
+    ],
     "name:nld_x_preferred":[
         "Trist\u00e1n Su\u00e1rez"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421181413,
-    "wof:lastmodified":1566588217,
+    "wof:lastmodified":1690850655,
     "wof:name":"Trist\u00e1n Su\u00e1rez",
     "wof:parent_id":1108717933,
     "wof:placetype":"locality",

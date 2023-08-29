@@ -29,6 +29,9 @@
     "name:por_x_preferred":[
         "Los Cocos"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u041a\u043e\u043a\u043e\u0441"
+    ],
     "name:spa_x_preferred":[
         "Los Cocos"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421186641,
-    "wof:lastmodified":1566588214,
+    "wof:lastmodified":1690850652,
     "wof:name":"Los Cocos",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

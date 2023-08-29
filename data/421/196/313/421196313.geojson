@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Fraga"
     ],
+    "name:por_x_preferred":[
+        "Fraga"
+    ],
     "name:spa_x_preferred":[
         "Fraga"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421196313,
-    "wof:lastmodified":1566588248,
+    "wof:lastmodified":1690850682,
     "wof:name":"Fraga",
     "wof:parent_id":421171477,
     "wof:placetype":"locality",

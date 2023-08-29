@@ -34,6 +34,9 @@
     "name:ita_x_preferred":[
         "Tel\u00e9n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30ec\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Tel\u00e9n"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890440127,
-    "wof:lastmodified":1566588349,
+    "wof:lastmodified":1690850766,
     "wof:name":"Tel\u00e9n",
     "wof:parent_id":1108718309,
     "wof:placetype":"locality",

@@ -87,6 +87,9 @@
     "name:oci_x_preferred":[
         "Comandante Fontana"
     ],
+    "name:pol_x_preferred":[
+        "Comandante Fontana"
+    ],
     "name:por_x_preferred":[
         "Comandante Fontana"
     ],
@@ -100,6 +103,9 @@
         "Comandante Fontana"
     ],
     "name:szl_x_preferred":[
+        "Comandante Fontana"
+    ],
+    "name:tur_x_preferred":[
         "Comandante Fontana"
     ],
     "name:ukr_x_preferred":[
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":1141906777,
-    "wof:lastmodified":1636502852,
+    "wof:lastmodified":1690850809,
     "wof:name":"Comandante Fontana",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

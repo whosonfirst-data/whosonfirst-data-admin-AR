@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0646\u0633\u064a\u0648 \u0641\u0627\u0631\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0646\u0633\u064a\u0648 \u0641\u0627\u0631\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Florencio Varela"
+    ],
     "name:azb_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0648 \u0648\u0627\u0631\u0644\u0627"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u0999\u09cd\u0995\u09be\u0987\u09af\u09bc\u09cb \u09ad\u09be\u09b0\u09c7\u09b2\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Florencio Varela"
     ],
     "name:ceb_x_preferred":[
         "Florencio Varela"
@@ -57,6 +66,9 @@
         "Florencio Varela"
     ],
     "name:fra_x_preferred":[
+        "Florencio Varela"
+    ],
+    "name:gle_x_preferred":[
         "Florencio Varela"
     ],
     "name:guj_x_preferred":[
@@ -131,6 +143,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb3\u0bbe\u0bb0\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf\u0baf\u0bcb \u0bb5\u0bb0\u0bc7\u0bb2\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u043d\u0441\u0438\u043e-\u0412\u0430\u0440\u0435\u043b\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4d\u0c32\u0c4b\u0c30\u0c46\u0c28\u0c4d\u0c38\u0c3f\u0c2f\u0c4b \u0c35\u0c30\u0c46\u0c32\u0c3e"
     ],
@@ -149,11 +164,17 @@
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u06cc\u0646\u06a9\u06cc\u0648 \u0648\u0627\u0631\u06cc\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Florencio Varela"
+    ],
     "name:vie_x_preferred":[
         "Florencio Varela"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u6d1b\u502b\u897f\u5967\u5df4\u96f7\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u5f17\u6d1b\u502b\u897f\u5967\u00b7\u5df4\u96f7\u62c9"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -205,7 +226,7 @@
         }
     ],
     "wof:id":421202393,
-    "wof:lastmodified":1566588169,
+    "wof:lastmodified":1690850613,
     "wof:name":"Florencio Varela",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

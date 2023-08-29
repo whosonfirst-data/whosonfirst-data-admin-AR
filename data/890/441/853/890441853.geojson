@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Ibarreta"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0628\u0627\u0631\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ibarreta"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "Ibarreta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u0430\u0440\u0440\u0435\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Ibarreta"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890441853,
-    "wof:lastmodified":1566588353,
+    "wof:lastmodified":1690850772,
     "wof:name":"Ibarreta",
     "wof:parent_id":1108718267,
     "wof:placetype":"locality",

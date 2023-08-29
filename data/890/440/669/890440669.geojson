@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Embajador Martini"
     ],
+    "name:ita_x_preferred":[
+        "Embajador Martini"
+    ],
     "name:nld_x_preferred":[
         "Embajador Martini"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890440669,
-    "wof:lastmodified":1566588349,
+    "wof:lastmodified":1690850765,
     "wof:name":"Embajador Martini",
     "wof:parent_id":1108718317,
     "wof:placetype":"locality",

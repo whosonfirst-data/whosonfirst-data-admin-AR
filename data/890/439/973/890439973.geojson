@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Samuh\u00fa"
     ],
+    "name:fra_x_preferred":[
+        "Samuh\u00fa"
+    ],
     "name:por_x_preferred":[
         "Samuh\u00fa"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890439973,
-    "wof:lastmodified":1566588355,
+    "wof:lastmodified":1690850775,
     "wof:name":"Samuh\u00fa",
     "wof:parent_id":1108718225,
     "wof:placetype":"locality",

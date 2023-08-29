@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u0420\u043e\u0445\u0430\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Rojas"
+    ],
     "name:ceb_x_preferred":[
         "Rojas"
     ],
@@ -32,10 +35,16 @@
     "name:eng_x_preferred":[
         "Rojas"
     ],
+    "name:fra_x_preferred":[
+        "Rojas"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05d7\u05d0\u05e1"
     ],
     "name:hun_x_preferred":[
+        "Rojas"
+    ],
+    "name:ita_x_preferred":[
         "Rojas"
     ],
     "name:kat_x_preferred":[
@@ -53,8 +62,14 @@
     "name:swe_x_preferred":[
         "Rojas"
     ],
+    "name:tur_x_preferred":[
+        "Rojas"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0445\u0430\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u52a0\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":421202503,
-    "wof:lastmodified":1636502807,
+    "wof:lastmodified":1690850611,
     "wof:name":"Rojas",
     "wof:parent_id":1108718077,
     "wof:placetype":"locality",

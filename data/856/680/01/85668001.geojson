@@ -86,6 +86,9 @@
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03c3\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03c3\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Chubut"
     ],
@@ -101,8 +104,14 @@
     "name:epo_x_variant":[
         "Provinco \u0108ubutio"
     ],
+    "name:est_x_preferred":[
+        "Chubuti provints"
+    ],
     "name:eus_x_preferred":[
         "Chubuteko probintzia"
+    ],
+    "name:eus_x_variant":[
+        "Chubut"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0686\u0648\u0628\u0648\u062a"
@@ -114,6 +123,9 @@
         "Chubutin maakunta"
     ],
     "name:fra_x_preferred":[
+        "Chubut"
+    ],
+    "name:frr_x_preferred":[
         "Chubut"
     ],
     "name:gla_x_preferred":[
@@ -272,6 +284,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0baa\u0bc1\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443\u0431\u0443\u0442"
+    ],
     "name:tel_x_preferred":[
         "\u0c1b\u0c41\u0c2c\u0c41\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -298,6 +313,9 @@
     ],
     "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0648\u0628\u0648\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Chubut Province"
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Chubut"
@@ -443,7 +461,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636502753,
+    "wof:lastmodified":1690850546,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

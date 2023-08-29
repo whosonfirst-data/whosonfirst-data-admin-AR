@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Santa Sylvina"
     ],
+    "name:tur_x_preferred":[
+        "Santa Sylvina"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0421\u0438\u043b\u044c\u0432\u0456\u043d\u0430"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890445115,
-    "wof:lastmodified":1566588364,
+    "wof:lastmodified":1690850787,
     "wof:name":"Santa Sylvina",
     "wof:parent_id":1108718201,
     "wof:placetype":"locality",

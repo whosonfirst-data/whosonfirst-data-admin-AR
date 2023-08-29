@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646 \u0641\u0648\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0646 \u0641\u0648\u0646\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "De\u00e1n Funes"
+    ],
     "name:ceb_x_preferred":[
         "De\u00e1n Funes"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "De\u00e1n Funes"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0626\u0627\u0646 \u0641\u0648\u0646\u0632"
     ],
     "name:fra_x_preferred":[
         "De\u00e1n Funes"
@@ -60,6 +69,9 @@
         "De\u00e1n Funes"
     ],
     "name:swe_x_preferred":[
+        "De\u00e1n Funes"
+    ],
+    "name:tur_x_preferred":[
         "De\u00e1n Funes"
     ],
     "name:ukr_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":421168415,
-    "wof:lastmodified":1566588111,
+    "wof:lastmodified":1690850559,
     "wof:name":"De\u00e1n Funes",
     "wof:parent_id":421204057,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0441\u0435\u043f\u0441\u044c\u0451\u043d"
+    ],
     "name:deu_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -32,10 +35,16 @@
     "name:por_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u043e\u043d"
+    ],
     "name:spa_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:swe_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:tur_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:ukr_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421196359,
-    "wof:lastmodified":1566588248,
+    "wof:lastmodified":1690850682,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":1108718173,
     "wof:placetype":"locality",

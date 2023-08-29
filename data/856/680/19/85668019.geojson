@@ -71,6 +71,9 @@
     "name:cym_x_preferred":[
         "La Pampa"
     ],
+    "name:cym_x_variant":[
+        "Talaith La Pampa"
+    ],
     "name:dan_x_preferred":[
         "La Pampa"
     ],
@@ -96,16 +99,21 @@
         "Provincia de La Pampa"
     ],
     "name:epo_x_variant":[
-        "Pampa Provinco"
+        "Pampa Provinco",
+        "La Pampa"
     ],
     "name:eus_x_preferred":[
         "La Pampako probintzia"
+    ],
+    "name:eus_x_variant":[
+        "La Pampa probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0644\u0627 \u067e\u0627\u0645\u067e\u0627"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u067e\u0627\u0645\u067e\u0627"
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627 \u067e\u0627\u0645\u067e\u0627",
+        "\u0644\u0627 \u067e\u0627\u0645\u067e\u0627"
     ],
     "name:fin_x_preferred":[
         "La Pampan maakunta"
@@ -249,6 +257,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe \u0baa\u0bae\u0bcd\u0baa\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u043c\u043f\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2a\u0c3e\u0c02\u0c2a\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -279,6 +290,9 @@
     "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u0644\u0627 \u067e\u0627\u0645\u067e\u0627"
     ],
+    "name:vec_x_preferred":[
+        "La Pampa"
+    ],
     "name:vie_x_preferred":[
         "La Pampa"
     ],
@@ -290,6 +304,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u62c9\u6f58\u5e15\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u73ed\u5e15\u7701"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6f58\u5e15\u7701"
@@ -417,7 +434,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636502752,
+    "wof:lastmodified":1690850544,
     "wof:name":"La Pampa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

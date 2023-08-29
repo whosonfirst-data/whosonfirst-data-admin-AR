@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Las Garcitas"
     ],
+    "name:fra_x_preferred":[
+        "Las Garcitas"
+    ],
     "name:nld_x_preferred":[
         "Las Garcitas"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421201519,
-    "wof:lastmodified":1566588287,
+    "wof:lastmodified":1690850719,
     "wof:name":"Las Garcitas",
     "wof:parent_id":1108718227,
     "wof:placetype":"locality",

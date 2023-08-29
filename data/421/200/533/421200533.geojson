@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Sacanta"
+    ],
     "name:ceb_x_preferred":[
         "Departamento de San Justo"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421200533,
-    "wof:lastmodified":1566588280,
+    "wof:lastmodified":1690850713,
     "wof:name":"Sacanta",
     "wof:parent_id":421171463,
     "wof:placetype":"locality",

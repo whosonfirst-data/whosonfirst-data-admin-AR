@@ -79,6 +79,9 @@
     "name:pol_x_preferred":[
         "Comallo"
     ],
+    "name:por_x_preferred":[
+        "Comallo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0430\u043b\u044c\u043e"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1125868641,
-    "wof:lastmodified":1636502831,
+    "wof:lastmodified":1690850795,
     "wof:name":"Comallo",
     "wof:parent_id":421188063,
     "wof:placetype":"locality",

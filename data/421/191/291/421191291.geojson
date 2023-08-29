@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0646\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Funes"
+    ],
     "name:ceb_x_preferred":[
         "Funes"
     ],
     "name:eng_x_preferred":[
         "Funes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0646\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Funes"
@@ -43,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Funes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u5185\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":421191291,
-    "wof:lastmodified":1566588268,
+    "wof:lastmodified":1690850701,
     "wof:name":"Funes",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

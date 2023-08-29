@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u063a\u0648\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Goya"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u06cc\u0627"
     ],
@@ -52,6 +55,12 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Goya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0575\u0561"
     ],
     "name:ind_x_preferred":[
         "Goya"
@@ -249,7 +258,7 @@
         }
     ],
     "wof:id":421179711,
-    "wof:lastmodified":1636502823,
+    "wof:lastmodified":1690850738,
     "wof:name":"Goya",
     "wof:parent_id":421193663,
     "wof:placetype":"locality",

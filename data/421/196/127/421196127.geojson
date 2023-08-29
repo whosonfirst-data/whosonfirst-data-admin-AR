@@ -47,6 +47,9 @@
     "name:por_x_preferred":[
         "Santa Mar\u00eda"
     ],
+    "name:por_x_variant":[
+        "Despe\u00f1aderos"
+    ],
     "name:sco_x_preferred":[
         "Santa Mar\u00eda Depairtment"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421196127,
-    "wof:lastmodified":1566588247,
+    "wof:lastmodified":1690850681,
     "wof:name":"Despe\u00f1aderos",
     "wof:parent_id":421186301,
     "wof:placetype":"locality",

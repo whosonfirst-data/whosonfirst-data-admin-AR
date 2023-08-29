@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Coronel Baigorria"
     ],
+    "name:por_x_preferred":[
+        "Coronel Baigorria"
+    ],
     "name:spa_x_preferred":[
         "Coronel Baigorria"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890440043,
-    "wof:lastmodified":1566588351,
+    "wof:lastmodified":1690850768,
     "wof:name":"Coronel Baigorria",
     "wof:parent_id":421185481,
     "wof:placetype":"locality",

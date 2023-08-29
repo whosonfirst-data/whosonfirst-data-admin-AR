@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:cat_x_preferred":[
         "Santa Mar\u00eda"
     ],
@@ -47,10 +50,16 @@
     "name:pol_x_preferred":[
         "Santa Mar\u00eda"
     ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
     "name:sco_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:tur_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:ukr_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421166743,
-    "wof:lastmodified":1566588118,
+    "wof:lastmodified":1690850565,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108718157,
     "wof:placetype":"locality",

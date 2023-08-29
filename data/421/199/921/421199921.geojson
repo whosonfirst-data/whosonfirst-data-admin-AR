@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u062a\u064a\u0641\u064a\u062f\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u064a\u0641\u064a\u062f\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Pontevedra"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0648\u0646\u062a\u0647\u200c\u0648\u062f\u0631\u0627"
     ],
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421199921,
-    "wof:lastmodified":1636502820,
+    "wof:lastmodified":1690850712,
     "wof:name":"Pontevedra",
     "wof:parent_id":1108718025,
     "wof:placetype":"locality",

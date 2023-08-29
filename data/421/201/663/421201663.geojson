@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Quem\u00fa Quem\u00fa"
     ],
+    "name:tur_x_preferred":[
+        "Quem\u00fa Quem\u00fa"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u0443-\u041a\u0435\u043c\u0443"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421201663,
-    "wof:lastmodified":1566588288,
+    "wof:lastmodified":1690850720,
     "wof:name":"Quem\u00fa Quem\u00fa",
     "wof:parent_id":1108718313,
     "wof:placetype":"locality",

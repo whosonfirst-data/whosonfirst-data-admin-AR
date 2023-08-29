@@ -44,6 +44,9 @@
     "name:por_x_preferred":[
         "Puerto Pir\u00e1mides"
     ],
+    "name:slv_x_preferred":[
+        "Puerto Pir\u00e1mides"
+    ],
     "name:spa_x_preferred":[
         "Puerto Pir\u00e1mides"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421196241,
-    "wof:lastmodified":1566588251,
+    "wof:lastmodified":1690850685,
     "wof:name":"Puerto Pir\u00e1mides",
     "wof:parent_id":1108718233,
     "wof:placetype":"locality",

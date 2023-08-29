@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Rosario del Tala"
     ],
+    "name:pol_x_preferred":[
+        "Rosario del Tala"
+    ],
     "name:por_x_preferred":[
         "Rosario del Tala"
     ],
@@ -47,6 +50,9 @@
         "Rosario del Tala"
     ],
     "name:swe_x_preferred":[
+        "Rosario del Tala"
+    ],
+    "name:tur_x_preferred":[
         "Rosario del Tala"
     ],
     "name:ukr_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890431201,
-    "wof:lastmodified":1566588358,
+    "wof:lastmodified":1690850780,
     "wof:name":"Rosario del Tala",
     "wof:parent_id":1108718257,
     "wof:placetype":"locality",

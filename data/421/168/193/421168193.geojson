@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "La Cruz"
     ],
+    "name:pol_x_preferred":[
+        "La Cruz"
+    ],
     "name:por_x_preferred":[
         "La Cruz"
     ],
@@ -39,6 +42,9 @@
         "La Cruz"
     ],
     "name:swe_x_preferred":[
+        "La Cruz"
+    ],
+    "name:tur_x_preferred":[
         "La Cruz"
     ],
     "name:ukr_x_preferred":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421168193,
-    "wof:lastmodified":1636502800,
+    "wof:lastmodified":1690850559,
     "wof:name":"La Cruz",
     "wof:parent_id":421189963,
     "wof:placetype":"locality",

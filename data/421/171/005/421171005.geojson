@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Vista Alegre"
     ],
+    "name:por_x_preferred":[
+        "Vista Alegre"
+    ],
     "name:spa_x_preferred":[
         "Vista Alegre"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421171005,
-    "wof:lastmodified":1566588338,
+    "wof:lastmodified":1690850758,
     "wof:name":"Vista Alegre",
     "wof:parent_id":421169777,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:swe_x_preferred":[
         "El Carmen"
     ],
+    "name:tur_x_preferred":[
+        "El Carmen"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0430\u0440\u043c\u0435\u043d"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421166747,
-    "wof:lastmodified":1566588116,
+    "wof:lastmodified":1690850563,
     "wof:name":"El Carmen",
     "wof:parent_id":421171243,
     "wof:placetype":"locality",

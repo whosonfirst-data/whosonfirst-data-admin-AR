@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Lobos"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09ac\u09cb\u09b8"
     ],
@@ -41,8 +44,17 @@
     "name:eng_x_preferred":[
         "Lobos"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Lobos"
+    ],
+    "name:gle_x_preferred":[
+        "Lobos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u092c\u094b\u0938"
@@ -89,6 +101,9 @@
     "name:swe_x_preferred":[
         "Lobos"
     ],
+    "name:tur_x_preferred":[
+        "Lobos"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0431\u043e\u0441"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u7f85\u4f2f\u65af"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u535a\u65af"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":421195755,
-    "wof:lastmodified":1636502801,
+    "wof:lastmodified":1690850568,
     "wof:name":"Lobos",
     "wof:parent_id":1108718007,
     "wof:placetype":"locality",

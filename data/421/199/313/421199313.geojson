@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Villa San Lorenzo"
     ],
+    "name:eus_x_preferred":[
+        "Villa San Lorenzo"
+    ],
+    "name:fra_x_preferred":[
+        "Villa San Lorenzo"
+    ],
     "name:ita_x_preferred":[
         "Villa San Lorenzo"
     ],
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421199313,
-    "wof:lastmodified":1636502819,
+    "wof:lastmodified":1690850710,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108718405,
     "wof:placetype":"locality",

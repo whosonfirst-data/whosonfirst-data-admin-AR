@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ca\u00f1uelas"
     ],
+    "name:fra_x_preferred":[
+        "Ca\u00f1uelas"
+    ],
     "name:ita_x_preferred":[
         "Ca\u00f1uelas"
     ],
@@ -48,6 +51,9 @@
         "Ca\u00f1uelas"
     ],
     "name:spa_x_preferred":[
+        "Ca\u00f1uelas"
+    ],
+    "name:tur_x_preferred":[
         "Ca\u00f1uelas"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421195633,
-    "wof:lastmodified":1566588126,
+    "wof:lastmodified":1690850573,
     "wof:name":"Ca\u00f1uelas",
     "wof:parent_id":1108717887,
     "wof:placetype":"locality",

@@ -59,6 +59,9 @@
     "name:por_x_preferred":[
         "Arruf\u00f3"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u0443\u0444\u043e"
+    ],
     "name:spa_x_preferred":[
         "N\u00e9stor Clausen"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:und_x_variant":[
         "Arrut\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9c81\u798f"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421196207,
-    "wof:lastmodified":1566588253,
+    "wof:lastmodified":1690850688,
     "wof:name":"Arruf\u00f3",
     "wof:parent_id":1108718457,
     "wof:placetype":"locality",

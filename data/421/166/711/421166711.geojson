@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Tapebicu\u00e1"
     ],
+    "name:por_x_preferred":[
+        "Tapebicu\u00e1"
+    ],
     "name:spa_x_preferred":[
         "Tapebicu\u00e1"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421166711,
-    "wof:lastmodified":1566588119,
+    "wof:lastmodified":1690850566,
     "wof:name":"Tapebicu\u00e1",
     "wof:parent_id":421171499,
     "wof:placetype":"locality",

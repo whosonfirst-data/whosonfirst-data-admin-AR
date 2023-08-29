@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "La Clotilde"
     ],
+    "name:fra_x_preferred":[
+        "La Clotilde"
+    ],
     "name:nld_x_preferred":[
         "La Clotilde"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890429387,
-    "wof:lastmodified":1566588362,
+    "wof:lastmodified":1690850785,
     "wof:name":"La Clotilde",
     "wof:parent_id":1108718215,
     "wof:placetype":"locality",

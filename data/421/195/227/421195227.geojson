@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0644\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0644\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Glew"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0644\u0626\u0648"
     ],
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421195227,
-    "wof:lastmodified":1566588124,
+    "wof:lastmodified":1690850571,
     "wof:name":"Glew",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

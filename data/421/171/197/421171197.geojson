@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "General Campos"
     ],
+    "name:por_x_preferred":[
+        "General Campos"
+    ],
     "name:spa_x_preferred":[
         "General Campos"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421171197,
-    "wof:lastmodified":1566588333,
+    "wof:lastmodified":1690850755,
     "wof:name":"General Campos",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",

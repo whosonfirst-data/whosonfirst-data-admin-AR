@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Contraalmirante Cordero"
+    ],
     "name:eng_x_preferred":[
         "Contralmirante Cordero"
     ],
     "name:nld_x_preferred":[
         "Contralmirante Cordero"
     ],
+    "name:por_x_preferred":[
+        "Contralmirante Cordero"
+    ],
     "name:spa_x_preferred":[
         "Contralmirante Cordero"
+    ],
+    "name:swe_x_preferred":[
+        "Contraalmirante Cordero"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":421184797,
-    "wof:lastmodified":1566588289,
+    "wof:lastmodified":1690850721,
     "wof:name":"Contraalmirante Cordero",
     "wof:parent_id":1108718391,
     "wof:placetype":"locality",

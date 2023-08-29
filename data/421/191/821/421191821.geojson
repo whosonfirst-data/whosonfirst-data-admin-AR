@@ -41,6 +41,9 @@
     "name:spa_x_preferred":[
         "Tumbaya"
     ],
+    "name:tur_x_preferred":[
+        "Tumbaya"
+    ],
     "name:zho_x_preferred":[
         "\u901a\u5df4\u4e9e"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421191821,
-    "wof:lastmodified":1566588260,
+    "wof:lastmodified":1690850695,
     "wof:name":"Tumbaya",
     "wof:parent_id":421201001,
     "wof:placetype":"locality",

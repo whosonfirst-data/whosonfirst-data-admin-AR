@@ -29,6 +29,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b0\u0997\u09c7\u09ae\u09bf\u09a8\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Pergamino"
+    ],
     "name:ceb_x_preferred":[
         "Pergamino"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b3\u03ba\u03ac\u03bc\u03b9\u03bd\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b3\u03ac\u03bc\u03b9\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Pergamino"
@@ -145,6 +151,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e23\u0e4c\u0e01\u0e32\u0e21\u0e35\u0e42\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e23\u0e4c\u0e01\u0e32\u0e21\u0e34\u0e42\u0e19"
     ],
     "name:tur_x_preferred":[
         "Pergamino"
@@ -304,7 +313,7 @@
         }
     ],
     "wof:id":421169613,
-    "wof:lastmodified":1566588149,
+    "wof:lastmodified":1690850597,
     "wof:name":"Pergamino",
     "wof:parent_id":1108718051,
     "wof:placetype":"locality",

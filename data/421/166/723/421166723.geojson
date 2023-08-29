@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Ringuelet"
     ],
+    "name:deu_x_preferred":[
+        "Ringuelet"
+    ],
     "name:eng_x_preferred":[
         "Ringuelet"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:por_x_preferred":[
         "Ra\u00fal Adolfo Ringuelet"
+    ],
+    "name:sco_x_preferred":[
+        "Ringuelet"
     ],
     "name:spa_x_preferred":[
         "Ra\u00fal Adolfo Ringuelet"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421166723,
-    "wof:lastmodified":1566588116,
+    "wof:lastmodified":1690850564,
     "wof:name":"Ringuelet",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

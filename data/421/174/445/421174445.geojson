@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Payogasta"
     ],
+    "name:eus_x_preferred":[
+        "Payogasta"
+    ],
     "name:fra_x_preferred":[
         "Payogasta"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421174445,
-    "wof:lastmodified":1566588182,
+    "wof:lastmodified":1690850627,
     "wof:name":"Payogasta",
     "wof:parent_id":421166803,
     "wof:placetype":"locality",

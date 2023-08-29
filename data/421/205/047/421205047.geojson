@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Loreto"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
         "Loreto"
     ],
@@ -30,6 +33,12 @@
         "Loreto"
     ],
     "name:nld_x_preferred":[
+        "Loreto"
+    ],
+    "name:pol_x_preferred":[
+        "Loreto"
+    ],
+    "name:por_x_preferred":[
         "Loreto"
     ],
     "name:spa_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421205047,
-    "wof:lastmodified":1566588171,
+    "wof:lastmodified":1690850615,
     "wof:name":"Villa San Mart\u00edn",
     "wof:parent_id":1108718493,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0628\u064a\u0631\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0645\u0628\u064a\u0631\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Temperley"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0645\u067e\u0631\u0644\u0626\u06cc"
     ],
@@ -44,6 +50,9 @@
     "name:epo_x_preferred":[
         "Temperley"
     ],
+    "name:eus_x_preferred":[
+        "Temperley"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0645\u067e\u0631\u0644\u0626\u06cc"
     ],
@@ -51,6 +60,9 @@
         "Temperley"
     ],
     "name:fra_x_preferred":[
+        "Temperley"
+    ],
+    "name:gle_x_preferred":[
         "Temperley"
     ],
     "name:guj_x_preferred":[
@@ -119,6 +131,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bc6\u0bb0\u0bcd\u0bb2\u0bc7"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043c\u043f\u0435\u0440\u043b\u0435\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c02\u0c2a\u0c30\u0c4d\u0c32\u0c40"
     ],
@@ -133,6 +148,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0645\u067e\u06cc\u0631\u0644\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Temperley"
     ],
     "name:vie_x_preferred":[
         "Temperley"
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":421178163,
-    "wof:lastmodified":1566588314,
+    "wof:lastmodified":1690850741,
     "wof:name":"Temperley",
     "wof:parent_id":421204047,
     "wof:placetype":"locality",

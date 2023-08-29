@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Canals"
+    ],
     "name:ceb_x_preferred":[
         "Canals"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421185427,
-    "wof:lastmodified":1566588346,
+    "wof:lastmodified":1690850762,
     "wof:name":"Canals",
     "wof:parent_id":421203253,
     "wof:placetype":"locality",

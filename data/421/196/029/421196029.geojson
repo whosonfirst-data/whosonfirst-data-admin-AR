@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Puan"
     ],
+    "name:ita_x_preferred":[
+        "Puan"
+    ],
     "name:nld_x_preferred":[
         "Puan"
     ],
@@ -48,6 +51,9 @@
         "Puan"
     ],
     "name:swe_x_preferred":[
+        "Puan"
+    ],
+    "name:tur_x_preferred":[
         "Puan"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421196029,
-    "wof:lastmodified":1566588251,
+    "wof:lastmodified":1690850686,
     "wof:name":"Puan",
     "wof:parent_id":1108718063,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:por_x_preferred":[
         "Chab\u00e1s"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0431\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Juan Chab\u00e1s"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421204429,
-    "wof:lastmodified":1566588159,
+    "wof:lastmodified":1690850606,
     "wof:name":"Chab\u00e1s",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

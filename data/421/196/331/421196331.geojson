@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0986\u09a8\u09be"
     ],
+    "name:deu_x_preferred":[
+        "Santa Ana"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03b1"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421196331,
-    "wof:lastmodified":1636502816,
+    "wof:lastmodified":1690850672,
     "wof:name":"Santa Ana",
     "wof:parent_id":421203247,
     "wof:placetype":"locality",

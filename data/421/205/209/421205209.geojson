@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "San Mart\u00edn Department"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "D\u00e9partement de San Mart\u00edn"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:ita_x_preferred":[
         "Dipartimento di San Mart\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3\u30fb\u30c7\u30d1\u30eb\u30bf\u30e1\u30f3\u30c8"
     ],
     "name:nld_x_preferred":[
         "San Mart\u00edn"
@@ -49,6 +55,9 @@
         "San Mart\u00edn"
     ],
     "name:spa_x_preferred":[
+        "Departamento San Mart\u00edn"
+    ],
+    "name:tur_x_preferred":[
         "Departamento San Mart\u00edn"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421205209,
-    "wof:lastmodified":1566588171,
+    "wof:lastmodified":1690850616,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108718429,
     "wof:placetype":"locality",

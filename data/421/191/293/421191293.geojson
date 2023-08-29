@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u0631\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0631\u0644\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0644\u06cc"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191293,
-    "wof:lastmodified":1566588262,
+    "wof:lastmodified":1690850697,
     "wof:name":"Gerli",
     "wof:parent_id":421191687,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Napenay"
     ],
+    "name:fra_x_preferred":[
+        "Napenay"
+    ],
     "name:nld_x_preferred":[
         "Napenay"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421173569,
-    "wof:lastmodified":1566588190,
+    "wof:lastmodified":1690850633,
     "wof:name":"Napenay",
     "wof:parent_id":421185059,
     "wof:placetype":"locality",

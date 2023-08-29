@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Trenel"
     ],
+    "name:tur_x_preferred":[
+        "Trenel"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0435\u043b\u044c"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421195715,
-    "wof:lastmodified":1566588128,
+    "wof:lastmodified":1690850576,
     "wof:name":"Trenel",
     "wof:parent_id":421177929,
     "wof:placetype":"locality",

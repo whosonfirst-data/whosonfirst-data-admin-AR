@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Aguaray"
+    ],
     "name:cym_x_preferred":[
         "Aguaray"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421195351,
-    "wof:lastmodified":1566588131,
+    "wof:lastmodified":1690850579,
     "wof:name":"Aguaray",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

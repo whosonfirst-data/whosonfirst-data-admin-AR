@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u064a\u0643\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0627\u0645\u064a\u0643\u0627\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09be\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05db\u05de\u05d9\u05e7\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05de\u05d9\u05e7\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u092e\u093f\u0915\u0932"
@@ -244,7 +250,7 @@
         }
     ],
     "wof:id":421174411,
-    "wof:lastmodified":1636502809,
+    "wof:lastmodified":1690850626,
     "wof:name":"Chamical",
     "wof:parent_id":1108718327,
     "wof:placetype":"locality",

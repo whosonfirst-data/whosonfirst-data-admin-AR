@@ -59,6 +59,9 @@
     "name:und_x_variant":[
         "Puerto Militar"
     ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u683c\u62c9\u8bfa\u6e2f\u6d77\u519b\u57fa\u5730"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3840114,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421193751,
-    "wof:lastmodified":1566588141,
+    "wof:lastmodified":1690850589,
     "wof:name":"Puerto Belgrano",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

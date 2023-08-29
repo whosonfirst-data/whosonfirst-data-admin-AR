@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Wanda"
+    ],
+    "name:cat_x_preferred":[
+        "Wanda"
+    ],
     "name:ceb_x_preferred":[
         "Wanda"
     ],
@@ -30,6 +36,9 @@
         "Wanda"
     ],
     "name:nld_x_preferred":[
+        "Wanda"
+    ],
+    "name:pol_x_preferred":[
         "Wanda"
     ],
     "name:por_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421174465,
-    "wof:lastmodified":1566588177,
+    "wof:lastmodified":1690850622,
     "wof:name":"Wanda",
     "wof:parent_id":421198471,
     "wof:placetype":"locality",

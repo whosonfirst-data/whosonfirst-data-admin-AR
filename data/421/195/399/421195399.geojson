@@ -17,8 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u044c\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Partido Ramallo"
+    ],
     "name:eng_x_preferred":[
         "Ramallo Partido"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u0627\u0645\u0627\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "Ramallo"
@@ -37,6 +46,9 @@
     ],
     "name:spa_x_preferred":[
         "Ramallo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u044c\u0439\u043e"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421195399,
-    "wof:lastmodified":1566588123,
+    "wof:lastmodified":1690850570,
     "wof:name":"Ramallo",
     "wof:parent_id":1108718069,
     "wof:placetype":"locality",

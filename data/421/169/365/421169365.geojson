@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Sierra Chica"
     ],
+    "name:fra_x_preferred":[
+        "Sierra Chica"
+    ],
     "name:nld_x_preferred":[
         "Sierra Chica"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421169365,
-    "wof:lastmodified":1566588145,
+    "wof:lastmodified":1690850594,
     "wof:name":"Sierra Chica",
     "wof:parent_id":1108718043,
     "wof:placetype":"locality",

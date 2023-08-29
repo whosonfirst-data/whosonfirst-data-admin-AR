@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.0400199805,-42.7700134087,-65.0400199805,-42.7700134087",
+    "geom:bbox":"-65.04002,-42.770013,-65.04002,-42.770013",
     "geom:latitude":-42.770013,
     "geom:longitude":-65.04002,
     "gn:country":"AR",
@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Madryn"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u06cc\u0646"
     ],
@@ -34,6 +40,9 @@
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09ae\u09be\u09a6\u09cd\u09b0\u09bf\u09a8"
     ],
     "name:bre_x_preferred":[
+        "Puerto Madryn"
+    ],
+    "name:cat_x_preferred":[
         "Puerto Madryn"
     ],
     "name:ceb_x_preferred":[
@@ -73,6 +82,9 @@
         "Puerto Madryn"
     ],
     "name:fra_x_preferred":[
+        "Puerto Madryn"
+    ],
+    "name:gle_x_preferred":[
         "Puerto Madryn"
     ],
     "name:guj_x_preferred":[
@@ -120,6 +132,9 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092e\u093e\u0921\u094d\u0930\u093f\u0928"
     ],
+    "name:mlg_x_preferred":[
+        "Puerto Madryn"
+    ],
     "name:msa_x_preferred":[
         "Puerto Madryn"
     ],
@@ -144,6 +159,9 @@
     "name:slk_x_preferred":[
         "Puerto Madryn"
     ],
+    "name:slv_x_preferred":[
+        "Puerto Madryn"
+    ],
     "name:spa_x_preferred":[
         "Puerto Madryn"
     ],
@@ -162,17 +180,26 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e49 \u0e21\u0e32\u0e14\u0e23\u0e35\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e21\u0e32\u0e14\u0e23\u0e34\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Puerto Madryn"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u041c\u0430\u0434\u0440\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u041c\u0430\u0434\u0440\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Madryn"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0645\u0627\u062f\u0631\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Puerto Madryn"
     ],
     "name:vie_x_preferred":[
         "Puerto Madryn"
@@ -302,7 +329,7 @@
     },
     "wof:country":"AR",
     "wof:created":1499130629,
-    "wof:geomhash":"fe555f0974c82ef08e9fbd5ee1efb13d",
+    "wof:geomhash":"50331425f1d9595593bd7665c0cb2c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -313,7 +340,7 @@
         }
     ],
     "wof:id":1141906713,
-    "wof:lastmodified":1566588573,
+    "wof:lastmodified":1690850808,
     "wof:name":"Puerto Madryn",
     "wof:parent_id":1108718233,
     "wof:placetype":"locality",
@@ -327,10 +354,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.04001998051592,
-    -42.77001340868327,
-    -65.04001998051592,
-    -42.77001340868327
+    -65.04002,
+    -42.770013,
+    -65.04002,
+    -42.770013
 ],
-  "geometry": {"coordinates":[-65.04001998051592,-42.77001340868327],"type":"Point"}
+  "geometry": {"coordinates":[-65.04002,-42.770013],"type":"Point"}
 }

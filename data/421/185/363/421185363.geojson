@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Leones"
     ],
+    "name:deu_x_preferred":[
+        "Leones"
+    ],
     "name:eng_x_preferred":[
         "Leones"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421185363,
-    "wof:lastmodified":1566588341,
+    "wof:lastmodified":1690850760,
     "wof:name":"Leones",
     "wof:parent_id":421171469,
     "wof:placetype":"locality",

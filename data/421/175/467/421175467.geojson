@@ -53,6 +53,9 @@
     "name:swe_x_preferred":[
         "Merlo"
     ],
+    "name:zho_x_preferred":[
+        "\u6885\u6d1b\u5225\u5885"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3844377,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421175467,
-    "wof:lastmodified":1566588226,
+    "wof:lastmodified":1690850660,
     "wof:name":"Merlo",
     "wof:parent_id":421189001,
     "wof:placetype":"locality",

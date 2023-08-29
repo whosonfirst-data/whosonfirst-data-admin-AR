@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "San-Lorenzo"
     ],
+    "name:ceb_x_variant":[
+        "San Lorenzo"
+    ],
     "name:cos_x_preferred":[
         "San Lurenzu"
     ],
@@ -73,6 +76,9 @@
     "name:por_x_preferred":[
         "San-Lorenzo"
     ],
+    "name:por_x_variant":[
+        "San Lorenzo"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0446\u043e"
     ],
@@ -90,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "San-Lorenzo"
+    ],
+    "name:swe_x_variant":[
+        "San Lorenzo"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
@@ -240,7 +249,7 @@
         }
     ],
     "wof:id":890430397,
-    "wof:lastmodified":1636502828,
+    "wof:lastmodified":1690850776,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108718185,
     "wof:placetype":"locality",

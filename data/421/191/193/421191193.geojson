@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "San Justo"
     ],
+    "name:gle_x_preferred":[
+        "San Justo"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ab8\u0acd\u0a9f\u0acb"
     ],
@@ -134,11 +137,20 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0b9c\u0bc2\u0bb8\u0bcd\u0b9f\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b9c\u0bc2\u0bb8\u0bcd\u0b9f\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0441\u0442\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c1c\u0c38\u0c4d\u0c38\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e08\u0e31\u0e2a\u0e42\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e06\u0e38\u0e2a\u0e42\u0e15"
     ],
     "name:tur_x_preferred":[
         "San Justo"
@@ -151,6 +163,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u0646 \u062c\u0648\u0633\u062a\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "San Justo"
     ],
     "name:vie_x_preferred":[
         "San Justo"
@@ -208,7 +223,7 @@
         }
     ],
     "wof:id":421191193,
-    "wof:lastmodified":1636502817,
+    "wof:lastmodified":1690850693,
     "wof:name":"San Justo",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

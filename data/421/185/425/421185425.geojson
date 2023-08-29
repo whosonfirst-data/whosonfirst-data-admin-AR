@@ -17,16 +17,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ceibas"
+    ],
     "name:ceb_x_preferred":[
         "Ceibas"
     ],
     "name:eng_x_preferred":[
         "Ceibas"
     ],
+    "name:fra_x_preferred":[
+        "Ceibas"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u056b\u0562\u0561\u057d"
     ],
     "name:nld_x_preferred":[
+        "Ceibas"
+    ],
+    "name:por_x_preferred":[
         "Ceibas"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421185425,
-    "wof:lastmodified":1566588342,
+    "wof:lastmodified":1690850760,
     "wof:name":"Ceibas",
     "wof:parent_id":1108718251,
     "wof:placetype":"locality",

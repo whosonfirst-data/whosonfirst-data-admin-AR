@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627 \u0641\u064a\u0633\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0627 \u0641\u064a\u0633\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bella Vista"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06cc\u0627 \u0648\u06cc\u0633\u062a\u0627"
     ],
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421194187,
-    "wof:lastmodified":1636502802,
+    "wof:lastmodified":1690850584,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108718101,
     "wof:placetype":"locality",

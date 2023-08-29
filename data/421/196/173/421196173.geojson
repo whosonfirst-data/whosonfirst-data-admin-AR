@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "General Las Heras"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0646\u0631\u0627\u0644 \u0644\u0627\u0633 \u0647\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "General Las Heras"
+    ],
     "name:ita_x_preferred":[
         "General Las Heras"
     ],
@@ -33,6 +39,9 @@
         "General Las Heras"
     ],
     "name:swe_x_preferred":[
+        "General Las Heras"
+    ],
+    "name:tur_x_preferred":[
         "General Las Heras"
     ],
     "name:ukr_x_preferred":[
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421196173,
-    "wof:lastmodified":1566588246,
+    "wof:lastmodified":1690850680,
     "wof:name":"Gral Las Heras",
     "wof:parent_id":1108717955,
     "wof:placetype":"locality",

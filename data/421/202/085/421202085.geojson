@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0646\u0633\u064a\u0646\u0627\u062f\u0627"
+    ],
     "name:cat_x_preferred":[
         "Ensenada"
     ],
@@ -29,8 +32,14 @@
     "name:epo_x_preferred":[
         "Ensenada"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0633\u0646\u0627\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ensenada"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0576\u057d\u0565\u0576\u0561\u0564\u0561"
     ],
     "name:ita_x_preferred":[
         "Ensenada"
@@ -54,6 +63,9 @@
         "Ensenada"
     ],
     "name:swe_x_preferred":[
+        "Ensenada"
+    ],
+    "name:tur_x_preferred":[
         "Ensenada"
     ],
     "name:zho_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421202085,
-    "wof:lastmodified":1566588167,
+    "wof:lastmodified":1690850612,
     "wof:name":"Ensenada",
     "wof:parent_id":1108717923,
     "wof:placetype":"locality",

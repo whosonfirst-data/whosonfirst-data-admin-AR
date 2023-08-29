@@ -35,6 +35,12 @@
     "name:pol_x_preferred":[
         "Y\u016bto"
     ],
+    "name:pol_x_variant":[
+        "Yuto"
+    ],
+    "name:por_x_preferred":[
+        "Yuto"
+    ],
     "name:spa_x_preferred":[
         "Yuto"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421205025,
-    "wof:lastmodified":1566588171,
+    "wof:lastmodified":1690850615,
     "wof:name":"Yuto",
     "wof:parent_id":421171555,
     "wof:placetype":"locality",

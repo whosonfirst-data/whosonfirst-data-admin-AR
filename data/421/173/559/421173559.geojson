@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
+    "name:ceb_x_preferred":[
+        "Ingenio La Esperanza"
+    ],
     "name:deu_x_preferred":[
         "La Esperanza"
     ],
@@ -38,11 +41,17 @@
     "name:oci_x_preferred":[
         "La Esperanza"
     ],
+    "name:por_x_preferred":[
+        "La Esperanza"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "La Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Ingenio La Esperanza"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421173559,
-    "wof:lastmodified":1566588190,
+    "wof:lastmodified":1690850633,
     "wof:name":"Ingenio la Esperanza",
     "wof:parent_id":421171259,
     "wof:placetype":"locality",

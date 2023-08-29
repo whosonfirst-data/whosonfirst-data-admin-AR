@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Chicoana"
     ],
+    "name:tur_x_preferred":[
+        "Chicoana"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043a\u043e\u0430\u043d\u0430"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421200073,
-    "wof:lastmodified":1566588283,
+    "wof:lastmodified":1690850716,
     "wof:name":"Chicoana",
     "wof:parent_id":421204067,
     "wof:placetype":"locality",

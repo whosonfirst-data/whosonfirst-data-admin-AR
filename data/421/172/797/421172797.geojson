@@ -50,6 +50,9 @@
     "name:ces_x_preferred":[
         "San Miguel de Tucum\u00e1n"
     ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
+    ],
     "name:dan_x_preferred":[
         "Tucum\u00e1n"
     ],
@@ -125,6 +128,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10db\u10d8\u10d2\u10d4\u10da-\u10d3\u10d4-\u10e2\u10e3\u10d9\u10e3\u10db\u10d0\u10dc\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c-\u0434\u0435-\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ubbf8\uac94\ub370\ud22c\ucfe0\ub9cc"
     ],
@@ -155,6 +161,9 @@
     "name:oci_x_preferred":[
         "San Miguel de Tucum\u00e1n"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c-\u0434\u0435-\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u06cc\u0644 \u062f\u06cc \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:por_x_preferred":[
         "San Miguel de Tucum\u00e1n"
+    ],
+    "name:que_x_preferred":[
+        "Tukman"
     ],
     "name:ron_x_preferred":[
         "Tucum\u00e1n"
@@ -197,6 +209,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0bc1\u0bb5\u0bb2\u0bcd \u0b9f\u0bc7 \u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b-\u0434\u0435-\u0422\u0443\u043a\u0443\u043c\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c28\u0c4d \u0c2e\u0c3f\u0c17\u0c41\u0c0e\u0c32\u0c4d \u0c21\u0c3f \u0c1f\u0c41\u0c15\u0c41\u0c2e\u0c28\u0c4d"
     ],
@@ -218,6 +233,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0646 \u0645\u06cc\u062c\u0648\u06cc\u0644 \u062f\u06d2 \u062a\u0648\u06a9\u0648\u0645\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Tukuman"
+    ],
     "name:vep_x_preferred":[
         "San Migel De Tukuman"
     ],
@@ -229,6 +247,9 @@
     ],
     "name:war_x_preferred":[
         "San Miguel de Tucum\u00e1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u7c73\u683c\u5c14-\u5fb7\u56fe\u5e93\u66fc"
     ],
     "name:zho_x_preferred":[
         "\u5723\u7c73\u683c\u5c14-\u5fb7\u56fe\u5e93\u66fc"
@@ -355,8 +376,8 @@
     "wof:belongsto":[
         102191577,
         85632505,
-        1108718529,
-        85668059
+        85668059,
+        1108718529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -386,7 +407,7 @@
         }
     ],
     "wof:id":421172797,
-    "wof:lastmodified":1610156128,
+    "wof:lastmodified":1690850640,
     "wof:megacity":1,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":1108718529,

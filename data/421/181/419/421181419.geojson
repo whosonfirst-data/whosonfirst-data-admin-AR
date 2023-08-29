@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Escalada"
     ],
+    "name:gle_x_preferred":[
+        "Escalada"
+    ],
     "name:por_x_preferred":[
         "Escalada"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421181419,
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1690850655,
     "wof:name":"Escalada",
     "wof:parent_id":1108718139,
     "wof:placetype":"locality",

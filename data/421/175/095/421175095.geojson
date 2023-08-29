@@ -23,6 +23,9 @@
     "name:deu_x_preferred":[
         "Termas de R\u00edo Hondo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03c1\u03bc\u03b1\u03c2 \u03bd\u03c4\u03b5 \u03a1\u03af\u03bf \u03a7\u03cc\u03bd\u03b4\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Termas de R\u00edo Hondo"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421175095,
-    "wof:lastmodified":1566588226,
+    "wof:lastmodified":1690850660,
     "wof:name":"Termas de rio hondo",
     "wof:parent_id":421186443,
     "wof:placetype":"locality",

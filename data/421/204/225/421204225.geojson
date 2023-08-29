@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0633\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Berisso"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b0\u09bf\u09b8\u09cd\u09af\u09cb"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Berisso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Berisso"
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":421204225,
-    "wof:lastmodified":1566588159,
+    "wof:lastmodified":1690850607,
     "wof:name":"Berisso",
     "wof:parent_id":1108717877,
     "wof:placetype":"locality",

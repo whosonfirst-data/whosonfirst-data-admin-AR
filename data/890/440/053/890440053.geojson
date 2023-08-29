@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Calchaqu\u00ed"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0447\u0430\u043a\u0438"
+    ],
     "name:spa_x_preferred":[
         "Calchaqu\u00ed"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890440053,
-    "wof:lastmodified":1566588348,
+    "wof:lastmodified":1690850765,
     "wof:name":"Calchaqu\u00ed",
     "wof:parent_id":1108718463,
     "wof:placetype":"locality",

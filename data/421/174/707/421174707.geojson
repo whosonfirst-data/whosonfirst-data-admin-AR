@@ -17,10 +17,16 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Brandsen"
+    ],
     "name:ceb_x_preferred":[
         "Brandsen"
     ],
     "name:eng_x_preferred":[
+        "Brandsen"
+    ],
+    "name:fra_x_preferred":[
         "Brandsen"
     ],
     "name:hun_x_preferred":[
@@ -48,6 +54,9 @@
         "Brandsen"
     ],
     "name:swe_x_preferred":[
+        "Brandsen"
+    ],
+    "name:tur_x_preferred":[
         "Brandsen"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421174707,
-    "wof:lastmodified":1566588173,
+    "wof:lastmodified":1690850618,
     "wof:name":"Brandsen",
     "wof:parent_id":1108717883,
     "wof:placetype":"locality",

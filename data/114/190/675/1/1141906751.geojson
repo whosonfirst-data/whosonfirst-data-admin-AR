@@ -66,6 +66,9 @@
     "name:nld_x_preferred":[
         "Chumbicha"
     ],
+    "name:pol_x_preferred":[
+        "Chumbicha"
+    ],
     "name:por_x_preferred":[
         "Chumbicha"
     ],
@@ -76,6 +79,9 @@
         "Chumbicha"
     ],
     "name:swe_x_preferred":[
+        "Chumbicha"
+    ],
+    "name:tur_x_preferred":[
         "Chumbicha"
     ],
     "name:ukr_x_preferred":[
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":1141906751,
-    "wof:lastmodified":1636502847,
+    "wof:lastmodified":1690850802,
     "wof:name":"Chumbicha",
     "wof:parent_id":1108718147,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
     "name:por_x_preferred":[
         "Tolosa"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043e\u0441\u0430"
+    ],
     "name:sco_x_preferred":[
         "Tolosa"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421202039,
-    "wof:lastmodified":1566588168,
+    "wof:lastmodified":1690850612,
     "wof:name":"Tolosa",
     "wof:parent_id":1108717993,
     "wof:placetype":"locality",

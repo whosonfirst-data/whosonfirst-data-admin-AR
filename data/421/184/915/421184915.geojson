@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0641\u0627\u0626\u064a\u0644 \u0643\u0627\u0633\u062a\u064a\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0641\u0627\u0626\u064a\u0644 \u0643\u0627\u0633\u062a\u064a\u0644\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0627\u0641\u0627\u0626\u0644 \u06a9\u0627\u0633\u062a\u06cc\u0648"
     ],
@@ -48,6 +51,9 @@
         "Rafael Castillo"
     ],
     "name:fra_x_preferred":[
+        "Rafael Castillo"
+    ],
+    "name:gle_x_preferred":[
         "Rafael Castillo"
     ],
     "name:guj_x_preferred":[
@@ -125,6 +131,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e1f\u0e32\u0e40\u0e2d\u0e25 \u0e40\u0e04\u0e2a\u0e15\u0e34\u0e25\u0e42\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e32\u0e1f\u0e32\u0e40\u0e2d\u0e25 \u0e01\u0e31\u0e2a\u0e15\u0e34\u0e42\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Rafael Castillo"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:urd_x_variant":[
         "\u0631\u0641\u0627\u0626\u06cc\u0644 \u06a9\u0627\u0633\u062a\u06cc\u0644\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Rafael Castillo"
     ],
     "name:vie_x_preferred":[
         "Rafael Castillo"
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":421184915,
-    "wof:lastmodified":1566588291,
+    "wof:lastmodified":1690850723,
     "wof:name":"Rafael Castillo",
     "wof:parent_id":1108717991,
     "wof:placetype":"locality",

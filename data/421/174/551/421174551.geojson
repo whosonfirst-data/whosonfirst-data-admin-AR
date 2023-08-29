@@ -41,6 +41,9 @@
     "name:por_x_preferred":[
         "Arequito"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u043a\u0438\u0442\u043e"
+    ],
     "name:spa_x_preferred":[
         "Arequito"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421174551,
-    "wof:lastmodified":1566588173,
+    "wof:lastmodified":1690850618,
     "wof:name":"Arequito",
     "wof:parent_id":421171507,
     "wof:placetype":"locality",

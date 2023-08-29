@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0641\u0631\u064a\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u064a\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Fr\u00edas"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b0\u09bf\u09df\u09be\u09b8"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Fr\u00edas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u06cc\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Fr\u00edas"
@@ -224,7 +233,7 @@
         }
     ],
     "wof:id":1141908103,
-    "wof:lastmodified":1636502848,
+    "wof:lastmodified":1690850803,
     "wof:name":"Frias",
     "wof:parent_id":1108718153,
     "wof:placetype":"locality",

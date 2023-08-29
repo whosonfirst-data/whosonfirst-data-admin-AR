@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cruz del Eje"
+    ],
     "name:ceb_x_preferred":[
         "Cruz del Eje"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Cruz del Eje"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0632 \u062f\u0644 \u0627\u0698\u0647"
     ],
     "name:fra_x_preferred":[
         "Cruz del Eje"
@@ -51,6 +57,9 @@
         "Cruz del Eje"
     ],
     "name:swe_x_preferred":[
+        "Cruz del Eje"
+    ],
+    "name:tur_x_preferred":[
         "Cruz del Eje"
     ],
     "name:ukr_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421167941,
-    "wof:lastmodified":1566588144,
+    "wof:lastmodified":1690850592,
     "wof:name":"Cruz del Eje",
     "wof:parent_id":421191183,
     "wof:placetype":"locality",

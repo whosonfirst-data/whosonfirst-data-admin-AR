@@ -23,6 +23,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u062f\u06cc\u0627 \u0648\u0627\u0644 \u0645\u0627\u0631\u06cc\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Aldea Valle Mar\u00eda"
+    ],
     "name:nld_x_preferred":[
         "Aldea Valle Mar\u00eda"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0434\u0435\u0430-\u0412\u0430\u043b\u044c\u0454-\u041c\u0430\u0440\u0456\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u6751\u8c37\u746a\u9e97\u4e9e"
     ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421186079,
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1690850649,
     "wof:name":"Valle Mar\u00eda",
     "wof:parent_id":421172581,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Garup\u00e1"
     ],
+    "name:zho_x_preferred":[
+        "\u52a0\u9c81\u5e15"
+    ],
     "qs:gn_country":"AR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3433836,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421181525,
-    "wof:lastmodified":1566588221,
+    "wof:lastmodified":1690850656,
     "wof:name":"Garup\u00e1",
     "wof:parent_id":1108718367,
     "wof:placetype":"locality",

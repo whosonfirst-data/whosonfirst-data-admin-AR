@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Huerta Grande"
+    ],
     "name:eng_x_preferred":[
         "Huerta Grande"
     ],
@@ -27,6 +30,9 @@
         "Huerta Grande"
     ],
     "name:spa_x_preferred":[
+        "Huerta Grande"
+    ],
+    "name:swe_x_preferred":[
         "Huerta Grande"
     ],
     "name:ukr_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421187105,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1690850632,
     "wof:name":"Huerta Grande",
     "wof:parent_id":421170503,
     "wof:placetype":"locality",

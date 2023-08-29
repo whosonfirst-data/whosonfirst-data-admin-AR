@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Turdera"
+    ],
+    "name:cat_x_preferred":[
+        "Turdera"
+    ],
     "name:ceb_x_preferred":[
         "Turdera"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421192279,
-    "wof:lastmodified":1566588121,
+    "wof:lastmodified":1690850567,
     "wof:name":"Turdera",
     "wof:parent_id":1108717855,
     "wof:placetype":"locality",

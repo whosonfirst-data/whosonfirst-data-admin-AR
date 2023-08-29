@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "General Enrique Mosconi"
+    ],
     "name:eng_x_preferred":[
         "General Mosconi"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:spa_x_preferred":[
         "General Mosconi"
+    ],
+    "name:swe_x_preferred":[
+        "General Enrique Mosconi"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041c\u043e\u0441\u043a\u043e\u043d\u0456"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421178453,
-    "wof:lastmodified":1566588313,
+    "wof:lastmodified":1690850740,
     "wof:name":"General enrique mosconi",
     "wof:parent_id":421175287,
     "wof:placetype":"locality",

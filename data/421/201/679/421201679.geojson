@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lapachito"
     ],
+    "name:fra_x_preferred":[
+        "Lapachito"
+    ],
     "name:nld_x_preferred":[
         "Lapachito"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421201679,
-    "wof:lastmodified":1566588288,
+    "wof:lastmodified":1690850720,
     "wof:name":"Lapachito",
     "wof:parent_id":1108718205,
     "wof:placetype":"locality",

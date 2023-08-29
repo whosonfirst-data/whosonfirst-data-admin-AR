@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Sumampa"
     ],
+    "name:por_x_preferred":[
+        "Sumampa"
+    ],
     "name:spa_x_preferred":[
         "Sumampa"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890440129,
-    "wof:lastmodified":1566588349,
+    "wof:lastmodified":1690850766,
     "wof:name":"Sumampa",
     "wof:parent_id":1108718503,
     "wof:placetype":"locality",

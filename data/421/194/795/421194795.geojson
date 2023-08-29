@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Pampa Almir\u00f3n"
     ],
+    "name:fra_x_preferred":[
+        "Pampa Almir\u00f3n"
+    ],
     "name:nld_x_preferred":[
         "Pampa Almir\u00f3n"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421194795,
-    "wof:lastmodified":1566588138,
+    "wof:lastmodified":1690850585,
     "wof:name":"Pampa Almir\u00f3n",
     "wof:parent_id":1108718207,
     "wof:placetype":"locality",

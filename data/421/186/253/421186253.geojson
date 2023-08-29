@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Paso de Pino Hachado"
     ],
+    "name:deu_x_preferred":[
+        "Paso Pino Hachado"
+    ],
     "name:eng_x_preferred":[
         "Pino Hachado Pass"
     ],
     "name:lit_x_preferred":[
         "Pino Ha\u010dado per\u0117ja"
+    ],
+    "name:lld_x_preferred":[
+        "Pino Hachado Pass"
     ],
     "name:lmo_x_preferred":[
         "Pass de Pino Hachado"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421186253,
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1690850652,
     "wof:name":"Pino Hachado",
     "wof:parent_id":421202309,
     "wof:placetype":"locality",

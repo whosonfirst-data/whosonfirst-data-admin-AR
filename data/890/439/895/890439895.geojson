@@ -43,10 +43,16 @@
     "name:pol_x_preferred":[
         "Quimil\u00ed"
     ],
+    "name:por_x_preferred":[
+        "Quimil\u00ed"
+    ],
     "name:spa_x_preferred":[
         "Quimil\u00ed"
     ],
     "name:swe_x_preferred":[
+        "Quimil\u00ed"
+    ],
+    "name:tur_x_preferred":[
         "Quimil\u00ed"
     ],
     "name:ukr_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890439895,
-    "wof:lastmodified":1566588353,
+    "wof:lastmodified":1690850773,
     "wof:name":"Quimil\u00ed",
     "wof:parent_id":1108718497,
     "wof:placetype":"locality",

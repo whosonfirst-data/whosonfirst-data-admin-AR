@@ -29,6 +29,9 @@
     "name:por_x_preferred":[
         "Anexo:Lista de munic\u00edpios de Santa F\u00e9#Comunas"
     ],
+    "name:por_x_variant":[
+        "Ibarlucea"
+    ],
     "name:spa_x_preferred":[
         "Ibarlucea"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421193489,
-    "wof:lastmodified":1566588142,
+    "wof:lastmodified":1690850590,
     "wof:name":"Ibarlucea",
     "wof:parent_id":421171509,
     "wof:placetype":"locality",

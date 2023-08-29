@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0643\u0648\u0644\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Lincoln"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u0999\u09cd\u0995\u09a8"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Lincoln"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u06a9\u0644\u0646"
     ],
     "name:fra_x_preferred":[
         "Lincoln"
@@ -78,6 +84,9 @@
         "Lincoln"
     ],
     "name:swe_x_preferred":[
+        "Lincoln"
+    ],
+    "name:tur_x_preferred":[
         "Lincoln"
     ],
     "name:ukr_x_preferred":[
@@ -238,7 +247,7 @@
         }
     ],
     "wof:id":421172803,
-    "wof:lastmodified":1636502812,
+    "wof:lastmodified":1690850643,
     "wof:name":"Lincoln",
     "wof:parent_id":1108718003,
     "wof:placetype":"locality",

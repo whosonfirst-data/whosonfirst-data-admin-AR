@@ -32,6 +32,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05d9 \u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
+    ],
     "name:hun_x_preferred":[
         "San Salvador"
     ],
@@ -39,6 +42,9 @@
         "San Salvador"
     ],
     "name:nld_x_preferred":[
+        "San Salvador"
+    ],
+    "name:pol_x_preferred":[
         "San Salvador"
     ],
     "name:por_x_preferred":[
@@ -54,6 +60,9 @@
         "San Salvador"
     ],
     "name:swe_x_preferred":[
+        "San Salvador"
+    ],
+    "name:tur_x_preferred":[
         "San Salvador"
     ],
     "name:ukr_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":421198231,
-    "wof:lastmodified":1636502816,
+    "wof:lastmodified":1690850670,
     "wof:name":"San Salvador",
     "wof:parent_id":1108718255,
     "wof:placetype":"locality",
