@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147816,
-    "geom:area_square_m":1619452696.076118,
+    "geom:area_square_m":1619452452.495126,
     "geom:bbox":"-61.575112,-27.804285,-61.014959,-27.47196",
     "geom:latitude":-27.62234,
     "geom:longitude":-61.329909,
@@ -40,6 +40,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "2 De Abril"
+    ],
     "name:eng_x_variant":[
         "2 de Abril",
         "Fray Justo Santa Mar\u00eda de Oro"
@@ -60,7 +63,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852544,
-    "wof:geomhash":"4c296b50d1309f84672c1555f043f648",
+    "wof:geomhash":"ea7154278d7f01eee8e8a57771487ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108718197,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1694492584,
     "wof:name":"2 De Abril",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.116349,
-    "geom:area_square_m":33866706732.413841,
+    "geom:area_square_m":33866706732.413033,
     "geom:bbox":"-72.5541482336,-49.2106951997,-69.73,-47.1993045",
     "geom:latitude":-48.287701,
     "geom:longitude":-71.114049,
@@ -46,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "R\u00edo Chico"
+    ],
+    "name:eng_x_preferred":[
+        "Rio Chico"
     ],
     "name:eng_x_variant":[
         "Rio Chico",
@@ -103,7 +106,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab0983bff9b555514eb90fb6b148c718",
+    "wof:geomhash":"be326be369860b87e3f51b9d2a1def90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421198477,
-    "wof:lastmodified":1582358634,
+    "wof:lastmodified":1694492503,
     "wof:name":"Rio Chico",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.249032,
-    "geom:area_square_m":13447304266.524429,
+    "geom:area_square_m":13447304266.524286,
     "geom:bbox":"-67.1031686966,-30.1848661028,-65.5474994233,-28.7361772585",
     "geom:latitude":-29.460358,
     "geom:longitude":-66.352209,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (La Rioja)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -170,7 +170,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852591,
-    "wof:geomhash":"0513e0485bcd17aad6b5a47b4ad6a1e4",
+    "wof:geomhash":"c85a6710aa4c7006ed0d062217bf4902",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108718321,
-    "wof:lastmodified":1566587972,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

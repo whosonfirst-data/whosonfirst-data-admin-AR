@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023695,
-    "geom:area_square_m":240368392.160279,
+    "geom:area_square_m":240368289.059852,
     "geom:bbox":"-58.64937,-35.003923,-58.491974,-34.746518",
     "geom:latitude":-34.877009,
     "geom:longitude":-58.565203,
@@ -43,6 +43,9 @@
     "name:deu_x_preferred":[
         "Ezeiza"
     ],
+    "name:eng_x_preferred":[
+        "Ezeiza"
+    ],
     "name:eng_x_variant":[
         "Ezeiza",
         "Esteban Echeverr\u00eda"
@@ -72,7 +75,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852457,
-    "wof:geomhash":"7a2634e6685f6cc145075ecf6896bc40",
+    "wof:geomhash":"5b0dc066cdc3c160be4e0b842a46bf04",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108717933,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1694492584,
     "wof:name":"Ezeiza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

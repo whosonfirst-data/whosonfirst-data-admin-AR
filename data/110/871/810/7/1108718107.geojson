@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064663,
-    "geom:area_square_m":654394403.152232,
+    "geom:area_square_m":654394375.736003,
     "geom:bbox":"-58.597526,-35.238876,-58.238152,-34.926816",
     "geom:latitude":-35.071271,
     "geom:longitude":-58.432971,
@@ -53,6 +53,9 @@
         "San Vicente"
     ],
     "name:deu_x_preferred":[
+        "San Vicente"
+    ],
+    "name:eng_x_preferred":[
         "San Vicente"
     ],
     "name:eng_x_variant":[
@@ -140,7 +143,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852502,
-    "wof:geomhash":"effb14e78146cfee119c5782405b901c",
+    "wof:geomhash":"c03f0bb39a839ed22fc6286906048ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1108718107,
-    "wof:lastmodified":1636502780,
+    "wof:lastmodified":1694492942,
     "wof:name":"San Vicente",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

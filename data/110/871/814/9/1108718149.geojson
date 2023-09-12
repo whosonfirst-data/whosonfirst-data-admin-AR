@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036677,
-    "geom:area_square_m":398900179.34853,
+    "geom:area_square_m":398900179.348419,
     "geom:bbox":"-65.9518067066,-28.5552621291,-65.7240131425,-28.2640972543",
     "geom:latitude":-28.410399,
     "geom:longitude":-65.836222,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Catamarca)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -170,7 +170,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852513,
-    "wof:geomhash":"2ac3f282ff06056f27934cdcf0d35bce",
+    "wof:geomhash":"771c4e0fb60746124c7af15d0c142e11",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108718149,
-    "wof:lastmodified":1566587994,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

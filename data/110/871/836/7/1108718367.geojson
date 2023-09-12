@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092605,
-    "geom:area_square_m":1015277063.925283,
+    "geom:area_square_m":1015277063.925259,
     "geom:bbox":"-56.0569114406,-27.7576680373,-55.6062909885,-27.3162266814",
     "geom:latitude":-27.545502,
     "geom:longitude":-55.857067,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Posadas)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -170,7 +170,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852608,
-    "wof:geomhash":"6c460ebb0e0ff15ebd06b2e88f59c2c2",
+    "wof:geomhash":"cad3176f2294d97555675cc98b7a9592",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108718367,
-    "wof:lastmodified":1566588002,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

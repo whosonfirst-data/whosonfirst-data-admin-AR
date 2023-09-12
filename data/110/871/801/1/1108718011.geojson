@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182029,
-    "geom:area_square_m":1839560359.199816,
+    "geom:area_square_m":1839560513.879586,
     "geom:bbox":"-58.03548,-35.449546,-57.299464,-34.930452",
     "geom:latitude":-35.186024,
     "geom:longitude":-57.684966,
@@ -59,6 +59,9 @@
         "Magdalena"
     ],
     "name:deu_x_preferred":[
+        "Magdalena"
+    ],
+    "name:eng_x_preferred":[
         "Magdalena"
     ],
     "name:eng_x_variant":[
@@ -161,7 +164,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852481,
-    "wof:geomhash":"e5f92af4f8eaf72b268d3669c2840efd",
+    "wof:geomhash":"8cb5135bff17b8c14d256c92bd159624",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1108718011,
-    "wof:lastmodified":1636502787,
+    "wof:lastmodified":1694492942,
     "wof:name":"Magdalena",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

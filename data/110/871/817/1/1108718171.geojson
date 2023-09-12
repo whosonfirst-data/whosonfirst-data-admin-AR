@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041741,
-    "geom:area_square_m":457916818.859354,
+    "geom:area_square_m":457916818.859359,
     "geom:bbox":"-58.8848530528,-27.606567688,-58.6020572663,-27.3534448609",
     "geom:latitude":-27.476977,
     "geom:longitude":-58.743199,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Corrientes)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -170,7 +170,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852532,
-    "wof:geomhash":"0171be6f57295e225e4525928f6f8993",
+    "wof:geomhash":"c4d45c5a2ff92ddee83040bd02d0e8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108718171,
-    "wof:lastmodified":1566587962,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

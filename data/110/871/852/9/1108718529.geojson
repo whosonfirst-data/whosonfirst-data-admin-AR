@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008362,
-    "geom:area_square_m":92267975.363951,
+    "geom:area_square_m":92267975.363972,
     "geom:bbox":"-65.273304,-26.907013,-65.158204,-26.783275",
     "geom:latitude":-26.833234,
     "geom:longitude":-65.217489,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Tucum\u00e1n)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -173,7 +173,7 @@
     ],
     "wof:country":"AR",
     "wof:created":1475852680,
-    "wof:geomhash":"ebdd9593b149fcc675b7868495dc6c8e",
+    "wof:geomhash":"bce17f72fbac68eb32515212a46cbc1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":1108718529,
-    "wof:lastmodified":1608696100,
+    "wof:lastmodified":1694492555,
     "wof:name":"Capital",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

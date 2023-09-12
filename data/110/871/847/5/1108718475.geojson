@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19168,
-    "geom:area_square_m":2095114734.429735,
+    "geom:area_square_m":2095114734.429815,
     "geom:bbox":"-64.7258087441,-28.205550623,-64.1018772049,-27.5964837527",
     "geom:latitude":-27.876413,
     "geom:longitude":-64.438159,
@@ -71,7 +71,7 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Santiago del Estero)"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -170,7 +170,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852662,
-    "wof:geomhash":"d0e2a790277cc150ce569d96505ab4e1",
+    "wof:geomhash":"884c390bc7f111e4cae877961c912ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108718475,
-    "wof:lastmodified":1566587993,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85668053,
     "wof:placetype":"county",
