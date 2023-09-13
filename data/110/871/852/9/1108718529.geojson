@@ -73,9 +73,6 @@
     "name:eng_x_preferred":[
         "Capital"
     ],
-    "name:eng_x_variant":[
-        "Capital"
-    ],
     "name:ext_x_preferred":[
         "Capital"
     ],
@@ -183,7 +180,7 @@
         }
     ],
     "wof:id":1108718529,
-    "wof:lastmodified":1694492555,
+    "wof:lastmodified":1694639716,
     "wof:name":"Capital",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

@@ -75,7 +75,6 @@
         "Capital"
     ],
     "name:eng_x_variant":[
-        "Capital",
         "La Capital"
     ],
     "name:ext_x_preferred":[
@@ -225,7 +224,7 @@
         }
     ],
     "wof:id":421180887,
-    "wof:lastmodified":1694492503,
+    "wof:lastmodified":1694639689,
     "wof:name":"Capital",
     "wof:parent_id":85668031,
     "wof:placetype":"county",
