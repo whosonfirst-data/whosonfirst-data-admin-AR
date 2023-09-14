@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005561,
-    "geom:area_square_m":57745481.533851,
+    "geom:area_square_m":57745481.53385,
     "geom:bbox":"-68.9664728309,-32.9078827853,-68.8212867817,-32.854458241",
     "geom:latitude":-32.880419,
     "geom:longitude":-68.895072,
@@ -71,9 +71,6 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Mendoza)"
-    ],
-    "name:eng_x_variant":[
         "Capital"
     ],
     "name:ext_x_preferred":[
@@ -170,7 +167,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852599,
-    "wof:geomhash":"7b502d8c934b80ecde6ee164d57911a5",
+    "wof:geomhash":"00790066aa7a585c444ec79ebe35e5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +177,7 @@
         }
     ],
     "wof:id":1108718353,
-    "wof:lastmodified":1566587972,
+    "wof:lastmodified":1694639681,
     "wof:name":"Capital",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

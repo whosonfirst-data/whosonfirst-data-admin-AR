@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":278.195352,
-    "geom:area_square_m":2779928962147.630859,
+    "geom:area_square_m":2779931759708.793457,
     "geom:bbox":"-73.56036,-55.059555,-53.637481,-21.780814",
     "geom:latitude":-35.386399,
     "geom:longitude":-65.167368,
@@ -14,6 +14,9 @@
     "iso:country":"AR",
     "itu:country_code":[
         "54"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AR"
@@ -1351,7 +1354,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"54",
     "statoids:ds":"RA",
     "statoids:fifa":"ARG",
@@ -1413,7 +1417,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"abe8c0897a21819d0166bca216e09bf2",
+    "wof:geomhash":"fb14995fd6e3f61896700c9c656bf613",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1427,12 +1431,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850551,
+    "wof:lastmodified":1694639641,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":43417000,
-    "wof:population_rank":15,
+    "wof:population":44938712,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

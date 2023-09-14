@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053123,
-    "geom:area_square_m":560583951.78849,
+    "geom:area_square_m":560583877.799874,
     "geom:bbox":"-64.313594,-31.528284,-64.050786,-31.305497",
     "geom:latitude":-31.415348,
     "geom:longitude":-64.183764,
@@ -72,10 +72,9 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (C\u00f3rdoba)"
+        "Capital"
     ],
     "name:eng_x_variant":[
-        "Capital",
         "La Capital"
     ],
     "name:ext_x_preferred":[
@@ -215,7 +214,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8670afa0642c0af83f0d6430b03d443",
+    "wof:geomhash":"51afa09793809f9897aeb737bea4d930",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +224,7 @@
         }
     ],
     "wof:id":421180887,
-    "wof:lastmodified":1690850630,
+    "wof:lastmodified":1694639689,
     "wof:name":"Capital",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

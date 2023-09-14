@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01451,
-    "geom:area_square_m":152757695.304745,
+    "geom:area_square_m":152757678.635569,
     "geom:bbox":"-68.44534,-31.781293,-68.336421,-31.528833",
     "geom:latitude":-31.638352,
     "geom:longitude":-68.389198,
@@ -40,6 +40,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "9 De Julio"
+    ],
     "name:eng_x_variant":[
         "9 de Julio",
         "Capital"
@@ -60,7 +63,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852641,
-    "wof:geomhash":"a0398e0eaa1aa6897b6cf46cad9107be",
+    "wof:geomhash":"8b4e78fb48c8df7e0b2888a4975be545",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108718425,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1694492584,
     "wof:name":"9 De Julio",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

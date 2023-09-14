@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139752,
-    "geom:area_square_m":1567418629.625594,
+    "geom:area_square_m":1567418629.625716,
     "geom:bbox":"-65.586757767,-25.2808143758,-65.0292260047,-24.654604788",
     "geom:latitude":-24.900603,
     "geom:longitude":-65.271925,
@@ -71,9 +71,6 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Salta)"
-    ],
-    "name:eng_x_variant":[
         "Capital"
     ],
     "name:ext_x_preferred":[
@@ -170,7 +167,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852630,
-    "wof:geomhash":"dff6d91547f63313f90f91c2e5748004",
+    "wof:geomhash":"093ee175b6c184b67f5b09ec67ce87ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +177,7 @@
         }
     ],
     "wof:id":1108718405,
-    "wof:lastmodified":1566587994,
+    "wof:lastmodified":1694639681,
     "wof:name":"Capital",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003931,
-    "geom:area_square_m":39996166.661543,
+    "geom:area_square_m":39996272.533939,
     "geom:bbox":"-58.728998,-34.68752,-58.65316,-34.593139",
     "geom:latitude":-34.637594,
     "geom:longitude":-58.688328,
@@ -40,6 +40,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ituzaingo"
+    ],
     "name:eng_x_variant":[
         "Ituzaingo",
         "Mor\u00f3n"
@@ -60,7 +63,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852473,
-    "wof:geomhash":"96ab416959e4783b71ab0454bbaf6bb6",
+    "wof:geomhash":"3ea5d9055f6aa49ef9f4188e927b38b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108717981,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1694492584,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

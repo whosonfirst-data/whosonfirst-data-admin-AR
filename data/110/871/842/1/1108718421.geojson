@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002802,
-    "geom:area_square_m":29536410.548767,
+    "geom:area_square_m":29536410.548777,
     "geom:bbox":"-68.5703083235,-31.552107975,-68.500331368,-31.494225042",
     "geom:latitude":-31.522442,
     "geom:longitude":-68.53292,
@@ -63,6 +63,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital"
@@ -149,7 +152,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852639,
-    "wof:geomhash":"d5bd619a3f6893a5fb419b2439c268c2",
+    "wof:geomhash":"7420b2be2712d17e807f0805aeba190c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1108718421,
-    "wof:lastmodified":1566587959,
+    "wof:lastmodified":1694492372,
     "wof:name":"Capital",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

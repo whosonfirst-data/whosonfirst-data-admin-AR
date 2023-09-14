@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163032,
-    "geom:area_square_m":1642669708.725384,
+    "geom:area_square_m":1642669554.479824,
     "geom:bbox":"-57.787279,-35.723133,-57.117916,-35.191915",
     "geom:latitude":-35.427503,
     "geom:longitude":-57.395763,
@@ -40,6 +40,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Punta Indio"
+    ],
     "name:eng_x_variant":[
         "Punta Indio",
         "Magdalena"
@@ -60,7 +63,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852493,
-    "wof:geomhash":"e705d221ff1adc04a0492094cb06d22b",
+    "wof:geomhash":"100fbbcd43b9084cf446e319c653167a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108718065,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1694492584,
     "wof:name":"Punta Indio",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

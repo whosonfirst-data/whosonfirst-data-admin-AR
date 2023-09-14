@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253298,
-    "geom:area_square_m":2517548932.898268,
+    "geom:area_square_m":2517548932.898307,
     "geom:bbox":"-64.5038042538,-36.8148913919,-63.9311785946,-36.2668162388",
     "geom:latitude":-36.505641,
     "geom:longitude":-64.190382,
@@ -71,9 +71,6 @@
         "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Capital (Santa Rosa)"
-    ],
-    "name:eng_x_variant":[
         "Capital"
     ],
     "name:ext_x_preferred":[
@@ -170,7 +167,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852580,
-    "wof:geomhash":"f90a3f61251e90a2a29d7f8558087ffd",
+    "wof:geomhash":"833d2ce6984de73f34aa6c18cc8875c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +177,7 @@
         }
     ],
     "wof:id":1108718291,
-    "wof:lastmodified":1566587955,
+    "wof:lastmodified":1694639681,
     "wof:name":"Capital",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

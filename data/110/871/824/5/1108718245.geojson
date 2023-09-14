@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303906,
-    "geom:area_square_m":3211900746.040536,
+    "geom:area_square_m":3211900746.039509,
     "geom:bbox":"-58.5723955792,-31.7257024519,-57.9053894064,-30.8247708912",
     "geom:latitude":-31.270898,
     "geom:longitude":-58.226445,
@@ -59,6 +59,9 @@
         "Concordia"
     ],
     "name:deu_x_preferred":[
+        "Concordia"
+    ],
+    "name:eng_x_preferred":[
         "Concordia"
     ],
     "name:eng_x_variant":[
@@ -158,7 +161,7 @@
     },
     "wof:country":"AR",
     "wof:created":1475852559,
-    "wof:geomhash":"1c0135c2d3ca90f86b2d566dc0eb0cc4",
+    "wof:geomhash":"0825199678d48dbbcd790ab00a522458",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1108718245,
-    "wof:lastmodified":1566587989,
+    "wof:lastmodified":1694492372,
     "wof:name":"Concordia",
     "wof:parent_id":85668073,
     "wof:placetype":"county",
