@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.708024,
-    "geom:area_square_m":53456991119.741051,
+    "geom:area_square_m":53456991123.645287,
     "geom:bbox":"-67.21423,-24.613494,-64.15,-21.780814",
     "geom:latitude":-23.318386,
     "geom:longitude":-65.765825,
@@ -428,17 +428,19 @@
         "gn:id":3853404,
         "gp:id":2344684,
         "hasc:id":"AR.JY",
+        "iso:code":"AR-Y",
         "iso:id":"AR-Y",
         "qs_pg:id":423555,
         "unlc:id":"AR-Y",
         "wd:id":"Q44764",
         "wk:page":"Jujuy Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3201cd06443955a60de9019392eb4301",
+    "wof:geomhash":"7f42ddaebef5fad6f3c901ad19838981",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -453,7 +455,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850548,
+    "wof:lastmodified":1695884480,
     "wof:name":"Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019978,
-    "geom:area_square_m":203304609.978745,
+    "geom:area_square_m":203304671.000744,
     "geom:bbox":"-58.531519,-34.705293,-58.335143,-34.527541",
     "geom:latitude":-34.614507,
     "geom:longitude":-58.44661,
@@ -835,12 +835,14 @@
         "gn:id":3433955,
         "gp:id":2344681,
         "hasc:id":"AR.DF",
+        "iso:code":"AR-C",
         "iso:id":"AR-C",
         "qs_pg:id":1146430,
         "unlc:id":"AR-C",
         "wd:id":"Q44754",
         "wk:page":"Buenos Aires"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421174285
     ],
@@ -849,7 +851,7 @@
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"d7a0c95b9afc88a4053cb34e8bc1933f",
+    "wof:geomhash":"d3b33e800cb7a7a997cc6196ee18f3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -864,7 +866,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850544,
+    "wof:lastmodified":1695884656,
     "wof:name":"Ciudad de Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

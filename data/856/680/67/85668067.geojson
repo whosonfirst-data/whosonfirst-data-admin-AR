@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.732466,
-    "geom:area_square_m":75502554022.972626,
+    "geom:area_square_m":75502554021.428452,
     "geom:bbox":"-62.34947,-26.878748,-57.55515,-22.472116",
     "geom:latitude":-24.897333,
     "geom:longitude":-59.931035,
@@ -407,17 +407,19 @@
         "gn:id":3433896,
         "gp:id":2344683,
         "hasc:id":"AR.FM",
+        "iso:code":"AR-P",
         "iso:id":"AR-P",
         "qs_pg:id":219496,
         "unlc:id":"AR-P",
         "wd:id":"Q44761",
         "wk:page":"Formosa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4bf075ca072cdb72bcf115588071c307",
+    "wof:geomhash":"7f04a780580ebaadb1da60b6452a2b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -432,7 +434,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850541,
+    "wof:lastmodified":1695884940,
     "wof:name":"Formosa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

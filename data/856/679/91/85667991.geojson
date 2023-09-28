@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.85826,
-    "geom:area_square_m":243036225041.273315,
+    "geom:area_square_m":243036224590.548676,
     "geom:bbox":"-73.56036,-52.382879,-65.721222,-45.991155",
     "geom:latitude":-48.812122,
     "geom:longitude":-69.948741,
@@ -425,17 +425,19 @@
         "gn:id":3836350,
         "gp:id":2344694,
         "hasc:id":"AR.SC",
+        "iso:code":"AR-Z",
         "iso:id":"AR-Z",
         "qs_pg:id":241195,
         "unlc:id":"AR-Z",
         "wd:id":"Q44821",
         "wk:page":"Santa Cruz Province, Argentina"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d250da2146ad17fa1f5032b1c4e37e05",
+    "wof:geomhash":"254452e328a3840222f32d833d7d2c81",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -450,7 +452,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850554,
+    "wof:lastmodified":1695884943,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

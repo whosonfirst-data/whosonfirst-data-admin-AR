@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.713052,
-    "geom:area_square_m":29921848263.14645,
+    "geom:area_square_m":29921848141.126987,
     "geom:bbox":"-56.056911,-28.16587,-53.637481,-25.495687",
     "geom:latitude":-26.876785,
     "geom:longitude":-54.651965,
@@ -414,17 +414,19 @@
         "gn:id":3430657,
         "gp:id":2344688,
         "hasc:id":"AR.MN",
+        "iso:code":"AR-N",
         "iso:id":"AR-N",
         "qs_pg:id":1131207,
         "unlc:id":"AR-N",
         "wd:id":"Q44798",
         "wk:page":"Misiones Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7eb8a3ddca79fa5927fa78a9b89897dc",
+    "wof:geomhash":"5250e30a4169af63d61efdb906380f83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -439,7 +441,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850547,
+    "wof:lastmodified":1695884942,
     "wof:name":"Misiones",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

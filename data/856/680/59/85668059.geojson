@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.054298,
-    "geom:area_square_m":22642884216.263435,
+    "geom:area_square_m":22642884773.128746,
     "geom:bbox":"-66.178367,-28.01455,-64.480131,-26.057138",
     "geom:latitude":-26.947725,
     "geom:longitude":-65.364492,
@@ -433,17 +433,19 @@
         "gn:id":3833578,
         "gp:id":2344698,
         "hasc:id":"AR.TM",
+        "iso:code":"AR-T",
         "iso:id":"AR-T",
         "qs_pg:id":1083798,
         "unlc:id":"AR-T",
         "wd:id":"Q44829",
         "wk:page":"Tucum\u00e1n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63ee75257819a45ea46f193e9fc00a89",
+    "wof:geomhash":"70d959a1aab90298005a988d94951445",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -458,7 +460,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850540,
+    "wof:lastmodified":1695884480,
     "wof:name":"Tucum\u00e1n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",
