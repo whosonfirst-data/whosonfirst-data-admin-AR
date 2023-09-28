@@ -1394,6 +1394,7 @@
         "hasc:id":"AR",
         "icao:code":"LV",
         "ioc:id":"ARG",
+        "iso:code":"AR",
         "itu:id":"ARG",
         "loc:id":"n79070134",
         "m49:code":"032",
@@ -1408,6 +1409,7 @@
         "wk:page":"Argentina",
         "wmo:id":"AG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:country_alpha3":"ARG",
     "wof:geom_alt":[
@@ -1431,7 +1433,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639641,
+    "wof:lastmodified":1695881303,
     "wof:name":"Argentina",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
