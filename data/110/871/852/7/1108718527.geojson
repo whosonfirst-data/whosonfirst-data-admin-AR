@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055975,
-    "geom:area_square_m":614211389.179636,
+    "geom:area_square_m":614211482.982497,
     "geom:bbox":"-65.974146,-27.543539,-65.530847,-27.354972",
     "geom:latitude":-27.450478,
     "geom:longitude":-65.751838,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.RC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852679,
-    "wof:geomhash":"6fd3bf60d14d76ae1f0f91a232f990b4",
+    "wof:geomhash":"da64e3e2eb9f336f7600a4383493395c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718527,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Rio Chico",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

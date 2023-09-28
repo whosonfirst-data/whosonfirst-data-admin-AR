@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210163,
-    "geom:area_square_m":2359635613.424001,
+    "geom:area_square_m":2359635747.940719,
     "geom:bbox":"-65.301694,-25.15,-64.669854,-24.465363",
     "geom:latitude":-24.768508,
     "geom:longitude":-64.966791,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.SA.GG",
         "qs_pg:id":59542
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009698,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e8d2f6386ecbc64563a3d69c7359f92",
+    "wof:geomhash":"336d2c2cad0ea525a618fdd547abcc87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421191593,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General G\u00fcemes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

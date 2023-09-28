@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.225397,
-    "geom:area_square_m":8745632012.790409,
+    "geom:area_square_m":8745632012.790056,
     "geom:bbox":"-68.6069083261,-55.054611206,-63.727500916,-54.5114861737",
     "geom:latitude":-54.747282,
     "geom:longitude":-66.71688,
@@ -264,9 +264,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TF.US"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852684,
-    "wof:geomhash":"1ae804834bc4d02a25d3aa6658bfb04f",
+    "wof:geomhash":"5ec034d30f5d5a57feaec8e85752461b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":1108718533,
-    "wof:lastmodified":1566588004,
+    "wof:lastmodified":1695886666,
     "wof:name":"Ushuaia",
     "wof:parent_id":85667995,
     "wof:placetype":"county",

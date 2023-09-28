@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151114,
-    "geom:area_square_m":1667837145.666749,
+    "geom:area_square_m":1667837422.162311,
     "geom:bbox":"-59.855806,-27.033621,-59.150906,-26.529119",
     "geom:latitude":-26.800557,
     "geom:longitude":-59.518479,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852551,
-    "wof:geomhash":"8b7779253c5296a3c58ced621d9ec104",
+    "wof:geomhash":"1271cdf4972d4b6fe6b3670a996c8936",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718227,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Sargento Cabral",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

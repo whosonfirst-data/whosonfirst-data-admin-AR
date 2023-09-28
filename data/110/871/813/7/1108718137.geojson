@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.060058,
-    "geom:area_square_m":10167222057.851191,
+    "geom:area_square_m":10167222181.785812,
     "geom:bbox":"-63.391372,-39.866249,-62.006248,-38.456131",
     "geom:latitude":-39.134016,
     "geom:longitude":-62.742162,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852509,
-    "wof:geomhash":"6ee6af54a39332adeea8613fedc2fe96",
+    "wof:geomhash":"f37ba40a5a01378c0d8706026bcc0385",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108718137,
-    "wof:lastmodified":1627521499,
+    "wof:lastmodified":1695886018,
     "wof:name":"Villarino",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

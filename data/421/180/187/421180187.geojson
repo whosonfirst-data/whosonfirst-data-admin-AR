@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156245,
-    "geom:area_square_m":1726665085.168424,
+    "geom:area_square_m":1726664855.681726,
     "geom:bbox":"-54.798664,-26.949432,-54.265198,-26.445959",
     "geom:latitude":-26.655722,
     "geom:longitude":-54.560631,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.MN.MO",
         "qs_pg:id":425246
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009247,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a523979c786e13770ebb2f44bb22b37a",
+    "wof:geomhash":"1203ce9513076214c5b670ab4b3a4b19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421180187,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886009,
     "wof:name":"Montecarlo",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

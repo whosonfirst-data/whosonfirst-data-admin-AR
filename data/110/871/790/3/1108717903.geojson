@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135201,
-    "geom:area_square_m":1301977029.688881,
+    "geom:area_square_m":1301977414.514657,
     "geom:bbox":"-62.172139,-39.008778,-61.452714,-38.628975",
     "geom:latitude":-38.849775,
     "geom:longitude":-61.835046,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852450,
-    "wof:geomhash":"6e02ac54d188ec0557e57a7df83c7216",
+    "wof:geomhash":"1874e7d892b204da7af085ce97de0d26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717903,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Coronel De Marina Leonardo Rosales",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

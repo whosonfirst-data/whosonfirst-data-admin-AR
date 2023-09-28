@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.900932,
-    "geom:area_square_m":10214493027.900951,
+    "geom:area_square_m":10214492204.920422,
     "geom:bbox":"-67.21423,-24.212248,-66.105999,-22.991555",
     "geom:latitude":-23.520652,
     "geom:longitude":-66.661983,
@@ -170,12 +170,13 @@
         "qs_pg:id":1251762,
         "wd:id":"Q1495796"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a2589a4bc9b35bb5306313becfd3435",
+    "wof:geomhash":"94c17feeb738850b6dbffbae2484915a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421171265,
-    "wof:lastmodified":1690850757,
+    "wof:lastmodified":1695886083,
     "wof:name":"Susques",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262197,
-    "geom:area_square_m":2999819213.897384,
+    "geom:area_square_m":2999819213.897388,
     "geom:bbox":"-65.9899132724,-22.5557714615,-65.189408897,-22.0739095359",
     "geom:latitude":-22.291307,
     "geom:longitude":-65.565897,
@@ -108,12 +108,13 @@
         "hasc:id":"AR.JY.YA",
         "qs_pg:id":332508
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009032,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7d63e13a04e94faca8ed1bbebc72ec2",
+    "wof:geomhash":"75c293fccf7f417cb2640bc0ea114135",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421174419,
-    "wof:lastmodified":1582358628,
+    "wof:lastmodified":1695885996,
     "wof:name":"Yavi",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

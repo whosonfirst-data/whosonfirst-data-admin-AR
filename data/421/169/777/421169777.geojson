@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.747939,
-    "geom:area_square_m":7204311049.618448,
+    "geom:area_square_m":7204310930.136942,
     "geom:bbox":"-69.544973,-39.3688,-68.004459,-38.369273",
     "geom:latitude":-38.832426,
     "geom:longitude":-68.792834,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.NQ.CO",
         "qs_pg:id":241860
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008824,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b3bb46b30d929f654cd6a2575bb3b8b",
+    "wof:geomhash":"2e1ead8237eb9560afa33af60dfc0bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421169777,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695885999,
     "wof:name":"Confluencia",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

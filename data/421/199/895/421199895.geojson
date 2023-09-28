@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.256669,
-    "geom:area_square_m":21468344314.169609,
+    "geom:area_square_m":21468343818.261387,
     "geom:bbox":"-69.812228,-40.663442,-66.565444,-38.968125",
     "geom:latitude":-39.701835,
     "geom:longitude":-68.484778,
@@ -122,12 +122,13 @@
         "qs_pg:id":507441,
         "wd:id":"Q995105"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"050781b41400bd328c5cc85e42aa0e4a",
+    "wof:geomhash":"e6fca09b96040de927f89501191f6f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421199895,
-    "wof:lastmodified":1690850709,
+    "wof:lastmodified":1695886002,
     "wof:name":"El Cuy",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.61143,
-    "geom:area_square_m":6049182570.857922,
+    "geom:area_square_m":6049182570.857477,
     "geom:bbox":"-71.22251,-37.3777841482,-70.4715640928,-36.13251",
     "geom:latitude":-36.858474,
     "geom:longitude":-70.783664,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"AR.NQ.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852619,
-    "wof:geomhash":"a3b8d83c7d16ad23b67b7f3d98e97a32",
+    "wof:geomhash":"4394ce9ea102026f5c2e53ce51fd692b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108718383,
-    "wof:lastmodified":1566588001,
+    "wof:lastmodified":1695886665,
     "wof:name":"Minas",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

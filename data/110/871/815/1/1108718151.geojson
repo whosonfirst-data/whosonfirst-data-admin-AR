@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177052,
-    "geom:area_square_m":1925244751.619747,
+    "geom:area_square_m":1925244751.61996,
     "geom:bbox":"-65.6197517688,-28.6654866134,-65.0922307913,-28.1716245288",
     "geom:latitude":-28.430234,
     "geom:longitude":-65.359248,
@@ -192,9 +192,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.EA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852513,
-    "wof:geomhash":"2061304a2da68f8a97f111f5d18ca77d",
+    "wof:geomhash":"2143fc7fb598aabad472771bbb2afcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":1108718151,
-    "wof:lastmodified":1566587990,
+    "wof:lastmodified":1695886664,
     "wof:name":"El Alto",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

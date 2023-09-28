@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053424,
-    "geom:area_square_m":561799672.006721,
+    "geom:area_square_m":561799601.856431,
     "geom:bbox":"-68.706468,-31.893736,-68.429,-31.562472",
     "geom:latitude":-31.739609,
     "geom:longitude":-68.583036,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SJ.PO",
         "qs_pg:id":1109566
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010161,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"125411da91a1a525ce7ab20f7e3aac69",
+    "wof:geomhash":"41f8585d0ca4d071c0932c918f050d20",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421203709,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Pocito",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

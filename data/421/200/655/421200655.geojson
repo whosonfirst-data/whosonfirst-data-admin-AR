@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.335522,
-    "geom:area_square_m":33435487190.691353,
+    "geom:area_square_m":33435487190.693001,
     "geom:bbox":"-72.441836,-52.382879226,-68.352500916,-50.6775385069",
     "geom:latitude":-51.413185,
     "geom:longitude":-70.566403,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.SC.GA",
         "qs_pg:id":890573
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010034,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"351fefe62a7ffb43aa2bddf2cee8c884",
+    "wof:geomhash":"d984cffa6f836836d83c610d0a8be46c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421200655,
-    "wof:lastmodified":1582358637,
+    "wof:lastmodified":1695886002,
     "wof:name":"G\u00fcer Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

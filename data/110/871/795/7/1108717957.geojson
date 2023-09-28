@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270594,
-    "geom:area_square_m":2684343900.495697,
+    "geom:area_square_m":2684343648.021423,
     "geom:bbox":"-57.330198,-37.02502,-56.695356,-36.32711",
     "geom:latitude":-36.652642,
     "geom:longitude":-56.941893,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852467,
-    "wof:geomhash":"371a01ba1ff3c33b035990da4fc790ec",
+    "wof:geomhash":"58afc19d4d906815396345c5dc931e46",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108717957,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Lavalle",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

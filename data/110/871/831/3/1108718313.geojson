@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251691,
-    "geom:area_square_m":2513464747.974617,
+    "geom:area_square_m":2513464402.475558,
     "geom:bbox":"-63.945736,-36.370996,-63.374829,-35.9076",
     "geom:latitude":-36.136223,
     "geom:longitude":-63.660456,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.QQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852588,
-    "wof:geomhash":"4bf93d091285726f467537e4f7fd843f",
+    "wof:geomhash":"46ab3ec9fba5c20657c8ba6930c36d17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718313,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Quemu Quemu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

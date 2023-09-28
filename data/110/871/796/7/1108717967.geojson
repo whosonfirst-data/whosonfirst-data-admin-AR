@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03583,
-    "geom:area_square_m":364465030.074577,
+    "geom:area_square_m":364464809.268179,
     "geom:bbox":"-59.133837,-34.763687,-58.864862,-34.517437",
     "geom:latitude":-34.649563,
     "geom:longitude":-58.988028,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852469,
-    "wof:geomhash":"aaaa1c4b315e6e29e7a45ae785394002",
+    "wof:geomhash":"0a2b2297ab3b0234fdc763e8bd4f9180",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717967,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Rodriguez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

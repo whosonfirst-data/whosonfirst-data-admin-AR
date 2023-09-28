@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388775,
-    "geom:area_square_m":3790028126.756577,
+    "geom:area_square_m":3790028072.844454,
     "geom:bbox":"-60.844369,-38.279553,-59.646162,-37.599363",
     "geom:latitude":-37.964097,
     "geom:longitude":-60.249431,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852438,
-    "wof:geomhash":"cc73ecf45f4b40065ef353b9c747b629",
+    "wof:geomhash":"f2560807d29dc943b8837cfedde2be92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717851,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695886722,
     "wof:name":"Adolfo Gonzales Chaves",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

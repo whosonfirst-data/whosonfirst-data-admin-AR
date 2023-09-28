@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264047,
-    "geom:area_square_m":2987660298.830174,
+    "geom:area_square_m":2987660298.830194,
     "geom:bbox":"-65.298537222,-24.0925837448,-64.4381430883,-23.4512488671",
     "geom:latitude":-23.785387,
     "geom:longitude":-64.828932,
@@ -130,12 +130,13 @@
         "hasc:id":"AR.JY.LE",
         "qs_pg:id":268804
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008898,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"537953e7d912c839f80a4299153a08aa",
+    "wof:geomhash":"8de25c647e537e3ec1bbe3c4492c250b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421171555,
-    "wof:lastmodified":1582358643,
+    "wof:lastmodified":1695886005,
     "wof:name":"Ledesma",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

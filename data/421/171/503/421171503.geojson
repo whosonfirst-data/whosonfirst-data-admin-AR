@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472936,
-    "geom:area_square_m":4870286528.45147,
+    "geom:area_square_m":4870286508.144241,
     "geom:bbox":"-59.65239,-34.041428,-58.403718,-33.145783",
     "geom:latitude":-33.60991,
     "geom:longitude":-58.97372,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.ER.II",
         "qs_pg:id":1251808
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a843b0ae9049ea459d4532e7bdff05db",
+    "wof:geomhash":"eb45849b823ea7bda1066c4dd968f3f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421171503,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Islas Del Ibicuy",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140886,
-    "geom:area_square_m":1525726063.949962,
+    "geom:area_square_m":1525726418.4339,
     "geom:bbox":"-67.147947,-29.173104,-66.733956,-28.604731",
     "geom:latitude":-28.859421,
     "geom:longitude":-66.91915,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852592,
-    "wof:geomhash":"1e8bc87ca4b82c9fa11148cbd700d378",
+    "wof:geomhash":"1564b416de7412454e491bbb597d824e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108718323,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885998,
     "wof:name":"Castro Barros",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

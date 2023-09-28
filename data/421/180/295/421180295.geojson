@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323441,
-    "geom:area_square_m":3540505564.42932,
+    "geom:area_square_m":3540505643.04782,
     "geom:bbox":"-59.407184,-28.065875,-58.809506,-27.333692",
     "geom:latitude":-27.716498,
     "geom:longitude":-59.113932,
@@ -210,12 +210,13 @@
         "hasc:id":"AR.CC.SF",
         "qs_pg:id":425244
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009251,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bb86ca2dc883057af6652d46fcb81d8",
+    "wof:geomhash":"8c8119260699e7fdb7d30dcd02d9a860",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":421180295,
-    "wof:lastmodified":1636502810,
+    "wof:lastmodified":1695886079,
     "wof:name":"San Fernando",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.643893,
-    "geom:area_square_m":14301808477.439363,
+    "geom:area_square_m":14301808477.441133,
     "geom:bbox":"-68.3732177056,-46.0075916351,-66.3771960062,-44.6728659162",
     "geom:latitude":-45.283582,
     "geom:longitude":-67.705721,
@@ -127,12 +127,13 @@
         "hasc:id":"AR.CH.ES",
         "qs_pg:id":241861
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008824,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ece434c703bd43085703b23be174994c",
+    "wof:geomhash":"fb6579bab293eb28545547d8251e3e06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421169779,
-    "wof:lastmodified":1582358625,
+    "wof:lastmodified":1695885995,
     "wof:name":"Escalante",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

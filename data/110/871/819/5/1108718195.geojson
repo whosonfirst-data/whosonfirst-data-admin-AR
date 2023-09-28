@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248722,
-    "geom:area_square_m":2732045525.8267,
+    "geom:area_square_m":2732045775.444071,
     "geom:bbox":"-61.715274,-27.72317,-60.991239,-26.936661",
     "geom:latitude":-27.335939,
     "geom:longitude":-61.474342,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.DC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852543,
-    "wof:geomhash":"e329b012f201b8c465d4891447993594",
+    "wof:geomhash":"8a3a9c1d293d03cb99b82018a1be9dff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718195,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1695886721,
     "wof:name":"12 De Octubre",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

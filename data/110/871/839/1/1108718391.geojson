@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.508647,
-    "geom:area_square_m":14592379309.365309,
+    "geom:area_square_m":14592379733.857327,
     "geom:bbox":"-68.25546,-39.182199,-66.634053,-37.580641",
     "geom:latitude":-38.532699,
     "geom:longitude":-67.553553,
@@ -205,9 +205,10 @@
         "hasc:id":"AR.RN.GR",
         "wd:id":"Q52506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852624,
-    "wof:geomhash":"77841d7c6ee5f438116eead1534598a0",
+    "wof:geomhash":"863c8d3e40b156e19864f7280a0a81d8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108718391,
-    "wof:lastmodified":1690850558,
+    "wof:lastmodified":1695886666,
     "wof:name":"General Roca",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

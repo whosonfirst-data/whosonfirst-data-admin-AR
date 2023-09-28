@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106811,
-    "geom:area_square_m":1175598018.476159,
+    "geom:area_square_m":1175598254.959788,
     "geom:bbox":"-65.971006,-27.299855,-65.365882,-26.921654",
     "geom:latitude":-27.11293,
     "geom:longitude":-65.641756,
@@ -120,12 +120,13 @@
         "hasc:id":"AR.TM.MO",
         "qs_pg:id":985973
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009391,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6346f655c8546ad6dafee31792334740",
+    "wof:geomhash":"a28012ed1576ec34382267a8ff9f8598",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421183901,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886009,
     "wof:name":"Monteros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

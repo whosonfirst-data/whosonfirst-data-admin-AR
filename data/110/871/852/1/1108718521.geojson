@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15465,
-    "geom:area_square_m":1692903288.145366,
+    "geom:area_square_m":1692903288.145203,
     "geom:bbox":"-65.5334797927,-27.9443148683,-64.9848176168,-27.5242961209",
     "geom:latitude":-27.713891,
     "geom:longitude":-65.254887,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852677,
-    "wof:geomhash":"9d89d9d5379d107d26538b0e11b27ee6",
+    "wof:geomhash":"3ed6750e7e0527ce8fbb771497eb6c59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108718521,
-    "wof:lastmodified":1566588012,
+    "wof:lastmodified":1695886667,
     "wof:name":"Graneros",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

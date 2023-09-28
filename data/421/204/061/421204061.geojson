@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311269,
-    "geom:area_square_m":3540762262.052108,
+    "geom:area_square_m":3540762663.429929,
     "geom:bbox":"-65.744479,-23.40804,-65.044715,-22.607471",
     "geom:latitude":-23.081877,
     "geom:longitude":-65.408769,
@@ -162,12 +162,13 @@
         "hasc:id":"AR.JY.HU",
         "qs_pg:id":237437
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ce47085a5e7759b13bb89cacf7c10bb",
+    "wof:geomhash":"290547572a2f44973c0185d3caa0333f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421204061,
-    "wof:lastmodified":1636502807,
+    "wof:lastmodified":1695886079,
     "wof:name":"Humahuaca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

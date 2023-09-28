@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298979,
-    "geom:area_square_m":3293177396.311638,
+    "geom:area_square_m":3293177396.311476,
     "geom:bbox":"-54.6074876133,-27.447924,-53.8833846318,-26.6401383821",
     "geom:latitude":-27.027231,
     "geom:longitude":-54.267686,
@@ -185,12 +185,13 @@
         "hasc:id":"AR.MN.GU",
         "qs_pg:id":364669
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"118af38d6c92c756f2a2e244f4804cbf",
+    "wof:geomhash":"56ec3de436ac7480e75bd92adbb31068",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421175303,
-    "wof:lastmodified":1582358634,
+    "wof:lastmodified":1695886000,
     "wof:name":"Guarani",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

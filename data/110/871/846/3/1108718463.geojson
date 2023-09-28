@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.920716,
-    "geom:area_square_m":20776748877.389675,
+    "geom:area_square_m":20776749426.73682,
     "geom:bbox":"-61.085478,-30.17,-59.749386,-27.990595",
     "geom:latitude":-28.972633,
     "geom:longitude":-60.413344,
@@ -189,9 +189,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SF.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852659,
-    "wof:geomhash":"9fc737753ac9932c02db9cb80d36b8c4",
+    "wof:geomhash":"94067ba98ff735e0200b9b81055ffab5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":1108718463,
-    "wof:lastmodified":1636502784,
+    "wof:lastmodified":1695886075,
     "wof:name":"Vera",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337796,
-    "geom:area_square_m":3494110112.944788,
+    "geom:area_square_m":3494110160.073393,
     "geom:bbox":"-62.132197,-33.492368,-61.062773,-32.907394",
     "geom:latitude":-33.224528,
     "geom:longitude":-61.533926,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.SF.CR",
         "qs_pg:id":1251813
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c7b97d0c6f5c453a020d0ad4e0199f09",
+    "wof:geomhash":"810b0a6852d022b913e720efe6330977",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421171507,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885996,
     "wof:name":"Caseros",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

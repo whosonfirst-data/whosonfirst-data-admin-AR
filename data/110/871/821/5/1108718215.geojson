@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141264,
-    "geom:area_square_m":1552786436.394683,
+    "geom:area_square_m":1552786374.429006,
     "geom:bbox":"-60.915845,-27.471675,-60.509543,-26.97424",
     "geom:latitude":-27.2576,
     "geom:longitude":-60.680493,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.OH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852548,
-    "wof:geomhash":"37f86d6799fa592940f60dd2fdd2c640",
+    "wof:geomhash":"31a15ffe8dfa5eec76063aaf7f7df009",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718215,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886010,
     "wof:name":"O'higgins",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

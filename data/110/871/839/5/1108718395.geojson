@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.542529,
-    "geom:area_square_m":14404532431.450491,
+    "geom:area_square_m":14404532431.450476,
     "geom:bbox":"-65.7915071222,-42.0070107305,-64.5937078358,-39.9119203484",
     "geom:latitude":-40.953411,
     "geom:longitude":-65.369635,
@@ -399,9 +399,10 @@
     "wof:concordances":{
         "hasc:id":"AR.RN.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852627,
-    "wof:geomhash":"cdd4d48c748a0cee767fbcb45c80c68f",
+    "wof:geomhash":"24cf0fa64647392f7a4647100daee558",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -411,7 +412,7 @@
         }
     ],
     "wof:id":1108718395,
-    "wof:lastmodified":1566588010,
+    "wof:lastmodified":1695886667,
     "wof:name":"San Antonio",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

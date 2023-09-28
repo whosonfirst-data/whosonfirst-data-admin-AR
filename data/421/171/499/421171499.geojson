@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433149,
-    "geom:area_square_m":4658923973.553638,
+    "geom:area_square_m":4658923932.439739,
     "geom:bbox":"-57.659422,-30.170212,-56.797594,-29.157216",
     "geom:latitude":-29.556992,
     "geom:longitude":-57.249849,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CN.PL",
         "qs_pg:id":1251777
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2792b45d519e2ad57a5cfeeda7395e9f",
+    "wof:geomhash":"76d12634a43b10952e47eb5759ef831f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421171499,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886010,
     "wof:name":"Paso De Los Libres",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148915,
-    "geom:area_square_m":1638170093.462769,
+    "geom:area_square_m":1638170237.921568,
     "geom:bbox":"-55.603332,-27.400069,-55.095597,-26.936111",
     "geom:latitude":-27.17072,
     "geom:longitude":-55.333804,
@@ -148,12 +148,13 @@
         "hasc:id":"AR.MN.SI",
         "qs_pg:id":425252
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009251,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d29088b5e1512306fb4620a9949c0d9e",
+    "wof:geomhash":"800ee24c6709c4dc9120ad833bb54662",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421180297,
-    "wof:lastmodified":1636502810,
+    "wof:lastmodified":1695886079,
     "wof:name":"San Ignacio",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.499767,
-    "geom:area_square_m":5298663270.592276,
+    "geom:area_square_m":5298663270.592258,
     "geom:bbox":"-59.3411636797,-31.4383801897,-58.401463242,-30.5694238333",
     "geom:latitude":-30.970468,
     "geom:longitude":-58.888463,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.FE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852561,
-    "wof:geomhash":"72abcd0bb45ff200f520b4d10d006256",
+    "wof:geomhash":"5342e25a6dd140435630725921b534bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108718247,
-    "wof:lastmodified":1566587988,
+    "wof:lastmodified":1695886664,
     "wof:name":"Federal",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

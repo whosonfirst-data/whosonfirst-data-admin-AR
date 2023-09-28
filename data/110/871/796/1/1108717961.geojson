@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252292,
-    "geom:area_square_m":2565793221.790457,
+    "geom:area_square_m":2565793088.203862,
     "geom:bbox":"-62.347404,-34.987687,-61.676518,-34.376539",
     "geom:latitude":-34.667487,
     "geom:longitude":-62.039545,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852468,
-    "wof:geomhash":"22d8cdc8683dc8566803b5c42eada6a7",
+    "wof:geomhash":"fbbc2acb4114d5c76f9845525ad41cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108717961,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Pinto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

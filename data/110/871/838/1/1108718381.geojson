@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565075,
-    "geom:area_square_m":5501065111.180573,
+    "geom:area_square_m":5501065350.031972,
     "geom:bbox":"-71.11416,-38.354501,-69.699783,-37.638338",
     "geom:latitude":-38.065912,
     "geom:longitude":-70.313756,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.NQ.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852618,
-    "wof:geomhash":"873efb6ff2b71a6e4f910fcdc0935a8c",
+    "wof:geomhash":"6426b6dcacdfa30953c8d602dd630ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718381,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886008,
     "wof:name":"Loncopue",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

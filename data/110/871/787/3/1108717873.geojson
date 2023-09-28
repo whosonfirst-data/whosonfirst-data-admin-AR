@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021653,
-    "geom:area_square_m":219802347.114348,
+    "geom:area_square_m":219802347.114354,
     "geom:bbox":"-58.2651539844,-34.9506282957,-58.0230048643,-34.7342327551",
     "geom:latitude":-34.819154,
     "geom:longitude":-58.155596,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852443,
-    "wof:geomhash":"48805451fe82d56264cb782d220ba068",
+    "wof:geomhash":"6d39ac3a73c90336eccf6220db2e6c85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108717873,
-    "wof:lastmodified":1566588015,
+    "wof:lastmodified":1695886667,
     "wof:name":"Berazategui",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

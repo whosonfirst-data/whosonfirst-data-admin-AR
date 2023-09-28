@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018527,
-    "geom:area_square_m":188542890.466637,
+    "geom:area_square_m":188542890.46663,
     "geom:bbox":"-58.8886947271,-34.6895398335,-58.7157743502,-34.5110518306",
     "geom:latitude":-34.610716,
     "geom:longitude":-58.810773,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852486,
-    "wof:geomhash":"6180cc0236293491f3814373a799f758",
+    "wof:geomhash":"28b758c7d7b7305f7820692b6249082d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108718031,
-    "wof:lastmodified":1566587971,
+    "wof:lastmodified":1695886663,
     "wof:name":"Moreno",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

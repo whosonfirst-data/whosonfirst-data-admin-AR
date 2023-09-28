@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00861,
-    "geom:area_square_m":87466936.344501,
+    "geom:area_square_m":87466980.702438,
     "geom:bbox":"-58.490736,-34.819141,-58.338168,-34.689941",
     "geom:latitude":-34.755449,
     "geom:longitude":-58.423524,
@@ -182,12 +182,13 @@
         "qs_pg:id":237431,
         "wd:id":"Q642057"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d21aa2951e9fb415fcad9a2c8456da7e",
+    "wof:geomhash":"df363a6e570fba26dbc0205a1a51f3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421204047,
-    "wof:lastmodified":1690850602,
+    "wof:lastmodified":1695886007,
     "wof:name":"Lomas De Zamora",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485409,
-    "geom:area_square_m":5421240640.508306,
+    "geom:area_square_m":5421240300.292977,
     "geom:bbox":"-65.233277,-25.754638,-63.877537,-25.058018",
     "geom:latitude":-25.41591,
     "geom:longitude":-64.581103,
@@ -103,12 +103,13 @@
         "hasc:id":"AR.SA.ME",
         "qs_pg:id":985974
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009391,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b52e083930205b7bcc11c0a0558302cd",
+    "wof:geomhash":"65a31fc97c56fe687b0a165cab71930b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421183903,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886015,
     "wof:name":"Metan",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

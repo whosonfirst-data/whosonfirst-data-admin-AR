@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028916,
-    "geom:area_square_m":304276752.690524,
+    "geom:area_square_m":304276752.690476,
     "geom:bbox":"-68.6101397755,-31.8330243373,-68.3727583029,-31.5363319382",
     "geom:latitude":-31.680046,
     "geom:longitude":-68.467211,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852642,
-    "wof:geomhash":"e8d792ba90d0d91050cbae97aae8c30c",
+    "wof:geomhash":"91a593e01f428ccbe9fee858da02cbcd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108718427,
-    "wof:lastmodified":1566587959,
+    "wof:lastmodified":1695886662,
     "wof:name":"Rawson",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

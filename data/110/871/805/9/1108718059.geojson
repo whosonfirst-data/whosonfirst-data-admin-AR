@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006802,
-    "geom:area_square_m":67072334.848661,
+    "geom:area_square_m":67072334.848613,
     "geom:bbox":"-56.946806033,-37.1917467373,-56.7914698002,-37.0233369904",
     "geom:latitude":-37.109747,
     "geom:longitude":-56.86909,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852492,
-    "wof:geomhash":"6d3792ecd916d2131ed91f3729cd3d1f",
+    "wof:geomhash":"8f30db3c3725bbffd1a64800b4dd707b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108718059,
-    "wof:lastmodified":1566587977,
+    "wof:lastmodified":1695886663,
     "wof:name":"Pinamar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

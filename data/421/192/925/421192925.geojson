@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.847429,
-    "geom:area_square_m":8324543992.565444,
+    "geom:area_square_m":8324544102.80329,
     "geom:bbox":"-70.104878,-37.707451,-68.245895,-36.659395",
     "geom:latitude":-37.397915,
     "geom:longitude":-69.402663,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.NQ.PE",
         "qs_pg:id":1184082
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009753,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7ce6ba007128623424d20097e675e86",
+    "wof:geomhash":"8a394890a57756540f0a53e75b52b6cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421192925,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886010,
     "wof:name":"Pehuenches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

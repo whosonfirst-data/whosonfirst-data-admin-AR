@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.591288,
-    "geom:area_square_m":5823906683.509797,
+    "geom:area_square_m":5823906683.510296,
     "geom:bbox":"-63.3904385119,-37.8137793785,-62.4273462548,-36.5318371572",
     "geom:latitude":-37.197121,
     "geom:longitude":-63.05283,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.AA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852438,
-    "wof:geomhash":"88d1c9bf1c2fc8176610733b71dc39bd",
+    "wof:geomhash":"ce41f4f3b75395721d0534d36cfcc303",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108717849,
-    "wof:lastmodified":1566587979,
+    "wof:lastmodified":1695886663,
     "wof:name":"Adolfo Alsina",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

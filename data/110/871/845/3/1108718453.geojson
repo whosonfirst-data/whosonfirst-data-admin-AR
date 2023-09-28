@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281838,
-    "geom:area_square_m":2972131248.856126,
+    "geom:area_square_m":2972130213.668574,
     "geom:bbox":"-60.985282,-31.966134,-60.312812,-31.013028",
     "geom:latitude":-31.477377,
     "geom:longitude":-60.670259,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SF.LP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852655,
-    "wof:geomhash":"d493d956c9f9277577ba437422698e6e",
+    "wof:geomhash":"c34373de7f0f73e970a57f6a5b15f9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108718453,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886007,
     "wof:name":"La Capital",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

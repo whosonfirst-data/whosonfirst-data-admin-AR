@@ -376,6 +376,7 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852567,
     "wof:geomhash":"d75e6894ca350f285e32ff45796cebd6",
@@ -388,7 +389,7 @@
         }
     ],
     "wof:id":1108718255,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886076,
     "wof:name":"San Salvador",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

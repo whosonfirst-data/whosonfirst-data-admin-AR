@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188971,
-    "geom:area_square_m":2059718530.253623,
+    "geom:area_square_m":2059719403.522184,
     "geom:bbox":"-59.079212,-28.467501,-58.327734,-27.940138",
     "geom:latitude":-28.178428,
     "geom:longitude":-58.623757,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CN.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852538,
-    "wof:geomhash":"b6dab5ca14a63304e1400a34b0b4ae6c",
+    "wof:geomhash":"07fb21b4d43f8651bdf61cf90d053678",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718185,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"Saladas",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

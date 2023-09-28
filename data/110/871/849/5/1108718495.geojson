@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256492,
-    "geom:area_square_m":2760934782.6101,
+    "geom:area_square_m":2760934782.610292,
     "geom:bbox":"-63.2543980546,-29.7672464377,-62.4064201646,-29.2039814491",
     "geom:latitude":-29.480011,
     "geom:longitude":-62.798035,
@@ -213,9 +213,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852668,
-    "wof:geomhash":"09dd78648ca0ba6c72413fb4fde7791e",
+    "wof:geomhash":"381e5e4d6be8f77719f2932a17e38a53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":1108718495,
-    "wof:lastmodified":1566587992,
+    "wof:lastmodified":1695886664,
     "wof:name":"Mitre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

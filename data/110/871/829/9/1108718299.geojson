@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.887981,
-    "geom:area_square_m":8838181947.992558,
+    "geom:area_square_m":8838181893.874384,
     "geom:bbox":"-67.127813,-36.808479,-65.974072,-35.990506",
     "geom:latitude":-36.395858,
     "geom:longitude":-66.557349,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852583,
-    "wof:geomhash":"c7a45ee00c80c9baa04da4acb5ca1a31",
+    "wof:geomhash":"5015e89e6f37fa6c94a32cbca4fe5924",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718299,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885999,
     "wof:name":"Chalileo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

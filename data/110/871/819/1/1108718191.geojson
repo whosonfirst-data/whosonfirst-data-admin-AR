@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22396,
-    "geom:area_square_m":2398332406.273556,
+    "geom:area_square_m":2398332406.273598,
     "geom:bbox":"-59.04730087,-30.2489228214,-58.3992262008,-29.6261475391",
     "geom:latitude":-29.998042,
     "geom:longitude":-58.746013,
@@ -270,9 +270,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CN.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852541,
-    "wof:geomhash":"61dab531b9b092011ecfaf84f17691cd",
+    "wof:geomhash":"3f040dae9179c999a964015717b7c9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -282,7 +283,7 @@
         }
     ],
     "wof:id":1108718191,
-    "wof:lastmodified":1566587964,
+    "wof:lastmodified":1695886662,
     "wof:name":"Sauce",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

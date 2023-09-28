@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.334605,
-    "geom:area_square_m":3346586402.705114,
+    "geom:area_square_m":3346586402.705277,
     "geom:bbox":"-59.6580098886,-36.3746100328,-58.7066090376,-35.6667224887",
     "geom:latitude":-36.015912,
     "geom:longitude":-59.17638,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852478,
-    "wof:geomhash":"887a55e638b2feb8e5cb2ca5f7ddd3fd",
+    "wof:geomhash":"cc9093f8caebf3d8743e3b439fc2865c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108717997,
-    "wof:lastmodified":1566587949,
+    "wof:lastmodified":1695886661,
     "wof:name":"Las Flores",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

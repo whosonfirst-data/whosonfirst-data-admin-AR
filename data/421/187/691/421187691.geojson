@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.984262,
-    "geom:area_square_m":10255009098.075113,
+    "geom:area_square_m":10255009098.075308,
     "geom:bbox":"-68.6956657826,-33.1213706757,-67.1681024198,-32.0735067502",
     "geom:latitude":-32.582978,
     "geom:longitude":-67.888537,
@@ -130,12 +130,13 @@
         "hasc:id":"AR.MZ.LA",
         "qs_pg:id":1084709
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009521,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ec05b6754a1e25939309b15c6af1cb9",
+    "wof:geomhash":"8c52fc66880046d28999dab426d87db9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421187691,
-    "wof:lastmodified":1582358630,
+    "wof:lastmodified":1695885997,
     "wof:name":"Lavalle",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

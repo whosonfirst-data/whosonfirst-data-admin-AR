@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716448,
-    "geom:area_square_m":7369261673.257494,
+    "geom:area_square_m":7369261755.44643,
     "geom:bbox":"-67.716822,-34.302207,-66.665931,-33.04537",
     "geom:latitude":-33.710791,
     "geom:longitude":-67.248031,
@@ -420,9 +420,10 @@
     "wof:concordances":{
         "hasc:id":"AR.MZ.LP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852601,
-    "wof:geomhash":"bca869e9045c37d9423f1f2e2907f6fa",
+    "wof:geomhash":"f8f33e305796553d5c4aca2b4cc00cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -432,7 +433,7 @@
         }
     ],
     "wof:id":1108718357,
-    "wof:lastmodified":1636502782,
+    "wof:lastmodified":1695886074,
     "wof:name":"La Paz",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

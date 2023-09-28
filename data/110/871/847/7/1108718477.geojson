@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.230347,
-    "geom:area_square_m":13679731668.482193,
+    "geom:area_square_m":13679732034.064991,
     "geom:bbox":"-63.944001,-26.265686,-61.705666,-25.642124",
     "geom:latitude":-25.948331,
     "geom:longitude":-62.743657,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852663,
-    "wof:geomhash":"fb27b0cf843719014c118590ca69c986",
+    "wof:geomhash":"5bf59f1a3740db95fc0d83d3d3c02bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718477,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Copo",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

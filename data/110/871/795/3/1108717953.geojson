@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489079,
-    "geom:area_square_m":4807048854.916098,
+    "geom:area_square_m":4807048842.478975,
     "geom:bbox":"-61.749545,-37.939936,-60.880518,-36.858099",
     "geom:latitude":-37.355954,
     "geom:longitude":-61.344735,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852466,
-    "wof:geomhash":"bac270af170179345395d0feba62098f",
+    "wof:geomhash":"223d9877473f93c8ab713f97ce72963a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108717953,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General La Madrid",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

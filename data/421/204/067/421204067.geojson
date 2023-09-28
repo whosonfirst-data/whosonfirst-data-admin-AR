@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08781,
-    "geom:area_square_m":982890773.487005,
+    "geom:area_square_m":982890920.494745,
     "geom:bbox":"-65.886088,-25.31972,-65.269673,-25.015679",
     "geom:latitude":-25.145311,
     "geom:longitude":-65.609096,
@@ -122,12 +122,13 @@
         "qs_pg:id":237444,
         "wd:id":"Q1016092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74041e8d3931bed33a8d7a3303355e6e",
+    "wof:geomhash":"15cdd62989049dad15f4a43bd9c0a56a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421204067,
-    "wof:lastmodified":1690850608,
+    "wof:lastmodified":1695885996,
     "wof:name":"Chicoana",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

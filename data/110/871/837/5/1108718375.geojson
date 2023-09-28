@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062109,
-    "geom:area_square_m":679507788.96919,
+    "geom:area_square_m":679507988.279312,
     "geom:bbox":"-55.360913,-27.933234,-54.972644,-27.611441",
     "geom:latitude":-27.774349,
     "geom:longitude":-55.167145,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"AR.MN.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852612,
-    "wof:geomhash":"0fc9778af991c5fd0cf1b6dbd6fc506a",
+    "wof:geomhash":"1624adee29022ba2cc398f888aeaaba7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108718375,
-    "wof:lastmodified":1636502787,
+    "wof:lastmodified":1695886077,
     "wof:name":"San Javier",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

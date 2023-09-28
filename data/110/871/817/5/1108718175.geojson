@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.799652,
-    "geom:area_square_m":8589691934.215309,
+    "geom:area_square_m":8589691881.797934,
     "geom:bbox":"-58.865245,-30.445078,-57.614765,-29.018027",
     "geom:latitude":-29.689243,
     "geom:longitude":-58.287301,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CN.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852533,
-    "wof:geomhash":"5cdca4553fc6cb4e2e936abc19e16fe8",
+    "wof:geomhash":"46e2316a470f970130a28131182d279c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718175,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Curuzu Cuatia",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

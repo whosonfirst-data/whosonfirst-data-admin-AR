@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292364,
-    "geom:area_square_m":3002870578.64562,
+    "geom:area_square_m":3002870578.645875,
     "geom:bbox":"-60.9422163943,-34.1718718912,-60.1362985784,-33.5413184907",
     "geom:latitude":-33.83538,
     "geom:longitude":-60.544579,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852490,
-    "wof:geomhash":"95884aadbf139b41ffe801338db01b8a",
+    "wof:geomhash":"e66737220a46ac79b93b2359454f4247",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108718051,
-    "wof:lastmodified":1566587977,
+    "wof:lastmodified":1695886663,
     "wof:name":"Pergamino",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

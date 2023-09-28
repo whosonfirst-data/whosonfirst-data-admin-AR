@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489693,
-    "geom:area_square_m":5275588775.017275,
+    "geom:area_square_m":5275588712.046945,
     "geom:bbox":"-67.862693,-29.826506,-66.980987,-29.009525",
     "geom:latitude":-29.394223,
     "geom:longitude":-67.428329,
@@ -171,12 +171,13 @@
         "hasc:id":"AR.LR.CL",
         "qs_pg:id":220147
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db55f18977dfb79f87e56754d2d69136",
+    "wof:geomhash":"d46d597b596e8515e7f0f9679bb49999",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421202261,
-    "wof:lastmodified":1636502808,
+    "wof:lastmodified":1695886079,
     "wof:name":"Chilecito",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

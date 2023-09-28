@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384345,
-    "geom:area_square_m":3813400708.784692,
+    "geom:area_square_m":3813400708.784903,
     "geom:bbox":"-62.4751442875,-36.9962954736,-61.2531805307,-36.2444129781",
     "geom:latitude":-36.639808,
     "geom:longitude":-61.89221,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852454,
-    "wof:geomhash":"f8362bd4e6eb1e8a46df0d950003fa3d",
+    "wof:geomhash":"20fe0bd115ccf29fb062dd8cf93e3fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108717919,
-    "wof:lastmodified":1566587950,
+    "wof:lastmodified":1695886662,
     "wof:name":"Daireaux",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

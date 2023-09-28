@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362431,
-    "geom:area_square_m":3577217044.919149,
+    "geom:area_square_m":3577216869.922378,
     "geom:bbox":"-64.17061,-37.274016,-63.373616,-36.81",
     "geom:latitude":-37.040024,
     "geom:longitude":-63.775114,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852579,
-    "wof:geomhash":"65f30591c28678cb6ad243b7f87dad7a",
+    "wof:geomhash":"8b3f3a6ccc9bfdf7cff58b6f9ce08d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718285,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Atreuco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

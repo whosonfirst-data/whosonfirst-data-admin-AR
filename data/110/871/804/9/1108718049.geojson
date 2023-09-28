@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18011,
-    "geom:area_square_m":1795532877.822387,
+    "geom:area_square_m":1795532877.822333,
     "geom:bbox":"-63.3896175945,-36.6072508839,-62.9415230117,-35.8899369199",
     "geom:latitude":-36.271377,
     "geom:longitude":-63.22335,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852490,
-    "wof:geomhash":"710441c737be17212b0ece2f401d1f02",
+    "wof:geomhash":"164a1532d176f6718b6fb6d48bb04844",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108718049,
-    "wof:lastmodified":1566587969,
+    "wof:lastmodified":1695886663,
     "wof:name":"Pellegrini",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

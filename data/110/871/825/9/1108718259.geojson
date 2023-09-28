@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.650045,
-    "geom:area_square_m":6843559672.493328,
+    "geom:area_square_m":6843559672.49304,
     "geom:bbox":"-59.620381204,-32.0544102078,-58.4961636955,-31.2033980699",
     "geom:latitude":-31.634301,
     "geom:longitude":-59.056626,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852570,
-    "wof:geomhash":"3f375fc122a56b8e12efb6e95edb3d94",
+    "wof:geomhash":"bf34e7a294182b05b269ddb2165a8daf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108718259,
-    "wof:lastmodified":1566587996,
+    "wof:lastmodified":1695886665,
     "wof:name":"Villaguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

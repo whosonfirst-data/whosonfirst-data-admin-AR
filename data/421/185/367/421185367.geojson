@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.633038,
-    "geom:area_square_m":7208536431.225351,
+    "geom:area_square_m":7208536431.226231,
     "geom:bbox":"-66.5919128312,-23.6796907939,-65.3444825704,-22.434212211",
     "geom:latitude":-22.939334,
     "geom:longitude":-65.934729,
@@ -107,12 +107,13 @@
         "qs_pg:id":893447,
         "wd:id":"Q1105115"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009441,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f578c548c532a6374228e7ff6dea4702",
+    "wof:geomhash":"f4805fe7c7ee8a6b14471e05c7ce0a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421185367,
-    "wof:lastmodified":1582358645,
+    "wof:lastmodified":1695886005,
     "wof:name":"Cochinoca",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

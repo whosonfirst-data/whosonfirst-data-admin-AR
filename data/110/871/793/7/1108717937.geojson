@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178094,
-    "geom:area_square_m":1806672193.636401,
+    "geom:area_square_m":1806672193.636492,
     "geom:bbox":"-62.6346334171,-35.1625266725,-62.1038175549,-34.6087266717",
     "geom:latitude":-34.874249,
     "geom:longitude":-62.401524,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852458,
-    "wof:geomhash":"5f8b6bafde67b8846aa1ae1ff622e424",
+    "wof:geomhash":"41fadcbfe2d50a4ee31d163d0f11a3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108717937,
-    "wof:lastmodified":1566587980,
+    "wof:lastmodified":1695886663,
     "wof:name":"Florentino Ameghino",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

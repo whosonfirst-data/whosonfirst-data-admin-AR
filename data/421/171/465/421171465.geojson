@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.491825,
-    "geom:area_square_m":5140709251.119321,
+    "geom:area_square_m":5140708868.567858,
     "geom:bbox":"-64.302343,-32.83306,-63.10621,-31.931894",
     "geom:latitude":-32.295052,
     "geom:longitude":-63.777508,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CB.TA",
         "qs_pg:id":1251741
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ca7a37644a4e358bc0e5ebbabfa580b",
+    "wof:geomhash":"1532b1b859ef33cdb2753bcd49e338db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421171465,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886016,
     "wof:name":"Tercero Arriba",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.464225,
-    "geom:area_square_m":4951006620.933418,
+    "geom:area_square_m":4951006620.933139,
     "geom:bbox":"-65.0407562094,-30.801708091,-64.09,-30.01",
     "geom:latitude":-30.399739,
     "geom:longitude":-64.597419,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.CB.IS",
         "qs_pg:id":237436
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78f062177beb916ee345b1de7221de17",
+    "wof:geomhash":"67cc2ffca9c4d8441acf2be545732f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421204057,
-    "wof:lastmodified":1582358626,
+    "wof:lastmodified":1695885996,
     "wof:name":"Ischilin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

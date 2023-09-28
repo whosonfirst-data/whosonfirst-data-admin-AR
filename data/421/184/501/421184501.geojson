@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005118,
-    "geom:area_square_m":53975331.487638,
+    "geom:area_square_m":53975471.667555,
     "geom:bbox":"-68.604607,-31.505486,-68.43404,-31.446849",
     "geom:latitude":-31.477236,
     "geom:longitude":-68.517453,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SJ.CH",
         "qs_pg:id":1000673
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009412,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b74708ad30193f92e5660b326f1b178",
+    "wof:geomhash":"6f9f515078a401df8ea2cd3ce0cc7dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421184501,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885998,
     "wof:name":"Chimbas",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

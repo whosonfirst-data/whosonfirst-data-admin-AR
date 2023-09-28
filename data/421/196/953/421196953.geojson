@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.476758,
-    "geom:area_square_m":5013508700.421185,
+    "geom:area_square_m":5013508508.323616,
     "geom:bbox":"-64.03422,-32.077415,-62.846442,-31.305928",
     "geom:latitude":-31.740195,
     "geom:longitude":-63.484377,
@@ -116,12 +116,13 @@
         "hasc:id":"AR.CB.RG",
         "qs_pg:id":1251737
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009898,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7a27f04a97f11de76a06a4f70daa4aa",
+    "wof:geomhash":"b7b13b456a0bef3e1eb62e262b44f6dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421196953,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886013,
     "wof:name":"Rio Segundo",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

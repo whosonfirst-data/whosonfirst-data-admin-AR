@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238976,
-    "geom:area_square_m":2499613424.34483,
+    "geom:area_square_m":2499613424.345116,
     "geom:bbox":"-60.7762784799,-32.6726709589,-60.1457472985,-31.7993376253",
     "geom:latitude":-32.231229,
     "geom:longitude":-60.532769,
@@ -142,12 +142,13 @@
         "hasc:id":"AR.ER.DI",
         "qs_pg:id":1313890
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008947,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f92324f000aceaf985442a05e5df8d80",
+    "wof:geomhash":"d92bc5869fcf78f7ac170e987895d6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":421172581,
-    "wof:lastmodified":1582358632,
+    "wof:lastmodified":1695885999,
     "wof:name":"Diamante",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

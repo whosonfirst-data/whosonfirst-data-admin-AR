@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137626,
-    "geom:area_square_m":1514687462.617914,
+    "geom:area_square_m":1514687182.668115,
     "geom:bbox":"-61.715256,-27.41504,-60.822462,-26.763637",
     "geom:latitude":-27.118559,
     "geom:longitude":-61.308622,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852542,
-    "wof:geomhash":"0e68839fc7f14055c26d10b6c14e10d7",
+    "wof:geomhash":"c7f820702e26214721ac634dcd33f0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108718193,
-    "wof:lastmodified":1636502781,
+    "wof:lastmodified":1695886073,
     "wof:name":"Chacabuco",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

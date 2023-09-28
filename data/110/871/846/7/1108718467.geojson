@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210836,
-    "geom:area_square_m":2287342311.620505,
+    "geom:area_square_m":2287342162.287268,
     "geom:bbox":"-64.225473,-28.93219,-63.571743,-28.384507",
     "geom:latitude":-28.672606,
     "geom:longitude":-63.899364,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852660,
-    "wof:geomhash":"07511a0864df266da35894adbf232b8c",
+    "wof:geomhash":"a95cbd2d94472e0b04d34b5ce8e01245",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718467,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695885995,
     "wof:name":"Atamisqui",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

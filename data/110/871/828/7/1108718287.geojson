@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.925773,
-    "geom:area_square_m":8936285724.423771,
+    "geom:area_square_m":8936285811.64023,
     "geom:bbox":"-64.517631,-39.330113,-63.374391,-38.25",
     "geom:latitude":-38.679911,
     "geom:longitude":-63.886696,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852580,
-    "wof:geomhash":"b7bb2d38d509ba8a61d4035fe5f89892",
+    "wof:geomhash":"02053ee4e96fc72735fcd8c024c8bf52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718287,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885998,
     "wof:name":"Caleu Caleu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055703,
-    "geom:area_square_m":614461935.616933,
+    "geom:area_square_m":614462067.658894,
     "geom:bbox":"-65.711472,-27.03319,-65.209251,-26.728375",
     "geom:latitude":-26.860769,
     "geom:longitude":-65.434938,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.TM.LU",
         "qs_pg:id":364577
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c262f2975d5a533bdf85dec58471187",
+    "wof:geomhash":"b3cb7d2fca8bcba4616df4e8b3e8276a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421175289,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Lules",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

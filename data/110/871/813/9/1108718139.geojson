@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116002,
-    "geom:area_square_m":1189204490.389207,
+    "geom:area_square_m":1189204220.614642,
     "geom:bbox":"-59.345717,-34.200709,-58.854421,-33.803532",
     "geom:latitude":-33.996544,
     "geom:longitude":-59.128825,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852510,
-    "wof:geomhash":"d039072f39eb530156d0a43c53faf3c9",
+    "wof:geomhash":"0c2437eaf8e2c7c2ce0cb18321eb93f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718139,
-    "wof:lastmodified":1627521499,
+    "wof:lastmodified":1695886018,
     "wof:name":"Zarate",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

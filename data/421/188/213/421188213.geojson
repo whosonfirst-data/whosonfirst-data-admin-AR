@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.271186,
-    "geom:area_square_m":12340790635.330107,
+    "geom:area_square_m":12340790877.320591,
     "geom:bbox":"-65.668468,-38.863685,-64.506415,-37.694369",
     "geom:latitude":-38.26758,
     "geom:longitude":-65.076308,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.LP.UC",
         "qs_pg:id":13447
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009538,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"530df250a00d8d6fd3ceb263dd50a72b",
+    "wof:geomhash":"d0bee7dcfbcc4790f64427589a088b41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421188213,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886007,
     "wof:name":"Lihuel Calel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

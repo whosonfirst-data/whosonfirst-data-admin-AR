@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.FJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852544,
     "wof:geomhash":"b8c49d85f9072a0f491d9e811e497a12",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108718201,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886001,
     "wof:name":"Fray Justo Santa Maria De Oro",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015633,
-    "geom:area_square_m":162322127.411789,
+    "geom:area_square_m":162322207.784913,
     "geom:bbox":"-68.83953,-32.964993,-68.647648,-32.828572",
     "geom:latitude":-32.891236,
     "geom:longitude":-68.732267,
@@ -146,12 +146,13 @@
         "wd:id":"Q512660",
         "wk:page":"Guaymall\u00e9n Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008913,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10ca04a8d4b98c9bdb79e87526da8ff5",
+    "wof:geomhash":"df917cffc792af6fcdcdd7f46d6d060b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421171949,
-    "wof:lastmodified":1690850754,
+    "wof:lastmodified":1695886005,
     "wof:name":"Guaymallen",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

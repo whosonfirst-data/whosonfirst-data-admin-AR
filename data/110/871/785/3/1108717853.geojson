@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110079,
-    "geom:area_square_m":1114473517.933943,
+    "geom:area_square_m":1114473517.933883,
     "geom:bbox":"-60.4887324902,-35.2925558363,-60.0272834689,-34.7631920602",
     "geom:latitude":-35.037274,
     "geom:longitude":-60.282656,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852439,
-    "wof:geomhash":"8224ff4f46b7d6a9ccc63a94633e9cf7",
+    "wof:geomhash":"38419241de47408803ab67ed11e33844",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108717853,
-    "wof:lastmodified":1566587978,
+    "wof:lastmodified":1695886663,
     "wof:name":"Alberti",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

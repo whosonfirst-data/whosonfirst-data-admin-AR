@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054108,
-    "geom:area_square_m":570359299.369631,
+    "geom:area_square_m":570358962.857095,
     "geom:bbox":"-68.46397,-31.612399,-67.985936,-31.446372",
     "geom:latitude":-31.517468,
     "geom:longitude":-68.199753,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852642,
-    "wof:geomhash":"ecfbf98b8ad6a68e38c4b8b5be29f187",
+    "wof:geomhash":"2e2b00f5c74fb884a05d20408cba4065",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108718429,
-    "wof:lastmodified":1636502780,
+    "wof:lastmodified":1695886072,
     "wof:name":"San Martin",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

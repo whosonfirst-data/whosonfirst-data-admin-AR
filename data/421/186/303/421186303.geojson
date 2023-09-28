@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449157,
-    "geom:area_square_m":4699228336.304783,
+    "geom:area_square_m":4699227558.143007,
     "geom:bbox":"-64.945024,-32.631753,-64.20962,-31.79609",
     "geom:latitude":-32.208341,
     "geom:longitude":-64.607654,
@@ -100,12 +100,13 @@
         "hasc:id":"AR.CB.CA",
         "qs_pg:id":1063360
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6edfaaac57108998579af4014cdffe7",
+    "wof:geomhash":"c89a4480147b7bad2928c71fe2d218df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421186303,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885997,
     "wof:name":"Calamuchita",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

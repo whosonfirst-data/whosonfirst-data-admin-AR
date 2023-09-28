@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.527872,
-    "geom:area_square_m":5622066671.656689,
+    "geom:area_square_m":5622067232.443785,
     "geom:bbox":"-60.849656,-31.21311,-60.11941,-29.911113",
     "geom:latitude":-30.532549,
     "geom:longitude":-60.488531,
@@ -166,12 +166,13 @@
         "hasc:id":"AR.SF.SJ",
         "qs_pg:id":1251812
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a38821ead2ac3fb1a96b534a24ba9f12",
+    "wof:geomhash":"ee1e2c296a220a3e47fb4b2ebf42bf98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421171505,
-    "wof:lastmodified":1636502825,
+    "wof:lastmodified":1695886083,
     "wof:name":"San Justo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

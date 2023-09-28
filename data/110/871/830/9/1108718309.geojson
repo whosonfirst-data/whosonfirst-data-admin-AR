@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.914184,
-    "geom:area_square_m":9088851712.145386,
+    "geom:area_square_m":9088852026.62677,
     "geom:bbox":"-66.010574,-36.991315,-65.03632,-35.991507",
     "geom:latitude":-36.482007,
     "geom:longitude":-65.518288,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852586,
-    "wof:geomhash":"3bfa760a589a576c9418776fbdd9c7d7",
+    "wof:geomhash":"38c3501530c956920b6aec68cb8f3a13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718309,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Loventue",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

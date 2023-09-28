@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.419545,
-    "geom:area_square_m":4178428131.980884,
+    "geom:area_square_m":4178428384.69084,
     "geom:bbox":"-60.9271,-36.731479,-59.385441,-36.005833",
     "geom:latitude":-36.346908,
     "geom:longitude":-60.130558,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852504,
-    "wof:geomhash":"7302dc0567354a2e5a59e5d6a4c822c4",
+    "wof:geomhash":"656795d53d68adf5e0cd0c8c11eb4371",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718115,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Tapalque",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

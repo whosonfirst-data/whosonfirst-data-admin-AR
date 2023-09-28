@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.584595,
-    "geom:area_square_m":5414037501.182183,
+    "geom:area_square_m":5414036307.521433,
     "geom:bbox":"-71.911358,-42.008617,-71.113362,-41.017163",
     "geom:latitude":-41.497897,
     "geom:longitude":-71.531611,
@@ -239,12 +239,13 @@
         "qs_pg:id":1087246,
         "wd:id":"Q47772"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c9b13d6bad285b10a29fc379c187291",
+    "wof:geomhash":"33a5fe508b8971c92e2e954fe43e488b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":421188061,
-    "wof:lastmodified":1690850640,
+    "wof:lastmodified":1695885998,
     "wof:name":"Bariloche",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

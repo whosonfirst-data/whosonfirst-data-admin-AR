@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117456,
-    "geom:area_square_m":1187587284.286145,
+    "geom:area_square_m":1187586734.257235,
     "geom:bbox":"-58.935271,-35.426647,-58.47,-34.892004",
     "geom:latitude":-35.145668,
     "geom:longitude":-58.691412,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852446,
-    "wof:geomhash":"02adc967a18cb6c07479d1aa30e2612d",
+    "wof:geomhash":"22647bf81f226c4989894afc5e782eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717887,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885997,
     "wof:name":"Ca\u00f1uelas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.123968,
-    "geom:area_square_m":19382207558.317039,
+    "geom:area_square_m":19382207962.199326,
     "geom:bbox":"-68.394366,-42.888061,-65.94,-41.991607",
     "geom:latitude":-42.438381,
     "geom:longitude":-67.175997,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CH.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852558,
-    "wof:geomhash":"0d97470ef3f45b6b09012d48d41cc722",
+    "wof:geomhash":"faecf974f9c08211a8b83536e977499d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108718241,
-    "wof:lastmodified":1636502784,
+    "wof:lastmodified":1695886075,
     "wof:name":"Telsen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

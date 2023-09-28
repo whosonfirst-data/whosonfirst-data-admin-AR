@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159758,
-    "geom:area_square_m":1617564239.630092,
+    "geom:area_square_m":1617564239.630227,
     "geom:bbox":"-59.8142919819,-35.250170256,-59.0707440898,-34.7969313897",
     "geom:latitude":-35.03122,
     "geom:longitude":-59.429919,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852487,
-    "wof:geomhash":"129eda13884d63ffd104a576818e3e15",
+    "wof:geomhash":"fbe7c79f70ea8c6145d9a2d2e76ebc32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108718035,
-    "wof:lastmodified":1566587971,
+    "wof:lastmodified":1695886663,
     "wof:name":"Navarro",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

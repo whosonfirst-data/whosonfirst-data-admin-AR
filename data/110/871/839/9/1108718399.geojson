@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.259373,
-    "geom:area_square_m":21091658534.148567,
+    "geom:area_square_m":21091658534.148228,
     "geom:bbox":"-66.88,-42.0084661181,-65.7283199884,-39.9082279056",
     "geom:latitude":-40.974795,
     "geom:longitude":-66.311458,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"AR.RN.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852628,
-    "wof:geomhash":"55ae922883d179c8884e65fa115184fb",
+    "wof:geomhash":"a0d68f5fcf45cbeaf8e705b6e58f02af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108718399,
-    "wof:lastmodified":1566588009,
+    "wof:lastmodified":1695886667,
     "wof:name":"Valcheta",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

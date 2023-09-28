@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138413,
-    "geom:area_square_m":1523058160.157062,
+    "geom:area_square_m":1523057812.398287,
     "geom:bbox":"-59.599839,-27.410511,-59.031207,-26.902993",
     "geom:latitude":-27.140079,
     "geom:longitude":-59.346815,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852545,
-    "wof:geomhash":"830216a9095cbad870c59553d27cfb2d",
+    "wof:geomhash":"4d5205eef6dd25b1877db01636b340c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718205,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Donovan",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

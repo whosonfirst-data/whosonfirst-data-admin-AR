@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223888,
-    "geom:area_square_m":2475503716.479612,
+    "geom:area_square_m":2475503895.575973,
     "geom:bbox":"-66.178367,-27.099857,-65.621075,-26.224246",
     "geom:latitude":-26.593975,
     "geom:longitude":-65.888727,
@@ -131,12 +131,13 @@
         "qs_pg:id":1063353,
         "wd:id":"Q948534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f2cea94b7c5c3ea2079860fd21d735d9",
+    "wof:geomhash":"22749e7c8ec9d8d4aa199defe0635ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421186297,
-    "wof:lastmodified":1690850652,
+    "wof:lastmodified":1695886000,
     "wof:name":"Tafi Del Valle",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

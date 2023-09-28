@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.755597,
-    "geom:area_square_m":7805198743.381975,
+    "geom:area_square_m":7805198743.381992,
     "geom:bbox":"-64.0713375943,-33.8477824233,-63.0902811817,-32.7142470609",
     "geom:latitude":-33.341649,
     "geom:longitude":-63.610767,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.CB.JC",
         "qs_pg:id":267730
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008695,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03f44aa520805a293cfa1bdac48e9fae",
+    "wof:geomhash":"d507209e43c10d2c177b394fc388c546",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421166595,
-    "wof:lastmodified":1582358623,
+    "wof:lastmodified":1695885994,
     "wof:name":"Juarez Celman",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

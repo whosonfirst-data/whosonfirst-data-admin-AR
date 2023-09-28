@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549504,
-    "geom:area_square_m":6018152201.088778,
+    "geom:area_square_m":6018152469.532386,
     "geom:bbox":"-60.226414,-28.008029,-59.393336,-27.284286",
     "geom:latitude":-27.660474,
     "geom:longitude":-59.828959,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852551,
-    "wof:geomhash":"2a623627a92070ec4a5e948c4151ef23",
+    "wof:geomhash":"4085a79ec69e6d5b2869068a7ae57acb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718229,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Tapenaga",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

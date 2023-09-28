@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330186,
-    "geom:area_square_m":3652843399.35703,
+    "geom:area_square_m":3652843259.948835,
     "geom:bbox":"-65.19446,-26.885753,-64.480131,-26.216687",
     "geom:latitude":-26.531354,
     "geom:longitude":-64.819534,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852674,
-    "wof:geomhash":"8bbe57fa84362ed91fb10a809cf69215",
+    "wof:geomhash":"e5edce30e87d2f54892fb47bdace6e98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718519,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Burruyacu",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470027,
-    "geom:area_square_m":4872186127.937221,
+    "geom:area_square_m":4872186107.703669,
     "geom:bbox":"-70.09324,-33.392772,-68.620095,-32.618652",
     "geom:latitude":-33.038534,
     "geom:longitude":-69.443472,
@@ -123,12 +123,13 @@
         "qs_pg:id":241858,
         "wd:id":"Q583524"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008823,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4cda58ef35f07d4467ff896f9f9cb76",
+    "wof:geomhash":"0b2c96ad3f7b87a84993573405fbc230",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421169773,
-    "wof:lastmodified":1690850599,
+    "wof:lastmodified":1695886008,
     "wof:name":"Lujan De Cuyo",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

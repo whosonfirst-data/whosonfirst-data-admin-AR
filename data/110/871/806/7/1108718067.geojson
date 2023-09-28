@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008914,
-    "geom:area_square_m":90582108.570245,
+    "geom:area_square_m":90582108.570266,
     "geom:bbox":"-58.3475065851,-34.7961610468,-58.1971730492,-34.678260919",
     "geom:latitude":-34.734781,
     "geom:longitude":-58.276186,
@@ -171,9 +171,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852494,
-    "wof:geomhash":"33149136572cc97e82ebca9550a0e7bc",
+    "wof:geomhash":"ac62f3f484d46c1e153c80f50fb0c3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1108718067,
-    "wof:lastmodified":1566588008,
+    "wof:lastmodified":1695886666,
     "wof:name":"Quilmes",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

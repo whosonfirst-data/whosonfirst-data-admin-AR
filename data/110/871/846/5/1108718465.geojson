@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.137822,
-    "geom:area_square_m":12587211043.201132,
+    "geom:area_square_m":12587210722.790865,
     "geom:bbox":"-63.77239,-26.961742,-61.705203,-26.238769",
     "geom:latitude":-26.535729,
     "geom:longitude":-62.730226,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852660,
-    "wof:geomhash":"55631d3113192f07df01e16f8974a003",
+    "wof:geomhash":"142489f8be533a7da38700b393d3388f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108718465,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695885995,
     "wof:name":"Alberdi",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

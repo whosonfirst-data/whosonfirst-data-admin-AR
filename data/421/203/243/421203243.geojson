@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.049577,
-    "geom:area_square_m":11425148110.618822,
+    "geom:area_square_m":11425148110.61849,
     "geom:bbox":"-69.4522459232,-29.0051522661,-67.8232980485,-27.7117536869",
     "geom:latitude":-28.316278,
     "geom:longitude":-68.525019,
@@ -105,12 +105,13 @@
         "hasc:id":"AR.LR.VI",
         "qs_pg:id":230375
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e441df664669aee2050073b556cdfba5",
+    "wof:geomhash":"a5f9babf069b3fdba7ba2cf7b916f70e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421203243,
-    "wof:lastmodified":1582358627,
+    "wof:lastmodified":1695885996,
     "wof:name":"Vinchina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

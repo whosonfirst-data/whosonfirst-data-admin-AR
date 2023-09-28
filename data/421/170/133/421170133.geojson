@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.368307,
-    "geom:area_square_m":28491756092.012524,
+    "geom:area_square_m":28491756154.083096,
     "geom:bbox":"-71.971112,-48.32007,-69.653344,-45.991347",
     "geom:latitude":-46.834547,
     "geom:longitude":-70.631514,
@@ -120,12 +120,13 @@
         "hasc:id":"AR.SC.LB",
         "qs_pg:id":220154
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008838,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c3d0b15ac0cc367f24305116be617696",
+    "wof:geomhash":"ca8ca9386695de190ed89f1b4af62265",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421170133,
-    "wof:lastmodified":1636502822,
+    "wof:lastmodified":1695886082,
     "wof:name":"Lago Buenos Aires",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

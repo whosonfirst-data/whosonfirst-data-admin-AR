@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.172746,
-    "geom:area_square_m":10962719394.97393,
+    "geom:area_square_m":10962719704.471487,
     "geom:bbox":"-71.235356,-41.54497,-69.751147,-39.882881",
     "geom:latitude":-40.887152,
     "geom:longitude":-70.462555,
@@ -122,12 +122,13 @@
         "qs_pg:id":1087247,
         "wd:id":"Q1936853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009533,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"263b9f9006cdf1c5533995c7fdfb4d95",
+    "wof:geomhash":"894a926bc1dfdb4aa185de1bb01c1ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421188063,
-    "wof:lastmodified":1690850639,
+    "wof:lastmodified":1695885998,
     "wof:name":"Pilcaniyeu",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

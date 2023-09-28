@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515487,
-    "geom:area_square_m":5510761300.502011,
+    "geom:area_square_m":5510761332.507704,
     "geom:bbox":"-66.50147,-30.53,-65.422247,-29.82559",
     "geom:latitude":-30.167606,
     "geom:longitude":-65.95623,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852593,
-    "wof:geomhash":"26cf9fa2f04af70b5703841ee6f35453",
+    "wof:geomhash":"b2bdb7c4d8218fc6474304dae7eec0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108718327,
-    "wof:lastmodified":1636502782,
+    "wof:lastmodified":1695886073,
     "wof:name":"Chamical",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

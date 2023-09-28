@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549868,
-    "geom:area_square_m":6119870516.486868,
+    "geom:area_square_m":6119871427.844379,
     "geom:bbox":"-66.830471,-26.41625,-65.748994,-25.182127",
     "geom:latitude":-25.82977,
     "geom:longitude":-66.186494,
@@ -199,12 +199,13 @@
         "hasc:id":"AR.SA.SC",
         "qs_pg:id":220144
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc27f61a396da0e6caccc8f0a8c7a41a",
+    "wof:geomhash":"261fde4b4b078fe0d4fffb67f2e01b90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":421202253,
-    "wof:lastmodified":1636502808,
+    "wof:lastmodified":1695886079,
     "wof:name":"San Carlos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

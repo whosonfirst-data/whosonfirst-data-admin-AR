@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292895,
-    "geom:area_square_m":3164914092.86519,
+    "geom:area_square_m":3164914092.865001,
     "geom:bbox":"-62.6643288016,-29.4214761078,-61.8536872112,-28.8720480552",
     "geom:latitude":-29.087794,
     "geom:longitude":-62.213793,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852662,
-    "wof:geomhash":"4354ae3353851f30a73756440550ed59",
+    "wof:geomhash":"ada61709bb6e0a2aca57b94fb4d5a06e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108718473,
-    "wof:lastmodified":1566587993,
+    "wof:lastmodified":1695886664,
     "wof:name":"Belgrano",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295537,
-    "geom:area_square_m":3172034589.347137,
+    "geom:area_square_m":3172034452.125504,
     "geom:bbox":"-64.46702,-30.099109,-63.730424,-29.49678",
     "geom:latitude":-29.771349,
     "geom:longitude":-64.1316,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CB.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852530,
-    "wof:geomhash":"0011456208df98d644dc7c5ca3716216",
+    "wof:geomhash":"d41d28e663b9ea76046b76b8c060ad37",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718167,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Sobremonte",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

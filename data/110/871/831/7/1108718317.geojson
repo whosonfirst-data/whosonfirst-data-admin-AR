@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252704,
-    "geom:area_square_m":2552397344.590258,
+    "geom:area_square_m":2552397458.892047,
     "geom:bbox":"-64.492216,-35.467467,-63.930222,-34.992697",
     "geom:latitude":-35.230414,
     "geom:longitude":-64.213829,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.RE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852589,
-    "wof:geomhash":"e88f3f3828c7eae9e3888d00eb769f22",
+    "wof:geomhash":"5669ba7f50b8db4559ee0e78b40a0b29",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718317,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Realico",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

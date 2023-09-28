@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.803664,
-    "geom:area_square_m":19388650053.498074,
+    "geom:area_square_m":19388650053.501434,
     "geom:bbox":"-70.023248,-30.7862092266,-68.9071423027,-28.3801242405",
     "geom:latitude":-29.612102,
     "geom:longitude":-69.439255,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.SJ.IG",
         "qs_pg:id":1251815
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64ff8f36cfc9ad0151c9b3db4b25edca",
+    "wof:geomhash":"2e67dc3248b2ab5a3ccffc9bc3549048",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421171511,
-    "wof:lastmodified":1582358643,
+    "wof:lastmodified":1695886004,
     "wof:name":"Iglesia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

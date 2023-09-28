@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.540029,
-    "geom:area_square_m":5251317839.839142,
+    "geom:area_square_m":5251317839.839333,
     "geom:bbox":"-61.7930876153,-38.6519206952,-60.6825541129,-37.6743888326",
     "geom:latitude":-38.148061,
     "geom:longitude":-61.265237,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852452,
-    "wof:geomhash":"ae85c810d9f2fd8d7bfccf7b24694a11",
+    "wof:geomhash":"a6e58076673e1c5391fcb22aeed9da0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108717907,
-    "wof:lastmodified":1566587948,
+    "wof:lastmodified":1695886661,
     "wof:name":"Coronel Pringles",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

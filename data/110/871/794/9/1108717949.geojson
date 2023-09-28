@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234918,
-    "geom:area_square_m":2330009979.633276,
+    "geom:area_square_m":2330010123.54117,
     "geom:bbox":"-58.283967,-37.075767,-57.662997,-36.274924",
     "geom:latitude":-36.666268,
     "geom:longitude":-57.996429,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852465,
-    "wof:geomhash":"d672cfb4c3a0d9ab896ba023d92210a7",
+    "wof:geomhash":"fe577f83339835d02ce44a5289000227",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108717949,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Guido",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062446,
-    "geom:area_square_m":637909675.451424,
+    "geom:area_square_m":637909415.855404,
     "geom:bbox":"-59.376905,-34.463264,-58.919531,-34.157178",
     "geom:latitude":-34.296019,
     "geom:longitude":-59.155035,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852457,
-    "wof:geomhash":"efd4f09db70c18d6379456e1b69fe1d4",
+    "wof:geomhash":"63b19882d9fa9a409a9950edd691f8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717931,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1695886001,
     "wof:name":"Exaltacion De La Cruz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

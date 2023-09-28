@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037729,
-    "geom:area_square_m":384709987.620637,
+    "geom:area_square_m":384710197.070215,
     "geom:bbox":"-59.054437,-34.575299,-58.739298,-34.310871",
     "geom:latitude":-34.44842,
     "geom:longitude":-58.902912,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852491,
-    "wof:geomhash":"68482f919045cecb4542e32bcd7261cc",
+    "wof:geomhash":"97744f3f88b58b35ca8818706b347e16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108718057,
-    "wof:lastmodified":1636502783,
+    "wof:lastmodified":1695886074,
     "wof:name":"Pilar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

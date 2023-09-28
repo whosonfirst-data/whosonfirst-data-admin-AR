@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.567532,
-    "geom:area_square_m":6150120959.423347,
+    "geom:area_square_m":6150121124.150693,
     "geom:bbox":"-69.630166,-29.224165,-67.834313,-28.181626",
     "geom:latitude":-28.790415,
     "geom:longitude":-68.697626,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852595,
-    "wof:geomhash":"80c60e754b2c1774eb07bb444c88c37f",
+    "wof:geomhash":"fb2e9a6c67e5fe7cbfe9a51338c3a602",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718337,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Lamadrid",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

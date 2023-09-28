@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270686,
-    "geom:area_square_m":2718892834.570794,
+    "geom:area_square_m":2718892846.275274,
     "geom:bbox":"-60.217369,-35.9104,-59.177918,-35.453541",
     "geom:latitude":-35.676917,
     "geom:longitude":-59.70374,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852497,
-    "wof:geomhash":"e02cfacb1ce5268792ef2dc8b542e81e",
+    "wof:geomhash":"772099985c72f29df9f030e10b6664f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108718083,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"Saladillo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

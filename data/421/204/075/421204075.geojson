@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.499645,
-    "geom:area_square_m":62847480061.533142,
+    "geom:area_square_m":62847480766.330856,
     "geom:bbox":"-69.735849,-48.581344,-65.721222,-45.991155",
     "geom:latitude":-47.331408,
     "geom:longitude":-68.031485,
@@ -131,12 +131,13 @@
         "qs_pg:id":237450,
         "wd:id":"Q5263843"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea790b649404655031bd5ece9a55d27a",
+    "wof:geomhash":"ea61b366e53c22effac69b871c2dffcc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421204075,
-    "wof:lastmodified":1636502806,
+    "wof:lastmodified":1695886078,
     "wof:name":"Deseado",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

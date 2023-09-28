@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.15016,
-    "geom:area_square_m":12660057332.214123,
+    "geom:area_square_m":12660057756.499737,
     "geom:bbox":"-67.361503,-28.053381,-66.44735,-25.919161",
     "geom:latitude":-27.099472,
     "geom:longitude":-66.92248,
@@ -188,12 +188,13 @@
         "hasc:id":"AR.CT.BE",
         "qs_pg:id":237430
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010171,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88ed692ee0db7f5419e4560ca3a825d6",
+    "wof:geomhash":"81758cc87c1d92b9d1a883798f48b4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":421204045,
-    "wof:lastmodified":1636502806,
+    "wof:lastmodified":1695886078,
     "wof:name":"Belen",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

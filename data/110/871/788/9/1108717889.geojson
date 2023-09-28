@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053989,
-    "geom:area_square_m":552477260.542978,
+    "geom:area_square_m":552477591.491429,
     "geom:bbox":"-60.033073,-34.292719,-59.679813,-34.003861",
     "geom:latitude":-34.149967,
     "geom:longitude":-59.85442,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852448,
-    "wof:geomhash":"4d55da9756fd69bd104b3d823ebc5663",
+    "wof:geomhash":"595a0f8284c41bfd5d7f83848c303169",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717889,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885997,
     "wof:name":"Capitan Sarmiento",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

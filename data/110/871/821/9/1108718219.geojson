@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205085,
-    "geom:area_square_m":2258555030.785758,
+    "geom:area_square_m":2258555030.785704,
     "geom:bbox":"-60.037212948,-27.2926204008,-59.55,-26.7086830295",
     "geom:latitude":-27.04755,
     "geom:longitude":-59.774949,
@@ -95,9 +95,10 @@
         "hasc:id":"AR.CC.PP",
         "wd:id":"Q1656867"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852549,
-    "wof:geomhash":"d4f340e004d980f3b30629d2752f2675",
+    "wof:geomhash":"a91e86f097ace317deafb14a1edae623",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108718219,
-    "wof:lastmodified":1566587963,
+    "wof:lastmodified":1695886662,
     "wof:name":"Presidencia De La Plaza",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

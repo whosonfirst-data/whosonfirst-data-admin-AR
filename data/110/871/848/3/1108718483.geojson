@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.547807,
-    "geom:area_square_m":5948082380.481321,
+    "geom:area_square_m":5948082190.379139,
     "geom:bbox":"-63.113611,-28.887458,-61.767202,-28.3295",
     "geom:latitude":-28.584629,
     "geom:longitude":-62.32857,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852665,
-    "wof:geomhash":"216764e6046eebb323dbce22e1a893db",
+    "wof:geomhash":"0eddd61b53cda5517548bc44133ed21b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718483,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886005,
     "wof:name":"General Taboada",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

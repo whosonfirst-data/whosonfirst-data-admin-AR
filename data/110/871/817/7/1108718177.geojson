@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240582,
-    "geom:area_square_m":2634213643.330123,
+    "geom:area_square_m":2634212870.620638,
     "geom:bbox":"-58.302665,-27.967875,-57.238556,-27.425556",
     "geom:latitude":-27.687205,
     "geom:longitude":-57.814525,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CN.GP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852534,
-    "wof:geomhash":"1326f09834e5debc9b6ff2d18c51d6ea",
+    "wof:geomhash":"a7d62c870c24acfd7b0c43e7e56d07bb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718177,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Paz",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

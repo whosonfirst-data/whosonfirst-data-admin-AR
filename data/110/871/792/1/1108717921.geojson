@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198089,
-    "geom:area_square_m":1971531084.047721,
+    "geom:area_square_m":1971530956.411408,
     "geom:bbox":"-57.989861,-36.726605,-57.348631,-36.107732",
     "geom:latitude":-36.399112,
     "geom:longitude":-57.632984,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852454,
-    "wof:geomhash":"d2c9aa0e17020d55746f9da1d2b46f16",
+    "wof:geomhash":"287e1092d4a76bf7b2f502e6fd62c944",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108717921,
-    "wof:lastmodified":1636502783,
+    "wof:lastmodified":1695886074,
     "wof:name":"Dolores",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

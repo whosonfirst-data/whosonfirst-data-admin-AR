@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.246047,
-    "geom:area_square_m":12124954313.434582,
+    "geom:area_square_m":12124954697.334118,
     "geom:bbox":"-69.887053,-38.680218,-68.245725,-37.688384",
     "geom:latitude":-38.098376,
     "geom:longitude":-69.012485,
@@ -140,12 +140,13 @@
         "qs_pg:id":220149,
         "wd:id":"Q794673"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008837,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47116355416ea12b21fe4f20e6b6daf0",
+    "wof:geomhash":"dab43e42e01ceecbfd0fe3443aaef806",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421170123,
-    "wof:lastmodified":1690850730,
+    "wof:lastmodified":1695886003,
     "wof:name":"A\u00f1elo",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

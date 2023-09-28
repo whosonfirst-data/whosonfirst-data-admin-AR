@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.644846,
-    "geom:area_square_m":14580981629.80299,
+    "geom:area_square_m":14580981512.426968,
     "geom:bbox":"-71.852489,-44.686138,-69.507603,-43.755202",
     "geom:latitude":-44.200118,
     "geom:longitude":-70.57674,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CH.TH",
         "qs_pg:id":268802
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008697,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9692a702a92971e02d94d55b36da064",
+    "wof:geomhash":"136fdd96a86b1f23b094243755fc13b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421166645,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886016,
     "wof:name":"Tehuelches",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

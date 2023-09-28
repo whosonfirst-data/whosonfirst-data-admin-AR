@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075494,
-    "geom:area_square_m":768683054.660078,
+    "geom:area_square_m":768683126.347908,
     "geom:bbox":"-59.337385,-34.808514,-58.95692,-34.374379",
     "geom:latitude":-34.569107,
     "geom:longitude":-59.158823,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852481,
-    "wof:geomhash":"a0ec1f68e1f0e98783dad1fad913a391",
+    "wof:geomhash":"7710520494bdd97fb9d1ea09b3cbdd06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718009,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Lujan",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

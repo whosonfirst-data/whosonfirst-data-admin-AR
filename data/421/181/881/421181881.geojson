@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256815,
-    "geom:area_square_m":2593960352.141957,
+    "geom:area_square_m":2593960352.141796,
     "geom:bbox":"-63.947079174,-35.4640342558,-63.3742083929,-34.991699001",
     "geom:latitude":-35.229292,
     "geom:longitude":-63.660121,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.LP.CP",
         "qs_pg:id":507435
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009311,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1107e6ebd88e3695ddb84d251d2f6cfa",
+    "wof:geomhash":"6800665adad1949875b4ff3760191ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421181881,
-    "wof:lastmodified":1582358633,
+    "wof:lastmodified":1695886000,
     "wof:name":"Chapaleufu",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291935,
-    "geom:area_square_m":3304279391.963275,
+    "geom:area_square_m":3304280116.24913,
     "geom:bbox":"-66.022668,-24.057065,-65.291779,-23.369171",
     "geom:latitude":-23.743461,
     "geom:longitude":-65.696343,
@@ -119,12 +119,13 @@
         "qs_pg:id":902988,
         "wd:id":"Q2302575"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010048,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02014d1e73e73f4460ba81fc1459fdc5",
+    "wof:geomhash":"bc86a8e97c2489ff391817b21947fa40",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421201001,
-    "wof:lastmodified":1690850718,
+    "wof:lastmodified":1695886003,
     "wof:name":"Tumbaya",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.494844,
-    "geom:area_square_m":4931410123.370605,
+    "geom:area_square_m":4931410484.612192,
     "geom:bbox":"-61.724715,-36.742825,-60.53425,-35.838922",
     "geom:latitude":-36.29841,
     "geom:longitude":-61.149734,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852444,
-    "wof:geomhash":"7c8e2e7f9983f4ffe68dabb1f7abd0c3",
+    "wof:geomhash":"49be237686fc1e6d02a005c079e7beb3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108717879,
-    "wof:lastmodified":1636502788,
+    "wof:lastmodified":1695886078,
     "wof:name":"Bolivar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

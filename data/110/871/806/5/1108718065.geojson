@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852493,
     "wof:geomhash":"100fbbcd43b9084cf446e319c653167a",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108718065,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886012,
     "wof:name":"Punta Indio",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

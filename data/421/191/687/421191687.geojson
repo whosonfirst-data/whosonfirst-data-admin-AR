@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005313,
-    "geom:area_square_m":54029204.486122,
+    "geom:area_square_m":54029263.502791,
     "geom:bbox":"-58.399032,-34.727961,-58.281872,-34.632973",
     "geom:latitude":-34.679307,
     "geom:longitude":-58.341166,
@@ -243,12 +243,13 @@
         "wd:id":"Q753642",
         "wk:page":"Avellaneda"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009702,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2088457f3878ccb81448176b9c9231c4",
+    "wof:geomhash":"46485044b82622ce48b3ad3432858531",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -258,7 +259,7 @@
         }
     ],
     "wof:id":421191687,
-    "wof:lastmodified":1690850695,
+    "wof:lastmodified":1695886001,
     "wof:name":"Avellaneda",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

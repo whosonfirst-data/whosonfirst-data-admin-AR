@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445449,
-    "geom:area_square_m":4910733392.379776,
+    "geom:area_square_m":4910734165.974308,
     "geom:bbox":"-64.799017,-27.353209,-63.650657,-26.536112",
     "geom:latitude":-26.930297,
     "geom:longitude":-64.29797,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.JM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852666,
-    "wof:geomhash":"7452fc2e3e567ebe9c69f9cb73abae22",
+    "wof:geomhash":"96d611c874e9f7d7046067846bcb0c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718489,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886006,
     "wof:name":"Jimenez",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

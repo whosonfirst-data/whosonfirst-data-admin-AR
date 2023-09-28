@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496868,
-    "geom:area_square_m":5528049620.781883,
+    "geom:area_square_m":5528049797.942447,
     "geom:bbox":"-65.292361,-26.306979,-64.202232,-25.51",
     "geom:latitude":-25.871953,
     "geom:longitude":-64.725353,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SA.RF",
         "qs_pg:id":1251750
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52fef243bf179986ec59a1e90700215d",
+    "wof:geomhash":"f3664cfdd63cf5e85b46abb4452e2c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421171483,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886014,
     "wof:name":"Rosario De La Frontera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

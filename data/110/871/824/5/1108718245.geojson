@@ -159,6 +159,7 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852559,
     "wof:geomhash":"0825199678d48dbbcd790ab00a522458",
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108718245,
-    "wof:lastmodified":1694492372,
+    "wof:lastmodified":1695886664,
     "wof:name":"Concordia",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

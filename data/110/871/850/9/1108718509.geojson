@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126391,
-    "geom:area_square_m":1381775538.403236,
+    "geom:area_square_m":1381775538.403298,
     "geom:bbox":"-64.2032927008,-28.0077261097,-63.6482518254,-27.657880529",
     "geom:latitude":-27.85379,
     "geom:longitude":-63.903158,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852671,
-    "wof:geomhash":"e26e373842d75925488c6a22c78d024a",
+    "wof:geomhash":"404acfecc467b6244de2e4623e7e7ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108718509,
-    "wof:lastmodified":1566587968,
+    "wof:lastmodified":1695886663,
     "wof:name":"Robles",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

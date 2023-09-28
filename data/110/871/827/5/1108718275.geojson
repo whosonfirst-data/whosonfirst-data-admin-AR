@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3355,
-    "geom:area_square_m":3815255392.626158,
+    "geom:area_square_m":3815256113.11481,
     "geom:bbox":"-62.34947,-23.5,-61.834164,-22.472116",
     "geom:latitude":-23.121356,
     "geom:longitude":-62.137548,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.RL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852574,
-    "wof:geomhash":"5d31636f8965f6a55deb7456e6e7a46d",
+    "wof:geomhash":"05ba89806422db546c419a6643b0a5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718275,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Ramon Lista",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

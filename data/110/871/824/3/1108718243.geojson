@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259848,
-    "geom:area_square_m":2724717920.649641,
+    "geom:area_square_m":2724717920.649705,
     "geom:bbox":"-58.723006944,-32.3674405662,-58.0302494373,-31.6553565761",
     "geom:latitude":-32.003878,
     "geom:longitude":-58.363559,
@@ -130,9 +130,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852558,
-    "wof:geomhash":"4b56f0c94ca2cede4ea085aa4fdf1253",
+    "wof:geomhash":"c5428cab63dd66147ce741dc1bd7bb77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108718243,
-    "wof:lastmodified":1566587988,
+    "wof:lastmodified":1695886664,
     "wof:name":"Colon",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

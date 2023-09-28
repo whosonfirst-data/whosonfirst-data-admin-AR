@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.012821,
-    "geom:area_square_m":9148750805.875153,
+    "geom:area_square_m":9148749039.574741,
     "geom:bbox":"-72.179045,-43.633727,-70.565234,-42.472478",
     "geom:latitude":-43.069839,
     "geom:longitude":-71.455412,
@@ -122,12 +122,13 @@
         "hasc:id":"AR.CH.FU",
         "qs_pg:id":220151
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008837,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c1c0bd2e9135daa9c622531805b5a97",
+    "wof:geomhash":"71fbb6c2e983561bd9561959b3852577",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421170127,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1695886000,
     "wof:name":"Futaleufu",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

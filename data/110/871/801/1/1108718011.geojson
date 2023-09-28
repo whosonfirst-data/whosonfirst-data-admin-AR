@@ -162,6 +162,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852481,
     "wof:geomhash":"8cb5135bff17b8c14d256c92bd159624",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108718011,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886077,
     "wof:name":"Magdalena",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

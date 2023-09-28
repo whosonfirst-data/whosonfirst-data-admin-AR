@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.354217,
-    "geom:area_square_m":3754061010.566076,
+    "geom:area_square_m":3754060914.611582,
     "geom:bbox":"-66.492259,-31.368304,-65.636062,-30.747241",
     "geom:latitude":-31.007329,
     "geom:longitude":-66.057834,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852596,
-    "wof:geomhash":"17ca4f026e3a6ab717becda58a105eb2",
+    "wof:geomhash":"37845b946ee72ae070e4b82f1dc46f26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718339,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Ocampo",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

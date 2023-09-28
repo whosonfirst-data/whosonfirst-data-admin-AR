@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308128,
-    "geom:area_square_m":3241286825.942413,
+    "geom:area_square_m":3241287104.182652,
     "geom:bbox":"-64.89378,-32.013012,-63.910353,-31.348553",
     "geom:latitude":-31.709838,
     "geom:longitude":-64.305306,
@@ -227,12 +227,13 @@
         "hasc:id":"AR.CB.SM",
         "qs_pg:id":1063359
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"428a9b9e1b45a9b3e249e82fe6cba84b",
+    "wof:geomhash":"910b39e2f49aa86110b4be0a9e759e13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +243,7 @@
         }
     ],
     "wof:id":421186301,
-    "wof:lastmodified":1636502813,
+    "wof:lastmodified":1695886080,
     "wof:name":"Santa Maria",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

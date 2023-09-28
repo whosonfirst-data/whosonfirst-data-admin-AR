@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.322969,
-    "geom:area_square_m":13577439874.591356,
+    "geom:area_square_m":13577440248.999575,
     "geom:bbox":"-67.186045,-34.826089,-65.97119,-33.072955",
     "geom:latitude":-33.900264,
     "geom:longitude":-66.502709,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SL.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852649,
-    "wof:geomhash":"e5a5aa8dbf86ea928a4f13cb6712fb48",
+    "wof:geomhash":"70e6e5c74544587f99fbe52019f29159",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718445,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Juan Martin De Pueyrredon",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

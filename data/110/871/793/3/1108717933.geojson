@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852457,
     "wof:geomhash":"5b0dc066cdc3c160be4e0b842a46bf04",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717933,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886001,
     "wof:name":"Ezeiza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

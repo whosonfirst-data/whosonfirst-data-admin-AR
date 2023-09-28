@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481139,
-    "geom:area_square_m":4597034682.538044,
+    "geom:area_square_m":4597034834.659187,
     "geom:bbox":"-70.025718,-39.815729,-68.818453,-38.994182",
     "geom:latitude":-39.403456,
     "geom:longitude":-69.426848,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.NQ.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852620,
-    "wof:geomhash":"efd03d4f3e6c3742cdcbb750687078f7",
+    "wof:geomhash":"70ffd8b9e65f0123c6df464d4ca4a372",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718385,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Picun Leufu",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

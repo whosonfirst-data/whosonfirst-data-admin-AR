@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108385,
-    "geom:area_square_m":1203692889.860923,
+    "geom:area_square_m":1203692889.861001,
     "geom:bbox":"-65.538008178,-26.281335626,-64.8753359152,-25.9150840783",
     "geom:latitude":-26.08537,
     "geom:longitude":-65.164891,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.LD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852633,
-    "wof:geomhash":"e1842b21d1e39863ef8d358047ba2815",
+    "wof:geomhash":"f3bc52afe394989aa71d14f017c982a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108718409,
-    "wof:lastmodified":1566587993,
+    "wof:lastmodified":1695886664,
     "wof:name":"La Candelaria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10176,
-    "geom:area_square_m":1048208590.599512,
+    "geom:area_square_m":1048208629.517866,
     "geom:bbox":"-60.308699,-33.830183,-59.806628,-33.350938",
     "geom:latitude":-33.587056,
     "geom:longitude":-60.058147,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852494,
-    "wof:geomhash":"fb42ca149b375b308b2b33452d2f28ba",
+    "wof:geomhash":"9d65e74327139f86c7d3901128952377",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718069,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Ramallo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

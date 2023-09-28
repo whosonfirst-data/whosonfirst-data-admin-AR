@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.636285,
-    "geom:area_square_m":6727362472.378391,
+    "geom:area_square_m":6727362472.378725,
     "geom:bbox":"-62.1287429815,-31.7710912721,-61.2076731226,-30.710766821",
     "geom:latitude":-31.233594,
     "geom:longitude":-61.657563,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.SF.CL",
         "qs_pg:id":1297865
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008705,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3ca86713c150c5a171356758ecf335e",
+    "wof:geomhash":"138101050e0246066c469decbcc609a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421166875,
-    "wof:lastmodified":1582358623,
+    "wof:lastmodified":1695885994,
     "wof:name":"Castellanos",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

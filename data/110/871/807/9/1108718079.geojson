@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153533,
-    "geom:area_square_m":1545938133.77202,
+    "geom:area_square_m":1545937773.475137,
     "geom:bbox":"-59.823146,-35.755059,-59.011082,-35.287274",
     "geom:latitude":-35.480773,
     "geom:longitude":-59.359742,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.RP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852496,
-    "wof:geomhash":"4237611262f7c8ef3d66b27e87c83097",
+    "wof:geomhash":"69b045e852b5bf28076ad7aa6b8d25ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718079,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886014,
     "wof:name":"Roque Perez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073968,
-    "geom:area_square_m":750048866.608731,
+    "geom:area_square_m":750048967.97754,
     "geom:bbox":"-59.217101,-35.107768,-58.779609,-34.718646",
     "geom:latitude":-34.909372,
     "geom:longitude":-58.995209,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852467,
-    "wof:geomhash":"cbb994515f48f2d96010ca23ac96c5c1",
+    "wof:geomhash":"82aa2e0f240eb44369020d3b7968c459",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717955,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Las Heras",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

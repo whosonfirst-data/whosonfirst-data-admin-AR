@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23232,
-    "geom:area_square_m":2560514165.221765,
+    "geom:area_square_m":2560514221.307696,
     "geom:bbox":"-58.96,-27.384402,-58.366811,-26.606264",
     "geom:latitude":-26.958624,
     "geom:longitude":-58.709893,
@@ -151,12 +151,13 @@
         "hasc:id":"AR.CC.BE",
         "qs_pg:id":1017747
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009431,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e25b835f1dfe29b887d427325ef5d29a",
+    "wof:geomhash":"8a79a88424461de1120022fe76dfea34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421185063,
-    "wof:lastmodified":1636502827,
+    "wof:lastmodified":1695886084,
     "wof:name":"Bermejo",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044974,
-    "geom:area_square_m":504044229.238452,
+    "geom:area_square_m":504044206.015719,
     "geom:bbox":"-65.531119,-25.165903,-65.23493,-24.85383",
     "geom:latitude":-24.992463,
     "geom:longitude":-65.397794,
@@ -157,12 +157,13 @@
         "hasc:id":"AR.SA.CE",
         "qs_pg:id":1251791
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008885,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba8abc56ebe906f4a59a6399daba8014",
+    "wof:geomhash":"e095db637f042179a657ca6608733d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421171213,
-    "wof:lastmodified":1636502827,
+    "wof:lastmodified":1695886083,
     "wof:name":"Cerrillos",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

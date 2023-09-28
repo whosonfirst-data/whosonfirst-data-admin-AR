@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.784787,
-    "geom:area_square_m":18438884543.329193,
+    "geom:area_square_m":18438885050.875912,
     "geom:bbox":"-65.148821,-34.243137,-63.877543,-32.307497",
     "geom:latitude":-33.328889,
     "geom:longitude":-64.494471,
@@ -276,12 +276,13 @@
         "qs_pg:id":896895,
         "wd:id":"Q983451"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c05cb15b3ea68817e53f2ff3a6b0335f",
+    "wof:geomhash":"5385fbbc56dc8da498dbbdb631eacbba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -291,7 +292,7 @@
         }
     ],
     "wof:id":421185481,
-    "wof:lastmodified":1690850762,
+    "wof:lastmodified":1695886005,
     "wof:name":"Rio Cuarto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

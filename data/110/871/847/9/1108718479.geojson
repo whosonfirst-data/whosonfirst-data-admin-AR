@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.579842,
-    "geom:area_square_m":6284571681.515459,
+    "geom:area_square_m":6284571195.144119,
     "geom:bbox":"-65.188535,-29.574743,-64.434836,-28.128089",
     "geom:latitude":-28.771652,
     "geom:longitude":-64.759169,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852663,
-    "wof:geomhash":"622553343e73d28ef5f30fd4c04196c9",
+    "wof:geomhash":"105e488305fc1b14496d9133a8d7ec24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718479,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885999,
     "wof:name":"Choya",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

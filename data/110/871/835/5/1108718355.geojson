@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024436,
-    "geom:area_square_m":252991236.516831,
+    "geom:area_square_m":252991118.050085,
     "geom:bbox":"-68.663938,-33.232481,-68.283425,-33.071779",
     "geom:latitude":-33.146839,
     "geom:longitude":-68.476762,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.MZ.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852601,
-    "wof:geomhash":"7b8766e2824fd5fd70fc3b5d1409348e",
+    "wof:geomhash":"58c5ec627e2f88de0afeb8f059afb263",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718355,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886007,
     "wof:name":"Junin",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

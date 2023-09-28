@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004989,
-    "geom:area_square_m":50713105.040844,
+    "geom:area_square_m":50713035.37095,
     "geom:bbox":"-58.449159,-34.744844,-58.333675,-34.658972",
     "geom:latitude":-34.705689,
     "geom:longitude":-58.394786,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.BA.LS",
         "qs_pg:id":425226
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009228,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97b1ee2e53d2a6a7067d911bf6f4ae51",
+    "wof:geomhash":"d34c50c269eb9674eba96e826c2269c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421179647,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886006,
     "wof:name":"Lanus",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

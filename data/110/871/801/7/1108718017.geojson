@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315433,
-    "geom:area_square_m":3094441231.970262,
+    "geom:area_square_m":3094441137.297571,
     "geom:bbox":"-58.098869,-37.887107,-57.186961,-37.136682",
     "geom:latitude":-37.498431,
     "geom:longitude":-57.643755,
@@ -142,9 +142,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852483,
-    "wof:geomhash":"9913e1d63e2aa61aba7720670bf4c5b7",
+    "wof:geomhash":"0e85f77a2cc58419761932e245cc37df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108718017,
-    "wof:lastmodified":1636502787,
+    "wof:lastmodified":1695886077,
     "wof:name":"Mar Chiquita",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

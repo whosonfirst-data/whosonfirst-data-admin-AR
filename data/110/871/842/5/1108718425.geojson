@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852641,
     "wof:geomhash":"8b4e78fb48c8df7e0b2888a4975be545",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108718425,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886010,
     "wof:name":"9 De Julio",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

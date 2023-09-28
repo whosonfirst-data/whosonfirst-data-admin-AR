@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.316922,
-    "geom:area_square_m":3333873694.104161,
+    "geom:area_square_m":3333873830.937386,
     "geom:bbox":"-65.774139,-31.943132,-64.725923,-31.383399",
     "geom:latitude":-31.707686,
     "geom:longitude":-65.157697,
@@ -123,12 +123,13 @@
         "hasc:id":"AR.CB.SA",
         "qs_pg:id":425241
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009949,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4e5483610e190ec9c021a983388fb29",
+    "wof:geomhash":"89807aa8e979ee7a8eab60123ee5980c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421198475,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886014,
     "wof:name":"San Alberto",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

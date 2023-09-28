@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.491271,
-    "geom:area_square_m":5168969918.63599,
+    "geom:area_square_m":5168969948.009919,
     "geom:bbox":"-60.658006,-32.07826,-59.513485,-31.157723",
     "geom:latitude":-31.689195,
     "geom:longitude":-60.048817,
@@ -128,12 +128,13 @@
         "hasc:id":"AR.ER.PA",
         "qs_pg:id":1251742
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c0b4be9885ba19f2ed8e5967a6bbc11",
+    "wof:geomhash":"f697c022b2eefe0a02cab47d3a12f39b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421171467,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886010,
     "wof:name":"Parana",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

@@ -141,6 +141,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852502,
     "wof:geomhash":"c03f0bb39a839ed22fc6286906048ff3",
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108718107,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886072,
     "wof:name":"San Vicente",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

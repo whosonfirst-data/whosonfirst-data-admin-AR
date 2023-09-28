@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.879763,
-    "geom:area_square_m":9601057179.430683,
+    "geom:area_square_m":9601057336.299473,
     "geom:bbox":"-63.488188,-28.346301,-61.707583,-27.716011",
     "geom:latitude":-28.044812,
     "geom:longitude":-62.543067,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852666,
-    "wof:geomhash":"ccb6bb50dc65343a2636bc626f34e02f",
+    "wof:geomhash":"c5b5a2c7e307ecdf26386bb7ec821bff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718491,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886006,
     "wof:name":"Juan F Ibarra",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

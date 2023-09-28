@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.300183,
-    "geom:area_square_m":12781479543.774916,
+    "geom:area_square_m":12781478954.688185,
     "geom:bbox":"-65.986687,-37.726745,-64.164877,-36.949716",
     "geom:latitude":-37.34277,
     "geom:longitude":-65.069365,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.UT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852590,
-    "wof:geomhash":"1d86cbd157ca3f849c5e4b681d6550db",
+    "wof:geomhash":"c1cc422ebab04593dbea1efd9e5daacf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718319,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Utracan",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

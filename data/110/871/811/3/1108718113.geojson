@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.492644,
-    "geom:area_square_m":4843397044.375883,
+    "geom:area_square_m":4843397044.376104,
     "geom:bbox":"-59.7718668011,-37.8196971057,-58.6108442307,-36.8480220547",
     "geom:latitude":-37.335844,
     "geom:longitude":-59.181653,
@@ -156,9 +156,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852504,
-    "wof:geomhash":"3a6c119cb8de45d17d45338c54937efc",
+    "wof:geomhash":"bbb05fc8a7358442a536f6474744f515",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1108718113,
-    "wof:lastmodified":1566587957,
+    "wof:lastmodified":1695886662,
     "wof:name":"Tandil",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

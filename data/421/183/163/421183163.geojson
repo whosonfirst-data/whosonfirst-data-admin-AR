@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141726,
-    "geom:area_square_m":1559472830.873282,
+    "geom:area_square_m":1559472497.624017,
     "geom:bbox":"-55.106315,-27.382667,-54.488818,-26.927553",
     "geom:latitude":-27.142932,
     "geom:longitude":-54.802886,
@@ -100,12 +100,13 @@
         "hasc:id":"AR.MN.CG",
         "qs_pg:id":966111
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009360,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08d74a7ecb1b63e3cf0b1ef367e7f7dc",
+    "wof:geomhash":"ab03f05bbbd6a005a2f0a8d6371073fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421183163,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885995,
     "wof:name":"Cainguas",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.476656,
-    "geom:area_square_m":5029656015.855279,
+    "geom:area_square_m":5029656556.295305,
     "geom:bbox":"-67.127104,-31.826823,-66.259576,-31.08",
     "geom:latitude":-31.420505,
     "geom:longitude":-66.678566,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.RP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852598,
-    "wof:geomhash":"bcd62f3bd5695ab390e0fb96831f021f",
+    "wof:geomhash":"f37b20918558f11f793ed1f88a958ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718347,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"Rosario Vera Pe\u00f1aloza",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

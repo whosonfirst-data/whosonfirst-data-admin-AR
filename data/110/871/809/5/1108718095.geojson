@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311398,
-    "geom:area_square_m":3018012989.260142,
+    "geom:area_square_m":3018012989.259883,
     "geom:bbox":"-59.988302994,-38.789638519,-59.2468744445,-38.0241144193",
     "geom:latitude":-38.390032,
     "geom:longitude":-59.587153,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852499,
-    "wof:geomhash":"8bc32e91e822f1c80e143f7b258c5979",
+    "wof:geomhash":"2f1b3447b1af6568dd85260929017e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108718095,
-    "wof:lastmodified":1566588003,
+    "wof:lastmodified":1695886666,
     "wof:name":"San Cayetano",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

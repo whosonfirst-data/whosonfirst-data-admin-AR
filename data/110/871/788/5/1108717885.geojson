@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096288,
-    "geom:area_square_m":985450716.741276,
+    "geom:area_square_m":985450713.976612,
     "geom:bbox":"-59.105566,-34.374478,-58.679045,-33.942107",
     "geom:latitude":-34.138498,
     "geom:longitude":-58.883349,
@@ -159,9 +159,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852446,
-    "wof:geomhash":"e96adb83727a416b99353d0982020774",
+    "wof:geomhash":"672b9b2f4ba70ba73353f7521fa7c320",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108717885,
-    "wof:lastmodified":1636502787,
+    "wof:lastmodified":1695886077,
     "wof:name":"Campana",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

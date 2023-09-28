@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.511526,
-    "geom:area_square_m":5073257158.691304,
+    "geom:area_square_m":5073257516.632418,
     "geom:bbox":"-65.064752,-37.0,-64.163111,-36.256438",
     "geom:latitude":-36.67016,
     "geom:longitude":-64.68506,
@@ -134,12 +134,13 @@
         "qs_pg:id":19118,
         "wd:id":"Q58372"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009166,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3d7b888e26dc925e6a2b2326b7757bd",
+    "wof:geomhash":"9866122c0bc7cd21ff411a2bf92962cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421177957,
-    "wof:lastmodified":1690850733,
+    "wof:lastmodified":1695886003,
     "wof:name":"Toay",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

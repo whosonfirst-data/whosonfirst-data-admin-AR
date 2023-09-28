@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.620399,
-    "geom:area_square_m":11767227442.36412,
+    "geom:area_square_m":11767226585.862024,
     "geom:bbox":"-68.606975,-54.566895,-66.314602,-52.661213",
     "geom:latitude":-54.03409,
     "geom:longitude":-67.899259,
@@ -311,12 +311,13 @@
         "hasc:id":"AR.TF.RG",
         "qs_pg:id":355610
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b807c67219874de04725fa581074ea49",
+    "wof:geomhash":"6db943b9892af05e316d82025be559bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -326,7 +327,7 @@
         }
     ],
     "wof:id":421175153,
-    "wof:lastmodified":1636502815,
+    "wof:lastmodified":1695886080,
     "wof:name":"Rio Grande",
     "wof:parent_id":85667995,
     "wof:placetype":"county",

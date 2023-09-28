@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014474,
-    "geom:area_square_m":146769769.767625,
+    "geom:area_square_m":146769769.767619,
     "geom:bbox":"-57.9336513484,-34.9738652478,-57.7131194249,-34.833751678",
     "geom:latitude":-34.910302,
     "geom:longitude":-57.827472,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852444,
-    "wof:geomhash":"34891fba523c372f79e31397893ce79f",
+    "wof:geomhash":"5f584321f16f727eda67380216a1c711",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108717877,
-    "wof:lastmodified":1566588014,
+    "wof:lastmodified":1695886667,
     "wof:name":"Berisso",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

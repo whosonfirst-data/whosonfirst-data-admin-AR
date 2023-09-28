@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.615428,
-    "geom:area_square_m":5954389587.856211,
+    "geom:area_square_m":5954389384.739288,
     "geom:bbox":"-60.746736,-38.933807,-59.626233,-38.017366",
     "geom:latitude":-38.513698,
     "geom:longitude":-60.237294,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852506,
-    "wof:geomhash":"1ee65d8691e6ec443215944c94c6cb3c",
+    "wof:geomhash":"eed8070de07778743ea41bbbed81fb53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108718125,
-    "wof:lastmodified":1636502784,
+    "wof:lastmodified":1695886075,
     "wof:name":"Tres Arroyos",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

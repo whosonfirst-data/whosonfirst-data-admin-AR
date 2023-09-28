@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45097,
-    "geom:area_square_m":4518020055.246702,
+    "geom:area_square_m":4518019419.065964,
     "geom:bbox":"-62.428883,-36.332583,-61.432887,-35.485362",
     "geom:latitude":-35.88287,
     "geom:longitude":-61.927218,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852489,
-    "wof:geomhash":"2ed3b7d9799ecc401711292238b2517b",
+    "wof:geomhash":"0513f8e095d18392740c1fe6935a5ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718047,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Pehuajo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

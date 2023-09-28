@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106941,
-    "geom:area_square_m":1212968639.34463,
+    "geom:area_square_m":1212968987.7019,
     "geom:bbox":"-65.180555,-23.732452,-64.839332,-23.194963",
     "geom:latitude":-23.467295,
     "geom:longitude":-65.011854,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"AR.JY.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852579,
-    "wof:geomhash":"dab219767aa5372463db904fde45a043",
+    "wof:geomhash":"950ed2073584af411dceb0640c2f2a65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108718283,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Valle Grande",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

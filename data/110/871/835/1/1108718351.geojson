@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121226,
-    "geom:area_square_m":1309028573.882438,
+    "geom:area_square_m":1309028252.980402,
     "geom:bbox":"-67.224723,-29.43342,-66.864273,-28.848309",
     "geom:latitude":-29.158294,
     "geom:longitude":-67.065535,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852599,
-    "wof:geomhash":"13995499d4d2aa84c12a65372a698bcb",
+    "wof:geomhash":"64048bbad78b8dd94cdc1bc93a7d2872",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718351,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886016,
     "wof:name":"Sanagasta",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

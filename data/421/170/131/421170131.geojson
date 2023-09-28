@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.289825,
-    "geom:area_square_m":11612235346.130054,
+    "geom:area_square_m":11612235346.130133,
     "geom:bbox":"-67.1547617758,-43.7891587195,-65.4042789269,-42.8489335134",
     "geom:latitude":-43.273048,
     "geom:longitude":-66.172502,
@@ -105,12 +105,13 @@
         "hasc:id":"AR.CH.GM",
         "qs_pg:id":220153
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008838,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"316fb21675ca0457ece47c486fb3ef90",
+    "wof:geomhash":"e8037be623545e50993c44aad69f088e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421170131,
-    "wof:lastmodified":1582358639,
+    "wof:lastmodified":1695886003,
     "wof:name":"Gaiman",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

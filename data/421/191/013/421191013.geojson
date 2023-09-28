@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252696,
-    "geom:area_square_m":2699964751.312314,
+    "geom:area_square_m":2699963992.026532,
     "geom:bbox":"-58.07662,-30.725285,-57.492436,-29.818027",
     "geom:latitude":-30.220332,
     "geom:longitude":-57.838038,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CN.MC",
         "qs_pg:id":59538
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009677,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dad7764d0106d37ae273053c7d229ec6",
+    "wof:geomhash":"0a0f26620830e4dd4425b30f43edfc23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421191013,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886009,
     "wof:name":"Monte Caseros",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

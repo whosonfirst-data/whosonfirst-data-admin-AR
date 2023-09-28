@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249895,
-    "geom:area_square_m":2481154684.263315,
+    "geom:area_square_m":2481154571.594421,
     "geom:bbox":"-63.946605,-36.816358,-63.373048,-36.353411",
     "geom:latitude":-36.586021,
     "geom:longitude":-63.659769,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852581,
-    "wof:geomhash":"a6c92eec8436c3e979087d1f83e793f6",
+    "wof:geomhash":"4fa27b23f4037fe8dee6f0bcd7e7a339",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718293,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885998,
     "wof:name":"Catrilo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",
