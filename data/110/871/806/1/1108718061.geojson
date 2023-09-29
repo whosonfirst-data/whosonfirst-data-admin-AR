@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852492,
     "wof:geomhash":"e6d74370c0f6d47bfeb7c64575211a11",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108718061,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886012,
     "wof:name":"Presidente Peron",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

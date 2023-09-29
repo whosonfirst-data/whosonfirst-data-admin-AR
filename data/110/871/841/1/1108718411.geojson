@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.250341,
-    "geom:area_square_m":25291227910.708187,
+    "geom:area_square_m":25291228604.345024,
     "geom:bbox":"-68.56804,-25.299823,-66.15,-23.697746",
     "geom:latitude":-24.642666,
     "geom:longitude":-67.339654,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852634,
-    "wof:geomhash":"c87db337a1d92dd4bb7a0926e57a67dd",
+    "wof:geomhash":"57c131b195f95ebd76c2886f7ebdf8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108718411,
-    "wof:lastmodified":1636502783,
+    "wof:lastmodified":1695886074,
     "wof:name":"Los Andes",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

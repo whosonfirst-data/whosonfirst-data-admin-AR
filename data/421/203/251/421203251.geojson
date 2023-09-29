@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309693,
-    "geom:area_square_m":3222173609.424678,
+    "geom:area_square_m":3222173724.931365,
     "geom:bbox":"-61.713751,-33.096311,-60.814299,-32.390211",
     "geom:latitude":-32.708372,
     "geom:longitude":-61.273527,
@@ -100,12 +100,13 @@
         "hasc:id":"AR.SF.IR",
         "qs_pg:id":230378
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010145,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b2b76ab61a326f4b141f1493cca5f96",
+    "wof:geomhash":"8e4dbf7cb8071b954f38dd3686fd1e79",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421203251,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Iriondo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

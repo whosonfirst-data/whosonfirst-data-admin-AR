@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097395,
-    "geom:area_square_m":1064451235.119249,
+    "geom:area_square_m":1064451163.676707,
     "geom:bbox":"-55.851672,-28.137829,-55.486342,-27.69",
     "geom:latitude":-27.886805,
     "geom:longitude":-55.675787,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.MN.AP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852606,
-    "wof:geomhash":"152f7bcf4e8abbd474771e288c0a8f0f",
+    "wof:geomhash":"75accf576dcaefe96ce4fdadee7e5a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718365,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695886722,
     "wof:name":"Apostoles",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197923,
-    "geom:area_square_m":1988959834.528774,
+    "geom:area_square_m":1988959490.797704,
     "geom:bbox":"-64.49191,-35.82646,-63.929277,-35.451428",
     "geom:latitude":-35.639702,
     "geom:longitude":-64.21351,
@@ -125,12 +125,13 @@
         "qs_pg:id":13423,
         "wd:id":"Q3037564"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0651936c47dae5b4e73fc84bad97d342",
+    "wof:geomhash":"0601e40c5b810b9c6d4c120d8472a584",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421177929,
-    "wof:lastmodified":1690850734,
+    "wof:lastmodified":1695886003,
     "wof:name":"Trenel",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

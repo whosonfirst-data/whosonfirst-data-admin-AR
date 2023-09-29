@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.805396,
-    "geom:area_square_m":305388348411.278503,
+    "geom:area_square_m":305388349488.583008,
     "geom:bbox":"-63.391372,-41.037918,-56.667084,-33.257463",
     "geom:latitude":-36.675118,
     "geom:longitude":-60.556011,
@@ -469,16 +469,18 @@
         "gn:id":3435907,
         "gp:id":2344675,
         "hasc:id":"AR.BA",
+        "iso:code":"AR-B",
         "iso:id":"AR-B",
         "qs_pg:id":1032223,
         "wd:id":"Q44754",
         "wk:page":"Buenos Aires Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cde1031d12348f469e2fc5a88bc3c5f2",
+    "wof:geomhash":"73f69c2493840ced032b72cbe9e537fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -493,7 +495,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850549,
+    "wof:lastmodified":1695884480,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

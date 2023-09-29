@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.457068,
-    "geom:area_square_m":14718889861.17551,
+    "geom:area_square_m":14718889899.062212,
     "geom:bbox":"-67.729749,-36.008844,-66.478547,-34.488091",
     "geom:latitude":-35.217748,
     "geom:longitude":-67.080205,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.MZ.GA",
         "qs_pg:id":268801
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008697,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb9c07b5d59cd3a7fb4074e4d0fb22c4",
+    "wof:geomhash":"17fafd374a6a1337d464e35ff49074d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421166643,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Alvear",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

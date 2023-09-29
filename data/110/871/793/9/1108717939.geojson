@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168671,
-    "geom:area_square_m":1638952570.279026,
+    "geom:area_square_m":1638952710.634554,
     "geom:bbox":"-58.343124,-38.448856,-57.775681,-37.950477",
     "geom:latitude":-38.203163,
     "geom:longitude":-58.071883,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852458,
-    "wof:geomhash":"9def5b642f1df3b665cd28944f0654ca",
+    "wof:geomhash":"2d98edce7ed56cb6382cee903cf529e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717939,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1695886001,
     "wof:name":"General Alvarado",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

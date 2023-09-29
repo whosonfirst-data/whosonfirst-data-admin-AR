@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651135,
-    "geom:area_square_m":6898820366.063972,
+    "geom:area_square_m":6898819968.005271,
     "geom:bbox":"-63.968235,-31.57,-62.803495,-30.531164",
     "geom:latitude":-31.034903,
     "geom:longitude":-63.441655,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.CB.RP",
         "qs_pg:id":1109546
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009601,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"729f22ea0f512ecafdc8fa620e93b128",
+    "wof:geomhash":"18f20a5e4547967244a65d409a810076",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421189015,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886013,
     "wof:name":"Rio Primero",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.923025,
-    "geom:area_square_m":9186380986.847054,
+    "geom:area_square_m":9186381326.652899,
     "geom:bbox":"-68.303769,-36.814088,-67.107479,-35.990934",
     "geom:latitude":-36.400911,
     "geom:longitude":-67.689544,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852584,
-    "wof:geomhash":"5b4356ee144a9a1d7eceec403ce30e4c",
+    "wof:geomhash":"83ce9c0850944f63b8643cefb5c2dd14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718301,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885999,
     "wof:name":"Chical Co",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

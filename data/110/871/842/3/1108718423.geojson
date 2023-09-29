@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.73665,
-    "geom:area_square_m":7766161093.928141,
+    "geom:area_square_m":7766161093.928331,
     "geom:bbox":"-68.3602485686,-31.9267811047,-66.6764826295,-30.9109911149",
     "geom:latitude":-31.503802,
     "geom:longitude":-67.543424,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852639,
-    "wof:geomhash":"157a78e68a17f92db665ccb524967d48",
+    "wof:geomhash":"fd7f69dcad36f02a8ea1e9c16f2cc412",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108718423,
-    "wof:lastmodified":1566587959,
+    "wof:lastmodified":1695886662,
     "wof:name":"Caucete",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

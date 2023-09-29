@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.433605,
-    "geom:area_square_m":77899691096.280869,
+    "geom:area_square_m":77899691624.406189,
     "geom:bbox":"-60.776278,-34.041428,-57.799872,-30.158061",
     "geom:latitude":-32.047949,
     "geom:longitude":-59.206509,
@@ -439,17 +439,19 @@
         "gn:id":3434137,
         "gp:id":2344682,
         "hasc:id":"AR.ER",
+        "iso:code":"AR-E",
         "iso:id":"AR-E",
         "qs_pg:id":407109,
         "unlc:id":"AR-E",
         "wd:id":"Q44762",
         "wk:page":"Entre R\u00edos Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72449ec7287daafa7c3c6b8a32227d41",
+    "wof:geomhash":"90b18fe51072b3e5259d2981369063eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -464,7 +466,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850543,
+    "wof:lastmodified":1695884940,
     "wof:name":"Entre Rios",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

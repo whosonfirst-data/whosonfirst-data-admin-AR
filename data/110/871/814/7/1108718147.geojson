@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401492,
-    "geom:area_square_m":4345807561.403722,
+    "geom:area_square_m":4345808107.226248,
     "geom:bbox":"-66.404735,-29.714684,-65.520866,-28.337591",
     "geom:latitude":-28.909495,
     "geom:longitude":-65.901522,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852512,
-    "wof:geomhash":"da08fb0bc534f2cdafded9ad5cce9d4d",
+    "wof:geomhash":"6b2d98914f61fec364bc7866211d0881",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718147,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885998,
     "wof:name":"Capayan",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

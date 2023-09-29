@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.604812,
-    "geom:area_square_m":17380226071.805271,
+    "geom:area_square_m":17380225677.13081,
     "geom:bbox":"-61.992441,-29.843017,-60.637233,-27.990986",
     "geom:latitude":-28.850046,
     "geom:longitude":-61.397523,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SF.NJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852656,
-    "wof:geomhash":"6ca5ee4f9ea03d36fbc76efd63ed158c",
+    "wof:geomhash":"af554088509eccbacc18d50139c01fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718455,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886010,
     "wof:name":"9 De Julio",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

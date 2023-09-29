@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333283,
-    "geom:area_square_m":3810856659.604259,
+    "geom:area_square_m":3810856509.142406,
     "geom:bbox":"-65.336866,-22.721236,-64.502917,-22.081361",
     "geom:latitude":-22.374131,
     "geom:longitude":-64.902405,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SA.SV",
         "qs_pg:id":507438
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009290,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e5b46f80732143d1fd320130613ddf7",
+    "wof:geomhash":"4d60c68e4230bbcac4bc902eb4f28d49",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421181251,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886015,
     "wof:name":"Santa Victoria",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

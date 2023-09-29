@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.430679,
-    "geom:area_square_m":4181788835.453277,
+    "geom:area_square_m":4181789078.046022,
     "geom:bbox":"-62.897778,-38.590338,-61.699761,-37.933578",
     "geom:latitude":-38.256084,
     "geom:longitude":-62.2906,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852506,
-    "wof:geomhash":"6f051b8d8b28a0942f8bb7a6f28b2d03",
+    "wof:geomhash":"8a3cf27d935eba5ed76a4d15e8434dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718121,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Tornquist",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.250909,
-    "geom:area_square_m":89419605728.090714,
+    "geom:area_square_m":89419605812.585846,
     "geom:bbox":"-59.712403,-30.725285,-55.619659,-27.265555",
     "geom:latitude":-28.771432,
     "geom:longitude":-57.799311,
@@ -421,17 +421,19 @@
         "gn:id":3435214,
         "gp:id":2344680,
         "hasc:id":"AR.CN",
+        "iso:code":"AR-W",
         "iso:id":"AR-W",
         "qs_pg:id":219495,
         "unlc:id":"AR-W",
         "wd:id":"Q44758",
         "wk:page":"Corrientes Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"faf087ffbef89c7c0a2e5a6d541a5960",
+    "wof:geomhash":"d9f2736ebd188443904705088ab7f009",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -446,7 +448,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850549,
+    "wof:lastmodified":1695884481,
     "wof:name":"Corrientes",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

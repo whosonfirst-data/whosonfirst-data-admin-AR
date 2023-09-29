@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651752,
-    "geom:area_square_m":7219926140.938687,
+    "geom:area_square_m":7219925991.044209,
     "geom:bbox":"-60.107682,-26.873874,-58.688849,-25.672122",
     "geom:latitude":-26.377087,
     "geom:longitude":-59.488325,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852546,
-    "wof:geomhash":"ade562ff0be355933f75481b04e4901a",
+    "wof:geomhash":"098160e4d09dcbf3c5c0c2b525f44758",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718207,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886007,
     "wof:name":"Libertador General San Martin",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

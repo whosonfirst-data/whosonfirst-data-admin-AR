@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.FJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852544,
     "wof:geomhash":"ea7154278d7f01eee8e8a57771487ec6",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108718197,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886001,
     "wof:name":"2 De Abril",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

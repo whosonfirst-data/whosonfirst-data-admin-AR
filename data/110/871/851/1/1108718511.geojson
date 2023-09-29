@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33383,
-    "geom:area_square_m":3613647966.645938,
+    "geom:area_square_m":3613648677.06338,
     "geom:bbox":"-63.740875,-29.217146,-62.885983,-28.510624",
     "geom:latitude":-28.904229,
     "geom:longitude":-63.296118,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.SV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852672,
-    "wof:geomhash":"98f13ea2b411f81d9e6a3bec6a103079",
+    "wof:geomhash":"141f6aa6ddf3af96549f6ef373b8ea72",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718511,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"Salavina",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

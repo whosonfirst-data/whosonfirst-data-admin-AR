@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007979,
-    "geom:area_square_m":81256201.90447,
+    "geom:area_square_m":81256116.52208,
     "geom:bbox":"-58.77424,-34.604722,-58.607456,-34.501406",
     "geom:latitude":-34.55167,
     "geom:longitude":-58.690896,
@@ -187,9 +187,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852501,
-    "wof:geomhash":"c6c25db6fdd325c049245c1e8cc5289a",
+    "wof:geomhash":"987800769b429ec1f276fdbcb9fec7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":1108718101,
-    "wof:lastmodified":1636502780,
+    "wof:lastmodified":1695886072,
     "wof:name":"San Miguel",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091258,
-    "geom:area_square_m":965194701.610584,
+    "geom:area_square_m":965194346.091866,
     "geom:bbox":"-68.6304,-31.504867,-68.329679,-30.913851",
     "geom:latitude":-31.20186,
     "geom:longitude":-68.449473,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.SJ.AL",
         "qs_pg:id":1109565
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009946,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"952510458d8a2f1158530f5b78471070",
+    "wof:geomhash":"fdc1567bfaff3d39b5c034c32a3d49c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421198377,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695886722,
     "wof:name":"Albardon",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

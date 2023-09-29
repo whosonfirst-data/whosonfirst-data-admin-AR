@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904118,
-    "geom:area_square_m":9372769425.975643,
+    "geom:area_square_m":9372769342.961611,
     "geom:bbox":"-62.821173,-33.957433,-61.769184,-32.064394",
     "geom:latitude":-33.027677,
     "geom:longitude":-62.280117,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.CB.MJ",
         "qs_pg:id":1251743
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b62c5f1ed561a9dfa514d49a4c176b2",
+    "wof:geomhash":"fe5324af2356a4ddb3b63417bc939824",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421171469,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886008,
     "wof:name":"Marcos Juarez",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

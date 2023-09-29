@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012591,
-    "geom:area_square_m":127786501.177142,
+    "geom:area_square_m":127786538.393969,
     "geom:bbox":"-58.446107,-34.908743,-58.294029,-34.75435",
     "geom:latitude":-34.835643,
     "geom:longitude":-58.367273,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852439,
-    "wof:geomhash":"10cbdc4e35b14c4d0e32f1678d635ccd",
+    "wof:geomhash":"456154b17acb1cd4d7ed62ef309bf990",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717855,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695886722,
     "wof:name":"Almirante Brown",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

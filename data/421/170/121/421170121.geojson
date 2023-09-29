@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.850357,
-    "geom:area_square_m":8865603031.232033,
+    "geom:area_square_m":8865603995.928833,
     "geom:bbox":"-70.17214,-33.050512,-68.499781,-31.996774",
     "geom:latitude":-32.524843,
     "geom:longitude":-69.267979,
@@ -151,12 +151,13 @@
         "hasc:id":"AR.MZ.LH",
         "qs_pg:id":220148
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008837,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28fe91638f0fa2d7551b36ba47f64ffd",
+    "wof:geomhash":"cf6fcbff2b3f6e47f26f8fa2fc26bceb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421170121,
-    "wof:lastmodified":1636502822,
+    "wof:lastmodified":1695886082,
     "wof:name":"Las Heras",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.462538,
-    "geom:area_square_m":4574820467.623358,
+    "geom:area_square_m":4574820590.803647,
     "geom:bbox":"-70.512416,-37.500237,-70.020162,-36.110237",
     "geom:latitude":-36.880041,
     "geom:longitude":-70.286438,
@@ -191,12 +191,13 @@
         "qs_pg:id":507443,
         "wd:id":"Q288993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"123748539a2e3886ef17b2cb0b60553f",
+    "wof:geomhash":"90a8eee2e76ec42f3e3614aeab752ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":421199899,
-    "wof:lastmodified":1690850711,
+    "wof:lastmodified":1695886081,
     "wof:name":"Chos Malal",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

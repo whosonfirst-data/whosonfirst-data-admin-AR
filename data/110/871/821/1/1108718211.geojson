@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336127,
-    "geom:area_square_m":3678468710.348096,
+    "geom:area_square_m":3678468537.389113,
     "geom:bbox":"-61.027829,-28.007317,-60.211756,-27.395314",
     "geom:latitude":-27.743309,
     "geom:longitude":-60.659678,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852547,
-    "wof:geomhash":"594f58e41e7738d7f8cb4c74350c6641",
+    "wof:geomhash":"b762466717f5d3e150586dca0ad8a767",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718211,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886010,
     "wof:name":"Mayor Luis J. Fontana",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

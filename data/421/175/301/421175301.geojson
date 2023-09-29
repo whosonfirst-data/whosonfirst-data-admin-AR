@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.640593,
-    "geom:area_square_m":14757844546.018351,
+    "geom:area_square_m":14757844546.01722,
     "geom:bbox":"-71.76345125,-43.9470820772,-69.5058679576,-42.5946085983",
     "geom:latitude":-43.323361,
     "geom:longitude":-70.34883,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.CH.LA",
         "qs_pg:id":364649
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4eeff533cbc69b87c3c222f94f8eafbf",
+    "wof:geomhash":"2cf9a0788bb888bdc82beafce10e06e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421175301,
-    "wof:lastmodified":1582358633,
+    "wof:lastmodified":1695885999,
     "wof:name":"Langui\u00f1eo",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.530789,
-    "geom:area_square_m":91626242282.120499,
+    "geom:area_square_m":91626243522.436066,
     "geom:bbox":"-69.630166,-32.000665,-65.422247,-27.711754",
     "geom:latitude":-29.685721,
     "geom:longitude":-67.181616,
@@ -431,17 +431,19 @@
         "gn:id":3848949,
         "gp:id":2344686,
         "hasc:id":"AR.LR",
+        "iso:code":"AR-F",
         "iso:id":"AR-F",
         "qs_pg:id":1142805,
         "unlc:id":"AR-F",
         "wd:id":"Q44796",
         "wk:page":"La Rioja Province, Argentina"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32edc29f3c73803ebcb54e73648e5c87",
+    "wof:geomhash":"5ef45b42890ab3c501f8b08ab6db3d53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -456,7 +458,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850543,
+    "wof:lastmodified":1695884940,
     "wof:name":"La Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

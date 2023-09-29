@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103683,
-    "geom:area_square_m":1054067358.457561,
+    "geom:area_square_m":1054066573.214547,
     "geom:bbox":"-59.714397,-34.889906,-59.170565,-34.508071",
     "geom:latitude":-34.697632,
     "geom:longitude":-59.421206,
@@ -186,9 +186,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852484,
-    "wof:geomhash":"ae532dce30fa1e48201074b3d4c8a25d",
+    "wof:geomhash":"4987b6bf3d15f06b61e891113f313fed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":1108718023,
-    "wof:lastmodified":1636502783,
+    "wof:lastmodified":1695886074,
     "wof:name":"Mercedes",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.511154,
-    "geom:area_square_m":5151694861.718504,
+    "geom:area_square_m":5151694861.718582,
     "geom:bbox":"-65.1275580414,-35.8153065662,-64.4770868923,-34.991687497",
     "geom:latitude":-35.404652,
     "geom:longitude":-64.80441,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852589,
-    "wof:geomhash":"42ec9bdd0865a70eefcb94ea6e59cd28",
+    "wof:geomhash":"06db8b6135c1aaa13df6881f511bfc43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108718315,
-    "wof:lastmodified":1566588002,
+    "wof:lastmodified":1695886666,
     "wof:name":"Rancul",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

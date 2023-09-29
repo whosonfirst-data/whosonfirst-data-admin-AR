@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005269,
-    "geom:area_square_m":53602690.555239,
+    "geom:area_square_m":53602690.555229,
     "geom:bbox":"-58.6731549975,-34.7035375394,-58.5643583028,-34.5873034414",
     "geom:latitude":-34.648532,
     "geom:longitude":-58.62093,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852486,
-    "wof:geomhash":"3223cca2861879472f2314e4b2db06e1",
+    "wof:geomhash":"a522ddb4ff7742a19c6f960fd4fb54b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108718033,
-    "wof:lastmodified":1566587971,
+    "wof:lastmodified":1695886663,
     "wof:name":"Moron",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

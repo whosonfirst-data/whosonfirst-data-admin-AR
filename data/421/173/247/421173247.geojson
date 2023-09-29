@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095002,
-    "geom:area_square_m":1043397431.12588,
+    "geom:area_square_m":1043397431.125846,
     "geom:bbox":"-59.5877841129,-27.4738091548,-58.9697810934,-27.1526734937",
     "geom:latitude":-27.35014,
     "geom:longitude":-59.25779,
@@ -154,12 +154,13 @@
         "hasc:id":"AR.CC.LI",
         "qs_pg:id":285764
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008976,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f70b61feb1bfeaa669a4c9b82b6f7227",
+    "wof:geomhash":"ede67aacf9978fe95d98cbc6987fecc0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421173247,
-    "wof:lastmodified":1582358630,
+    "wof:lastmodified":1695885997,
     "wof:name":"Libertad",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

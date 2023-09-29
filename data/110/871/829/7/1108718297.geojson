@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.390763,
-    "geom:area_square_m":13516705414.444349,
+    "geom:area_square_m":13516705189.988268,
     "geom:bbox":"-67.10511,-38.833106,-65.636016,-37.674905",
     "geom:latitude":-38.18678,
     "geom:longitude":-66.31113,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852582,
-    "wof:geomhash":"a0de7affd31ae5029cc84ab57e68c640",
+    "wof:geomhash":"01cd23640e2ad68840a22d58f5381c90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718297,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Curaco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

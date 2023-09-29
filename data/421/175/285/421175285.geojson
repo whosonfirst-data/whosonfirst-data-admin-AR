@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251294,
-    "geom:area_square_m":2523856710.066112,
+    "geom:area_square_m":2523856915.899215,
     "geom:bbox":"-63.946053,-35.915974,-63.375525,-35.45299",
     "geom:latitude":-35.684817,
     "geom:longitude":-63.659965,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.LP.MA",
         "qs_pg:id":364524
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e03bf9c0883c6a6f3dc39ebe1a743031",
+    "wof:geomhash":"46fd4c944cd8992f9727c51033f30f42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421175285,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Maraco",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

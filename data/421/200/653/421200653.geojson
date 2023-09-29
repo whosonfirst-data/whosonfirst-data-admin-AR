@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.289588,
-    "geom:area_square_m":26174410214.244129,
+    "geom:area_square_m":26174409975.272823,
     "geom:bbox":"-70.65,-50.77,-67.667499,-49.197162",
     "geom:latitude":-49.947122,
     "geom:longitude":-69.443466,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SC.CA",
         "qs_pg:id":890572
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010034,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"455281f3dc0f375476467405da004dea",
+    "wof:geomhash":"024305a3cbbd828768dc914eba11d180",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421200653,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Corpen Aike",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

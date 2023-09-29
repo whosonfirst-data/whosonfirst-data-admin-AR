@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.775248,
-    "geom:area_square_m":94391132164.839844,
+    "geom:area_square_m":94391132311.628082,
     "geom:bbox":"-71.966194,-41.101134,-68.004459,-36.110237",
     "geom:latitude":-38.641925,
     "geom:longitude":-70.118735,
@@ -429,17 +429,19 @@
         "gn:id":3843122,
         "gp:id":2344689,
         "hasc:id":"AR.NQ",
+        "iso:code":"AR-Q",
         "iso:id":"AR-Q",
         "qs_pg:id":1117336,
         "unlc:id":"AR-Q",
         "wd:id":"Q44800",
         "wk:page":"Neuqu\u00e9n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e8c5e3ea757d4b4c6fe2a9bdc8cdcd3",
+    "wof:geomhash":"9d4349cafb84fc554ae608c54dba6bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -454,7 +456,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850542,
+    "wof:lastmodified":1695884479,
     "wof:name":"Neuqu\u00e9n",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

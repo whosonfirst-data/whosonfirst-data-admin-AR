@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.659581,
-    "geom:area_square_m":6531748506.816254,
+    "geom:area_square_m":6531747664.21659,
     "geom:bbox":"-60.205149,-37.445998,-59.140435,-36.226434",
     "geom:latitude":-36.786104,
     "geom:longitude":-59.696404,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852440,
-    "wof:geomhash":"1ce04e67e7981301aaaf58fe1148cd7a",
+    "wof:geomhash":"c250c2ce2e17ba7d5b5240f5daef0ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108717861,
-    "wof:lastmodified":1636502788,
+    "wof:lastmodified":1695886077,
     "wof:name":"Azul",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

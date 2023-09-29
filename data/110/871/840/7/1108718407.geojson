@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259639,
-    "geom:area_square_m":2892526112.162204,
+    "geom:area_square_m":2892526112.162119,
     "geom:bbox":"-65.757102052,-26.125655525,-65.133972448,-25.2802060797",
     "geom:latitude":-25.714611,
     "geom:longitude":-65.439667,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852632,
-    "wof:geomhash":"50acac756e94a8a5327f74823e672842",
+    "wof:geomhash":"32dd904cce13b20fc14379ce8c1196c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108718407,
-    "wof:lastmodified":1566587993,
+    "wof:lastmodified":1695886664,
     "wof:name":"Guachipas",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852456,
     "wof:geomhash":"f525c35e95b7b9d76448999b5a4e1447",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108717927,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886001,
     "wof:name":"Esteban Echeverria",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

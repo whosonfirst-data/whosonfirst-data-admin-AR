@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141187,
-    "geom:area_square_m":1560057613.680797,
+    "geom:area_square_m":1560057613.680813,
     "geom:bbox":"-60.4142015576,-27.0956678943,-59.9946375437,-26.2969703942",
     "geom:latitude":-26.669237,
     "geom:longitude":-60.17302,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CC.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852550,
-    "wof:geomhash":"7168ab2e09c712c75e84e6c33e6e38ba",
+    "wof:geomhash":"171e0aa2bcf8dedbfc73a741c79c37e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108718223,
-    "wof:lastmodified":1566587998,
+    "wof:lastmodified":1695886665,
     "wof:name":"Quitilipi",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

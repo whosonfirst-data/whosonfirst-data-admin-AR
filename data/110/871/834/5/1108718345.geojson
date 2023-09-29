@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.657826,
-    "geom:area_square_m":7036150890.305092,
+    "geom:area_square_m":7036150867.720615,
     "geom:bbox":"-67.991915,-30.533378,-66.847103,-29.655108",
     "geom:latitude":-30.115062,
     "geom:longitude":-67.335697,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852597,
-    "wof:geomhash":"fa17effaa83e21257c7208983fc0bd65",
+    "wof:geomhash":"bd173aa3fc0522e44a0dd5c9c2005d43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108718345,
-    "wof:lastmodified":1636502782,
+    "wof:lastmodified":1695886073,
     "wof:name":"Independencia",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

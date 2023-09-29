@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262409,
-    "geom:area_square_m":3005568470.399633,
+    "geom:area_square_m":3005568470.399641,
     "geom:bbox":"-66.7648327622,-22.4201997061,-65.8074691869,-21.780814",
     "geom:latitude":-22.136071,
     "geom:longitude":-66.230765,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"AR.JY.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852577,
-    "wof:geomhash":"108d657abd6e316a7a9ea3da09afba51",
+    "wof:geomhash":"626d02fc4c9cccf9dd2f7faa4b142288",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108718281,
-    "wof:lastmodified":1566587961,
+    "wof:lastmodified":1695886662,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

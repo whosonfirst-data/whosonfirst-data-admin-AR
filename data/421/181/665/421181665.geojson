@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.604117,
-    "geom:area_square_m":5887431500.040999,
+    "geom:area_square_m":5887430944.692466,
     "geom:bbox":"-64.51509,-38.264657,-63.376957,-37.710058",
     "geom:latitude":-37.987696,
     "geom:longitude":-63.944141,
@@ -101,12 +101,13 @@
         "qs_pg:id":507440,
         "wd:id":"Q5927900"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009303,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11ff3813c234e6bf78f7fb8e8c5d3347",
+    "wof:geomhash":"79bc1581a8b182aa083935e1553354a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421181665,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Hucal",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

@@ -165,6 +165,7 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421172797
     ],
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108718529,
-    "wof:lastmodified":1694639716,
+    "wof:lastmodified":1695886458,
     "wof:name":"Capital",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

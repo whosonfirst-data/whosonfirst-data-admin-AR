@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.411675,
-    "geom:area_square_m":16102311548.347006,
+    "geom:area_square_m":16102311794.102047,
     "geom:bbox":"-64.33,-23.588427,-63.1107,-21.999444",
     "geom:latitude":-22.706883,
     "geom:longitude":-63.658515,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.SA.GM",
         "qs_pg:id":364544
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"369ab1f16bb0a960f644a8ac68da3a70",
+    "wof:geomhash":"720368645366758837bdc4791edd4acd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421175287,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Jose De San Martin",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

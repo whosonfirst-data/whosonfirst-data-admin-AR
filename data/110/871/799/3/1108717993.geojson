@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088064,
-    "geom:area_square_m":891931077.579852,
+    "geom:area_square_m":891931077.579872,
     "geom:bbox":"-58.2858514321,-35.2344599466,-57.7516709558,-34.8307104764",
     "geom:latitude":-35.00639,
     "geom:longitude":-58.016817,
@@ -285,9 +285,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852477,
-    "wof:geomhash":"94e11019390006c551757af7ac00b544",
+    "wof:geomhash":"ae94a568ede27f40604c7ecc77a6cf8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -297,7 +298,7 @@
         }
     ],
     "wof:id":1108717993,
-    "wof:lastmodified":1566587949,
+    "wof:lastmodified":1695886661,
     "wof:name":"La Plata",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

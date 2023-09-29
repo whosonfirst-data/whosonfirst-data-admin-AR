@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243901,
-    "geom:area_square_m":2663262041.258752,
+    "geom:area_square_m":2663262040.627086,
     "geom:bbox":"-65.178442,-28.266582,-64.524978,-27.65295",
     "geom:latitude":-27.983834,
     "geom:longitude":-64.867995,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852665,
-    "wof:geomhash":"589db8935f1dde0950e9174a5f820e54",
+    "wof:geomhash":"b337c5232fa19ac1d91c5d7d74da1855",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718485,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886006,
     "wof:name":"Guasayan",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

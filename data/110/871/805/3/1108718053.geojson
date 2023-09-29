@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345152,
-    "geom:area_square_m":3443891915.296242,
+    "geom:area_square_m":3443891915.296216,
     "geom:bbox":"-58.839448466,-36.6174103828,-57.9630285661,-35.8184254991",
     "geom:latitude":-36.202166,
     "geom:longitude":-58.340841,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852491,
-    "wof:geomhash":"1a726a2deb83cec2566601aaaf0c7362",
+    "wof:geomhash":"dfb4fdfb7b45300c96ddd71c6ac2da89",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108718053,
-    "wof:lastmodified":1566587977,
+    "wof:lastmodified":1695886663,
     "wof:name":"Pila",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

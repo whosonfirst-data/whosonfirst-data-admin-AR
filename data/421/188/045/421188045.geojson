@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.097417,
-    "geom:area_square_m":31393932241.212055,
+    "geom:area_square_m":31393931800.296658,
     "geom:bbox":"-70.224609,-36.007853,-66.752647,-34.09563",
     "geom:latitude":-34.94414,
     "geom:longitude":-68.382091,
@@ -178,12 +178,13 @@
         "hasc:id":"AR.MZ.SR",
         "qs_pg:id":1087240
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b21d172abf1a745108c59e594abf877",
+    "wof:geomhash":"12339b0b1a1a17adf1544a042e004825",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421188045,
-    "wof:lastmodified":1636502811,
+    "wof:lastmodified":1695886079,
     "wof:name":"San Rafael",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422707,
-    "geom:area_square_m":4476416150.219697,
+    "geom:area_square_m":4476416541.333906,
     "geom:bbox":"-69.249852,-31.512462,-68.484953,-30.531659",
     "geom:latitude":-31.081604,
     "geom:longitude":-68.884168,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.UL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852644,
-    "wof:geomhash":"b1c6a6d4f6f1712f103abb0a2809ebd4",
+    "wof:geomhash":"9d9133df9e354731eb6470b0d37b0cad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718437,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Ullum",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

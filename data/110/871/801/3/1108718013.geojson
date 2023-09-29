@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262784,
-    "geom:area_square_m":2598930232.976849,
+    "geom:area_square_m":2598930428.711089,
     "geom:bbox":"-58.00872,-37.206912,-57.182061,-36.570385",
     "geom:latitude":-36.886421,
     "geom:longitude":-57.585606,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852482,
-    "wof:geomhash":"e45e8f504d224f89f6496e6fb1613212",
+    "wof:geomhash":"238a00c8fe943c3600f710eeee5ec0d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718013,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Maipu",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

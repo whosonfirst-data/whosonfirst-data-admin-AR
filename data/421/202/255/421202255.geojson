@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19243,
-    "geom:area_square_m":2148741930.039874,
+    "geom:area_square_m":2148742071.805627,
     "geom:bbox":"-65.86359,-25.888777,-65.160288,-25.172116",
     "geom:latitude":-25.437972,
     "geom:longitude":-65.58143,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.SA.LV",
         "qs_pg:id":220145
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f49f90ed97967e86e29877980b19d3f",
+    "wof:geomhash":"c713e675ea759f790ea72d24fd867f74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421202255,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886006,
     "wof:name":"La Vi\u00f1a",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210822,
-    "geom:area_square_m":2135449937.880287,
+    "geom:area_square_m":2135450102.456948,
     "geom:bbox":"-61.417797,-35.263538,-60.727982,-34.693419",
     "geom:latitude":-34.998263,
     "geom:longitude":-61.050379,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852470,
-    "wof:geomhash":"dc511801b847fbb379c367d72935d339",
+    "wof:geomhash":"b7ff04acc4c1205e7ab262edc1266994",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717971,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Viamonte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

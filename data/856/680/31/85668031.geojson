@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.754692,
-    "geom:area_square_m":164898049780.592438,
+    "geom:area_square_m":164898049613.894623,
     "geom:bbox":"-65.775233,-35.009171,-61.769184,-29.49678",
     "geom:latitude":-32.143515,
     "geom:longitude":-63.801728,
@@ -452,17 +452,19 @@
         "gn:id":3860255,
         "gp:id":2344679,
         "hasc:id":"AR.CB",
+        "iso:code":"AR-X",
         "iso:id":"AR-X",
         "qs_pg:id":241193,
         "unlc:id":"AR-X",
         "wd:id":"Q44759",
         "wk:page":"C\u00f3rdoba Province, Argentina"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88626c9d03424bcc6d944ac65f68ce24",
+    "wof:geomhash":"782b02f9e3fe3e5b034b54421edb00ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -477,7 +479,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850545,
+    "wof:lastmodified":1695884480,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

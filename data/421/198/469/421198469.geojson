@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008003,
-    "geom:area_square_m":83060621.395442,
+    "geom:area_square_m":83060239.00024,
     "geom:bbox":"-68.96676,-32.964158,-68.806622,-32.897236",
     "geom:latitude":-32.930269,
     "geom:longitude":-68.892598,
@@ -115,12 +115,13 @@
         "hasc:id":"AR.MZ.GC",
         "qs_pg:id":425236
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009949,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13318c951dd3fc1e865bc3b901b0d11d",
+    "wof:geomhash":"8f4d3c562628d2bccef53cf34cec531b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421198469,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"Godoy Cruz",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

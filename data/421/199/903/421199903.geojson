@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.894904,
-    "geom:area_square_m":8256987508.390364,
+    "geom:area_square_m":8256987508.390183,
     "geom:bbox":"-71.3062756453,-42.0081932387,-69.3946615555,-41.4082891538",
     "geom:latitude":-41.739124,
     "geom:longitude":-70.40249,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.RN.NO",
         "qs_pg:id":507444
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab0ab3f245540505726ed2eaba25ed9a",
+    "wof:geomhash":"f08323927c33e1e747f836abbd6ac5e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421199903,
-    "wof:lastmodified":1582358637,
+    "wof:lastmodified":1695886002,
     "wof:name":"\u00d1orquinco",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.067752,
-    "geom:area_square_m":40608612266.2966,
+    "geom:area_square_m":40608612266.29612,
     "geom:bbox":"-70.58369,-37.5740837081,-68.2483651756,-34.6826403682",
     "geom:latitude":-36.157117,
     "geom:longitude":-69.313445,
@@ -121,12 +121,13 @@
         "hasc:id":"AR.MZ.ML",
         "qs_pg:id":1087239
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02e87940c74322d8f5e4b8b26b24a263",
+    "wof:geomhash":"e1014ea13485a3d1ff6cdae595af31bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421188043,
-    "wof:lastmodified":1582358631,
+    "wof:lastmodified":1695885997,
     "wof:name":"Malarg\u00fce",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

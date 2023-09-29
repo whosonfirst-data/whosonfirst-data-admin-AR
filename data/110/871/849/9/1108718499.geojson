@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.608597,
-    "geom:area_square_m":6562721032.010298,
+    "geom:area_square_m":6562721708.92342,
     "geom:bbox":"-64.542564,-29.784329,-63.25,-28.765016",
     "geom:latitude":-29.298742,
     "geom:longitude":-63.999749,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.OJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852669,
-    "wof:geomhash":"d7ecc58f2e695e12d94b71a21e0c3d96",
+    "wof:geomhash":"5db5dc568f852cf9519dee84e0287d83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718499,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886012,
     "wof:name":"Ojo De Agua",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.505692,
-    "geom:area_square_m":5510397187.302364,
+    "geom:area_square_m":5510396962.440096,
     "geom:bbox":"-67.020197,-28.823333,-66.022002,-27.790833",
     "geom:latitude":-28.206484,
     "geom:longitude":-66.407359,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852516,
-    "wof:geomhash":"246dee793350a5bc5b36066a4910f690",
+    "wof:geomhash":"95d1804f22d8afb6d5edf0fc87893469",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718155,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Poman",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

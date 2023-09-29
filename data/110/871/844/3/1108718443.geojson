@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.813581,
-    "geom:area_square_m":18286197204.446449,
+    "geom:area_square_m":18286197632.525665,
     "geom:bbox":"-66.634577,-36.008015,-65.109171,-34.649693",
     "geom:latitude":-35.368641,
     "geom:longitude":-65.816295,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SL.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852648,
-    "wof:geomhash":"83dcc0b379898206a6a8f6c032a9cdfd",
+    "wof:geomhash":"fb2892223d9fa5f7d655a71852e9af21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718443,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886005,
     "wof:name":"Gobernador Dupuy",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

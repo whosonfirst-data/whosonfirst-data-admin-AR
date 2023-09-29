@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294041,
-    "geom:area_square_m":3138790699.803997,
+    "geom:area_square_m":3138790903.474417,
     "geom:bbox":"-66.915351,-30.73943,-66.368979,-29.828288",
     "geom:latitude":-30.311916,
     "geom:longitude":-66.662929,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.GP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852594,
-    "wof:geomhash":"c2652ba82a923fc19db03e5b3820876e",
+    "wof:geomhash":"0ebe939c40811d1e8d408da76d953230",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718331,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Angel V. Pe\u00f1aloza",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

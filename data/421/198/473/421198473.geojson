@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14446,
-    "geom:area_square_m":1584851915.222931,
+    "geom:area_square_m":1584852099.937453,
     "geom:bbox":"-55.353707,-27.778909,-54.840459,-27.17391",
     "geom:latitude":-27.471614,
     "geom:longitude":-55.069402,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.MN.OB",
         "qs_pg:id":425238
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009949,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5142ef3f0a855ef8cf8ea8a687cbf2f",
+    "wof:geomhash":"2ab0825f346d50631bf9e2227c8006af",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421198473,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886009,
     "wof:name":"Obera",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

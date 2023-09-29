@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011041,
-    "geom:area_square_m":116349866.031419,
+    "geom:area_square_m":116349866.031469,
     "geom:bbox":"-68.7018539541,-31.6213619824,-68.5462692937,-31.4752422749",
     "geom:latitude":-31.54798,
     "geom:longitude":-68.638087,
@@ -136,12 +136,13 @@
         "hasc:id":"AR.SJ.RI",
         "qs_pg:id":264186
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010227,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96bea343d88aa39c04396b725909389d",
+    "wof:geomhash":"6ffdd7ad609b6ed2e7eb069ae3e5049c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421205537,
-    "wof:lastmodified":1582358628,
+    "wof:lastmodified":1695885996,
     "wof:name":"Rivadavia",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

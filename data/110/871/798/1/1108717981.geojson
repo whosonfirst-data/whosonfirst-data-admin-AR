@@ -61,6 +61,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852473,
     "wof:geomhash":"3ea5d9055f6aa49ef9f4188e927b38b5",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108717981,
-    "wof:lastmodified":1694492584,
+    "wof:lastmodified":1695886005,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

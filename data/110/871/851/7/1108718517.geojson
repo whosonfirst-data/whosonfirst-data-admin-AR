@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108614,
-    "geom:area_square_m":1183861724.532917,
+    "geom:area_square_m":1183861723.367249,
     "geom:bbox":"-64.573686,-28.351912,-64.05706,-27.966249",
     "geom:latitude":-28.178408,
     "geom:longitude":-64.277563,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852673,
-    "wof:geomhash":"b7c76d7c05064e057cacd2a80195870d",
+    "wof:geomhash":"41f70281ec907a4b3487257ff9241027",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718517,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Silipica",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

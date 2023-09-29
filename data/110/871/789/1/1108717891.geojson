@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252256,
-    "geom:area_square_m":2531484813.817349,
+    "geom:area_square_m":2531485053.667113,
     "geom:bbox":"-61.721235,-36.073152,-61.034139,-35.373215",
     "geom:latitude":-35.748891,
     "geom:longitude":-61.374006,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852448,
-    "wof:geomhash":"b031fa82923b7b0519cb1afb4a766bf5",
+    "wof:geomhash":"b4296e50dec86abb64a69694d7de5eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108717891,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885997,
     "wof:name":"Carlos Casares",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

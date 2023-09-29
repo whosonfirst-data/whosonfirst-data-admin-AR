@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240503,
-    "geom:area_square_m":2324541866.582643,
+    "geom:area_square_m":2324541545.976872,
     "geom:bbox":"-62.614463,-38.822109,-61.745803,-38.361162",
     "geom:latitude":-38.58745,
     "geom:longitude":-62.17255,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852441,
-    "wof:geomhash":"3ab768a1389766e8ecb466ffd8b2ff10",
+    "wof:geomhash":"46737ef0e0f8f792b27117a3a3537354",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717863,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Bahia Blanca",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

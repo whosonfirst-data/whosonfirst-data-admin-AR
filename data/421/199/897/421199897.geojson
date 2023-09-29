@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.797625,
-    "geom:area_square_m":8163091205.824121,
+    "geom:area_square_m":8163091100.232924,
     "geom:bbox":"-64.220846,-34.55,-62.551503,-33.805987",
     "geom:latitude":-34.139911,
     "geom:longitude":-63.421059,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.CB.PP",
         "qs_pg:id":507442
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3ac7cf7b663bd87bb2c2e83fc3920c1",
+    "wof:geomhash":"b8c90d2fe02d50436bdd00eb588dabe8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421199897,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Presidente Roque Saenz Pe\u00f1a",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

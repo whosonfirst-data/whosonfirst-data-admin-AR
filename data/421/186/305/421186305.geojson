@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449529,
-    "geom:area_square_m":4209388725.317047,
+    "geom:area_square_m":4209388715.792757,
     "geom:bbox":"-71.966194,-41.101134,-70.870324,-40.405093",
     "geom:latitude":-40.774232,
     "geom:longitude":-71.48769,
@@ -172,12 +172,13 @@
         "hasc:id":"AR.NQ.LL",
         "qs_pg:id":1063361
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1fe07e650e1547bec850d8a7e4037753",
+    "wof:geomhash":"9cf0a744f87783a25e166432e1f5bbe0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":421186305,
-    "wof:lastmodified":1636502814,
+    "wof:lastmodified":1695886080,
     "wof:name":"Los Lagos",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

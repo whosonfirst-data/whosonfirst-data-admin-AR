@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389739,
-    "geom:area_square_m":4402256412.175835,
+    "geom:area_square_m":4402255971.298946,
     "geom:bbox":"-64.740562,-24.508223,-64.15,-23.510889",
     "geom:latitude":-24.007887,
     "geom:longitude":-64.402734,
@@ -187,9 +187,10 @@
     "wof:concordances":{
         "hasc:id":"AR.JY.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852577,
-    "wof:geomhash":"100365843f56849a750d2af77df05699",
+    "wof:geomhash":"49e81f77e1bac8626e7e9b12b81f4649",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":1108718279,
-    "wof:lastmodified":1636502779,
+    "wof:lastmodified":1695886072,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

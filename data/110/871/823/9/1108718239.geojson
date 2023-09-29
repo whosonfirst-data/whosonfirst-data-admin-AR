@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.758855,
-    "geom:area_square_m":15970186832.555752,
+    "geom:area_square_m":15970186616.679077,
     "geom:bbox":"-69.564243,-43.346387,-67.764689,-41.9924",
     "geom:latitude":-42.749682,
     "geom:longitude":-68.800498,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CH.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852555,
-    "wof:geomhash":"dd1ef6375429810153bd07b104154711",
+    "wof:geomhash":"3bd013177643611e3064c416de0902eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108718239,
-    "wof:lastmodified":1636502784,
+    "wof:lastmodified":1695886075,
     "wof:name":"Gastre",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

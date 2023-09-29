@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02289,
-    "geom:area_square_m":220076233.684994,
+    "geom:area_square_m":220076011.327413,
     "geom:bbox":"-61.460247,-39.002945,-61.082212,-38.908941",
     "geom:latitude":-38.964591,
     "geom:longitude":-61.293185,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852485,
-    "wof:geomhash":"fdaa1ad8e0d1bfd64338d7963269b944",
+    "wof:geomhash":"a4336f79422dff530ebbd4688b1aa01c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108718029,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886010,
     "wof:name":"Monte Hermoso",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251385,
-    "geom:area_square_m":2659338261.27667,
+    "geom:area_square_m":2659338536.01044,
     "geom:bbox":"-68.459556,-31.46,-67.786806,-30.912063",
     "geom:latitude":-31.181681,
     "geom:longitude":-68.123406,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SJ.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852638,
-    "wof:geomhash":"6f093b0a92784def41b79863b478b923",
+    "wof:geomhash":"cf0c48ea6ab44f886a2d30ec055f370d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718419,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695885995,
     "wof:name":"Angaco",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

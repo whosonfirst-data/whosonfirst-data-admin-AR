@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.391344,
-    "geom:area_square_m":3935530854.632752,
+    "geom:area_square_m":3935530854.632854,
     "geom:bbox":"-63.3907971992,-36.0379554107,-62.6239055211,-35.1294034628",
     "geom:latitude":-35.581153,
     "geom:longitude":-63.093299,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852495,
-    "wof:geomhash":"6f830cc08d56c65b857ca3b5c4299eb1",
+    "wof:geomhash":"0675d37fbfe68fa6bb787ce64eddfa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108718075,
-    "wof:lastmodified":1566588000,
+    "wof:lastmodified":1695886665,
     "wof:name":"Rivadavia",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.649091,
-    "geom:area_square_m":6318225620.100941,
+    "geom:area_square_m":6318226110.205403,
     "geom:bbox":"-63.390021,-38.823558,-62.583599,-37.375039",
     "geom:latitude":-38.073638,
     "geom:longitude":-63.055863,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852493,
-    "wof:geomhash":"efe6438205622dbad959b3b19bf869c5",
+    "wof:geomhash":"cfb19487af3d3b24463b83efa39a4772",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108718063,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Puan",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

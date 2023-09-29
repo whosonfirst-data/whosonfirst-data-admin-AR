@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080113,
-    "geom:area_square_m":794553911.642187,
+    "geom:area_square_m":794553982.660334,
     "geom:bbox":"-63.280307,-36.867902,-62.813715,-36.479136",
     "geom:latitude":-36.670716,
     "geom:longitude":-63.049694,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852498,
-    "wof:geomhash":"0bb62a6b0b7814f232ddd0788c9a0fa1",
+    "wof:geomhash":"147e25ffd0638ef3f5255642cf90144b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718087,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"Salliquelo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

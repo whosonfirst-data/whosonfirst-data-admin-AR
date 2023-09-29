@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.642511,
-    "geom:area_square_m":6680201257.996511,
+    "geom:area_square_m":6680200267.916294,
     "geom:bbox":"-60.724756,-33.277657,-59.775294,-32.194783",
     "geom:latitude":-32.771255,
     "geom:longitude":-60.226084,
@@ -303,12 +303,13 @@
         "hasc:id":"AR.ER.VC",
         "qs_pg:id":1109543
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009596,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c174e2fa3190a5eff4c55b3aadd8ea7",
+    "wof:geomhash":"1ec491a2e5e8be399b68c66a0a0cb074",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -318,7 +319,7 @@
         }
     ],
     "wof:id":421189009,
-    "wof:lastmodified":1636502811,
+    "wof:lastmodified":1695886080,
     "wof:name":"Victoria",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

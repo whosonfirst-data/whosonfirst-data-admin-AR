@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.352631,
-    "geom:area_square_m":13279717054.102966,
+    "geom:area_square_m":13279716984.002283,
     "geom:bbox":"-68.253489,-38.389129,-67.085649,-36.79418",
     "geom:latitude":-37.43933,
     "geom:longitude":-67.594987,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852588,
-    "wof:geomhash":"541dbbc85dc4e2e3b692c5462d85a4d4",
+    "wof:geomhash":"0244bf9129cee9a8fc076c569da282bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718311,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886013,
     "wof:name":"Puelen",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

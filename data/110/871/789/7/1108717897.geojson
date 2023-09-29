@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104208,
-    "geom:area_square_m":1063111409.239625,
+    "geom:area_square_m":1063110969.06226,
     "geom:bbox":"-60.143359,-34.624808,-59.671344,-34.212885",
     "geom:latitude":-34.407405,
     "geom:longitude":-59.884674,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852449,
-    "wof:geomhash":"06c33c057d8be70d101ffaad27701c6b",
+    "wof:geomhash":"a9a7310acc3ca531a5bd66037c48cdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717897,
-    "wof:lastmodified":1627521480,
+    "wof:lastmodified":1695885997,
     "wof:name":"Carmen De Areco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

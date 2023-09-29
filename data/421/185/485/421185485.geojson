@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.608634,
-    "geom:area_square_m":5760629056.603216,
+    "geom:area_square_m":5760629056.603168,
     "geom:bbox":"-70.8473338413,-40.535891927,-69.538980358,-39.5682164745",
     "geom:latitude":-40.053081,
     "geom:longitude":-70.281236,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.NQ.CC",
         "qs_pg:id":896896
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28d5de515a80c7e9769c5ced2ed539b3",
+    "wof:geomhash":"dd6b9fd8f550238d10343d2d875dad5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421185485,
-    "wof:lastmodified":1582358644,
+    "wof:lastmodified":1695886005,
     "wof:name":"Collon Cura",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

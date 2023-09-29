@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.752835,
-    "geom:area_square_m":37906840198.605873,
+    "geom:area_square_m":37906839677.164963,
     "geom:bbox":"-73.56036,-50.820554,-70.579802,-48.480373",
     "geom:latitude":-49.831977,
     "geom:longitude":-72.045334,
@@ -90,12 +90,13 @@
         "hasc:id":"AR.SC.LA",
         "qs_pg:id":973800
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009366,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ac946f3283c55186420a56326e4012a",
+    "wof:geomhash":"d55b5d4e61d34ceb227ec894881627ac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421183349,
-    "wof:lastmodified":1636502823,
+    "wof:lastmodified":1695886082,
     "wof:name":"Lago Argentino",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

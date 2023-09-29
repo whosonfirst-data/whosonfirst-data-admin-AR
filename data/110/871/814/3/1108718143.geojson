@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181819,
-    "geom:area_square_m":1967728902.467317,
+    "geom:area_square_m":1967728902.467953,
     "geom:bbox":"-65.6851544717,-29.5846554875,-65.2724843742,-28.5732604352",
     "geom:latitude":-28.926207,
     "geom:longitude":-65.50391,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852511,
-    "wof:geomhash":"1f85ad777c2dfd08c8676563c0ae3628",
+    "wof:geomhash":"8aa0fbc4eb3d23b6af819abacf0ec7a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108718143,
-    "wof:lastmodified":1566587995,
+    "wof:lastmodified":1695886665,
     "wof:name":"Ancasti",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

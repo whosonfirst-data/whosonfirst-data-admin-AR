@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.480852,
-    "geom:area_square_m":5372361255.531645,
+    "geom:area_square_m":5372361169.170419,
     "geom:bbox":"-58.610388,-25.762709,-57.55515,-24.938612",
     "geom:latitude":-25.370471,
     "geom:longitude":-58.063374,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852573,
-    "wof:geomhash":"de9519975cc623204a58ba894e63151c",
+    "wof:geomhash":"9e8bba2ff494885fb9c0d21f35c78c31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108718273,
-    "wof:lastmodified":1636502779,
+    "wof:lastmodified":1695886072,
     "wof:name":"Pilcomayo",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

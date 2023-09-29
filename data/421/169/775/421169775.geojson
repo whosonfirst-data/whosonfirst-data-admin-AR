@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.56686,
-    "geom:area_square_m":5550577418.387424,
+    "geom:area_square_m":5550577418.387226,
     "geom:bbox":"-71.2209,-38.0038252846,-70.0305290435,-37.243625253",
     "geom:latitude":-37.637795,
     "geom:longitude":-70.677696,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.NQ.NO",
         "qs_pg:id":241859
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008824,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b5261896cf9e32a9cf8aef89639f331",
+    "wof:geomhash":"50e0feb764e254a87da637e5a4ef5127",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421169775,
-    "wof:lastmodified":1582358625,
+    "wof:lastmodified":1695885995,
     "wof:name":"\u00d1orquin",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

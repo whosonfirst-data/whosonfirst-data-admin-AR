@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3622,
-    "geom:area_square_m":4096066857.155103,
+    "geom:area_square_m":4096066251.036727,
     "geom:bbox":"-62.34914,-24.31254,-61.828921,-23.49",
     "geom:latitude":-23.854377,
     "geom:longitude":-62.075756,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852571,
-    "wof:geomhash":"86bf3f9df1ddea81418cbccc086543ff",
+    "wof:geomhash":"901c1f4d87fc59741d83205b08616c68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718265,
-    "wof:lastmodified":1627521491,
+    "wof:lastmodified":1695886010,
     "wof:name":"Matacos",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

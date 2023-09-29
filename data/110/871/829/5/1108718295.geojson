@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.516518,
-    "geom:area_square_m":5164581760.560525,
+    "geom:area_square_m":5164581933.962461,
     "geom:bbox":"-65.12661,-36.273532,-63.929815,-35.806341",
     "geom:latitude":-36.037778,
     "geom:longitude":-64.510326,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852582,
-    "wof:geomhash":"3007bef4186999166f03efc131728f75",
+    "wof:geomhash":"b349914bf388fdc9ac0d1cc3b333fc73",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108718295,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Conhelo",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

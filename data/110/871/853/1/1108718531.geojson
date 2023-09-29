@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273317,
-    "geom:area_square_m":3028630755.988332,
+    "geom:area_square_m":3028630514.983069,
     "geom:bbox":"-65.725238,-26.626535,-65.037576,-26.057138",
     "geom:latitude":-26.343789,
     "geom:longitude":-65.40557,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852682,
-    "wof:geomhash":"0794a8f9e9821a8b7dd5b854b044bbd0",
+    "wof:geomhash":"4ba23ae76946d5a61913ff71981a48fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108718531,
-    "wof:lastmodified":1636502787,
+    "wof:lastmodified":1695886077,
     "wof:name":"Trancas",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

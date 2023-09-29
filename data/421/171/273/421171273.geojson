@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.402495,
-    "geom:area_square_m":4211299507.97204,
+    "geom:area_square_m":4211299568.885785,
     "geom:bbox":"-60.26421,-32.60607,-59.319518,-31.859152",
     "geom:latitude":-32.202688,
     "geom:longitude":-59.781571,
@@ -137,12 +137,13 @@
         "qs_pg:id":1251793,
         "wd:id":"Q3112762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8bde2cdf42ced4a69712073458e8ff9",
+    "wof:geomhash":"3a8447d1ae69c348b0f675fddb37ab23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421171273,
-    "wof:lastmodified":1690850751,
+    "wof:lastmodified":1695886003,
     "wof:name":"Nogoya",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

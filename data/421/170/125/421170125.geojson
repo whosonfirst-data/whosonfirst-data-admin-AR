@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.779017,
-    "geom:area_square_m":16253058826.354824,
+    "geom:area_square_m":16253059487.27352,
     "geom:bbox":"-72.189307,-42.945898,-69.42845,-41.991118",
     "geom:latitude":-42.366321,
     "geom:longitude":-70.711016,
@@ -119,12 +119,13 @@
         "qs_pg:id":220150,
         "wd:id":"Q1016794"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008837,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af3ed55025d96e778abb9722419857b2",
+    "wof:geomhash":"fc5ba6b8b087fb621bd9d49f445ed67e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421170125,
-    "wof:lastmodified":1690850730,
+    "wof:lastmodified":1695886003,
     "wof:name":"Cushamen",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

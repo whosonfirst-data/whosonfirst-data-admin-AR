@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041894,
-    "geom:area_square_m":425314890.108919,
+    "geom:area_square_m":425315093.658542,
     "geom:bbox":"-59.031887,-34.958871,-58.698369,-34.686296",
     "geom:latitude":-34.813091,
     "geom:longitude":-58.848541,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852483,
-    "wof:geomhash":"3ca2e1051870ce611201594de2ab3b76",
+    "wof:geomhash":"e485c4f7842362d67f4992107d130c10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718021,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Marcos Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

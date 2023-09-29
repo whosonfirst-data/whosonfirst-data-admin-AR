@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.773581,
-    "geom:area_square_m":7653687912.42223,
+    "geom:area_square_m":7653687740.143043,
     "geom:bbox":"-61.425174,-37.373573,-60.004655,-36.343138",
     "geom:latitude":-36.856374,
     "geom:longitude":-60.671038,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852488,
-    "wof:geomhash":"9b8f6973ab87973a382f40df67bc5028",
+    "wof:geomhash":"afa27e2555527a3cb7715b165c7165b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718043,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Olavarria",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

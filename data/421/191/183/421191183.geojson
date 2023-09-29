@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.641045,
-    "geom:area_square_m":6819411579.316174,
+    "geom:area_square_m":6819412329.162131,
     "geom:bbox":"-65.591783,-31.421642,-64.606437,-29.892304",
     "geom:latitude":-30.646314,
     "geom:longitude":-65.073085,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CB.CE",
         "qs_pg:id":13422
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009683,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96f2656626fa4689dd03eb49f8e92b52",
+    "wof:geomhash":"9977a7ad2f58fb58774216d05f524976",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421191183,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695885999,
     "wof:name":"Cruz Del Eje",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

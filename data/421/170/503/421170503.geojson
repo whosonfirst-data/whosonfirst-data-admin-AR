@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250057,
-    "geom:area_square_m":2644231395.104625,
+    "geom:area_square_m":2644231297.346247,
     "geom:bbox":"-64.837858,-31.710242,-64.41,-30.67237",
     "geom:latitude":-31.219037,
     "geom:longitude":-64.590864,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CB.PU",
         "qs_pg:id":1289275
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008856,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f6545f29ba4be722a97ff24c8303695",
+    "wof:geomhash":"0a6d27b172e1aaf4c414c4f5708f0c82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421170503,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Punilla",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

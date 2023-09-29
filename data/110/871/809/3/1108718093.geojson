@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083882,
-    "geom:area_square_m":857644657.681273,
+    "geom:area_square_m":857644818.122612,
     "geom:bbox":"-59.780386,-34.416679,-59.266094,-34.017019",
     "geom:latitude":-34.221332,
     "geom:longitude":-59.519822,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852499,
-    "wof:geomhash":"39eb340ea99397496e1124763af1eee2",
+    "wof:geomhash":"38412072322ac46afd9832ed9cf8f196",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718093,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886015,
     "wof:name":"San Antonio De Areco",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

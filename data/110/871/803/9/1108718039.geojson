@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.471894,
-    "geom:area_square_m":4581852527.802046,
+    "geom:area_square_m":4581852963.806999,
     "geom:bbox":"-59.673471,-38.738804,-58.624721,-37.617528",
     "geom:latitude":-38.25734,
     "geom:longitude":-59.166651,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852487,
-    "wof:geomhash":"a56447d42529e4b1f9982d47b804e592",
+    "wof:geomhash":"abc984c4c0273aab8f1b28c9ef7be3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108718039,
-    "wof:lastmodified":1636502781,
+    "wof:lastmodified":1695886073,
     "wof:name":"Necochea",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

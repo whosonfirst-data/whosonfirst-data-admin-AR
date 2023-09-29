@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.355381,
-    "geom:area_square_m":75606929249.704971,
+    "geom:area_square_m":75606930332.713379,
     "geom:bbox":"-67.476174,-36.008015,-64.881735,-31.833473",
     "geom:latitude":-33.750061,
     "geom:longitude":-66.034059,
@@ -407,17 +407,19 @@
         "gn:id":3837029,
         "gp:id":2344693,
         "hasc:id":"AR.SL",
+        "iso:code":"AR-D",
         "iso:id":"AR-D",
         "qs_pg:id":235561,
         "unlc:id":"AR-D",
         "wd:id":"Q44818",
         "wk:page":"San Luis Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c163d962985aa5d820428297ac25efd",
+    "wof:geomhash":"2798af921bdff9057fe675935a91a1a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -432,7 +434,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850542,
+    "wof:lastmodified":1695884940,
     "wof:name":"San Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

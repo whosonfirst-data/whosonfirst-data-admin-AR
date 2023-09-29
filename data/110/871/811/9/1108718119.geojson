@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133779,
-    "geom:area_square_m":1331606070.847607,
+    "geom:area_square_m":1331606545.270038,
     "geom:bbox":"-57.472939,-36.672143,-57.017698,-36.152171",
     "geom:latitude":-36.391232,
     "geom:longitude":-57.275384,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852505,
-    "wof:geomhash":"022d64cb3aed009f7445c46a83f9df9b",
+    "wof:geomhash":"337352b5dbe14a6874503ab3fe7819be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718119,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Tordillo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

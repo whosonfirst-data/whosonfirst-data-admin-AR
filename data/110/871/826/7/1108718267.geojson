@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.334742,
-    "geom:area_square_m":26190295381.368507,
+    "geom:area_square_m":26190295112.2682,
     "geom:bbox":"-61.144404,-26.128993,-58.88859,-23.999009",
     "geom:latitude":-24.876276,
     "geom:longitude":-59.957865,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852572,
-    "wof:geomhash":"b7581583d35492b22ac6a600516be8a3",
+    "wof:geomhash":"4c8ef38f6ee82c4d7d1a1eeb1c31bf33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718267,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Pati\u00f1o",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

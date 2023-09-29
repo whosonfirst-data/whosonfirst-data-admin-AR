@@ -165,6 +165,7 @@
     "wof:concordances":{
         "hasc:id":"AR.MN.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852608,
     "wof:geomhash":"cad3176f2294d97555675cc98b7a9592",
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1108718367,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695886666,
     "wof:name":"Capital",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

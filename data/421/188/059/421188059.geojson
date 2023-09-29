@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.494439,
-    "geom:area_square_m":4742472625.067537,
+    "geom:area_square_m":4742472625.067178,
     "geom:bbox":"-71.469755,-39.5400253221,-70.6055912931,-38.7187096127",
     "geom:latitude":-39.131441,
     "geom:longitude":-71.046988,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.NQ.AL",
         "qs_pg:id":1087245
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c50824c9ffa4ddd5e2f83b47385b6f2",
+    "wof:geomhash":"f475ba450b526c626b6f240601669e31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421188059,
-    "wof:lastmodified":1582358632,
+    "wof:lastmodified":1695885999,
     "wof:name":"Alumine",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

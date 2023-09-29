@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193566,
-    "geom:area_square_m":2008594081.885454,
+    "geom:area_square_m":2008594365.022363,
     "geom:bbox":"-61.207023,-33.429944,-60.661818,-32.44495",
     "geom:latitude":-32.944176,
     "geom:longitude":-60.96185,
@@ -214,12 +214,13 @@
         "hasc:id":"AR.SF.SL",
         "qs_pg:id":241857
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008823,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0593c07a718a39cb3e42bb8a9e33f46e",
+    "wof:geomhash":"56995766365733243c8d02544f5738ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":421169771,
-    "wof:lastmodified":1636502804,
+    "wof:lastmodified":1695886078,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

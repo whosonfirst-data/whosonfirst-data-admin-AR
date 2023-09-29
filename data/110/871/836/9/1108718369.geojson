@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070995,
-    "geom:area_square_m":775615144.810065,
+    "geom:area_square_m":775615285.940143,
     "geom:bbox":"-55.624852,-28.16587,-55.312533,-27.755243",
     "geom:latitude":-27.929968,
     "geom:longitude":-55.465749,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.MN.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852608,
-    "wof:geomhash":"c9d0e3b3523b54d2def941874fce80c8",
+    "wof:geomhash":"1c04cdf5e26161ea6d65d4e5f33010b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718369,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885999,
     "wof:name":"Concepcion",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

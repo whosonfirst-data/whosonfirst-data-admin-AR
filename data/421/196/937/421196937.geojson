@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423976,
-    "geom:area_square_m":4028061262.624341,
+    "geom:area_square_m":4028061337.436529,
     "geom:bbox":"-71.71735,-40.108809,-70.816755,-39.448087",
     "geom:latitude":-39.794586,
     "geom:longitude":-71.259385,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.NQ.HU",
         "qs_pg:id":1241098
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009898,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d6227e5df0e94ad849b1fe465a853dc",
+    "wof:geomhash":"d7da1523ee327d2ae261659fb075ea8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421196937,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Huiliches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

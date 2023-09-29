@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.317435,
-    "geom:area_square_m":25924433835.545021,
+    "geom:area_square_m":25924434336.679688,
     "geom:bbox":"-62.714911,-26.13053,-60.091749,-24.084817",
     "geom:latitude":-25.213765,
     "geom:longitude":-61.337382,
@@ -136,12 +136,13 @@
         "hasc:id":"AR.CC.GG",
         "qs_pg:id":59537
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009677,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2565b7331b9f32ac18b9071fbf30714a",
+    "wof:geomhash":"788545e9ec07bc08b23e0d6099c5a73a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421191011,
-    "wof:lastmodified":1636502818,
+    "wof:lastmodified":1695886081,
     "wof:name":"General Guemes",
     "wof:parent_id":85668063,
     "wof:placetype":"county",

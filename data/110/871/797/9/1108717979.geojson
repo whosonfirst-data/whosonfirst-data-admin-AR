@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852472,
     "wof:geomhash":"bc0e40c83ea287ca687de3faf04c2fa7",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717979,
-    "wof:lastmodified":1694492372,
+    "wof:lastmodified":1695886661,
     "wof:name":"Hurlingham",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

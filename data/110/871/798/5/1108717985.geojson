@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004949,
-    "geom:area_square_m":50424496.395086,
+    "geom:area_square_m":50424594.606364,
     "geom:bbox":"-58.823208,-34.556908,-58.722264,-34.460426",
     "geom:latitude":-34.513091,
     "geom:longitude":-58.776417,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.JP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852473,
-    "wof:geomhash":"0d9d9fc5348b006c3496254bf4df6912",
+    "wof:geomhash":"9d939cbb07126cb09aa4de4813ebedda",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717985,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Jose C Paz",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

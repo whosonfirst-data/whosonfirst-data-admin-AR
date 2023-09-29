@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17967,
-    "geom:area_square_m":1976127197.635867,
+    "geom:area_square_m":1976127600.153886,
     "geom:bbox":"-65.426066,-27.484298,-64.774537,-26.927319",
     "geom:latitude":-27.191233,
     "geom:longitude":-65.085434,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.TM.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852678,
-    "wof:geomhash":"371124f2c4eb28f1ceefc8537bf98438",
+    "wof:geomhash":"cbc553bc47b6aa692257e296f3c59195",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718525,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886008,
     "wof:name":"Leales",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

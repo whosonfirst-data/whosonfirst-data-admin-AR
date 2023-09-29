@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609417,
-    "geom:area_square_m":5975724207.081264,
+    "geom:area_square_m":5975724410.301448,
     "geom:bbox":"-62.424442,-38.173302,-61.445379,-36.90849",
     "geom:latitude":-37.53194,
     "geom:longitude":-61.889617,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852452,
-    "wof:geomhash":"ecbf032f9f87d97d05d0ae36d29b1b5a",
+    "wof:geomhash":"cc21ef76f2e2b53fb4600865872f1734",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717909,
-    "wof:lastmodified":1627521482,
+    "wof:lastmodified":1695886000,
     "wof:name":"Coronel Suarez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

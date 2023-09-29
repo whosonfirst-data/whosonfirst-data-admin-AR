@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.617219,
-    "geom:area_square_m":5967044563.086097,
+    "geom:area_square_m":5967043805.681504,
     "geom:bbox":"-71.04482,-39.120581,-69.552698,-38.11192",
     "geom:latitude":-38.570123,
     "geom:longitude":-70.374117,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.NQ.PI",
         "qs_pg:id":13448
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94424c0b9e27f7b674772053e5393174",
+    "wof:geomhash":"5d5b4143e930165030be22ac637e641d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421202309,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Picunches",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

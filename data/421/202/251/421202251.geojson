@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169758,
-    "geom:area_square_m":1881541297.895458,
+    "geom:area_square_m":1881541229.269859,
     "geom:bbox":"-54.703721,-26.515165,-54.146729,-26.115047",
     "geom:latitude":-26.316245,
     "geom:longitude":-54.423339,
@@ -270,12 +270,13 @@
         "qs_pg:id":220143,
         "wd:id":"Q192550"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf08e44195e3375e29c9a1ae7b6671f6",
+    "wof:geomhash":"24474bf385756ef45c3a768bc739ab45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -285,7 +286,7 @@
         }
     ],
     "wof:id":421202251,
-    "wof:lastmodified":1690850612,
+    "wof:lastmodified":1695886079,
     "wof:name":"Eldorado",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

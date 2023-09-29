@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.433809,
-    "geom:area_square_m":4307931774.214987,
+    "geom:area_square_m":4307931774.215191,
     "geom:bbox":"-59.3634791464,-37.0605481964,-58.4399020737,-36.1420248359",
     "geom:latitude":-36.572415,
     "geom:longitude":-58.944518,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852494,
-    "wof:geomhash":"7844d9e09bf1f451749089c5e99001fe",
+    "wof:geomhash":"42a69f9f0eabebe8ef1259db4739732b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108718071,
-    "wof:lastmodified":1566587999,
+    "wof:lastmodified":1695886665,
     "wof:name":"Rauch",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

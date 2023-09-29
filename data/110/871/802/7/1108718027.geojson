@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187472,
-    "geom:area_square_m":1886976943.94331,
+    "geom:area_square_m":1886976943.943428,
     "geom:bbox":"-59.1104144252,-35.7566673471,-58.4729782796,-35.2427598369",
     "geom:latitude":-35.510514,
     "geom:longitude":-58.769721,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852485,
-    "wof:geomhash":"bd0267942d6ac339fa612b80da36d6ae",
+    "wof:geomhash":"5a096a448273ff00ae9b979a5936299a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108718027,
-    "wof:lastmodified":1566587976,
+    "wof:lastmodified":1695886663,
     "wof:name":"Monte",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317137,
-    "geom:area_square_m":3615162648.613725,
+    "geom:area_square_m":3615162684.377591,
     "geom:bbox":"-65.350469,-23.073928,-64.504715,-22.465151",
     "geom:latitude":-22.795277,
     "geom:longitude":-64.915308,
@@ -122,12 +122,13 @@
         "qs_pg:id":1251771,
         "wd:id":"Q1020428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6829df105720433c5f5c8d056db2b74",
+    "wof:geomhash":"c354415514890ca672a376de5012febb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421171489,
-    "wof:lastmodified":1690850757,
+    "wof:lastmodified":1695886004,
     "wof:name":"Iruya",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

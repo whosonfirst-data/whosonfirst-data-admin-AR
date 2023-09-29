@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.963347,
-    "geom:area_square_m":27597418580.72702,
+    "geom:area_square_m":27597418629.380405,
     "geom:bbox":"-70.263973,-42.008309,-68.006292,-40.07",
     "geom:latitude":-41.133257,
     "geom:longitude":-68.90594,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.RN.VM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852628,
-    "wof:geomhash":"0aeb3c040192f87113777843dfc8e9ab",
+    "wof:geomhash":"0b74682d6364bf1e232521c411771c42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718401,
-    "wof:lastmodified":1627521478,
+    "wof:lastmodified":1695886722,
     "wof:name":"25 De Mayo",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

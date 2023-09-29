@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.777127,
-    "geom:area_square_m":8653686389.314384,
+    "geom:area_square_m":8653686585.724625,
     "geom:bbox":"-59.644019,-26.383435,-58.593992,-25.170302",
     "geom:latitude":-25.768071,
     "geom:longitude":-59.159777,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.FM.PR",
         "qs_pg:id":1241063
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010013,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6106750163b6237aafa2553c1693ebd0",
+    "wof:geomhash":"119da68570ebf95c33b56d28d7abe72d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421200145,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Pirane",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

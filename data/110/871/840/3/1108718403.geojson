@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.980076,
-    "geom:area_square_m":22213883811.777504,
+    "geom:area_square_m":22213883811.77813,
     "geom:bbox":"-64.9540362194,-25.7112744143,-62.9368621962,-24.0948667631",
     "geom:latitude":-24.865074,
     "geom:longitude":-63.837774,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852629,
-    "wof:geomhash":"b355a709b43499d4bfd0644e883db99d",
+    "wof:geomhash":"13e6f85676771122a32083c7e108e2be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108718403,
-    "wof:lastmodified":1566587994,
+    "wof:lastmodified":1695886665,
     "wof:name":"Anta",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

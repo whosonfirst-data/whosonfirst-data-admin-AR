@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265517,
-    "geom:area_square_m":2826619360.707393,
+    "geom:area_square_m":2826619077.514757,
     "geom:bbox":"-66.420249,-30.759521,-65.489262,-30.369238",
     "geom:latitude":-30.577395,
     "geom:longitude":-65.93197,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852594,
-    "wof:geomhash":"3feb1d66882a9781fe9db195ea5be9ea",
+    "wof:geomhash":"91476f46d7bba520f6d2c1a920e9aecd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718333,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Belgrano",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

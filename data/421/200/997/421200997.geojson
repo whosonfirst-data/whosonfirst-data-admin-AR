@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.110189,
-    "geom:area_square_m":11390604780.82416,
+    "geom:area_square_m":11390604668.696562,
     "geom:bbox":"-62.874378,-34.389953,-61.125565,-33.393161",
     "geom:latitude":-33.925751,
     "geom:longitude":-61.945517,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SF.GL",
         "qs_pg:id":902986
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010048,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"854f9d489927d028aa78dddbc7c447e2",
+    "wof:geomhash":"e8e7146cf241abf452133d23dbff0fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421200997,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Lopez",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

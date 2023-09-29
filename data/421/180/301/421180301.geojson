@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.468159,
-    "geom:area_square_m":5265589031.349243,
+    "geom:area_square_m":5265588574.637224,
     "geom:bbox":"-66.188319,-25.100495,-65.498511,-23.965065",
     "geom:latitude":-24.547787,
     "geom:longitude":-65.854174,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SA.RL",
         "qs_pg:id":425253
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009251,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8097da742ee3b0af5b2c9cf6d516ffc1",
+    "wof:geomhash":"46422b288915a575fc879606e0c92e61",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421180301,
-    "wof:lastmodified":1627521495,
+    "wof:lastmodified":1695886014,
     "wof:name":"Rosario De Lerma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

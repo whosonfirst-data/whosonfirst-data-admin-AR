@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.533481,
-    "geom:area_square_m":28168812970.495564,
+    "geom:area_square_m":28168812878.720074,
     "geom:bbox":"-68.591,-26.92258,-66.518486,-25.16147",
     "geom:latitude":-25.94504,
     "geom:longitude":-67.677382,
@@ -131,12 +131,13 @@
         "qs_pg:id":237435,
         "wd:id":"Q312936"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c7bf9145c070068402ade218b9c06e6e",
+    "wof:geomhash":"a3a904958e440c26b6235293f59ae4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421204055,
-    "wof:lastmodified":1690850603,
+    "wof:lastmodified":1695885995,
     "wof:name":"Antofagasta De La Sierra",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

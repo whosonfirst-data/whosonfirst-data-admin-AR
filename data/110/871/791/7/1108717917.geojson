@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202977,
-    "geom:area_square_m":2058068438.456525,
+    "geom:area_square_m":2058068317.047042,
     "geom:bbox":"-60.301369,-35.176651,-59.607359,-34.641335",
     "geom:latitude":-34.915553,
     "geom:longitude":-59.958991,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852453,
-    "wof:geomhash":"67b6eb2ed45ef40cfb4a2baa08c87f96",
+    "wof:geomhash":"5f5b643592f09dfe12fbadca75912392",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108717917,
-    "wof:lastmodified":1636502778,
+    "wof:lastmodified":1695886071,
     "wof:name":"Chivilcoy",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

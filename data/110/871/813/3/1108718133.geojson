@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003363,
-    "geom:area_square_m":34261253.590744,
+    "geom:area_square_m":34261253.590732,
     "geom:bbox":"-58.5537224689,-34.5660894596,-58.4612910341,-34.4928631684",
     "geom:latitude":-34.526338,
     "geom:longitude":-58.506262,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.VL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852508,
-    "wof:geomhash":"b852fdfe0d63a95a85aced06fcda880a",
+    "wof:geomhash":"8abffed59412b51ac8f4f23daec1db4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108718133,
-    "wof:lastmodified":1566587996,
+    "wof:lastmodified":1695886665,
     "wof:name":"Vicente Lopez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.34758,
-    "geom:area_square_m":14378624032.717022,
+    "geom:area_square_m":14378624032.716221,
     "geom:bbox":"-69.0544039136,-31.023247391,-67.5057632256,-29.6085452918",
     "geom:latitude":-30.353991,
     "geom:longitude":-68.433327,
@@ -121,12 +121,13 @@
         "hasc:id":"AR.SJ.JA",
         "qs_pg:id":1251809
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008696,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3e5b8e9441322171037c4114a25ef68",
+    "wof:geomhash":"a88e213d4bf0d3d6b4507fd74e68b607",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421166623,
-    "wof:lastmodified":1582358624,
+    "wof:lastmodified":1695885994,
     "wof:name":"Jachal",
     "wof:parent_id":85667997,
     "wof:placetype":"county",

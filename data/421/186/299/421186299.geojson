@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345467,
-    "geom:area_square_m":3898036318.215687,
+    "geom:area_square_m":3898036530.055966,
     "geom:bbox":"-66.518205,-24.933304,-65.983294,-23.413942",
     "geom:latitude":-24.141246,
     "geom:longitude":-66.208326,
@@ -122,12 +122,13 @@
         "qs_pg:id":1063354,
         "wd:id":"Q3211792"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ed7969c044de6e133e40f976dcd78e3",
+    "wof:geomhash":"00a0d6149bd865149021fda6b7f6d8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421186299,
-    "wof:lastmodified":1690850653,
+    "wof:lastmodified":1695886000,
     "wof:name":"La Poma",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

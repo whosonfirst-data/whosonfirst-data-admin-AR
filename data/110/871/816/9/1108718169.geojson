@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064048,
-    "geom:area_square_m":702879969.016291,
+    "geom:area_square_m":702879885.759596,
     "geom:bbox":"-57.868486,-27.592196,-57.391092,-27.292662",
     "geom:latitude":-27.438142,
     "geom:longitude":-57.624639,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852531,
-    "wof:geomhash":"fa912101b78d391d80c8b300477c9f32",
+    "wof:geomhash":"9653f5033e2ab5fb880305f95dc21eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718169,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Beron De Astrada",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

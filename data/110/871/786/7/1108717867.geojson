@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149936,
-    "geom:area_square_m":1538253819.381383,
+    "geom:area_square_m":1538253842.472751,
     "geom:bbox":"-59.752852,-34.170235,-59.22774,-33.642204",
     "geom:latitude":-33.931946,
     "geom:longitude":-59.493066,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852442,
-    "wof:geomhash":"27ff20bd12f03f0dd576fadd217305ea",
+    "wof:geomhash":"dc68b211360a613afaedfd55aee7ee13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108717867,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Baradero",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

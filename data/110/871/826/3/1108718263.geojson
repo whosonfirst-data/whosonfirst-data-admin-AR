@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326605,
-    "geom:area_square_m":3615173768.107018,
+    "geom:area_square_m":3615173804.534008,
     "geom:bbox":"-58.977905,-26.878748,-58.170149,-26.152721",
     "geom:latitude":-26.46921,
     "geom:longitude":-58.561141,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852571,
-    "wof:geomhash":"ed045a8f9acfd0025cac343448cff3c4",
+    "wof:geomhash":"a376e7c09bdf0014ca3c35c25df6fefb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718263,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886006,
     "wof:name":"Laishi",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

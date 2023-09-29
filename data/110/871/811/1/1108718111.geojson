@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09301,
-    "geom:area_square_m":944979893.715195,
+    "geom:area_square_m":944980242.195407,
     "geom:bbox":"-59.943888,-34.958168,-59.469923,-34.518339",
     "geom:latitude":-34.748777,
     "geom:longitude":-59.702928,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852503,
-    "wof:geomhash":"7b5931c71950d4c0efe67ecf87ad57ab",
+    "wof:geomhash":"99808bb3d2c160d2ccd3332b5bdd96f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108718111,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Suipacha",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

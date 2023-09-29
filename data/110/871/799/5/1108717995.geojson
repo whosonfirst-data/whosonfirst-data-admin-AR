@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.352702,
-    "geom:area_square_m":3459247536.217792,
+    "geom:area_square_m":3459247863.658319,
     "geom:bbox":"-61.180564,-37.938617,-60.35221,-37.051276",
     "geom:latitude":-37.515582,
     "geom:longitude":-60.76885,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852478,
-    "wof:geomhash":"3e4679c03d096099af75a7830279e0bc",
+    "wof:geomhash":"e9f57a1386f5a4c0cfd105de187e60eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717995,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886007,
     "wof:name":"Laprida",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

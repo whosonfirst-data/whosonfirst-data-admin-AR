@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157671,
-    "geom:area_square_m":1606781670.007394,
+    "geom:area_square_m":1606781662.02103,
     "geom:bbox":"-61.982273,-34.682259,-61.276827,-34.304225",
     "geom:latitude":-34.498084,
     "geom:longitude":-61.613227,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852479,
-    "wof:geomhash":"fe545fb1c1727319f8a8920dc63b99bd",
+    "wof:geomhash":"b217316c4c5df742d9f1b561f76b901a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717999,
-    "wof:lastmodified":1627521489,
+    "wof:lastmodified":1695886007,
     "wof:name":"Leandro N Alem",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

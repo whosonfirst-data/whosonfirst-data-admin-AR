@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355525,
-    "geom:area_square_m":3487910002.280453,
+    "geom:area_square_m":3487910444.329575,
     "geom:bbox":"-64.17329,-37.728508,-63.374307,-37.265029",
     "geom:latitude":-37.495082,
     "geom:longitude":-63.775387,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852584,
-    "wof:geomhash":"a0db00d5a836cd4a16a5e8a2f9d35c51",
+    "wof:geomhash":"f0308bbededceac539320ea0b0def2a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718303,
-    "wof:lastmodified":1627521487,
+    "wof:lastmodified":1695886005,
     "wof:name":"Guatrache",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

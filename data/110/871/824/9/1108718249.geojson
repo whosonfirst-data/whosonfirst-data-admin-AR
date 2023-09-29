@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27396,
-    "geom:area_square_m":2921775258.978673,
+    "geom:area_square_m":2921775258.978562,
     "geom:bbox":"-59.1677431995,-30.6799279911,-58.2585735852,-30.1580611987",
     "geom:latitude":-30.401493,
     "geom:longitude":-58.715348,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852562,
-    "wof:geomhash":"bdf14b139601145ebbdd2ab88405f35c",
+    "wof:geomhash":"6c02758d891f5ca48c922e055df65dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108718249,
-    "wof:lastmodified":1566587988,
+    "wof:lastmodified":1695886664,
     "wof:name":"Feliciano",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

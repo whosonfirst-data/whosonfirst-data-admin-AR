@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.572988,
-    "geom:area_square_m":143643521166.750885,
+    "geom:area_square_m":143643520475.017578,
     "geom:bbox":"-68.303769,-39.330113,-63.373048,-34.991687",
     "geom:latitude":-37.130845,
     "geom:longitude":-65.44414,
@@ -409,17 +409,19 @@
         "gn:id":3849574,
         "gp:id":2344685,
         "hasc:id":"AR.LP",
+        "iso:code":"AR-L",
         "iso:id":"AR-L",
         "qs_pg:id":191306,
         "unlc:id":"AR-L",
         "wd:id":"Q44795",
         "wk:page":"La Pampa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90293dca4496aadc03a8d20b7979a1d9",
+    "wof:geomhash":"a830d0eb61e9098e53a3158c74ccad65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -434,7 +436,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850544,
+    "wof:lastmodified":1695884941,
     "wof:name":"La Pampa",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

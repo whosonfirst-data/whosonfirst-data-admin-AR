@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.419052,
-    "geom:area_square_m":4209185773.901803,
+    "geom:area_square_m":4209185662.577053,
     "geom:bbox":"-58.452973,-36.042937,-57.336049,-35.328853",
     "geom:latitude":-35.676138,
     "geom:longitude":-57.901904,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852453,
-    "wof:geomhash":"834e4806051eb666e7f44a1fe22a50ad",
+    "wof:geomhash":"1bca3726cbae837149624c56528ce134",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717915,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885998,
     "wof:name":"Chascomus",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

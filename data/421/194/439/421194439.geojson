@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.646404,
-    "geom:area_square_m":6695372713.564799,
+    "geom:area_square_m":6695373443.382032,
     "geom:bbox":"-60.30049,-33.813008,-59.11344,-32.517705",
     "geom:latitude":-33.104432,
     "geom:longitude":-59.608149,
@@ -136,12 +136,13 @@
         "hasc:id":"AR.ER.GG",
         "qs_pg:id":1109544
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009805,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"087e57f9ad8407f8bf121c3772a55fbe",
+    "wof:geomhash":"8ad604bb65b864371858a98fe2a54f98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421194439,
-    "wof:lastmodified":1636502802,
+    "wof:lastmodified":1695886078,
     "wof:name":"Gualeguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

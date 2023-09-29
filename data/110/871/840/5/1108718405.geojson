@@ -165,6 +165,7 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852630,
     "wof:geomhash":"093ee175b6c184b67f5b09ec67ce87ed",
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1108718405,
-    "wof:lastmodified":1694639681,
+    "wof:lastmodified":1695886665,
     "wof:name":"Capital",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

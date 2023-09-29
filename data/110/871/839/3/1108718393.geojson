@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.638367,
-    "geom:area_square_m":15652694065.168039,
+    "geom:area_square_m":15652694033.658566,
     "geom:bbox":"-65.250621,-39.874082,-63.373159,-38.79848",
     "geom:latitude":-39.407659,
     "geom:longitude":-64.400435,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AR.RN.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852626,
-    "wof:geomhash":"694e94aee632df226fa14c768d8e8702",
+    "wof:geomhash":"4240ebb48106f0b79098083e8288f4cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108718393,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886012,
     "wof:name":"Pichi Mahuida",
     "wof:parent_id":85668025,
     "wof:placetype":"county",

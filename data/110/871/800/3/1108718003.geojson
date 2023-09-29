@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571623,
-    "geom:area_square_m":5784926446.50567,
+    "geom:area_square_m":5784926000.817368,
     "geom:bbox":"-62.271226,-35.584635,-61.130138,-34.59",
     "geom:latitude":-35.070328,
     "geom:longitude":-61.682412,
@@ -240,9 +240,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852479,
-    "wof:geomhash":"afa89ee8e4510dd20cef5b05a86ed20a",
+    "wof:geomhash":"fddf1635a83483ada6666839f3a80253",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":1108718003,
-    "wof:lastmodified":1636502786,
+    "wof:lastmodified":1695886076,
     "wof:name":"Lincoln",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

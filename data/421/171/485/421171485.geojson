@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325293,
-    "geom:area_square_m":3349402458.927291,
+    "geom:area_square_m":3349401909.192976,
     "geom:bbox":"-69.90397,-33.87,-68.99812,-33.358779",
     "geom:latitude":-33.62223,
     "geom:longitude":-69.507888,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.MZ.TN",
         "qs_pg:id":1251769
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fbb45e1394f1138c7252fced85bb37ab",
+    "wof:geomhash":"93fd9d9992029b79f840439a4f2ebe08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421171485,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886017,
     "wof:name":"Tunuyan",
     "wof:parent_id":85668007,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034448,
-    "geom:area_square_m":351527421.53164,
+    "geom:area_square_m":351527421.53163,
     "geom:bbox":"-58.7326858332,-34.5313161468,-58.477111816,-34.2665608116",
     "geom:latitude":-34.383687,
     "geom:longitude":-58.611782,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852505,
-    "wof:geomhash":"53246d811037abe456897062946d11b5",
+    "wof:geomhash":"7719d3013e3631922623d5df6e2a2451",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108718117,
-    "wof:lastmodified":1566587957,
+    "wof:lastmodified":1695886662,
     "wof:name":"Tigre",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

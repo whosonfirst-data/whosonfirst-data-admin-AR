@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10703,
-    "geom:area_square_m":1182722082.817667,
+    "geom:area_square_m":1182722272.797226,
     "geom:bbox":"-65.773625,-26.804869,-65.15273,-26.512015",
     "geom:latitude":-26.66173,
     "geom:longitude":-65.463513,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.TM.TV",
         "qs_pg:id":220146
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48b870b3b8509fce9005e167f228f0de",
+    "wof:geomhash":"36fbc098987f6615456e861cf63ff6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421202257,
-    "wof:lastmodified":1627521497,
+    "wof:lastmodified":1695886017,
     "wof:name":"Tafi Viejo",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

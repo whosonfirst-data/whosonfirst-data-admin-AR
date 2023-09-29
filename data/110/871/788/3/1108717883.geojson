@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110558,
-    "geom:area_square_m":1116802853.98121,
+    "geom:area_square_m":1116802988.103298,
     "geom:bbox":"-58.445052,-35.418326,-57.892628,-34.972645",
     "geom:latitude":-35.221309,
     "geom:longitude":-58.175932,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852445,
-    "wof:geomhash":"7d81cccf713562dc6e6bb80b0e43a991",
+    "wof:geomhash":"5722c38d136289e9935d43340e1a6168",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108717883,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Brandsen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618822,
-    "geom:area_square_m":6743227958.919929,
+    "geom:area_square_m":6743227958.919954,
     "geom:bbox":"-56.8258204483,-28.7996645843,-55.619659,-27.7572896844",
     "geom:latitude":-28.205172,
     "geom:longitude":-56.198193,
@@ -122,12 +122,13 @@
         "hasc:id":"AR.CN.ST",
         "qs_pg:id":239258
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010181,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb126e921866b39548deb41a2e65a161",
+    "wof:geomhash":"9f811109ddd9b678382fd0e89d296fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421204337,
-    "wof:lastmodified":1582358626,
+    "wof:lastmodified":1695885996,
     "wof:name":"Santo Tome",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

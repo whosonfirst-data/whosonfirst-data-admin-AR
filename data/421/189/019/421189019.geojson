@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189753,
-    "geom:area_square_m":2074705812.962547,
+    "geom:area_square_m":2074705812.96265,
     "geom:bbox":"-59.0986235082,-28.2226837281,-58.2846111815,-27.53",
     "geom:latitude":-27.841998,
     "geom:longitude":-58.669298,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.CN.EM",
         "qs_pg:id":1109548
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009602,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5ba594d58232c36c5640ab7a42f12a1",
+    "wof:geomhash":"90ba41e1095b9e70361f70f0c8eac9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421189019,
-    "wof:lastmodified":1582358630,
+    "wof:lastmodified":1695885997,
     "wof:name":"Empedrado",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

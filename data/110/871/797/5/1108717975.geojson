@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.487945,
-    "geom:area_square_m":4825533329.649214,
+    "geom:area_square_m":4825533182.290136,
     "geom:bbox":"-62.972543,-37.34875,-61.858716,-36.452452",
     "geom:latitude":-36.890029,
     "geom:longitude":-62.418794,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852471,
-    "wof:geomhash":"371a41db926b0a1708f6aa496acbb0ea",
+    "wof:geomhash":"a486555a5c6896d87c87e337774884a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717975,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"Guamini",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31269,
-    "geom:area_square_m":3224670052.342437,
+    "geom:area_square_m":3224670052.342658,
     "geom:bbox":"-61.5147278891,-33.8318347726,-60.2654480783,-33.1768553972",
     "geom:latitude":-33.486963,
     "geom:longitude":-60.852901,
@@ -125,12 +125,13 @@
         "hasc:id":"AR.SF.CO",
         "qs_pg:id":1251817
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"442fcf92b8f5782545773d9bc71f3323",
+    "wof:geomhash":"8003f8949798f013a637b840b292e279",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421171517,
-    "wof:lastmodified":1582358642,
+    "wof:lastmodified":1695886004,
     "wof:name":"Constitucion",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

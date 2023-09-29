@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117749,
-    "geom:area_square_m":1294163054.075566,
+    "geom:area_square_m":1294162439.057245,
     "geom:bbox":"-66.137359,-27.434155,-65.458778,-27.060963",
     "geom:latitude":-27.269838,
     "geom:longitude":-65.811084,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.TM.CH",
         "qs_pg:id":59543
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009178,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8eb7a93e6653dd91692b3322362fb558",
+    "wof:geomhash":"e840bbac3de7720e9cf9f8604e81bac5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421178317,
-    "wof:lastmodified":1627521481,
+    "wof:lastmodified":1695885998,
     "wof:name":"Chicligasta",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

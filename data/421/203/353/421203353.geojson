@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.437845,
-    "geom:area_square_m":14758332835.498878,
+    "geom:area_square_m":14758331450.64369,
     "geom:bbox":"-66.224372,-34.715724,-65.000331,-32.905522",
     "geom:latitude":-33.889431,
     "geom:longitude":-65.56305,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.SL.GP",
         "qs_pg:id":59530
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010148,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7df1e52bc1e8acd299b0641594c61149",
+    "wof:geomhash":"4c92d3d6cb9812036cf6558b1f79c1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421203353,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Pedernera",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

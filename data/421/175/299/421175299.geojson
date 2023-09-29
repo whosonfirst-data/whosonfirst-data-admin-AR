@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.527135,
-    "geom:area_square_m":4970095713.465802,
+    "geom:area_square_m":4970095713.465731,
     "geom:bbox":"-71.831251,-40.6012729415,-70.5417652614,-40.022720283",
     "geom:latitude":-40.314314,
     "geom:longitude":-71.18465,
@@ -123,12 +123,13 @@
         "hasc:id":"AR.NQ.LA",
         "qs_pg:id":364639
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009062,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"949bd6269028a58fdec5e6848f99874c",
+    "wof:geomhash":"ec12fb33aafed82142654473bcda9d76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421175299,
-    "wof:lastmodified":1582358634,
+    "wof:lastmodified":1695886000,
     "wof:name":"Lacar",
     "wof:parent_id":85668011,
     "wof:placetype":"county",

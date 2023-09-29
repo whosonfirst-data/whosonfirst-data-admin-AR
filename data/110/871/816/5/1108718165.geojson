@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622429,
-    "geom:area_square_m":6663094070.960836,
+    "geom:area_square_m":6663094205.854711,
     "geom:bbox":"-63.943281,-30.475456,-62.155172,-29.643037",
     "geom:latitude":-30.032778,
     "geom:longitude":-63.222798,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CB.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852527,
-    "wof:geomhash":"6d76423d0ae6fb6853b4c4b19243334c",
+    "wof:geomhash":"c77da4ef7187203271c9767dac868f13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718165,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886014,
     "wof:name":"Rio Seco",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167323,
-    "geom:area_square_m":1826481289.145477,
+    "geom:area_square_m":1826480972.462056,
     "geom:bbox":"-66.093958,-28.354079,-65.729026,-27.624327",
     "geom:latitude":-28.018582,
     "geom:longitude":-65.922334,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852510,
-    "wof:geomhash":"9ec56299ed6248c1f7037085969917cb",
+    "wof:geomhash":"7622ab7f01b559a7db05b76f5ae940ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108718141,
-    "wof:lastmodified":1636502785,
+    "wof:lastmodified":1695886075,
     "wof:name":"Ambato",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

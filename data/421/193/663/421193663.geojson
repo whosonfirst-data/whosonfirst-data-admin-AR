@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.487387,
-    "geom:area_square_m":5247588630.921006,
+    "geom:area_square_m":5247588829.513853,
     "geom:bbox":"-59.660195,-30.026868,-58.767767,-29.033956",
     "geom:latitude":-29.45518,
     "geom:longitude":-59.2442,
@@ -117,12 +117,13 @@
         "hasc:id":"AR.CN.GO",
         "qs_pg:id":59541
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"588319fc7a2e95c6f9cf5b589fedac60",
+    "wof:geomhash":"205468b4fda19822c3d6b28eecbe8538",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421193663,
-    "wof:lastmodified":1636502803,
+    "wof:lastmodified":1695886078,
     "wof:name":"Goya",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

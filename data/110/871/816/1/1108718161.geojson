@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.071368,
-    "geom:area_square_m":22710043003.722115,
+    "geom:area_square_m":22710042803.759586,
     "geom:bbox":"-69.094553,-28.387268,-66.850902,-26.700219",
     "geom:latitude":-27.539963,
     "geom:longitude":-67.929526,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CT.TI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852518,
-    "wof:geomhash":"d64519eb845606ac5e6b76c5c81b7403",
+    "wof:geomhash":"0963fc5ec67d5be02bd87a23bd4f40d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108718161,
-    "wof:lastmodified":1636502779,
+    "wof:lastmodified":1695886071,
     "wof:name":"Tinogasta",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

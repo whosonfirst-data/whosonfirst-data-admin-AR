@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324602,
-    "geom:area_square_m":3586617175.810991,
+    "geom:area_square_m":3586617405.32089,
     "geom:bbox":"-54.275039,-27.176323,-53.659943,-26.326129",
     "geom:latitude":-26.672721,
     "geom:longitude":-53.952486,
@@ -217,12 +217,13 @@
         "hasc:id":"AR.MN.SP",
         "qs_pg:id":507446
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f21085894a61a59ff0efb0678f76c48f",
+    "wof:geomhash":"3f2c6793ae8228d9bff31d7ab614a52c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -232,7 +233,7 @@
         }
     ],
     "wof:id":421199907,
-    "wof:lastmodified":1636502819,
+    "wof:lastmodified":1695886081,
     "wof:name":"San Pedro",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

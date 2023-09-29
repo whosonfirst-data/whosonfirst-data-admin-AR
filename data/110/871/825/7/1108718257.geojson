@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26661,
-    "geom:area_square_m":2786258809.223236,
+    "geom:area_square_m":2786258809.223316,
     "geom:bbox":"-59.5345269156,-32.70478138,-59.0597617259,-31.904116764",
     "geom:latitude":-32.309158,
     "geom:longitude":-59.279216,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852568,
-    "wof:geomhash":"adf00878ecdd7b511a6de980a6fd680e",
+    "wof:geomhash":"96c2bb3a1ab155c19e40ea1aa24d0063",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108718257,
-    "wof:lastmodified":1566587996,
+    "wof:lastmodified":1695886665,
     "wof:name":"Tala",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

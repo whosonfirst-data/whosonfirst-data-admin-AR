@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21839,
-    "geom:area_square_m":2210424262.862732,
+    "geom:area_square_m":2210424262.862711,
     "geom:bbox":"-60.8702530749,-35.4138227265,-60.31810821,-34.6443214961",
     "geom:latitude":-35.060372,
     "geom:longitude":-60.604652,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852445,
-    "wof:geomhash":"548da687c7e31e9457891c908e370c1a",
+    "wof:geomhash":"90ce18aad317e8aaa31ad883192b10fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108717881,
-    "wof:lastmodified":1566588012,
+    "wof:lastmodified":1695886667,
     "wof:name":"Bragado",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

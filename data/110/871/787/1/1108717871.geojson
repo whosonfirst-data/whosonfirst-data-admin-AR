@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.545911,
-    "geom:area_square_m":5349246537.955674,
+    "geom:area_square_m":5349246685.833909,
     "geom:bbox":"-60.499536,-37.991747,-59.226853,-37.177006",
     "geom:latitude":-37.58503,
     "geom:longitude":-59.888989,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852443,
-    "wof:geomhash":"de5d464692a3201e74de968a2a92fdd4",
+    "wof:geomhash":"05d92e4aef57eebadbd89f76265630da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717871,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Benito Juarez",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

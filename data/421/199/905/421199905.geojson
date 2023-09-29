@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.746316,
-    "geom:area_square_m":15581488930.120275,
+    "geom:area_square_m":15581488930.119667,
     "geom:bbox":"-67.7737926218,-44.7185121709,-66.4307971839,-42.8730933542",
     "geom:latitude":-43.812879,
     "geom:longitude":-67.240307,
@@ -121,12 +121,13 @@
         "hasc:id":"AR.CH.MA",
         "qs_pg:id":507445
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94f02d4b2c53c644db15e9f9a1dd6a13",
+    "wof:geomhash":"fe99c5e3f711e10222c930cb8448ad72",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421199905,
-    "wof:lastmodified":1582358637,
+    "wof:lastmodified":1695886002,
     "wof:name":"Martires",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

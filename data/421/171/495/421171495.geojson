@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.863888,
-    "geom:area_square_m":9441477375.72595,
+    "geom:area_square_m":9441477375.725365,
     "geom:bbox":"-57.629905847,-28.5729602005,-55.8039618561,-27.302777",
     "geom:latitude":-27.887449,
     "geom:longitude":-56.787334,
@@ -122,12 +122,13 @@
         "hasc:id":"AR.CN.IZ",
         "qs_pg:id":1251776
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a9e603739124e0535f4cb9f546f0d90",
+    "wof:geomhash":"6ac9f4960bb211c013f4b89724f1cace",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421171495,
-    "wof:lastmodified":1582358644,
+    "wof:lastmodified":1695886005,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

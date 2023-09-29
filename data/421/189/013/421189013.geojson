@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056423,
-    "geom:area_square_m":612557356.513581,
+    "geom:area_square_m":612556755.661485,
     "geom:bbox":"-65.849911,-28.816513,-65.564642,-28.415355",
     "geom:latitude":-28.599023,
     "geom:longitude":-65.707279,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CT.VV",
         "qs_pg:id":1109545
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009601,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7da72503ca1866ddf3d0a9318be2cdf0",
+    "wof:geomhash":"ee6b7e080a9f1f235100868356d4960e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421189013,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886017,
     "wof:name":"Valle Viejo",
     "wof:parent_id":85668035,
     "wof:placetype":"county",

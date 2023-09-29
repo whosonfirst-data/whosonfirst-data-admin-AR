@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016724,
-    "geom:area_square_m":169994024.602437,
+    "geom:area_square_m":169994024.602451,
     "geom:bbox":"-58.8657929391,-34.7788252586,-58.6385535258,-34.6366616646",
     "geom:latitude":-34.71134,
     "geom:longitude":-58.742158,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852484,
-    "wof:geomhash":"04229599bff79a635d9f7aa78b6ca8bb",
+    "wof:geomhash":"478a0092f73d8ce337c9722664b8fb63",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108718025,
-    "wof:lastmodified":1566587977,
+    "wof:lastmodified":1695886663,
     "wof:name":"Merlo",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

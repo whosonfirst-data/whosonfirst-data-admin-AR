@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.823921,
-    "geom:area_square_m":155765264917.221832,
+    "geom:area_square_m":155765264378.485718,
     "geom:bbox":"-68.56804,-26.41625,-62.332386,-21.999444",
     "geom:latitude":-24.298097,
     "geom:longitude":-64.813881,
@@ -418,17 +418,19 @@
         "gn:id":3838231,
         "gp:id":2344691,
         "hasc:id":"AR.SA",
+        "iso:code":"AR-A",
         "iso:id":"AR-A",
         "qs_pg:id":423556,
         "unlc:id":"AR-A",
         "wd:id":"Q44803",
         "wk:page":"Salta Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"669187f93fd134d342c2c6a7853d0c7b",
+    "wof:geomhash":"3434ee27ca4d49262b1cfccc1847f268",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -443,7 +445,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850550,
+    "wof:lastmodified":1695884942,
     "wof:name":"Salta",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

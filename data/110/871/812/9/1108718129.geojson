@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126689,
-    "geom:area_square_m":1259307071.667822,
+    "geom:area_square_m":1259307232.786271,
     "geom:bbox":"-63.125801,-36.736696,-62.600557,-36.248894",
     "geom:latitude":-36.497366,
     "geom:longitude":-62.86307,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852507,
-    "wof:geomhash":"12a3985abcdb4b3abb3a450d4ec05f54",
+    "wof:geomhash":"88132b8b7d3302757ee42caf7d8ea58f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718129,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Tres Lomas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

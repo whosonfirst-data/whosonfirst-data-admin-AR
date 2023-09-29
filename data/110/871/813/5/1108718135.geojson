@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01684,
-    "geom:area_square_m":165475989.514978,
+    "geom:area_square_m":165475826.346874,
     "geom:bbox":"-57.216977,-37.552382,-56.911278,-37.180799",
     "geom:latitude":-37.375326,
     "geom:longitude":-57.068723,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852509,
-    "wof:geomhash":"6676ac38b3724fb9da12ed896170e9f5",
+    "wof:geomhash":"e12cd0d67880ca4b2a3b6129b1aeead3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108718135,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886018,
     "wof:name":"Villa Gesell",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.03237,
-    "geom:area_square_m":10161693213.015503,
+    "geom:area_square_m":10161693213.015219,
     "geom:bbox":"-67.1138959924,-37.7108566111,-65.9566209781,-36.774960305",
     "geom:latitude":-37.24654,
     "geom:longitude":-66.536918,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LP.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852585,
-    "wof:geomhash":"bcbab116ce7ca12116c5ffdde3c9b11e",
+    "wof:geomhash":"5a2df68f783543387e4ee177b08a3957",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718305,
-    "wof:lastmodified":1566588007,
+    "wof:lastmodified":1695886666,
     "wof:name":"Limay Mahuida",
     "wof:parent_id":85668019,
     "wof:placetype":"county",

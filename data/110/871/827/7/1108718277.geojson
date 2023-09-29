@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043397,
-    "geom:area_square_m":489471338.043762,
+    "geom:area_square_m":489471093.581491,
     "geom:bbox":"-65.253538,-24.363249,-65.020267,-24.0145",
     "geom:latitude":-24.194242,
     "geom:longitude":-65.126127,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.JY.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852576,
-    "wof:geomhash":"a98e322a8571b63183d21c9c8701eb80",
+    "wof:geomhash":"2ef1bd8362d089a9720d1f83c3627b27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718277,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Palpala",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

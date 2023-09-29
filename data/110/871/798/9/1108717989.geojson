@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023581,
-    "geom:area_square_m":233814998.852541,
+    "geom:area_square_m":233815016.498114,
     "geom:bbox":"-56.818978,-37.03686,-56.667084,-36.292137",
     "geom:latitude":-36.688651,
     "geom:longitude":-56.718947,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852476,
-    "wof:geomhash":"ae3f75b4e096fbef5060ce9c900a2ad3",
+    "wof:geomhash":"a4d9dba85b61ad278f2284d09fe0dcea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108717989,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886006,
     "wof:name":"La Costa",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

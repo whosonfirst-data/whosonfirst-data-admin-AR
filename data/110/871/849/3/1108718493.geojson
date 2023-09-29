@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284947,
-    "geom:area_square_m":3093468549.187976,
+    "geom:area_square_m":3093468762.934835,
     "geom:bbox":"-64.628749,-29.008108,-63.891718,-28.22414",
     "geom:latitude":-28.600812,
     "geom:longitude":-64.316196,
@@ -171,9 +171,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852667,
-    "wof:geomhash":"b42b76434d3c5098db4f5ed0a1ab8024",
+    "wof:geomhash":"fd73ba1d827a8936415cd5bff655d732",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1108718493,
-    "wof:lastmodified":1636502785,
+    "wof:lastmodified":1695886076,
     "wof:name":"Loreto",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

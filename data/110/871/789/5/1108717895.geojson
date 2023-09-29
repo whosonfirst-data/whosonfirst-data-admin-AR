@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.387526,
-    "geom:area_square_m":3906946758.18247,
+    "geom:area_square_m":3906946758.182557,
     "geom:bbox":"-62.9016619837,-35.7879725942,-61.9078151478,-35.0112872233",
     "geom:latitude":-35.379305,
     "geom:longitude":-62.429933,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852449,
-    "wof:geomhash":"6c5237e5b149471b02e04b1bfb802306",
+    "wof:geomhash":"4bb5f782c83abd61857ecef15bae25a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108717895,
-    "wof:lastmodified":1566588015,
+    "wof:lastmodified":1695886667,
     "wof:name":"Carlos Tejedor",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

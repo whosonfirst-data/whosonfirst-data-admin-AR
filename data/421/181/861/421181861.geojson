@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233091,
-    "geom:area_square_m":2532120588.428938,
+    "geom:area_square_m":2532120588.42939,
     "geom:bbox":"-67.0285551423,-28.8514313149,-66.3517235875,-28.266502265",
     "geom:latitude":-28.533716,
     "geom:longitude":-66.719678,
@@ -124,12 +124,13 @@
         "hasc:id":"AR.LR.AR",
         "qs_pg:id":507437
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9052a50ff2148d965650aa0e0fe1a289",
+    "wof:geomhash":"bab41ff8c917a0f4b7f7f70cf1266115",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421181861,
-    "wof:lastmodified":1582358633,
+    "wof:lastmodified":1695885999,
     "wof:name":"Arauco",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

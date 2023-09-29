@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.8089,
-    "geom:area_square_m":8467384009.420234,
+    "geom:area_square_m":8467384007.976387,
     "geom:bbox":"-67.476174,-32.756058,-65.683331,-31.833473",
     "geom:latitude":-32.161103,
     "geom:longitude":-66.570757,
@@ -201,12 +201,13 @@
         "hasc:id":"AR.SL.AY",
         "qs_pg:id":1251745
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008895,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b0103ad91f594190c76d4b3ad37068b",
+    "wof:geomhash":"1f4af9ef1e17557b2492c6c0067eaf01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":421171473,
-    "wof:lastmodified":1636502827,
+    "wof:lastmodified":1695886083,
     "wof:name":"Ayacucho",
     "wof:parent_id":85668029,
     "wof:placetype":"county",

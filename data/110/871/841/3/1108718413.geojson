@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.046011,
-    "geom:area_square_m":11862266603.368912,
+    "geom:area_square_m":11862266581.480127,
     "geom:bbox":"-65.153873,-24.203947,-63.389408,-22.45382",
     "geom:latitude":-23.487478,
     "geom:longitude":-64.163153,
@@ -304,9 +304,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SA.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852635,
-    "wof:geomhash":"f5d812833a9ac70ccb0723242a26e121",
+    "wof:geomhash":"8f96996091cd0d6f0b8a04af2c933191",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -316,7 +317,7 @@
         }
     ],
     "wof:id":1108718413,
-    "wof:lastmodified":1636502783,
+    "wof:lastmodified":1695886074,
     "wof:name":"Oran",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250148,
-    "geom:area_square_m":2802294268.874086,
+    "geom:area_square_m":2802294405.483128,
     "geom:bbox":"-66.607052,-25.313205,-65.841349,-24.750625",
     "geom:latitude":-25.044861,
     "geom:longitude":-66.195655,
@@ -126,12 +126,13 @@
         "hasc:id":"AR.SA.CA",
         "qs_pg:id":425254
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008703,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5754bfd4c3f306ed47162127fec1ae8",
+    "wof:geomhash":"9ef98120a7a6d38551ecd38d90c05824",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421166803,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885995,
     "wof:name":"Cachi",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

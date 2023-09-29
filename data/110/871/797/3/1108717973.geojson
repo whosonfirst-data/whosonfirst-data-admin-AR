@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.712361,
-    "geom:area_square_m":7235951610.034386,
+    "geom:area_square_m":7235951610.034365,
     "geom:bbox":"-63.3904824674,-35.3631527658,-62.2698661344,-34.3758626169",
     "geom:latitude":-34.766462,
     "geom:longitude":-62.949085,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852470,
-    "wof:geomhash":"0a5e37abad797350232a7acc3a7360e3",
+    "wof:geomhash":"6e9d3e3b80a74f507a5ade3e5a36f5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108717973,
-    "wof:lastmodified":1566587947,
+    "wof:lastmodified":1695886661,
     "wof:name":"General Villegas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

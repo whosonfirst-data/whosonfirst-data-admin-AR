@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083221,
-    "geom:area_square_m":913123256.041963,
+    "geom:area_square_m":913123256.041938,
     "geom:bbox":"-55.8079355963,-27.6222930536,-55.2827162487,-27.2855302993",
     "geom:latitude":-27.457478,
     "geom:longitude":-55.582016,
@@ -154,12 +154,13 @@
         "hasc:id":"AR.MN.CD",
         "qs_pg:id":230377
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010145,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"115ddcb25c8492b22bd5bee22737474a",
+    "wof:geomhash":"3d51931566e344847234a1945366863a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421203247,
-    "wof:lastmodified":1582358627,
+    "wof:lastmodified":1695885996,
     "wof:name":"Candelaria",
     "wof:parent_id":85668079,
     "wof:placetype":"county",

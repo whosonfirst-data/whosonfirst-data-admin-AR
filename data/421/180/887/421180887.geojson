@@ -209,6 +209,7 @@
         "qs_pg:id":466936,
         "wd:id":"Q4810370"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009274,
     "wof:geom_alt":[
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":421180887,
-    "wof:lastmodified":1694639689,
+    "wof:lastmodified":1695885997,
     "wof:name":"Capital",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

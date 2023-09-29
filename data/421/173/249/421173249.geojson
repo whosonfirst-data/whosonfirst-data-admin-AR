@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067069,
-    "geom:area_square_m":734914769.846517,
+    "geom:area_square_m":734915033.21814,
     "geom:bbox":"-65.975352,-27.827388,-65.514262,-27.425249",
     "geom:latitude":-27.605328,
     "geom:longitude":-65.781999,
@@ -356,12 +356,13 @@
         "qs_pg:id":285765,
         "wd:id":"Q722738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008976,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0b65dceee0ccc9d8285f90a52303457",
+    "wof:geomhash":"c481d0a28b3c82e0fd4e27f2ea94f69b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -371,7 +372,7 @@
         }
     ],
     "wof:id":421173249,
-    "wof:lastmodified":1690850637,
+    "wof:lastmodified":1695885997,
     "wof:name":"Juan Bautista Alberdi",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

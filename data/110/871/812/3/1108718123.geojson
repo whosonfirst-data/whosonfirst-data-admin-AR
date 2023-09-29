@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549976,
-    "geom:area_square_m":5497843521.113398,
+    "geom:area_square_m":5497843521.11307,
     "geom:bbox":"-63.2060000492,-36.5647771091,-62.0833824008,-35.5493063641",
     "geom:latitude":-36.055786,
     "geom:longitude":-62.634051,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852506,
-    "wof:geomhash":"3dc44d99a0a55d8774dd2b121e26a2f1",
+    "wof:geomhash":"9e08e0a08f0517d0343b30e6d8c3377a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108718123,
-    "wof:lastmodified":1566587989,
+    "wof:lastmodified":1695886664,
     "wof:name":"Trenque Lauquen",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

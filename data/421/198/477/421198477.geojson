@@ -101,6 +101,7 @@
         "hasc:id":"AR.SC.LA",
         "qs_pg:id":425258
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009949,
     "wof:geom_alt":[
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421198477,
-    "wof:lastmodified":1694492503,
+    "wof:lastmodified":1695886000,
     "wof:name":"Rio Chico",
     "wof:parent_id":85667991,
     "wof:placetype":"county",

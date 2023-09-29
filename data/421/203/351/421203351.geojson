@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.276937,
-    "geom:area_square_m":2943587560.672619,
+    "geom:area_square_m":2943587701.551188,
     "geom:bbox":"-64.439459,-31.034346,-63.583101,-30.411098",
     "geom:latitude":-30.728153,
     "geom:longitude":-63.983312,
@@ -96,12 +96,13 @@
         "hasc:id":"AR.CB.TO",
         "qs_pg:id":59529
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010148,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d038d91581720579bd597e2e2ee32637",
+    "wof:geomhash":"99f6580de9f674fb6beaa026f6cfb6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421203351,
-    "wof:lastmodified":1627521498,
+    "wof:lastmodified":1695886017,
     "wof:name":"Totoral",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081404,
-    "geom:area_square_m":916321545.73474,
+    "geom:area_square_m":916321545.734755,
     "geom:bbox":"-65.3670005384,-24.597108578,-64.8570952818,-24.3125564117",
     "geom:latitude":-24.447927,
     "geom:longitude":-65.10026,
@@ -136,12 +136,13 @@
         "hasc:id":"AR.JY.EC",
         "qs_pg:id":1251760
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008886,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"daba67cbffcaca4020055589c0317237",
+    "wof:geomhash":"79f6530b0c20474b43df0bd4e9e130aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421171243,
-    "wof:lastmodified":1582358642,
+    "wof:lastmodified":1695886004,
     "wof:name":"El Carmen",
     "wof:parent_id":85668041,
     "wof:placetype":"county",

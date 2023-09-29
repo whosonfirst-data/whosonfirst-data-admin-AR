@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.38916,
-    "geom:area_square_m":4168161148.298239,
+    "geom:area_square_m":4168161450.168184,
     "geom:bbox":"-59.712403,-30.434572,-58.670037,-29.435256",
     "geom:latitude":-29.979725,
     "geom:longitude":-59.201121,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.CN.ES",
         "qs_pg:id":59535
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009677,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e7553844f01b24a5f9764de1f62f19f",
+    "wof:geomhash":"b4d600e6fbeeeaadb0c4525e92a56172",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191007,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1695886001,
     "wof:name":"Esquina",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

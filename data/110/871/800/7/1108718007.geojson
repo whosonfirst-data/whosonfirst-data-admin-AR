@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170466,
-    "geom:area_square_m":1722003095.700179,
+    "geom:area_square_m":1722003406.178148,
     "geom:bbox":"-59.552594,-35.434617,-58.810016,-34.959942",
     "geom:latitude":-35.219217,
     "geom:longitude":-59.145479,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852480,
-    "wof:geomhash":"87e46fcae3ace743a900de062406a133",
+    "wof:geomhash":"ac94327cb449ca6e9ae6c480e6b0d53a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108718007,
-    "wof:lastmodified":1636502786,
+    "wof:lastmodified":1695886076,
     "wof:name":"Lobos",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

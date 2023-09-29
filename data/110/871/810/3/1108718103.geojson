@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065923,
-    "geom:area_square_m":679882764.328974,
+    "geom:area_square_m":679882476.410767,
     "geom:bbox":"-60.458608,-33.679178,-60.160885,-33.257463",
     "geom:latitude":-33.481823,
     "geom:longitude":-60.292863,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852501,
-    "wof:geomhash":"6723b18d8f82919104c24083573053f3",
+    "wof:geomhash":"c3d82365c0f3f032e7e365312e9f6d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718103,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886016,
     "wof:name":"San Nicolas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

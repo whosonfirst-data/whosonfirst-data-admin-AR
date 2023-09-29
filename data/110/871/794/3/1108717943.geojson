@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146021,
-    "geom:area_square_m":1492693227.213362,
+    "geom:area_square_m":1492693854.630143,
     "geom:bbox":"-61.65,-34.454685,-60.919391,-34.024606",
     "geom:latitude":-34.237551,
     "geom:longitude":-61.283978,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852459,
-    "wof:geomhash":"cbcad97b0fa2f70faacffce5196f1816",
+    "wof:geomhash":"ce7ad47cc6d723a98741d5ad53492362",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717943,
-    "wof:lastmodified":1627521484,
+    "wof:lastmodified":1695886002,
     "wof:name":"General Arenales",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

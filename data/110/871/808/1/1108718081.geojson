@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361132,
-    "geom:area_square_m":3529767256.135802,
+    "geom:area_square_m":3529767256.136036,
     "geom:bbox":"-62.892693828,-38.1336232832,-62.0446664976,-37.3486319963",
     "geom:latitude":-37.771246,
     "geom:longitude":-62.435718,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852496,
-    "wof:geomhash":"7f746ff0a6efc3741b3adae12f378988",
+    "wof:geomhash":"dcfe07005cc0780e36920205cf9aa2db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108718081,
-    "wof:lastmodified":1566588006,
+    "wof:lastmodified":1695886666,
     "wof:name":"Saavedra",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

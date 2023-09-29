@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":25.097132,
-    "geom:area_square_m":223981691461.389252,
+    "geom:area_square_m":223981690914.213348,
     "geom:bbox":"-72.189307,-46.007592,-63.583752,-41.991118",
     "geom:latitude":-43.789395,
     "geom:longitude":-68.52612,
@@ -436,17 +436,19 @@
         "gn:id":3861244,
         "gp:id":2344678,
         "hasc:id":"AR.CH",
+        "iso:code":"AR-U",
         "iso:id":"AR-U",
         "qs_pg:id":901855,
         "unlc:id":"AR-U",
         "wd:id":"Q45007",
         "wk:page":"Chubut Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df9ef59ad028e86696fc746cacbb50c6",
+    "wof:geomhash":"711dfc5e3b88c6f4f2df2742ec71c224",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -461,7 +463,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850546,
+    "wof:lastmodified":1695884941,
     "wof:name":"Chubut",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

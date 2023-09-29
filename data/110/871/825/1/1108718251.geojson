@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.694075,
-    "geom:area_square_m":7197373194.59327,
+    "geom:area_square_m":7197373262.815577,
     "geom:bbox":"-59.294068,-33.473744,-58.139714,-32.450447",
     "geom:latitude":-33.004261,
     "geom:longitude":-58.797058,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.ER.GC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852564,
-    "wof:geomhash":"2e2bcc144924fa9033c943ae1b50390a",
+    "wof:geomhash":"896dc86ee05eaa8fbb9a3dbd5d746330",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718251,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"Gualeguaychu",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

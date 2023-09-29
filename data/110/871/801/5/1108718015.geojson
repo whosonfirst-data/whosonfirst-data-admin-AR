@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006123,
-    "geom:area_square_m":62406938.698267,
+    "geom:area_square_m":62406958.741903,
     "geom:bbox":"-58.781466,-34.531774,-58.648953,-34.439548",
     "geom:latitude":-34.487165,
     "geom:longitude":-58.711921,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852483,
-    "wof:geomhash":"3bd1dfe8feb2bdf171ca8d31e33761a3",
+    "wof:geomhash":"6c3b4a034d171d1cde9f4b726bb99f06",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718015,
-    "wof:lastmodified":1627521490,
+    "wof:lastmodified":1695886009,
     "wof:name":"Malvinas Argentinas",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

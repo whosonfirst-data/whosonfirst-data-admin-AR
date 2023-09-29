@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098739,
-    "geom:area_square_m":1110432848.305152,
+    "geom:area_square_m":1110433286.071897,
     "geom:bbox":"-65.718469,-24.729469,-65.177333,-24.375778",
     "geom:latitude":-24.563102,
     "geom:longitude":-65.436962,
@@ -147,12 +147,13 @@
         "wd:id":"Q1190675",
         "wk:page":"La Caldera Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"723ad8ad0ba19be3d25c07c942f5dd9d",
+    "wof:geomhash":"802783e60a4c300068ce957f7f623676",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421187151,
-    "wof:lastmodified":1690850632,
+    "wof:lastmodified":1695885997,
     "wof:name":"La Caldera",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

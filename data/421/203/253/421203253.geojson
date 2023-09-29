@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.029066,
-    "geom:area_square_m":10684293196.494976,
+    "geom:area_square_m":10684293196.494684,
     "geom:bbox":"-63.2452092991,-33.9044307904,-62.288954191,-31.9724763241",
     "geom:latitude":-32.892632,
     "geom:longitude":-62.799093,
@@ -203,12 +203,13 @@
         "hasc:id":"AR.CB.UN",
         "qs_pg:id":230379
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010145,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"833ef4596fae75769753abce90c34f36",
+    "wof:geomhash":"c5bb6772d9a9a8792c68f58e2bfd4ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":421203253,
-    "wof:lastmodified":1582358627,
+    "wof:lastmodified":1695885996,
     "wof:name":"Union",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

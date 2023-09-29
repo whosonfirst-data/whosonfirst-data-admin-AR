@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188418,
-    "geom:area_square_m":2066814656.160936,
+    "geom:area_square_m":2066814350.811905,
     "geom:bbox":"-65.029145,-27.746733,-64.445609,-27.149006",
     "geom:latitude":-27.487062,
     "geom:longitude":-64.7605,
@@ -125,12 +125,13 @@
         "hasc:id":"AR.SE.RH",
         "qs_pg:id":1069842
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009481,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea3bbd2cec05abcc75807a21106c25db",
+    "wof:geomhash":"74d6275f3f8d289096bf7d7f559dc10b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421186443,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886013,
     "wof:name":"Rio Hondo",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

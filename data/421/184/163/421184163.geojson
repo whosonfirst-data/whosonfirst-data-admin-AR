@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326825,
-    "geom:area_square_m":3523800291.894857,
+    "geom:area_square_m":3523800291.894997,
     "geom:bbox":"-63.0284213259,-29.6458795786,-61.948129234,-28.8730179059",
     "geom:latitude":-29.31237,
     "geom:longitude":-62.470579,
@@ -154,12 +154,13 @@
         "hasc:id":"AR.SE.AG",
         "qs_pg:id":989864
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009402,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c7997a86100a013336c5d703b3b9dffe",
+    "wof:geomhash":"cc57a9baeabb984b474981f2d556c0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421184163,
-    "wof:lastmodified":1582358638,
+    "wof:lastmodified":1695886003,
     "wof:name":"Aguirre",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

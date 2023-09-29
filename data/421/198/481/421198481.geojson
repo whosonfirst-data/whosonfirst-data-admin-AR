@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.49649,
-    "geom:area_square_m":5181063966.229864,
+    "geom:area_square_m":5181063966.229028,
     "geom:bbox":"-59.1141940889,-33.0404432499,-58.112912,-31.9728480327",
     "geom:latitude":-32.441499,
     "geom:longitude":-58.584725,
@@ -717,12 +717,13 @@
         "hasc:id":"AR.ER.UR",
         "qs_pg:id":425259
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009949,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f04b348d2cd4807e095dc88a7802121",
+    "wof:geomhash":"90b30fda2a81bd71bbcf366df389365b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -732,7 +733,7 @@
         }
     ],
     "wof:id":421198481,
-    "wof:lastmodified":1582358635,
+    "wof:lastmodified":1695886001,
     "wof:name":"Uruguay",
     "wof:parent_id":85668073,
     "wof:placetype":"county",

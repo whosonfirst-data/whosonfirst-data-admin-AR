@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306592,
-    "geom:area_square_m":3432912899.399806,
+    "geom:area_square_m":3432913201.16283,
     "geom:bbox":"-59.053315,-25.466035,-58.373499,-24.724048",
     "geom:latitude":-25.105448,
     "geom:longitude":-58.66031,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.FM.PG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852572,
-    "wof:geomhash":"d0021a1c4b0cd5d122206ed9b463bd0e",
+    "wof:geomhash":"fd3e83e87228b565e6b685bbd7162260",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718269,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Pilagas",
     "wof:parent_id":85668067,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.409997,
-    "geom:area_square_m":12865659244.260328,
+    "geom:area_square_m":12865658152.775166,
     "geom:bbox":"-65.973519,-42.877972,-63.583752,-41.992195",
     "geom:latitude":-42.444465,
     "geom:longitude":-64.936367,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"AR.CH.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852553,
-    "wof:geomhash":"4608fde5dd026ab68d15d1e15c7cf8f8",
+    "wof:geomhash":"d2554489c66bf8484f7cb0318b8921ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108718233,
-    "wof:lastmodified":1627521479,
+    "wof:lastmodified":1695885996,
     "wof:name":"Biedma",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

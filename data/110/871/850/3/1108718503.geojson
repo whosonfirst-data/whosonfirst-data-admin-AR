@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.351035,
-    "geom:area_square_m":3781970818.563017,
+    "geom:area_square_m":3781969965.288759,
     "geom:bbox":"-63.765526,-29.815141,-62.80433,-28.927574",
     "geom:latitude":-29.389494,
     "geom:longitude":-63.335786,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.SE.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852670,
-    "wof:geomhash":"8289b30fb644464972e8254fd48b9fe1",
+    "wof:geomhash":"493b640b5632620c1c2ee34a00644e94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718503,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886013,
     "wof:name":"Quebrachos",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

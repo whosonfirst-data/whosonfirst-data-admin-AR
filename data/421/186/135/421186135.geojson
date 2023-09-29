@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484146,
-    "geom:area_square_m":5047531133.513486,
+    "geom:area_square_m":5047530738.453363,
     "geom:bbox":"-63.582806,-33.16225,-62.850744,-31.999672",
     "geom:latitude":-32.525155,
     "geom:longitude":-63.257296,
@@ -101,12 +101,13 @@
         "hasc:id":"AR.CB.GM",
         "qs_pg:id":911462
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009471,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35fd3ee6ded7c25d92e698f4b8ea1eca",
+    "wof:geomhash":"3835851aca51494c21af5ae2c808f0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421186135,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886016,
     "wof:name":"General San Martin",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.416169,
-    "geom:area_square_m":13375766024.743702,
+    "geom:area_square_m":13375765670.467299,
     "geom:bbox":"-63.388829,-41.037918,-62.197083,-39.325602",
     "geom:latitude":-40.194322,
     "geom:longitude":-62.860295,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852489,
-    "wof:geomhash":"e01f9a3df957368ded2a06274445e608",
+    "wof:geomhash":"0037e93f353645311004b2929f2b2b00",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108718045,
-    "wof:lastmodified":1627521492,
+    "wof:lastmodified":1695886011,
     "wof:name":"Patagones",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

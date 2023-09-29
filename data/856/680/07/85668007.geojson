@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.657537,
-    "geom:area_square_m":149093466881.69754,
+    "geom:area_square_m":149093466027.382904,
     "geom:bbox":"-70.58369,-37.574084,-66.478547,-31.996774",
     "geom:latitude":-34.63014,
     "geom:longitude":-68.583055,
@@ -435,17 +435,19 @@
         "gn:id":3844419,
         "gp:id":2344687,
         "hasc:id":"AR.MZ",
+        "iso:code":"AR-M",
         "iso:id":"AR-M",
         "qs_pg:id":1131206,
         "unlc:id":"AR-M",
         "wd:id":"Q44797",
         "wk:page":"Mendoza Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b3b0b5d590e13e60cc538d65b84b67f",
+    "wof:geomhash":"5aed29612c6dd63be539698ab4ef3f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -460,7 +462,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850545,
+    "wof:lastmodified":1695884941,
     "wof:name":"Mendoza",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01272,
-    "geom:area_square_m":140407680.635904,
+    "geom:area_square_m":140407680.635901,
     "geom:bbox":"-65.4329002375,-26.836290095,-65.252793365,-26.7314679416",
     "geom:latitude":-26.787902,
     "geom:longitude":-65.337654,
@@ -132,12 +132,13 @@
         "hasc:id":"AR.TM.YB",
         "qs_pg:id":237439
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459010172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de108a16a900ee3b44aa00f4bc9a13f8",
+    "wof:geomhash":"a748fbaaf8de306c1c01acf2cd33e9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421204063,
-    "wof:lastmodified":1582358626,
+    "wof:lastmodified":1695885996,
     "wof:name":"Yerba Buena",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

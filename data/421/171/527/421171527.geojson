@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.625903,
-    "geom:area_square_m":22822207161.030392,
+    "geom:area_square_m":22822206455.748219,
     "geom:bbox":"-72.076529,-46.007521,-69.62685,-44.649605",
     "geom:latitude":-45.340603,
     "geom:longitude":-70.640633,
@@ -97,12 +97,13 @@
         "hasc:id":"AR.CH.RS",
         "qs_pg:id":1251895
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008897,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03138fbe922b6d98fc2654feb9e0f03f",
+    "wof:geomhash":"a3a49f5af28499a829539b2f1c647ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421171527,
-    "wof:lastmodified":1627521494,
+    "wof:lastmodified":1695886013,
     "wof:name":"Rio Senguer",
     "wof:parent_id":85668001,
     "wof:placetype":"county",

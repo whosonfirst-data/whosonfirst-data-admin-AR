@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181211,
-    "geom:area_square_m":1876435890.845743,
+    "geom:area_square_m":1876435362.790307,
     "geom:bbox":"-60.998964,-33.36457,-60.339547,-32.830043",
     "geom:latitude":-33.13,
     "geom:longitude":-60.710984,
@@ -117,12 +117,13 @@
         "hasc:id":"AR.SF.RO",
         "qs_pg:id":1251814
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93c341045dceb73e29b9956a2b777555",
+    "wof:geomhash":"af3d39761de1d1f3236cf8354f53544c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421171509,
-    "wof:lastmodified":1636502827,
+    "wof:lastmodified":1695886084,
     "wof:name":"Rosario",
     "wof:parent_id":85668077,
     "wof:placetype":"county",

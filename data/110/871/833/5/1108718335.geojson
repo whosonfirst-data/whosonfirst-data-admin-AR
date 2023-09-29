@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.405765,
-    "geom:area_square_m":4309636267.650441,
+    "geom:area_square_m":4309636374.232325,
     "geom:bbox":"-67.508297,-31.105852,-66.326851,-30.509718",
     "geom:latitude":-30.801406,
     "geom:longitude":-66.867539,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.GQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852595,
-    "wof:geomhash":"5ff3551516f9eef470c2c7b1b81926e9",
+    "wof:geomhash":"7723c5d97b8dd9d4b502c20c79261344",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108718335,
-    "wof:lastmodified":1627521485,
+    "wof:lastmodified":1695886003,
     "wof:name":"General Juan F. Quiroga",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.338807,
-    "geom:area_square_m":3718281144.145782,
+    "geom:area_square_m":3718281144.145689,
     "geom:bbox":"-64.6148678264,-27.81139171,-63.8449658806,-27.0640718846",
     "geom:latitude":-27.433441,
     "geom:longitude":-64.198547,
@@ -193,12 +193,13 @@
         "hasc:id":"AR.SE.BA",
         "qs_pg:id":989863
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009402,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3cca41d8c8025f3d0f5de86b6eab2661",
+    "wof:geomhash":"0f28762dc1657d9e51f7fb572b2b9feb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":421184161,
-    "wof:lastmodified":1582358638,
+    "wof:lastmodified":1695886002,
     "wof:name":"Banda",
     "wof:parent_id":85668053,
     "wof:placetype":"county",

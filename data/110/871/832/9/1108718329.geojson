@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382998,
-    "geom:area_square_m":4154180532.513445,
+    "geom:area_square_m":4154180532.513336,
     "geom:bbox":"-67.8777212766,-29.0156929214,-67.1699384826,-28.2982837811",
     "geom:latitude":-28.695628,
     "geom:longitude":-67.558653,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.LR.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852594,
-    "wof:geomhash":"c9a6c54bb7905e1035c6243e1749509a",
+    "wof:geomhash":"dd88d9d4700cf6553e7ec2fc6530e91c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108718329,
-    "wof:lastmodified":1566587972,
+    "wof:lastmodified":1695886663,
     "wof:name":"Famatina",
     "wof:parent_id":85668045,
     "wof:placetype":"county",

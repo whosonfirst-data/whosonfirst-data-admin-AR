@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158497,
-    "geom:area_square_m":1619606128.444451,
+    "geom:area_square_m":1619606128.444503,
     "geom:bbox":"-60.5768724348,-34.497927795,-59.9716995248,-33.9975391766",
     "geom:latitude":-34.269902,
     "geom:longitude":-60.305033,
@@ -156,9 +156,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852497,
-    "wof:geomhash":"a17c10e7681ff7fae51100feebb6852a",
+    "wof:geomhash":"4879bfaf143fe9fb6599169fbe1b5111",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1108718085,
-    "wof:lastmodified":1566588006,
+    "wof:lastmodified":1695886666,
     "wof:name":"Salto",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

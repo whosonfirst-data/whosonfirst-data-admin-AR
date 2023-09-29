@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032197,
-    "geom:area_square_m":327036061.221664,
+    "geom:area_square_m":327036130.518908,
     "geom:bbox":"-58.767526,-34.913339,-58.460092,-34.630322",
     "geom:latitude":-34.770401,
     "geom:longitude":-58.626367,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852476,
-    "wof:geomhash":"5ec5239b1eb80967c28c38cb5e3e8748",
+    "wof:geomhash":"410b3e0a675f2986e6c09f780d44f9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108717991,
-    "wof:lastmodified":1627521488,
+    "wof:lastmodified":1695886006,
     "wof:name":"La Matanza",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

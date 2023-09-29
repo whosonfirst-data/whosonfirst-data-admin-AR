@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060126,
-    "geom:area_square_m":660457881.990292,
+    "geom:area_square_m":660457881.990368,
     "geom:bbox":"-58.3513459024,-27.4194133761,-57.7900703046,-27.265555",
     "geom:latitude":-27.333205,
     "geom:longitude":-58.087936,
@@ -152,12 +152,13 @@
         "hasc:id":"AR.CN.IT",
         "qs_pg:id":1024480
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009442,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51caef65bce215fa07b8d8c81b64c5f3",
+    "wof:geomhash":"4c670daa0fd58a9c6d009b287a3d1102",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421185417,
-    "wof:lastmodified":1582358645,
+    "wof:lastmodified":1695886005,
     "wof:name":"Itati",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

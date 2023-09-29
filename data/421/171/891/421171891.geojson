@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027211,
-    "geom:area_square_m":298859952.674513,
+    "geom:area_square_m":298860020.463443,
     "geom:bbox":"-58.67523,-27.449802,-58.337575,-27.283889",
     "geom:latitude":-27.347621,
     "geom:longitude":-58.518905,
@@ -118,12 +118,13 @@
         "hasc:id":"AR.CN.SC",
         "qs_pg:id":1273382
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008911,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5523c71b1f4cfa717455201e2be3b80c",
+    "wof:geomhash":"68e26c602f81ec01e81f6fd337a952a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421171891,
-    "wof:lastmodified":1627521496,
+    "wof:lastmodified":1695886015,
     "wof:name":"San Cosme",
     "wof:parent_id":85668071,
     "wof:placetype":"county",

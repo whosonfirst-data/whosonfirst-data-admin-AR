@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087336,
-    "geom:area_square_m":955337441.764691,
+    "geom:area_square_m":955337519.377566,
     "geom:bbox":"-65.766217,-28.01455,-65.417568,-27.608553",
     "geom:latitude":-27.793438,
     "geom:longitude":-65.598025,
@@ -131,12 +131,13 @@
         "qs_pg:id":285766,
         "wd:id":"Q663822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008976,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cff9d0f7d4df27d0570fe2cc6b6b0007",
+    "wof:geomhash":"a54e7170508877ae4acf3d848931b57b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421173251,
-    "wof:lastmodified":1690850634,
+    "wof:lastmodified":1695885997,
     "wof:name":"La Cocha",
     "wof:parent_id":85668059,
     "wof:placetype":"county",

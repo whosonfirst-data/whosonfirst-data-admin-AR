@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029726,
-    "geom:area_square_m":303541042.808021,
+    "geom:area_square_m":303541072.752374,
     "geom:bbox":"-58.900703,-34.456714,-58.652187,-34.228482",
     "geom:latitude":-34.328227,
     "geom:longitude":-58.771118,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852456,
-    "wof:geomhash":"4dda7287ad6c661214f488b99fccd613",
+    "wof:geomhash":"a884d459e7fa15fb9f59bd54b0503e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108717925,
-    "wof:lastmodified":1627521483,
+    "wof:lastmodified":1695886001,
     "wof:name":"Escobar",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

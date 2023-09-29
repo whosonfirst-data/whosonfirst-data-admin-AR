@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126829,
-    "geom:area_square_m":1407907173.05722,
+    "geom:area_square_m":1407906722.689218,
     "geom:bbox":"-66.160174,-26.353423,-65.61,-25.876826",
     "geom:latitude":-26.13608,
     "geom:longitude":-65.85905,
@@ -173,12 +173,13 @@
         "qs_pg:id":364566,
         "wd:id":"Q1025501"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459009919,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da6d83d16492a6aa04deb4fad7517a07",
+    "wof:geomhash":"9961e2bd08c2cfc110c590b69d7d760a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421197591,
-    "wof:lastmodified":1690850706,
+    "wof:lastmodified":1695886081,
     "wof:name":"Cafayate",
     "wof:parent_id":85668049,
     "wof:placetype":"county",

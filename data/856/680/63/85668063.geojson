@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.019301,
-    "geom:area_square_m":99890954101.445328,
+    "geom:area_square_m":99890955447.502899,
     "geom:bbox":"-63.421328,-28.065875,-58.366811,-24.084817",
     "geom:latitude":-26.386847,
     "geom:longitude":-60.765141,
@@ -433,17 +433,19 @@
         "gn:id":3861887,
         "gp:id":2344677,
         "hasc:id":"AR.CC",
+        "iso:code":"AR-H",
         "iso:id":"AR-H",
         "qs_pg:id":1152405,
         "unlc:id":"AR-H",
         "wd:id":"Q44757",
         "wk:page":"Chaco Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"792a96c7e902c22433a63079593455a2",
+    "wof:geomhash":"81c5a2abf7b112e3b5205c5837bc1467",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -458,7 +460,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690850547,
+    "wof:lastmodified":1695884481,
     "wof:name":"Chaco",
     "wof:parent_id":85632505,
     "wof:placetype":"region",

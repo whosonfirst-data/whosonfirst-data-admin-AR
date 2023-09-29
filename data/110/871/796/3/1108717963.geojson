@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15029,
-    "geom:area_square_m":1465084764.26961,
+    "geom:area_square_m":1465084745.798836,
     "geom:bbox":"-58.049217,-38.24763,-57.520269,-37.698999",
     "geom:latitude":-37.966344,
     "geom:longitude":-57.742727,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.GP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852469,
-    "wof:geomhash":"e0018d0021cd12b8a4cb80abe81bccc4",
+    "wof:geomhash":"dd7d1d3d7277dd5adc297a94d28a9ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108717963,
-    "wof:lastmodified":1627521486,
+    "wof:lastmodified":1695886004,
     "wof:name":"General Pueyrredon",
     "wof:parent_id":85668015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298792,
-    "geom:area_square_m":3151784970.409872,
+    "geom:area_square_m":3151785339.039918,
     "geom:bbox":"-65.775233,-31.76298,-64.924311,-31.246475",
     "geom:latitude":-31.452026,
     "geom:longitude":-65.434125,
@@ -101,12 +101,13 @@
         "qs_pg:id":1251772,
         "wd:id":"Q7206332"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1459008896,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"687e916c9ba62fb047d22554641b4ee0",
+    "wof:geomhash":"a934ec6ec051173ba78d24c3885b9e58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421171491,
-    "wof:lastmodified":1627521493,
+    "wof:lastmodified":1695886012,
     "wof:name":"Pocho",
     "wof:parent_id":85668031,
     "wof:placetype":"county",

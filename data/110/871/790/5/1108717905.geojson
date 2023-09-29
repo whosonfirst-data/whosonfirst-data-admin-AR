@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.60763,
-    "geom:area_square_m":5865986157.789889,
+    "geom:area_square_m":5865986157.790442,
     "geom:bbox":"-61.7289376162,-38.996250153,-60.512483138,-38.2894258633",
     "geom:latitude":-38.672205,
     "geom:longitude":-61.094202,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"AR.BA.CD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AR",
     "wof:created":1475852451,
-    "wof:geomhash":"8f0b21c7c1d68b8858b8e4d65b795eaf",
+    "wof:geomhash":"083305af072afe29724fa1c13d1b71c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108717905,
-    "wof:lastmodified":1566587948,
+    "wof:lastmodified":1695886661,
     "wof:name":"Coronel Dorrego",
     "wof:parent_id":85668015,
     "wof:placetype":"county",
