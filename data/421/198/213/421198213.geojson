@@ -9,6 +9,20 @@
     "geom:bbox":"-65.096,-26.93347,-65.096,-26.93347",
     "geom:latitude":-26.93347,
     "geom:longitude":-65.096,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"90014.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"AR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3836920,
+    "gn:latitude":-26.93347,
+    "gn:longitude":-65.09601,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Tucuman",
     "iso:country":"AR",
     "lbl:bbox":"-65.116,-26.95347,-65.076,-26.91347",
     "lbl:max_zoom":18.0,
@@ -169,7 +183,12 @@
         "qs_pg:id":180553
     },
     "wof:concordances_alt":{
-        "qs_pg:id":583230
+        "gn:id":[
+            3836920
+        ],
+        "qs_pg:id":[
+            583230
+        ]
     },
     "wof:country":"AR",
     "wof:created":1459009940,
@@ -187,13 +206,15 @@
         }
     ],
     "wof:id":421198213,
-    "wof:lastmodified":1636502816,
+    "wof:lastmodified":1706239304,
     "wof:name":"San Miguel",
     "wof:parent_id":421172497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310470217
+    ],
     "wof:tags":[]
 },
   "bbox": [

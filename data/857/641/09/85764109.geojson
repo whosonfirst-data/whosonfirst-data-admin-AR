@@ -9,10 +9,13 @@
     "geom:bbox":"-58.463356,-34.583171,-58.439939,-34.566108",
     "geom:latitude":-34.574642,
     "geom:longitude":-58.450968,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.57365,
     "gn:longitude":-58.44924,
     "gn:population":57000,
     "iso:country":"AR",
+    "lbl:bbox":"-58.45424,-34.57865,-58.44424,-34.56865",
     "lbl:latitude":-34.574268,
     "lbl:longitude":-58.450791,
     "lbl:max_zoom":18.0,
@@ -26,6 +29,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:ceb_x_preferred":[
@@ -103,6 +107,26 @@
     "qs:woe_lau":0,
     "qs:woe_local":468739,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3435356,
+    "qs_pg:gn_pop":57000,
+    "qs_pg:name":"Colegiales",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Ciudad de Buenos Aires",
+    "qs_pg:photos":2866,
+    "qs_pg:photos_1k":581,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2866,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":147795,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":330165,
     "src:geom":"arg-caba",
     "src:geom_alt":[
         "quattroshapes"
@@ -110,6 +134,10 @@
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":945,
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Ciudad de Buenos Aires",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -124,6 +152,17 @@
         "qs_pg:id":147795,
         "wd:id":"Q1108064",
         "wk:page":"Colegiales"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3435356
+        ],
+        "gp:id":[
+            330165
+        ],
+        "qs_pg:id":[
+            147795
+        ]
     },
     "wof:country":"AR",
     "wof:geom_alt":[
@@ -144,7 +183,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690850539,
+    "wof:lastmodified":1706239303,
     "wof:name":"Colegiales",
     "wof:parent_id":1109371877,
     "wof:placetype":"neighbourhood",
@@ -152,7 +191,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064661
+    ],
     "wof:tags":[]
 },
   "bbox": [

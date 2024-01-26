@@ -9,9 +9,13 @@
     "geom:bbox":"-58.434923,-34.662055,-58.400834,-34.638099",
     "geom:latitude":-34.650544,
     "geom:longitude":-58.418853,
+    "gn:country":"AR",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.64952,
     "gn:longitude":-58.41671,
+    "gn:population":0,
     "iso:country":"AR",
+    "lbl:bbox":"-58.42171,-34.65452,-58.41171,-34.64452",
     "lbl:latitude":-34.651089,
     "lbl:longitude":-58.420882,
     "lbl:max_zoom":18.0,
@@ -25,6 +29,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
@@ -93,12 +98,36 @@
     "qs:woe_lau":0,
     "qs:woe_local":468739,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"AR",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3430387,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nueva Pompeya",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Ciudad de Buenos Aires",
+    "qs_pg:photos":771,
+    "qs_pg:photos_1k":156,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":771,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165531,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":331552,
     "src:geom":"arg-caba",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1459,
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Ciudad de Buenos Aires",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -113,6 +142,17 @@
         "qs_pg:id":1165531,
         "wd:id":"Q2004385",
         "wk:page":"Nueva Pompeya"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3430387
+        ],
+        "gp:id":[
+            331552
+        ],
+        "qs_pg:id":[
+            1165531
+        ]
     },
     "wof:country":"AR",
     "wof:geom_alt":[
@@ -133,13 +173,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690850534,
+    "wof:lastmodified":1706239303,
     "wof:name":"Nueva Pompeya",
     "wof:parent_id":1109371857,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064393
+    ],
     "wof:tags":[]
 },
   "bbox": [

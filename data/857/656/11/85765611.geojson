@@ -13,6 +13,7 @@
     "gn:latitude":-34.60502,
     "gn:longitude":-58.37607,
     "iso:country":"AR",
+    "lbl:bbox":"-58.378762,-34.613274,-58.368762,-34.603274",
     "lbl:latitude":-34.603686,
     "lbl:longitude":-58.380514,
     "lbl:max_zoom":18.0,
@@ -26,6 +27,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:cat_x_preferred":[
@@ -116,11 +118,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":468739,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"San Nicolas",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Ciudad de Buenos Aires",
+    "qs_pg:photos":16833,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":75,
+    "qs_pg:photos_9r":19,
+    "qs_pg:photos_all":16833,
+    "qs_pg:photos_sr":27,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":212295,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":22530019,
     "src:geom":"arg-caba",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Ciudad de Buenos Aires",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -136,6 +157,14 @@
         "qs_pg:id":212295,
         "wd:id":"Q2006239",
         "wk:page":"San Nicol\u00e1s, Buenos Aires"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22530019
+        ],
+        "qs_pg:id":[
+            212295
+        ]
     },
     "wof:country":"AR",
     "wof:geom_alt":[
@@ -156,13 +185,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1690850535,
+    "wof:lastmodified":1706239303,
     "wof:name":"San Nicolas",
     "wof:parent_id":1109371849,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126090985
+    ],
     "wof:tags":[]
 },
   "bbox": [
