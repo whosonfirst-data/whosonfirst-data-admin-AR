@@ -9,6 +9,20 @@
     "geom:bbox":"-65.8493,-25.96684,-65.8493,-25.96684",
     "geom:latitude":-25.96684,
     "geom:longitude":-65.8493,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"66154.0",
+    "gn:asciiname":"Corralito",
+    "gn:country_code":"AR",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3860080,
+    "gn:latitude":-25.96684,
+    "gn:longitude":-65.8493,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Corralito",
+    "gn:population":0,
+    "gn:timezone":"America/Argentina/Salta",
     "iso:country":"AR",
     "lbl:bbox":"-65.8693,-25.98684,-65.8293,-25.94684",
     "lbl:max_zoom":18.0,
@@ -87,7 +101,12 @@
         "wd:id":"Q1135266"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1270793
+        "gn:id":[
+            3860080
+        ],
+        "qs_pg:id":[
+            1270793
+        ]
     },
     "wof:country":"AR",
     "wof:created":1459008910,
@@ -105,13 +124,15 @@
         }
     ],
     "wof:id":421171873,
-    "wof:lastmodified":1582358641,
+    "wof:lastmodified":1706239303,
     "wof:name":"Corralito",
     "wof:parent_id":421202253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310276353
+    ],
     "wof:tags":[]
 },
   "bbox": [

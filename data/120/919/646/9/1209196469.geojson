@@ -72,6 +72,11 @@
         "gn:id":3838879,
         "wk:page":"R%C3%ADo_Colorado%2C_R%C3%ADo_Negro"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3838880
+        ]
+    },
     "wof:country":"AR",
     "wof:geomhash":"f82df23013efa14071606460fc484dfa",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1209196469,
-    "wof:lastmodified":1566587886,
+    "wof:lastmodified":1706239304,
     "wof:name":"Rio Colorado",
     "wof:parent_id":85632505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293567351
+    ],
     "wof:tags":[]
 },
   "bbox": [

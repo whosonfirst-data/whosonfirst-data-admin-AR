@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-58.8265,-28.84051,-58.8265,-28.84051",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09df\u09c7\u09ad\u09c7 \u09a6\u09c7 \u099c\u09c1\u09b2\u09bf\u0993"
@@ -89,14 +91,16 @@
         }
     ],
     "wof:id":1310398179,
-    "wof:lastmodified":1636502790,
+    "wof:lastmodified":1706239304,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",
     "wof:population":2671,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ar",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421196363
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,6 +9,20 @@
     "geom:bbox":"-58.8265,-28.84051,-58.8265,-28.84051",
     "geom:latitude":-28.84051,
     "geom:longitude":-58.8265,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"18091.0",
+    "gn:asciiname":"Nueve de Julio",
+    "gn:country_code":"AR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3430383,
+    "gn:latitude":-28.84051,
+    "gn:longitude":-58.8265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nueve de Julio",
+    "gn:population":2671,
+    "gn:timezone":"America/Argentina/Cordoba",
     "iso:country":"AR",
     "lbl:bbox":"-58.8465,-28.86051,-58.8065,-28.82051",
     "lbl:max_zoom":15.0,
@@ -107,7 +121,15 @@
         "wk:page":"Nueve de Julio, Corrientes"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1212410
+        "gn:id":[
+            3430383
+        ],
+        "qs_pg:id":[
+            1212410
+        ],
+        "wk:page":[
+            "Nueve_de_Julio%2C_Corrientes"
+        ]
     },
     "wof:country":"AR",
     "wof:created":1459009879,
@@ -125,7 +147,7 @@
         }
     ],
     "wof:id":421196363,
-    "wof:lastmodified":1636502816,
+    "wof:lastmodified":1706239304,
     "wof:name":"Nueve de Julio",
     "wof:parent_id":1108718179,
     "wof:placetype":"locality",
@@ -133,7 +155,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310398179
+    ],
     "wof:tags":[]
 },
   "bbox": [

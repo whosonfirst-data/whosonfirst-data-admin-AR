@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0646\u0648"
@@ -119,11 +120,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":466862,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Moreno",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Santa Fe",
+    "qs_pg:photos":1179,
+    "qs_pg:photos_1k":239,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1179,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":319710,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":331517,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Santa Fe",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85668077,
         102191577,
@@ -134,6 +154,14 @@
     "wof:concordances":{
         "gp:id":331517,
         "qs_pg:id":319710
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            331517
+        ],
+        "qs_pg:id":[
+            319710
+        ]
     },
     "wof:country":"AR",
     "wof:geom_alt":[
@@ -154,13 +182,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582358590,
+    "wof:lastmodified":1706239303,
     "wof:name":"Moreno",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ar",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126103053
+    ],
     "wof:tags":[]
 },
   "bbox": [
