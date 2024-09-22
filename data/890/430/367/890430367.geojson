@@ -458,20 +458,21 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"4",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
         85632505,
-        85668035,
-        421191005
+        421191005,
+        85668035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3838057,
         "gp:id":331840,
         "qs_pg:id":585517,
-        "wd:id":"Q975",
-        "wk:page":"San Antonio"
+        "wd:id":"Q7413301",
+        "wk:page":"San Antonio, Fray Mamerto Esqui\u00fa"
     },
     "wof:country":"AR",
     "wof:created":1469051850,
@@ -486,7 +487,7 @@
         }
     ],
     "wof:id":890430367,
-    "wof:lastmodified":1690850776,
+    "wof:lastmodified":1727036022,
     "wof:name":"San Antonio",
     "wof:parent_id":421191005,
     "wof:placetype":"locality",
